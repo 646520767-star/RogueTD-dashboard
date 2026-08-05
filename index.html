@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="多源原型筛选与手游适配证据业务看板">
+  <title>多源原型筛选｜业务看板</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+<div class="site-shell">
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="index.html"><span>多源原型筛选</span><strong>手游适配证据系统</strong><small>业务决策看板</small></a>
+    <nav aria-label="主导航">
+      <a href="#overview">机会判断</a>
+      <a href="#pools">正式分池</a>
+      <a href="#featured">代表产品</a>
+      <a href="#longboards">四项长板</a>
+      <a href="#baseline">首期基线</a>
+      <a href="#library">产品库</a>
+    </nav>
+    <div class="sidebar-note">
+      <strong>数据观察日</strong>
+      <span>TopData 2026-07-23</span>
+      <span>Steam 2026-07-24</span>
+      <small>页面用于筛选与判断，不把单次快照解释为前后期变化。</small>
+    </div>
+  </aside>
+  <main>
+    <header class="topbar">
+      <button class="menu-button" id="menu-button" aria-label="展开导航">☰</button>
+      <div class="topbar-title"><strong>业务看板</strong><span>数据观察日：TopData 2026-07-23 / Steam 2026-07-24</span></div>
+      <div class="topbar-time"><span>页面生成时间</span><b>2026-08-04T17:18:33+08:00</b></div>
+      <a class="top-search" href="#library">搜索产品</a>
+    </header>
+    <div class="page-wrap">
+      <section class="hero" id="overview">
+        <div class="hero-main">
+          <span class="eyebrow light">结论先行</span>
+          <h1 id="headline">正在加载业务机会结构</h1>
+          <p id="hero-intro"></p>
+          <div class="conclusion-list" id="conclusions"></div>
+        </div>
+        <div class="hero-metrics" id="hero-metrics"></div>
+      </section>
+
+      <div class="direction-slicer" id="direction-slicer" aria-label="PC 全局方向筛选">
+        <div>
+          <span class="eyebrow">全局方向</span>
+          <strong>按产品方向查看当前页面</strong>
+          <small>与分池、语义范围、证据状态、搜索、排序和分页条件取交集。</small>
+        </div>
+        <div class="direction-options" id="direction-options" role="group" aria-label="产品方向"></div>
+      </div>
+
+      <section class="section" id="pools">
+        <div class="section-heading"><div><span class="eyebrow">正式分池</span><h2>三个池，三种决策用途</h2><p>1,805 款正式分池与深度语义范围分开呈现，基础范围产品保留原分池和客观序位。</p></div></div>
+        <div class="pool-grid" id="pool-grid"></div>
+      </section>
+
+      <section class="section" id="featured">
+        <div class="section-heading"><div><span class="eyebrow">代表产品</span><h2>每池四款重点样本</h2><p>每张卡说明为什么值得看，并给出本池专属指标和下一步动作。</p></div></div>
+        <div class="featured-groups" id="featured-groups"></div>
+      </section>
+
+      <section class="section" id="longboards">
+        <div class="section-heading"><div><span class="eyebrow">四项长板</span><h2>玩法、故事、画风、题材</h2><p>排名直接来自已确认结果；无入选产品的维度保留明确空状态。</p></div><button class="secondary-button" id="load-full-longboards">查看完整长板</button></div>
+        <div class="longboard-desktop" id="longboard-desktop"></div>
+        <div class="longboard-mobile">
+          <div class="dimension-tabs" id="dimension-tabs"></div>
+          <div class="longboard-mobile-list" id="longboard-mobile-list"></div>
+        </div>
+      </section>
+
+      <section class="section compact-section" id="baseline">
+        <div class="baseline-card"><div><span class="eyebrow">数据边界</span><h2 id="baseline-title">首期基线与数据边界</h2></div><div><strong id="baseline-observation"></strong><p id="baseline-message"></p></div></div>
+      </section>
+
+      <section class="section" id="library">
+        <div class="section-heading"><div><span class="eyebrow">产品库</span><h2>全量 10,576 款产品</h2><p>支持名称或 AppID 搜索、正式分池、语义范围、证据状态、稳定排序和分页。</p></div><button class="primary-button" id="load-library">加载产品库</button></div>
+        <div id="library-panel" hidden>
+          <div class="filters">
+            <label><span>产品名 / AppID</span><input id="filter-query" type="search" placeholder="输入产品名或 Steam AppID"></label>
+            <label><span>正式分池</span><select id="filter-pool"><option value="">全部</option><option value="anticipated">受期待新品</option><option value="new">新品观察</option><option value="historical">历史重点</option><option value="outside">正式分池外</option></select></label>
+            <label><span>语义范围</span><select id="filter-scope"><option value="">全部</option><option value="deep">深度语义范围</option><option value="basic">基础范围</option></select></label>
+            <label><span>证据状态</span><select id="filter-evidence"><option value="">全部</option><option value="available">有可展示观点</option><option value="supplementary">补充观点待确认</option><option value="official">仅官方材料</option><option value="limited">暂无深度玩家证据</option></select></label>
+            <label><span>排序</span><select id="filter-sort"><option value="default">默认稳定排序</option><option value="pool">池内序位</option><option value="sales">销量</option><option value="wishlist">愿望单</option><option value="reviews">评论数</option><option value="positive">好评率</option><option value="title">产品名</option></select></label>
+          </div>
+          <div class="result-meta" id="result-meta"></div>
+          <div class="library-list" id="library-list"></div>
+          <div class="pagination" id="pagination"></div>
+        </div>
+      </section>
+      <footer>数据观察日：TopData 2026-07-23 / Steam 2026-07-24。页面生成时间：2026-08-04T17:18:33+08:00。</footer>
+    </div>
+  </main>
+</div>
+<script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

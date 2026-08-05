@@ -1,0 +1,112 @@
+name: Validate and deploy GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Validate public release
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import pathlib
+          import re
+          import sys
+
+          root = pathlib.Path('.')
+          required = ['index.html', 'product-detail.html', '404.html', '.nojekyll', 'VERSION.json', 'PUBLIC_SITE_MANIFEST.json']
+          missing = [name for name in required if not (root / name).is_file()]
+          allowed = {'.css', '.gif', '.htm', '.html', '.ico', '.jpeg', '.jpg', '.js', '.json', '.md', '.png', '.svg', '.txt', '.webp', '.yml'}
+          forbidden_names = []
+          content_hits = []
+          forbidden_keys = {'source_id', 'run_id', 'execution_hash', 'snapshot_hash', 'gate'}
+          key_hits = []
+          patterns = {
+              'credential_query': re.compile(r'(?i)(?:access[_-]?token|api[_-]?key|client[_-]?secret|authorization|signature|token)='),
+              'github_token': re.compile(r'(?i)\b(?:github_pat_|gh[opsu]_)[A-Za-z0-9_]+'),
+              'jwt': re.compile(r'\beyJ[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\b'),
+              'private_key': re.compile(r'-----BEGIN [^-]*PRIVATE KEY-----'),
+              'windows_user_path': re.compile(r'(?i)C:\\Users\\'),
+              'file_url': re.compile(r'(?i)(?<![A-Za-z])file:(?:/{1,3}|\\{1,2})'),
+              'localhost': re.compile(r'(?i)\blocalhost\b'),
+              'loopback': re.compile(r'\b127\.0\.0\.1\b'),
+              'javascript_url': re.compile(r'(?i)(?<![A-Za-z])javascript:'),
+          }
+
+          def walk(value, path='$'):
+              if isinstance(value, dict):
+                  for key, nested in value.items():
+                      if key.lower() in forbidden_keys:
+                          key_hits.append(f'{path}.{key}')
+                      walk(nested, f'{path}.{key}')
+              elif isinstance(value, list):
+                  for index, nested in enumerate(value):
+                      walk(nested, f'{path}[{index}]')
+
+          for path in root.rglob('*'):
+              if not path.is_file() or '.git' in path.parts:
+                  continue
+              rel = path.as_posix()
+              if path.name == '.nojekyll':
+                  continue
+              if path.suffix.lower() not in allowed:
+                  forbidden_names.append(rel)
+                  continue
+              if rel == '.github/workflows/pages.yml' or path.suffix.lower() not in {'.html', '.js', '.css', '.json', '.txt', '.md'}:
+                  continue
+              text = path.read_text(encoding='utf-8')
+              for category, pattern in patterns.items():
+                  if pattern.search(text):
+                      content_hits.append(f'{rel}:{category}')
+              if path.suffix.lower() == '.json':
+                  walk(json.loads(text), rel)
+
+          if missing or forbidden_names or content_hits or key_hits:
+              print(json.dumps({'missing': missing, 'forbidden_files': forbidden_names, 'content_hits': content_hits, 'forbidden_keys': key_hits}, ensure_ascii=False, indent=2))
+              sys.exit(1)
+          print(json.dumps({'status': 'passed', 'required_files': len(required)}, ensure_ascii=False))
+          PY
+
+  build:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: .
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

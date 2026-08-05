@@ -1,0 +1,20 @@
+{
+  "version": "dashboard-v2026.08.05.1",
+  "released_at": "2026-08-05",
+  "data_as_of": {
+    "topdata": "2026-07-23",
+    "steam": "2026-07-24"
+  },
+  "counts": {
+    "product_library": 10576,
+    "formal_pool": 1805,
+    "semantic_scope": 1275,
+    "longboard": 34
+  },
+  "d_manifest_sha256": "8b935ac9b9cf9c0fdb3f6431826596c769428c938ccd6d9c101b907cd4a26fad",
+  "git_commit_sha": "recorded_in_deployment_audit",
+  "public_release_transform": {
+    "credential_query_parameters_removed": 2,
+    "local_preview_helpers_excluded": 2
+  }
+}
