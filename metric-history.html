@@ -1,0 +1,82 @@
+﻿﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="多源原型筛选客观指标历史趋势">
+  <link rel="icon" href="data:,">
+  <title>历史趋势｜多源原型筛选</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+  <link rel="stylesheet" href="assets/css/metric-history.css">
+</head>
+<body data-ready="false">
+<div class="site-shell">
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="index.html"><span>多源原型筛选</span><strong>手游适配证据系统</strong><small>业务决策看板</small></a>
+    <nav aria-label="主导航">
+      <a href="index.html#overview">机会判断</a>
+      <a href="index.html#pools">正式分池</a>
+      <a href="index.html#featured">代表产品</a>
+      <a href="index.html#longboards">四项长板</a>
+      <a href="metric-history.html" aria-current="page">历史趋势</a>
+      <a href="index.html#library">产品库</a>
+    </nav>
+    <div class="sidebar-note">
+      <strong>趋势解释规则</strong>
+      <span>一点为基线</span>
+      <span>两点即可成线</span>
+      <small>缺失数据不填0，口径变化不跨段连接。</small>
+    </div>
+  </aside>
+  <main>
+    <header class="topbar">
+      <button class="menu-button" id="menu-button" aria-label="展开导航">☰</button>
+      <div class="topbar-title"><strong>历史趋势</strong><span id="observation-range">正在加载真实观测数据</span></div>
+      <div class="topbar-time"><span>当前产品</span><b id="topbar-product">—</b></div>
+      <a class="top-search" href="index.html#library">返回产品库</a>
+    </header>
+    <div class="page-wrap history-page">
+      <section class="history-hero">
+        <div>
+          <span class="eyebrow light">客观指标历史变化</span>
+          <h1>看产品的真实变化，而不是单次快照</h1>
+          <p>保留每期真实观测点。两个同口径点即可形成两期变化线；三个以上显示多期趋势。</p>
+        </div>
+        <div class="history-rule-grid">
+          <div><b>1点</b><span>仅有一期基线</span></div>
+          <div><b>2点</b><span>展示两期变化</span></div>
+          <div><b>3点+</b><span>展示多期趋势</span></div>
+        </div>
+      </section>
+
+      <section class="history-controls" aria-label="趋势筛选">
+        <label class="history-search"><span>产品名称 / AppID</span><input id="product-query" type="search" autocomplete="off" placeholder="输入产品名称或 Steam AppID"><div id="search-results" class="history-search-results" hidden></div></label>
+        <label><span>客观指标</span><select id="metric-select"></select></label>
+        <label><span>显示范围</span><select id="range-select"><option value="all">全部真实点</option><option value="24">最近24个点</option><option value="12">最近12个点</option></select></label>
+      </section>
+
+      <section class="history-summary" id="history-summary">
+        <article><span>当前值</span><b id="latest-value">—</b><small id="latest-date">—</small></article>
+        <article><span>较上一真实点</span><b id="delta-value">—</b><small id="delta-rate">—</small></article>
+        <article><span>曲线状态</span><b id="series-status">—</b><small id="series-note">—</small></article>
+        <article><span>数据口径</span><b id="definition-count">—</b><small>口径变化会分段显示</small></article>
+      </section>
+
+      <section class="history-panel" id="metric-history">
+        <div class="section-heading"><div><span class="eyebrow">趋势图</span><h2 id="chart-title">请选择产品</h2><p id="chart-subtitle">曲线只连接真实且同口径的数据点。</p></div><div class="chart-legend" id="chart-legend"></div></div>
+        <div class="chart-shell"><svg id="history-chart" role="img" aria-label="客观指标历史趋势图" viewBox="0 0 900 360"></svg><div id="chart-empty" class="chart-empty" hidden></div></div>
+      </section>
+
+      <section class="history-panel">
+        <div class="section-heading"><div><span class="eyebrow">原始观测</span><h2>每个点都能追溯</h2><p>显示观测日期、真实值、数据状态、来源和指标定义版本。</p></div></div>
+        <div class="history-table-wrap"><table class="history-table"><thead><tr><th>日期</th><th>数值</th><th>状态</th><th>来源</th><th>口径</th></tr></thead><tbody id="history-rows"></tbody></table></div>
+      </section>
+
+      <section class="history-boundary"><strong>阅读边界</strong><p>两点线表示本期与上期的真实变化，不代表长期趋势预测。缺失、不适用或无法获取的数据不会被写成0，也不会跨缺口连接。</p></section>
+      <footer id="history-footer">历史数据正在加载。</footer>
+    </div>
+  </main>
+</div>
+<script type="module" src="assets/js/metric-history.js"></script>
+</body>
+</html>

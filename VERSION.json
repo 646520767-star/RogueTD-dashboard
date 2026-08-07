@@ -1,20 +1,9 @@
 {
-  "version": "dashboard-v2026.08.05.1",
-  "released_at": "2026-08-05",
-  "data_as_of": {
-    "topdata": "2026-07-23",
-    "steam": "2026-07-24"
-  },
-  "counts": {
-    "product_library": 10576,
-    "formal_pool": 1805,
-    "semantic_scope": 1275,
-    "longboard": 34
-  },
-  "d_manifest_sha256": "8b935ac9b9cf9c0fdb3f6431826596c769428c938ccd6d9c101b907cd4a26fad",
-  "git_commit_sha": "recorded_in_deployment_audit",
-  "public_release_transform": {
-    "credential_query_parameters_removed": 2,
-    "local_preview_helpers_excluded": 2
-  }
+  "schema_version": "dashboard_release_version_v2",
+  "pipeline_version": "pipeline_v1.0.2-production",
+  "version": "dashboard-v2026.08.07-preview",
+  "generated_at": "2026-08-07T14:16:17+08:00",
+  "source_d_manifest_sha256": "91ac5678273800e943e8d07d4466284530b0b589a944a2ad76f30f61727d77c1",
+  "source_d_site_tree_sha256": "631b1949e8bb82e727557ae395001fc2d315be4f73a202f627d3e27825957321",
+  "public_release_base_commit_sha": "b1f6f4f4a986e51ecc5f0998d81a124904a7dc0e"
 }

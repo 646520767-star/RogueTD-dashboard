@@ -1,0 +1,167 @@
+{
+  "schema_version": "dashboard_metric_history_overview_v1",
+  "generated_at": "2026-08-06T20:41:33+08:00",
+  "scope_key": "formal_pool_fixed_comparable_cohort",
+  "scope_label": "正式分池固定可比产品",
+  "formal_product_count": 1805,
+  "observation_dates": [
+    "2026-07-23",
+    "2026-08-05"
+  ],
+  "metric_count": 4,
+  "metrics": [
+    {
+      "key": "copiesSold",
+      "label": "销量",
+      "unit": "份",
+      "display_status": "two_point_change",
+      "available_count": 2,
+      "has_gap": false,
+      "definition_change": false,
+      "latest_date": "2026-08-05",
+      "latest_value": 207781542.0,
+      "delta_value": 4602434.0,
+      "delta_rate": 2.265210259708395,
+      "coverage_count": 1800,
+      "segments": [
+        {
+          "definition_version": "topdata_snapshot_v1",
+          "definition_label": "周期冻结快照",
+          "points": [
+            {
+              "date": "2026-07-23",
+              "value": 203179108.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1800
+            },
+            {
+              "date": "2026-08-05",
+              "value": 207781542.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "wishlists",
+      "label": "愿望单",
+      "unit": "人",
+      "display_status": "two_point_change",
+      "available_count": 2,
+      "has_gap": false,
+      "definition_change": false,
+      "latest_date": "2026-08-05",
+      "latest_value": 147791813.0,
+      "delta_value": 1892006.0,
+      "delta_rate": 1.2967844433132114,
+      "coverage_count": 1800,
+      "segments": [
+        {
+          "definition_version": "topdata_snapshot_v1",
+          "definition_label": "周期冻结快照",
+          "points": [
+            {
+              "date": "2026-07-23",
+              "value": 145899807.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1800
+            },
+            {
+              "date": "2026-08-05",
+              "value": 147791813.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "followers",
+      "label": "关注人数",
+      "unit": "人",
+      "display_status": "two_point_change",
+      "available_count": 2,
+      "has_gap": false,
+      "definition_change": false,
+      "latest_date": "2026-08-05",
+      "latest_value": 11734744.0,
+      "delta_value": 136507.0,
+      "delta_rate": 1.1769633608970054,
+      "coverage_count": 1800,
+      "segments": [
+        {
+          "definition_version": "topdata_snapshot_v1",
+          "definition_label": "周期冻结快照",
+          "points": [
+            {
+              "date": "2026-07-23",
+              "value": 11598237.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1800
+            },
+            {
+              "date": "2026-08-05",
+              "value": 11734744.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "revenue",
+      "label": "收入估算",
+      "unit": "USD",
+      "display_status": "two_point_change",
+      "available_count": 2,
+      "has_gap": false,
+      "definition_change": false,
+      "latest_date": "2026-08-05",
+      "latest_value": 2143380343.0,
+      "delta_value": 38821469.0,
+      "delta_rate": 1.8446368728195532,
+      "coverage_count": 1800,
+      "segments": [
+        {
+          "definition_version": "topdata_snapshot_v1",
+          "definition_label": "周期冻结快照",
+          "points": [
+            {
+              "date": "2026-07-23",
+              "value": 2104558874.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1800
+            },
+            {
+              "date": "2026-08-05",
+              "value": 2143380343.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1800
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source_note": "TopData第三方估算；各指标只汇总在全部周期冻结快照中均有真实值的固定产品集合。"
+}

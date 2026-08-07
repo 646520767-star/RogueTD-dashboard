@@ -1,15 +1,17 @@
 {
-  "schema_version": "public_site_manifest_v1",
-  "version": "dashboard-v2026.08.05.1",
-  "generated_at": "2026-08-05T02:36:59.593Z",
-  "source_manifest_sha256": "8b935ac9b9cf9c0fdb3f6431826596c769428c938ccd6d9c101b907cd4a26fad",
-  "file_count": 2634,
-  "total_bytes": 89059198,
+  "schema_version": "public_site_manifest_v2",
+  "pipeline_version": "pipeline_v1.0.2-production",
+  "version": "dashboard-v2026.08.07-preview",
+  "generated_at": "2026-08-07T14:16:17+08:00",
+  "source_d_manifest_sha256": "91ac5678273800e943e8d07d4466284530b0b589a944a2ad76f30f61727d77c1",
+  "source_d_site_tree_sha256": "631b1949e8bb82e727557ae395001fc2d315be4f73a202f627d3e27825957321",
+  "file_count": 2675,
+  "total_bytes": 255233363,
   "files": [
     {
       "path": ".github/workflows/pages.yml",
-      "bytes": 4232,
-      "sha256": "77eba85dcee490fc2233eeb37a4858a270825e67d004e676f5e6e5c5e1abcfe8"
+      "bytes": 4344,
+      "sha256": "52e25216c970db30eb051883eaf742071ab5ffdc3fc93f975e31a00262dddcf4"
     },
     {
       "path": ".nojekyll",
@@ -22,6 +24,21 @@
       "sha256": "553b5841a6f1fc0066d2737f749100b1d9f1b530c21f50244de65ad57da92758"
     },
     {
+      "path": "CHANGELOG.md",
+      "bytes": 468,
+      "sha256": "478376c1121b7ddab4de53f2a92ba3651aba93f3a7fa81c37303d1762856aca7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 718,
+      "sha256": "361754405ea2af5f5c68ee190a532c4dcf9634f9a8dcb85b34f2d1ef4cdfea98"
+    },
+    {
+      "path": "VERSION.json",
+      "bytes": 477,
+      "sha256": "be24eb8373cdd83930a106a41e7d3c3606b21184c97afc254bfcd5f34cd2caa5"
+    },
+    {
       "path": "assets/css/app.css",
       "bytes": 16853,
       "sha256": "349598babdaa0e1e0e4adb7e2cea0e0d6fdbf88858c8e7c6d80c15b4aaa8257e"
@@ -30,6 +47,16 @@
       "path": "assets/css/detail.css",
       "bytes": 317,
       "sha256": "648820073ff9f645f98559dccf79666957a57a74080f3946da56045e1743af6e"
+    },
+    {
+      "path": "assets/css/inline-history.css",
+      "bytes": 2118,
+      "sha256": "57c58969bf94dced484251c59e6a2ef2cdc6b5e2195c89de9558e14fdfec84b7"
+    },
+    {
+      "path": "assets/css/metric-history.css",
+      "bytes": 4668,
+      "sha256": "6326cdb4c15acd11f4cedb1cf946fd4ef4754acd099ea6c8b3766380d62ce422"
     },
     {
       "path": "assets/js/app.js",
@@ -42,19 +69,24 @@
       "sha256": "5680fe3c0fe1df32894bc0b266ef1626f74218a0b19fcdf35477a1f4a3233007"
     },
     {
+      "path": "assets/js/inline-history.js",
+      "bytes": 11467,
+      "sha256": "d1fa59b71c6f89f8efa392d1633cfc71496635b4e2bbc50baca102f45aaf4380"
+    },
+    {
       "path": "assets/js/library.js",
       "bytes": 6684,
       "sha256": "0b4ddbfa3ebe1682a7c0b1b15b03df6796ff07b77ea00ac6e3d519bd68d1bdac"
     },
     {
+      "path": "assets/js/metric-history.js",
+      "bytes": 9127,
+      "sha256": "62e47c5f8dcc61cbedabdd90adf23c4d663ba9ba6d248b5b1c437003e226b6a4"
+    },
+    {
       "path": "assets/js/shared.js",
       "bytes": 3314,
       "sha256": "84ce184384c34fa1a91e310d5292a766e95d2b9cfca648c1e2e9ad2af7976b1a"
-    },
-    {
-      "path": "CHANGELOG.md",
-      "bytes": 459,
-      "sha256": "b7d2bb3f7e5558963303355a1f58533349f2cd3f6b3aee696f70db43097d0870"
     },
     {
       "path": "data/details/1043260.json",
@@ -12817,6 +12849,186 @@
       "sha256": "aa90100d9d2e61f03df2b04ccced65425231a44a69facfc72b61398a1c260cda"
     },
     {
+      "path": "data/metric-history/detail-scenarios.json",
+      "bytes": 588,
+      "sha256": "99a38ff0aef20febd968d46138141e233df8c67c782ddd6fe9297ff89d97c673"
+    },
+    {
+      "path": "data/metric-history/index.json",
+      "bytes": 38815771,
+      "sha256": "c650fd6af910ed6c3a5f43afc7cc7c2f05d47e55275b5e701fc2e49cc3874123"
+    },
+    {
+      "path": "data/metric-history/overview.json",
+      "bytes": 5005,
+      "sha256": "d7c33e0737dd8ad77aa43d33c5170605dd82b0b752e41936c8e60873c534a9ca"
+    },
+    {
+      "path": "data/metric-history/scenarios.json",
+      "bytes": 603,
+      "sha256": "c989a8b4bcfd4b1c93529a28ea41f0a79b0359f757331f6519676d833bcd6760"
+    },
+    {
+      "path": "data/metric-history/shards/00.json",
+      "bytes": 4335744,
+      "sha256": "b8848ca2c11b7755c6a6177173ff3c95521d964492fb0d61b6c7640d99a57099"
+    },
+    {
+      "path": "data/metric-history/shards/02.json",
+      "bytes": 3824846,
+      "sha256": "f996aa590770c61750681e7a039dcfde4de6477d594832837e28ff7f50293699"
+    },
+    {
+      "path": "data/metric-history/shards/04.json",
+      "bytes": 4071008,
+      "sha256": "21115c9bfd891928f4e9b0e083b195060142a82b050f97ef00c09bb737a41c38"
+    },
+    {
+      "path": "data/metric-history/shards/06.json",
+      "bytes": 4095286,
+      "sha256": "12649b6bd0d6113df334f5523a641139f8f3c81ffb1b79f2bf47635d22de42b9"
+    },
+    {
+      "path": "data/metric-history/shards/08.json",
+      "bytes": 3905850,
+      "sha256": "e90d2ed922a1c3a4daec34486324e8f0598ada0012f6f8e26be3d256b9dffe89"
+    },
+    {
+      "path": "data/metric-history/shards/10.json",
+      "bytes": 4106043,
+      "sha256": "3f179b7cd1e30648999706dbc6b56169e166b6974076b4af89a818c407726ee1"
+    },
+    {
+      "path": "data/metric-history/shards/12.json",
+      "bytes": 3738856,
+      "sha256": "259da42ca9fdba2b819e0433f2a95964c9f262e870ae5a0379eea5d7c139b76a"
+    },
+    {
+      "path": "data/metric-history/shards/14.json",
+      "bytes": 4164604,
+      "sha256": "4dbb64d49ec58e4d1aaf54ce8df019faa1c687f899f543bea92b8e312081a886"
+    },
+    {
+      "path": "data/metric-history/shards/16.json",
+      "bytes": 3850125,
+      "sha256": "f171fdc3dd908de6df4cc027fbce55ded04a4963e4d740bbba44bacce186bde1"
+    },
+    {
+      "path": "data/metric-history/shards/18.json",
+      "bytes": 3726978,
+      "sha256": "4c73d1cd2afd69dcedb85cbb0be36195320c22e126e5c493dc3e4239582d7ffb"
+    },
+    {
+      "path": "data/metric-history/shards/20.json",
+      "bytes": 3879564,
+      "sha256": "6f48f9971e4bb8b76e00488b006a1e8ef249db34ea8ebecbc5ed065c5dc8f3ec"
+    },
+    {
+      "path": "data/metric-history/shards/22.json",
+      "bytes": 3996727,
+      "sha256": "918bd0cc0d74eda5c0a691c0d90c1c3f3942fb6b36128a5148d0d688da47dc60"
+    },
+    {
+      "path": "data/metric-history/shards/24.json",
+      "bytes": 3785766,
+      "sha256": "2187d23d23c09f51d95c4839a190515d47e388679df841fa461b347d785cecfc"
+    },
+    {
+      "path": "data/metric-history/shards/26.json",
+      "bytes": 3994083,
+      "sha256": "462ab984645098e4153d645b1d7fef3c3bdd374d808fe47a46a7554eae539abd"
+    },
+    {
+      "path": "data/metric-history/shards/28.json",
+      "bytes": 4030196,
+      "sha256": "e3c85420e9ccf07d5a18a2e13a83d79c80a92d73291faf4e43baa88a594f15e1"
+    },
+    {
+      "path": "data/metric-history/shards/30.json",
+      "bytes": 4094559,
+      "sha256": "cf26a1968cda98e13947b1a566034ea796be1087583e188a7a6fe2b6b7691ef0"
+    },
+    {
+      "path": "data/metric-history/shards/32.json",
+      "bytes": 3981404,
+      "sha256": "6a062ddce9fa6c5c0756ded8356ac90493826799aca783794244c4d9ea8e0f0f"
+    },
+    {
+      "path": "data/metric-history/shards/34.json",
+      "bytes": 3934286,
+      "sha256": "183d96733159ed013b455d738e5f1f52eee075f36950212a21497814c5c8f32b"
+    },
+    {
+      "path": "data/metric-history/shards/36.json",
+      "bytes": 3857482,
+      "sha256": "fcaba3416e979738a6af83cbb2d4ce14d20481e511da6bf97339ee66046615d0"
+    },
+    {
+      "path": "data/metric-history/shards/38.json",
+      "bytes": 3834676,
+      "sha256": "6f204dbf45b70a5a7b25aee8eab58952f9854914d70caf2b64bd358f3b76d80b"
+    },
+    {
+      "path": "data/metric-history/shards/40.json",
+      "bytes": 4121865,
+      "sha256": "1c618459bb29dc27d77f9f84f19ebabe6ca581f47ea3233efa7c960690216fb2"
+    },
+    {
+      "path": "data/metric-history/shards/42.json",
+      "bytes": 4029961,
+      "sha256": "b49d0430abe2e250c1bd992846eca54e9b989f545908ddc8bf8724c650dcf3db"
+    },
+    {
+      "path": "data/metric-history/shards/44.json",
+      "bytes": 4106159,
+      "sha256": "dbccd4efafdd57ce2dc73be8dcf37d067ede469d769f4ac733effa03828cfa6f"
+    },
+    {
+      "path": "data/metric-history/shards/46.json",
+      "bytes": 4012120,
+      "sha256": "89dd201ad523729aaacae0ccad54a51d670e5e591ec820e87975663cf28cbdc8"
+    },
+    {
+      "path": "data/metric-history/shards/48.json",
+      "bytes": 3611326,
+      "sha256": "4df8a757b76d6d85033fec043015ae47a57c610917e4e78451fa5285d04c5b3b"
+    },
+    {
+      "path": "data/metric-history/shards/50.json",
+      "bytes": 4102422,
+      "sha256": "982e03f5b9d36a67a3a755293f56d8ea82d5762dfc279f865b22dd3b71c52151"
+    },
+    {
+      "path": "data/metric-history/shards/52.json",
+      "bytes": 4021976,
+      "sha256": "5a27c730eef451881c83500a43dd93cd84c3d32276e57f02e6ac872b6da2b48c"
+    },
+    {
+      "path": "data/metric-history/shards/54.json",
+      "bytes": 3576077,
+      "sha256": "e14a64dcfce83fd7d771bd0e151e3b241331da342b593cd635bcef955d1d5b21"
+    },
+    {
+      "path": "data/metric-history/shards/56.json",
+      "bytes": 4110147,
+      "sha256": "89a8e113a081b4ec4a39fcdd1085fa616d7d492d49bb9d9cbf3095f9c9ba9a92"
+    },
+    {
+      "path": "data/metric-history/shards/58.json",
+      "bytes": 4279979,
+      "sha256": "55ed769e842ffe69e7d820378d9deb51131bf3522823d131085930ad677d80be"
+    },
+    {
+      "path": "data/metric-history/shards/60.json",
+      "bytes": 3768482,
+      "sha256": "b9e290c9db978b9c573256f46de099ee6d0187c36ddf3b335d6e0c16ad48eab2"
+    },
+    {
+      "path": "data/metric-history/shards/62.json",
+      "bytes": 4370249,
+      "sha256": "84b8ae0291dff7d9d29106675699af76c28f69f93441eccee99d4dc4ed0c1f34"
+    },
+    {
       "path": "data/product-shards/00.json",
       "bytes": 539900,
       "sha256": "cfb4cfc96bb2c1af55a005393b7c5edf03e177986a0a61d03cb3dbb845440a02"
@@ -13153,28 +13365,23 @@
     },
     {
       "path": "index.html",
-      "bytes": 6374,
-      "sha256": "e1876c1f8f8a54ab757b043c9312c198812dbec1d8c219b12953ea866abcb649"
+      "bytes": 7020,
+      "sha256": "e411bbe3e0ae304a95b0ab427ae295f6cf7b05f2195980c43ca426f144a3d89e"
+    },
+    {
+      "path": "metric-history.html",
+      "bytes": 5100,
+      "sha256": "10d832c10a34e906d4494ebd1fd4ee9c8f005fdba72609b53723ef9ae25bf9d7"
     },
     {
       "path": "product-detail.html",
-      "bytes": 849,
-      "sha256": "42c196a1714e7965078cb61ff00fd4fda9a6e02e5fce0d406a323cbe7bd4783d"
-    },
-    {
-      "path": "README.md",
-      "bytes": 702,
-      "sha256": "2a362a34a5522ecb66e788836ee3caad9b99d2fab2cab758b0fc195dbc68a971"
+      "bytes": 1001,
+      "sha256": "e954dc8c9951db299702a1e2171b136af79a8b83ee188b2472009b2dc408bb19"
     },
     {
       "path": "robots.txt",
       "bytes": 23,
       "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
-    },
-    {
-      "path": "VERSION.json",
-      "bytes": 540,
-      "sha256": "a40910bcdf94644aed7bca666faceea2a11324bbbe9079eed4ba4e813693e408"
     }
   ]
 }

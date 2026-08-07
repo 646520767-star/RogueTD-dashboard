@@ -1,0 +1,27 @@
+{
+  "baseline_only": {
+    "appid": "3634710",
+    "metric": "wishlists",
+    "title": "DWARRF: A Pinball Roguelike"
+  },
+  "two_point_change": {
+    "appid": "1067360",
+    "metric": "copiesSold",
+    "title": "Pax Autocratica"
+  },
+  "multi_period_trend": {
+    "appid": "2904000",
+    "metric": "copiesSold",
+    "title": "咒语旅团"
+  },
+  "missing_gap": {
+    "appid": "1067360",
+    "metric": "positive",
+    "title": "Pax Autocratica"
+  },
+  "definition_change": {
+    "appid": "2904000",
+    "metric": "copiesSold",
+    "title": "咒语旅团"
+  }
+}
