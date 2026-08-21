@@ -1,1 +1,178 @@
-{"identity":{"original_title":"魔哆魔哆 Modo Modo","developers":["HAJI HEAVY INDUSTIRES"],"publishers":["HAJI HEAVY INDUSTIRES"],"release_status":"released","release_date":"2026-02-17","tags":["休闲","角色扮演","轻度Rogue","模拟","卡牌游戏"]},"hooks":[{"text":"不同卡牌组合会召唤不同魔晶武器，角色技能也随流程逐步解锁。","dimension":"玩法","excerpt":"You can summon different Magical Crystals (weapons) for battle by forming different card combinations! Characters also have awesome skills waiting for you to unlock!","url":"https://store.steampowered.com/app/3932140/","label":"证据原文片段"},{"text":"古物可改写卡牌，魔宠既会助战也可能捣乱，两者共同组成拥有数百遗物组合的牌组。","dimension":"玩法","excerpt":"Use Antiquities to alter your cards and summon even more powerful Magical Crystals (weapons)! Familiars are here to assist streamers in battle, but watch out—they might just stir up some trouble too!","url":"https://store.steampowered.com/app/3932140/","label":"证据原文片段"},{"text":"魔界主播姐妹在直播战斗中拯救疯狂粉丝，并通过动画章节调查网络崩溃、走向多结局。","dimension":"故事","excerpt":"Now, wielding these magical cards, they must battle through live streams to save their frenzied fans and fellow demons! As they investigate the network chaos, they begin to uncover shocking truths about their world...","url":"https://store.steampowered.com/app/3932140/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1332,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22878,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":754,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":8147,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1531,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1531,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.8050637091277157,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":113,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.460177,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲、角色扮演","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/91eec3a32b594ac25f2d9274f2aab7d7c5bff881/ss_91eec3a32b594ac25f2d9274f2aab7d7c5bff881.1920x1080.jpg?t=1771344018","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/91eec3a32b594ac25f2d9274f2aab7d7c5bff881/ss_91eec3a32b594ac25f2d9274f2aab7d7c5bff881.1920x1080.jpg?t=1771344018","alt":"魔哆魔哆 Modo Modo 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/405f2fa7406520d8f07e2369e9d8a0825629afbe/ss_405f2fa7406520d8f07e2369e9d8a0825629afbe.1920x1080.jpg?t=1771344018","alt":"魔哆魔哆 Modo Modo 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/e9773110940643fec2652473f8837b37bf381a9c/ss_e9773110940643fec2652473f8837b37bf381a9c.1920x1080.jpg?t=1771344018","alt":"魔哆魔哆 Modo Modo 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/c8f1ef295cf15b21435017808230af695f3c4175/ss_c8f1ef295cf15b21435017808230af695f3c4175.1920x1080.jpg?t=1771344018","alt":"魔哆魔哆 Modo Modo 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "魔哆魔哆 Modo Modo",
+    "developers": [
+      "HAJI HEAVY INDUSTIRES"
+    ],
+    "publishers": [
+      "HAJI HEAVY INDUSTIRES"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-17",
+    "tags": [
+      "休闲",
+      "角色扮演",
+      "轻度Rogue",
+      "模拟",
+      "卡牌游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "不同卡牌组合会召唤不同魔晶武器，角色技能也随流程逐步解锁。",
+      "dimension": "玩法",
+      "excerpt": "You can summon different Magical Crystals (weapons) for battle by forming different card combinations! Characters also have awesome skills waiting for you to unlock!",
+      "url": "https://store.steampowered.com/app/3932140/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "古物可改写卡牌，魔宠既会助战也可能捣乱，两者共同组成拥有数百遗物组合的牌组。",
+      "dimension": "玩法",
+      "excerpt": "Use Antiquities to alter your cards and summon even more powerful Magical Crystals (weapons)! Familiars are here to assist streamers in battle, but watch out—they might just stir up some trouble too!",
+      "url": "https://store.steampowered.com/app/3932140/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "魔界主播姐妹在直播战斗中拯救疯狂粉丝，并通过动画章节调查网络崩溃、走向多结局。",
+      "dimension": "故事",
+      "excerpt": "Now, wielding these magical cards, they must battle through live streams to save their frenzied fans and fellow demons! As they investigate the network chaos, they begin to uncover shocking truths about their world...",
+      "url": "https://store.steampowered.com/app/3932140/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1351,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 23013,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 754,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 8182,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1540,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1540,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.8239575597892745,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 94,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.491228,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "魔哆魔哆 Modo Modo位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/91eec3a32b594ac25f2d9274f2aab7d7c5bff881/ss_91eec3a32b594ac25f2d9274f2aab7d7c5bff881.1920x1080.jpg?t=1771344018",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/91eec3a32b594ac25f2d9274f2aab7d7c5bff881/ss_91eec3a32b594ac25f2d9274f2aab7d7c5bff881.1920x1080.jpg?t=1771344018",
+        "alt": "魔哆魔哆 Modo Modo 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/405f2fa7406520d8f07e2369e9d8a0825629afbe/ss_405f2fa7406520d8f07e2369e9d8a0825629afbe.1920x1080.jpg?t=1771344018",
+        "alt": "魔哆魔哆 Modo Modo 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/e9773110940643fec2652473f8837b37bf381a9c/ss_e9773110940643fec2652473f8837b37bf381a9c.1920x1080.jpg?t=1771344018",
+        "alt": "魔哆魔哆 Modo Modo 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/c8f1ef295cf15b21435017808230af695f3c4175/ss_c8f1ef295cf15b21435017808230af695f3c4175.1920x1080.jpg?t=1771344018",
+        "alt": "魔哆魔哆 Modo Modo 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/2c71f886d7466c9dc6220231cd7147cd36175e5c/ss_2c71f886d7466c9dc6220231cd7147cd36175e5c.1920x1080.jpg?t=1771344018",
+        "alt": "魔哆魔哆 Modo Modo 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/8f3cb47e0241d45b2d0d7ae1f6bfe68bee2c95f8/ss_8f3cb47e0241d45b2d0d7ae1f6bfe68bee2c95f8.1920x1080.jpg?t=1771344018",
+        "alt": "魔哆魔哆 Modo Modo 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/986dcbb15cefd63221098626f909931e3787bb3a/ss_986dcbb15cefd63221098626f909931e3787bb3a.1920x1080.jpg?t=1771344018",
+        "alt": "魔哆魔哆 Modo Modo 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932140/43e133d4a0d79b5d640a7e70a0314008d9dc81f3/ss_43e133d4a0d79b5d640a7e70a0314008d9dc81f3.1920x1080.jpg?t=1771344018",
+        "alt": "魔哆魔哆 Modo Modo 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

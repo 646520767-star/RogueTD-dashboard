@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Sea Of Radiation 2","developers":["NightWalker"],"publishers":["NightWalker"],"release_status":"released","release_date":"2024-11-29","tags":["动作","轻度Rogue","休闲","类Rogue","生存"]},"hooks":[{"text":"可自定义海怪进化路线，每次选择都会同时改变外形与能力","dimension":"玩法","excerpt":"Players can customize the evolution path of the sea monster according to their preferences, and each choice will affect the shape and ability of the sea monster.","url":"https://store.steampowered.com/app/3191720/","label":"证据原文片段"},{"text":"敌人会随环境和进程随机变异，迫使玩家每局重新适应对手并调整战术","dimension":"玩法","excerpt":"Enemies in the game are not static, but randomly mutate as the environment changes and the game progresses, creating unpredictable challenges for the player. Each game is a new experience and players will face different enemies and challenges, which requires players to constantly adapt to the environment and flexibly adjust their tactics.","url":"https://store.steampowered.com/app/3191720/","label":"证据原文片段"},{"text":"关节可装到器官槽位并自由调整位置与朝向，把海怪身体结构直接变成战斗构筑","dimension":"玩法","excerpt":"In addition, the introduction of the joint system allows the player to equip the joint on the organ position, freely adjust the position and orientation of the organ, providing more possibilities for the battle strategy of the sea monster.","url":"https://store.steampowered.com/app/3191720/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4215,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":11439,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":724,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":19901,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5363,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5363,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.513557855703965,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":134,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.597015,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_582417cc750de276275cc793e69d6440ac67b69f.1920x1080.jpg?t=1756453742","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_582417cc750de276275cc793e69d6440ac67b69f.1920x1080.jpg?t=1756453742","alt":"辐射之海2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_561bd81d9016cc873ff3017f1bbf820c324fb768.1920x1080.jpg?t=1756453742","alt":"辐射之海2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_f2d8bd8afeb58df04cf45c6ca79761d38422835e.1920x1080.jpg?t=1756453742","alt":"辐射之海2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_477a76d1800ce5e5ac28f340114ead31574054a9.1920x1080.jpg?t=1756453742","alt":"辐射之海2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Sea Of Radiation 2",
+    "developers": [
+      "NightWalker"
+    ],
+    "publishers": [
+      "NightWalker"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-29",
+    "tags": [
+      "动作",
+      "轻度Rogue",
+      "轻度Rogue",
+      "休闲",
+      "生存"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "可自定义海怪进化路线，每次选择都会同时改变外形与能力",
+      "dimension": "玩法",
+      "excerpt": "Players can customize the evolution path of the sea monster according to their preferences, and each choice will affect the shape and ability of the sea monster.",
+      "url": "https://store.steampowered.com/app/3191720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "敌人会随环境和进程随机变异，迫使玩家每局重新适应对手并调整战术",
+      "dimension": "玩法",
+      "excerpt": "Enemies in the game are not static, but randomly mutate as the environment changes and the game progresses, creating unpredictable challenges for the player. Each game is a new experience and players will face different enemies and challenges, which requires players to constantly adapt to the environment and flexibly adjust their tactics.",
+      "url": "https://store.steampowered.com/app/3191720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "关节可装到器官槽位并自由调整位置与朝向，把海怪身体结构直接变成战斗构筑",
+      "dimension": "玩法",
+      "excerpt": "In addition, the introduction of the joint system allows the player to equip the joint on the organ position, freely adjust the position and orientation of the organ, providing more possibilities for the battle strategy of the sea monster.",
+      "url": "https://store.steampowered.com/app/3191720/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5527,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 725,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 26535,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7019,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7019,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.628577082180666,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 94,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "辐射之海2当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_582417cc750de276275cc793e69d6440ac67b69f.1920x1080.jpg?t=1756453742",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_582417cc750de276275cc793e69d6440ac67b69f.1920x1080.jpg?t=1756453742",
+        "alt": "辐射之海2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_561bd81d9016cc873ff3017f1bbf820c324fb768.1920x1080.jpg?t=1756453742",
+        "alt": "辐射之海2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_f2d8bd8afeb58df04cf45c6ca79761d38422835e.1920x1080.jpg?t=1756453742",
+        "alt": "辐射之海2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_477a76d1800ce5e5ac28f340114ead31574054a9.1920x1080.jpg?t=1756453742",
+        "alt": "辐射之海2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_89e54c9a0261e80a93c3d6637529afa7f59f12bc.1920x1080.jpg?t=1756453742",
+        "alt": "辐射之海2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_0dedf0a20f5318d5b186516feb3039b36b409373.1920x1080.jpg?t=1756453742",
+        "alt": "辐射之海2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_09ac1d4193614f59843c6b2681c37ece83ef08fb.1920x1080.jpg?t=1756453742",
+        "alt": "辐射之海2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191720/ss_faef3e38e22aea7ade784b6a3087836dcae60d59.1920x1080.jpg?t=1756453742",
+        "alt": "辐射之海2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

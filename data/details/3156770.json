@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Witchfire","developers":["The Astronauts"],"publishers":["The Astronauts"],"release_status":"early_access","release_date":"2024-09-23","tags":["黑暗奇幻","轻度Rogue","射击","角色扮演","抢先体验"]},"hooks":[{"text":"带资源撤离，或押注挑战魔女眷属解锁区域","dimension":"玩法","excerpt":"Scavenge valuable resources and retreat to your sanctuary, or push your luck by confronting Familiars— the powerful guardians of the witch.","url":"https://store.steampowered.com/app/3156770/","label":"证据原文片段"},{"text":"每场遭遇通过Arcana强化猎巫者与武库","dimension":"玩法","excerpt":"Each completed encounter strengthens you and your arsenal through the roguelite system called Arcana. There are countless ways to build your preyer and dominate the witch.","url":"https://store.steampowered.com/app/3156770/","label":"证据原文片段"},{"text":"追查坠毁船只与神器，介入教会和女巫战争","dimension":"故事","excerpt":"Piece together a story from the past to save the future. Investigate ships crashing on the verge of the witch’s land and locate the artifact that can tip the scales in the ongoing war between the Church and the witches.","url":"https://store.steampowered.com/app/3156770/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":584250,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1652255,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":118665,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":19225423,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":601411,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":601411,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":15.03709460282553,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":16608,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.54659,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"黑暗奇幻、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/20d1fc57552905825cbe90ad9cdee996202bfb03/ss_20d1fc57552905825cbe90ad9cdee996202bfb03.1920x1080.jpg?t=1782205254","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/20d1fc57552905825cbe90ad9cdee996202bfb03/ss_20d1fc57552905825cbe90ad9cdee996202bfb03.1920x1080.jpg?t=1782205254","alt":"Witchfire 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/ss_842e41be70df81633cff88b307a2da58194b4f2b.1920x1080.jpg?t=1782205254","alt":"Witchfire 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/ef33df7fdc0751b49f146f2c1c2e06745ffb0a35/ss_ef33df7fdc0751b49f146f2c1c2e06745ffb0a35.1920x1080.jpg?t=1782205254","alt":"Witchfire 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/05a74fc4b0f4e7fca461858888cf81b6e1516d8e/ss_05a74fc4b0f4e7fca461858888cf81b6e1516d8e.1920x1080.jpg?t=1782205254","alt":"Witchfire 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Witchfire",
+    "developers": [
+      "The Astronauts"
+    ],
+    "publishers": [
+      "The Astronauts"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-09-23",
+    "tags": [
+      "轻度Rogue",
+      "黑暗奇幻",
+      "轻度Rogue",
+      "轻度Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "带资源撤离，或押注挑战魔女眷属解锁区域",
+      "dimension": "玩法",
+      "excerpt": "Scavenge valuable resources and retreat to your sanctuary, or push your luck by confronting Familiars— the powerful guardians of the witch.",
+      "url": "https://store.steampowered.com/app/3156770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每场遭遇通过Arcana强化猎巫者与武库",
+      "dimension": "玩法",
+      "excerpt": "Each completed encounter strengthens you and your arsenal through the roguelite system called Arcana. There are countless ways to build your preyer and dominate the witch.",
+      "url": "https://store.steampowered.com/app/3156770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "追查坠毁船只与神器，介入教会和女巫战争",
+      "dimension": "故事",
+      "excerpt": "Piece together a story from the past to save the future. Investigate ships crashing on the verge of the witch’s land and locate the artifact that can tip the scales in the ongoing war between the Church and the witches.",
+      "url": "https://store.steampowered.com/app/3156770/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 618941,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1699126,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 122685,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 20131649,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 637209,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 637209,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 15.296436312220319,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 16650,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.41954,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Witchfire位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/20d1fc57552905825cbe90ad9cdee996202bfb03/ss_20d1fc57552905825cbe90ad9cdee996202bfb03.1920x1080.jpg?t=1782205254",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/20d1fc57552905825cbe90ad9cdee996202bfb03/ss_20d1fc57552905825cbe90ad9cdee996202bfb03.1920x1080.jpg?t=1785478776",
+        "alt": "Witchfire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/ss_842e41be70df81633cff88b307a2da58194b4f2b.1920x1080.jpg?t=1785478776",
+        "alt": "Witchfire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/ef33df7fdc0751b49f146f2c1c2e06745ffb0a35/ss_ef33df7fdc0751b49f146f2c1c2e06745ffb0a35.1920x1080.jpg?t=1785478776",
+        "alt": "Witchfire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/05a74fc4b0f4e7fca461858888cf81b6e1516d8e/ss_05a74fc4b0f4e7fca461858888cf81b6e1516d8e.1920x1080.jpg?t=1785478776",
+        "alt": "Witchfire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/ss_f43f4f04a04ed9b4fc2bead2ea656ab143b03670.1920x1080.jpg?t=1785478776",
+        "alt": "Witchfire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/ss_b77e3d4f266480158bb855d7a8781e44d96f1200.1920x1080.jpg?t=1785478776",
+        "alt": "Witchfire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/ss_61eaade48968bc79307a5c93031a2a9b5b8542bb.1920x1080.jpg?t=1785478776",
+        "alt": "Witchfire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/ss_cd59e2af19b95ec6aef02f59406b07451e0de16a.1920x1080.jpg?t=1785478776",
+        "alt": "Witchfire 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

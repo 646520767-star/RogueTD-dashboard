@@ -1,1 +1,176 @@
-{"identity":{"original_title":"Ruff Ghanor","developers":["DX Gameworks"],"publishers":["DX Gameworks","Magalu Games","Nonsense Creations"],"release_status":"released","release_date":"2024-02-22","tags":["策略","肉鸽卡组构筑","卡牌对战","轻度Rogue","单人游戏"]},"hooks":[{"text":"每张收集卡都代表旅途中的关键行动，构筑重点是安排动作并创造连续协同。","dimension":"玩法","excerpt":"Each collected card represents a crucial action. Build the perfect deck, strategize your moves, and create powerful synergies as you progress.","url":"https://store.steampowered.com/app/2087460/","label":"证据原文片段"},{"text":"忠诚盟友各自携带专属牌组，加入后会直接改写战斗中的牌组互动。","dimension":"玩法","excerpt":"Gather loyal allies, each with their own special deck, and take the dynamics of combat to a whole new level.","url":"https://store.steampowered.com/app/2087460/","label":"证据原文片段"},{"text":"年轻教士Ruff必须对抗暴君红龙Zamir，从其压迫下解放王国并面对自身命运。","dimension":"故事","excerpt":"Get ready to embark on an epic and challenging journey, where you will become Ruff Ghanor, the young cleric destined to confront the tyrant Red Dragon, Zamir, and free the kingdom from his relentless oppression.","url":"https://store.steampowered.com/app/2087460/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8769,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":48296,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3958,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":123859,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":12610,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":12610,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.650694188650178,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":770,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.596879,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、肉鸽卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_75b8b67157c2ab567c8ecbae83a7f19962829735.1920x1080.jpg?t=1758070699","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_75b8b67157c2ab567c8ecbae83a7f19962829735.1920x1080.jpg?t=1758070699","alt":"Ruff Ghanor 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_59242713c7bfa90db87fca4806aab79612ce43aa.1920x1080.jpg?t=1758070699","alt":"Ruff Ghanor 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_2f6e7285d31791903df86296fa59b5f0b3b05270.1920x1080.jpg?t=1758070699","alt":"Ruff Ghanor 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_5b5f0543373a904d251181a6f316367a5d16f76e.1920x1080.jpg?t=1758070699","alt":"Ruff Ghanor 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Ruff Ghanor",
+    "developers": [
+      "DX Gameworks"
+    ],
+    "publishers": [
+      "DX Gameworks",
+      "Magalu Games",
+      "Nonsense Creations"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-22",
+    "tags": [
+      "策略",
+      "肉鸽卡组构筑",
+      "卡牌对战",
+      "轻度Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每张收集卡都代表旅途中的关键行动，构筑重点是安排动作并创造连续协同。",
+      "dimension": "玩法",
+      "excerpt": "Each collected card represents a crucial action. Build the perfect deck, strategize your moves, and create powerful synergies as you progress.",
+      "url": "https://store.steampowered.com/app/2087460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "忠诚盟友各自携带专属牌组，加入后会直接改写战斗中的牌组互动。",
+      "dimension": "玩法",
+      "excerpt": "Gather loyal allies, each with their own special deck, and take the dynamics of combat to a whole new level.",
+      "url": "https://store.steampowered.com/app/2087460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "年轻教士Ruff必须对抗暴君红龙Zamir，从其压迫下解放王国并面对自身命运。",
+      "dimension": "故事",
+      "excerpt": "Get ready to embark on an epic and challenging journey, where you will become Ruff Ghanor, the young cleric destined to confront the tyrant Red Dragon, Zamir, and free the kingdom from his relentless oppression.",
+      "url": "https://store.steampowered.com/app/2087460/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 9274,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 48582,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3958,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 124371,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 13353,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 13353,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.650817155891973,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 434,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.61039,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Ruff Ghanor位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_75b8b67157c2ab567c8ecbae83a7f19962829735.1920x1080.jpg?t=1758070699",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_75b8b67157c2ab567c8ecbae83a7f19962829735.1920x1080.jpg?t=1758070699",
+        "alt": "Ruff Ghanor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_59242713c7bfa90db87fca4806aab79612ce43aa.1920x1080.jpg?t=1758070699",
+        "alt": "Ruff Ghanor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_2f6e7285d31791903df86296fa59b5f0b3b05270.1920x1080.jpg?t=1758070699",
+        "alt": "Ruff Ghanor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_5b5f0543373a904d251181a6f316367a5d16f76e.1920x1080.jpg?t=1758070699",
+        "alt": "Ruff Ghanor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_96880832e07ba2b759d586dfa3c175e61643b2c3.1920x1080.jpg?t=1758070699",
+        "alt": "Ruff Ghanor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_8ce21288d778e5bfcec71161c33deef05cdbdcae.1920x1080.jpg?t=1758070699",
+        "alt": "Ruff Ghanor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087460/ss_d83ee39b2e43373b873ee4ee04ab181d3bc33fd7.1920x1080.jpg?t=1758070699",
+        "alt": "Ruff Ghanor 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

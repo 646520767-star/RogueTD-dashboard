@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Raiders of Blackveil","developers":["Wombo Games"],"publishers":["Wombo Games"],"release_status":"early_access","release_date":"2025-12-15","tags":["动作肉鸽","多人游戏","轻度Rogue","刷宝","俯视角"]},"hooks":[{"text":"MOBA式反抗者各有能力与性格","dimension":"玩法","excerpt":"Select from a range of MOBA-inspired Rebels, each with unique abilities, playstyles, and personalities.","url":"https://store.steampowered.com/app/3352240/","label":"证据原文片段"},{"text":"八职业三百增益叠出双职业联动","dimension":"玩法","excerpt":"Every new Raid you create new and unique builds by combining over 300 perks from 8 different classes. Choose between Mage , Assassin , Priest , Guardian , Monk , Druid , Warrior , and Warlock . Each Class have its own unique effects and mechanics. Unlock class synergies through overpowered Duo Perks to make your build come alive.","url":"https://store.steampowered.com/app/3352240/","label":"证据原文片段"},{"text":"把突袭战利品安全带回基地处置","dimension":"玩法","excerpt":"Loot is everywhere. Farm Equipment to bolster your Rebels to give yourself a head start on your future Raids. Bandages , Keys , Currencies and valuable Souvenirs can be found across all Raids. Sell it, Use it, or Stash it back home at The Liberator .","url":"https://store.steampowered.com/app/3352240/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":54875,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":146161,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11897,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":806841,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":58202,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":58202,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.418004110964802,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1396,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":60,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":60.342368,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为60.342368%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/b62f081cd0e5962e490dd34bb44ec011feb8b758/ss_b62f081cd0e5962e490dd34bb44ec011feb8b758.1920x1080.jpg?t=1784063283","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/b62f081cd0e5962e490dd34bb44ec011feb8b758/ss_b62f081cd0e5962e490dd34bb44ec011feb8b758.1920x1080.jpg?t=1784063283","alt":"Raiders of Blackveil 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/9cc87dfef25e7cd2681c80fa02e7cedabda77a75/ss_9cc87dfef25e7cd2681c80fa02e7cedabda77a75.1920x1080.jpg?t=1784063283","alt":"Raiders of Blackveil 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/58057e297432e04d2109d2ad166f44e1e6f81c5e/ss_58057e297432e04d2109d2ad166f44e1e6f81c5e.1920x1080.jpg?t=1784063283","alt":"Raiders of Blackveil 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/a231ff8e96994ddf9bda52e0059ee88832bad4a3/ss_a231ff8e96994ddf9bda52e0059ee88832bad4a3.1920x1080.jpg?t=1784063283","alt":"Raiders of Blackveil 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Raiders of Blackveil",
+    "developers": [
+      "Wombo Games"
+    ],
+    "publishers": [
+      "Wombo Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-12-15",
+    "tags": [
+      "动作肉鸽",
+      "多人游戏",
+      "轻度Rogue",
+      "刷宝",
+      "俯视角"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "MOBA式反抗者各有能力与性格",
+      "dimension": "玩法",
+      "excerpt": "Select from a range of MOBA-inspired Rebels, each with unique abilities, playstyles, and personalities.",
+      "url": "https://store.steampowered.com/app/3352240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "八职业三百增益叠出双职业联动",
+      "dimension": "玩法",
+      "excerpt": "Every new Raid you create new and unique builds by combining over 300 perks from 8 different classes. Choose between Mage , Assassin , Priest , Guardian , Monk , Druid , Warrior , and Warlock . Each Class have its own unique effects and mechanics. Unlock class synergies through overpowered Duo Perks to make your build come alive.",
+      "url": "https://store.steampowered.com/app/3352240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把突袭战利品安全带回基地处置",
+      "dimension": "玩法",
+      "excerpt": "Loot is everywhere. Farm Equipment to bolster your Rebels to give yourself a head start on your future Raids. Bandages , Keys , Currencies and valuable Souvenirs can be found across all Raids. Sell it, Use it, or Stash it back home at The Liberator .",
+      "url": "https://store.steampowered.com/app/3352240/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 57794,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 148306,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 12004,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 861931,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 61298,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 61298,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.256344814916735,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1327,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 61,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 60.980663,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为60.342368%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Raiders of Blackveil位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/b62f081cd0e5962e490dd34bb44ec011feb8b758/ss_b62f081cd0e5962e490dd34bb44ec011feb8b758.1920x1080.jpg?t=1784063283",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/b62f081cd0e5962e490dd34bb44ec011feb8b758/ss_b62f081cd0e5962e490dd34bb44ec011feb8b758.1920x1080.jpg?t=1784063283",
+        "alt": "Raiders of Blackveil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/9cc87dfef25e7cd2681c80fa02e7cedabda77a75/ss_9cc87dfef25e7cd2681c80fa02e7cedabda77a75.1920x1080.jpg?t=1784063283",
+        "alt": "Raiders of Blackveil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/58057e297432e04d2109d2ad166f44e1e6f81c5e/ss_58057e297432e04d2109d2ad166f44e1e6f81c5e.1920x1080.jpg?t=1784063283",
+        "alt": "Raiders of Blackveil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/a231ff8e96994ddf9bda52e0059ee88832bad4a3/ss_a231ff8e96994ddf9bda52e0059ee88832bad4a3.1920x1080.jpg?t=1784063283",
+        "alt": "Raiders of Blackveil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/ede19aa135411769141a0629dff29d8e76b572f3/ss_ede19aa135411769141a0629dff29d8e76b572f3.1920x1080.jpg?t=1784063283",
+        "alt": "Raiders of Blackveil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/2e592ad155c3db3493d335776cf15a1f6637e8b6/ss_2e592ad155c3db3493d335776cf15a1f6637e8b6.1920x1080.jpg?t=1784063283",
+        "alt": "Raiders of Blackveil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/f563d63278e65023016786a92d16294a65a2b47a/ss_f563d63278e65023016786a92d16294a65a2b47a.1920x1080.jpg?t=1784063283",
+        "alt": "Raiders of Blackveil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3352240/86f90557676cd2a6225bb27909eccee73793e0db/ss_86f90557676cd2a6225bb27909eccee73793e0db.1920x1080.jpg?t=1784063283",
+        "alt": "Raiders of Blackveil 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

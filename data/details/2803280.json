@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Dragon Is Dead","developers":["TeamSuneat"],"publishers":["PM Studios, inc."],"release_status":"released","release_date":"2025-06-06","tags":["动作肉鸽","类Rogue","轻度Rogue","砍杀","动作角色扮演"]},"hooks":[{"text":"死亡会丢失金币和临时加成，但装备、符文与解锁内容全部带入下一轮","dimension":"玩法","excerpt":"When you fall, you lose gold and temporary bonuses, but your gear and runes stay with you and form the base of your next attempt.","url":"https://store.steampowered.com/app/2803280/","label":"证据原文片段"},{"text":"元素魔剑士、以血换伤狂战士与投掷毒素猎人形成三套截然不同战法","dimension":"玩法","excerpt":"Spellblade - Element-focused hybrid with close and mid-range attacks built around fire, frost, and lightning. Berserker - Heavy melee bruiser that trades its own HP and positioning for huge damage and armor. Hunter - Mobile ranged fighter using thrown weapons, poison, and beast abilities to apply damage over time and control space.","url":"https://store.steampowered.com/app/2803280/","label":"证据原文片段"},{"text":"击败精英与Boss取得符文石，锻造成传奇或神话装备并与技能树、神器联动","dimension":"玩法","excerpt":"Hunt Elites and Bosses to claim Rune Stones, then craft them into Legendary and Mythic equipment. Runes and class skill trees interact to define your build, while artifacts you pick up mid-run stack into powerful synergies.","url":"https://store.steampowered.com/app/2803280/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":20715,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":165224,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":10081,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":343320,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":21628,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":21628,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.860410714697782,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":696,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":76,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":76.005747,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/6b8b799a7629b9cdfdba585051114226e7a04660/ss_6b8b799a7629b9cdfdba585051114226e7a04660.1920x1080.jpg?t=1765569649","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/6b8b799a7629b9cdfdba585051114226e7a04660/ss_6b8b799a7629b9cdfdba585051114226e7a04660.1920x1080.jpg?t=1765569649","alt":"Dragon Is Dead 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/ss_00e706ffaae29ec4c87656dac997dd125b5c619c.1920x1080.jpg?t=1765569649","alt":"Dragon Is Dead 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/2fe82ee6b08ece6fc86e2d413739872a50aaa849/ss_2fe82ee6b08ece6fc86e2d413739872a50aaa849.1920x1080.jpg?t=1765569649","alt":"Dragon Is Dead 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/ss_f6cf61229217937bed0e56520475dbab172bb4c4.1920x1080.jpg?t=1765569649","alt":"Dragon Is Dead 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dragon Is Dead",
+    "developers": [
+      "TeamSuneat"
+    ],
+    "publishers": [
+      "PM Studios, inc."
+    ],
+    "release_status": "released",
+    "release_date": "2025-06-06",
+    "tags": [
+      "动作肉鸽",
+      "类Rogue",
+      "轻度Rogue",
+      "砍杀",
+      "动作角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "死亡会丢失金币和临时加成，但装备、符文与解锁内容全部带入下一轮",
+      "dimension": "玩法",
+      "excerpt": "When you fall, you lose gold and temporary bonuses, but your gear and runes stay with you and form the base of your next attempt.",
+      "url": "https://store.steampowered.com/app/2803280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "元素魔剑士、以血换伤狂战士与投掷毒素猎人形成三套截然不同战法",
+      "dimension": "玩法",
+      "excerpt": "Spellblade - Element-focused hybrid with close and mid-range attacks built around fire, frost, and lightning. Berserker - Heavy melee bruiser that trades its own HP and positioning for huge damage and armor. Hunter - Mobile ranged fighter using thrown weapons, poison, and beast abilities to apply damage over time and control space.",
+      "url": "https://store.steampowered.com/app/2803280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "击败精英与Boss取得符文石，锻造成传奇或神话装备并与技能树、神器联动",
+      "dimension": "玩法",
+      "excerpt": "Hunt Elites and Bosses to claim Rune Stones, then craft them into Legendary and Mythic equipment. Runes and class skill trees interact to define your build, while artifacts you pick up mid-run stack into powerful synergies.",
+      "url": "https://store.steampowered.com/app/2803280/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 22025,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 164925,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 10110,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 356966,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 22989,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 22989,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.339106360458157,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 659,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.74893,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Dragon Is Dead位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/6b8b799a7629b9cdfdba585051114226e7a04660/ss_6b8b799a7629b9cdfdba585051114226e7a04660.1920x1080.jpg?t=1765569649",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/6b8b799a7629b9cdfdba585051114226e7a04660/ss_6b8b799a7629b9cdfdba585051114226e7a04660.1920x1080.jpg?t=1765569649",
+        "alt": "Dragon Is Dead 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/ss_00e706ffaae29ec4c87656dac997dd125b5c619c.1920x1080.jpg?t=1765569649",
+        "alt": "Dragon Is Dead 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/2fe82ee6b08ece6fc86e2d413739872a50aaa849/ss_2fe82ee6b08ece6fc86e2d413739872a50aaa849.1920x1080.jpg?t=1765569649",
+        "alt": "Dragon Is Dead 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/ss_f6cf61229217937bed0e56520475dbab172bb4c4.1920x1080.jpg?t=1765569649",
+        "alt": "Dragon Is Dead 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/ss_eb3074314ffaea5af166c8a1592095bee6376fbb.1920x1080.jpg?t=1765569649",
+        "alt": "Dragon Is Dead 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/ss_6e1cf4c182ece9e222148f8175ff9063981891f8.1920x1080.jpg?t=1765569649",
+        "alt": "Dragon Is Dead 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/7f7b474288007cd6f2df891eab1b760bd2869b11/ss_7f7b474288007cd6f2df891eab1b760bd2869b11.1920x1080.jpg?t=1765569649",
+        "alt": "Dragon Is Dead 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803280/3919970f7338177d1a37a2ee1c30214448547307/ss_3919970f7338177d1a37a2ee1c30214448547307.1920x1080.jpg?t=1765569649",
+        "alt": "Dragon Is Dead 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

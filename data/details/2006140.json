@@ -1,1 +1,314 @@
-{"identity":{"original_title":"Withering Rooms","developers":["Moonless Formless"],"publishers":["Perp Games"],"release_status":"released","release_date":"2024-04-05","tags":["恐怖","动作肉鸽","2.5D画面","冒险","程序生成"]},"hooks":[{"text":"每晚重新生成并改变布局的维多利亚宅邸","dimension":"玩法","excerpt":"Withering Rooms is a challenging 2.5D horror RPG set in a procedurally generated Victorian mansion that changes each night.","url":"https://store.steampowered.com/app/2006140/","label":"证据原文片段"},{"text":"通过仪式跨夜保留物品或获得永久升级","dimension":"玩法","excerpt":"Take the sting out of death by performing rituals to preserve items from night to night or permanently level up.","url":"https://store.steampowered.com/app/2006140/","label":"证据原文片段"},{"text":"用壁橱诅咒陷阱、附魔盔甲与自身诱饵分身施法","dimension":"玩法","excerpt":"Cast a wide variety of spells - create hex traps on closet doors, enchant suits of armor to assist you, or create a decoy mimic of yourself.","url":"https://store.steampowered.com/app/2006140/","label":"证据原文片段"}],"opinions":[{"text":"视觉风格独特且醒目","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"unique and striking visuals","url":"https://store.steampowered.com/curator/45050657-3rd-Person-Survival-Horror/","label":"证据原文片段"}]},{"text":"美术营造的氛围出色","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The atmosphere (art style, SFX, music, etc.) are great","url":"https://steamcommunity.com/id/magusx777/recommended/2006140/","label":"证据原文片段"}]},{"text":"整体操作体验笨拙","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"the game feels very janky","url":"https://store.steampowered.com/curator/45205161-Slop-Patrol/","label":"证据原文片段"}]},{"text":"战斗系统笨重且难以享受","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the cumbersome, clunky combat was unenjoyable","url":"https://steamcommunity.com/id/magusx777/recommended/2006140/","label":"证据原文片段"}]},{"text":"战斗中切换装备的便利性很差","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"比之黑魂都不如的便利性","url":"https://steamcommunity.com/profiles/76561198822668636/recommended/2006140/","label":"证据原文片段"}]},{"text":"随机化对体验影响不够明显","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the randomization isn't very impactful","url":"https://steamcommunity.com/id/alucardx60/recommended/2006140/","label":"证据原文片段"}]},{"text":"游戏系统深度非常高","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"unbelievable depth","url":"https://store.steampowered.com/curator/37765117-Made-For-Gamers/","label":"证据原文片段"}]},{"text":"职业系统允许用多种方式解决冲突","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"innovative class system lets you solve your conflicts in many ways","url":"https://store.steampowered.com/curator/37765117-Made-For-Gamers/","label":"证据原文片段"}]},{"text":"玩法非常容易上瘾","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"addicting as heck to play","url":"https://store.steampowered.com/curator/37765117-Made-For-Gamers/","label":"证据原文片段"}]},{"text":"生存恐怖资源管理与解谜完成度很好","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"delivers wonderfully on survival horror resource management/problem solving","url":"https://steamcommunity.com/id/alucardx60/recommended/2006140/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":31258,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":142345,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8039,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":633862,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":37329,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":37329,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.876194717490291,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1515,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.646438,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["整体操作体验笨拙","战斗系统笨重且难以享受","战斗中切换装备的便利性很差","随机化对体验影响不够明显"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_68917fa94a467f10f8bcc66f63a4c279a3103408.1920x1080.jpg?t=1716559077","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_68917fa94a467f10f8bcc66f63a4c279a3103408.1920x1080.jpg?t=1716559077","alt":"Withering Rooms 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_2773f565cc908b53ab15c3679144845bbcf56df4.1920x1080.jpg?t=1716559077","alt":"Withering Rooms 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_d7a4ddf39ab4419ecb74862586a595b2f0608b52.1920x1080.jpg?t=1716559077","alt":"Withering Rooms 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_636e6635a427e4e93cd5f870c157027701b92196.1920x1080.jpg?t=1716559077","alt":"Withering Rooms 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Withering Rooms",
+    "developers": [
+      "Moonless Formless"
+    ],
+    "publishers": [
+      "Perp Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-05",
+    "tags": [
+      "恐怖",
+      "动作肉鸽",
+      "2.5D画面",
+      "探索",
+      "冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每晚重新生成并改变布局的维多利亚宅邸",
+      "dimension": "玩法",
+      "excerpt": "Withering Rooms is a challenging 2.5D horror RPG set in a procedurally generated Victorian mansion that changes each night.",
+      "url": "https://store.steampowered.com/app/2006140/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "通过仪式跨夜保留物品或获得永久升级",
+      "dimension": "玩法",
+      "excerpt": "Take the sting out of death by performing rituals to preserve items from night to night or permanently level up.",
+      "url": "https://store.steampowered.com/app/2006140/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用壁橱诅咒陷阱、附魔盔甲与自身诱饵分身施法",
+      "dimension": "玩法",
+      "excerpt": "Cast a wide variety of spells - create hex traps on closet doors, enchant suits of armor to assist you, or create a decoy mimic of yourself.",
+      "url": "https://store.steampowered.com/app/2006140/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "视觉风格独特且醒目",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "unique and striking visuals",
+          "url": "https://store.steampowered.com/curator/45050657-3rd-Person-Survival-Horror/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "美术营造的氛围出色",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The atmosphere (art style, SFX, music, etc.) are great",
+          "url": "https://steamcommunity.com/id/magusx777/recommended/2006140/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体操作体验笨拙",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the game feels very janky",
+          "url": "https://store.steampowered.com/curator/45205161-Slop-Patrol/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗系统笨重且难以享受",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the cumbersome, clunky combat was unenjoyable",
+          "url": "https://steamcommunity.com/id/magusx777/recommended/2006140/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗中切换装备的便利性很差",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "比之黑魂都不如的便利性",
+          "url": "https://steamcommunity.com/profiles/76561198822668636/recommended/2006140/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "随机化对体验影响不够明显",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the randomization isn't very impactful",
+          "url": "https://steamcommunity.com/id/alucardx60/recommended/2006140/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏系统深度非常高",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "unbelievable depth",
+          "url": "https://store.steampowered.com/curator/37765117-Made-For-Gamers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "职业系统允许用多种方式解决冲突",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "innovative class system lets you solve your conflicts in many ways",
+          "url": "https://store.steampowered.com/curator/37765117-Made-For-Gamers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法非常容易上瘾",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "addicting as heck to play",
+          "url": "https://store.steampowered.com/curator/37765117-Made-For-Gamers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "生存恐怖资源管理与解谜完成度很好",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "delivers wonderfully on survival horror resource management/problem solving",
+          "url": "https://steamcommunity.com/id/alucardx60/recommended/2006140/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 36810,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 144467,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8063,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 712058,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 43938,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 43938,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.212389222073384,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1180,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.703125,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "整体操作体验笨拙",
+    "战斗系统笨重且难以享受",
+    "战斗中切换装备的便利性很差",
+    "随机化对体验影响不够明显"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Withering Rooms位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_68917fa94a467f10f8bcc66f63a4c279a3103408.1920x1080.jpg?t=1716559077",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_68917fa94a467f10f8bcc66f63a4c279a3103408.1920x1080.jpg?t=1716559077",
+        "alt": "Withering Rooms 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_2773f565cc908b53ab15c3679144845bbcf56df4.1920x1080.jpg?t=1716559077",
+        "alt": "Withering Rooms 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_d7a4ddf39ab4419ecb74862586a595b2f0608b52.1920x1080.jpg?t=1716559077",
+        "alt": "Withering Rooms 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_636e6635a427e4e93cd5f870c157027701b92196.1920x1080.jpg?t=1716559077",
+        "alt": "Withering Rooms 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_78e178ac91723369040020ece9f9723ea964a9e1.1920x1080.jpg?t=1716559077",
+        "alt": "Withering Rooms 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_6629d4b557d80bd7b960b1a71f61271d69d716d4.1920x1080.jpg?t=1716559077",
+        "alt": "Withering Rooms 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_29e1fe0d2a13215ad9d649babd3f08fd9c50e08a.1920x1080.jpg?t=1716559077",
+        "alt": "Withering Rooms 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006140/ss_5fab7cb4234e7df05c9f75aa342454620a1558ce.1920x1080.jpg?t=1716559077",
+        "alt": "Withering Rooms 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

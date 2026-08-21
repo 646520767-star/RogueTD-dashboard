@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Reignbreaker","developers":["Studio Fizbin"],"publishers":["Thunderful Publishing"],"release_status":"released","release_date":"2025-03-18","tags":["动作角色扮演","动作肉鸽","轻度Rogue","类Rogue","砍杀"]},"hooks":[{"text":"中世纪朋克反抗者攻入女王堡垒","dimension":"题材","excerpt":"Reignbreaker is a high-octane action rogue-like set in a dystopian medievalpunk world. Step into the boots of Clef, a fearless rebel determined to rid the world of the Kingdom’s oppression as she lays siege to the Queen’s grand Bastion.","url":"https://store.steampowered.com/app/2129810/","label":"证据原文片段"},{"text":"华丽连招、反击与重击驱动高速战斗","dimension":"玩法","excerpt":"Fast-paced and thrilling gameplay that rewards flashy combos, counters, and heavy hits.","url":"https://store.steampowered.com/app/2129810/","label":"证据原文片段"},{"text":"机动标枪与强化道具构成可定制武库","dimension":"玩法","excerpt":"Explosive, customizable combat with a growing arsenal of motorized javelins and power-ups.","url":"https://store.steampowered.com/app/2129810/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":27810,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":91508,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6095,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":156459,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":31948,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":31948,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.902247623367244,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":535,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":76,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.932836,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作角色扮演、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_c7730c78e30bcf21f02ff95132ad4d38ccdb67c6.1920x1080.jpg?t=1759330357","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_c7730c78e30bcf21f02ff95132ad4d38ccdb67c6.1920x1080.jpg?t=1759330357","alt":"Reignbreaker 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_b529caef5e4cb42d60370f59d29dbb9f0d04cf74.1920x1080.jpg?t=1759330357","alt":"Reignbreaker 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_bc68e83b4a57b67ed3037e96ca463525e2f981df.1920x1080.jpg?t=1759330357","alt":"Reignbreaker 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_ac7d2d2b1fde8d5b4e1970249dbae79215a6dfc1.1920x1080.jpg?t=1759330357","alt":"Reignbreaker 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Reignbreaker",
+    "developers": [
+      "Studio Fizbin"
+    ],
+    "publishers": [
+      "Thunderful Publishing"
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-18",
+    "tags": [
+      "动作角色扮演",
+      "动作肉鸽",
+      "轻度Rogue",
+      "类Rogue",
+      "砍杀"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "中世纪朋克反抗者攻入女王堡垒",
+      "dimension": "题材",
+      "excerpt": "Reignbreaker is a high-octane action rogue-like set in a dystopian medievalpunk world. Step into the boots of Clef, a fearless rebel determined to rid the world of the Kingdom’s oppression as she lays siege to the Queen’s grand Bastion.",
+      "url": "https://store.steampowered.com/app/2129810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "华丽连招、反击与重击驱动高速战斗",
+      "dimension": "玩法",
+      "excerpt": "Fast-paced and thrilling gameplay that rewards flashy combos, counters, and heavy hits.",
+      "url": "https://store.steampowered.com/app/2129810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "机动标枪与强化道具构成可定制武库",
+      "dimension": "玩法",
+      "excerpt": "Explosive, customizable combat with a growing arsenal of motorized javelins and power-ups.",
+      "url": "https://store.steampowered.com/app/2129810/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 29234,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 92050,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6191,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 159412,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 33597,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 33597,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.9063648471412638,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 439,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.881262,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Reignbreaker位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_c7730c78e30bcf21f02ff95132ad4d38ccdb67c6.1920x1080.jpg?t=1759330357",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_c7730c78e30bcf21f02ff95132ad4d38ccdb67c6.1920x1080.jpg?t=1759330357",
+        "alt": "Reignbreaker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_b529caef5e4cb42d60370f59d29dbb9f0d04cf74.1920x1080.jpg?t=1759330357",
+        "alt": "Reignbreaker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_bc68e83b4a57b67ed3037e96ca463525e2f981df.1920x1080.jpg?t=1759330357",
+        "alt": "Reignbreaker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_ac7d2d2b1fde8d5b4e1970249dbae79215a6dfc1.1920x1080.jpg?t=1759330357",
+        "alt": "Reignbreaker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_9daced38fa767bc5219175dc6249c86312722b3f.1920x1080.jpg?t=1759330357",
+        "alt": "Reignbreaker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_5438dc4f508a1064b00e0b1f6fedfa2aef266ec5.1920x1080.jpg?t=1759330357",
+        "alt": "Reignbreaker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_9300530e64059c61896b1802cf6d8843be7e0491.1920x1080.jpg?t=1759330357",
+        "alt": "Reignbreaker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129810/ss_b3805ad664f6e0400689befb02bdde68fa9444e6.1920x1080.jpg?t=1759330357",
+        "alt": "Reignbreaker 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

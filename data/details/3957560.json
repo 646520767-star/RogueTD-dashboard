@@ -1,1 +1,178 @@
-{"identity":{"original_title":"S.E.M.I. – Side Effects May Include...","developers":["Two Horn Unicorn"],"publishers":["Two Horn Unicorn"],"release_status":"released","release_date":"2026-01-23","tags":["合作","平台跳跃","物理模拟","多人游戏","在线合作"]},"hooks":[{"text":"最多4名患者在线合作逃离诊所，可用语音协调，也能互相破坏、救人和打架制造混乱。","dimension":"玩法","excerpt":"Here, you and up to 3 of your brainless loyal friends play as patients, fighting staff and other patients while stumbling into all sorts of unexpected situations.","url":"https://store.steampowered.com/app/3957560/","label":"证据原文片段"},{"text":"实验药丸会随机赋予无敌怪物、激光复视或巨大缩小等能力，并可能失控。","dimension":"玩法","excerpt":"Take pills and get abilities : Bipolar force is an invulnerable monster, then a helpless rag! Laser astigmatism — two sights, one laser… Where will he shoot? Stendhal syndrome — are you looking at a painting? Now you're hysterical and destroying everything around you! Alice's syndrome is either tiny or gigantic — have time to adjust!","url":"https://store.steampowered.com/app/3957560/","label":"证据原文片段"},{"text":"逃生地图由随机房间拼成，包含重力变化、陷阱和移动墙，一次误操作即可拖垮整队。","dimension":"玩法","excerpt":"Locations are randomly generated from rooms with changing gravity, traps, moving walls, and other \"pleasant\" surprises.","url":"https://store.steampowered.com/app/3957560/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5563,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":30504,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1250,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":33927,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9369,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9369,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.1589225982381635,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":112,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.714286,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"合作、平台跳跃","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/843b9dc2304df29e26d2741715d08fdab73d131a/ss_843b9dc2304df29e26d2741715d08fdab73d131a.1920x1080.jpg?t=1769777569","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/843b9dc2304df29e26d2741715d08fdab73d131a/ss_843b9dc2304df29e26d2741715d08fdab73d131a.1920x1080.jpg?t=1769777569","alt":"S.E.M.I. – Side Effects May Include... 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/4b3ba3e06d0b06673a3e0b5480a2f9618bf033ba/ss_4b3ba3e06d0b06673a3e0b5480a2f9618bf033ba.1920x1080.jpg?t=1769777569","alt":"S.E.M.I. – Side Effects May Include... 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/75247ae6122079727bbc54c0dc7ee0151b48d17f/ss_75247ae6122079727bbc54c0dc7ee0151b48d17f.1920x1080.jpg?t=1769777569","alt":"S.E.M.I. – Side Effects May Include... 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/c673982116a1affd09a6fdeadf51788d24381c28/ss_c673982116a1affd09a6fdeadf51788d24381c28.1920x1080.jpg?t=1769777569","alt":"S.E.M.I. – Side Effects May Include... 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "S.E.M.I. – Side Effects May Include...",
+    "developers": [
+      "Two Horn Unicorn"
+    ],
+    "publishers": [
+      "Two Horn Unicorn"
+    ],
+    "release_status": "released",
+    "release_date": "2026-01-23",
+    "tags": [
+      "合作",
+      "平台跳跃",
+      "物理模拟",
+      "多人游戏",
+      "在线合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "最多4名患者在线合作逃离诊所，可用语音协调，也能互相破坏、救人和打架制造混乱。",
+      "dimension": "玩法",
+      "excerpt": "Here, you and up to 3 of your brainless loyal friends play as patients, fighting staff and other patients while stumbling into all sorts of unexpected situations.",
+      "url": "https://store.steampowered.com/app/3957560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "实验药丸会随机赋予无敌怪物、激光复视或巨大缩小等能力，并可能失控。",
+      "dimension": "玩法",
+      "excerpt": "Take pills and get abilities : Bipolar force is an invulnerable monster, then a helpless rag! Laser astigmatism — two sights, one laser… Where will he shoot? Stendhal syndrome — are you looking at a painting? Now you're hysterical and destroying everything around you! Alice's syndrome is either tiny or gigantic — have time to adjust!",
+      "url": "https://store.steampowered.com/app/3957560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "逃生地图由随机房间拼成，包含重力变化、陷阱和移动墙，一次误操作即可拖垮整队。",
+      "dimension": "玩法",
+      "excerpt": "Locations are randomly generated from rooms with changing gravity, traps, moving walls, and other \"pleasant\" surprises.",
+      "url": "https://store.steampowered.com/app/3957560/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6328,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 30684,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1258,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 40059,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10658,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10658,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.161909364201728,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 47,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.714286,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "S.E.M.I. – Side Effects May Include...位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/843b9dc2304df29e26d2741715d08fdab73d131a/ss_843b9dc2304df29e26d2741715d08fdab73d131a.1920x1080.jpg?t=1769777569",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/843b9dc2304df29e26d2741715d08fdab73d131a/ss_843b9dc2304df29e26d2741715d08fdab73d131a.1920x1080.jpg?t=1769777569",
+        "alt": "S.E.M.I. – Side Effects May Include... 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/4b3ba3e06d0b06673a3e0b5480a2f9618bf033ba/ss_4b3ba3e06d0b06673a3e0b5480a2f9618bf033ba.1920x1080.jpg?t=1769777569",
+        "alt": "S.E.M.I. – Side Effects May Include... 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/75247ae6122079727bbc54c0dc7ee0151b48d17f/ss_75247ae6122079727bbc54c0dc7ee0151b48d17f.1920x1080.jpg?t=1769777569",
+        "alt": "S.E.M.I. – Side Effects May Include... 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/c673982116a1affd09a6fdeadf51788d24381c28/ss_c673982116a1affd09a6fdeadf51788d24381c28.1920x1080.jpg?t=1769777569",
+        "alt": "S.E.M.I. – Side Effects May Include... 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/79086c9d3f7119e6a17542cfa8144fc3f57b712a/ss_79086c9d3f7119e6a17542cfa8144fc3f57b712a.1920x1080.jpg?t=1769777569",
+        "alt": "S.E.M.I. – Side Effects May Include... 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/c6fa6e548d5451e14def3b797bf1e472c1ee49ba/ss_c6fa6e548d5451e14def3b797bf1e472c1ee49ba.1920x1080.jpg?t=1769777569",
+        "alt": "S.E.M.I. – Side Effects May Include... 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/f0091eb4e90b1c42c4f3c4ea890e675966b64381/ss_f0091eb4e90b1c42c4f3c4ea890e675966b64381.1920x1080.jpg?t=1769777569",
+        "alt": "S.E.M.I. – Side Effects May Include... 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957560/83ee59249dc1db421c9010e49fc7fefeafa0d424/ss_83ee59249dc1db421c9010e49fc7fefeafa0d424.1920x1080.jpg?t=1769777569",
+        "alt": "S.E.M.I. – Side Effects May Include... 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Feed the Cups","developers":["Vambear Games"],"publishers":["IndieArk"],"release_status":"early_access","release_date":"2024-02-20","tags":["抢先体验","可爱","模拟","在线合作","制作"]},"hooks":[{"text":"从备货、备料、接单、调饮到清洁和设备检查，完整拆解饮品店流水线。","dimension":"玩法","excerpt":"Run a Drink Shop, stocking up, preparing ingredients, taking orders, crafting drinks, cleaning up, and checking equipment.","url":"https://store.steampowered.com/app/2336220/","label":"证据原文片段"},{"text":"错误过多会让压力值飙升，把手忙脚乱直接转化为失败风险。","dimension":"玩法","excerpt":"Be careful, as too many mistakes can cause the \"pressure\" to skyrocket!","url":"https://store.steampowered.com/app/2336220/","label":"证据原文片段"},{"text":"支持本地双人、远程联机与2至4人在线合作，让岗位分工成为核心乐趣。","dimension":"玩法","excerpt":"The game currently supports local 2-player or remote multiplayer mode, as well as a 2-4 player online cooperative mode with friends!","url":"https://store.steampowered.com/app/2336220/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":436967,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":210977,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":16097,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":4553776,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":541089,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":541089,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":51.62762494245048,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":6395,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":71,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":70.700438,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、可爱","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_2bf5c26f1ba1dea20af9eb64e31760ac2ea84681.1920x1080.jpg?t=1758506725","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_2bf5c26f1ba1dea20af9eb64e31760ac2ea84681.1920x1080.jpg?t=1758506725","alt":"杯杯倒满 Feed The Cups 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_3e38c87db67288b84bc09ddaec9c2e0359ec2102.1920x1080.jpg?t=1758506725","alt":"杯杯倒满 Feed The Cups 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_30897bba0e69fc295d516404c326cb042ebdbe86.1920x1080.jpg?t=1758506725","alt":"杯杯倒满 Feed The Cups 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_e3d3faa8d743ab858b1ccc6c8452c326b8f03b95.1920x1080.jpg?t=1758506725","alt":"杯杯倒满 Feed The Cups 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Feed the Cups",
+    "developers": [
+      "Vambear Games"
+    ],
+    "publishers": [
+      "IndieArk"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-02-20",
+    "tags": [
+      "抢先体验",
+      "可爱",
+      "模拟",
+      "在线合作",
+      "在线合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从备货、备料、接单、调饮到清洁和设备检查，完整拆解饮品店流水线。",
+      "dimension": "玩法",
+      "excerpt": "Run a Drink Shop, stocking up, preparing ingredients, taking orders, crafting drinks, cleaning up, and checking equipment.",
+      "url": "https://store.steampowered.com/app/2336220/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "错误过多会让压力值飙升，把手忙脚乱直接转化为失败风险。",
+      "dimension": "玩法",
+      "excerpt": "Be careful, as too many mistakes can cause the \"pressure\" to skyrocket!",
+      "url": "https://store.steampowered.com/app/2336220/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "支持本地双人、远程联机与2至4人在线合作，让岗位分工成为核心乐趣。",
+      "dimension": "玩法",
+      "excerpt": "The game currently supports local 2-player or remote multiplayer mode, as well as a 2-4 player online cooperative mode with friends!",
+      "url": "https://store.steampowered.com/app/2336220/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 446718,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 208392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 16171,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 4632442,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 553810,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 553810,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 51.36674587362123,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 4674,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 71,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 70.783039,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "杯杯倒满 Feed The Cups位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_2bf5c26f1ba1dea20af9eb64e31760ac2ea84681.1920x1080.jpg?t=1758506725",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_2bf5c26f1ba1dea20af9eb64e31760ac2ea84681.1920x1080.jpg?t=1758506725",
+        "alt": "杯杯倒满 Feed The Cups 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_3e38c87db67288b84bc09ddaec9c2e0359ec2102.1920x1080.jpg?t=1758506725",
+        "alt": "杯杯倒满 Feed The Cups 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_30897bba0e69fc295d516404c326cb042ebdbe86.1920x1080.jpg?t=1758506725",
+        "alt": "杯杯倒满 Feed The Cups 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_e3d3faa8d743ab858b1ccc6c8452c326b8f03b95.1920x1080.jpg?t=1758506725",
+        "alt": "杯杯倒满 Feed The Cups 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_5cbc62018b863e36fbb07f9f0b998ff3609d60ef.1920x1080.jpg?t=1758506725",
+        "alt": "杯杯倒满 Feed The Cups 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_97e26e25313975f69faafbd1c79ec3aee0b23f5b.1920x1080.jpg?t=1758506725",
+        "alt": "杯杯倒满 Feed The Cups 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_3c16d29fc078879e36cb00fec5dc536ab4c88b9b.1920x1080.jpg?t=1758506725",
+        "alt": "杯杯倒满 Feed The Cups 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336220/ss_067ade8933a507956dbdcb79fcb8d0221c01f558.1920x1080.jpg?t=1758506725",
+        "alt": "杯杯倒满 Feed The Cups 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Merge Maestro","developers":["Stingless"],"publishers":["Stingless"],"release_status":"released","release_date":"2025-06-19","tags":["肉鸽卡组构筑","策略","类Rogue","街机","卡组构筑"]},"hooks":[{"text":"棋盘上相同Emoji令牌可以合并升级，每波结束再从新令牌中补充自己的组合池。","dimension":"玩法","excerpt":"Place Tokens on on the board and Merge tokens of the same type to make ones of a higher Level. Higher Level Tokens are Stronger!! Choose a new Token to add to your set at the end of every wave.","url":"https://store.steampowered.com/app/3519530/","label":"证据原文片段"},{"text":"350多种Emoji令牌与90多种改变跑局机制的能力，为组合构筑提供大规模的效果池。","dimension":"玩法","excerpt":"350+ Unique Emoji based Tokens to be discovered with their own special effects 90+ Game-changing Powers to experiment with, each completely changing the mechanics of a run","url":"https://store.steampowered.com/app/3519530/","label":"证据原文片段"},{"text":"八档难度逐步迫使玩家适应更狡猾的敌人，另有二十项挑战直接改写游戏规则。","dimension":"玩法","excerpt":"8 Difficulty modes that progressively force you to learn and adapt to ever more cunning enemies 20 Challenges that completely change the way the game is played","url":"https://store.steampowered.com/app/3519530/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":35881,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":13981,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":479,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":88265,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":36338,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":36338,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.051427240307873,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":389,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.830334,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/4b9f0dcb5c739747bc75db544987c5954d14cb63/ss_4b9f0dcb5c739747bc75db544987c5954d14cb63.1920x1080.jpg?t=1768180353","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/4b9f0dcb5c739747bc75db544987c5954d14cb63/ss_4b9f0dcb5c739747bc75db544987c5954d14cb63.1920x1080.jpg?t=1768180353","alt":"Merge Maestro 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/c3d541648d55561f58daba748d3e764189a418ad/ss_c3d541648d55561f58daba748d3e764189a418ad.1920x1080.jpg?t=1768180353","alt":"Merge Maestro 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/c9e8fccc05df50849be29611b666a168e93afa9b/ss_c9e8fccc05df50849be29611b666a168e93afa9b.1920x1080.jpg?t=1768180353","alt":"Merge Maestro 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/a3be86499ba5882cf514a8aed1a414076f116965/ss_a3be86499ba5882cf514a8aed1a414076f116965.1920x1080.jpg?t=1768180353","alt":"Merge Maestro 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Merge Maestro",
+    "developers": [
+      "Stingless"
+    ],
+    "publishers": [
+      "Stingless"
+    ],
+    "release_status": "released",
+    "release_date": "2025-06-19",
+    "tags": [
+      "肉鸽卡组构筑",
+      "策略",
+      "类Rogue",
+      "街机",
+      "卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "棋盘上相同Emoji令牌可以合并升级，每波结束再从新令牌中补充自己的组合池。",
+      "dimension": "玩法",
+      "excerpt": "Place Tokens on on the board and Merge tokens of the same type to make ones of a higher Level. Higher Level Tokens are Stronger!! Choose a new Token to add to your set at the end of every wave.",
+      "url": "https://store.steampowered.com/app/3519530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "350多种Emoji令牌与90多种改变跑局机制的能力，为组合构筑提供大规模的效果池。",
+      "dimension": "玩法",
+      "excerpt": "350+ Unique Emoji based Tokens to be discovered with their own special effects 90+ Game-changing Powers to experiment with, each completely changing the mechanics of a run",
+      "url": "https://store.steampowered.com/app/3519530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "八档难度逐步迫使玩家适应更狡猾的敌人，另有二十项挑战直接改写游戏规则。",
+      "dimension": "玩法",
+      "excerpt": "8 Difficulty modes that progressively force you to learn and adapt to ever more cunning enemies 20 Challenges that completely change the way the game is played",
+      "url": "https://store.steampowered.com/app/3519530/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 36487,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 14064,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 482,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 91555,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 36952,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 36952,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.994386024402118,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 383,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.846154,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Merge Maestro位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/4b9f0dcb5c739747bc75db544987c5954d14cb63/ss_4b9f0dcb5c739747bc75db544987c5954d14cb63.1920x1080.jpg?t=1768180353",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/4b9f0dcb5c739747bc75db544987c5954d14cb63/ss_4b9f0dcb5c739747bc75db544987c5954d14cb63.1920x1080.jpg?t=1785813270",
+        "alt": "Merge Maestro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/c3d541648d55561f58daba748d3e764189a418ad/ss_c3d541648d55561f58daba748d3e764189a418ad.1920x1080.jpg?t=1785813270",
+        "alt": "Merge Maestro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/c9e8fccc05df50849be29611b666a168e93afa9b/ss_c9e8fccc05df50849be29611b666a168e93afa9b.1920x1080.jpg?t=1785813270",
+        "alt": "Merge Maestro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/a3be86499ba5882cf514a8aed1a414076f116965/ss_a3be86499ba5882cf514a8aed1a414076f116965.1920x1080.jpg?t=1785813270",
+        "alt": "Merge Maestro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/0753b1161d4d50a874cff1a00ad1d77df21942cd/ss_0753b1161d4d50a874cff1a00ad1d77df21942cd.1920x1080.jpg?t=1785813270",
+        "alt": "Merge Maestro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/76989552ce68996ffba9ded8e4635c6f7721a01a/ss_76989552ce68996ffba9ded8e4635c6f7721a01a.1920x1080.jpg?t=1785813270",
+        "alt": "Merge Maestro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/5074134760707ecc9050bcd2cba29f641218b74f/ss_5074134760707ecc9050bcd2cba29f641218b74f.1920x1080.jpg?t=1785813270",
+        "alt": "Merge Maestro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3519530/1d2dcbc3021a0ca5d5fb74ad3453d83748259daf/ss_1d2dcbc3021a0ca5d5fb74ad3453d83748259daf.1920x1080.jpg?t=1785813270",
+        "alt": "Merge Maestro 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

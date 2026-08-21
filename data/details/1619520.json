@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Cross Blitz","developers":["Tako Boy Studios LLC"],"publishers":["The Arcade Crew","Gamirror Games"],"release_status":"released","release_date":"2025-11-24","tags":["轻度Rogue","卡组构筑","角色扮演","卡牌游戏","卡牌对战"]},"hooks":[{"text":"4×4战场同时考验卡牌效果、落位与协同","dimension":"玩法","excerpt":"For each encounter you face on the 4x4 grid battlefield, you’ll need to carefully consider your card’s effects and placement , while strategizing around your deck’s synergies.","url":"https://store.steampowered.com/app/1619520/","label":"证据原文片段"},{"text":"500张卡、160件遗物与20流派覆盖五阵营","dimension":"玩法","excerpt":"With over 500 cards, 160 relics, and 20 archetypes across 5 factions , infinite ways to Blitz await!","url":"https://store.steampowered.com/app/1619520/","label":"证据原文片段"},{"text":"五名英雄各有完整战役与个人成长弧线","dimension":"故事","excerpt":"Follow 5 determined heroes in the Fables Story Mode, and experience each full-length story campaign packed with action and intrigue! From hilarious moments to epic showdowns, witness each hero overcoming their struggles and achieving profound personal growth .","url":"https://store.steampowered.com/app/1619520/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":39878,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":118197,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8288,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":566276,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":42096,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":42096,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":18.680532633490795,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1634,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":75,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.488998,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/b203ee775faed6abe93239fb78ec83ce28f59888/ss_b203ee775faed6abe93239fb78ec83ce28f59888.1920x1080.jpg?t=1764925994","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/b203ee775faed6abe93239fb78ec83ce28f59888/ss_b203ee775faed6abe93239fb78ec83ce28f59888.1920x1080.jpg?t=1764925994","alt":"纵横命途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/d3a5a2c2cac9f2168fdf61906c213ff6a5a0958b/ss_d3a5a2c2cac9f2168fdf61906c213ff6a5a0958b.1920x1080.jpg?t=1764925994","alt":"纵横命途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/c29454619fbd1a94fed2c1809a97ad872ed724c9/ss_c29454619fbd1a94fed2c1809a97ad872ed724c9.1920x1080.jpg?t=1764925994","alt":"纵横命途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/5a4f2ee44e1ed080d3a59e943dc5e54daf29c6b9/ss_5a4f2ee44e1ed080d3a59e943dc5e54daf29c6b9.1920x1080.jpg?t=1764925994","alt":"纵横命途 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Cross Blitz",
+    "developers": [
+      "Tako Boy Studios LLC"
+    ],
+    "publishers": [
+      "The Arcade Crew",
+      "Gamirror Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-24",
+    "tags": [
+      "轻度Rogue",
+      "卡组构筑",
+      "角色扮演",
+      "卡牌游戏",
+      "卡牌对战"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "4×4战场同时考验卡牌效果、落位与协同",
+      "dimension": "玩法",
+      "excerpt": "For each encounter you face on the 4x4 grid battlefield, you’ll need to carefully consider your card’s effects and placement , while strategizing around your deck’s synergies.",
+      "url": "https://store.steampowered.com/app/1619520/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "500张卡、160件遗物与20流派覆盖五阵营",
+      "dimension": "玩法",
+      "excerpt": "With over 500 cards, 160 relics, and 20 archetypes across 5 factions , infinite ways to Blitz await!",
+      "url": "https://store.steampowered.com/app/1619520/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "五名英雄各有完整战役与个人成长弧线",
+      "dimension": "故事",
+      "excerpt": "Follow 5 determined heroes in the Fables Story Mode, and experience each full-length story campaign packed with action and intrigue! From hilarious moments to epic showdowns, witness each hero overcoming their struggles and achieving profound personal growth .",
+      "url": "https://store.steampowered.com/app/1619520/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 41102,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 117619,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8297,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 556306,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 43372,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 43372,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 18.793048459621616,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1535,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.587703,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "纵横命途位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/b203ee775faed6abe93239fb78ec83ce28f59888/ss_b203ee775faed6abe93239fb78ec83ce28f59888.1920x1080.jpg?t=1764925994",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/b203ee775faed6abe93239fb78ec83ce28f59888/ss_b203ee775faed6abe93239fb78ec83ce28f59888.1920x1080.jpg?t=1764925994",
+        "alt": "纵横命途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/d3a5a2c2cac9f2168fdf61906c213ff6a5a0958b/ss_d3a5a2c2cac9f2168fdf61906c213ff6a5a0958b.1920x1080.jpg?t=1764925994",
+        "alt": "纵横命途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/c29454619fbd1a94fed2c1809a97ad872ed724c9/ss_c29454619fbd1a94fed2c1809a97ad872ed724c9.1920x1080.jpg?t=1764925994",
+        "alt": "纵横命途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/5a4f2ee44e1ed080d3a59e943dc5e54daf29c6b9/ss_5a4f2ee44e1ed080d3a59e943dc5e54daf29c6b9.1920x1080.jpg?t=1764925994",
+        "alt": "纵横命途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/a70ef01da49c89acb58d76ad7deca3eff62f5521/ss_a70ef01da49c89acb58d76ad7deca3eff62f5521.1920x1080.jpg?t=1764925994",
+        "alt": "纵横命途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/32b35f74fefc1b5e69e655a6d1124f159121b596/ss_32b35f74fefc1b5e69e655a6d1124f159121b596.1920x1080.jpg?t=1764925994",
+        "alt": "纵横命途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/214529566a1ffc0ec1cb566b2b86cf9d65ae8680/ss_214529566a1ffc0ec1cb566b2b86cf9d65ae8680.1920x1080.jpg?t=1764925994",
+        "alt": "纵横命途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/bd7af000938b8f7f84f65b22f0a12bf0569bca2a/ss_bd7af000938b8f7f84f65b22f0a12bf0569bca2a.1920x1080.jpg?t=1764925994",
+        "alt": "纵横命途 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

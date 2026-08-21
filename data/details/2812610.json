@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Curtain Call","developers":["元气弹工作室(GD Studio)"],"publishers":["IndieArk"],"release_status":"released","release_date":"2024-11-14","tags":["卡牌对战","策略","卡牌游戏","轻度Rogue","类Rogue"]},"hooks":[{"text":"开战前排列演出者，以站位组合触发协同与强力连招","dimension":"玩法","excerpt":"Order your performers before the battle begins, building synergies and powerful combos.","url":"https://store.steampowered.com/app/2812610/","label":"证据原文片段"},{"text":"100多名善恶演出者与100件道具组成大规模联动构筑池","dimension":"玩法","excerpt":"Curtain Call boasts over 100 Good and Evil performers along with 100 different items, with a range of synergies between them for nigh-on infinite possibilities.","url":"https://store.steampowered.com/app/2812610/","label":"证据原文片段"},{"text":"古典历史与文化被重绘成充满喜剧感的迷人漫画风格","dimension":"画风","excerpt":"Building on the art of Noobs Want to Live, Curtain Call's art design draws on classical history and culture to create an enchanting caricature style.","url":"https://store.steampowered.com/app/2812610/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6653,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":13980,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":782,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":36563,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7382,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7382,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.960187513304405,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":156,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.820513,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"卡牌对战、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_f6338de38c563da8632dece68180f0b8fd8ce424.1920x1080.jpg?t=1737527098","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_f6338de38c563da8632dece68180f0b8fd8ce424.1920x1080.jpg?t=1737527098","alt":"元气小剧场 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_82e3215830bec511e36288e4bdaebc0caeed0e45.1920x1080.jpg?t=1737527098","alt":"元气小剧场 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_5f1b11ba38d21afc30465a958384b02fe9662004.1920x1080.jpg?t=1737527098","alt":"元气小剧场 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_304c212c192275a296765dc21540ee05aa8939c6.1920x1080.jpg?t=1737527098","alt":"元气小剧场 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Curtain Call",
+    "developers": [
+      "元气弹工作室(GD Studio)"
+    ],
+    "publishers": [
+      "IndieArk"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-14",
+    "tags": [
+      "卡牌对战",
+      "策略",
+      "卡牌游戏",
+      "轻度Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "开战前排列演出者，以站位组合触发协同与强力连招",
+      "dimension": "玩法",
+      "excerpt": "Order your performers before the battle begins, building synergies and powerful combos.",
+      "url": "https://store.steampowered.com/app/2812610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "100多名善恶演出者与100件道具组成大规模联动构筑池",
+      "dimension": "玩法",
+      "excerpt": "Curtain Call boasts over 100 Good and Evil performers along with 100 different items, with a range of synergies between them for nigh-on infinite possibilities.",
+      "url": "https://store.steampowered.com/app/2812610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "古典历史与文化被重绘成充满喜剧感的迷人漫画风格",
+      "dimension": "画风",
+      "excerpt": "Building on the art of Noobs Want to Live, Curtain Call's art design draws on classical history and culture to create an enchanting caricature style.",
+      "url": "https://store.steampowered.com/app/2812610/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6756,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 14063,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 782,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 37529,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7496,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7496,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.960187513304405,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 134,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.820513,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "元气小剧场位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_f6338de38c563da8632dece68180f0b8fd8ce424.1920x1080.jpg?t=1737527098",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_f6338de38c563da8632dece68180f0b8fd8ce424.1920x1080.jpg?t=1737527098",
+        "alt": "元气小剧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_82e3215830bec511e36288e4bdaebc0caeed0e45.1920x1080.jpg?t=1737527098",
+        "alt": "元气小剧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_5f1b11ba38d21afc30465a958384b02fe9662004.1920x1080.jpg?t=1737527098",
+        "alt": "元气小剧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_304c212c192275a296765dc21540ee05aa8939c6.1920x1080.jpg?t=1737527098",
+        "alt": "元气小剧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_c3c3cfa1082707b84abc98e8b5051ffbfb153ceb.1920x1080.jpg?t=1737527098",
+        "alt": "元气小剧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_026d7c8fe3d985ad3970aca3aa6ceca0550d3881.1920x1080.jpg?t=1737527098",
+        "alt": "元气小剧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812610/ss_430c74dfcbbe53fc126e429e1d58d1e9c987fcb4.1920x1080.jpg?t=1737527098",
+        "alt": "元气小剧场 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

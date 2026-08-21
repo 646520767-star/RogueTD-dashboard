@@ -1,1 +1,181 @@
-{"identity":{"original_title":"Omelet You Cook","developers":["Dan Schumacher","Hjalte Tagmose"],"publishers":["SchuBox Games","Gamersky Games"],"release_status":"released","release_date":"2026-02-08","tags":["肉鸽卡组构筑","物理模拟","高重复可玩性","轻度Rogue","动作肉鸽"]},"hooks":[{"text":"从传送带抓取食材即时组装煎蛋，满足古怪学生的点单要求","dimension":"玩法","excerpt":"Assemble omelets for quirky students using ingredients from a conveyor belt.","url":"https://store.steampowered.com/app/3205380/","label":"证据原文片段"},{"text":"每轮叠加新障碍、限制与分数门槛，持续压缩料理决策空间","dimension":"玩法","excerpt":"Each round brings new hazards, restrictions, and ever-increasing score thresholds that will push your culinary creativity to its limits.","url":"https://store.steampowered.com/app/3205380/","label":"证据原文片段"},{"text":"顾客各有独特口味，必须临场改配方应对从培根到甜甜圈的怪组合","dimension":"玩法","excerpt":"Every customer has a distinct personality and unique tastes, so you’ll need to stay versatile and adjust your recipes on the fly.","url":"https://store.steampowered.com/app/3205380/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":90597,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":144890,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5001,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":770603,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":93630,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":93630,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.997076376573256,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1556,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.107969,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、物理模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/6f0766e01851edd80a0cc447be190119c19128b2/ss_6f0766e01851edd80a0cc447be190119c19128b2.1920x1080.jpg?t=1784787425","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/6f0766e01851edd80a0cc447be190119c19128b2/ss_6f0766e01851edd80a0cc447be190119c19128b2.1920x1080.jpg?t=1784787425","alt":"Omelet You Cook 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/e3cd700e0b1c0a041abf17cace3a16076ff9e07c/ss_e3cd700e0b1c0a041abf17cace3a16076ff9e07c.1920x1080.jpg?t=1784787425","alt":"Omelet You Cook 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/90bb2b4b995417cfcab6345d0c8c038b2cedc007/ss_90bb2b4b995417cfcab6345d0c8c038b2cedc007.1920x1080.jpg?t=1784787425","alt":"Omelet You Cook 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/a8e530dd6d3d03545cc079a6b7cf7babdb569d70/ss_a8e530dd6d3d03545cc079a6b7cf7babdb569d70.1920x1080.jpg?t=1784787425","alt":"Omelet You Cook 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Omelet You Cook",
+    "developers": [
+      "Dan Schumacher",
+      "Hjalte Tagmose"
+    ],
+    "publishers": [
+      "SchuBox Games",
+      "Bird Gang",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-08",
+    "tags": [
+      "肉鸽卡组构筑",
+      "在线合作",
+      "物理模拟",
+      "高重复可玩性",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从传送带抓取食材即时组装煎蛋，满足古怪学生的点单要求",
+      "dimension": "玩法",
+      "excerpt": "Assemble omelets for quirky students using ingredients from a conveyor belt.",
+      "url": "https://store.steampowered.com/app/3205380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮叠加新障碍、限制与分数门槛，持续压缩料理决策空间",
+      "dimension": "玩法",
+      "excerpt": "Each round brings new hazards, restrictions, and ever-increasing score thresholds that will push your culinary creativity to its limits.",
+      "url": "https://store.steampowered.com/app/3205380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "顾客各有独特口味，必须临场改配方应对从培根到甜甜圈的怪组合",
+      "dimension": "玩法",
+      "excerpt": "Every customer has a distinct personality and unique tastes, so you’ll need to stay versatile and adjust your recipes on the fly.",
+      "url": "https://store.steampowered.com/app/3205380/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 92903,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 144471,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5058,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 798294,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 96000,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 96000,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.032194226948162,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1511,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.09596,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Omelet You Cook位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/6f0766e01851edd80a0cc447be190119c19128b2/ss_6f0766e01851edd80a0cc447be190119c19128b2.1920x1080.jpg?t=1784787425",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/6f0766e01851edd80a0cc447be190119c19128b2/ss_6f0766e01851edd80a0cc447be190119c19128b2.1920x1080.jpg?t=1786096589",
+        "alt": "Omelet You Cook 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/e3cd700e0b1c0a041abf17cace3a16076ff9e07c/ss_e3cd700e0b1c0a041abf17cace3a16076ff9e07c.1920x1080.jpg?t=1786096589",
+        "alt": "Omelet You Cook 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/90bb2b4b995417cfcab6345d0c8c038b2cedc007/ss_90bb2b4b995417cfcab6345d0c8c038b2cedc007.1920x1080.jpg?t=1786096589",
+        "alt": "Omelet You Cook 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/a8e530dd6d3d03545cc079a6b7cf7babdb569d70/ss_a8e530dd6d3d03545cc079a6b7cf7babdb569d70.1920x1080.jpg?t=1786096589",
+        "alt": "Omelet You Cook 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/fa0f204451d14488e01774e05312ee9638606377/ss_fa0f204451d14488e01774e05312ee9638606377.1920x1080.jpg?t=1786096589",
+        "alt": "Omelet You Cook 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/ce69a356fa19f66e5aabbbf4dcf3db0cd7476073/ss_ce69a356fa19f66e5aabbbf4dcf3db0cd7476073.1920x1080.jpg?t=1786096589",
+        "alt": "Omelet You Cook 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/f319944ae16bde61638cfe4017ba1a3e9923c0fa/ss_f319944ae16bde61638cfe4017ba1a3e9923c0fa.1920x1080.jpg?t=1786096589",
+        "alt": "Omelet You Cook 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205380/8d7b51fbbf24b3695d28989ad5cb1e0cf6bbf94b/ss_8d7b51fbbf24b3695d28989ad5cb1e0cf6bbf94b.1920x1080.jpg?t=1786096589",
+        "alt": "Omelet You Cook 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,220 @@
-{"identity":{"original_title":"Last Pirates: Die Together","developers":["RetroStyle Games"],"publishers":["RetroStyle Games","Judatone Studios"],"release_status":"coming_soon","release_date":"2026-08-18","tags":["在线合作","恐怖","幽默","合作","第一人称"]},"hooks":[{"text":"海盗用异常伸长的双臂抓取物体，甚至能拆门、搬家具或破坏岛屿搜刮财宝","dimension":"玩法","excerpt":"You are quite an unusual sailor! I bet you can grab just about anything with those pairs of hands. Dismantle doors, grab furniture, or destroy the island for all I care!","url":"https://store.steampowered.com/app/4317790/","label":"证据原文片段"},{"text":"最多四名船员必须协作、沟通并在怪物环伺的岛上为船长完成搜刮","dimension":"玩法","excerpt":"You and up to three of your closest mates will work together, communicate, and survive as you try to make your ol’ captain rich and happy!","url":"https://store.steampowered.com/app/4317790/","label":"证据原文片段"},{"text":"深入神秘岛屿会提高冒险收益，但只要至少一名船员活着把黄金带回船上即可","dimension":"玩法","excerpt":"Feel the adventurous drive push you deeper into the mysterious island, but make sure that at least one of you lives to carry out the gold.","url":"https://store.steampowered.com/app/4317790/","label":"证据原文片段"}],"opinions":[{"text":"伸缩手臂寻宝与朋友合作时会形成令人享受的灾难场面。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Stretchy-arm treasure hunting turns every expedition into a disaster in the best way, especially with friends.","url":"https://store.steampowered.com/curator/46064046-Press-Start-Friends/","label":"证据原文片段"}]},{"text":"合作过程有趣且好笑。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Funny co-op","url":"https://www.youtube.com/watch?v=ROm88pbVl-w","label":"证据原文片段"}]},{"text":"海盗恐怖、寻宝与搞怪结合适合合作玩家。","dimension":"主题","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Great for co-op fans who enjoy horror, loot, and constant goofing around.","url":"https://store.steampowered.com/curator/46064046-Press-Start-Friends/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":null,"unit":"份","state":"not_applicable","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":73839,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3954,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":null,"unit":"USD","state":"not_applicable","date":"2026-07-23"},{"id":"players","label":"玩家数","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":null,"unit":"小时","state":"not_applicable","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":null,"unit":"条","state":"not_applicable","date":"2026-07-23"},{"id":"score","label":"评分","value":null,"unit":"分","state":"not_applicable","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":null,"unit":"%","state":"not_applicable","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"持续跟踪","target":"发售日期、愿望单、关注人数与首批官方评论","reason":"产品位于受期待新品池，发售前指标与发行节点是当前最可执行的观察对象。","trigger":"正式发售，或愿望单、关注、评论状态出现同口径新快照。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/7719669a264bc1ed0c56bf40571d96ddf4654bc1/ss_7719669a264bc1ed0c56bf40571d96ddf4654bc1.1920x1080.jpg?t=1783079406","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/7719669a264bc1ed0c56bf40571d96ddf4654bc1/ss_7719669a264bc1ed0c56bf40571d96ddf4654bc1.1920x1080.jpg?t=1783079406","alt":"Last Pirates: Die Together 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/0f46e57141644823bd841250f304f68c0ee3cbaf/ss_0f46e57141644823bd841250f304f68c0ee3cbaf.1920x1080.jpg?t=1783079406","alt":"Last Pirates: Die Together 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/1d4f66666f0077e368a0427d0fa9dd45a3e9c4d2/ss_1d4f66666f0077e368a0427d0fa9dd45a3e9c4d2.1920x1080.jpg?t=1783079406","alt":"Last Pirates: Die Together 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/0044f1feb6e7b2cdfd03f97754bf65656bf52180/ss_0044f1feb6e7b2cdfd03f97754bf65656bf52180.1920x1080.jpg?t=1783079406","alt":"Last Pirates: Die Together 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Last Pirates: Die Together",
+    "developers": [
+      "RetroStyle Games"
+    ],
+    "publishers": [
+      "RetroStyle Games",
+      "Judatone Studios",
+      "Elegoose Games"
+    ],
+    "release_status": "coming_soon",
+    "release_date": "2026-08-18",
+    "tags": [
+      "在线合作",
+      "恐怖",
+      "幽默",
+      "合作",
+      "第一人称"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "海盗用异常伸长的双臂抓取物体，甚至能拆门、搬家具或破坏岛屿搜刮财宝",
+      "dimension": "玩法",
+      "excerpt": "You are quite an unusual sailor! I bet you can grab just about anything with those pairs of hands. Dismantle doors, grab furniture, or destroy the island for all I care!",
+      "url": "https://store.steampowered.com/app/4317790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "最多四名船员必须协作、沟通并在怪物环伺的岛上为船长完成搜刮",
+      "dimension": "玩法",
+      "excerpt": "You and up to three of your closest mates will work together, communicate, and survive as you try to make your ol’ captain rich and happy!",
+      "url": "https://store.steampowered.com/app/4317790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "深入神秘岛屿会提高冒险收益，但只要至少一名船员活着把黄金带回船上即可",
+      "dimension": "玩法",
+      "excerpt": "Feel the adventurous drive push you deeper into the mysterious island, but make sure that at least one of you lives to carry out the gold.",
+      "url": "https://store.steampowered.com/app/4317790/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "伸缩手臂寻宝与朋友合作时会形成令人享受的灾难场面。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Stretchy-arm treasure hunting turns every expedition into a disaster in the best way, especially with friends.",
+          "url": "https://store.steampowered.com/curator/46064046-Press-Start-Friends/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "合作过程有趣且好笑。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Funny co-op",
+          "url": "https://www.youtube.com/watch?v=ROm88pbVl-w",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "海盗恐怖、寻宝与搞怪结合适合合作玩家。",
+      "dimension": "主题",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Great for co-op fans who enjoy horror, loot, and constant goofing around.",
+          "url": "https://store.steampowered.com/curator/46064046-Press-Start-Friends/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 0,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 123284,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5596,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 0,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 0,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 0,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 0,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 0,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": null,
+      "unit": "%",
+      "state": "unavailable",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "持续跟踪",
+      "target": "发售日期、愿望单与关注人数",
+      "reason": "Last Pirates: Die Together位于受期待新品池。",
+      "trigger": "发售或关键指标显著变化时更新。",
+      "priority": "高"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/7719669a264bc1ed0c56bf40571d96ddf4654bc1/ss_7719669a264bc1ed0c56bf40571d96ddf4654bc1.1920x1080.jpg?t=1783079406",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/7719669a264bc1ed0c56bf40571d96ddf4654bc1/ss_7719669a264bc1ed0c56bf40571d96ddf4654bc1.1920x1080.jpg?t=1786726214",
+        "alt": "Last Pirates: Die Together 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/0f46e57141644823bd841250f304f68c0ee3cbaf/ss_0f46e57141644823bd841250f304f68c0ee3cbaf.1920x1080.jpg?t=1786726214",
+        "alt": "Last Pirates: Die Together 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/1d4f66666f0077e368a0427d0fa9dd45a3e9c4d2/ss_1d4f66666f0077e368a0427d0fa9dd45a3e9c4d2.1920x1080.jpg?t=1786726214",
+        "alt": "Last Pirates: Die Together 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/0044f1feb6e7b2cdfd03f97754bf65656bf52180/ss_0044f1feb6e7b2cdfd03f97754bf65656bf52180.1920x1080.jpg?t=1786726214",
+        "alt": "Last Pirates: Die Together 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/29eb0c076120bac764342f7b6e3f61e7038354b3/ss_29eb0c076120bac764342f7b6e3f61e7038354b3.1920x1080.jpg?t=1786726214",
+        "alt": "Last Pirates: Die Together 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/cf8c2b51b88e03b114e63aa6899fead882a7b284/ss_cf8c2b51b88e03b114e63aa6899fead882a7b284.1920x1080.jpg?t=1786726214",
+        "alt": "Last Pirates: Die Together 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/2b321a16df647c0a537c232c5197dfdb8e1c2fd4/ss_2b321a16df647c0a537c232c5197dfdb8e1c2fd4.1920x1080.jpg?t=1786726214",
+        "alt": "Last Pirates: Die Together 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/591038196eea4ef4ce839f19f352bb4c19d30817/ss_591038196eea4ef4ce839f19f352bb4c19d30817.1920x1080.jpg?t=1786726214",
+        "alt": "Last Pirates: Die Together 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

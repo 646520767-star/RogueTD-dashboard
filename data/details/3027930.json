@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Karate Survivor","developers":["Alawar"],"publishers":["Alawar"],"release_status":"released","release_date":"2024-10-30","tags":["动作肉鸽","弹幕射击","轻度Rogue","类Rogue","单人游戏"]},"hooks":[{"text":"塑料火烈鸟、拖把杆甚至儿童玩具锤都能临场变成致命武器","dimension":"玩法","excerpt":"From plastic flamingos to mop handles, even a child's toy hammer can be deadly in the right hands.","url":"https://store.steampowered.com/app/3027930/","label":"证据原文片段"},{"text":"数十种招式可串成最长六段的自定义连击，并按个人打法反复试验","dimension":"玩法","excerpt":"Dozens of different attacks allow you to create unique combinations of up to six attacks, tailored to your fighting style. Experiment and discover the most effective combos.","url":"https://store.steampowered.com/app/3027930/","label":"证据原文片段"},{"text":"局外积累经验可永久解锁并精通新技巧，让后续街头生存逐步增强","dimension":"玩法","excerpt":"Collect experience to unlock and master new permanent techniques and skills between runs, making each playthrough more rewarding.","url":"https://store.steampowered.com/app/3027930/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":195623,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":99135,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7707,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":598943,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":211937,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":211937,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.520619018147425,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3310,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.309201,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_7e0f0b5e80bbeb326b96467ca8700d20bdfcc530.1920x1080.jpg?t=1780556996","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_7e0f0b5e80bbeb326b96467ca8700d20bdfcc530.1920x1080.jpg?t=1780556996","alt":"武林求生 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_da51a90a4404eea23c6f550218cfd2f4988ba1d8.1920x1080.jpg?t=1780556996","alt":"武林求生 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_58c76b921db8d6eaa019a8ab7179f1b74823d195.1920x1080.jpg?t=1780556996","alt":"武林求生 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_9b29c6f7521c14a5f7d0a577a2cf704cbc1f1640.1920x1080.jpg?t=1780556996","alt":"武林求生 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Karate Survivor",
+    "developers": [
+      "Alawar"
+    ],
+    "publishers": [
+      "Alawar"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-30",
+    "tags": [
+      "动作",
+      "动作肉鸽",
+      "动作肉鸽",
+      "类Rogue",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "塑料火烈鸟、拖把杆甚至儿童玩具锤都能临场变成致命武器",
+      "dimension": "玩法",
+      "excerpt": "From plastic flamingos to mop handles, even a child's toy hammer can be deadly in the right hands.",
+      "url": "https://store.steampowered.com/app/3027930/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "数十种招式可串成最长六段的自定义连击，并按个人打法反复试验",
+      "dimension": "玩法",
+      "excerpt": "Dozens of different attacks allow you to create unique combinations of up to six attacks, tailored to your fighting style. Experiment and discover the most effective combos.",
+      "url": "https://store.steampowered.com/app/3027930/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "局外积累经验可永久解锁并精通新技巧，让后续街头生存逐步增强",
+      "dimension": "玩法",
+      "excerpt": "Collect experience to unlock and master new permanent techniques and skills between runs, making each playthrough more rewarding.",
+      "url": "https://store.steampowered.com/app/3027930/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 200130,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 101001,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7721,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 581398,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 217068,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 217068,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.482115259236239,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2981,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.220501,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "武林求生位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_7e0f0b5e80bbeb326b96467ca8700d20bdfcc530.1920x1080.jpg?t=1780556996",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_7e0f0b5e80bbeb326b96467ca8700d20bdfcc530.1920x1080.jpg?t=1780556996",
+        "alt": "武林求生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_da51a90a4404eea23c6f550218cfd2f4988ba1d8.1920x1080.jpg?t=1780556996",
+        "alt": "武林求生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_58c76b921db8d6eaa019a8ab7179f1b74823d195.1920x1080.jpg?t=1780556996",
+        "alt": "武林求生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_9b29c6f7521c14a5f7d0a577a2cf704cbc1f1640.1920x1080.jpg?t=1780556996",
+        "alt": "武林求生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_77f64e06618831342f64913ac37ee90392056fe0.1920x1080.jpg?t=1780556996",
+        "alt": "武林求生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_cf6c153f19e429edb7c3e922534d05f5ed5f5863.1920x1080.jpg?t=1780556996",
+        "alt": "武林求生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_ac17aedd92690a36f5311d3bb84be5571ba98b0c.1920x1080.jpg?t=1780556996",
+        "alt": "武林求生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027930/ss_9a56380afb77d1e80c60209028bfbd8f1ea1ffb2.1920x1080.jpg?t=1780556996",
+        "alt": "武林求生 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

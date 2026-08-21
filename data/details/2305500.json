@@ -1,1 +1,178 @@
-{"identity":{"original_title":"FAIRY TAIL: DUNGEONS","developers":["ginolabo"],"publishers":["Kodansha"],"release_status":"released","release_date":"2024-08-26","tags":["肉鸽卡组构筑","轻度Rogue","高重复可玩性","独立游戏","卡牌游戏"]},"hooks":[{"text":"按特定顺序出牌触发Magic Chains并放大伤害","dimension":"玩法","excerpt":"Use cards in a specific order to activate Magic Chains for punishing amounts of damage.","url":"https://store.steampowered.com/app/2305500/","label":"证据原文片段"},{"text":"探索积分在失败后解锁跨局生效的护符","dimension":"玩法","excerpt":"Even if you fall in battle, the points you earn exploring will unlock amulets which will aid in future runs through the dungeon. Don't let defeat stop you. Try and try again!","url":"https://store.steampowered.com/app/2305500/","label":"证据原文片段"},{"text":"单人地牢培养后组建三人队，并用典籍强化团队","dimension":"玩法","excerpt":"Form a team with 3 characters you've trained in the solo dungeon, and dive deep into the depths. Find tomes inside to power up your team's stats.","url":"https://store.steampowered.com/app/2305500/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":44468,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":67360,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5243,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":411999,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":45398,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":45398,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.820132334601473,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":786,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.493639,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_7ba4e467b855b17b06bb100d7a48ac68776f9d3b.1920x1080.jpg?t=1768554047","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_7ba4e467b855b17b06bb100d7a48ac68776f9d3b.1920x1080.jpg?t=1768554047","alt":"FAIRY TAIL 地下迷城 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_85e5a8b386940ef1e0cf1ea2514ba7e9e0999aa8.1920x1080.jpg?t=1768554047","alt":"FAIRY TAIL 地下迷城 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_9e2105d56995a06eef122d39ee62c770a868e663.1920x1080.jpg?t=1768554047","alt":"FAIRY TAIL 地下迷城 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/b5c95a267ea553efba91360062d0348a86370704/ss_b5c95a267ea553efba91360062d0348a86370704.1920x1080.jpg?t=1768554047","alt":"FAIRY TAIL 地下迷城 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "FAIRY TAIL: DUNGEONS",
+    "developers": [
+      "ginolabo"
+    ],
+    "publishers": [
+      "Kodansha"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-26",
+    "tags": [
+      "肉鸽卡组构筑",
+      "轻度Rogue",
+      "类Rogue",
+      "高重复可玩性",
+      "独立游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "按特定顺序出牌触发Magic Chains并放大伤害",
+      "dimension": "玩法",
+      "excerpt": "Use cards in a specific order to activate Magic Chains for punishing amounts of damage.",
+      "url": "https://store.steampowered.com/app/2305500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "探索积分在失败后解锁跨局生效的护符",
+      "dimension": "玩法",
+      "excerpt": "Even if you fall in battle, the points you earn exploring will unlock amulets which will aid in future runs through the dungeon. Don't let defeat stop you. Try and try again!",
+      "url": "https://store.steampowered.com/app/2305500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "单人地牢培养后组建三人队，并用典籍强化团队",
+      "dimension": "玩法",
+      "excerpt": "Form a team with 3 characters you've trained in the solo dungeon, and dive deep into the depths. Find tomes inside to power up your team's stats.",
+      "url": "https://store.steampowered.com/app/2305500/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 46623,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 66481,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5250,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 432255,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 47634,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 47634,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.315894569175494,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 768,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.550505,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "FAIRY TAIL 地下迷城位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_7ba4e467b855b17b06bb100d7a48ac68776f9d3b.1920x1080.jpg?t=1768554047",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_7ba4e467b855b17b06bb100d7a48ac68776f9d3b.1920x1080.jpg?t=1768554047",
+        "alt": "FAIRY TAIL 地下迷城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_85e5a8b386940ef1e0cf1ea2514ba7e9e0999aa8.1920x1080.jpg?t=1768554047",
+        "alt": "FAIRY TAIL 地下迷城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_9e2105d56995a06eef122d39ee62c770a868e663.1920x1080.jpg?t=1768554047",
+        "alt": "FAIRY TAIL 地下迷城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/b5c95a267ea553efba91360062d0348a86370704/ss_b5c95a267ea553efba91360062d0348a86370704.1920x1080.jpg?t=1768554047",
+        "alt": "FAIRY TAIL 地下迷城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/976fc1e7054c970dd514c3a26723f25a3866301c/ss_976fc1e7054c970dd514c3a26723f25a3866301c.1920x1080.jpg?t=1768554047",
+        "alt": "FAIRY TAIL 地下迷城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_5c6eabefca9b3efc1faa01205f023b4daa2e9145.1920x1080.jpg?t=1768554047",
+        "alt": "FAIRY TAIL 地下迷城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_7d82be91fc3a83d1598f676d86bebbd48eee0dc2.1920x1080.jpg?t=1768554047",
+        "alt": "FAIRY TAIL 地下迷城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2305500/ss_f8f788ad8b8bcb767cb82f2e69c01d64a93fa941.1920x1080.jpg?t=1768554047",
+        "alt": "FAIRY TAIL 地下迷城 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

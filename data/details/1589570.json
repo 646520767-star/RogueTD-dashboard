@@ -1,1 +1,303 @@
-{"identity":{"original_title":"Dunjungle","developers":["Bruno Bombardi"],"publishers":["Astrolabe Games"],"release_status":"released","release_date":"2025-12-10","tags":["动作肉鸽","单人游戏","程序生成","像素画面","高难度"]},"hooks":[{"text":"装备可与火、冰、雷、风元素融合，分别灼烧、减速、电击或吹飞敌人","dimension":"玩法","excerpt":"Equipment can also be merged with several elements, to create new and powerful versions. Burn monsters with fire, use ice to slow them down, shock them with thunder, or just get them off you using wind to blow them away!","url":"https://store.steampowered.com/app/1589570/","label":"证据原文片段"},{"text":"十五种职业各有明确优缺点，开局选职会实质改变整轮玩法","dimension":"玩法","excerpt":"You will unlock several classes with a variety of strengths and weaknesses. You can choose the class before starting the run and play in your preferred style! A total of 15 classes which have meaningfull impact on how you play!","url":"https://store.steampowered.com/app/1589570/","label":"证据原文片段"},{"text":"死亡会立即重开，但已解锁武器法术和获救角色会留下，玩家知识也跨轮积累","dimension":"玩法","excerpt":"There are no checkpoints in Dunjungle. You die, you start over. Die again, try again! But don't worry too much. Several things will remain for your next run. Maybe you unlocked a new weapon? Maybe a new spell? Maybe you saved a trapped character, who will now lend you a hand.","url":"https://store.steampowered.com/app/1589570/","label":"证据原文片段"}],"opinions":[{"text":"像素肉鸽体验优秀","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"在像素肉鸽类游戏中体验可以称得上是优秀。","url":"https://steamcommunity.com/profiles/76561198448076173/recommended/1589570/","label":"证据原文片段"}]},{"text":"多数遗物效果缺少实际提升","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"绝大部分的遗物效果都不会对你有什么提升","url":"https://steamcommunity.com/profiles/76561198318558267/recommended/1589570/","label":"证据原文片段"}]},{"text":"武器品质系统缺少实际价值","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"武器品质没用。","url":"https://steamcommunity.com/profiles/76561198318558267/recommended/1589570/","label":"证据原文片段"}]},{"text":"拾取金币比战斗更困难","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"picking up coins is harder than the combat","url":"https://steamcommunity.com/profiles/76561197996144958/recommended/1589570/","label":"证据原文片段"}]},{"text":"可能卡在加载界面","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it got stuck on a loading screen","url":"https://steamcommunity.com/profiles/76561197996144958/recommended/1589570/","label":"证据原文片段"}]},{"text":"词条描述不准确或模糊。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"词条描述不准确/模糊。","url":"https://steamcommunity.com/profiles/76561198318558267/recommended/1589570/","label":"证据原文片段"}]},{"text":"玩家数值设计很差","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"玩家数值用脚做","url":"https://steamcommunity.com/profiles/76561198379047896/recommended/1589570/","label":"证据原文片段"}]},{"text":"前期容错率低，体验较差","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"前期太坐牢了，容错率低","url":"https://steamcommunity.com/profiles/76561198149559653/recommended/1589570/","label":"证据原文片段"}]},{"text":"遗物数量上限过低且容易触顶。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"there is a cap of how many relics you can have, which is too easy to hit.","url":"https://steamcommunity.com/profiles/76561197996144958/recommended/1589570/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":14378,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":54650,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2522,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":114789,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":15178,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":15178,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.071365148793062,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":744,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.635262,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["多数遗物效果缺少实际提升","武器品质系统缺少实际价值","拾取金币比战斗更困难","技术/性能：可能卡在加载界面","词条描述不准确或模糊。","玩家数值设计很差"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_c365eebc56d16ec6d30102ad8274f691289e16cf.1920x1080.jpg?t=1770375082","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_c365eebc56d16ec6d30102ad8274f691289e16cf.1920x1080.jpg?t=1770375082","alt":"护林猿神 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_a76b5e5cfdbcad04dbb4e7132a19985504a7d94e.1920x1080.jpg?t=1770375082","alt":"护林猿神 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/3d60e68e27be6d81d4b020ec5914425ca1d5d51c/ss_3d60e68e27be6d81d4b020ec5914425ca1d5d51c.1920x1080.jpg?t=1770375082","alt":"护林猿神 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_f1a6c6df3aedb800b97c34960051ed0ea8c0893a.1920x1080.jpg?t=1770375082","alt":"护林猿神 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dunjungle",
+    "developers": [
+      "Bruno Bombardi"
+    ],
+    "publishers": [
+      "Astrolabe Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-12-10",
+    "tags": [
+      "动作肉鸽",
+      "单人游戏",
+      "程序生成",
+      "像素画面",
+      "高难度"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "装备可与火、冰、雷、风元素融合，分别灼烧、减速、电击或吹飞敌人",
+      "dimension": "玩法",
+      "excerpt": "Equipment can also be merged with several elements, to create new and powerful versions. Burn monsters with fire, use ice to slow them down, shock them with thunder, or just get them off you using wind to blow them away!",
+      "url": "https://store.steampowered.com/app/1589570/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十五种职业各有明确优缺点，开局选职会实质改变整轮玩法",
+      "dimension": "玩法",
+      "excerpt": "You will unlock several classes with a variety of strengths and weaknesses. You can choose the class before starting the run and play in your preferred style! A total of 15 classes which have meaningfull impact on how you play!",
+      "url": "https://store.steampowered.com/app/1589570/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "死亡会立即重开，但已解锁武器法术和获救角色会留下，玩家知识也跨轮积累",
+      "dimension": "玩法",
+      "excerpt": "There are no checkpoints in Dunjungle. You die, you start over. Die again, try again! But don't worry too much. Several things will remain for your next run. Maybe you unlocked a new weapon? Maybe a new spell? Maybe you saved a trapped character, who will now lend you a hand.",
+      "url": "https://store.steampowered.com/app/1589570/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "像素肉鸽体验优秀",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "在像素肉鸽类游戏中体验可以称得上是优秀。",
+          "url": "https://steamcommunity.com/profiles/76561198448076173/recommended/1589570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多数遗物效果缺少实际提升",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "绝大部分的遗物效果都不会对你有什么提升",
+          "url": "https://steamcommunity.com/profiles/76561198318558267/recommended/1589570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器品质系统缺少实际价值",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "武器品质没用。",
+          "url": "https://steamcommunity.com/profiles/76561198318558267/recommended/1589570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "拾取金币比战斗更困难",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "picking up coins is harder than the combat",
+          "url": "https://steamcommunity.com/profiles/76561197996144958/recommended/1589570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "可能卡在加载界面",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it got stuck on a loading screen",
+          "url": "https://steamcommunity.com/profiles/76561197996144958/recommended/1589570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "词条描述不准确或模糊。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "词条描述不准确/模糊。",
+          "url": "https://steamcommunity.com/profiles/76561198318558267/recommended/1589570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩家数值设计很差",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "玩家数值用脚做",
+          "url": "https://steamcommunity.com/profiles/76561198379047896/recommended/1589570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "前期容错率低，体验较差",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "前期太坐牢了，容错率低",
+          "url": "https://steamcommunity.com/profiles/76561198149559653/recommended/1589570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "遗物数量上限过低且容易触顶。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "there is a cap of how many relics you can have, which is too easy to hit.",
+          "url": "https://steamcommunity.com/profiles/76561197996144958/recommended/1589570/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 15054,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 54974,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2546,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 126203,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 15889,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 15889,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.92154227820728,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 690,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.514745,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "多数遗物效果缺少实际提升",
+    "武器品质系统缺少实际价值",
+    "拾取金币比战斗更困难",
+    "技术/性能：可能卡在加载界面",
+    "词条描述不准确或模糊。",
+    "玩家数值设计很差"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "护林猿神位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_c365eebc56d16ec6d30102ad8274f691289e16cf.1920x1080.jpg?t=1770375082",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_c365eebc56d16ec6d30102ad8274f691289e16cf.1920x1080.jpg?t=1770375082",
+        "alt": "护林猿神 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_a76b5e5cfdbcad04dbb4e7132a19985504a7d94e.1920x1080.jpg?t=1770375082",
+        "alt": "护林猿神 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/3d60e68e27be6d81d4b020ec5914425ca1d5d51c/ss_3d60e68e27be6d81d4b020ec5914425ca1d5d51c.1920x1080.jpg?t=1770375082",
+        "alt": "护林猿神 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_f1a6c6df3aedb800b97c34960051ed0ea8c0893a.1920x1080.jpg?t=1770375082",
+        "alt": "护林猿神 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/1d71904a437d083530aba4df6ac602623d73013d/ss_1d71904a437d083530aba4df6ac602623d73013d.1920x1080.jpg?t=1770375082",
+        "alt": "护林猿神 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_7173c5b7c38d64e98f8955e05da00a544cb67109.1920x1080.jpg?t=1770375082",
+        "alt": "护林猿神 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_742e015051d9f49008ab4ac604343cca81cfeb5b.1920x1080.jpg?t=1770375082",
+        "alt": "护林猿神 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1589570/ss_2d0a04557c5acda72e6e77328dbc19c61fe0637d.1920x1080.jpg?t=1770375082",
+        "alt": "护林猿神 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Gnomes","developers":["DYSTOPIAN"],"publishers":["DYSTOPIAN","Gamersky Games"],"release_status":"released","release_date":"2025-04-04","tags":["塔防","程序生成","类Rogue","像素画面","生存"]},"hooks":[{"text":"每日扩张地图上兼顾农作防御与经济","dimension":"玩法","excerpt":"Use your gnomes to defend your crops from the goblins on a map that expands every day. On your turn, position your gnomes, prepare your defenses and grow your economy.","url":"https://store.steampowered.com/app/3133060/","label":"证据原文片段"},{"text":"植物遗物工具建筑共同改造环境联动","dimension":"玩法","excerpt":"Each plant, relic, tool and building creates a different possible synergies. Manipulate your environment an and exploit the resources the map provides you. Grow your economy quickly, but don’t forget to defend it.","url":"https://store.steampowered.com/app/3133060/","label":"证据原文片段"},{"text":"公会以不同侏儒经济和关键遗物开局","dimension":"玩法","excerpt":"Each guild stars a different type of gnome accompanied by their own starting economy and a game changing relic. Every guild has different strengths and weaknesses. Some will struggle where others thrive.","url":"https://store.steampowered.com/app/3133060/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":78625,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":106761,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5882,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":520451,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":80920,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":80920,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.913261683133019,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1777,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.160383,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"塔防、程序生成","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_fefc6cb4402bb689b73496dc838880613944251d.1920x1080.jpg?t=1781100524","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_fefc6cb4402bb689b73496dc838880613944251d.1920x1080.jpg?t=1781100524","alt":"矮人防线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_ad6ebd09571564ac08c943f9e88c20283cd93d44.1920x1080.jpg?t=1781100524","alt":"矮人防线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_683f77604b1f3cc375ce504459da2256a06d892a.1920x1080.jpg?t=1781100524","alt":"矮人防线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_2c5afd003a80fe20a53d0a392e7f89e801062e45.1920x1080.jpg?t=1781100524","alt":"矮人防线 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Gnomes",
+    "developers": [
+      "DYSTOPIAN"
+    ],
+    "publishers": [
+      "DYSTOPIAN",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-04",
+    "tags": [
+      "塔防",
+      "类Rogue",
+      "程序生成",
+      "类Rogue",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每日扩张地图上兼顾农作防御与经济",
+      "dimension": "玩法",
+      "excerpt": "Use your gnomes to defend your crops from the goblins on a map that expands every day. On your turn, position your gnomes, prepare your defenses and grow your economy.",
+      "url": "https://store.steampowered.com/app/3133060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "植物遗物工具建筑共同改造环境联动",
+      "dimension": "玩法",
+      "excerpt": "Each plant, relic, tool and building creates a different possible synergies. Manipulate your environment an and exploit the resources the map provides you. Grow your economy quickly, but don’t forget to defend it.",
+      "url": "https://store.steampowered.com/app/3133060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "公会以不同侏儒经济和关键遗物开局",
+      "dimension": "玩法",
+      "excerpt": "Each guild stars a different type of gnome accompanied by their own starting economy and a game changing relic. Every guild has different strengths and weaknesses. Some will struggle where others thrive.",
+      "url": "https://store.steampowered.com/app/3133060/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 82200,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 108672,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5930,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 547374,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 84566,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 84566,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.971353839375084,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1729,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.119246,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "矮人防线位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_fefc6cb4402bb689b73496dc838880613944251d.1920x1080.jpg?t=1781100524",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_fefc6cb4402bb689b73496dc838880613944251d.1920x1080.jpg?t=1781100524",
+        "alt": "矮人防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_ad6ebd09571564ac08c943f9e88c20283cd93d44.1920x1080.jpg?t=1781100524",
+        "alt": "矮人防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_683f77604b1f3cc375ce504459da2256a06d892a.1920x1080.jpg?t=1781100524",
+        "alt": "矮人防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_2c5afd003a80fe20a53d0a392e7f89e801062e45.1920x1080.jpg?t=1781100524",
+        "alt": "矮人防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/0cb3e22510864f6da8a866077dd0e1e32bf88eff/ss_0cb3e22510864f6da8a866077dd0e1e32bf88eff.1920x1080.jpg?t=1781100524",
+        "alt": "矮人防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_5fa643b4792f1cdca28111b18731277187ec1d9e.1920x1080.jpg?t=1781100524",
+        "alt": "矮人防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ss_394c9294a7fac327527a0a7a2ad9fb13cccb4e0b.1920x1080.jpg?t=1781100524",
+        "alt": "矮人防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3133060/ee3a67267079f723472ce20cddc1b112abff44a9/ss_ee3a67267079f723472ce20cddc1b112abff44a9.1920x1080.jpg?t=1781100524",
+        "alt": "矮人防线 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

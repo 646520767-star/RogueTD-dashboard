@@ -1,1 +1,312 @@
-{"identity":{"original_title":"868-BACK","developers":["Michael Brough"],"publishers":["Finji"],"release_status":"released","release_date":"2026-05-28","tags":["回合制战术","类Rogue","回合制战斗","策略","像素画面"]},"hooks":[{"text":"逐台攻破企业服务器，把拆解资本主义写成黑客任务目标","dimension":"题材","excerpt":"Your mission: dismantle capitalism one computer server at a time.","url":"https://store.steampowered.com/app/3304110/","label":"证据原文片段"},{"text":"数据本身就是货币，从巨企夺回情报才能支付黑客程序","dimension":"玩法","excerpt":"Data is currency, money, moola 🤑 The MegaCorps have too much info on me, you, and everyone. You’ll be taking it back. After all, progs aren’t cheap!","url":"https://store.steampowered.com/app/3304110/","label":"证据原文片段"},{"text":"断线次数过多整次任务重置，但每轮都能窃取新招再挑战主机","dimension":"玩法","excerpt":"Get disconnected too many times, and your mission starts from scratch. The Big Three’s defenses are strong, Hacker, but you can be stronger. Pick up new tricks on every run, use the MegaCorps' progs to change the world, and find that Mainframe!","url":"https://store.steampowered.com/app/3304110/","label":"证据原文片段"}],"opinions":[{"text":"3D图形模式看起来可爱","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The 3d graphics one is cute","url":"https://steamcommunity.com/profiles/76561197970721760/recommended/3304110/","label":"证据原文片段"}]},{"text":"部分额外功能令人烦躁且不好玩","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"some of the \"Bonus Features\" are just so annoying and not fun to play with","url":"https://steamcommunity.com/profiles/76561197970721760/recommended/3304110/","label":"证据原文片段"}]},{"text":"3D图形模式让游玩变得费劲","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The 3d graphics one is cute, but it turns playing the game into such a chore.","url":"https://steamcommunity.com/profiles/76561197970721760/recommended/3304110/","label":"证据原文片段"}]},{"text":"短局循环让人想不断再开一局","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"it's almost 4AM and you tell yourself \"just one more game\"","url":"https://store.steampowered.com/curator/6856127-Roguelikes/","label":"证据原文片段"}]},{"text":"策略肉鸽组合值得体验","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"you absolutely have to play if you love roguelikes that mix in some strategy","url":"https://www.gamingonlinux.com/2026/06/868-back-is-a-roguelike-game-where-hacking-is-cool/","label":"证据原文片段"}]},{"text":"紧凑体量承载复杂策略的设计很出色","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"That all this agonizingly delicious complexity is packed in such a compact form","url":"https://steamcommunity.com/id/kriptosporidium/recommended/3304110/","label":"证据原文片段"}]},{"text":"用知识拼出巧妙解法很有成就感","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Using that knowledge to scrape together clever solutions to dire situations","url":"https://steamcommunity.com/id/personman/recommended/3304110/","label":"证据原文片段"}]},{"text":"每个选择都很有分量","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"no choice feels without weight","url":"https://steamcommunity.com/id/kriptosporidium/recommended/3304110/","label":"证据原文片段"}]},{"text":"简单表象下具有很深的策略深度","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"deceptively simple-looking games that have an enormous amount of depth","url":"https://steamcommunity.com/profiles/76561197968283536/recommended/3304110/","label":"证据原文片段"}]},{"text":"发现机制间意外互动很有乐趣","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Discovering a lot of surprising and delightful things, and then discovering more surprising and delightful ways they interact","url":"https://steamcommunity.com/id/personman/recommended/3304110/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1519,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":13981,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":634,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":25461,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1989,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1989,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":16.23508217730807,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":148,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":99,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":99.324324,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["部分额外功能令人烦躁且不好玩","3D图形模式让游玩变得费劲"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/c10d727250f6f0cae601893d0658f70c55c5146b/ss_c10d727250f6f0cae601893d0658f70c55c5146b.1920x1080.jpg?t=1783359875","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/c10d727250f6f0cae601893d0658f70c55c5146b/ss_c10d727250f6f0cae601893d0658f70c55c5146b.1920x1080.jpg?t=1783359875","alt":"868-BACK 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/c6277a73f59f08f06c9f83aefc5a8b30fe8b7f45/ss_c6277a73f59f08f06c9f83aefc5a8b30fe8b7f45.1920x1080.jpg?t=1783359875","alt":"868-BACK 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/4a1e5393572f51a1441fdffb7281e3966619bd17/ss_4a1e5393572f51a1441fdffb7281e3966619bd17.1920x1080.jpg?t=1783359875","alt":"868-BACK 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/17b32bc2575b6bc3a355886903bbd1581ce65440/ss_17b32bc2575b6bc3a355886903bbd1581ce65440.1920x1080.jpg?t=1783359875","alt":"868-BACK 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "868-BACK",
+    "developers": [
+      "Michael Brough"
+    ],
+    "publishers": [
+      "Finji"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-28",
+    "tags": [
+      "回合制战术",
+      "类Rogue",
+      "回合制战斗",
+      "策略",
+      "像素画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "逐台攻破企业服务器，把拆解资本主义写成黑客任务目标",
+      "dimension": "题材",
+      "excerpt": "Your mission: dismantle capitalism one computer server at a time.",
+      "url": "https://store.steampowered.com/app/3304110/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "数据本身就是货币，从巨企夺回情报才能支付黑客程序",
+      "dimension": "玩法",
+      "excerpt": "Data is currency, money, moola 🤑 The MegaCorps have too much info on me, you, and everyone. You’ll be taking it back. After all, progs aren’t cheap!",
+      "url": "https://store.steampowered.com/app/3304110/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "断线次数过多整次任务重置，但每轮都能窃取新招再挑战主机",
+      "dimension": "玩法",
+      "excerpt": "Get disconnected too many times, and your mission starts from scratch. The Big Three’s defenses are strong, Hacker, but you can be stronger. Pick up new tricks on every run, use the MegaCorps' progs to change the world, and find that Mainframe!",
+      "url": "https://store.steampowered.com/app/3304110/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "3D图形模式看起来可爱",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The 3d graphics one is cute",
+          "url": "https://steamcommunity.com/profiles/76561197970721760/recommended/3304110/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分额外功能令人烦躁且不好玩",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "some of the \"Bonus Features\" are just so annoying and not fun to play with",
+          "url": "https://steamcommunity.com/profiles/76561197970721760/recommended/3304110/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "3D图形模式让游玩变得费劲",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The 3d graphics one is cute, but it turns playing the game into such a chore.",
+          "url": "https://steamcommunity.com/profiles/76561197970721760/recommended/3304110/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "短局循环让人想不断再开一局",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it's almost 4AM and you tell yourself \"just one more game\"",
+          "url": "https://store.steampowered.com/curator/6856127-Roguelikes/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "策略肉鸽组合值得体验",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "you absolutely have to play if you love roguelikes that mix in some strategy",
+          "url": "https://www.gamingonlinux.com/2026/06/868-back-is-a-roguelike-game-where-hacking-is-cool/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "紧凑体量承载复杂策略的设计很出色",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "That all this agonizingly delicious complexity is packed in such a compact form",
+          "url": "https://steamcommunity.com/id/kriptosporidium/recommended/3304110/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "用知识拼出巧妙解法很有成就感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Using that knowledge to scrape together clever solutions to dire situations",
+          "url": "https://steamcommunity.com/id/personman/recommended/3304110/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "每个选择都很有分量",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "no choice feels without weight",
+          "url": "https://steamcommunity.com/id/kriptosporidium/recommended/3304110/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "简单表象下具有很深的策略深度",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "deceptively simple-looking games that have an enormous amount of depth",
+          "url": "https://steamcommunity.com/profiles/76561197968283536/recommended/3304110/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "发现机制间意外互动很有乐趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Discovering a lot of surprising and delightful things, and then discovering more surprising and delightful ways they interact",
+          "url": "https://steamcommunity.com/id/personman/recommended/3304110/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1875,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 14064,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 687,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 32298,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2418,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2418,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 18.217993923299755,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 110,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 99,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 99.382716,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "部分额外功能令人烦躁且不好玩",
+    "3D图形模式让游玩变得费劲"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "868-BACK位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/c10d727250f6f0cae601893d0658f70c55c5146b/ss_c10d727250f6f0cae601893d0658f70c55c5146b.1920x1080.jpg?t=1783359875",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/c10d727250f6f0cae601893d0658f70c55c5146b/ss_c10d727250f6f0cae601893d0658f70c55c5146b.1920x1080.jpg?t=1783359875",
+        "alt": "868-BACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/c6277a73f59f08f06c9f83aefc5a8b30fe8b7f45/ss_c6277a73f59f08f06c9f83aefc5a8b30fe8b7f45.1920x1080.jpg?t=1783359875",
+        "alt": "868-BACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/4a1e5393572f51a1441fdffb7281e3966619bd17/ss_4a1e5393572f51a1441fdffb7281e3966619bd17.1920x1080.jpg?t=1783359875",
+        "alt": "868-BACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/17b32bc2575b6bc3a355886903bbd1581ce65440/ss_17b32bc2575b6bc3a355886903bbd1581ce65440.1920x1080.jpg?t=1783359875",
+        "alt": "868-BACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/a224f619cefefcb5576f8530328c9f1dba255834/ss_a224f619cefefcb5576f8530328c9f1dba255834.1920x1080.jpg?t=1783359875",
+        "alt": "868-BACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/5bd0b319ffb1f5a245027f40a2b5230d747dd9d4/ss_5bd0b319ffb1f5a245027f40a2b5230d747dd9d4.1920x1080.jpg?t=1783359875",
+        "alt": "868-BACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/087715b52d5d011fedf298e9a6f9616caaff2998/ss_087715b52d5d011fedf298e9a6f9616caaff2998.1920x1080.jpg?t=1783359875",
+        "alt": "868-BACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/b852d552c66e26ca957d99da0c73ccd7b02d2977/ss_b852d552c66e26ca957d99da0c73ccd7b02d2977.1920x1080.jpg?t=1783359875",
+        "alt": "868-BACK 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,258 @@
-{"identity":{"original_title":"LABYRINTHOS: The Depths Want You","developers":["Astronauts"],"publishers":["Shiravune"],"release_status":"coming_soon","release_date":"2026-08-19","tags":["黑暗奇幻","地牢探索","日式角色扮演","轻度Rogue","第一人称"]},"hooks":[{"text":"战斗消耗行动点，每次胜利后只能从少数选项中学习或强化一项技能","dimension":"玩法","excerpt":"Combat relies on your skills and AP (action points). After each victory, you'll have the option of learning or enhancing a single skill out of a select few.","url":"https://store.steampowered.com/app/3883290/","label":"证据原文片段"},{"text":"探索同时消耗饥饿资源，未及时进食会把惩罚带入战斗","dimension":"玩法","excerpt":"Exploration is likewise a struggle against hunger. Fail to nourish yourself, and you'll be met with penalties during combat.","url":"https://store.steampowered.com/app/3883290/","label":"证据原文片段"},{"text":"迷宫中的混沌会污染灵魂，腐化累积至上限便直接结束游戏","dimension":"玩法","excerpt":"Even the slightest misstep can soil your soul, and once corruption reaches its limit you'll be swallowed up by a game over.","url":"https://store.steampowered.com/app/3883290/","label":"证据原文片段"}],"opinions":[{"text":"压迫氛围与持续恐惧感表现出色","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"oppressive atmosphere, and a constant sense of dread. Eerie af","url":"https://store.steampowered.com/curator/44760616-ADDAX-Gaming/","label":"证据原文片段"}]},{"text":"技能选择让迷宫探索保持吸引力","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Exploring the labyrinth stays engaging thanks to hunger, corruption, and meaningful skill choices.","url":"https://store.steampowered.com/curator/39556500-No-Pussy-Zone/","label":"证据原文片段"}]},{"text":"系统完成度高且具有挑战性","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"It’s a polished, challenging","url":"https://store.steampowered.com/curator/44996858-Democracy-Brothers/","label":"证据原文片段"}]},{"text":"稳定的角色成长会吸引玩家继续游玩","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"the steady character growth keeps pulling you back","url":"https://store.steampowered.com/curator/39556500-No-Pussy-Zone/","label":"证据原文片段"}]},{"text":"黑暗幻想故事紧张而成熟","dimension":"剧情","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"This gripping, mature RPG perfectly pairs a grim dark fantasy story","url":"https://store.steampowered.com/curator/45747499-Kawaii-Queue-Anime-and-Visual-Novels/","label":"证据原文片段"}]},{"text":"叙事从开场就能抓住玩家","dimension":"剧情","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"the narrative hooks you from the start","url":"https://store.steampowered.com/curator/42708092-I%2527m-smth-of-a-reviewer-myself%257E/","label":"证据原文片段"}]},{"text":"黑暗幻想主题保持一致","dimension":"主题","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The dark fantasy theme is consistent","url":"https://store.steampowered.com/curator/42708092-I%2527m-smth-of-a-reviewer-myself%257E/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":null,"unit":"份","state":"not_applicable","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8666,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":null,"unit":"USD","state":"not_applicable","date":"2026-07-23"},{"id":"players","label":"玩家数","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":null,"unit":"小时","state":"not_applicable","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":null,"unit":"条","state":"not_applicable","date":"2026-07-23"},{"id":"score","label":"评分","value":null,"unit":"分","state":"not_applicable","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":null,"unit":"%","state":"not_applicable","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"持续跟踪","target":"发售日期、愿望单、关注人数与首批官方评论","reason":"产品位于受期待新品池，发售前指标与发行节点是当前最可执行的观察对象。","trigger":"正式发售，或愿望单、关注、评论状态出现同口径新快照。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/c445de05f812a64c1ae0c057fe79a4bfa2984800/ss_c445de05f812a64c1ae0c057fe79a4bfa2984800.1920x1080.jpg?t=1782694676","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/c445de05f812a64c1ae0c057fe79a4bfa2984800/ss_c445de05f812a64c1ae0c057fe79a4bfa2984800.1920x1080.jpg?t=1782694676","alt":"LABYRINTHOS：深渊的迷宮 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/b67dfb6e5142a4ba71ed08b4c0cf6e6b00274a9a/ss_b67dfb6e5142a4ba71ed08b4c0cf6e6b00274a9a.1920x1080.jpg?t=1782694676","alt":"LABYRINTHOS：深渊的迷宮 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/a393e675aa9d17182f4c942312a1ea034c89b876/ss_a393e675aa9d17182f4c942312a1ea034c89b876.1920x1080.jpg?t=1782694676","alt":"LABYRINTHOS：深渊的迷宮 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/73ccc02d52076cfd4e34bcd53838d38075fb538f/ss_73ccc02d52076cfd4e34bcd53838d38075fb538f.1920x1080.jpg?t=1782694676","alt":"LABYRINTHOS：深渊的迷宮 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "LABYRINTHOS: The Depths Want You",
+    "developers": [
+      "Astronauts"
+    ],
+    "publishers": [
+      "Shiravune"
+    ],
+    "release_status": "coming_soon",
+    "release_date": "2026-08-19",
+    "tags": [
+      "黑暗奇幻",
+      "地牢探索",
+      "日式角色扮演",
+      "类Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "战斗消耗行动点，每次胜利后只能从少数选项中学习或强化一项技能",
+      "dimension": "玩法",
+      "excerpt": "Combat relies on your skills and AP (action points). After each victory, you'll have the option of learning or enhancing a single skill out of a select few.",
+      "url": "https://store.steampowered.com/app/3883290/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "探索同时消耗饥饿资源，未及时进食会把惩罚带入战斗",
+      "dimension": "玩法",
+      "excerpt": "Exploration is likewise a struggle against hunger. Fail to nourish yourself, and you'll be met with penalties during combat.",
+      "url": "https://store.steampowered.com/app/3883290/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "迷宫中的混沌会污染灵魂，腐化累积至上限便直接结束游戏",
+      "dimension": "玩法",
+      "excerpt": "Even the slightest misstep can soil your soul, and once corruption reaches its limit you'll be swallowed up by a game over.",
+      "url": "https://store.steampowered.com/app/3883290/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "压迫氛围与持续恐惧感表现出色",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "oppressive atmosphere, and a constant sense of dread. Eerie af",
+          "url": "https://store.steampowered.com/curator/44760616-ADDAX-Gaming/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "技能选择让迷宫探索保持吸引力",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Exploring the labyrinth stays engaging thanks to hunger, corruption, and meaningful skill choices.",
+          "url": "https://store.steampowered.com/curator/39556500-No-Pussy-Zone/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "系统完成度高且具有挑战性",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "It’s a polished, challenging",
+          "url": "https://store.steampowered.com/curator/44996858-Democracy-Brothers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "稳定的角色成长会吸引玩家继续游玩",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the steady character growth keeps pulling you back",
+          "url": "https://store.steampowered.com/curator/39556500-No-Pussy-Zone/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "黑暗幻想故事紧张而成熟",
+      "dimension": "剧情",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "This gripping, mature RPG perfectly pairs a grim dark fantasy story",
+          "url": "https://store.steampowered.com/curator/45747499-Kawaii-Queue-Anime-and-Visual-Novels/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "叙事从开场就能抓住玩家",
+      "dimension": "剧情",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the narrative hooks you from the start",
+          "url": "https://store.steampowered.com/curator/42708092-I%2527m-smth-of-a-reviewer-myself%257E/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "黑暗幻想主题保持一致",
+      "dimension": "主题",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The dark fantasy theme is consistent",
+          "url": "https://store.steampowered.com/curator/42708092-I%2527m-smth-of-a-reviewer-myself%257E/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 0,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 16943,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 888,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 0,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 0,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 0,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 0,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 0,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": null,
+      "unit": "%",
+      "state": "unavailable",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "持续跟踪",
+      "target": "发售日期、愿望单与关注人数",
+      "reason": "LABYRINTHOS：深渊的迷宮位于受期待新品池。",
+      "trigger": "发售或关键指标显著变化时更新。",
+      "priority": "高"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/c445de05f812a64c1ae0c057fe79a4bfa2984800/ss_c445de05f812a64c1ae0c057fe79a4bfa2984800.1920x1080.jpg?t=1782694676",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/c445de05f812a64c1ae0c057fe79a4bfa2984800/ss_c445de05f812a64c1ae0c057fe79a4bfa2984800.1920x1080.jpg?t=1782694676",
+        "alt": "LABYRINTHOS：深渊的迷宮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/b67dfb6e5142a4ba71ed08b4c0cf6e6b00274a9a/ss_b67dfb6e5142a4ba71ed08b4c0cf6e6b00274a9a.1920x1080.jpg?t=1782694676",
+        "alt": "LABYRINTHOS：深渊的迷宮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/a393e675aa9d17182f4c942312a1ea034c89b876/ss_a393e675aa9d17182f4c942312a1ea034c89b876.1920x1080.jpg?t=1782694676",
+        "alt": "LABYRINTHOS：深渊的迷宮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/73ccc02d52076cfd4e34bcd53838d38075fb538f/ss_73ccc02d52076cfd4e34bcd53838d38075fb538f.1920x1080.jpg?t=1782694676",
+        "alt": "LABYRINTHOS：深渊的迷宮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883290/3dd146d1969571739dbf2eb4e7c32e60f2bc87b5/ss_3dd146d1969571739dbf2eb4e7c32e60f2bc87b5.1920x1080.jpg?t=1782694676",
+        "alt": "LABYRINTHOS：深渊的迷宮 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

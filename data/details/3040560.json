@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Elite Exorcist Miko","developers":["tian nya"],"publishers":["holo Indie"],"release_status":"early_access","release_date":"2024-12-25","tags":["抢先体验","清版射击","弹幕射击","动作肉鸽","轻度Rogue"]},"hooks":[{"text":"近战、射击、装备与三种战斗风格共同应对高密度弹幕和首领","dimension":"玩法","excerpt":"Use a combination of melee, shooting, a variety of equipment and 3 distinct battle styles to fight a multitude of enemies and bosses in intense bullet hell combat!","url":"https://store.steampowered.com/app/3040560/","label":"证据原文片段"},{"text":"被净化的敌人会转为同伴力量，跑局材料还能用于永久强化和制作新装备","dimension":"玩法","excerpt":"Your abilities are limited on their own, but you can make use of the power of your foes-returned-friends! Use materials obtained from runs to increase your strength and craft new equipment, preparing you for greater challenges ahead!","url":"https://store.steampowered.com/app/3040560/","label":"证据原文片段"},{"text":"首领连战、无尽神社扫荡与高难附加关卡分别提供纯首领、群怪和技巧试炼","dimension":"玩法","excerpt":"Take on boss battle after boss battle in Boss Rush, or endless waves of enemies in Shrine Sweep! Optional Extra Stages are also available as high difficulty trials; currently two, with more in store for the future!","url":"https://store.steampowered.com/app/3040560/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4395,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":26690,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2162,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":35001,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4482,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4482,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.41291219079769,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":108,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.296296,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、清版射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_fec5131b88f876cc48793277d3f98152650b5000.1920x1080.jpg?t=1779809435","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_fec5131b88f876cc48793277d3f98152650b5000.1920x1080.jpg?t=1779809435","alt":"Elite Exorcist Miko 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/71cde1d2c1e6457e273d7b57b9b8f40076667f8f/ss_71cde1d2c1e6457e273d7b57b9b8f40076667f8f.1920x1080.jpg?t=1779809435","alt":"Elite Exorcist Miko 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_043fc1f3984f1224de06aead45637aed97cd99b9.1920x1080.jpg?t=1779809435","alt":"Elite Exorcist Miko 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_50d81ffd39f14707971f0f34cae5a650d9a47562.1920x1080.jpg?t=1779809435","alt":"Elite Exorcist Miko 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Elite Exorcist Miko",
+    "developers": [
+      "tian nya"
+    ],
+    "publishers": [
+      "holo Indie"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-12-25",
+    "tags": [
+      "抢先体验",
+      "清版射击",
+      "弹幕射击",
+      "轻度Rogue",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "近战、射击、装备与三种战斗风格共同应对高密度弹幕和首领",
+      "dimension": "玩法",
+      "excerpt": "Use a combination of melee, shooting, a variety of equipment and 3 distinct battle styles to fight a multitude of enemies and bosses in intense bullet hell combat!",
+      "url": "https://store.steampowered.com/app/3040560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "被净化的敌人会转为同伴力量，跑局材料还能用于永久强化和制作新装备",
+      "dimension": "玩法",
+      "excerpt": "Your abilities are limited on their own, but you can make use of the power of your foes-returned-friends! Use materials obtained from runs to increase your strength and craft new equipment, preparing you for greater challenges ahead!",
+      "url": "https://store.steampowered.com/app/3040560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "首领连战、无尽神社扫荡与高难附加关卡分别提供纯首领、群怪和技巧试炼",
+      "dimension": "玩法",
+      "excerpt": "Take on boss battle after boss battle in Boss Rush, or endless waves of enemies in Shrine Sweep! Optional Extra Stages are also available as high difficulty trials; currently two, with more in store for the future!",
+      "url": "https://store.steampowered.com/app/3040560/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6180,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 26848,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2164,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 47845,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 6303,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 6303,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.525010898876246,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 104,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.261682,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Elite Exorcist Miko位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_fec5131b88f876cc48793277d3f98152650b5000.1920x1080.jpg?t=1779809435",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_fec5131b88f876cc48793277d3f98152650b5000.1920x1080.jpg?t=1779809435",
+        "alt": "Elite Exorcist Miko 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/71cde1d2c1e6457e273d7b57b9b8f40076667f8f/ss_71cde1d2c1e6457e273d7b57b9b8f40076667f8f.1920x1080.jpg?t=1779809435",
+        "alt": "Elite Exorcist Miko 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_043fc1f3984f1224de06aead45637aed97cd99b9.1920x1080.jpg?t=1779809435",
+        "alt": "Elite Exorcist Miko 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_50d81ffd39f14707971f0f34cae5a650d9a47562.1920x1080.jpg?t=1779809435",
+        "alt": "Elite Exorcist Miko 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_a450ee0b65e1acaf830d3f8c5d91fea0e03d100e.1920x1080.jpg?t=1779809435",
+        "alt": "Elite Exorcist Miko 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ss_ea290b2bb34938b982013153bbea2ef2230a37f7.1920x1080.jpg?t=1779809435",
+        "alt": "Elite Exorcist Miko 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/ac8a951f9abc1baa21cb130f70cbbedf51998d57/ss_ac8a951f9abc1baa21cb130f70cbbedf51998d57.1920x1080.jpg?t=1779809435",
+        "alt": "Elite Exorcist Miko 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040560/39f8eb8d31b8bf3de107b3a6dff82d027dae80a2/ss_39f8eb8d31b8bf3de107b3a6dff82d027dae80a2.1920x1080.jpg?t=1779809435",
+        "alt": "Elite Exorcist Miko 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Dungeon Clawler","developers":["Stray Fawn Studio"],"publishers":["Stray Fawn Publishing"],"release_status":"released","release_date":"2026-04-30","tags":["肉鸽卡组构筑","高重复可玩性","街机","策略","轻度Rogue"]},"hooks":[{"text":"把新物品加入抓娃娃机，战斗时用机械爪抓取武器与道具组成Build","dimension":"玩法","excerpt":"Find new items and add them to your claw machine to create game-changing builds.","url":"https://store.steampowered.com/app/2356780/","label":"证据原文片段"},{"text":"金币可升级或改造机内物品，从现有组合中解锁未发现的协同效果","dimension":"玩法","excerpt":"Earn gold coins to upgrade or modify your items and unlock new unknown synergies.","url":"https://store.steampowered.com/app/2356780/","label":"证据原文片段"},{"text":"地牢金币还能投入Pachinko机器，并在神秘地点遭遇宝藏与危险障碍","dimension":"玩法","excerpt":"Venture into mystery locations and discover treasures as well as strange and dangerous obstacles. Spend your hard earned coins in the dungeon's pachinko machines.","url":"https://store.steampowered.com/app/2356780/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":366554,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":278337,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":15375,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2982676,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":386431,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":386431,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.291460057050484,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3892,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.117043,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、高重复可玩性","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/098eddcb263122a34ceaca545ec759eea88db721/ss_098eddcb263122a34ceaca545ec759eea88db721.1920x1080.jpg?t=1784026292","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/098eddcb263122a34ceaca545ec759eea88db721/ss_098eddcb263122a34ceaca545ec759eea88db721.1920x1080.jpg?t=1784026292","alt":"抓抓地牢 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/f375813a71c7a5e441e6368d158dd216715ff655/ss_f375813a71c7a5e441e6368d158dd216715ff655.1920x1080.jpg?t=1784026292","alt":"抓抓地牢 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/3ddcde0f8cf4d682f4db7b99e6ca002a4ca2f64d/ss_3ddcde0f8cf4d682f4db7b99e6ca002a4ca2f64d.1920x1080.jpg?t=1784026292","alt":"抓抓地牢 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/58f134b885933d3282a1448bd6504c0bd4534ba6/ss_58f134b885933d3282a1448bd6504c0bd4534ba6.1920x1080.jpg?t=1784026292","alt":"抓抓地牢 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dungeon Clawler",
+    "developers": [
+      "Stray Fawn Studio"
+    ],
+    "publishers": [
+      "Stray Fawn Publishing"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-30",
+    "tags": [
+      "肉鸽卡组构筑",
+      "高重复可玩性",
+      "街机",
+      "策略",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把新物品加入抓娃娃机，战斗时用机械爪抓取武器与道具组成Build",
+      "dimension": "玩法",
+      "excerpt": "Find new items and add them to your claw machine to create game-changing builds.",
+      "url": "https://store.steampowered.com/app/2356780/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "金币可升级或改造机内物品，从现有组合中解锁未发现的协同效果",
+      "dimension": "玩法",
+      "excerpt": "Earn gold coins to upgrade or modify your items and unlock new unknown synergies.",
+      "url": "https://store.steampowered.com/app/2356780/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "地牢金币还能投入Pachinko机器，并在神秘地点遭遇宝藏与危险障碍",
+      "dimension": "玩法",
+      "excerpt": "Venture into mystery locations and discover treasures as well as strange and dangerous obstacles. Spend your hard earned coins in the dungeon's pachinko machines.",
+      "url": "https://store.steampowered.com/app/2356780/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 376573,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 276151,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 15425,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3064385,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 396754,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 396754,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.080860767303138,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3650,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.029964,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "抓抓地牢位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/098eddcb263122a34ceaca545ec759eea88db721/ss_098eddcb263122a34ceaca545ec759eea88db721.1920x1080.jpg?t=1784026292",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/098eddcb263122a34ceaca545ec759eea88db721/ss_098eddcb263122a34ceaca545ec759eea88db721.1920x1080.jpg?t=1785746168",
+        "alt": "抓抓地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/f375813a71c7a5e441e6368d158dd216715ff655/ss_f375813a71c7a5e441e6368d158dd216715ff655.1920x1080.jpg?t=1785746168",
+        "alt": "抓抓地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/3ddcde0f8cf4d682f4db7b99e6ca002a4ca2f64d/ss_3ddcde0f8cf4d682f4db7b99e6ca002a4ca2f64d.1920x1080.jpg?t=1785746168",
+        "alt": "抓抓地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/58f134b885933d3282a1448bd6504c0bd4534ba6/ss_58f134b885933d3282a1448bd6504c0bd4534ba6.1920x1080.jpg?t=1785746168",
+        "alt": "抓抓地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/58973e8b6ade8e000718a8fa9a1b9c4733cc68f1/ss_58973e8b6ade8e000718a8fa9a1b9c4733cc68f1.1920x1080.jpg?t=1785746168",
+        "alt": "抓抓地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/cc4a09606301ddcb445eb34322b04e3c43b84547/ss_cc4a09606301ddcb445eb34322b04e3c43b84547.1920x1080.jpg?t=1785746168",
+        "alt": "抓抓地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/b7b44608d70c82b9f641b2f0dcc720edb575a796/ss_b7b44608d70c82b9f641b2f0dcc720edb575a796.1920x1080.jpg?t=1785746168",
+        "alt": "抓抓地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/cc433598afa06aed4789b99f855172c0bea336b9/ss_cc433598afa06aed4789b99f855172c0bea336b9.1920x1080.jpg?t=1785746168",
+        "alt": "抓抓地牢 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

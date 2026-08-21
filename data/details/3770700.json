@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Cosmic Run","developers":["Zinktank Labs"],"publishers":["Zinktank Labs"],"release_status":"released","release_date":"2026-05-20","tags":["动作肉鸽","弹幕射击","清版射击","轻度Rogue","街机"]},"hooks":[{"text":"每局从12种武器与12种模块重新组装飞船，以应对持续变化的宇宙威胁","dimension":"玩法","excerpt":"Build your ship differently in every run . Choose from a wide variety of 12 Unique Weapons and 12 Unique Modules to suit your playstyle and adapt to ever-changing threats.","url":"https://store.steampowered.com/app/3770700/","label":"证据原文片段"},{"text":"Zogark家族成员各有强项、弱点和专属能力，可按策略选角或逐一精通","dimension":"玩法","excerpt":"Pick from multiple members of the Zogark family, each with unique strengths, weaknesses, and special abilities. Find the character that best fits your strategy—or master them all.","url":"https://store.steampowered.com/app/3770700/","label":"证据原文片段"},{"text":"角色在战斗中实时插入提示与剧情对话，不打断高速射击流程","dimension":"故事","excerpt":"Stay immersed in the action with a non-intrusive, real-time dialogue system. Characters speak dynamically during gameplay—offering insights, tips, and story moments without breaking the flow.","url":"https://store.steampowered.com/app/3770700/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":662,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1213,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":90,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5726,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":774,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":774,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.3871792079385035,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":29,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":76,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.862069,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/e932e8ed5ec616668519dcbd90f80dae4c1e7f6f/ss_e932e8ed5ec616668519dcbd90f80dae4c1e7f6f.1920x1080.jpg?t=1780508853","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/e932e8ed5ec616668519dcbd90f80dae4c1e7f6f/ss_e932e8ed5ec616668519dcbd90f80dae4c1e7f6f.1920x1080.jpg?t=1780508853","alt":"Cosmic Run 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/08c8ea67f23f4a434fcf0b15a11fe4c68ccc381a/ss_08c8ea67f23f4a434fcf0b15a11fe4c68ccc381a.1920x1080.jpg?t=1780508853","alt":"Cosmic Run 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/c31bed04a190126add9914776cc6d0414ee31050/ss_c31bed04a190126add9914776cc6d0414ee31050.1920x1080.jpg?t=1780508853","alt":"Cosmic Run 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/ba4026694656376cabcbff18c3a08dc1aa120d12/ss_ba4026694656376cabcbff18c3a08dc1aa120d12.1920x1080.jpg?t=1780508853","alt":"Cosmic Run 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Cosmic Run",
+    "developers": [
+      "Zinktank Labs"
+    ],
+    "publishers": [
+      "Zinktank Labs"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-20",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "清版射击",
+      "轻度Rogue",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每局从12种武器与12种模块重新组装飞船，以应对持续变化的宇宙威胁",
+      "dimension": "玩法",
+      "excerpt": "Build your ship differently in every run . Choose from a wide variety of 12 Unique Weapons and 12 Unique Modules to suit your playstyle and adapt to ever-changing threats.",
+      "url": "https://store.steampowered.com/app/3770700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Zogark家族成员各有强项、弱点和专属能力，可按策略选角或逐一精通",
+      "dimension": "玩法",
+      "excerpt": "Pick from multiple members of the Zogark family, each with unique strengths, weaknesses, and special abilities. Find the character that best fits your strategy—or master them all.",
+      "url": "https://store.steampowered.com/app/3770700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "角色在战斗中实时插入提示与剧情对话，不打断高速射击流程",
+      "dimension": "故事",
+      "excerpt": "Stay immersed in the action with a non-intrusive, real-time dialogue system. Characters speak dynamically during gameplay—offering insights, tips, and story moments without breaking the flow.",
+      "url": "https://store.steampowered.com/app/3770700/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 627,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1213,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 90,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 5385,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 733,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 733,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.348095042436197,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 23,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.862069,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Cosmic Run位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/e932e8ed5ec616668519dcbd90f80dae4c1e7f6f/ss_e932e8ed5ec616668519dcbd90f80dae4c1e7f6f.1920x1080.jpg?t=1780508853",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/e932e8ed5ec616668519dcbd90f80dae4c1e7f6f/ss_e932e8ed5ec616668519dcbd90f80dae4c1e7f6f.1920x1080.jpg?t=1780508853",
+        "alt": "Cosmic Run 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/08c8ea67f23f4a434fcf0b15a11fe4c68ccc381a/ss_08c8ea67f23f4a434fcf0b15a11fe4c68ccc381a.1920x1080.jpg?t=1780508853",
+        "alt": "Cosmic Run 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/c31bed04a190126add9914776cc6d0414ee31050/ss_c31bed04a190126add9914776cc6d0414ee31050.1920x1080.jpg?t=1780508853",
+        "alt": "Cosmic Run 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/ba4026694656376cabcbff18c3a08dc1aa120d12/ss_ba4026694656376cabcbff18c3a08dc1aa120d12.1920x1080.jpg?t=1780508853",
+        "alt": "Cosmic Run 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/d6462f47a4375598f578a91a4507a25c8ec4823f/ss_d6462f47a4375598f578a91a4507a25c8ec4823f.1920x1080.jpg?t=1780508853",
+        "alt": "Cosmic Run 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/c42c30e5136a7bb09a2ebac8348a0da7f260f950/ss_c42c30e5136a7bb09a2ebac8348a0da7f260f950.1920x1080.jpg?t=1780508853",
+        "alt": "Cosmic Run 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770700/3763a1915f2ce0daf44fac9ff921c8251e5e8acf/ss_3763a1915f2ce0daf44fac9ff921c8251e5e8acf.1920x1080.jpg?t=1780508853",
+        "alt": "Cosmic Run 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

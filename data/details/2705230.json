@@ -1,1 +1,178 @@
-{"identity":{"original_title":"FALL","developers":["谭浩翔"],"publishers":["谭浩翔"],"release_status":"released","release_date":"2024-10-20","tags":["僵尸","末日后","女性主角","俯视角射击","类Rogue"]},"hooks":[{"text":"从自动步枪、榴弹发射器到警用无人机和AI角色自由配装","dimension":"玩法","excerpt":"From automatic rifles to grenade launchers, from simple police drones to high-tech artificial intelligence characters, the game provides a diverse selection of weapons.","url":"https://store.steampowered.com/app/2705230/","label":"证据原文片段"},{"text":"高速僵尸与高攻击变异体迫使玩家持续调整末日战术","dimension":"玩法","excerpt":"Some zombies are extremely fast, while others have strong attack power, forcing players to constantly adjust their tactics.","url":"https://store.steampowered.com/app/2705230/","label":"证据原文片段"},{"text":"Roguelike推进中逐步揭开末日成因与可能的救赎道路","dimension":"故事","excerpt":"As the game progresses, players will gradually uncover the reasons behind the end of the world and the possible path to redemption.","url":"https://store.steampowered.com/app/2705230/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2521,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":7626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":608,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":12672,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2590,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2590,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.9224968775340865,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":159,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.421384,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"僵尸、末日后","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_3c1eac5e88cc3f03acc6dd2c7538b3f41407064b.1920x1080.jpg?t=1748727944","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_3c1eac5e88cc3f03acc6dd2c7538b3f41407064b.1920x1080.jpg?t=1748727944","alt":"沦陷 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_ec14ebda166a4c5856921e5d66a400f7d1aadc5d.1920x1080.jpg?t=1748727944","alt":"沦陷 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_c36de81d2637c5069d0bed1aa310055288e29b6a.1920x1080.jpg?t=1748727944","alt":"沦陷 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_84cb743812c59af696b7bfa8a0ab4962a677a09a.1920x1080.jpg?t=1748727944","alt":"沦陷 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "FALL",
+    "developers": [
+      "谭浩翔"
+    ],
+    "publishers": [
+      "谭浩翔"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-20",
+    "tags": [
+      "僵尸",
+      "末日后",
+      "女性主角",
+      "俯视角射击",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从自动步枪、榴弹发射器到警用无人机和AI角色自由配装",
+      "dimension": "玩法",
+      "excerpt": "From automatic rifles to grenade launchers, from simple police drones to high-tech artificial intelligence characters, the game provides a diverse selection of weapons.",
+      "url": "https://store.steampowered.com/app/2705230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "高速僵尸与高攻击变异体迫使玩家持续调整末日战术",
+      "dimension": "玩法",
+      "excerpt": "Some zombies are extremely fast, while others have strong attack power, forcing players to constantly adjust their tactics.",
+      "url": "https://store.steampowered.com/app/2705230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Roguelike推进中逐步揭开末日成因与可能的救赎道路",
+      "dimension": "故事",
+      "excerpt": "As the game progresses, players will gradually uncover the reasons behind the end of the world and the possible path to redemption.",
+      "url": "https://store.steampowered.com/app/2705230/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2527,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 7671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 608,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 12613,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2595,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2595,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.9491149292857206,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 153,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.421384,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "沦陷位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_3c1eac5e88cc3f03acc6dd2c7538b3f41407064b.1920x1080.jpg?t=1748727944",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_3c1eac5e88cc3f03acc6dd2c7538b3f41407064b.1920x1080.jpg?t=1748727944",
+        "alt": "沦陷 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_ec14ebda166a4c5856921e5d66a400f7d1aadc5d.1920x1080.jpg?t=1748727944",
+        "alt": "沦陷 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_c36de81d2637c5069d0bed1aa310055288e29b6a.1920x1080.jpg?t=1748727944",
+        "alt": "沦陷 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_84cb743812c59af696b7bfa8a0ab4962a677a09a.1920x1080.jpg?t=1748727944",
+        "alt": "沦陷 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_26c19904622907c61c84d09c7d3c131bb99be759.1920x1080.jpg?t=1748727944",
+        "alt": "沦陷 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_2b79fcc7c7dda93328b88fe20a20f98a7531bacf.1920x1080.jpg?t=1748727944",
+        "alt": "沦陷 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_83758ecf13c1f2abaaf33aaef769d2e7241168aa.1920x1080.jpg?t=1748727944",
+        "alt": "沦陷 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2705230/ss_0407f770e5b65504cd994346adca9fd694baf014.1920x1080.jpg?t=1748727944",
+        "alt": "沦陷 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

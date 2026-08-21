@@ -1,1 +1,159 @@
-{"identity":{"original_title":"Last Stand: Defense","developers":["ZiiTech Games"],"publishers":["ZiiTech Games"],"release_status":"released","release_date":"2025-01-05","tags":["策略","塔防","即时战略","建造","魔法"]},"hooks":[{"text":"五类兵种各有三种变体，通过扩建兵营和战场指挥拼出末日军队。","dimension":"玩法","excerpt":"There are five different types of arms, and each type has three variants. Match your army and command them on the battlefield to defeat the aliens.","url":"https://store.steampowered.com/app/3001000/","label":"证据原文片段"},{"text":"每场胜利都会获得新能力，同时强化英雄、士兵甚至建筑。","dimension":"玩法","excerpt":"Every victory in battle will gain a new ability that can strengthen your heroes, soldiers and even buildings, making your forces stronger and stronger.","url":"https://store.steampowered.com/app/3001000/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3366,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":339,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":13425,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3661,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3661,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.005975824064575,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":130,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.846154,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、塔防","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/8a5cece9a9e7cf2517ea0f8683196446d7587086/ss_8a5cece9a9e7cf2517ea0f8683196446d7587086.1920x1080.jpg?t=1783671123","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/8a5cece9a9e7cf2517ea0f8683196446d7587086/ss_8a5cece9a9e7cf2517ea0f8683196446d7587086.1920x1080.jpg?t=1783671123","alt":"最后的防线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/80daef513673eab9ca706a8c239fd72235984d03/ss_80daef513673eab9ca706a8c239fd72235984d03.1920x1080.jpg?t=1783671123","alt":"最后的防线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/e891b89f01d12f2909679cf9014c3b9423350949/ss_e891b89f01d12f2909679cf9014c3b9423350949.1920x1080.jpg?t=1783671123","alt":"最后的防线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/b2b309435c2d118449913b0707fb72e09299fe7e/ss_b2b309435c2d118449913b0707fb72e09299fe7e.1920x1080.jpg?t=1783671123","alt":"最后的防线 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Last Stand: Defense",
+    "developers": [
+      "ZiiTech Games"
+    ],
+    "publishers": [
+      "ZiiTech Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-01-05",
+    "tags": [
+      "策略",
+      "塔防",
+      "即时战略",
+      "建造",
+      "魔法"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "五类兵种各有三种变体，通过扩建兵营和战场指挥拼出末日军队。",
+      "dimension": "玩法",
+      "excerpt": "There are five different types of arms, and each type has three variants. Match your army and command them on the battlefield to defeat the aliens.",
+      "url": "https://store.steampowered.com/app/3001000/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每场胜利都会获得新能力，同时强化英雄、士兵甚至建筑。",
+      "dimension": "玩法",
+      "excerpt": "Every victory in battle will gain a new ability that can strengthen your heroes, soldiers and even buildings, making your forces stronger and stronger.",
+      "url": "https://store.steampowered.com/app/3001000/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3557,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1278,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 340,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 14317,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3870,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3870,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.008081869760526,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 115,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.846154,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "最后的防线位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/8a5cece9a9e7cf2517ea0f8683196446d7587086/ss_8a5cece9a9e7cf2517ea0f8683196446d7587086.1920x1080.jpg?t=1783671123",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/8a5cece9a9e7cf2517ea0f8683196446d7587086/ss_8a5cece9a9e7cf2517ea0f8683196446d7587086.1920x1080.jpg?t=1783671123",
+        "alt": "最后的防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/80daef513673eab9ca706a8c239fd72235984d03/ss_80daef513673eab9ca706a8c239fd72235984d03.1920x1080.jpg?t=1783671123",
+        "alt": "最后的防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/e891b89f01d12f2909679cf9014c3b9423350949/ss_e891b89f01d12f2909679cf9014c3b9423350949.1920x1080.jpg?t=1783671123",
+        "alt": "最后的防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/b2b309435c2d118449913b0707fb72e09299fe7e/ss_b2b309435c2d118449913b0707fb72e09299fe7e.1920x1080.jpg?t=1783671123",
+        "alt": "最后的防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001000/ss_faf7be5043de43bb78e16e2172890821c3b85c78.1920x1080.jpg?t=1783671123",
+        "alt": "最后的防线 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

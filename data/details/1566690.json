@@ -1,1 +1,317 @@
-{"identity":{"original_title":"Outpost: Infinity Siege","developers":["Team Ranger"],"publishers":["Lightning Games"],"release_status":"released","release_date":"2024-03-26","tags":["机器人","三维画面","基地建设","塔防","资源管理"]},"hooks":[{"text":"一局同时融合FPS、塔防与基地建造的FTD战场","dimension":"玩法","excerpt":"This is an FTD game - FPS, Tower Defense, Base Building and much more all at the same time.","url":"https://store.steampowered.com/app/1566690/","label":"证据原文片段"},{"text":"边探索采集，边合并升级模块打造自己的移动前哨","dimension":"玩法","excerpt":"Explore the world, gather resources, merge and upgrade outpost units to build your own outpost.","url":"https://store.steampowered.com/app/1566690/","label":"证据原文片段"},{"text":"用原质属性与多种弹药重构XEN枪械性能","dimension":"玩法","excerpt":"Fully exploit the value of the unique XEN Firearm with different protoslag attributes, and utilize ammunition with diverse performance.","url":"https://store.steampowered.com/app/1566690/","label":"证据原文片段"}],"opinions":[{"text":"整体体验非常糟糕","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"Feels terrible all around.","url":"https://store.steampowered.com/curator/8036387-Gamers-for-pure-games/","label":"证据原文片段"}]},{"text":"前期捡资源耗时过长","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"至少十个小时的人生花在了翻箱倒柜上","url":"https://steamcommunity.com/profiles/76561198426448064/recommended/1566690/","label":"证据原文片段"}]},{"text":"后期玩法变成苦差事","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"made it a chore to play by the later stages.","url":"https://steamcommunity.com/id/SweetPorkAdobo/recommended/1566690/","label":"证据原文片段"}]},{"text":"叙事执行接近于零","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游戏的叙事执行接近于零","url":"https://steamcommunity.com/profiles/76561198426448064/recommended/1566690/","label":"证据原文片段"}]},{"text":"大规模战斗导致电脑严重发热","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it turning my pc into a personal heater.","url":"https://steamcommunity.com/id/Djtanntann/recommended/1566690/","label":"证据原文片段"}]},{"text":"成长刷取耗时过长","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"一肝要肝两个月","url":"https://steamcommunity.com/profiles/76561198354495403/recommended/1566690/","label":"证据原文片段"}]},{"text":"帧率优化问题造成不适","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"优化补丁都救不回来的帧率及其带来的偏头痛","url":"https://steamcommunity.com/profiles/76561198426448064/recommended/1566690/","label":"证据原文片段"}]},{"text":"游戏存在重大稳定性问题","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"has major stability issues.","url":"https://steamcommunity.com/profiles/76561198062722714/recommended/1566690/","label":"证据原文片段"}]},{"text":"FPS与塔防融合出色","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Great genre fusion!","url":"https://store.steampowered.com/curator/44870240-What-does-the-Fox-plays/","label":"证据原文片段"}]},{"text":"随推进体验逐渐更有趣","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"it gets gradually more fun as you progress","url":"https://store.steampowered.com/curator/32199709-Fun-Fab-Game-Reviews/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":284076,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":529978,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":68907,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5199945,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":316363,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":316363,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":47.3926660998065,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":13608,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":65,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":65.373595,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["整体体验非常糟糕","前期捡资源耗时过长","后期玩法变成苦差事","叙事执行接近于零","大规模战斗导致电脑严重发热","成长刷取耗时过长","技术/性能：帧率优化问题造成不适"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_e33b5b0b1a8e32dc97c4b31310f3fd9bbc0ecebb.1920x1080.jpg?t=1747043120","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_e33b5b0b1a8e32dc97c4b31310f3fd9bbc0ecebb.1920x1080.jpg?t=1747043120","alt":"重装前哨 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_4e8fc69c8f3380982b68148ecef1538dd9dd25de.1920x1080.jpg?t=1747043120","alt":"重装前哨 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_3eb886b9bdb50e39684032f542fea97dcac15973.1920x1080.jpg?t=1747043120","alt":"重装前哨 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_382b05198d0c3e64593529f6fa74c0ae7053523f.1920x1080.jpg?t=1747043120","alt":"重装前哨 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Outpost: Infinity Siege",
+    "developers": [
+      "Team Ranger"
+    ],
+    "publishers": [
+      "Lightning Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-26",
+    "tags": [
+      "机器人",
+      "三维画面",
+      "塔防",
+      "基地建设",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "一局同时融合FPS、塔防与基地建造的FTD战场",
+      "dimension": "玩法",
+      "excerpt": "This is an FTD game - FPS, Tower Defense, Base Building and much more all at the same time.",
+      "url": "https://store.steampowered.com/app/1566690/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "边探索采集，边合并升级模块打造自己的移动前哨",
+      "dimension": "玩法",
+      "excerpt": "Explore the world, gather resources, merge and upgrade outpost units to build your own outpost.",
+      "url": "https://store.steampowered.com/app/1566690/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用原质属性与多种弹药重构XEN枪械性能",
+      "dimension": "玩法",
+      "excerpt": "Fully exploit the value of the unique XEN Firearm with different protoslag attributes, and utilize ammunition with diverse performance.",
+      "url": "https://store.steampowered.com/app/1566690/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "整体体验非常糟糕",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Feels terrible all around.",
+          "url": "https://store.steampowered.com/curator/8036387-Gamers-for-pure-games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "前期捡资源耗时过长",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "至少十个小时的人生花在了翻箱倒柜上",
+          "url": "https://steamcommunity.com/profiles/76561198426448064/recommended/1566690/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期玩法变成苦差事",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "made it a chore to play by the later stages.",
+          "url": "https://steamcommunity.com/id/SweetPorkAdobo/recommended/1566690/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "叙事执行接近于零",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游戏的叙事执行接近于零",
+          "url": "https://steamcommunity.com/profiles/76561198426448064/recommended/1566690/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大规模战斗导致电脑严重发热",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it turning my pc into a personal heater.",
+          "url": "https://steamcommunity.com/id/Djtanntann/recommended/1566690/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成长刷取耗时过长",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "一肝要肝两个月",
+          "url": "https://steamcommunity.com/profiles/76561198354495403/recommended/1566690/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "帧率优化问题造成不适",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "优化补丁都救不回来的帧率及其带来的偏头痛",
+          "url": "https://steamcommunity.com/profiles/76561198426448064/recommended/1566690/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏存在重大稳定性问题",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "has major stability issues.",
+          "url": "https://steamcommunity.com/profiles/76561198062722714/recommended/1566690/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "FPS与塔防融合出色",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Great genre fusion!",
+          "url": "https://store.steampowered.com/curator/44870240-What-does-the-Fox-plays/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "随推进体验逐渐更有趣",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it gets gradually more fun as you progress",
+          "url": "https://store.steampowered.com/curator/32199709-Fun-Fab-Game-Reviews/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 285181,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 531841,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 68927,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 5153129,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 317695,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 317695,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 47.92150330517045,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 11627,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 65,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 65.313464,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "整体体验非常糟糕",
+    "前期捡资源耗时过长",
+    "后期玩法变成苦差事",
+    "叙事执行接近于零",
+    "大规模战斗导致电脑严重发热",
+    "成长刷取耗时过长",
+    "技术/性能：帧率优化问题造成不适"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "重装前哨位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_e33b5b0b1a8e32dc97c4b31310f3fd9bbc0ecebb.1920x1080.jpg?t=1747043120",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_e33b5b0b1a8e32dc97c4b31310f3fd9bbc0ecebb.1920x1080.jpg?t=1747043120",
+        "alt": "重装前哨 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_4e8fc69c8f3380982b68148ecef1538dd9dd25de.1920x1080.jpg?t=1747043120",
+        "alt": "重装前哨 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_3eb886b9bdb50e39684032f542fea97dcac15973.1920x1080.jpg?t=1747043120",
+        "alt": "重装前哨 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_382b05198d0c3e64593529f6fa74c0ae7053523f.1920x1080.jpg?t=1747043120",
+        "alt": "重装前哨 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_4467d212c2ba153ad98236175a3cd74972ccfefb.1920x1080.jpg?t=1747043120",
+        "alt": "重装前哨 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_61ed7ac2adf1f6fffeef8ee7dcc39cb913bb730c.1920x1080.jpg?t=1747043120",
+        "alt": "重装前哨 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_a05953530d4937360a518bce55303de81d6c2974.1920x1080.jpg?t=1747043120",
+        "alt": "重装前哨 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/ss_f979cb4e18eb88f574affcd848f100454613182f.1920x1080.jpg?t=1747043120",
+        "alt": "重装前哨 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,166 @@
-{"identity":{"original_title":"Umamusume: Pretty Derby","developers":["Cygames, Inc."],"publishers":["Cygames, Inc."],"release_status":"released","release_date":"2025-06-24","tags":["动漫风格","可爱","免费游玩","轻度Rogue","经营管理"]},"hooks":[{"text":"作为训练员通过训练、沟通和参赛把赛马娘潜力推到极限，陪她实现个人梦想。","dimension":"玩法","excerpt":"It's up to you, the trainer, to lead them down the path of victory! You have but one goal—raise your Umamusume to her fullest potential and help turn her greatest dreams into reality. In order to reach these newfound heights, it's your job to participate in—and win—as many races as possible! Triumph awaits those who train hard and work to communicate. Only by cooperating will you take the crown!","url":"https://store.steampowered.com/app/3224770/","label":"证据原文片段"},{"text":"围绕特别周、无声铃鹿、东海帝王等历史名驹原型，展开20余位赛马娘的个人故事。","dimension":"故事","excerpt":"Experience the thrilling stories of historic racers, such as: Special Week (Voice: Azumi Waki) Silence Suzuka (Voice: Marika Kono) Tokai Teio (Voice: Machico) Oguri Cap (Voice: Tomoyo Takayanagi) Gold Ship (Voice: Hitomi Ueda) Vodka (Voice: Ayaka Ohashi) Daiwa Scarlet (Voice: Chisa Kimura) Mejiro McQueen (Voice: Saori Onishi) Symboli Rudolf (Voice: Azusa Tadokoro) Rice Shower (Voice: Manaka Iwami) Haru Urara (Voice: Yukina Shuto) Nice Nature (Voice: Kaori Maeda) ...and so many more—over 20 Umamusume are searching for a trainer to help them achieve their goals!","url":"https://store.steampowered.com/app/3224770/","label":"证据原文片段"},{"text":"最多18名赛马娘同场竞速，配合实时赛事解说，并由冠军在赛后登台演出。","dimension":"画风","excerpt":"Up to 18 Umamusume compete in races against each other for first place—watch them go as you tune in to the game's incredibly realistic live commentary. And of course, stick around after the race to support the victor during a dazzling winning concert!","url":"https://store.steampowered.com/app/3224770/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2645568,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":59735,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":31417,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":72602957,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2645568,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2645568,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":44.77372234671949,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":58325,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.732849,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动漫风格、可爱","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/426b023d8cfd11a9e367c543a6b01891ab2e2dd0/ss_426b023d8cfd11a9e367c543a6b01891ab2e2dd0.1920x1080.jpg?t=1773306345","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/426b023d8cfd11a9e367c543a6b01891ab2e2dd0/ss_426b023d8cfd11a9e367c543a6b01891ab2e2dd0.1920x1080.jpg?t=1773306345","alt":"Umamusume: Pretty Derby 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/ss_67f95b138da201b52e9bcc43ab6f01ae820b7f12.1920x1080.jpg?t=1773306345","alt":"Umamusume: Pretty Derby 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/ss_ca141a286043e6222ee242cff502a10d84d5d486.1920x1080.jpg?t=1773306345","alt":"Umamusume: Pretty Derby 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/12d782f3aee88406978f1a892acd133e768a750c/ss_12d782f3aee88406978f1a892acd133e768a750c.1920x1080.jpg?t=1773306345","alt":"Umamusume: Pretty Derby 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Umamusume: Pretty Derby",
+    "developers": [
+      "Cygames, Inc."
+    ],
+    "publishers": [
+      "Cygames, Inc."
+    ],
+    "release_status": "released",
+    "release_date": "2025-06-24",
+    "tags": [
+      "动漫风格",
+      "可爱",
+      "可爱",
+      "免费游玩",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "作为训练员通过训练、沟通和参赛把赛马娘潜力推到极限，陪她实现个人梦想。",
+      "dimension": "玩法",
+      "excerpt": "It's up to you, the trainer, to lead them down the path of victory! You have but one goal—raise your Umamusume to her fullest potential and help turn her greatest dreams into reality. In order to reach these newfound heights, it's your job to participate in—and win—as many races as possible! Triumph awaits those who train hard and work to communicate. Only by cooperating will you take the crown!",
+      "url": "https://store.steampowered.com/app/3224770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "围绕特别周、无声铃鹿、东海帝王等历史名驹原型，展开20余位赛马娘的个人故事。",
+      "dimension": "故事",
+      "excerpt": "Experience the thrilling stories of historic racers, such as: Special Week (Voice: Azumi Waki) Silence Suzuka (Voice: Marika Kono) Tokai Teio (Voice: Machico) Oguri Cap (Voice: Tomoyo Takayanagi) Gold Ship (Voice: Hitomi Ueda) Vodka (Voice: Ayaka Ohashi) Daiwa Scarlet (Voice: Chisa Kimura) Mejiro McQueen (Voice: Saori Onishi) Symboli Rudolf (Voice: Azusa Tadokoro) Rice Shower (Voice: Manaka Iwami) Haru Urara (Voice: Yukina Shuto) Nice Nature (Voice: Kaori Maeda) ...and so many more—over 20 Umamusume are searching for a trainer to help them achieve their goals!",
+      "url": "https://store.steampowered.com/app/3224770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "最多18名赛马娘同场竞速，配合实时赛事解说，并由冠军在赛后登台演出。",
+      "dimension": "画风",
+      "excerpt": "Up to 18 Umamusume compete in races against each other for first place—watch them go as you tune in to the game's incredibly realistic live commentary. And of course, stick around after the race to support the victor during a dazzling winning concert!",
+      "url": "https://store.steampowered.com/app/3224770/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2769685,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 58811,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 31941,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 74229708,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2769685,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2769685,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 104.61515209373862,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 59475,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.676448,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Umamusume: Pretty Derby位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/426b023d8cfd11a9e367c543a6b01891ab2e2dd0/ss_426b023d8cfd11a9e367c543a6b01891ab2e2dd0.1920x1080.jpg?t=1773306345",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/426b023d8cfd11a9e367c543a6b01891ab2e2dd0/ss_426b023d8cfd11a9e367c543a6b01891ab2e2dd0.1920x1080.jpg?t=1773306345",
+        "alt": "Umamusume: Pretty Derby 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/ss_67f95b138da201b52e9bcc43ab6f01ae820b7f12.1920x1080.jpg?t=1773306345",
+        "alt": "Umamusume: Pretty Derby 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/ss_ca141a286043e6222ee242cff502a10d84d5d486.1920x1080.jpg?t=1773306345",
+        "alt": "Umamusume: Pretty Derby 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/12d782f3aee88406978f1a892acd133e768a750c/ss_12d782f3aee88406978f1a892acd133e768a750c.1920x1080.jpg?t=1773306345",
+        "alt": "Umamusume: Pretty Derby 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/a1a60dc2d9789d9f883b5dd85bb484565bba9c3b/ss_a1a60dc2d9789d9f883b5dd85bb484565bba9c3b.1920x1080.jpg?t=1773306345",
+        "alt": "Umamusume: Pretty Derby 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

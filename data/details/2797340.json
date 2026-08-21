@@ -1,1 +1,275 @@
-{"identity":{"original_title":"Cat God Ranch","developers":["CrazyPotato Studio"],"publishers":["CrazyPotato Studio"],"release_status":"released","release_date":"2024-09-12","tags":["经营管理","模拟","资源管理","肉鸽卡组构筑","卡组构筑"]},"hooks":[{"text":"每周只有一个硬指标：按时向猫神进贡，否则牧场会被愤怒的神直接关停。","dimension":"玩法","excerpt":"There are many different paths to choose, but only one hurdle to overcome at the end of each week. Pay tribute to the Cat God or face his wrath and have your ranch be shut down.","url":"https://store.steampowered.com/app/2797340/","label":"证据原文片段"},{"text":"动物家族能形成荒诞生态链，可以把牧场伙伴喂给食肉动物，或让企鹅熊猫铺满农场。","dimension":"玩法","excerpt":"Take advantage of 7 different animal families in the game Feed your barnyard buddies to the carnivores, or watch an army of penguins and pandas propagate across your ranch.","url":"https://store.steampowered.com/app/2797340/","label":"证据原文片段"},{"text":"草地、洞穴和水坑等地形卡可拼成生态组合，猫神赐予的道具卡再修改每日收入。","dimension":"玩法","excerpt":"Combine grasslands, caves, puddles, and other tile cards to create endless possibilities and combos. Tango with 100+ prop cards to make tribute in time! As you improve on your ranch, the Cat God will bestow you with prop cards. Add these modifiers to your daily earnings and watch them grow!","url":"https://store.steampowered.com/app/2797340/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":224237,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":118198,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7733,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1295627,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":254314,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":254314,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.484703079717015,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2190,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.378995,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"经营管理、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_ffda96c6d5eb4c849544423121fa6c9549c027b1.1920x1080.jpg?t=1777990167","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_ffda96c6d5eb4c849544423121fa6c9549c027b1.1920x1080.jpg?t=1777990167","alt":"猫神牧场 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_c471fe7aab56a2222988c1d664c63523b75fc986.1920x1080.jpg?t=1777990167","alt":"猫神牧场 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_116b3dc060e35a38389e7f1b56f80063ff6fe542.1920x1080.jpg?t=1777990167","alt":"猫神牧场 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_f346f6a5a8abc8c8f1154d69e0ed9edaaf8dbb46.1920x1080.jpg?t=1777990167","alt":"猫神牧场 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Cat God Ranch",
+    "developers": [
+      "CrazyPotato Studio"
+    ],
+    "publishers": [
+      "CrazyPotato Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-12",
+    "tags": [
+      "经营管理",
+      "动作肉鸽",
+      "模拟",
+      "资源管理",
+      "肉鸽卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每周只有一个硬指标：按时向猫神进贡，否则牧场会被愤怒的神直接关停。",
+      "dimension": "玩法",
+      "excerpt": "There are many different paths to choose, but only one hurdle to overcome at the end of each week. Pay tribute to the Cat God or face his wrath and have your ranch be shut down.",
+      "url": "https://store.steampowered.com/app/2797340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "动物家族能形成荒诞生态链，可以把牧场伙伴喂给食肉动物，或让企鹅熊猫铺满农场。",
+      "dimension": "玩法",
+      "excerpt": "Take advantage of 7 different animal families in the game Feed your barnyard buddies to the carnivores, or watch an army of penguins and pandas propagate across your ranch.",
+      "url": "https://store.steampowered.com/app/2797340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "草地、洞穴和水坑等地形卡可拼成生态组合，猫神赐予的道具卡再修改每日收入。",
+      "dimension": "玩法",
+      "excerpt": "Combine grasslands, caves, puddles, and other tile cards to create endless possibilities and combos. Tango with 100+ prop cards to make tribute in time! As you improve on your ranch, the Cat God will bestow you with prop cards. Add these modifiers to your daily earnings and watch them grow!",
+      "url": "https://store.steampowered.com/app/2797340/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "希望后面多更新，丰富玩法，加入更多有趣的机制和强化",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "希望后面多更新，丰富玩法，加入更多有趣的机制和强化",
+          "url": "https://steamcommunity.com/profiles/76561198382760977/recommended/2797340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "虽然哈迪斯名气很大，但是其本质是把roguelike给轻量化了，通过比较优秀的画面质量搭配上可以局外成长的角色属性，打通了平时不怎么玩肉鸽的玩家的受众。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "虽然哈迪斯名气很大，但是其本质是把roguelike给轻量化了，通过比较优秀的画面质量搭配上可以局外成长的角色属性，打通了平时不怎么玩肉鸽的玩家的受众。",
+          "url": "https://steamcommunity.com/id/1243330392/recommended/2797340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "对比前辈幸运房东，清晰舒服简单的流派划分和成长，很明显是做加法做的有些问题了。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "对比前辈幸运房东，清晰舒服简单的流派划分和成长，很明显是做加法做的有些问题了。",
+          "url": "https://steamcommunity.com/profiles/76561199350525489/recommended/2797340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "6分（一般） ✅画面很干净，动物还算可爱 ❌它的问题就是幸运房东的问题，场景看不清，有流派，但是效果很随机，有触发效果，但效果不是你摆的，而且很难看清",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "6分（一般） ✅画面很干净，动物还算可爱 ❌它的问题就是幸运房东的问题，场景看不清，有流派，但是效果很随机，有触发效果，但效果不是你摆的，而且很难看清",
+          "url": "https://steamcommunity.com/profiles/76561198255837239/recommended/2797340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "It adds roguelike elements and smooth gameplay.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "It adds roguelike elements and smooth gameplay.",
+          "url": "https://store.steampowered.com/curator/44339075-%25E6%25B8%25B8%25E6%2588%258F%25E5%258F%2599%25E4%25BA%258B%25E6%2589%25B9%25E8%25AF%2584/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "《小动物·卡牌构筑·策略休闲·肉鸽》《组建卡牌军团给猫神大人上贡，最终征服猫神，解放牧场》《类<幸运房东>的赚钱还款回合制玩法》《可爱且睿智的动物形象》《轻松的音乐》《可控的舒适节奏·支持多倍速》《多种模式·关卡·无尽·挑战》《7个动物家族，100+动物，10+猫神，100+道具，带来丰富的组合可能性》《新颖的地形卡牌要素·突破规则限制》《未来还有新的玩法内容待开发》《自带官中》《强烈推荐》",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "《小动物·卡牌构筑·策略休闲·肉鸽》《组建卡牌军团给猫神大人上贡，最终征服猫神，解放牧场》《类<幸运房东>的赚钱还款回合制玩法》《可爱且睿智的动物形象》《轻松的音乐》《可控的舒适节奏·支持多倍速》《多种模式·关卡·无尽·挑战》《7个动物家族，100+动物，10+猫神，100+道具，带来丰富的组合可能性》《新颖的地形卡牌要素·突破规则限制》《未来还有新的玩法内容待开发》《自带官中》《强烈推荐》",
+          "url": "https://store.steampowered.com/curator/34823852-%25E7%259C%259F%25E7%2588%25B1%25E9%2589%25B4%25E8%25B5%258F/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Cat God Ranch is a cute autochess-type of game, where each run doesn't take away too much of your time, further supplementing the addiction stemming from its incredibly satisfying gameplay!",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Cat God Ranch is a cute autochess-type of game, where each run doesn't take away too much of your time, further supplementing the addiction stemming from its incredibly satisfying gameplay!",
+          "url": "https://store.steampowered.com/curator/44559141-Curator-Express/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Cat God Ranch is a farming simulator with strategy elements where players manage a farm inhabited by cute cat deities.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Cat God Ranch is a farming simulator with strategy elements where players manage a farm inhabited by cute cat deities.",
+          "url": "https://store.steampowered.com/curator/44992851-Gamer-Codex/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 226721,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 117621,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7745,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1305689,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 257084,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 257084,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.52065630891607,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1823,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.342453,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "猫神牧场位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_ffda96c6d5eb4c849544423121fa6c9549c027b1.1920x1080.jpg?t=1777990167",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_ffda96c6d5eb4c849544423121fa6c9549c027b1.1920x1080.jpg?t=1777990167",
+        "alt": "猫神牧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_c471fe7aab56a2222988c1d664c63523b75fc986.1920x1080.jpg?t=1777990167",
+        "alt": "猫神牧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_116b3dc060e35a38389e7f1b56f80063ff6fe542.1920x1080.jpg?t=1777990167",
+        "alt": "猫神牧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_f346f6a5a8abc8c8f1154d69e0ed9edaaf8dbb46.1920x1080.jpg?t=1777990167",
+        "alt": "猫神牧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_1e234b53f3bb8b858fabc887af131038e0d993f7.1920x1080.jpg?t=1777990167",
+        "alt": "猫神牧场 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797340/ss_db950b9225fb96654bad88df2fc17932ebda5b25.1920x1080.jpg?t=1777990167",
+        "alt": "猫神牧场 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

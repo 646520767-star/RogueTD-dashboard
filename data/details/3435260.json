@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Dice With Death","developers":["Sea Glass Games"],"publishers":["Sea Glass Games"],"release_status":"released","release_date":"2026-03-16","tags":["回合制策略","休闲放松","卡组构筑","类Rogue","高难度"]},"hooks":[{"text":"收集新骰子及其配套遗物，让每次投掷叠出不断增长的力量与复杂效果","dimension":"玩法","excerpt":"Engage in a game of Dice with the mysterious entity - collect new dice and their paired relics to warp your rolls into ever increasing layers of power and complexity.","url":"https://store.steampowered.com/app/3435260/","label":"证据原文片段"},{"text":"把当前点数入账才能伤害Death，但若继续贪掷越过风险线，就会失去本轮全部收益","dimension":"玩法","excerpt":"Bank your points to deal damage to your opponent, and pass before you push your luck too far or you'll lose it all!","url":"https://store.steampowered.com/app/3435260/","label":"证据原文片段"},{"text":"解锁职业与核心机制之外，还能开启新遗物和对Death的对话路线来影响结局","dimension":"玩法","excerpt":"Unlock new classes and experiment with their core mechanics , unlock new relics and even dialogue paths with your mythical foe to influence the outcome!","url":"https://store.steampowered.com/app/3435260/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":22636,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":52110,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2559,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":197463,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":23717,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":23717,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.745529274127556,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":799,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.259675,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"回合制策略、休闲放松","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/63a5ac647e53f91f53f1423d25de1718b8fa6904/ss_63a5ac647e53f91f53f1423d25de1718b8fa6904.1920x1080.jpg?t=1778111641","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/63a5ac647e53f91f53f1423d25de1718b8fa6904/ss_63a5ac647e53f91f53f1423d25de1718b8fa6904.1920x1080.jpg?t=1778111641","alt":"Dice With Death 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/2d43ed5c98f6ce293e082b090ba3412061ff66d5/ss_2d43ed5c98f6ce293e082b090ba3412061ff66d5.1920x1080.jpg?t=1778111641","alt":"Dice With Death 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/86186bba15abed0d349f990770128e0769651d2c/ss_86186bba15abed0d349f990770128e0769651d2c.1920x1080.jpg?t=1778111641","alt":"Dice With Death 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/aaf5a3873c4c00fe2b4015ae7e7e027a3794efdf/ss_aaf5a3873c4c00fe2b4015ae7e7e027a3794efdf.1920x1080.jpg?t=1778111641","alt":"Dice With Death 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dice With Death",
+    "developers": [
+      "Sea Glass Games"
+    ],
+    "publishers": [
+      "Sea Glass Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-03-16",
+    "tags": [
+      "回合制策略",
+      "休闲放松",
+      "卡组构筑",
+      "类Rogue",
+      "高难度"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "收集新骰子及其配套遗物，让每次投掷叠出不断增长的力量与复杂效果",
+      "dimension": "玩法",
+      "excerpt": "Engage in a game of Dice with the mysterious entity - collect new dice and their paired relics to warp your rolls into ever increasing layers of power and complexity.",
+      "url": "https://store.steampowered.com/app/3435260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把当前点数入账才能伤害Death，但若继续贪掷越过风险线，就会失去本轮全部收益",
+      "dimension": "玩法",
+      "excerpt": "Bank your points to deal damage to your opponent, and pass before you push your luck too far or you'll lose it all!",
+      "url": "https://store.steampowered.com/app/3435260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "解锁职业与核心机制之外，还能开启新遗物和对Death的对话路线来影响结局",
+      "dimension": "玩法",
+      "excerpt": "Unlock new classes and experiment with their core mechanics , unlock new relics and even dialogue paths with your mythical foe to influence the outcome!",
+      "url": "https://store.steampowered.com/app/3435260/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 23995,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 49862,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2568,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 200050,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 25178,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 25178,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.826775674815783,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 764,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.063492,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Dice With Death位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/63a5ac647e53f91f53f1423d25de1718b8fa6904/ss_63a5ac647e53f91f53f1423d25de1718b8fa6904.1920x1080.jpg?t=1778111641",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/63a5ac647e53f91f53f1423d25de1718b8fa6904/ss_63a5ac647e53f91f53f1423d25de1718b8fa6904.1920x1080.jpg?t=1778111641",
+        "alt": "Dice With Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/2d43ed5c98f6ce293e082b090ba3412061ff66d5/ss_2d43ed5c98f6ce293e082b090ba3412061ff66d5.1920x1080.jpg?t=1778111641",
+        "alt": "Dice With Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/86186bba15abed0d349f990770128e0769651d2c/ss_86186bba15abed0d349f990770128e0769651d2c.1920x1080.jpg?t=1778111641",
+        "alt": "Dice With Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/aaf5a3873c4c00fe2b4015ae7e7e027a3794efdf/ss_aaf5a3873c4c00fe2b4015ae7e7e027a3794efdf.1920x1080.jpg?t=1778111641",
+        "alt": "Dice With Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/75970042c1ac27bcbe9a0bf7b278f188686890d5/ss_75970042c1ac27bcbe9a0bf7b278f188686890d5.1920x1080.jpg?t=1778111641",
+        "alt": "Dice With Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435260/53332dbb0e778eb75a4c83755a6e3710016570d4/ss_53332dbb0e778eb75a4c83755a6e3710016570d4.1920x1080.jpg?t=1778111641",
+        "alt": "Dice With Death 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

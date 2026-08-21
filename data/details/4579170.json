@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Dungeons of Freeport","developers":["Funtime Electrics"],"publishers":["Funtime Electrics"],"release_status":"released","release_date":"2026-05-15","tags":["角色扮演","地牢探索","制作","类Rogue","二维画面"]},"hooks":[{"text":"所有玩家每天面对同一组地牢，可直接比较各自在当日布局中的探索表现。","dimension":"玩法","excerpt":"Every player gets the same dungeons each day — see how you fare against others!","url":"https://store.steampowered.com/app/4579170/","label":"证据原文片段"},{"text":"撤离成功带回的物品永久保留，留在地牢中的装备则永久失去。","dimension":"玩法","excerpt":"Whatever you bring back, you keep. Whatever the dungeon keeps, it keeps forever.","url":"https://store.steampowered.com/app/4579170/","label":"证据原文片段"},{"text":"光照、噪音和弹药都会影响生存，玩家需判断正面交战还是潜行绕过敌人。","dimension":"玩法","excerpt":"Light matters. Noise matters. Ammunition matters. Engage enemies for think you can beat — or sneak by them if you can't.","url":"https://store.steampowered.com/app/4579170/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":497,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":157,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3216,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":510,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":510,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.754942812155724,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":28,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.857143,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、地牢探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/a420c4ec0283fb2d971918c82679837916f6251e/ss_a420c4ec0283fb2d971918c82679837916f6251e.1920x1080.jpg?t=1778855138","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/a420c4ec0283fb2d971918c82679837916f6251e/ss_a420c4ec0283fb2d971918c82679837916f6251e.1920x1080.jpg?t=1778855138","alt":"Dungeons of Freeport 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/98a4135dabf03ed11cbfc958ce926dcfd84d1ebb/ss_98a4135dabf03ed11cbfc958ce926dcfd84d1ebb.1920x1080.jpg?t=1778855138","alt":"Dungeons of Freeport 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/47b9c1bd18f1906f41e6ea04cd6ba06dc6c497ca/ss_47b9c1bd18f1906f41e6ea04cd6ba06dc6c497ca.1920x1080.jpg?t=1778855138","alt":"Dungeons of Freeport 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/cf5294c31b840749e4c0116f10c1aada4ed4455e/ss_cf5294c31b840749e4c0116f10c1aada4ed4455e.1920x1080.jpg?t=1778855138","alt":"Dungeons of Freeport 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dungeons of Freeport",
+    "developers": [
+      "Funtime Electrics"
+    ],
+    "publishers": [
+      "Funtime Electrics"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-15",
+    "tags": [
+      "角色扮演",
+      "地牢探索",
+      "探索",
+      "地牢探索",
+      "制作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "所有玩家每天面对同一组地牢，可直接比较各自在当日布局中的探索表现。",
+      "dimension": "玩法",
+      "excerpt": "Every player gets the same dungeons each day — see how you fare against others!",
+      "url": "https://store.steampowered.com/app/4579170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "撤离成功带回的物品永久保留，留在地牢中的装备则永久失去。",
+      "dimension": "玩法",
+      "excerpt": "Whatever you bring back, you keep. Whatever the dungeon keeps, it keeps forever.",
+      "url": "https://store.steampowered.com/app/4579170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "光照、噪音和弹药都会影响生存，玩家需判断正面交战还是潜行绕过敌人。",
+      "dimension": "玩法",
+      "excerpt": "Light matters. Noise matters. Ammunition matters. Engage enemies for think you can beat — or sneak by them if you can't.",
+      "url": "https://store.steampowered.com/app/4579170/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 512,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1279,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 166,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3233,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 525,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 525,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.9413530992932677,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 27,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.857143,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "Dungeons of Freeport当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/a420c4ec0283fb2d971918c82679837916f6251e/ss_a420c4ec0283fb2d971918c82679837916f6251e.1920x1080.jpg?t=1778855138",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/a420c4ec0283fb2d971918c82679837916f6251e/ss_a420c4ec0283fb2d971918c82679837916f6251e.1920x1080.jpg?t=1778855138",
+        "alt": "Dungeons of Freeport 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/98a4135dabf03ed11cbfc958ce926dcfd84d1ebb/ss_98a4135dabf03ed11cbfc958ce926dcfd84d1ebb.1920x1080.jpg?t=1778855138",
+        "alt": "Dungeons of Freeport 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/47b9c1bd18f1906f41e6ea04cd6ba06dc6c497ca/ss_47b9c1bd18f1906f41e6ea04cd6ba06dc6c497ca.1920x1080.jpg?t=1778855138",
+        "alt": "Dungeons of Freeport 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/cf5294c31b840749e4c0116f10c1aada4ed4455e/ss_cf5294c31b840749e4c0116f10c1aada4ed4455e.1920x1080.jpg?t=1778855138",
+        "alt": "Dungeons of Freeport 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/4dafc256bea25b03cd1320ca2261f0b1184cf897/ss_4dafc256bea25b03cd1320ca2261f0b1184cf897.1920x1080.jpg?t=1778855138",
+        "alt": "Dungeons of Freeport 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/7cdc94825caecbd621ed4cd46726b0dfa53c2ad6/ss_7cdc94825caecbd621ed4cd46726b0dfa53c2ad6.1920x1080.jpg?t=1778855138",
+        "alt": "Dungeons of Freeport 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/ec95539bdfec58aad802be224d7eea392af228f5/ss_ec95539bdfec58aad802be224d7eea392af228f5.1920x1080.jpg?t=1778855138",
+        "alt": "Dungeons of Freeport 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579170/dddf9aaf19ac4c6fc46ca45384687cf66e6da018/ss_dddf9aaf19ac4c6fc46ca45384687cf66e6da018.1920x1080.jpg?t=1778855138",
+        "alt": "Dungeons of Freeport 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

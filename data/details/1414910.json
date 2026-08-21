@@ -1,1 +1,183 @@
-{"identity":{"original_title":"The Shimmering Horizon and Cursed Blacksmith","developers":["Ason"],"publishers":["Ason","072 Project","RMAsia","Lewd Formosa"],"release_status":"released","release_date":"2025-11-28","tags":["日式角色扮演","类Rogue","制作","动漫风格","单人游戏"]},"hooks":[{"text":"每移动一步敌人紧随行动，侵蚀值形成生存倒计时","dimension":"玩法","excerpt":"Think carefully before you move in this turn-based battle system where enemies move right after you. Be aware of the Erosion. You won't last long when it reaches its limit.","url":"https://store.steampowered.com/app/1414910/","label":"证据原文片段"},{"text":"材料现场锻造百种武器，碎武继承力量","dimension":"玩法","excerpt":"Create different weapons based on the materials you choose. Each and every weapon possesses an unique Skill, broaden your playstyle. Make shattered weapons materials as well, inheriting their strength to the next masterpiece.","url":"https://store.steampowered.com/app/1414910/","label":"证据原文片段"},{"text":"通过记忆揭开世界真相的15万字全配音叙事","dimension":"故事","excerpt":"Find Memories to reach out to the truth of \"this world.\" Storytelling via both cutscenes and text-based novels with over 150K word count. All 6 main characters and elite enemies are fully voiced by Japanese voice actresses, with real-time 2D animations.","url":"https://store.steampowered.com/app/1414910/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":24775,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":92778,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8498,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":333703,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":26147,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":26147,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.283702515339561,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1027,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":59,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":58.600583,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为58.600583%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_eac7da6bbfd17522c434f486da004a4393888749.1920x1080.jpg?t=1778524261","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_eac7da6bbfd17522c434f486da004a4393888749.1920x1080.jpg?t=1778524261","alt":"苍色之光与魔剑锻造师 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_20df37de0540c0918f94ada453421337959d41a9.1920x1080.jpg?t=1778524261","alt":"苍色之光与魔剑锻造师 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_808a29d546a32f3d4c070513d995f7d0b207476b.1920x1080.jpg?t=1778524261","alt":"苍色之光与魔剑锻造师 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_4c3de29c5fb03b53f1d8589cb009d99638f40650.1920x1080.jpg?t=1778524261","alt":"苍色之光与魔剑锻造师 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Shimmering Horizon and Cursed Blacksmith",
+    "developers": [
+      "Ason"
+    ],
+    "publishers": [
+      "Ason",
+      "072 Project",
+      "RMAsia",
+      "Lewd Formosa"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-28",
+    "tags": [
+      "日式角色扮演",
+      "地牢探索",
+      "类Rogue",
+      "制作",
+      "动漫风格"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每移动一步敌人紧随行动，侵蚀值形成生存倒计时",
+      "dimension": "玩法",
+      "excerpt": "Think carefully before you move in this turn-based battle system where enemies move right after you. Be aware of the Erosion. You won't last long when it reaches its limit.",
+      "url": "https://store.steampowered.com/app/1414910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "材料现场锻造百种武器，碎武继承力量",
+      "dimension": "玩法",
+      "excerpt": "Create different weapons based on the materials you choose. Each and every weapon possesses an unique Skill, broaden your playstyle. Make shattered weapons materials as well, inheriting their strength to the next masterpiece.",
+      "url": "https://store.steampowered.com/app/1414910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "通过记忆揭开世界真相的15万字全配音叙事",
+      "dimension": "故事",
+      "excerpt": "Find Memories to reach out to the truth of \"this world.\" Storytelling via both cutscenes and text-based novels with over 150K word count. All 6 main characters and elite enemies are fully voiced by Japanese voice actresses, with real-time 2D animations.",
+      "url": "https://store.steampowered.com/app/1414910/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 26197,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 92049,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8514,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 350458,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 27652,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 27652,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.068236259443054,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 960,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 59,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 59.055877,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为58.600583%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "苍色之光与魔剑锻造师位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_eac7da6bbfd17522c434f486da004a4393888749.1920x1080.jpg?t=1778524261",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_eac7da6bbfd17522c434f486da004a4393888749.1920x1080.jpg?t=1786962055",
+        "alt": "苍色之光与魔剑锻造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_20df37de0540c0918f94ada453421337959d41a9.1920x1080.jpg?t=1786962055",
+        "alt": "苍色之光与魔剑锻造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_808a29d546a32f3d4c070513d995f7d0b207476b.1920x1080.jpg?t=1786962055",
+        "alt": "苍色之光与魔剑锻造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_4c3de29c5fb03b53f1d8589cb009d99638f40650.1920x1080.jpg?t=1786962055",
+        "alt": "苍色之光与魔剑锻造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_80fd1873beeea455ecc18d33922026033caf88fe.1920x1080.jpg?t=1786962055",
+        "alt": "苍色之光与魔剑锻造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_40096552ce0c333c8747e1a20f58fae432446014.1920x1080.jpg?t=1786962055",
+        "alt": "苍色之光与魔剑锻造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/c637e757af50a9ff6d7aba431f75e86a603de791/ss_c637e757af50a9ff6d7aba431f75e86a603de791.1920x1080.jpg?t=1786962055",
+        "alt": "苍色之光与魔剑锻造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414910/ss_0e523b571ec8675006c00ddf04d8502821025b14.1920x1080.jpg?t=1786962055",
+        "alt": "苍色之光与魔剑锻造师 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

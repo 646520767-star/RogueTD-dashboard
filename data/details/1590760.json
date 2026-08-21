@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Metal Slug Tactics","developers":["Leikir Studio"],"publishers":["Dotemu","Gamirror Games"],"release_status":"released","release_date":"2024-11-05","tags":["策略","二维画面","战争","奇幻","单人游戏"]},"hooks":[{"text":"把合金弹头的街机火力重铸为战术RPG","dimension":"玩法","excerpt":"Metal Slug Tactics offers a fresh perspective on the iconic battles of the METAL SLUG series. Lead your squad to victory through strategic guile and superior firepower in a perfect blend of classic action and tactical depth.","url":"https://store.steampowered.com/app/1590760/","label":"证据原文片段"},{"text":"用SYNC机制发动小队同步攻击，打出高额连携伤害","dimension":"玩法","excerpt":"Launch simultaneous attacks with the \"SYNC\" mechanic to deal massive damage to the enemy!","url":"https://store.steampowered.com/app/1590760/","label":"证据原文片段"},{"text":"以精致像素美术向系列经典视觉致敬","dimension":"画风","excerpt":"Enjoy amazing pixel art graphics, a heartfelt tribute to the series","url":"https://store.steampowered.com/app/1590760/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":78333,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":358402,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":29970,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1322439,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":95069,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":95069,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.77852966742864,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1515,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":77,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":76.862228,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、二维画面","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_cd8c2ee59083568f7c3ece55334fa0a48360fb35.1920x1080.jpg?t=1763548713","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_cd8c2ee59083568f7c3ece55334fa0a48360fb35.1920x1080.jpg?t=1763548713","alt":"合金弹头：战略版 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_8831a90d23b6d1c7bf782db2520a687d9c1646ad.1920x1080.jpg?t=1763548713","alt":"合金弹头：战略版 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_f0d2af4840d254b6b7520f539ee6db382c841ec5.1920x1080.jpg?t=1763548713","alt":"合金弹头：战略版 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_98d2f118fc73603e0339adbeb3f8050d4da7e68b.1920x1080.jpg?t=1763548713","alt":"合金弹头：战略版 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Metal Slug Tactics",
+    "developers": [
+      "Leikir Studio"
+    ],
+    "publishers": [
+      "Dotemu",
+      "Gamirror Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-05",
+    "tags": [
+      "类Rogue",
+      "轻度Rogue",
+      "策略",
+      "二维画面",
+      "战争"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把合金弹头的街机火力重铸为战术RPG",
+      "dimension": "玩法",
+      "excerpt": "Metal Slug Tactics offers a fresh perspective on the iconic battles of the METAL SLUG series. Lead your squad to victory through strategic guile and superior firepower in a perfect blend of classic action and tactical depth.",
+      "url": "https://store.steampowered.com/app/1590760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用SYNC机制发动小队同步攻击，打出高额连携伤害",
+      "dimension": "玩法",
+      "excerpt": "Launch simultaneous attacks with the \"SYNC\" mechanic to deal massive damage to the enemy!",
+      "url": "https://store.steampowered.com/app/1590760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "以精致像素美术向系列经典视觉致敬",
+      "dimension": "画风",
+      "excerpt": "Enjoy amazing pixel art graphics, a heartfelt tribute to the series",
+      "url": "https://store.steampowered.com/app/1590760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 79972,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 359248,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 29991,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1334620,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 97421,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 97421,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.8024505588963855,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1140,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 77,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 76.742671,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "合金弹头：战略版位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_cd8c2ee59083568f7c3ece55334fa0a48360fb35.1920x1080.jpg?t=1763548713",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_cd8c2ee59083568f7c3ece55334fa0a48360fb35.1920x1080.jpg?t=1763548713",
+        "alt": "合金弹头：战略版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_8831a90d23b6d1c7bf782db2520a687d9c1646ad.1920x1080.jpg?t=1763548713",
+        "alt": "合金弹头：战略版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_f0d2af4840d254b6b7520f539ee6db382c841ec5.1920x1080.jpg?t=1763548713",
+        "alt": "合金弹头：战略版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_98d2f118fc73603e0339adbeb3f8050d4da7e68b.1920x1080.jpg?t=1763548713",
+        "alt": "合金弹头：战略版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_93bbd1c6eb0ea9f3dcafd47507d0226b32a3a02d.1920x1080.jpg?t=1763548713",
+        "alt": "合金弹头：战略版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_81ccb4192564bce54f7b0c0ca3b9446288b023dc.1920x1080.jpg?t=1763548713",
+        "alt": "合金弹头：战略版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_23d2460b717d7d3f94746331ae43058eb6842c6f.1920x1080.jpg?t=1763548713",
+        "alt": "合金弹头：战略版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/ss_7351ea9ebc788e724a4b013438c6c1eff9193870.1920x1080.jpg?t=1763548713",
+        "alt": "合金弹头：战略版 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

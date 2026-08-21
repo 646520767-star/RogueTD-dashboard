@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Arms of God","developers":["Dark Jay Studio"],"publishers":["Dark Jay Studio","Galaktus"],"release_status":"early_access","release_date":"2026-06-08","tags":["抢先体验","动作肉鸽","俯视角射击","弹幕射击","竞技场射击"]},"hooks":[{"text":"五条机械圣臂同时挥舞远近武器清扫地狱尸潮","dimension":"玩法","excerpt":"Fire ranged and melee weapons simultaneously using up to 5 sacred 'arms' . As you face hordes of demons, you gain strength - sanctify your weapons and use mechanical arms to fulfill God's will upon the mortal realm and save it from the infernal conflagration.","url":"https://store.steampowered.com/app/3100310/","label":"证据原文片段"},{"text":"60种武器可升级合并成单件怪物级组合","dimension":"玩法","excerpt":"Choose from 60 unique weapons - both ranged and melee - and learn ruthless ways to upgrade and merge several of them into a single monstrosity, creating builds so powerful they erase demon hordes and towering bosses back into the abyss. Mix weapons with upgrades to forge even more surprising combinations and uncover hidden synergies.","url":"https://store.steampowered.com/app/3100310/","label":"证据原文片段"},{"text":"夺回大教堂后，把训练场、军械库、炼金室和钟楼建成局外枢纽","dimension":"玩法","excerpt":"Once liberated, this sacred bastion becomes your strategic hub for meta-progression . Hone your skills in the Training Ground to enhance your meta-stats, forge mighty weapons in the Armory , boost your in-game abilities in the Alchemy Chamber , and summon new valiant heroes from the Bell Tower .","url":"https://store.steampowered.com/app/3100310/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":109325,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":179206,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11572,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":963785,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":111265,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":111265,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.798538236195561,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1566,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.846641,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/53c59525ed213366fee6afb5335e497e4da364c9/ss_53c59525ed213366fee6afb5335e497e4da364c9.1920x1080.jpg?t=1784621550","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/53c59525ed213366fee6afb5335e497e4da364c9/ss_53c59525ed213366fee6afb5335e497e4da364c9.1920x1080.jpg?t=1784621550","alt":"Arms of God 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/41c324d63f25b7f6d2ff219afd42cd439d628280/ss_41c324d63f25b7f6d2ff219afd42cd439d628280.1920x1080.jpg?t=1784621550","alt":"Arms of God 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/bd55b0e79117b7ee7f10933f3713e2b06f0d2a8e/ss_bd55b0e79117b7ee7f10933f3713e2b06f0d2a8e.1920x1080.jpg?t=1784621550","alt":"Arms of God 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/bcc12c67b26d0c5c35fe4cdbcdfdc1be95cdedbf/ss_bcc12c67b26d0c5c35fe4cdbcdfdc1be95cdedbf.1920x1080.jpg?t=1784621550","alt":"Arms of God 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Arms of God",
+    "developers": [
+      "Dark Jay Studio"
+    ],
+    "publishers": [
+      "Dark Jay Studio",
+      "Galaktus",
+      "Gamersky Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-08",
+    "tags": [
+      "抢先体验",
+      "动作肉鸽",
+      "动作肉鸽",
+      "俯视角射击",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "五条机械圣臂同时挥舞远近武器清扫地狱尸潮",
+      "dimension": "玩法",
+      "excerpt": "Fire ranged and melee weapons simultaneously using up to 5 sacred 'arms' . As you face hordes of demons, you gain strength - sanctify your weapons and use mechanical arms to fulfill God's will upon the mortal realm and save it from the infernal conflagration.",
+      "url": "https://store.steampowered.com/app/3100310/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "60种武器可升级合并成单件怪物级组合",
+      "dimension": "玩法",
+      "excerpt": "Choose from 60 unique weapons - both ranged and melee - and learn ruthless ways to upgrade and merge several of them into a single monstrosity, creating builds so powerful they erase demon hordes and towering bosses back into the abyss. Mix weapons with upgrades to forge even more surprising combinations and uncover hidden synergies.",
+      "url": "https://store.steampowered.com/app/3100310/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "夺回大教堂后，把训练场、军械库、炼金室和钟楼建成局外枢纽",
+      "dimension": "玩法",
+      "excerpt": "Once liberated, this sacred bastion becomes your strategic hub for meta-progression . Hone your skills in the Training Ground to enhance your meta-stats, forge mighty weapons in the Armory , boost your in-game abilities in the Alchemy Chamber , and summon new valiant heroes from the Bell Tower .",
+      "url": "https://store.steampowered.com/app/3100310/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 126952,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 194332,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 12765,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1136876,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 128949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 128949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.022946802477626,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1768,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.472146,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Arms of God位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/53c59525ed213366fee6afb5335e497e4da364c9/ss_53c59525ed213366fee6afb5335e497e4da364c9.1920x1080.jpg?t=1784621550",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/53c59525ed213366fee6afb5335e497e4da364c9/ss_53c59525ed213366fee6afb5335e497e4da364c9.1920x1080.jpg?t=1786336148",
+        "alt": "Arms of God 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/41c324d63f25b7f6d2ff219afd42cd439d628280/ss_41c324d63f25b7f6d2ff219afd42cd439d628280.1920x1080.jpg?t=1786336148",
+        "alt": "Arms of God 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/bd55b0e79117b7ee7f10933f3713e2b06f0d2a8e/ss_bd55b0e79117b7ee7f10933f3713e2b06f0d2a8e.1920x1080.jpg?t=1786336148",
+        "alt": "Arms of God 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/bcc12c67b26d0c5c35fe4cdbcdfdc1be95cdedbf/ss_bcc12c67b26d0c5c35fe4cdbcdfdc1be95cdedbf.1920x1080.jpg?t=1786336148",
+        "alt": "Arms of God 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/32c495b2d768cfee7c81b9d2569c67eff2d883a9/ss_32c495b2d768cfee7c81b9d2569c67eff2d883a9.1920x1080.jpg?t=1786336148",
+        "alt": "Arms of God 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/86c52a14868deaf93ee352220a7d356e20a6d0e6/ss_86c52a14868deaf93ee352220a7d356e20a6d0e6.1920x1080.jpg?t=1786336148",
+        "alt": "Arms of God 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/d411676f51ffec013d80e655e39d562c911a2fcf/ss_d411676f51ffec013d80e655e39d562c911a2fcf.1920x1080.jpg?t=1786336148",
+        "alt": "Arms of God 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100310/de7e87f9a31e2fbe51f5a4a24167aa1495e90ac6/ss_de7e87f9a31e2fbe51f5a4a24167aa1495e90ac6.1920x1080.jpg?t=1786336148",
+        "alt": "Arms of God 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

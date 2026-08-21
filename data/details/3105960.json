@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Astrobuilder","developers":["wastudio"],"publishers":["wastudio"],"release_status":"early_access","release_date":"2026-05-25","tags":["抢先体验","经营管理","建造","太空","探索"]},"hooks":[{"text":"穿行150余星球并从商店经营成长为贸易枢纽","dimension":"玩法","excerpt":"This is an AI-driven space trading & dynamic world RPG. You travel across 150+ planets in a dynamic universe with 600+ intelligent NPCs. Start as a novice trader, run your own shop, build a powerful trade guild, and become a major player connecting factions across the galaxy.","url":"https://store.steampowered.com/app/3105960/","label":"证据原文片段"},{"text":"NPC立场、关系与选择实时改写供需和价格","dimension":"玩法","excerpt":"The economy and world are driven by AI. Supply, demand, and prices are not fixed but shaped by the stances, relationships, and choices of NPCs. Trading isn’t just about making profits; it’s about reshaping civilizations.","url":"https://store.steampowered.com/app/3105960/","label":"证据原文片段"},{"text":"借预言预判战争崩盘并反向改写NPC决定","dimension":"故事","excerpt":"In the cycles of Neon River, prophecies reveal signs of wars, disasters, and market crashes. You can adjust your trade routes and alliances accordingly — or try to defy the prophecy by changing NPC decisions and Neon River’s future. Every glimpse into the future is an opportunity to rewrite destiny.","url":"https://store.steampowered.com/app/3105960/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8900,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":29232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2120,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":72703,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9194,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9194,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.388964239379954,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":351,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.368272,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、经营管理","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/e61a37bb5984b7e5fb385f7fe22dc8c1007fdb41/ss_e61a37bb5984b7e5fb385f7fe22dc8c1007fdb41.1920x1080.jpg?t=1783309687","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/e61a37bb5984b7e5fb385f7fe22dc8c1007fdb41/ss_e61a37bb5984b7e5fb385f7fe22dc8c1007fdb41.1920x1080.jpg?t=1783309687","alt":"遥远行星：建造师 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/6ab3eb4623bfcb013227a1566a165197c0a9d5d1/ss_6ab3eb4623bfcb013227a1566a165197c0a9d5d1.1920x1080.jpg?t=1783309687","alt":"遥远行星：建造师 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/a0f5e6c7832cc045d1dac9006b255e5633d072c2/ss_a0f5e6c7832cc045d1dac9006b255e5633d072c2.1920x1080.jpg?t=1783309687","alt":"遥远行星：建造师 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/684878f969cf2475695f82119444ca82f93565e7/ss_684878f969cf2475695f82119444ca82f93565e7.1920x1080.jpg?t=1783309687","alt":"遥远行星：建造师 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Astrobuilder",
+    "developers": [
+      "wastudio"
+    ],
+    "publishers": [
+      "wastudio"
+    ],
+    "release_status": "released",
+    "release_date": "2026-08-13",
+    "tags": [
+      "经营管理",
+      "建造",
+      "太空",
+      "探索",
+      "策略角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "穿行150余星球并从商店经营成长为贸易枢纽",
+      "dimension": "玩法",
+      "excerpt": "This is an AI-driven space trading & dynamic world RPG. You travel across 150+ planets in a dynamic universe with 600+ intelligent NPCs. Start as a novice trader, run your own shop, build a powerful trade guild, and become a major player connecting factions across the galaxy.",
+      "url": "https://store.steampowered.com/app/3105960/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "NPC立场、关系与选择实时改写供需和价格",
+      "dimension": "玩法",
+      "excerpt": "The economy and world are driven by AI. Supply, demand, and prices are not fixed but shaped by the stances, relationships, and choices of NPCs. Trading isn’t just about making profits; it’s about reshaping civilizations.",
+      "url": "https://store.steampowered.com/app/3105960/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "借预言预判战争崩盘并反向改写NPC决定",
+      "dimension": "故事",
+      "excerpt": "In the cycles of Neon River, prophecies reveal signs of wars, disasters, and market crashes. You can adjust your trade routes and alliances accordingly — or try to defy the prophecy by changing NPC decisions and Neon River’s future. Every glimpse into the future is an opportunity to rewrite destiny.",
+      "url": "https://store.steampowered.com/app/3105960/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7772,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 30684,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2263,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 66220,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8057,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8057,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.548218257805559,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 338,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.444444,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "遥远行星：建造师位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/e61a37bb5984b7e5fb385f7fe22dc8c1007fdb41/ss_e61a37bb5984b7e5fb385f7fe22dc8c1007fdb41.1920x1080.jpg?t=1783309687",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/e61a37bb5984b7e5fb385f7fe22dc8c1007fdb41/ss_e61a37bb5984b7e5fb385f7fe22dc8c1007fdb41.1920x1080.jpg?t=1786669561",
+        "alt": "遥远行星：建造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/6ab3eb4623bfcb013227a1566a165197c0a9d5d1/ss_6ab3eb4623bfcb013227a1566a165197c0a9d5d1.1920x1080.jpg?t=1786669561",
+        "alt": "遥远行星：建造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/a0f5e6c7832cc045d1dac9006b255e5633d072c2/ss_a0f5e6c7832cc045d1dac9006b255e5633d072c2.1920x1080.jpg?t=1786669561",
+        "alt": "遥远行星：建造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/684878f969cf2475695f82119444ca82f93565e7/ss_684878f969cf2475695f82119444ca82f93565e7.1920x1080.jpg?t=1786669561",
+        "alt": "遥远行星：建造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/d2bd78b4c312c061c538c9e3c4c32fde1ac0cb25/ss_d2bd78b4c312c061c538c9e3c4c32fde1ac0cb25.1920x1080.jpg?t=1786669561",
+        "alt": "遥远行星：建造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/0553dcc01473bc76535319785e84bd2fb4ff4346/ss_0553dcc01473bc76535319785e84bd2fb4ff4346.1920x1080.jpg?t=1786669561",
+        "alt": "遥远行星：建造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/0ba30b1eb93ff429a437434537b907c6ddfc2efb/ss_0ba30b1eb93ff429a437434537b907c6ddfc2efb.1920x1080.jpg?t=1786669561",
+        "alt": "遥远行星：建造师 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105960/6ea4aff5e6ee16d68fba22de58cf0dcdf771534c/ss_6ea4aff5e6ee16d68fba22de58cf0dcdf771534c.1920x1080.jpg?t=1786669561",
+        "alt": "遥远行星：建造师 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

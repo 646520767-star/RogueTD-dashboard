@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Monster Train 2","developers":["Shiny Shoe"],"publishers":["Big Fan Games"],"release_status":"released","release_date":"2025-05-21","tags":["肉鸽卡组构筑","卡牌游戏","类Rogue","卡组构筑","回合制策略"]},"hooks":[{"text":"守住列车三层纵向战线，持续招募单位与升级卡牌","dimension":"玩法","excerpt":"With three vertical levels to defend against dangerous new enemies, you’ll need to recruit powerful new units, upgrade cards, and experiment to survive.","url":"https://store.steampowered.com/app/2742830/","label":"证据原文片段"},{"text":"房间卡强化车厢，装备卡直接附加到单位","dimension":"玩法","excerpt":"Room Cards add impressive boosts to your train, allowing you new strategic advantages over your foes. Equipment Cards can be applied to units, giving them a variety of bonuses to aid you in battle!","url":"https://store.steampowered.com/app/2742830/","label":"证据原文片段"},{"text":"不同薪火之心既改写开局功能，也推动主线故事","dimension":"玩法","excerpt":"Each Pyre Heart brings unique functionality to gameplay. Unlocking them not only provides another way to customize your run before departing, but also plays a key role in advancing the story.","url":"https://store.steampowered.com/app/2742830/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":512983,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":380014,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":24652,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":9501286,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":571637,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":571637,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":36.97956970399122,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":9974,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.319234,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、卡牌游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/c7d7b211276aa8e30caea22789786daf0ad118e1/ss_c7d7b211276aa8e30caea22789786daf0ad118e1.1920x1080.jpg?t=1784283196","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/c7d7b211276aa8e30caea22789786daf0ad118e1/ss_c7d7b211276aa8e30caea22789786daf0ad118e1.1920x1080.jpg?t=1784283196","alt":"Monster Train 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/63ad70bede999265c852acd74ca91747fdd2280d/ss_63ad70bede999265c852acd74ca91747fdd2280d.1920x1080.jpg?t=1784283196","alt":"Monster Train 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/c5a5a06f35b12fcc88bc585c41ade318c31de60d/ss_c5a5a06f35b12fcc88bc585c41ade318c31de60d.1920x1080.jpg?t=1784283196","alt":"Monster Train 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/a05741fe8485ee0c0a46510a5c28902fe9ecd287/ss_a05741fe8485ee0c0a46510a5c28902fe9ecd287.1920x1080.jpg?t=1784283196","alt":"Monster Train 2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Monster Train 2",
+    "developers": [
+      "Shiny Shoe"
+    ],
+    "publishers": [
+      "Big Fan Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-21",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡牌游戏",
+      "类Rogue",
+      "卡组构筑",
+      "回合制策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "守住列车三层纵向战线，持续招募单位与升级卡牌",
+      "dimension": "玩法",
+      "excerpt": "With three vertical levels to defend against dangerous new enemies, you’ll need to recruit powerful new units, upgrade cards, and experiment to survive.",
+      "url": "https://store.steampowered.com/app/2742830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "房间卡强化车厢，装备卡直接附加到单位",
+      "dimension": "玩法",
+      "excerpt": "Room Cards add impressive boosts to your train, allowing you new strategic advantages over your foes. Equipment Cards can be applied to units, giving them a variety of bonuses to aid you in battle!",
+      "url": "https://store.steampowered.com/app/2742830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不同薪火之心既改写开局功能，也推动主线故事",
+      "dimension": "玩法",
+      "excerpt": "Each Pyre Heart brings unique functionality to gameplay. Unlocking them not only provides another way to customize your run before departing, but also plays a key role in advancing the story.",
+      "url": "https://store.steampowered.com/app/2742830/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 522565,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 383545,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 24796,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 9592360,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 582802,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 582802,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 36.49203734325078,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 8578,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.323205,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Monster Train 2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/c7d7b211276aa8e30caea22789786daf0ad118e1/ss_c7d7b211276aa8e30caea22789786daf0ad118e1.1920x1080.jpg?t=1784283196",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/c7d7b211276aa8e30caea22789786daf0ad118e1/ss_c7d7b211276aa8e30caea22789786daf0ad118e1.1920x1080.jpg?t=1785513432",
+        "alt": "Monster Train 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/63ad70bede999265c852acd74ca91747fdd2280d/ss_63ad70bede999265c852acd74ca91747fdd2280d.1920x1080.jpg?t=1785513432",
+        "alt": "Monster Train 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/c5a5a06f35b12fcc88bc585c41ade318c31de60d/ss_c5a5a06f35b12fcc88bc585c41ade318c31de60d.1920x1080.jpg?t=1785513432",
+        "alt": "Monster Train 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/a05741fe8485ee0c0a46510a5c28902fe9ecd287/ss_a05741fe8485ee0c0a46510a5c28902fe9ecd287.1920x1080.jpg?t=1785513432",
+        "alt": "Monster Train 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/8f797bcd439a02a6c0fb75a17e6e07e74e2d9c71/ss_8f797bcd439a02a6c0fb75a17e6e07e74e2d9c71.1920x1080.jpg?t=1785513432",
+        "alt": "Monster Train 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/cbdf81f37bff6dd594e46b5e32a901914377149a/ss_cbdf81f37bff6dd594e46b5e32a901914377149a.1920x1080.jpg?t=1785513432",
+        "alt": "Monster Train 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/876156c2713a52c2150cc5acfd628cf351e95e77/ss_876156c2713a52c2150cc5acfd628cf351e95e77.1920x1080.jpg?t=1785513432",
+        "alt": "Monster Train 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/13915332da0cba36880fffd5061a3f89a82ff3fe/ss_13915332da0cba36880fffd5061a3f89a82ff3fe.1920x1080.jpg?t=1785513432",
+        "alt": "Monster Train 2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

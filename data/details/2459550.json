@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Emberward","developers":["Refic Games"],"publishers":["Refic Games"],"release_status":"early_access","release_date":"2024-06-25","tags":["抢先体验","塔防","策略","轻度Rogue","卡组构筑"]},"hooks":[{"text":"用俄罗斯方块卡牌在战前塑造迷宫","dimension":"玩法","excerpt":"Build a maze before the battle begins! Be creative and find the best setup with the block cards in your hand. Make good use of your limited wall blocks!","url":"https://store.steampowered.com/app/2459550/","label":"证据原文片段"},{"text":"符文可强化塔并赋予方块能力或倍增尺寸","dimension":"玩法","excerpt":"After the battle, add various runes to the block cards! Runes can enhance your towers, grant blocks special abilities, or even double their size!","url":"https://store.steampowered.com/app/2459550/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":190057,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":203351,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":13756,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2425481,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":193173,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":193173,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":16.845680199049283,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3775,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.956867,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、塔防","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/80b9f622576d1c9ccfef45c57f1504378215c90d/ss_80b9f622576d1c9ccfef45c57f1504378215c90d.1920x1080.jpg?t=1780666603","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/80b9f622576d1c9ccfef45c57f1504378215c90d/ss_80b9f622576d1c9ccfef45c57f1504378215c90d.1920x1080.jpg?t=1780666603","alt":"余烬守卫 Emberward 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/ss_4861d31990950a67a1797beadecb90b1cd79e22c.1920x1080.jpg?t=1780666603","alt":"余烬守卫 Emberward 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/8011ef6ab4cfa1679bb3ded1e990f58e325ffdeb/ss_8011ef6ab4cfa1679bb3ded1e990f58e325ffdeb.1920x1080.jpg?t=1780666603","alt":"余烬守卫 Emberward 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/28bd980ebd627c40fa6ad2e4fa2af2a7471543d0/ss_28bd980ebd627c40fa6ad2e4fa2af2a7471543d0.1920x1080.jpg?t=1780666603","alt":"余烬守卫 Emberward 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Emberward",
+    "developers": [
+      "Refic Games"
+    ],
+    "publishers": [
+      "Refic Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-06-25",
+    "tags": [
+      "抢先体验",
+      "塔防",
+      "策略",
+      "策略",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用俄罗斯方块卡牌在战前塑造迷宫",
+      "dimension": "玩法",
+      "excerpt": "Build a maze before the battle begins! Be creative and find the best setup with the block cards in your hand. Make good use of your limited wall blocks!",
+      "url": "https://store.steampowered.com/app/2459550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "符文可强化塔并赋予方块能力或倍增尺寸",
+      "dimension": "玩法",
+      "excerpt": "After the battle, add various runes to the block cards! Runes can enhance your towers, grant blocks special abilities, or even double their size!",
+      "url": "https://store.steampowered.com/app/2459550/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 196017,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 209671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 13796,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2481606,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 199282,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 199282,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 16.425446292317307,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3714,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.952981,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "余烬守卫 Emberward位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/80b9f622576d1c9ccfef45c57f1504378215c90d/ss_80b9f622576d1c9ccfef45c57f1504378215c90d.1920x1080.jpg?t=1780666603",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/80b9f622576d1c9ccfef45c57f1504378215c90d/ss_80b9f622576d1c9ccfef45c57f1504378215c90d.1920x1080.jpg?t=1780666603",
+        "alt": "余烬守卫 Emberward 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/ss_4861d31990950a67a1797beadecb90b1cd79e22c.1920x1080.jpg?t=1780666603",
+        "alt": "余烬守卫 Emberward 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/8011ef6ab4cfa1679bb3ded1e990f58e325ffdeb/ss_8011ef6ab4cfa1679bb3ded1e990f58e325ffdeb.1920x1080.jpg?t=1780666603",
+        "alt": "余烬守卫 Emberward 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/28bd980ebd627c40fa6ad2e4fa2af2a7471543d0/ss_28bd980ebd627c40fa6ad2e4fa2af2a7471543d0.1920x1080.jpg?t=1780666603",
+        "alt": "余烬守卫 Emberward 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/ss_1e69187064214f0881242624f2833a9bb909179f.1920x1080.jpg?t=1780666603",
+        "alt": "余烬守卫 Emberward 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/1f08326bcf6cf6f85e95fd63e8a2780266c80e06/ss_1f08326bcf6cf6f85e95fd63e8a2780266c80e06.1920x1080.jpg?t=1780666603",
+        "alt": "余烬守卫 Emberward 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/7896ee82f91888ab1b130ee866b395e9d04aa9e6/ss_7896ee82f91888ab1b130ee866b395e9d04aa9e6.1920x1080.jpg?t=1780666603",
+        "alt": "余烬守卫 Emberward 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/2f24550840016e378f5321f0e333b9da009274d1/ss_2f24550840016e378f5321f0e333b9da009274d1.1920x1080.jpg?t=1780666603",
+        "alt": "余烬守卫 Emberward 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

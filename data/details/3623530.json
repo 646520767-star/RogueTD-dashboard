@@ -1,1 +1,219 @@
-{"identity":{"original_title":"Deified","developers":["Unexpected"],"publishers":["Goblinz Publishing"],"release_status":"early_access","release_date":"2026-04-27","tags":["策略","类Rogue","回合制策略","地牢探索","轻度Rogue"]},"hooks":[{"text":"没有法力、行动点或冷却限制，每个回合都能直接调动完整力量。","dimension":"玩法","excerpt":"No mana, no action points, no cooldowns! Be powerful every turn in a game that rewards your decisions.","url":"https://store.steampowered.com/app/3623530/","label":"证据原文片段"},{"text":"拼合相同碎片修复遗物，并收集同类型遗物强化能力与协同。","dimension":"玩法","excerpt":"Restore your artifacts by assembling multiple identical fragments, unlock new abilities, and strengthen your synergies by collecting relics of the same type.","url":"https://store.steampowered.com/app/3623530/","label":"证据原文片段"},{"text":"每个遗物槽位同时给予独特增益与代价，有限槽位本身就是构筑约束。","dimension":"玩法","excerpt":"Relics need slots to be used so choose them carefully: each one grants a unique bonus but also a drawback that shapes your playstyle.","url":"https://store.steampowered.com/app/3623530/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5371,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":38129,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2393,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":62585,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5371,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5371,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":17.401314668070004,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":258,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.455598,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/4b59d35e17af3ac98a3cb06d20731bf236776d05/ss_4b59d35e17af3ac98a3cb06d20731bf236776d05.1920x1080.jpg?t=1783003408","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/4b59d35e17af3ac98a3cb06d20731bf236776d05/ss_4b59d35e17af3ac98a3cb06d20731bf236776d05.1920x1080.jpg?t=1783003408","alt":"Deified 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/d9123cafb933c8393f234873835721a245fab9f7/ss_d9123cafb933c8393f234873835721a245fab9f7.1920x1080.jpg?t=1783003408","alt":"Deified 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/ea152d32c443765f2b8566c2b6020ad3af2e378c/ss_ea152d32c443765f2b8566c2b6020ad3af2e378c.1920x1080.jpg?t=1783003408","alt":"Deified 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/f4d439d38b268c1c2c26f4d616e8f487b72f0483/ss_f4d439d38b268c1c2c26f4d616e8f487b72f0483.1920x1080.jpg?t=1783003408","alt":"Deified 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Deified",
+    "developers": [
+      "Unexpected"
+    ],
+    "publishers": [
+      "Goblinz Publishing"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-04-27",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "回合制策略",
+      "地牢探索",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "没有法力、行动点或冷却限制，每个回合都能直接调动完整力量。",
+      "dimension": "玩法",
+      "excerpt": "No mana, no action points, no cooldowns! Be powerful every turn in a game that rewards your decisions.",
+      "url": "https://store.steampowered.com/app/3623530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "拼合相同碎片修复遗物，并收集同类型遗物强化能力与协同。",
+      "dimension": "玩法",
+      "excerpt": "Restore your artifacts by assembling multiple identical fragments, unlock new abilities, and strengthen your synergies by collecting relics of the same type.",
+      "url": "https://store.steampowered.com/app/3623530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每个遗物槽位同时给予独特增益与代价，有限槽位本身就是构筑约束。",
+      "dimension": "玩法",
+      "excerpt": "Relics need slots to be used so choose them carefully: each one grants a unique bonus but also a drawback that shapes your playstyle.",
+      "url": "https://store.steampowered.com/app/3623530/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "I love the DA and gameplay.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "I love the DA and gameplay.",
+          "url": "https://steamcommunity.com/id/indolullaby/recommended/3623530/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Pros: +Amazing meta-progression +Balance +Build variety +Difficulty +Refreshing features for the genre +Unique and fun to play Cons: -Secondary storyline and music -Few mods and complications, but maybe they'll add them after leaving EA -A few small bugs, but forgivable at this stage (considering the volume of mechanics) The project is somewhat reminiscent of Griftlands.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Pros: +Amazing meta-progression +Balance +Build variety +Difficulty +Refreshing features for the genre +Unique and fun to play Cons: -Secondary storyline and music -Few mods and complications, but maybe they'll add them after leaving EA -A few small bugs, but forgivable at this stage (considering the volume of mechanics) The project is somewhat reminiscent of Griftlands.",
+          "url": "https://steamcommunity.com/id/FerZb/recommended/3623530/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "DR:[/b] The game has a very niche gameplay style, but if you enjoy tactical roguelikes (like Mewgenics, for example) you can go in blind!",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "DR:[/b] The game has a very niche gameplay style, but if you enjoy tactical roguelikes (like Mewgenics, for example) you can go in blind!",
+          "url": "https://steamcommunity.com/profiles/76561198095372766/recommended/3623530/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Combat is fun and with the different upgrades engaging enough to keep you going run after run.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Combat is fun and with the different upgrades engaging enough to keep you going run after run.",
+          "url": "https://steamcommunity.com/profiles/76561198075604661/recommended/3623530/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5792,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 40912,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2539,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 66268,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5808,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5808,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 18.237607005360577,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 266,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.752809,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Deified位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/4b59d35e17af3ac98a3cb06d20731bf236776d05/ss_4b59d35e17af3ac98a3cb06d20731bf236776d05.1920x1080.jpg?t=1783003408",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/4b59d35e17af3ac98a3cb06d20731bf236776d05/ss_4b59d35e17af3ac98a3cb06d20731bf236776d05.1920x1080.jpg?t=1785911003",
+        "alt": "Deified 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/d9123cafb933c8393f234873835721a245fab9f7/ss_d9123cafb933c8393f234873835721a245fab9f7.1920x1080.jpg?t=1785911003",
+        "alt": "Deified 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/ea152d32c443765f2b8566c2b6020ad3af2e378c/ss_ea152d32c443765f2b8566c2b6020ad3af2e378c.1920x1080.jpg?t=1785911003",
+        "alt": "Deified 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/f4d439d38b268c1c2c26f4d616e8f487b72f0483/ss_f4d439d38b268c1c2c26f4d616e8f487b72f0483.1920x1080.jpg?t=1785911003",
+        "alt": "Deified 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623530/c42d37277864b3177da74f5d4912de2f6e4017a3/ss_c42d37277864b3177da74f5d4912de2f6e4017a3.1920x1080.jpg?t=1785911003",
+        "alt": "Deified 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

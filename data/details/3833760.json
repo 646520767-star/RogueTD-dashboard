@@ -1,1 +1,171 @@
-{"identity":{"original_title":"You Know The Drill","developers":["ludokai"],"publishers":["Catoptric Games"],"release_status":"released","release_date":"2026-06-04","tags":["增量成长","休闲","类Rogue","休闲放松","模拟"]},"hooks":[{"text":"采开矿石获得资源，每局解锁升级并不断钻向更深地层","dimension":"玩法","excerpt":"Harvest them to earn resources and power up. Unlock powerful upgrades and dig further with each run.","url":"https://store.steampowered.com/app/3833760/","label":"证据原文片段"},{"text":"把朴素钻机逐步改造成武装到牙齿的高功率采矿机器","dimension":"玩法","excerpt":"Turn your humble drill into a high-powered mining machine armed to the teeth.","url":"https://store.steampowered.com/app/3833760/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":35644,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":48297,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1116,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":135649,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":36486,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":36486,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.5522027014099082,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":819,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.438639,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"增量成长、休闲","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/15c1ef1f5772a212693a9b0b98606379fc93f105/ss_15c1ef1f5772a212693a9b0b98606379fc93f105.1920x1080.jpg?t=1784345986","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/15c1ef1f5772a212693a9b0b98606379fc93f105/ss_15c1ef1f5772a212693a9b0b98606379fc93f105.1920x1080.jpg?t=1784345986","alt":"You Know The Drill 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/b89caf62ef5a64150f08affb23aef77eb2d321d3/ss_b89caf62ef5a64150f08affb23aef77eb2d321d3.1920x1080.jpg?t=1784345986","alt":"You Know The Drill 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/40eab18a283362be7b104ce241f0baa1cdff6f20/ss_40eab18a283362be7b104ce241f0baa1cdff6f20.1920x1080.jpg?t=1784345986","alt":"You Know The Drill 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/6dff58e78e5ebc750781275290d3c436899205b8/ss_6dff58e78e5ebc750781275290d3c436899205b8.1920x1080.jpg?t=1784345986","alt":"You Know The Drill 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "You Know The Drill",
+    "developers": [
+      "ludokai"
+    ],
+    "publishers": [
+      "Catoptric Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-04",
+    "tags": [
+      "增量成长",
+      "休闲",
+      "休闲",
+      "类Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "采开矿石获得资源，每局解锁升级并不断钻向更深地层",
+      "dimension": "玩法",
+      "excerpt": "Harvest them to earn resources and power up. Unlock powerful upgrades and dig further with each run.",
+      "url": "https://store.steampowered.com/app/3833760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把朴素钻机逐步改造成武装到牙齿的高功率采矿机器",
+      "dimension": "玩法",
+      "excerpt": "Turn your humble drill into a high-powered mining machine armed to the teeth.",
+      "url": "https://store.steampowered.com/app/3833760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 48771,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 43469,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1196,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 194710,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 49837,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 49837,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.527866241852791,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 952,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.515704,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "You Know The Drill位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/15c1ef1f5772a212693a9b0b98606379fc93f105/ss_15c1ef1f5772a212693a9b0b98606379fc93f105.1920x1080.jpg?t=1784345986",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/15c1ef1f5772a212693a9b0b98606379fc93f105/ss_15c1ef1f5772a212693a9b0b98606379fc93f105.1920x1080.jpg?t=1786809430",
+        "alt": "You Know The Drill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/b89caf62ef5a64150f08affb23aef77eb2d321d3/ss_b89caf62ef5a64150f08affb23aef77eb2d321d3.1920x1080.jpg?t=1786809430",
+        "alt": "You Know The Drill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/40eab18a283362be7b104ce241f0baa1cdff6f20/ss_40eab18a283362be7b104ce241f0baa1cdff6f20.1920x1080.jpg?t=1786809430",
+        "alt": "You Know The Drill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/6dff58e78e5ebc750781275290d3c436899205b8/ss_6dff58e78e5ebc750781275290d3c436899205b8.1920x1080.jpg?t=1786809430",
+        "alt": "You Know The Drill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/ceb2e7473841367bcb134bfc5261b483fc448eb1/ss_ceb2e7473841367bcb134bfc5261b483fc448eb1.1920x1080.jpg?t=1786809430",
+        "alt": "You Know The Drill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/c133e4e6c71e0f41a54051921933124922248e18/ss_c133e4e6c71e0f41a54051921933124922248e18.1920x1080.jpg?t=1786809430",
+        "alt": "You Know The Drill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/9c092d0baf150133d6d892a76786bd2a0869ad2c/ss_9c092d0baf150133d6d892a76786bd2a0869ad2c.1920x1080.jpg?t=1786809430",
+        "alt": "You Know The Drill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833760/6e84b2e181ecea0c7c55628dff6a7b63622d1b0f/ss_6e84b2e181ecea0c7c55628dff6a7b63622d1b0f.1920x1080.jpg?t=1786809430",
+        "alt": "You Know The Drill 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

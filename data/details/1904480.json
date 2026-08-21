@@ -1,1 +1,181 @@
-{"identity":{"original_title":"Absolum","developers":["Dotemu","Guard Crush Games","Supamonks"],"publishers":["Dotemu","Gamirror Games"],"release_status":"released","release_date":"2025-10-09","tags":["轻度Rogue","本地合作","手绘风格","奇幻","动作"]},"hooks":[{"text":"扮演塔拉姆的流亡英雄，从太阳王阿兹拉手中夺回被禁锢的魔法","dimension":"题材","excerpt":"Fight as the outcast heroes of Talamh in a fierce battle to retake magic from Sun King Azra’s grasp in Absolum, an original roguelite beat ‘em up by Dotemu.","url":"https://store.steampowered.com/app/1904480/","label":"证据原文片段"},{"text":"用多路线与不可预测遭遇把横版清版动作改造成每轮变化的肉鸽冒险","dimension":"玩法","excerpt":"With its fast-paced action and endless replayability, Absolum will challenge you with multiple paths to explore and unpredictable encounters for a new experience each time you play.","url":"https://store.steampowered.com/app/1904480/","label":"证据原文片段"},{"text":"把高速连段、施法、魔法反击和稀有道具组合成讲究时机的战斗","dimension":"玩法","excerpt":"Take down Azra’s elite guard with a mix of rapid combo chains and spellcasting powers, unleashing moves that feel as raw as they are strategic. Use magical counters and rare items to turn the tide in your favor and experience a combat system that demands skill and timing, pushing you to craft new strategies at every run to wreak havoc among the enemy ranks.","url":"https://store.steampowered.com/app/1904480/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":456434,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":970995,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":49207,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":8526124,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":498816,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":498816,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.304958602467496,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":10257,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.088361,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、本地合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d71352f60e6b4cc27c5b9a224d6827ec647d2fac/ss_d71352f60e6b4cc27c5b9a224d6827ec647d2fac.1920x1080.jpg?t=1782461798","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d71352f60e6b4cc27c5b9a224d6827ec647d2fac/ss_d71352f60e6b4cc27c5b9a224d6827ec647d2fac.1920x1080.jpg?t=1782461798","alt":"绝对魔权 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/7eb27341f5ce29c6deccfde32792fd9a156ff57a/ss_7eb27341f5ce29c6deccfde32792fd9a156ff57a.1920x1080.jpg?t=1782461798","alt":"绝对魔权 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/c678e413a5268e5a60e9ec08dfa6dc3e079e432e/ss_c678e413a5268e5a60e9ec08dfa6dc3e079e432e.1920x1080.jpg?t=1782461798","alt":"绝对魔权 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d9b75c8a2e9dc9ddb09f8390f23e9e8ed44111c2/ss_d9b75c8a2e9dc9ddb09f8390f23e9e8ed44111c2.1920x1080.jpg?t=1782461798","alt":"绝对魔权 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Absolum",
+    "developers": [
+      "Dotemu",
+      "Guard Crush Games",
+      "Supamonks"
+    ],
+    "publishers": [
+      "Dotemu",
+      "Gamirror Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-10-09",
+    "tags": [
+      "玩家对环境",
+      "轻度Rogue",
+      "本地合作",
+      "奇幻",
+      "手绘风格"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "扮演塔拉姆的流亡英雄，从太阳王阿兹拉手中夺回被禁锢的魔法",
+      "dimension": "题材",
+      "excerpt": "Fight as the outcast heroes of Talamh in a fierce battle to retake magic from Sun King Azra’s grasp in Absolum, an original roguelite beat ‘em up by Dotemu.",
+      "url": "https://store.steampowered.com/app/1904480/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用多路线与不可预测遭遇把横版清版动作改造成每轮变化的肉鸽冒险",
+      "dimension": "玩法",
+      "excerpt": "With its fast-paced action and endless replayability, Absolum will challenge you with multiple paths to explore and unpredictable encounters for a new experience each time you play.",
+      "url": "https://store.steampowered.com/app/1904480/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把高速连段、施法、魔法反击和稀有道具组合成讲究时机的战斗",
+      "dimension": "玩法",
+      "excerpt": "Take down Azra’s elite guard with a mix of rapid combo chains and spellcasting powers, unleashing moves that feel as raw as they are strategic. Use magical counters and rare items to turn the tide in your favor and experience a combat system that demands skill and timing, pushing you to craft new strategies at every run to wreak havoc among the enemy ranks.",
+      "url": "https://store.steampowered.com/app/1904480/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 464848,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 966523,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 49467,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 8639043,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 508590,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 508590,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.504844331136095,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 9202,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.051404,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "绝对魔权位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d71352f60e6b4cc27c5b9a224d6827ec647d2fac/ss_d71352f60e6b4cc27c5b9a224d6827ec647d2fac.1920x1080.jpg?t=1782461798",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d71352f60e6b4cc27c5b9a224d6827ec647d2fac/ss_d71352f60e6b4cc27c5b9a224d6827ec647d2fac.1920x1080.jpg?t=1782461798",
+        "alt": "绝对魔权 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/7eb27341f5ce29c6deccfde32792fd9a156ff57a/ss_7eb27341f5ce29c6deccfde32792fd9a156ff57a.1920x1080.jpg?t=1782461798",
+        "alt": "绝对魔权 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/c678e413a5268e5a60e9ec08dfa6dc3e079e432e/ss_c678e413a5268e5a60e9ec08dfa6dc3e079e432e.1920x1080.jpg?t=1782461798",
+        "alt": "绝对魔权 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d9b75c8a2e9dc9ddb09f8390f23e9e8ed44111c2/ss_d9b75c8a2e9dc9ddb09f8390f23e9e8ed44111c2.1920x1080.jpg?t=1782461798",
+        "alt": "绝对魔权 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/ea0656207cbaf00003294eee4ce963b6df166916/ss_ea0656207cbaf00003294eee4ce963b6df166916.1920x1080.jpg?t=1782461798",
+        "alt": "绝对魔权 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/c8246fcdb78cab61fba6d1ac8265982e9d601ac5/ss_c8246fcdb78cab61fba6d1ac8265982e9d601ac5.1920x1080.jpg?t=1782461798",
+        "alt": "绝对魔权 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/b3a8d0020cec236134d98cae4f3c3cea31258a0f/ss_b3a8d0020cec236134d98cae4f3c3cea31258a0f.1920x1080.jpg?t=1782461798",
+        "alt": "绝对魔权 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/e409fa794bdb1f938e2f9eb4c099a69cc567e1f6/ss_e409fa794bdb1f938e2f9eb4c099a69cc567e1f6.1920x1080.jpg?t=1782461798",
+        "alt": "绝对魔权 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

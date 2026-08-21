@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Diplomacy is Not an Option: Shareware","developers":["Door 407"],"publishers":["Door 407"],"release_status":"released","release_date":"2025-04-30","tags":["策略","塔防","即时战略","基地建设","建造"]},"hooks":[{"text":"两万五千敌军同屏攻城，箭矢与投石均按物理模拟","dimension":"玩法","excerpt":"Over 25 THOUSAND enemies will assault your castle walls. Every arrow, catapult stone and enemy launched skywards is physically modeled, making for a tactile and coherent battlefield.","url":"https://store.steampowered.com/app/3043710/","label":"证据原文片段"},{"text":"防御工事会遮挡己方视线，需设计杀伤区与后撤阵地","dimension":"玩法","excerpt":"Just make sure your troops have towers to shoot from and clear lines of sight, or you might find your best-laid plans embarrassingly blunted by your own fortifications. Create kill-zones and fall-back positions.","url":"https://store.steampowered.com/app/3043710/","label":"证据原文片段"},{"text":"收割敌魂施法，可召暗黑骑士、发射魔能束并冻结时间","dimension":"玩法","excerpt":"Learn it yourself and trap the souls of your fallen enemies. There are few spells in the game, but using any of them can change the course of the battle. Build magical monuments, harvest soul crystals and give a try to a maniacal laugh as searing magical beams tear through your foes and summoned Dark Knights to chase down the stragglers. Oh, and don't forget about the ability to freeze time.","url":"https://store.steampowered.com/app/3043710/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":123089,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2299,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":123089,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":123089,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.766124486483135,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":754,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.021277,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、塔防","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_bc4e115e39ec49d2a976c1ffffaa86bb98fd590c.1920x1080.jpg?t=1769695902","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_bc4e115e39ec49d2a976c1ffffaa86bb98fd590c.1920x1080.jpg?t=1769695902","alt":"Diplomacy is Not an Option: Shareware 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_f0bc0f6aa3c5ba44db8a5575fa4b4157b6e29fc7.1920x1080.jpg?t=1769695902","alt":"Diplomacy is Not an Option: Shareware 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_1e51cc09087897026baffbcb010ad9d0202d7bdf.1920x1080.jpg?t=1769695902","alt":"Diplomacy is Not an Option: Shareware 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_a88c5eb3f0de82ecfd50e51f678299222d05c718.1920x1080.jpg?t=1769695902","alt":"Diplomacy is Not an Option: Shareware 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Diplomacy is Not an Option: Shareware",
+    "developers": [
+      "Door 407"
+    ],
+    "publishers": [
+      "Door 407"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-30",
+    "tags": [
+      "策略",
+      "塔防",
+      "基地建设",
+      "塔防",
+      "即时战略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "两万五千敌军同屏攻城，箭矢与投石均按物理模拟",
+      "dimension": "玩法",
+      "excerpt": "Over 25 THOUSAND enemies will assault your castle walls. Every arrow, catapult stone and enemy launched skywards is physically modeled, making for a tactile and coherent battlefield.",
+      "url": "https://store.steampowered.com/app/3043710/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "防御工事会遮挡己方视线，需设计杀伤区与后撤阵地",
+      "dimension": "玩法",
+      "excerpt": "Just make sure your troops have towers to shoot from and clear lines of sight, or you might find your best-laid plans embarrassingly blunted by your own fortifications. Create kill-zones and fall-back positions.",
+      "url": "https://store.steampowered.com/app/3043710/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收割敌魂施法，可召暗黑骑士、发射魔能束并冻结时间",
+      "dimension": "玩法",
+      "excerpt": "Learn it yourself and trap the souls of your fallen enemies. There are few spells in the game, but using any of them can change the course of the battle. Build magical monuments, harvest soul crystals and give a try to a maniacal laugh as searing magical beams tear through your foes and summoned Dark Knights to chase down the stragglers. Oh, and don't forget about the ability to freeze time.",
+      "url": "https://store.steampowered.com/app/3043710/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 124271,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2336,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 124271,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 124271,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.873492121973392,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 792,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.191436,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Diplomacy is Not an Option: Shareware位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_bc4e115e39ec49d2a976c1ffffaa86bb98fd590c.1920x1080.jpg?t=1769695902",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_bc4e115e39ec49d2a976c1ffffaa86bb98fd590c.1920x1080.jpg?t=1769695902",
+        "alt": "Diplomacy is Not an Option: Shareware 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_f0bc0f6aa3c5ba44db8a5575fa4b4157b6e29fc7.1920x1080.jpg?t=1769695902",
+        "alt": "Diplomacy is Not an Option: Shareware 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_1e51cc09087897026baffbcb010ad9d0202d7bdf.1920x1080.jpg?t=1769695902",
+        "alt": "Diplomacy is Not an Option: Shareware 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_a88c5eb3f0de82ecfd50e51f678299222d05c718.1920x1080.jpg?t=1769695902",
+        "alt": "Diplomacy is Not an Option: Shareware 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_f54b2f85e4ca9ba01711de0f8fe721779ea3f001.1920x1080.jpg?t=1769695902",
+        "alt": "Diplomacy is Not an Option: Shareware 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_462657645d9c39521b1682c0359f1abe94a21359.1920x1080.jpg?t=1769695902",
+        "alt": "Diplomacy is Not an Option: Shareware 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043710/ss_9db67a9540930b7e67dd2120c8b25e7f5346d1ab.1920x1080.jpg?t=1769695902",
+        "alt": "Diplomacy is Not an Option: Shareware 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

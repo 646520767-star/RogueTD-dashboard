@@ -1,1 +1,180 @@
-{"identity":{"original_title":"DUNGEON SLASHER","developers":["96Percent"],"publishers":["96Percent"],"release_status":"released","release_date":"2026-07-16","tags":["动作肉鸽","动作","轻度Rogue","动作角色扮演","动作冒险"]},"hooks":[{"text":"角色、技能与神器自由组合，发展路线改变地牢攻略方法","dimension":"玩法","excerpt":"Combine characters, skills, and artifacts as you wish! Depending on what combinations and development paths players select, methods required for conquering the dungeon will change.","url":"https://store.steampowered.com/app/2712460/","label":"证据原文片段"},{"text":"普通、极速与挑战模式分别侧重逐层推进、Boss速攻和高难","dimension":"玩法","excerpt":"From the classic 'Normal Mode,' where players take down dungeons one at a time, to the 'Super Fast Mode,' which focuses on progress and boss attacks, and 'Challenge Mode,' which will ramp up the difficulty for more challenge, there are tons of modes for players to conquer and enjoy.","url":"https://store.steampowered.com/app/2712460/","label":"证据原文片段"},{"text":"高质量复古像素角色与Boss配合多套角色皮肤","dimension":"画风","excerpt":"This game is jam-packed full of characters and bosses rendered in high-quality pixel graphics! In addition to the colorful retro pixel action, players can pick from a number of skins to highlight each character's unique personality!","url":"https://store.steampowered.com/app/2712460/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":13551,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1214,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":17318,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":13551,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":13551,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.1440802308131808,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":132,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":67,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":67.647059,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为67.647059%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/7fd97d4a6f1a7ee88c7c2c67b8b26f1cd1a80f25/ss_7fd97d4a6f1a7ee88c7c2c67b8b26f1cd1a80f25.1920x1080.jpg?t=1784189613","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/7fd97d4a6f1a7ee88c7c2c67b8b26f1cd1a80f25/ss_7fd97d4a6f1a7ee88c7c2c67b8b26f1cd1a80f25.1920x1080.jpg?t=1784189613","alt":"地牢杀手 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/da9ec77c969a3060aaa2dcb77e8b4cb271ac182b/ss_da9ec77c969a3060aaa2dcb77e8b4cb271ac182b.1920x1080.jpg?t=1784189613","alt":"地牢杀手 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/b0d625616f873a1cd62608ddada3cfb85e70a935/ss_b0d625616f873a1cd62608ddada3cfb85e70a935.1920x1080.jpg?t=1784189613","alt":"地牢杀手 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/fb504daf34730d7d020f536318e013eb038756a5/ss_fb504daf34730d7d020f536318e013eb038756a5.1920x1080.jpg?t=1784189613","alt":"地牢杀手 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "DUNGEON SLASHER",
+    "developers": [
+      "96Percent"
+    ],
+    "publishers": [
+      "96Percent"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-16",
+    "tags": [
+      "动作肉鸽",
+      "动作",
+      "动作角色扮演",
+      "轻度Rogue",
+      "动作冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "角色、技能与神器自由组合，发展路线改变地牢攻略方法",
+      "dimension": "玩法",
+      "excerpt": "Combine characters, skills, and artifacts as you wish! Depending on what combinations and development paths players select, methods required for conquering the dungeon will change.",
+      "url": "https://store.steampowered.com/app/2712460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "普通、极速与挑战模式分别侧重逐层推进、Boss速攻和高难",
+      "dimension": "玩法",
+      "excerpt": "From the classic 'Normal Mode,' where players take down dungeons one at a time, to the 'Super Fast Mode,' which focuses on progress and boss attacks, and 'Challenge Mode,' which will ramp up the difficulty for more challenge, there are tons of modes for players to conquer and enjoy.",
+      "url": "https://store.steampowered.com/app/2712460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "高质量复古像素角色与Boss配合多套角色皮肤",
+      "dimension": "画风",
+      "excerpt": "This game is jam-packed full of characters and bosses rendered in high-quality pixel graphics! In addition to the colorful retro pixel action, players can pick from a number of skins to highlight each character's unique personality!",
+      "url": "https://store.steampowered.com/app/2712460/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 28996,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 8949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1351,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 70037,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 28996,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 28996,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.731045548020929,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 212,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 71,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 69.767442,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为67.647059%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "地牢杀手位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/7fd97d4a6f1a7ee88c7c2c67b8b26f1cd1a80f25/ss_7fd97d4a6f1a7ee88c7c2c67b8b26f1cd1a80f25.1920x1080.jpg?t=1784189613",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/7fd97d4a6f1a7ee88c7c2c67b8b26f1cd1a80f25/ss_7fd97d4a6f1a7ee88c7c2c67b8b26f1cd1a80f25.1920x1080.jpg?t=1784189613",
+        "alt": "地牢杀手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/da9ec77c969a3060aaa2dcb77e8b4cb271ac182b/ss_da9ec77c969a3060aaa2dcb77e8b4cb271ac182b.1920x1080.jpg?t=1784189613",
+        "alt": "地牢杀手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/b0d625616f873a1cd62608ddada3cfb85e70a935/ss_b0d625616f873a1cd62608ddada3cfb85e70a935.1920x1080.jpg?t=1784189613",
+        "alt": "地牢杀手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/fb504daf34730d7d020f536318e013eb038756a5/ss_fb504daf34730d7d020f536318e013eb038756a5.1920x1080.jpg?t=1784189613",
+        "alt": "地牢杀手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/7e478eb9429c317ef2bd3e0fab50793bdf24d143/ss_7e478eb9429c317ef2bd3e0fab50793bdf24d143.1920x1080.jpg?t=1784189613",
+        "alt": "地牢杀手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/43b6977ef3ad643b0433457f16c55ca930b98b28/ss_43b6977ef3ad643b0433457f16c55ca930b98b28.1920x1080.jpg?t=1784189613",
+        "alt": "地牢杀手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/7ffa41858dd5d7b05d474554c0b36a8993b04e83/ss_7ffa41858dd5d7b05d474554c0b36a8993b04e83.1920x1080.jpg?t=1784189613",
+        "alt": "地牢杀手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/fb9f8345f198a711f1972d29d5227db9ce59a927/ss_fb9f8345f198a711f1972d29d5227db9ce59a927.1920x1080.jpg?t=1784189613",
+        "alt": "地牢杀手 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Battle Medal: Super Auto Chess Swarm War","developers":["SOT烈"],"publishers":["SOT烈"],"release_status":"released","release_date":"2026-06-27","tags":["休闲","策略","冒险","回合制策略","塔防"]},"hooks":[{"text":"勋章逐级合成，部分可晋升为四星英雄勋章","dimension":"玩法","excerpt":"Every Medal can be synthesized into a higher-tier one; some can even be crafted into 4-Star Hero Medals!","url":"https://store.steampowered.com/app/4568990/","label":"证据原文片段"},{"text":"勋章拥有独立羁绊与三星效果，可排列组合出额外结果","dimension":"玩法","excerpt":"Each Medal possesses unique Synergies and 3-Star effects. Arrange and combine them to unlock unexpected results!","url":"https://store.steampowered.com/app/4568990/","label":"证据原文片段"},{"text":"选择专属天选者，并用关卡进化点同步强化军队与领袖","dimension":"玩法","excerpt":"Players can choose a Chosen One. Each comes with unique skills and Medals to help you conquer vast territories. The Path of Evolution: Forge a Stronger Army! Winning stages grants Evolution Points. Use them to upgrade your troops and your Chosen One!","url":"https://store.steampowered.com/app/4568990/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":188,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":15,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1051,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":402,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":402,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.08517670210833,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":21,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.238095,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/443e87acd242d5721aebf0beeae52ac07e025999/ss_443e87acd242d5721aebf0beeae52ac07e025999.1920x1080.jpg?t=1782984298","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/443e87acd242d5721aebf0beeae52ac07e025999/ss_443e87acd242d5721aebf0beeae52ac07e025999.1920x1080.jpg?t=1782984298","alt":"决战-勋章 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/cdb4b46cd34786cb83e65aa6fcab66ef8788ea90/ss_cdb4b46cd34786cb83e65aa6fcab66ef8788ea90.1920x1080.jpg?t=1782984298","alt":"决战-勋章 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/ff7a51871cb01e3ba234f827fb8ad9bef6237247/ss_ff7a51871cb01e3ba234f827fb8ad9bef6237247.1920x1080.jpg?t=1782984298","alt":"决战-勋章 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/6252a75dc219aae49988337c9961cb19a9d090b2/ss_6252a75dc219aae49988337c9961cb19a9d090b2.1920x1080.jpg?t=1782984298","alt":"决战-勋章 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Battle Medal: Super Auto Chess Swarm War",
+    "developers": [
+      "SOT烈"
+    ],
+    "publishers": [
+      "SOT烈"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-27",
+    "tags": [
+      "休闲",
+      "策略",
+      "冒险",
+      "回合制策略",
+      "塔防"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "勋章逐级合成，部分可晋升为四星英雄勋章",
+      "dimension": "玩法",
+      "excerpt": "Every Medal can be synthesized into a higher-tier one; some can even be crafted into 4-Star Hero Medals!",
+      "url": "https://store.steampowered.com/app/4568990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "勋章拥有独立羁绊与三星效果，可排列组合出额外结果",
+      "dimension": "玩法",
+      "excerpt": "Each Medal possesses unique Synergies and 3-Star effects. Arrange and combine them to unlock unexpected results!",
+      "url": "https://store.steampowered.com/app/4568990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "选择专属天选者，并用关卡进化点同步强化军队与领袖",
+      "dimension": "玩法",
+      "excerpt": "Players can choose a Chosen One. Each comes with unique skills and Medals to help you conquer vast territories. The Path of Evolution: Forge a Stronger Army! Winning stages grants Evolution Points. Use them to upgrade your troops and your Chosen One!",
+      "url": "https://store.steampowered.com/app/4568990/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 176,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1279,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 17,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1002,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 377,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 377,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.1122083490332693,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 5,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.238095,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "决战-勋章位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/443e87acd242d5721aebf0beeae52ac07e025999/ss_443e87acd242d5721aebf0beeae52ac07e025999.1920x1080.jpg?t=1782984298",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/443e87acd242d5721aebf0beeae52ac07e025999/ss_443e87acd242d5721aebf0beeae52ac07e025999.1920x1080.jpg?t=1782984298",
+        "alt": "决战-勋章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/cdb4b46cd34786cb83e65aa6fcab66ef8788ea90/ss_cdb4b46cd34786cb83e65aa6fcab66ef8788ea90.1920x1080.jpg?t=1782984298",
+        "alt": "决战-勋章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/ff7a51871cb01e3ba234f827fb8ad9bef6237247/ss_ff7a51871cb01e3ba234f827fb8ad9bef6237247.1920x1080.jpg?t=1782984298",
+        "alt": "决战-勋章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/6252a75dc219aae49988337c9961cb19a9d090b2/ss_6252a75dc219aae49988337c9961cb19a9d090b2.1920x1080.jpg?t=1782984298",
+        "alt": "决战-勋章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/5ea7813d3d10bdb6d4ec27d4bab08a548ac2846d/ss_5ea7813d3d10bdb6d4ec27d4bab08a548ac2846d.1920x1080.jpg?t=1782984298",
+        "alt": "决战-勋章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/73f5456d32fffcb8295bfb2417f9f4d9e349f878/ss_73f5456d32fffcb8295bfb2417f9f4d9e349f878.1920x1080.jpg?t=1782984298",
+        "alt": "决战-勋章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/85c2fda8385c1b92f4fa38ed48029046b0582360/ss_85c2fda8385c1b92f4fa38ed48029046b0582360.1920x1080.jpg?t=1782984298",
+        "alt": "决战-勋章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/8c6bb6750b4a8067df94c7b69491e2a6a114b693/ss_8c6bb6750b4a8067df94c7b69491e2a6a114b693.1920x1080.jpg?t=1782984298",
+        "alt": "决战-勋章 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

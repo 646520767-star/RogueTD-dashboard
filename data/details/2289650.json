@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Mini Airways - ATC simulator","developers":["CCC Games"],"publishers":["Erabit"],"release_status":"released","release_date":"2024-07-30","tags":["飞行","模拟","策略","极简风格","独立游戏"]},"hooks":[{"text":"最多四人共同管制同一空域，协作降低失误并冲击高分","dimension":"玩法","excerpt":"Each airport can accommodate up to 4 people online and supports the use of the Workshop map. You can work with your friends to jointly manage the same airspace to reduce the impact of mistakes and challenge higher scores!","url":"https://store.steampowered.com/app/2289650/","label":"证据原文片段"},{"text":"每天结束后选择机场升级，逐步定制空域运行方式","dimension":"玩法","excerpt":"Every time you finish one day's management, you will be able to pick an upgrade for your airspace and airport: auto holding, accelerating turns, increasing airspace, waypoints ...... upgrade and customize airports to keep flights running more smoothly.","url":"https://store.steampowered.com/app/2289650/","label":"证据原文片段"},{"text":"特定地图会触发哈德逊迫降等航空史随机事件","dimension":"题材","excerpt":"The game triggers random events under certain specific maps and conditions, featuring classic moments in aviation history: the miracle landing on the Hudson River, Air Force One crossing, emergency incidents, high-priority flights, etc.","url":"https://store.steampowered.com/app/2289650/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":117564,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":101675,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6197,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":836681,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":131727,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":131727,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.203456162172671,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1530,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.428198,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"飞行、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_136c563b1e14f0bf77033626ff87bd548d7ea4c8.1920x1080.jpg?t=1782463174","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_136c563b1e14f0bf77033626ff87bd548d7ea4c8.1920x1080.jpg?t=1782463174","alt":"迷你空管 Mini Airways 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_709929ca9b6d8ce4e8e0064a41de37756168a9fa.1920x1080.jpg?t=1782463174","alt":"迷你空管 Mini Airways 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_eda6d0f8a446bf81b3099995fb3af4d89f470dc4.1920x1080.jpg?t=1782463174","alt":"迷你空管 Mini Airways 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_cd7a25445a84d9afa0677bc5c3e24a65a16b7f35.1920x1080.jpg?t=1782463174","alt":"迷你空管 Mini Airways 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Mini Airways - ATC simulator",
+    "developers": [
+      "CCC Games",
+      "Erabit"
+    ],
+    "publishers": [
+      "Erabit"
+    ],
+    "release_status": "released",
+    "release_date": "2024-07-30",
+    "tags": [
+      "飞行",
+      "模拟",
+      "策略",
+      "轻度Rogue",
+      "独立游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "最多四人共同管制同一空域，协作降低失误并冲击高分",
+      "dimension": "玩法",
+      "excerpt": "Each airport can accommodate up to 4 people online and supports the use of the Workshop map. You can work with your friends to jointly manage the same airspace to reduce the impact of mistakes and challenge higher scores!",
+      "url": "https://store.steampowered.com/app/2289650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每天结束后选择机场升级，逐步定制空域运行方式",
+      "dimension": "玩法",
+      "excerpt": "Every time you finish one day's management, you will be able to pick an upgrade for your airspace and airport: auto holding, accelerating turns, increasing airspace, waypoints ...... upgrade and customize airports to keep flights running more smoothly.",
+      "url": "https://store.steampowered.com/app/2289650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "特定地图会触发哈德逊迫降等航空史随机事件",
+      "dimension": "题材",
+      "excerpt": "The game triggers random events under certain specific maps and conditions, featuring classic moments in aviation history: the miracle landing on the Hudson River, Air Force One crossing, emergency incidents, high-priority flights, etc.",
+      "url": "https://store.steampowered.com/app/2289650/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 120244,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 101000,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6261,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 842975,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 134955,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 134955,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.347929272897836,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1312,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.297818,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "迷你空管 Mini Airways位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_136c563b1e14f0bf77033626ff87bd548d7ea4c8.1920x1080.jpg?t=1782463174",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_136c563b1e14f0bf77033626ff87bd548d7ea4c8.1920x1080.jpg?t=1785292201",
+        "alt": "迷你空管 Mini Airways 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_709929ca9b6d8ce4e8e0064a41de37756168a9fa.1920x1080.jpg?t=1785292201",
+        "alt": "迷你空管 Mini Airways 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_eda6d0f8a446bf81b3099995fb3af4d89f470dc4.1920x1080.jpg?t=1785292201",
+        "alt": "迷你空管 Mini Airways 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_cd7a25445a84d9afa0677bc5c3e24a65a16b7f35.1920x1080.jpg?t=1785292201",
+        "alt": "迷你空管 Mini Airways 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_7ed93e2beb06d2ca9b8a1cf6634d089374f67108.1920x1080.jpg?t=1785292201",
+        "alt": "迷你空管 Mini Airways 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289650/ss_a8e5fe40ff1cc3323185a87dbfbbfc0008624b23.1920x1080.jpg?t=1785292201",
+        "alt": "迷你空管 Mini Airways 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"MÖRK BORG Heresy Supreme","developers":["Morbidware"],"publishers":["Morbidware"],"release_status":"early_access","release_date":"2026-05-21","tags":["抢先体验","动作角色扮演","砍杀","怀旧风格","黑暗奇幻"]},"hooks":[{"text":"惩罚性战斗要求及时反应并权衡每次选择，武器不足时还能用数十种物品诅咒或迷惑敌人。","dimension":"玩法","excerpt":"Heresy Supreme revolves around a combat system that is punishing yet rewarding Every choice must be weighed; react in time or face a violent end. And when weapons are not enough, turn to dozens of items to curse, confuse, and drive your enemies into despair.","url":"https://store.steampowered.com/app/3216800/","label":"证据原文片段"},{"text":"手工情境与任务由半程序系统不断重排，敌人、掉落和属性也会随机变化。","dimension":"玩法","excerpt":"Built from a large pool of handcrafted situations and quests, constantly rearranged by a semi-procedural system. Enemies, drops, and stats are randomized. Expect no patterns. Expect no mercy.","url":"https://store.steampowered.com/app/3216800/","label":"证据原文片段"},{"text":"艺术朋克图形、注定毁灭的黑暗世界与沉重末日金属共同塑造末世气质。","dimension":"画风","excerpt":"Mesmerizing art-punk graphic style A wretched world doomed by an unavoidable apocalypse A brutal, haunting doom metal soundtrack","url":"https://store.steampowered.com/app/3216800/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1938,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":44484,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2421,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":31655,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2681,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2681,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.636259651516696,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":101,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.168317,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作角色扮演","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/8f0107342d23fa5bf3fead4454849a667a5500c6/ss_8f0107342d23fa5bf3fead4454849a667a5500c6.1920x1080.jpg?t=1782936310","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/8f0107342d23fa5bf3fead4454849a667a5500c6/ss_8f0107342d23fa5bf3fead4454849a667a5500c6.1920x1080.jpg?t=1782936310","alt":"MÖRK BORG Heresy Supreme 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/02fba66c261fbf700c45bf4121c82d7fc1120ed7/ss_02fba66c261fbf700c45bf4121c82d7fc1120ed7.1920x1080.jpg?t=1782936310","alt":"MÖRK BORG Heresy Supreme 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/f5fa3a51eea61f0a434fa46d0093b410cc22f8f7/ss_f5fa3a51eea61f0a434fa46d0093b410cc22f8f7.1920x1080.jpg?t=1782936310","alt":"MÖRK BORG Heresy Supreme 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/e8baea5d9b365c260527a63d99e915098515964b/ss_e8baea5d9b365c260527a63d99e915098515964b.1920x1080.jpg?t=1782936310","alt":"MÖRK BORG Heresy Supreme 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "MÖRK BORG Heresy Supreme",
+    "developers": [
+      "Morbidware"
+    ],
+    "publishers": [
+      "Morbidware"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-05-21",
+    "tags": [
+      "抢先体验",
+      "动作角色扮演",
+      "砍杀",
+      "回合制战斗",
+      "二维平台跳跃"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "惩罚性战斗要求及时反应并权衡每次选择，武器不足时还能用数十种物品诅咒或迷惑敌人。",
+      "dimension": "玩法",
+      "excerpt": "Heresy Supreme revolves around a combat system that is punishing yet rewarding Every choice must be weighed; react in time or face a violent end. And when weapons are not enough, turn to dozens of items to curse, confuse, and drive your enemies into despair.",
+      "url": "https://store.steampowered.com/app/3216800/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "手工情境与任务由半程序系统不断重排，敌人、掉落和属性也会随机变化。",
+      "dimension": "玩法",
+      "excerpt": "Built from a large pool of handcrafted situations and quests, constantly rearranged by a semi-procedural system. Enemies, drops, and stats are randomized. Expect no patterns. Expect no mercy.",
+      "url": "https://store.steampowered.com/app/3216800/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "艺术朋克图形、注定毁灭的黑暗世界与沉重末日金属共同塑造末世气质。",
+      "dimension": "画风",
+      "excerpt": "Mesmerizing art-punk graphic style A wretched world doomed by an unavoidable apocalypse A brutal, haunting doom metal soundtrack",
+      "url": "https://store.steampowered.com/app/3216800/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2848,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 44748,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2566,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 46205,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3795,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3795,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.6472790143367058,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 74,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.051282,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "MÖRK BORG Heresy Supreme位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/8f0107342d23fa5bf3fead4454849a667a5500c6/ss_8f0107342d23fa5bf3fead4454849a667a5500c6.1920x1080.jpg?t=1782936310",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/317fdb1dd97e619344e2b34b8652ec98e7aba875/ss_317fdb1dd97e619344e2b34b8652ec98e7aba875.1920x1080.jpg?t=1785246445",
+        "alt": "MÖRK BORG Heresy Supreme 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/1ca32db282f06e85d25adf9b539f4b7b558ed2fc/ss_1ca32db282f06e85d25adf9b539f4b7b558ed2fc.1920x1080.jpg?t=1785246445",
+        "alt": "MÖRK BORG Heresy Supreme 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/2e1d7ce39d51acba880d76febffb8585e7e913cb/ss_2e1d7ce39d51acba880d76febffb8585e7e913cb.1920x1080.jpg?t=1785246445",
+        "alt": "MÖRK BORG Heresy Supreme 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/e8baea5d9b365c260527a63d99e915098515964b/ss_e8baea5d9b365c260527a63d99e915098515964b.1920x1080.jpg?t=1785246445",
+        "alt": "MÖRK BORG Heresy Supreme 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/3ddc4672c228763c887208a190b1f11d9eb3f729/ss_3ddc4672c228763c887208a190b1f11d9eb3f729.1920x1080.jpg?t=1785246445",
+        "alt": "MÖRK BORG Heresy Supreme 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/72f229a095356b479c04239f4d09a44eeb8ce2f3/ss_72f229a095356b479c04239f4d09a44eeb8ce2f3.1920x1080.jpg?t=1785246445",
+        "alt": "MÖRK BORG Heresy Supreme 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/f5fa3a51eea61f0a434fa46d0093b410cc22f8f7/ss_f5fa3a51eea61f0a434fa46d0093b410cc22f8f7.1920x1080.jpg?t=1785246445",
+        "alt": "MÖRK BORG Heresy Supreme 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216800/edf35a9b80b19e5d665f0d2d63568288ae405af1/ss_edf35a9b80b19e5d665f0d2d63568288ae405af1.1920x1080.jpg?t=1785246445",
+        "alt": "MÖRK BORG Heresy Supreme 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

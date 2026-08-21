@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Flawed Tactics","developers":["Flawed Games"],"publishers":["Flawed Games"],"release_status":"released","release_date":"2026-07-01","tags":["策略","自走棋","多人游戏","玩家对战","战术"]},"hooks":[{"text":"全服购买行为实时抬降随从与法术价格，市场本身就是平衡补丁","dimension":"玩法","excerpt":"Every minion and spell has a price - and that price changes based on what every player on the server is buying.","url":"https://store.steampowered.com/app/2600970/","label":"证据原文片段"},{"text":"开局自选8名随从组成个人卡池，商店只从自己的池中刷新","dimension":"玩法","excerpt":"Your minion pool - choose 8 minions that will form your roster. Every random offer in the buy phase draws from your pool, not a shared one.","url":"https://store.steampowered.com/app/2600970/","label":"证据原文片段"},{"text":"边打异步局边排实时对战，两种PvP模式可同时推进","dimension":"玩法","excerpt":"Both modes available at the same time - queue for Live while playing Async.","url":"https://store.steampowered.com/app/2600970/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1002,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":6355,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":237,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5542,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1137,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1137,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.791663300662581,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":65,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.537313,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、自走棋","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/d30d5a29672b1accb7296c25b736faf50afe136e/ss_d30d5a29672b1accb7296c25b736faf50afe136e.1920x1080.jpg?t=1784383991","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/d30d5a29672b1accb7296c25b736faf50afe136e/ss_d30d5a29672b1accb7296c25b736faf50afe136e.1920x1080.jpg?t=1784383991","alt":"Flawed Tactics 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/07bb392c03d5bd8aa22ad1a1fd305cc7318f0267/ss_07bb392c03d5bd8aa22ad1a1fd305cc7318f0267.1920x1080.jpg?t=1784383991","alt":"Flawed Tactics 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/5c07dd81ca0b60efa74f9b7d6d2121e4f31064f2/ss_5c07dd81ca0b60efa74f9b7d6d2121e4f31064f2.1920x1080.jpg?t=1784383991","alt":"Flawed Tactics 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/e55f3c9fd2175b8c260a9c8163f0e09c76f4ff2f/ss_e55f3c9fd2175b8c260a9c8163f0e09c76f4ff2f.1920x1080.jpg?t=1784383991","alt":"Flawed Tactics 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Flawed Tactics",
+    "developers": [
+      "Flawed Games"
+    ],
+    "publishers": [
+      "Flawed Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-01",
+    "tags": [
+      "策略",
+      "自走棋",
+      "多人游戏",
+      "玩家对战",
+      "战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "全服购买行为实时抬降随从与法术价格，市场本身就是平衡补丁",
+      "dimension": "玩法",
+      "excerpt": "Every minion and spell has a price - and that price changes based on what every player on the server is buying.",
+      "url": "https://store.steampowered.com/app/2600970/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "开局自选8名随从组成个人卡池，商店只从自己的池中刷新",
+      "dimension": "玩法",
+      "excerpt": "Your minion pool - choose 8 minions that will form your roster. Every random offer in the buy phase draws from your pool, not a shared one.",
+      "url": "https://store.steampowered.com/app/2600970/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "边打异步局边排实时对战，两种PvP模式可同时推进",
+      "dimension": "玩法",
+      "excerpt": "Both modes available at the same time - queue for Live while playing Async.",
+      "url": "https://store.steampowered.com/app/2600970/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1024,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 6392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 251,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 6132,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1166,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1166,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.492201824349312,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 57,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.428571,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Flawed Tactics位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/d30d5a29672b1accb7296c25b736faf50afe136e/ss_d30d5a29672b1accb7296c25b736faf50afe136e.1920x1080.jpg?t=1784383991",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/d30d5a29672b1accb7296c25b736faf50afe136e/ss_d30d5a29672b1accb7296c25b736faf50afe136e.1920x1080.jpg?t=1785434759",
+        "alt": "Flawed Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/07bb392c03d5bd8aa22ad1a1fd305cc7318f0267/ss_07bb392c03d5bd8aa22ad1a1fd305cc7318f0267.1920x1080.jpg?t=1785434759",
+        "alt": "Flawed Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/5c07dd81ca0b60efa74f9b7d6d2121e4f31064f2/ss_5c07dd81ca0b60efa74f9b7d6d2121e4f31064f2.1920x1080.jpg?t=1785434759",
+        "alt": "Flawed Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/e55f3c9fd2175b8c260a9c8163f0e09c76f4ff2f/ss_e55f3c9fd2175b8c260a9c8163f0e09c76f4ff2f.1920x1080.jpg?t=1785434759",
+        "alt": "Flawed Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/c1270a8769b63aafe85bdcb790053ac348b1f136/ss_c1270a8769b63aafe85bdcb790053ac348b1f136.1920x1080.jpg?t=1785434759",
+        "alt": "Flawed Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/c643b7b2b570a05179ae6c215cb5501d4d1a7277/ss_c643b7b2b570a05179ae6c215cb5501d4d1a7277.1920x1080.jpg?t=1785434759",
+        "alt": "Flawed Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600970/444673ef9bf7a3e2dfa6cac179f4c8cdd1ad71a0/ss_444673ef9bf7a3e2dfa6cac179f4c8cdd1ad71a0.1920x1080.jpg?t=1785434759",
+        "alt": "Flawed Tactics 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

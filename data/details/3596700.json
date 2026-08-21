@@ -1,1 +1,178 @@
-{"identity":{"original_title":"TerraTech Legion","developers":["Payload Studios"],"publishers":["Mythwright"],"release_status":"released","release_date":"2026-04-30","tags":["动作肉鸽","弹幕射击","制作","轻度Rogue","街机"]},"hooks":[{"text":"用200余种武器、动力和功能方块拼装车辆，四家公司决定初始积木与能力","dimension":"玩法","excerpt":"With 200+ blocks across weapons, propulsion and utility, there’s no shortage of wild ideas that just might work. Wheels, boosters, buzzsaws, orbital lasers - snap them together however you like. Each of the four TerraTech Corporations brings its own set of blocks and abilities to the table, so your starting point shapes what you build and how you fight.","url":"https://store.steampowered.com/app/3596700/","label":"证据原文片段"},{"text":"武器、前部重量和推进器布局决定炮台、冲撞或高速脆皮路线，重心还会影响转向","dimension":"玩法","excerpt":"Stack on the weapons and you're a rolling gun platform. Go heavy at the front and you're built to ram. Pile on the boosters and you're fast, fragile, and hard to catch. Where you put things matters - weight, balance, and whether you can actually steer it all come into play.","url":"https://store.steampowered.com/app/3596700/","label":"证据原文片段"},{"text":"四名驾驶员分别走冲撞、眩晕重掷、穿敌暴击和漂移等专属玩法","dimension":"玩法","excerpt":"Jean Pierre hits hard and keeps on hitting - built for impact and impossible to slow down. Mikela plays the odds by stunning enemies and rerolling her luck until the rarest blocks fall her way. Sam phases through enemies and doubles down with critical hits. Cepheid drifts through the battlefield leaving a trail of plasma in her wake. Each character comes with their own starter build and playstyle - find the one that fits how you fight.","url":"https://store.steampowered.com/app/3596700/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":123222,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":149975,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":12144,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":961304,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":125780,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":125780,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.421083979086902,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1928,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.043388,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/a059b29d8cf6cfdbe034d9a28debecef044e59a2/ss_a059b29d8cf6cfdbe034d9a28debecef044e59a2.1920x1080.jpg?t=1782372678","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/a059b29d8cf6cfdbe034d9a28debecef044e59a2/ss_a059b29d8cf6cfdbe034d9a28debecef044e59a2.1920x1080.jpg?t=1782372678","alt":"泰拉科技魇团 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/331c881ce959c5f1921875431d545e5ce571ee1a/ss_331c881ce959c5f1921875431d545e5ce571ee1a.1920x1080.jpg?t=1782372678","alt":"泰拉科技魇团 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/0ebcbfe89916dc9de1fcfc9756d230754e04e278/ss_0ebcbfe89916dc9de1fcfc9756d230754e04e278.1920x1080.jpg?t=1782372678","alt":"泰拉科技魇团 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/96eaecfe856e2ce84715ef1b9a35ccdb8621d4b4/ss_96eaecfe856e2ce84715ef1b9a35ccdb8621d4b4.1920x1080.jpg?t=1782372678","alt":"泰拉科技魇团 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "TerraTech Legion",
+    "developers": [
+      "Payload Studios"
+    ],
+    "publishers": [
+      "Mythwright"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-30",
+    "tags": [
+      "动作肉鸽",
+      "动作肉鸽",
+      "轻度Rogue",
+      "弹幕射击",
+      "制作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用200余种武器、动力和功能方块拼装车辆，四家公司决定初始积木与能力",
+      "dimension": "玩法",
+      "excerpt": "With 200+ blocks across weapons, propulsion and utility, there’s no shortage of wild ideas that just might work. Wheels, boosters, buzzsaws, orbital lasers - snap them together however you like. Each of the four TerraTech Corporations brings its own set of blocks and abilities to the table, so your starting point shapes what you build and how you fight.",
+      "url": "https://store.steampowered.com/app/3596700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "武器、前部重量和推进器布局决定炮台、冲撞或高速脆皮路线，重心还会影响转向",
+      "dimension": "玩法",
+      "excerpt": "Stack on the weapons and you're a rolling gun platform. Go heavy at the front and you're built to ram. Pile on the boosters and you're fast, fragile, and hard to catch. Where you put things matters - weight, balance, and whether you can actually steer it all come into play.",
+      "url": "https://store.steampowered.com/app/3596700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四名驾驶员分别走冲撞、眩晕重掷、穿敌暴击和漂移等专属玩法",
+      "dimension": "玩法",
+      "excerpt": "Jean Pierre hits hard and keeps on hitting - built for impact and impossible to slow down. Mikela plays the odds by stunning enemies and rerolling her luck until the rarest blocks fall her way. Sam phases through enemies and doubles down with critical hits. Cepheid drifts through the battlefield leaving a trail of plasma in her wake. Each character comes with their own starter build and playstyle - find the one that fits how you fight.",
+      "url": "https://store.steampowered.com/app/3596700/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 130921,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 149585,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 12376,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1018959,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 133815,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 133815,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.703053795186818,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1976,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.733595,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "泰拉科技魇团位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/a059b29d8cf6cfdbe034d9a28debecef044e59a2/ss_a059b29d8cf6cfdbe034d9a28debecef044e59a2.1920x1080.jpg?t=1782372678",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/a059b29d8cf6cfdbe034d9a28debecef044e59a2/ss_a059b29d8cf6cfdbe034d9a28debecef044e59a2.1920x1080.jpg?t=1782372678",
+        "alt": "泰拉科技魇团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/331c881ce959c5f1921875431d545e5ce571ee1a/ss_331c881ce959c5f1921875431d545e5ce571ee1a.1920x1080.jpg?t=1782372678",
+        "alt": "泰拉科技魇团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/0ebcbfe89916dc9de1fcfc9756d230754e04e278/ss_0ebcbfe89916dc9de1fcfc9756d230754e04e278.1920x1080.jpg?t=1782372678",
+        "alt": "泰拉科技魇团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/96eaecfe856e2ce84715ef1b9a35ccdb8621d4b4/ss_96eaecfe856e2ce84715ef1b9a35ccdb8621d4b4.1920x1080.jpg?t=1782372678",
+        "alt": "泰拉科技魇团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/38fd39cdb6c475f5fb119a96affa8b1c3c01716f/ss_38fd39cdb6c475f5fb119a96affa8b1c3c01716f.1920x1080.jpg?t=1782372678",
+        "alt": "泰拉科技魇团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/dd10568f962b25592a060c26326d9a6087917a42/ss_dd10568f962b25592a060c26326d9a6087917a42.1920x1080.jpg?t=1782372678",
+        "alt": "泰拉科技魇团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/ced2e24b4b652e41dcafcc4cc3d0cf7622bbc3a7/ss_ced2e24b4b652e41dcafcc4cc3d0cf7622bbc3a7.1920x1080.jpg?t=1782372678",
+        "alt": "泰拉科技魇团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596700/bacf37dc65e19a0c9716ebf554b1dc7dce53034a/ss_bacf37dc65e19a0c9716ebf554b1dc7dce53034a.1920x1080.jpg?t=1782372678",
+        "alt": "泰拉科技魇团 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

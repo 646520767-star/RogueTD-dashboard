@@ -1,1 +1,272 @@
-{"identity":{"original_title":"InKing","developers":["Team Digital Toilet"],"publishers":["Jungle Game Lab"],"release_status":"released","release_date":"2024-12-16","tags":["动作肉鸽","像素画面","独立游戏","砍杀","高难度"]},"hooks":[{"text":"击散并吸收墨汁来释放强力技能，不同飞溅方式要求精确掌握时机","dimension":"玩法","excerpt":"Utilize the ink splashes to unleash powerful skills. Ink splatters in different ways, so make sure to time your ink splatters correctly for a smooth battle.","url":"https://store.steampowered.com/app/3349840/","label":"证据原文片段"},{"text":"从基础数值到多种属性自由改造技能，以个人方式挑战更强敌人","dimension":"玩法","excerpt":"From simple stats to a variety of attributes, customize your skills the way you want them to work for you and take on stronger enemies.","url":"https://store.steampowered.com/app/3349840/","label":"证据原文片段"}],"opinions":[{"text":"像素风格与整体玩法结合良好。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the pixel art style and all just goes together so well","url":"https://steamcommunity.com/profiles/76561198771516037/recommended/3349840/","label":"证据原文片段"}]},{"text":"最终Boss过难并要求无意义刷取。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"the end boss would be super hard and demand for pretty senseless grind.","url":"https://store.steampowered.com/curator/30757976-Gamers-with-only-little-time/","label":"证据原文片段"}]},{"text":"金币后期缺乏消费用途。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"金币就花不出去了","url":"https://steamcommunity.com/profiles/76561199259466385/recommended/3349840/","label":"证据原文片段"}]},{"text":"攻击技能数量偏少。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"攻击技能有点少","url":"https://steamcommunity.com/id/slmksnk/recommended/3349840/","label":"证据原文片段"}]},{"text":"战斗简单但有满足感。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Simple but satisfying combat.","url":"https://store.steampowered.com/curator/35065484-Indie-Spotlight/","label":"证据原文片段"}]},{"text":"墨水占格机制自然融入动作闯关。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"把“占格子”玩法融入动作闯关游戏里，还把设定融合的很自然","url":"https://steamcommunity.com/profiles/76561199040760965/recommended/3349840/","label":"证据原文片段"}]},{"text":"战斗手感和打架过程非常爽快。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"手感很爽，打架很爽！","url":"https://steamcommunity.com/id/slmksnk/recommended/3349840/","label":"证据原文片段"}]},{"text":"掌握战斗节奏后体验很好。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"游戏如果把握好战斗节奏玩起来确实爽","url":"https://steamcommunity.com/profiles/76561199040760965/recommended/3349840/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":10075,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":363,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":10075,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":10075,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.6835663378920658,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":187,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.311828,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["最终Boss过难并要求无意义刷取。","金币后期缺乏消费用途。","攻击技能数量偏少。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_c246841c86f4090742779f2d45181bebbd329970.1920x1080.jpg?t=1784345119","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_c246841c86f4090742779f2d45181bebbd329970.1920x1080.jpg?t=1784345119","alt":"唯我独黑 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_6beb7618d18b5a70110d029c1f48ade966360155.1920x1080.jpg?t=1784345119","alt":"唯我独黑 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_3cb85a50bdbc389f016093cf2e8c42c2134dd3aa.1920x1080.jpg?t=1784345119","alt":"唯我独黑 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_2b5a88826c4fe016ed8cb82a4079df31da57ce5b.1920x1080.jpg?t=1784345119","alt":"唯我独黑 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "InKing",
+    "developers": [
+      "Team Digital Toilet"
+    ],
+    "publishers": [
+      "Jungle Game Lab"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-16",
+    "tags": [
+      "动作肉鸽",
+      "像素画面",
+      "独立游戏",
+      "砍杀",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "击散并吸收墨汁来释放强力技能，不同飞溅方式要求精确掌握时机",
+      "dimension": "玩法",
+      "excerpt": "Utilize the ink splashes to unleash powerful skills. Ink splatters in different ways, so make sure to time your ink splatters correctly for a smooth battle.",
+      "url": "https://store.steampowered.com/app/3349840/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从基础数值到多种属性自由改造技能，以个人方式挑战更强敌人",
+      "dimension": "玩法",
+      "excerpt": "From simple stats to a variety of attributes, customize your skills the way you want them to work for you and take on stronger enemies.",
+      "url": "https://store.steampowered.com/app/3349840/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "像素风格与整体玩法结合良好。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the pixel art style and all just goes together so well",
+          "url": "https://steamcommunity.com/profiles/76561198771516037/recommended/3349840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "最终Boss过难并要求无意义刷取。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the end boss would be super hard and demand for pretty senseless grind.",
+          "url": "https://store.steampowered.com/curator/30757976-Gamers-with-only-little-time/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "金币后期缺乏消费用途。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "金币就花不出去了",
+          "url": "https://steamcommunity.com/profiles/76561199259466385/recommended/3349840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "攻击技能数量偏少。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "攻击技能有点少",
+          "url": "https://steamcommunity.com/id/slmksnk/recommended/3349840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗简单但有满足感。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Simple but satisfying combat.",
+          "url": "https://store.steampowered.com/curator/35065484-Indie-Spotlight/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "墨水占格机制自然融入动作闯关。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "把“占格子”玩法融入动作闯关游戏里，还把设定融合的很自然",
+          "url": "https://steamcommunity.com/profiles/76561199040760965/recommended/3349840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗手感和打架过程非常爽快。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "手感很爽，打架很爽！",
+          "url": "https://steamcommunity.com/id/slmksnk/recommended/3349840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "掌握战斗节奏后体验很好。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "游戏如果把握好战斗节奏玩起来确实爽",
+          "url": "https://steamcommunity.com/profiles/76561199040760965/recommended/3349840/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 10313,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1279,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 367,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10313,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10313,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.7015612118962888,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 189,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.808511,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "最终Boss过难并要求无意义刷取。",
+    "金币后期缺乏消费用途。",
+    "攻击技能数量偏少。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "唯我独黑位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_c246841c86f4090742779f2d45181bebbd329970.1920x1080.jpg?t=1784345119",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_c246841c86f4090742779f2d45181bebbd329970.1920x1080.jpg?t=1784345119",
+        "alt": "唯我独黑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_6beb7618d18b5a70110d029c1f48ade966360155.1920x1080.jpg?t=1784345119",
+        "alt": "唯我独黑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_3cb85a50bdbc389f016093cf2e8c42c2134dd3aa.1920x1080.jpg?t=1784345119",
+        "alt": "唯我独黑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_2b5a88826c4fe016ed8cb82a4079df31da57ce5b.1920x1080.jpg?t=1784345119",
+        "alt": "唯我独黑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_853039a4cb8425ee6fd1ef2aa8c888120f06557f.1920x1080.jpg?t=1784345119",
+        "alt": "唯我独黑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3349840/ss_cc63e05c20d888a79a8b75f1ec15115cdb1bc53c.1920x1080.jpg?t=1784345119",
+        "alt": "唯我独黑 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

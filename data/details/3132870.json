@@ -1,1 +1,316 @@
-{"identity":{"original_title":"DarkSwitch","developers":["Cyber Temple"],"publishers":["Cyber Temple Games LLC"],"release_status":"released","release_date":"2026-04-09","tags":["生存","策略","资源管理","黑暗奇幻","基地建设"]},"hooks":[{"text":"沿巨树树干与枝杈向上建城，用滑索楼梯连接层级","dimension":"玩法","excerpt":"Build your city upwards, utilizing both trunk and bough. Limited horizontal space requires a strategy; construct zip lines and stairways to connect your growing settlement layers.","url":"https://store.steampowered.com/app/3132870/","label":"证据原文片段"},{"text":"迷雾让居民疯狂，必须靠光路、光能武器和Solium反推黑暗","dimension":"玩法","excerpt":"Fog drives your citizens to madness and conceals stalking terrors. Fight back by illuminating paths, crafting light-powered weapons , and mastering the raw energy of Solium.","url":"https://store.steampowered.com/app/3132870/","label":"证据原文片段"},{"text":"小决定也会滚成惨烈后果，20小时战役走向分支叙事","dimension":"故事","excerpt":"Shape your citizens' destiny through morally complex decisions . Witness various dramatic storylines. Navigate choices where even small actions can spiral into grim consequences. Campaign Mode: 20+ hours of single-player, story-driven gameplay with quests, branching narratives, and high-stakes choices.","url":"https://store.steampowered.com/app/3132870/","label":"证据原文片段"}],"opinions":[{"text":"配音表现令人感觉怪异。","dimension":"音频","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Voice acting is... weird to put it mildly","url":"https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/","label":"证据原文片段"}]},{"text":"长距离防护资源链与资源耗尽后频繁迁移的要求互相冲突。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The game asks you to build long protected resource chains across the map, but at the same time resources get depleted and you constantly have to move gathering areas.","url":"https://steamcommunity.com/profiles/76561198265738906/recommended/3132870/","label":"证据原文片段"}]},{"text":"大地图镜头移动太慢，且缺少足够的缩放视野。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The overworld map camera is too slow and lack a decent zoom out view.","url":"https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/","label":"证据原文片段"}]},{"text":"中文文本缺字严重，直接影响剧情与对话阅读。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"中文版出现严重的缺字情况（角色对话、剧情等），超级影响阅读不知道想说什么","url":"https://steamcommunity.com/profiles/76561198829744551/recommended/3132870/","label":"证据原文片段"}]},{"text":"大量敌人相关漏洞会破坏正常流程。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The game has a lot of bugs, especially when it comes to enemies.","url":"https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/","label":"证据原文片段"}]},{"text":"战役后半段的节奏与难度成长很差。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Terrible pacing and difficulty scaling after the halfway mark of the campaign.","url":"https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/","label":"证据原文片段"}]},{"text":"理解系统后能获得真正愉快的游玩时刻。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I did have some genuinely enjoyable moments once I started to understand how everything works.","url":"https://steamcommunity.com/profiles/76561198265738906/recommended/3132870/","label":"证据原文片段"}]},{"text":"总体玩法被评价为确实好玩。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the gameplay is genuinely enjoyable","url":"https://steamcommunity.com/profiles/76561198124621223/recommended/3132870/","label":"证据原文片段"}]},{"text":"基础建造机制直观，易于理解。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Most base mechanics are nice and intuitive.","url":"https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/","label":"证据原文片段"}]},{"text":"原料直接使用或等待精炼的取舍增加了基地管理决策。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The advanced resources are a nice touch for base management decisions, use the inefficient raw materials or wait to refine them first?","url":"https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":16194,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":235129,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":23235,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":470344,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":17076,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":17076,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.407619624247715,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":664,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":78,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":77.661169,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["配音表现令人感觉怪异。","长距离防护资源链与资源耗尽后频繁迁移的要求互相冲突。","大地图镜头移动太慢，且缺少足够的缩放视野。","中文文本缺字严重，直接影响剧情与对话阅读。","技术/性能：大量敌人相关漏洞会破坏正常流程。","战役后半段的节奏与难度成长很差。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/8a4641c882921f497cea30d0b6599388ad3d37f7/ss_8a4641c882921f497cea30d0b6599388ad3d37f7.1920x1080.jpg?t=1784727657","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/8a4641c882921f497cea30d0b6599388ad3d37f7/ss_8a4641c882921f497cea30d0b6599388ad3d37f7.1920x1080.jpg?t=1784727657","alt":"雾隐天途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/6417facec8f33d2e77c25371c22759b230ce1990/ss_6417facec8f33d2e77c25371c22759b230ce1990.1920x1080.jpg?t=1784727657","alt":"雾隐天途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/a36ea020108d5124824394f3f545fc1900ef20a1/ss_a36ea020108d5124824394f3f545fc1900ef20a1.1920x1080.jpg?t=1784727657","alt":"雾隐天途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/e707a98f000c596b790b581cdf03bd7856b401ff/ss_e707a98f000c596b790b581cdf03bd7856b401ff.1920x1080.jpg?t=1784727657","alt":"雾隐天途 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "DarkSwitch",
+    "developers": [
+      "Cyber Temple"
+    ],
+    "publishers": [
+      "Cyber Temple Games LLC"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-09",
+    "tags": [
+      "塔防",
+      "生存",
+      "策略",
+      "资源管理",
+      "基地建设"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "沿巨树树干与枝杈向上建城，用滑索楼梯连接层级",
+      "dimension": "玩法",
+      "excerpt": "Build your city upwards, utilizing both trunk and bough. Limited horizontal space requires a strategy; construct zip lines and stairways to connect your growing settlement layers.",
+      "url": "https://store.steampowered.com/app/3132870/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "迷雾让居民疯狂，必须靠光路、光能武器和Solium反推黑暗",
+      "dimension": "玩法",
+      "excerpt": "Fog drives your citizens to madness and conceals stalking terrors. Fight back by illuminating paths, crafting light-powered weapons , and mastering the raw energy of Solium.",
+      "url": "https://store.steampowered.com/app/3132870/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "小决定也会滚成惨烈后果，20小时战役走向分支叙事",
+      "dimension": "故事",
+      "excerpt": "Shape your citizens' destiny through morally complex decisions . Witness various dramatic storylines. Navigate choices where even small actions can spiral into grim consequences. Campaign Mode: 20+ hours of single-player, story-driven gameplay with quests, branching narratives, and high-stakes choices.",
+      "url": "https://store.steampowered.com/app/3132870/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "配音表现令人感觉怪异。",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Voice acting is... weird to put it mildly",
+          "url": "https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "长距离防护资源链与资源耗尽后频繁迁移的要求互相冲突。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The game asks you to build long protected resource chains across the map, but at the same time resources get depleted and you constantly have to move gathering areas.",
+          "url": "https://steamcommunity.com/profiles/76561198265738906/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大地图镜头移动太慢，且缺少足够的缩放视野。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The overworld map camera is too slow and lack a decent zoom out view.",
+          "url": "https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "中文文本缺字严重，直接影响剧情与对话阅读。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "中文版出现严重的缺字情况（角色对话、剧情等），超级影响阅读不知道想说什么",
+          "url": "https://steamcommunity.com/profiles/76561198829744551/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大量敌人相关漏洞会破坏正常流程。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The game has a lot of bugs, especially when it comes to enemies.",
+          "url": "https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战役后半段的节奏与难度成长很差。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Terrible pacing and difficulty scaling after the halfway mark of the campaign.",
+          "url": "https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "理解系统后能获得真正愉快的游玩时刻。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I did have some genuinely enjoyable moments once I started to understand how everything works.",
+          "url": "https://steamcommunity.com/profiles/76561198265738906/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "总体玩法被评价为确实好玩。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the gameplay is genuinely enjoyable",
+          "url": "https://steamcommunity.com/profiles/76561198124621223/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "基础建造机制直观，易于理解。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Most base mechanics are nice and intuitive.",
+          "url": "https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "原料直接使用或等待精炼的取舍增加了基地管理决策。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The advanced resources are a nice touch for base management decisions, use the inefficient raw materials or wait to refine them first?",
+          "url": "https://steamcommunity.com/profiles/76561198826638608/recommended/3132870/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 18473,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 231408,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 23300,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 524856,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 19479,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 19479,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.708712125532072,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 678,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 78,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 77.656676,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "配音表现令人感觉怪异。",
+    "长距离防护资源链与资源耗尽后频繁迁移的要求互相冲突。",
+    "大地图镜头移动太慢，且缺少足够的缩放视野。",
+    "中文文本缺字严重，直接影响剧情与对话阅读。",
+    "技术/性能：大量敌人相关漏洞会破坏正常流程。",
+    "战役后半段的节奏与难度成长很差。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "雾隐天途位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/8a4641c882921f497cea30d0b6599388ad3d37f7/ss_8a4641c882921f497cea30d0b6599388ad3d37f7.1920x1080.jpg?t=1784727657",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/8a4641c882921f497cea30d0b6599388ad3d37f7/ss_8a4641c882921f497cea30d0b6599388ad3d37f7.1920x1080.jpg?t=1784727657",
+        "alt": "雾隐天途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/6417facec8f33d2e77c25371c22759b230ce1990/ss_6417facec8f33d2e77c25371c22759b230ce1990.1920x1080.jpg?t=1784727657",
+        "alt": "雾隐天途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/a36ea020108d5124824394f3f545fc1900ef20a1/ss_a36ea020108d5124824394f3f545fc1900ef20a1.1920x1080.jpg?t=1784727657",
+        "alt": "雾隐天途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/e707a98f000c596b790b581cdf03bd7856b401ff/ss_e707a98f000c596b790b581cdf03bd7856b401ff.1920x1080.jpg?t=1784727657",
+        "alt": "雾隐天途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/4b024459654fdfef6f551b2d14a7c7018a230d4d/ss_4b024459654fdfef6f551b2d14a7c7018a230d4d.1920x1080.jpg?t=1784727657",
+        "alt": "雾隐天途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/1e36d4576a23b779fa4a2b96061febdda79fcd40/ss_1e36d4576a23b779fa4a2b96061febdda79fcd40.1920x1080.jpg?t=1784727657",
+        "alt": "雾隐天途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/fa3a012362e26b5f2f6b8122e97df91de2cea0f5/ss_fa3a012362e26b5f2f6b8122e97df91de2cea0f5.1920x1080.jpg?t=1784727657",
+        "alt": "雾隐天途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132870/bbb073f144ce7b3effd41f053dc5e272bde8c45e/ss_bbb073f144ce7b3effd41f053dc5e272bde8c45e.1920x1080.jpg?t=1784727657",
+        "alt": "雾隐天途 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

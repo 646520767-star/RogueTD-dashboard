@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Fida Puti Samurai","developers":["Zanardi and Liza"],"publishers":["Zanardi and Liza"],"release_status":"released","release_date":"2024-03-21","tags":["动漫风格","复古","幽默","程序生成","女性主角"]},"hooks":[{"text":"穿越13个城市关卡，对抗四个荒诞敌人阵营，并使用从大锤、炸药到特殊机枪的武器库。","dimension":"玩法","excerpt":"Visit 13 levels on urban settings - Fight bunny-suit zombies, semi-naked waifus, punk gurls and others on 4 different enemy factions - Use a wide variety of weapons from sledgehammers to dynamite and even panty-drying miniguns","url":"https://store.steampowered.com/app/1534340/","label":"证据原文片段"},{"text":"主角能在复古FPS冒险中解锁魔法少女变身，为枪战加入明确的形态变化。","dimension":"玩法","excerpt":"Discover the ability to transform into a Mahou Shoujo","url":"https://store.steampowered.com/app/1534340/","label":"证据原文片段"},{"text":"沿着虚拟电脑中的异常路径深入，揭开Zanardi电脑里隐藏的秘密及其过去。","dimension":"故事","excerpt":"Uncover the secrets that lie on Zanardi's computer and his past","url":"https://store.steampowered.com/app/1534340/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":14868,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":88965,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4506,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":136095,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":15875,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":28575,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.242712152417478,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":607,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.939044,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动漫风格、复古","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_889c7020c6c165c99f3057682621730afc053017.1920x1080.jpg?t=1730629913","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_889c7020c6c165c99f3057682621730afc053017.1920x1080.jpg?t=1730629913","alt":"Fida Puti Samurai 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_49eb4f65ced0977a15d65a5493bfe75b3911521a.1920x1080.jpg?t=1730629913","alt":"Fida Puti Samurai 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_bb218f42e4c820cee27c7e267874e48764e8ca89.1920x1080.jpg?t=1730629913","alt":"Fida Puti Samurai 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_3cbd3ccdea073a49231055fc5eb1ff653eb90b29.1920x1080.jpg?t=1730629913","alt":"Fida Puti Samurai 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Fida Puti Samurai",
+    "developers": [
+      "Zanardi and Liza"
+    ],
+    "publishers": [
+      "Zanardi and Liza"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-21",
+    "tags": [
+      "轻度Rogue",
+      "动漫风格",
+      "复古",
+      "幽默",
+      "程序生成"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "穿越13个城市关卡，对抗四个荒诞敌人阵营，并使用从大锤、炸药到特殊机枪的武器库。",
+      "dimension": "玩法",
+      "excerpt": "Visit 13 levels on urban settings - Fight bunny-suit zombies, semi-naked waifus, punk gurls and others on 4 different enemy factions - Use a wide variety of weapons from sledgehammers to dynamite and even panty-drying miniguns",
+      "url": "https://store.steampowered.com/app/1534340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "主角能在复古FPS冒险中解锁魔法少女变身，为枪战加入明确的形态变化。",
+      "dimension": "玩法",
+      "excerpt": "Discover the ability to transform into a Mahou Shoujo",
+      "url": "https://store.steampowered.com/app/1534340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "沿着虚拟电脑中的异常路径深入，揭开Zanardi电脑里隐藏的秘密及其过去。",
+      "dimension": "故事",
+      "excerpt": "Uncover the secrets that lie on Zanardi's computer and his past",
+      "url": "https://store.steampowered.com/app/1534340/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "Arcade-style shooting, retro synth music, low pixel graphics, cyberpunk neon streets and waifu with low-poly tits, that's all I love.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Arcade-style shooting, retro synth music, low pixel graphics, cyberpunk neon streets and waifu with low-poly tits, that's all I love.",
+          "url": "https://steamcommunity.com/id/moonravenx/recommended/1534340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "As to why it's that high, we'll get to that point at the bottom A lot of people that play this game are coming from Civvie's short early access review of the game during the 2021 Realms Deep Roundup, and while the game has gone through massive updates since that video, the core gameplay remains the same.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "As to why it's that high, we'll get to that point at the bottom A lot of people that play this game are coming from Civvie's short early access review of the game during the 2021 Realms Deep Roundup, and while the game has gone through massive updates since that video, the core gameplay remains the same.",
+          "url": "https://steamcommunity.com/profiles/76561198017131026/recommended/1534340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "剧情超棒，打斗射击非常爽快，最喜欢的是女主的配音，以后还会买几份送给朋友！",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "剧情超棒，打斗射击非常爽快，最喜欢的是女主的配音，以后还会买几份送给朋友！",
+          "url": "https://steamcommunity.com/id/cloth__/recommended/1534340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "打完一整局之后再调整build的感觉比在局中死掉回来改装备更有爽感一点，这也是我为什么推荐在较低难度游玩。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "打完一整局之后再调整build的感觉比在局中死掉回来改装备更有爽感一点，这也是我为什么推荐在较低难度游玩。",
+          "url": "https://steamcommunity.com/profiles/76561199068144676/recommended/1534340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Fi da Puti Samurai is an amazing pixelated arcade fps game that combine modern element (procedurally generated levels) and truly oldschool gameplay and visual with great weapons selection, its fun!",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Fi da Puti Samurai is an amazing pixelated arcade fps game that combine modern element (procedurally generated levels) and truly oldschool gameplay and visual with great weapons selection, its fun!",
+          "url": "https://store.steampowered.com/curator/42786641-Cute-Place/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "all enemies are girls in bikinis, there's a ton of replayability, there's a fun side story happening, lots of secrets to uncover and things to unlock.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "all enemies are girls in bikinis, there's a ton of replayability, there's a fun side story happening, lots of secrets to uncover and things to unlock.",
+          "url": "https://store.steampowered.com/curator/45872042-Just-Gooning/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The graphics are pretty cute and cool with cyberpunk feel and the gameplay is smooth and neat, definitely recommend it if you are into boomers FPS!",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The graphics are pretty cute and cool with cyberpunk feel and the gameplay is smooth and neat, definitely recommend it if you are into boomers FPS!",
+          "url": "https://store.steampowered.com/curator/37765117-Made-For-Gamers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The retro anime gameplay is way better and sexy than any duke nukem like game, very funny moments with a lot of action and a great variety of weapons 8.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The retro anime gameplay is way better and sexy than any duke nukem like game, very funny moments with a lot of action and a great variety of weapons 8.",
+          "url": "https://store.steampowered.com/curator/38624426-Hidden-Gems-Review/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 24757,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 88214,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4540,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 208797,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 26439,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 47591,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.0369166170249375,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 560,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.0859,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Fida Puti Samurai位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_889c7020c6c165c99f3057682621730afc053017.1920x1080.jpg?t=1730629913",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_889c7020c6c165c99f3057682621730afc053017.1920x1080.jpg?t=1730629913",
+        "alt": "Fida Puti Samurai 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_49eb4f65ced0977a15d65a5493bfe75b3911521a.1920x1080.jpg?t=1730629913",
+        "alt": "Fida Puti Samurai 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_bb218f42e4c820cee27c7e267874e48764e8ca89.1920x1080.jpg?t=1730629913",
+        "alt": "Fida Puti Samurai 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_3cbd3ccdea073a49231055fc5eb1ff653eb90b29.1920x1080.jpg?t=1730629913",
+        "alt": "Fida Puti Samurai 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_02ed8db89eb34c90781f6e4574c143b09186bbbb.1920x1080.jpg?t=1730629913",
+        "alt": "Fida Puti Samurai 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_a9e44917da61cc6fa1193e770b96262f0ab5ac61.1920x1080.jpg?t=1730629913",
+        "alt": "Fida Puti Samurai 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_2a7792fefa4d5a614a28e1df28b03521973a543d.1920x1080.jpg?t=1730629913",
+        "alt": "Fida Puti Samurai 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534340/ss_d952c90ec32e17fac752e6aa14d42d39260c2e81.1920x1080.jpg?t=1730629913",
+        "alt": "Fida Puti Samurai 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

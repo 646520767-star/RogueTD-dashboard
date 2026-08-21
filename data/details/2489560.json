@@ -1,1 +1,192 @@
-{"identity":{"original_title":"Elewar: Fused Survivors","developers":["AL3xMK"],"publishers":["Elewar Gaming"],"release_status":"released","release_date":"2024-08-21","tags":["弹幕射击","动作肉鸽","刷宝","轻度Rogue","类Rogue"]},"hooks":[{"text":"每个法术独立提升稀有度，让单局法术成长形成多层构筑路径","dimension":"玩法","excerpt":"Every spell may be upgraded in its rarity separately, which enables a diverse and powerful spell progression in a run.","url":"https://store.steampowered.com/app/2489560/","label":"证据原文片段"},{"text":"18种职业叠加双职业系统，用职业组合直接改写战斗方式","dimension":"玩法","excerpt":"18 character classes with wildly different playstyles, combined with a dual class system.","url":"https://store.steampowered.com/app/2489560/","label":"证据原文片段"},{"text":"敌人依靠可躲避的特殊攻击造成威胁，而非简单接触伤害","dimension":"玩法","excerpt":"Every enemy has at least 1 special attack... which you can dodge! There is no simple contact damage, which makes the game very challenging","url":"https://store.steampowered.com/app/2489560/","label":"证据原文片段"}],"opinions":[{"text":"成长节奏优于许多付费同类。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"progression is well paced, better then most paid games","url":"https://steamcommunity.com/profiles/76561198028052663/recommended/2489560/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":12496,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1100,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":354,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7992,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":12496,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":12496,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.870877134803518,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":227,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.748899,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"进入深度拆解","target":"成长节奏优于许多付费同类。","reason":"已有经人工确认且可追溯的正向玩家观点，可进入具体机制或卖点验证。","trigger":"完成机制拆解或轻量原型后，根据移动端操作、节奏与内容成本决定升级或降级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_f769a3f195426860c8be3a8a1adbcc44361c6ab3.1920x1080.jpg?t=1779462682","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_f769a3f195426860c8be3a8a1adbcc44361c6ab3.1920x1080.jpg?t=1779462682","alt":"Elewar: Fused Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_62c377df1fcbeba56bcdf2305f89089789e34f36.1920x1080.jpg?t=1779462682","alt":"Elewar: Fused Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_65ee3dd760764d6d7475b9134749a1439d4c227a.1920x1080.jpg?t=1779462682","alt":"Elewar: Fused Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_183f1593a09f1df344374e7918fa12ce1ffc17ae.1920x1080.jpg?t=1779462682","alt":"Elewar: Fused Survivors 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Elewar: Fused Survivors",
+    "developers": [
+      "AL3xMK"
+    ],
+    "publishers": [
+      "Elewar Gaming"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-21",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "动作肉鸽",
+      "刷宝",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每个法术独立提升稀有度，让单局法术成长形成多层构筑路径",
+      "dimension": "玩法",
+      "excerpt": "Every spell may be upgraded in its rarity separately, which enables a diverse and powerful spell progression in a run.",
+      "url": "https://store.steampowered.com/app/2489560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "18种职业叠加双职业系统，用职业组合直接改写战斗方式",
+      "dimension": "玩法",
+      "excerpt": "18 character classes with wildly different playstyles, combined with a dual class system.",
+      "url": "https://store.steampowered.com/app/2489560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "敌人依靠可躲避的特殊攻击造成威胁，而非简单接触伤害",
+      "dimension": "玩法",
+      "excerpt": "Every enemy has at least 1 special attack... which you can dodge! There is no simple contact damage, which makes the game very challenging",
+      "url": "https://store.steampowered.com/app/2489560/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "成长节奏优于许多付费同类。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "progression is well paced, better then most paid games",
+          "url": "https://steamcommunity.com/profiles/76561198028052663/recommended/2489560/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 12672,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1100,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 352,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 8016,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 12672,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 12672,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.740955094161675,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 230,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.869565,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Elewar: Fused Survivors位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_f769a3f195426860c8be3a8a1adbcc44361c6ab3.1920x1080.jpg?t=1779462682",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_f769a3f195426860c8be3a8a1adbcc44361c6ab3.1920x1080.jpg?t=1779462682",
+        "alt": "Elewar: Fused Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_62c377df1fcbeba56bcdf2305f89089789e34f36.1920x1080.jpg?t=1779462682",
+        "alt": "Elewar: Fused Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_65ee3dd760764d6d7475b9134749a1439d4c227a.1920x1080.jpg?t=1779462682",
+        "alt": "Elewar: Fused Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_183f1593a09f1df344374e7918fa12ce1ffc17ae.1920x1080.jpg?t=1779462682",
+        "alt": "Elewar: Fused Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_74eba67a9a30a2f7e5aa18794855c42b492b6304.1920x1080.jpg?t=1779462682",
+        "alt": "Elewar: Fused Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_b6f148379cad94c0b4f1e4cd8fa694d27bd35247.1920x1080.jpg?t=1779462682",
+        "alt": "Elewar: Fused Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_5db7823699db9ecb29c6f2f6e577a0c2e41e6b30.1920x1080.jpg?t=1779462682",
+        "alt": "Elewar: Fused Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489560/ss_b3e6ab64202f78543695344df1cb9e5eb540db1e.1920x1080.jpg?t=1779462682",
+        "alt": "Elewar: Fused Survivors 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

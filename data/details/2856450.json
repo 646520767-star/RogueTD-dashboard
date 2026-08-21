@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Dimensionals","developers":["Mino Games"],"publishers":["Mino Games"],"release_status":"released","release_date":"2025-04-29","tags":["二维画面","休闲","回合制战术","回合制战斗","冒险"]},"hooks":[{"text":"三人英雄小队自由拼接数百技能，打出夸张连携","dimension":"玩法","excerpt":"Build a party of three and combine hundreds of their unique skills to create insane combos.","url":"https://store.steampowered.com/app/2856450/","label":"证据原文片段"},{"text":"在Master Raid中权衡强力祝福与残酷诅咒，反复挑战终极远征","dimension":"玩法","excerpt":"The Master Raid is the ultimate roguelike test of your strategy skills! Fight your way through each of Ragnarath’s world crushing bosses, encounter the Mysterious Rogue Rifters, and take the fight to Ragnarath himself! Manage powerful blessings and brutal curses, and watch out!","url":"https://store.steampowered.com/app/2856450/","label":"证据原文片段"},{"text":"用全配音动态漫画过场重现90年代周六晨间动画冒险","dimension":"画风","excerpt":"Teleport yourself back to the glory days of the 90s with the Dimensionals radical story campaign, told through voice-acted, animated, comic-book style cutscenes.","url":"https://store.steampowered.com/app/2856450/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":11222,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":59735,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4096,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":180064,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":11913,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":11913,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.708994726438227,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":531,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.225989,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"二维画面、休闲","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/d124c19892d85249e9f4cdb83d644ada06a17975/ss_d124c19892d85249e9f4cdb83d644ada06a17975.1920x1080.jpg?t=1746057103","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/d124c19892d85249e9f4cdb83d644ada06a17975/ss_d124c19892d85249e9f4cdb83d644ada06a17975.1920x1080.jpg?t=1746057103","alt":"次元奇兵 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/48ebc264f93282232d2fe97879d76ab806dd7921/ss_48ebc264f93282232d2fe97879d76ab806dd7921.1920x1080.jpg?t=1746057103","alt":"次元奇兵 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/ss_7886408aa6ae4caa2fb9dd62ec98766a31c9b392.1920x1080.jpg?t=1746057103","alt":"次元奇兵 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/ss_ea819e86a5ce8fc3167e1530e2fc89fe9ff18378.1920x1080.jpg?t=1746057103","alt":"次元奇兵 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dimensionals",
+    "developers": [
+      "Mino Games"
+    ],
+    "publishers": [
+      "Mino Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-29",
+    "tags": [
+      "二维画面",
+      "休闲",
+      "回合制战术",
+      "回合制战斗",
+      "冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "三人英雄小队自由拼接数百技能，打出夸张连携",
+      "dimension": "玩法",
+      "excerpt": "Build a party of three and combine hundreds of their unique skills to create insane combos.",
+      "url": "https://store.steampowered.com/app/2856450/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在Master Raid中权衡强力祝福与残酷诅咒，反复挑战终极远征",
+      "dimension": "玩法",
+      "excerpt": "The Master Raid is the ultimate roguelike test of your strategy skills! Fight your way through each of Ragnarath’s world crushing bosses, encounter the Mysterious Rogue Rifters, and take the fight to Ragnarath himself! Manage powerful blessings and brutal curses, and watch out!",
+      "url": "https://store.steampowered.com/app/2856450/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用全配音动态漫画过场重现90年代周六晨间动画冒险",
+      "dimension": "美术",
+      "excerpt": "Teleport yourself back to the glory days of the 90s with the Dimensionals radical story campaign, told through voice-acted, animated, comic-book style cutscenes.",
+      "url": "https://store.steampowered.com/app/2856450/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "God blessed by RNG jesus so i had fun , awesome visuals too",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "God blessed by RNG jesus so i had fun , awesome visuals too",
+          "url": "https://steamcommunity.com/profiles/76561198062581455/recommended/2856450/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Graphics and Design The visuals are cute and well-crafted, with a style reminiscent of games like Griftlands.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Graphics and Design The visuals are cute and well-crafted, with a style reminiscent of games like Griftlands.",
+          "url": "https://steamcommunity.com/id/bluebadger/recommended/2856450/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The art style is lovely and fun.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The art style is lovely and fun.",
+          "url": "https://steamcommunity.com/profiles/76561198802443380/recommended/2856450/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Some of the best UI Art I've ever seen.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Some of the best UI Art I've ever seen.",
+          "url": "https://steamcommunity.com/id/livejamie/recommended/2856450/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A tactical card game with rpg and roguelike elements, which has a great visual style and beautiful story clips.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A tactical card game with rpg and roguelike elements, which has a great visual style and beautiful story clips.",
+          "url": "https://store.steampowered.com/curator/44445798-Immortal-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Dimensionals - awesome roguelike adventure with unique visuals, great design and attractive gameplay that you can enjoy for many hours.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Dimensionals - awesome roguelike adventure with unique visuals, great design and attractive gameplay that you can enjoy for many hours.",
+          "url": "https://store.steampowered.com/curator/45013120-Kitty-Cat-Reviews/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "There is so much potential in Dimensionals and the developers did a great job with the graphics and adorable characters.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "There is so much potential in Dimensionals and the developers did a great job with the graphics and adorable characters.",
+          "url": "https://store.steampowered.com/curator/45014938-Game-Chronicles-Collective/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The visuals are pretty cool and remind you about the best cartoons.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The visuals are pretty cool and remind you about the best cartoons.",
+          "url": "https://store.steampowered.com/curator/42708092-I%2527m-smth-of-a-reviewer-myself%257E/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 11579,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 60089,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4086,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 183873,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 12292,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 12292,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.62821099325673,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 487,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.225989,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "次元奇兵位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/d124c19892d85249e9f4cdb83d644ada06a17975/ss_d124c19892d85249e9f4cdb83d644ada06a17975.1920x1080.jpg?t=1746057103",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/d124c19892d85249e9f4cdb83d644ada06a17975/ss_d124c19892d85249e9f4cdb83d644ada06a17975.1920x1080.jpg?t=1746057103",
+        "alt": "次元奇兵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/48ebc264f93282232d2fe97879d76ab806dd7921/ss_48ebc264f93282232d2fe97879d76ab806dd7921.1920x1080.jpg?t=1746057103",
+        "alt": "次元奇兵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/ss_7886408aa6ae4caa2fb9dd62ec98766a31c9b392.1920x1080.jpg?t=1746057103",
+        "alt": "次元奇兵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/ss_ea819e86a5ce8fc3167e1530e2fc89fe9ff18378.1920x1080.jpg?t=1746057103",
+        "alt": "次元奇兵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/4e05fc7f29c5a0379e118675b3b87488f8a40f5c/ss_4e05fc7f29c5a0379e118675b3b87488f8a40f5c.1920x1080.jpg?t=1746057103",
+        "alt": "次元奇兵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/ss_b48f849388d9fc7cc8634cdbb557a89302aa817a.1920x1080.jpg?t=1746057103",
+        "alt": "次元奇兵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/ss_533eb315256e2e06ac542256c395ce46d386ade6.1920x1080.jpg?t=1746057103",
+        "alt": "次元奇兵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2856450/ss_e282207e88ac97418697500f0fba885cccec7ba2.1920x1080.jpg?t=1746057103",
+        "alt": "次元奇兵 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

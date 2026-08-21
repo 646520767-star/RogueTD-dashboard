@@ -1,1 +1,317 @@
-{"identity":{"original_title":"Thronefall","developers":["GrizzlyGames","Mythwright"],"publishers":["Mythwright"],"release_status":"released","release_date":"2024-10-11","tags":["塔防","策略","极简风格","中世纪","动作"]},"hooks":[{"text":"白天建设经济与防线，夜晚亲自带兵抵御攻势，形成昼建夜守的紧凑循环。","dimension":"玩法","excerpt":"Thronefall is a minimalist strategy game where you build a humble kingdom by day and defend it by night. Balance economy and defense by fortifying walls, recruiting troops, and charging into battle yourself to protect your stronghold from relentless waves of attackers.","url":"https://store.steampowered.com/app/2239150/","label":"证据原文片段"},{"text":"十张地图分别改变地形、天气、敌人、建筑与挑战条件，让防守方案随地图变化。","dimension":"玩法","excerpt":"10 Maps. From the mountainous Nordfels to the vibrant Wildbach, progress through a range of maps with different terrain, weather, enemies, buildings and challenges.","url":"https://store.steampowered.com/app/2239150/","label":"证据原文片段"},{"text":"五十余项可解锁特长中每局最多携带五项，还能加入变异条件主动抬高难度。","dimension":"玩法","excerpt":"Over 50 Unlockable Perks. Take up to 5 perks that bestow certain advantages, and optional Mutators to ramp up the difficulty.","url":"https://store.steampowered.com/app/2239150/","label":"证据原文片段"}],"opinions":[{"text":"美术风格富有魅力。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The art is charming","url":"https://steamcommunity.com/profiles/76561198103752531/recommended/2239150/","label":"证据原文片段"}]},{"text":"玩家选择受限，带来强烈惩罚感。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"the limited player choice to be very punishing and ultimately ruining the game for me","url":"https://youtu.be/mb14ljQfrLg","label":"证据原文片段"}]},{"text":"无法用鼠标方便地选择并分配部队。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"unable to select troops with the mouse and distribute them easily around the map","url":"https://steamcommunity.com/profiles/76561198068418831/recommended/2239150/","label":"证据原文片段"}]},{"text":"首次游玩地图前无法知道将面对何种敌人。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"you never know what you are up against until you played a map","url":"https://steamcommunity.com/profiles/76561198068418831/recommended/2239150/","label":"证据原文片段"}]},{"text":"后期依靠单调增难拉长时长。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期只能靠单调增难强行拉长时长","url":"https://steamcommunity.com/profiles/76561199741501820/recommended/2239150/","label":"证据原文片段"}]},{"text":"玩法套路高度固化。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"玩法模式高度固化，整体游玩套路一成不变","url":"https://steamcommunity.com/profiles/76561199741501820/recommended/2239150/","label":"证据原文片段"}]},{"text":"搭配单一且缺乏探索空间。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"搭配单一没有探索空间","url":"https://steamcommunity.com/profiles/76561199741501820/recommended/2239150/","label":"证据原文片段"}]},{"text":"建造位置不自由。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"you're not free to build wherever you want","url":"https://steamcommunity.com/profiles/76561197997613290/recommended/2239150/","label":"证据原文片段"}]},{"text":"友军AI表现很差，容易漏防基地。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"ai太蠢了 让他护住屁眼这ai能给我杀到前列腺 转眼家就被偷了","url":"https://steamcommunity.com/id/112233445566riok/recommended/2239150/","label":"证据原文片段"}]},{"text":"飞行敌人出生位置过于靠近基地。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"frustrating flying enemy spawns that are almost right on top of your base","url":"https://steamcommunity.com/profiles/76561197997613290/recommended/2239150/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1510494,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1021837,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":85976,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":10087367,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1542116,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1542116,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.935508740060882,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":23350,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.185624,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["玩家选择受限，带来强烈惩罚感。","无法用鼠标方便地选择并分配部队。","首次游玩地图前无法知道将面对何种敌人。","后期依靠单调增难拉长时长。","玩法套路高度固化。","搭配单一且缺乏探索空间。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_7755da74d905e510998b08d36eb9758869e2f768.1920x1080.jpg?t=1781163871","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_7755da74d905e510998b08d36eb9758869e2f768.1920x1080.jpg?t=1781163871","alt":"Thronefall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_77d787378686ca07d9d87a8879a804175738c339.1920x1080.jpg?t=1781163871","alt":"Thronefall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_1d836fc8d03b3333da83b455b0a7d2f7969f72a2.1920x1080.jpg?t=1781163871","alt":"Thronefall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_b11d1fc23cbf78bf154c7c3d8bed1be1859c2183.1920x1080.jpg?t=1781163871","alt":"Thronefall 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Thronefall",
+    "developers": [
+      "GrizzlyGames",
+      "Mythwright"
+    ],
+    "publishers": [
+      "Mythwright"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-11",
+    "tags": [
+      "塔防",
+      "策略",
+      "塔防",
+      "极简风格",
+      "中世纪"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "白天建设经济与防线，夜晚亲自带兵抵御攻势，形成昼建夜守的紧凑循环。",
+      "dimension": "玩法",
+      "excerpt": "Thronefall is a minimalist strategy game where you build a humble kingdom by day and defend it by night. Balance economy and defense by fortifying walls, recruiting troops, and charging into battle yourself to protect your stronghold from relentless waves of attackers.",
+      "url": "https://store.steampowered.com/app/2239150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十张地图分别改变地形、天气、敌人、建筑与挑战条件，让防守方案随地图变化。",
+      "dimension": "玩法",
+      "excerpt": "10 Maps. From the mountainous Nordfels to the vibrant Wildbach, progress through a range of maps with different terrain, weather, enemies, buildings and challenges.",
+      "url": "https://store.steampowered.com/app/2239150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "五十余项可解锁特长中每局最多携带五项，还能加入变异条件主动抬高难度。",
+      "dimension": "玩法",
+      "excerpt": "Over 50 Unlockable Perks. Take up to 5 perks that bestow certain advantages, and optional Mutators to ramp up the difficulty.",
+      "url": "https://store.steampowered.com/app/2239150/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "美术风格富有魅力。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The art is charming",
+          "url": "https://steamcommunity.com/profiles/76561198103752531/recommended/2239150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩家选择受限，带来强烈惩罚感。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the limited player choice to be very punishing and ultimately ruining the game for me",
+          "url": "https://youtu.be/mb14ljQfrLg",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "无法用鼠标方便地选择并分配部队。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "unable to select troops with the mouse and distribute them easily around the map",
+          "url": "https://steamcommunity.com/profiles/76561198068418831/recommended/2239150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "首次游玩地图前无法知道将面对何种敌人。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "you never know what you are up against until you played a map",
+          "url": "https://steamcommunity.com/profiles/76561198068418831/recommended/2239150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期依靠单调增难拉长时长。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期只能靠单调增难强行拉长时长",
+          "url": "https://steamcommunity.com/profiles/76561199741501820/recommended/2239150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法套路高度固化。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "玩法模式高度固化，整体游玩套路一成不变",
+          "url": "https://steamcommunity.com/profiles/76561199741501820/recommended/2239150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "搭配单一且缺乏探索空间。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "搭配单一没有探索空间",
+          "url": "https://steamcommunity.com/profiles/76561199741501820/recommended/2239150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "建造位置不自由。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "you're not free to build wherever you want",
+          "url": "https://steamcommunity.com/profiles/76561197997613290/recommended/2239150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "友军AI表现很差，容易漏防基地。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "ai太蠢了 让他护住屁眼这ai能给我杀到前列腺 转眼家就被偷了",
+          "url": "https://steamcommunity.com/id/112233445566riok/recommended/2239150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "飞行敌人出生位置过于靠近基地。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "frustrating flying enemy spawns that are almost right on top of your base",
+          "url": "https://steamcommunity.com/profiles/76561197997613290/recommended/2239150/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1562770,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1022780,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 86179,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 10382622,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1596012,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1596012,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.263836915802017,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 22760,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.161547,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "玩家选择受限，带来强烈惩罚感。",
+    "无法用鼠标方便地选择并分配部队。",
+    "首次游玩地图前无法知道将面对何种敌人。",
+    "后期依靠单调增难拉长时长。",
+    "玩法套路高度固化。",
+    "搭配单一且缺乏探索空间。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Thronefall位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_7755da74d905e510998b08d36eb9758869e2f768.1920x1080.jpg?t=1781163871",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_7755da74d905e510998b08d36eb9758869e2f768.1920x1080.jpg?t=1781163871",
+        "alt": "Thronefall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_77d787378686ca07d9d87a8879a804175738c339.1920x1080.jpg?t=1781163871",
+        "alt": "Thronefall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_1d836fc8d03b3333da83b455b0a7d2f7969f72a2.1920x1080.jpg?t=1781163871",
+        "alt": "Thronefall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_b11d1fc23cbf78bf154c7c3d8bed1be1859c2183.1920x1080.jpg?t=1781163871",
+        "alt": "Thronefall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_f602a7a6900b8f71c6842421cc584659b6db484c.1920x1080.jpg?t=1781163871",
+        "alt": "Thronefall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_31158136c53ff471fc87465b2a8d1a5bd2acc709.1920x1080.jpg?t=1781163871",
+        "alt": "Thronefall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_22bfb0694c5685106f990cb6ec7656e3762a6980.1920x1080.jpg?t=1781163871",
+        "alt": "Thronefall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_d324f236bcba0481d2e038834d9a2e7856e5c85b.1920x1080.jpg?t=1781163871",
+        "alt": "Thronefall 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

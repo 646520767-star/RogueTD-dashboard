@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Legends of Gems","developers":["南京西木优洛网络科技有限公司"],"publishers":["南京西木优洛网络科技有限公司"],"release_status":"released","release_date":"2025-11-21","tags":["轻度Rogue","策略","回合制战术","二维画面","独立游戏"]},"hooks":[{"text":"失败没有惩罚，可反复调整宝石组合直到找到最优战术","dimension":"玩法","excerpt":"No penalty for failure; freely adjust gem combinations and repeatedly optimize tactics until you build the perfect build.","url":"https://store.steampowered.com/app/3693590/","label":"证据原文片段"},{"text":"数百颗元素宝石可自由组合成爆发、持续伤害或特殊效果流派","dimension":"玩法","excerpt":"Hundreds of gems can be freely combined to create high burst, sustained damage, or special effect builds, offering endless combinatorial fun.","url":"https://store.steampowered.com/app/3693590/","label":"证据原文片段"},{"text":"吞宝石、进化与伤害反射等敌方机制要求针对性搭配宝石和遗物","dimension":"玩法","excerpt":"40+ enemy types, each with unique mechanics (gem devouring, evolution, damage reflection, etc.), require targeted gem and relic搭配.","url":"https://store.steampowered.com/app/3693590/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5987,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":25419,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2247,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":40760,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6257,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6257,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.956400708371238,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":146,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.993197,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/bf541d7616b11250f76294c9dc4722991eb91c47/ss_bf541d7616b11250f76294c9dc4722991eb91c47.1920x1080.jpg?t=1779854652","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/bf541d7616b11250f76294c9dc4722991eb91c47/ss_bf541d7616b11250f76294c9dc4722991eb91c47.1920x1080.jpg?t=1779854652","alt":"晶石战记 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/d1497cca0308514fdef1ba647fb83411519d9c3d/ss_d1497cca0308514fdef1ba647fb83411519d9c3d.1920x1080.jpg?t=1779854652","alt":"晶石战记 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/7dac31928c63a6176cb008cf3f4bf1ff49e02ab8/ss_7dac31928c63a6176cb008cf3f4bf1ff49e02ab8.1920x1080.jpg?t=1779854652","alt":"晶石战记 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/5c3b3252f5c21a66ab94d45e78b35981d56c2617/ss_5c3b3252f5c21a66ab94d45e78b35981d56c2617.1920x1080.jpg?t=1779854652","alt":"晶石战记 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Legends of Gems",
+    "developers": [
+      "南京西木优洛网络科技有限公司"
+    ],
+    "publishers": [
+      "南京西木优洛网络科技有限公司"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-21",
+    "tags": [
+      "轻度Rogue",
+      "策略",
+      "回合制战术",
+      "二维画面",
+      "独立游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "失败没有惩罚，可反复调整宝石组合直到找到最优战术",
+      "dimension": "玩法",
+      "excerpt": "No penalty for failure; freely adjust gem combinations and repeatedly optimize tactics until you build the perfect build.",
+      "url": "https://store.steampowered.com/app/3693590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "数百颗元素宝石可自由组合成爆发、持续伤害或特殊效果流派",
+      "dimension": "玩法",
+      "excerpt": "Hundreds of gems can be freely combined to create high burst, sustained damage, or special effect builds, offering endless combinatorial fun.",
+      "url": "https://store.steampowered.com/app/3693590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "吞宝石、进化与伤害反射等敌方机制要求针对性搭配宝石和遗物",
+      "dimension": "玩法",
+      "excerpt": "40+ enemy types, each with unique mechanics (gem devouring, evolution, damage reflection, etc.), require targeted gem and relic搭配.",
+      "url": "https://store.steampowered.com/app/3693590/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6071,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 25570,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2239,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 40584,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 6341,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 6341,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.993728582114283,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 139,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.432432,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "晶石战记位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/bf541d7616b11250f76294c9dc4722991eb91c47/ss_bf541d7616b11250f76294c9dc4722991eb91c47.1920x1080.jpg?t=1779854652",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/bf541d7616b11250f76294c9dc4722991eb91c47/ss_bf541d7616b11250f76294c9dc4722991eb91c47.1920x1080.jpg?t=1779854652",
+        "alt": "晶石战记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/d1497cca0308514fdef1ba647fb83411519d9c3d/ss_d1497cca0308514fdef1ba647fb83411519d9c3d.1920x1080.jpg?t=1779854652",
+        "alt": "晶石战记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/7dac31928c63a6176cb008cf3f4bf1ff49e02ab8/ss_7dac31928c63a6176cb008cf3f4bf1ff49e02ab8.1920x1080.jpg?t=1779854652",
+        "alt": "晶石战记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/5c3b3252f5c21a66ab94d45e78b35981d56c2617/ss_5c3b3252f5c21a66ab94d45e78b35981d56c2617.1920x1080.jpg?t=1779854652",
+        "alt": "晶石战记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/c95314390688f8474828eb4d78969598d79d6365/ss_c95314390688f8474828eb4d78969598d79d6365.1920x1080.jpg?t=1779854652",
+        "alt": "晶石战记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/c3cfc9a33f040e5b4746acdfac2fea84535afca8/ss_c3cfc9a33f040e5b4746acdfac2fea84535afca8.1920x1080.jpg?t=1779854652",
+        "alt": "晶石战记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/f44abac8def50c432ace6034ec5a4e71cd7f11e0/ss_f44abac8def50c432ace6034ec5a4e71cd7f11e0.1920x1080.jpg?t=1779854652",
+        "alt": "晶石战记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693590/070a4975fcbecb2eaefe85a7fdd4d7b28584095d/ss_070a4975fcbecb2eaefe85a7fdd4d7b28584095d.1920x1080.jpg?t=1779854652",
+        "alt": "晶石战记 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

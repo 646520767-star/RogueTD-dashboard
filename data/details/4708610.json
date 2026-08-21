@@ -1,1 +1,178 @@
-{"identity":{"original_title":"PixelBoss: Shattered Depths","developers":["Quacky Games"],"publishers":["Whale Rock Games"],"release_status":"early_access","release_date":"2026-06-17","tags":["抢先体验","动作","街机","平台跳跃","动作冒险"]},"hooks":[{"text":"一次失误即重来的纯技巧硬核挑战","dimension":"玩法","excerpt":"PixelBoss: Shattered Depths is a hardcore platformer where success depends entirely on your skill. Every level tests your: reaction time precision composure One mistake — and you start over.","url":"https://store.steampowered.com/app/4708610/","label":"证据原文片段"},{"text":"跳隙移动平台与致命机关要求完美时机","dimension":"玩法","excerpt":"🧱 Platforming Without Forgiveness Jump across gaps, navigate moving platforms, and survive deadly mechanisms that demand perfect timing. There are no shortcuts. Only skill.","url":"https://store.steampowered.com/app/4708610/","label":"证据原文片段"},{"text":"剑盾间距时机结合敌人模式学习","dimension":"玩法","excerpt":"🗡️ Combat System sword attacks shield defense spacing and timing Learn enemy patterns and strike at the right moment.","url":"https://store.steampowered.com/app/4708610/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4656,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":468,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":39,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7539,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4656,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4656,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.3090937595965224,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":147,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":79,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":78.911565,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/7698c37e2d8e60ec16fda4b00a63201a36a39716/ss_7698c37e2d8e60ec16fda4b00a63201a36a39716.1920x1080.jpg?t=1783599225","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/7698c37e2d8e60ec16fda4b00a63201a36a39716/ss_7698c37e2d8e60ec16fda4b00a63201a36a39716.1920x1080.jpg?t=1783599225","alt":"PixelBoss: Shattered Depths 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/7861c53b300bce3aadd2e4e0d45a99a1656acb23/ss_7861c53b300bce3aadd2e4e0d45a99a1656acb23.1920x1080.jpg?t=1783599225","alt":"PixelBoss: Shattered Depths 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/4cf4384b609897de27eec49f996bc17ca426c196/ss_4cf4384b609897de27eec49f996bc17ca426c196.1920x1080.jpg?t=1783599225","alt":"PixelBoss: Shattered Depths 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/8cd4f6ecf83841c4918fbcc97561432420cf616e/ss_8cd4f6ecf83841c4918fbcc97561432420cf616e.1920x1080.jpg?t=1783599225","alt":"PixelBoss: Shattered Depths 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "PixelBoss: Shattered Depths",
+    "developers": [
+      "Quacky Games"
+    ],
+    "publishers": [
+      "Whale Rock Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-17",
+    "tags": [
+      "抢先体验",
+      "动作",
+      "街机",
+      "平台跳跃",
+      "动作冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "一次失误即重来的纯技巧硬核挑战",
+      "dimension": "玩法",
+      "excerpt": "PixelBoss: Shattered Depths is a hardcore platformer where success depends entirely on your skill. Every level tests your: reaction time precision composure One mistake — and you start over.",
+      "url": "https://store.steampowered.com/app/4708610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "跳隙移动平台与致命机关要求完美时机",
+      "dimension": "玩法",
+      "excerpt": "🧱 Platforming Without Forgiveness Jump across gaps, navigate moving platforms, and survive deadly mechanisms that demand perfect timing. There are no shortcuts. Only skill.",
+      "url": "https://store.steampowered.com/app/4708610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "剑盾间距时机结合敌人模式学习",
+      "dimension": "玩法",
+      "excerpt": "🗡️ Combat System sword attacks shield defense spacing and timing Learn enemy patterns and strike at the right moment.",
+      "url": "https://store.steampowered.com/app/4708610/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4530,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 516,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 43,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 7356,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4530,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4530,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.315395660464543,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 143,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 79,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 79.020979,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "PixelBoss: Shattered Depths位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/7698c37e2d8e60ec16fda4b00a63201a36a39716/ss_7698c37e2d8e60ec16fda4b00a63201a36a39716.1920x1080.jpg?t=1783599225",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/7698c37e2d8e60ec16fda4b00a63201a36a39716/ss_7698c37e2d8e60ec16fda4b00a63201a36a39716.1920x1080.jpg?t=1783599225",
+        "alt": "PixelBoss: Shattered Depths 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/7861c53b300bce3aadd2e4e0d45a99a1656acb23/ss_7861c53b300bce3aadd2e4e0d45a99a1656acb23.1920x1080.jpg?t=1783599225",
+        "alt": "PixelBoss: Shattered Depths 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/4cf4384b609897de27eec49f996bc17ca426c196/ss_4cf4384b609897de27eec49f996bc17ca426c196.1920x1080.jpg?t=1783599225",
+        "alt": "PixelBoss: Shattered Depths 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/8cd4f6ecf83841c4918fbcc97561432420cf616e/ss_8cd4f6ecf83841c4918fbcc97561432420cf616e.1920x1080.jpg?t=1783599225",
+        "alt": "PixelBoss: Shattered Depths 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/eeb26c4c2abf096cf353da102aefcb2624db5a35/ss_eeb26c4c2abf096cf353da102aefcb2624db5a35.1920x1080.jpg?t=1783599225",
+        "alt": "PixelBoss: Shattered Depths 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/5df085d3f0b28cffd558bccbfd82a1b89ddc3875/ss_5df085d3f0b28cffd558bccbfd82a1b89ddc3875.1920x1080.jpg?t=1783599225",
+        "alt": "PixelBoss: Shattered Depths 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/57ee84909cab2c6ba79b1cdee52e2615577d9513/ss_57ee84909cab2c6ba79b1cdee52e2615577d9513.1920x1080.jpg?t=1783599225",
+        "alt": "PixelBoss: Shattered Depths 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/25eddbd8dc082918d7e142f274f9d17fcff8dde7/ss_25eddbd8dc082918d7e142f274f9d17fcff8dde7.1920x1080.jpg?t=1783599225",
+        "alt": "PixelBoss: Shattered Depths 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

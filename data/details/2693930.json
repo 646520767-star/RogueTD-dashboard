@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Dice & Fold","developers":["Tinymice Entertainment"],"publishers":["Rogue Duck Interactive","Gamersky Games"],"release_status":"released","release_date":"2024-06-24","tags":["卡牌对战","地牢探索","肉鸽卡组构筑","回合制战斗","类Rogue"]},"hooks":[{"text":"掷骰结果直接决定攻击强度，点数越高伤害越大","dimension":"玩法","excerpt":"Players engage in combat by rolling a dice, with the outcome directly influencing the strength of their attacks. The higher the roll, the more damage inflicted on the enemies.","url":"https://store.steampowered.com/app/2693930/","label":"证据原文片段"},{"text":"35种以上职业各有独立能力和过关打法","dimension":"玩法","excerpt":"Adding to the complexity, the game features 35+ distinct classes, each with unique abilities and playstyles.","url":"https://store.steampowered.com/app/2693930/","label":"证据原文片段"},{"text":"失败后获得局外升级与货币，强化后续地牢挑战","dimension":"玩法","excerpt":"If a player is defeated, the game doesn’t end in frustration. Instead, players are rewarded with meta upgrades and currencies that can be used to strengthen their character for subsequent runs.","url":"https://store.steampowered.com/app/2693930/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":143782,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":161411,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9765,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1070531,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":154870,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":154870,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.422382447303644,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3862,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.695652,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"卡牌对战、地牢探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_181ee9557b3ae1a40b764040b69d9ec2bb09cf45.1920x1080.jpg?t=1782066813","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_181ee9557b3ae1a40b764040b69d9ec2bb09cf45.1920x1080.jpg?t=1782066813","alt":"骰子闯魔城 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_513d7f7f662e46041729dc8021b4be883b5dbf68.1920x1080.jpg?t=1782066813","alt":"骰子闯魔城 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_9ac117bd635194e6889e91d7877e102c3b90deb0.1920x1080.jpg?t=1782066813","alt":"骰子闯魔城 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_ed3a8adacec068729e228b48ac846c13c5b988e0.1920x1080.jpg?t=1782066813","alt":"骰子闯魔城 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dice & Fold",
+    "developers": [
+      "Tinymice Entertainment"
+    ],
+    "publishers": [
+      "Rogue Duck Interactive",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-06-24",
+    "tags": [
+      "卡牌对战",
+      "地牢探索",
+      "肉鸽卡组构筑",
+      "回合制战斗",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "掷骰结果直接决定攻击强度，点数越高伤害越大",
+      "dimension": "玩法",
+      "excerpt": "Players engage in combat by rolling a dice, with the outcome directly influencing the strength of their attacks. The higher the roll, the more damage inflicted on the enemies.",
+      "url": "https://store.steampowered.com/app/2693930/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "35种以上职业各有独立能力和过关打法",
+      "dimension": "玩法",
+      "excerpt": "Adding to the complexity, the game features 35+ distinct classes, each with unique abilities and playstyles.",
+      "url": "https://store.steampowered.com/app/2693930/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "失败后获得局外升级与货币，强化后续地牢挑战",
+      "dimension": "玩法",
+      "excerpt": "If a player is defeated, the game doesn’t end in frustration. Instead, players are rewarded with meta upgrades and currencies that can be used to strengthen their character for subsequent runs.",
+      "url": "https://store.steampowered.com/app/2693930/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 146762,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 159810,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9757,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1072767,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 158100,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 158100,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.603449686705943,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3478,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.612903,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "骰子闯魔城位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_181ee9557b3ae1a40b764040b69d9ec2bb09cf45.1920x1080.jpg?t=1782066813",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_181ee9557b3ae1a40b764040b69d9ec2bb09cf45.1920x1080.jpg?t=1785146449",
+        "alt": "骰子闯魔城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_513d7f7f662e46041729dc8021b4be883b5dbf68.1920x1080.jpg?t=1785146449",
+        "alt": "骰子闯魔城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_9ac117bd635194e6889e91d7877e102c3b90deb0.1920x1080.jpg?t=1785146449",
+        "alt": "骰子闯魔城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_ed3a8adacec068729e228b48ac846c13c5b988e0.1920x1080.jpg?t=1785146449",
+        "alt": "骰子闯魔城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_a18950b04c80eeb31737532aa8cd80e2b0cdf6e8.1920x1080.jpg?t=1785146449",
+        "alt": "骰子闯魔城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_8a83bbace2be9a95649e8955d6207c67fcdcf66a.1920x1080.jpg?t=1785146449",
+        "alt": "骰子闯魔城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_7dafb13416a44dc226976f9e8b9fdb365640276e.1920x1080.jpg?t=1785146449",
+        "alt": "骰子闯魔城 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/ss_0bc392f036e661326c81522c295a233480555f43.1920x1080.jpg?t=1785146449",
+        "alt": "骰子闯魔城 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

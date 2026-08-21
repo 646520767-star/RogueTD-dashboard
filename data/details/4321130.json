@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Coinsweeper","developers":["Duo Forge Games"],"publishers":["Duo Forge Games"],"release_status":"released","release_date":"2026-04-28","tags":["类Rogue","轻度Rogue","卡组构筑","策略","回合制战术"]},"hooks":[{"text":"每翻开一张安全牌，金币收益指数增长；可随时兑现，也可继续冒险并在踩雷时清空本轮收益","dimension":"玩法","excerpt":"Use numbered diamonds to deduce mine locations, but instead of just clearing the board, each safe card you reveal exponentially increases your coin winnings. Decide when to cash out and secure your earnings, or push your luck for massive payouts - hit a mine and lose everything you've earned that round.","url":"https://store.steampowered.com/app/4321130/","label":"证据原文片段"},{"text":"六十种强化可把地雷变收益、揭示危险、抵消失误或放大倍数，并能继续组合协同","dimension":"玩法","excerpt":"60 unique power-ups that change your strategy each run: Risk/reward modifiers like High Roller and Golden Touch turn mines into profit opportunities, Powerups like Fortune Teller and Lucky Peak reveal hidden dangers, Shield and Armor Plating protect you from mistakes, and multiplier boosters like Lucky Charm and Coin Magnet maximize your earnings. Combine power-ups to create devastating synergies and develop new strategies every playthrough.","url":"https://store.steampowered.com/app/4321130/","label":"证据原文片段"},{"text":"局间随机商店与永久解锁构成成长层，动态Joker还会改写兑现倍率","dimension":"玩法","excerpt":"Roguelike progression with randomized shops between rounds Meta-progression system: unlock permanent upgrades between runs Dynamic Joker cards that modify your cashout multiplier","url":"https://store.steampowered.com/app/4321130/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":785,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":144,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2772,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":798,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":798,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.116418564185156,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":41,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.682927,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/fe2a746f2ff13ec411be6c57aac4f7522ae5ba62/ss_fe2a746f2ff13ec411be6c57aac4f7522ae5ba62.1920x1080.jpg?t=1783539842","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/fe2a746f2ff13ec411be6c57aac4f7522ae5ba62/ss_fe2a746f2ff13ec411be6c57aac4f7522ae5ba62.1920x1080.jpg?t=1783539842","alt":"Coinsweeper 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/0bd78121511c967c8acd4ee1cd747a211238a11c/ss_0bd78121511c967c8acd4ee1cd747a211238a11c.1920x1080.jpg?t=1783539842","alt":"Coinsweeper 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/c87ad72b709b2880a54a1092cc0e0b5d6d320df8/ss_c87ad72b709b2880a54a1092cc0e0b5d6d320df8.1920x1080.jpg?t=1783539842","alt":"Coinsweeper 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/22a034df2968b8463114063b889a705253ef995a/ss_22a034df2968b8463114063b889a705253ef995a.1920x1080.jpg?t=1783539842","alt":"Coinsweeper 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Coinsweeper",
+    "developers": [
+      "Duo Forge Games"
+    ],
+    "publishers": [
+      "Duo Forge Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-28",
+    "tags": [
+      "类Rogue",
+      "轻度Rogue",
+      "卡组构筑",
+      "策略",
+      "回合制战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每翻开一张安全牌，金币收益指数增长；可随时兑现，也可继续冒险并在踩雷时清空本轮收益",
+      "dimension": "玩法",
+      "excerpt": "Use numbered diamonds to deduce mine locations, but instead of just clearing the board, each safe card you reveal exponentially increases your coin winnings. Decide when to cash out and secure your earnings, or push your luck for massive payouts - hit a mine and lose everything you've earned that round.",
+      "url": "https://store.steampowered.com/app/4321130/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "六十种强化可把地雷变收益、揭示危险、抵消失误或放大倍数，并能继续组合协同",
+      "dimension": "玩法",
+      "excerpt": "60 unique power-ups that change your strategy each run: Risk/reward modifiers like High Roller and Golden Touch turn mines into profit opportunities, Powerups like Fortune Teller and Lucky Peak reveal hidden dangers, Shield and Armor Plating protect you from mistakes, and multiplier boosters like Lucky Charm and Coin Magnet maximize your earnings. Combine power-ups to create devastating synergies and develop new strategies every playthrough.",
+      "url": "https://store.steampowered.com/app/4321130/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "局间随机商店与永久解锁构成成长层，动态Joker还会改写兑现倍率",
+      "dimension": "玩法",
+      "excerpt": "Roguelike progression with randomized shops between rounds Meta-progression system: unlock permanent upgrades between runs Dynamic Joker cards that modify your cashout multiplier",
+      "url": "https://store.steampowered.com/app/4321130/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1037,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 146,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3419,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1054,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1054,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.325942725154594,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 41,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.47619,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "Coinsweeper当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/fe2a746f2ff13ec411be6c57aac4f7522ae5ba62/ss_fe2a746f2ff13ec411be6c57aac4f7522ae5ba62.1920x1080.jpg?t=1783539842",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/fe2a746f2ff13ec411be6c57aac4f7522ae5ba62/ss_fe2a746f2ff13ec411be6c57aac4f7522ae5ba62.1920x1080.jpg?t=1783539842",
+        "alt": "Coinsweeper 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/0bd78121511c967c8acd4ee1cd747a211238a11c/ss_0bd78121511c967c8acd4ee1cd747a211238a11c.1920x1080.jpg?t=1783539842",
+        "alt": "Coinsweeper 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/c87ad72b709b2880a54a1092cc0e0b5d6d320df8/ss_c87ad72b709b2880a54a1092cc0e0b5d6d320df8.1920x1080.jpg?t=1783539842",
+        "alt": "Coinsweeper 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/22a034df2968b8463114063b889a705253ef995a/ss_22a034df2968b8463114063b889a705253ef995a.1920x1080.jpg?t=1783539842",
+        "alt": "Coinsweeper 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/c3d32b9cb8248e78094384838afd3f1b2ec4f689/ss_c3d32b9cb8248e78094384838afd3f1b2ec4f689.1920x1080.jpg?t=1783539842",
+        "alt": "Coinsweeper 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/f4ef0286c3f1dd955ced0c50a330782df925c4b3/ss_f4ef0286c3f1dd955ced0c50a330782df925c4b3.1920x1080.jpg?t=1783539842",
+        "alt": "Coinsweeper 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/0b04ed11ad7712cd1961c9e774dee47ba2a1184d/ss_0b04ed11ad7712cd1961c9e774dee47ba2a1184d.1920x1080.jpg?t=1783539842",
+        "alt": "Coinsweeper 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

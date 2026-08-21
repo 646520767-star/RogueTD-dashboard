@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Repel The Rifts","developers":["RefinedBearGames"],"publishers":["Goblinz Publishing","WR game"],"release_status":"early_access","release_date":"2025-11-24","tags":["塔防","类Rogue","科幻","战术","轻度Rogue"]},"hooks":[{"text":"每波勘测未知区域扩张地图，让塔位与地形优势联动","dimension":"玩法","excerpt":"Survey the unknown to expand the map. Different towers can benefit from different geography, so choose carefully Commander!","url":"https://store.steampowered.com/app/3686580/","label":"证据原文片段"},{"text":"在市场购买塔升级并赋予新效果，每次远征重组防线策略","dimension":"玩法","excerpt":"Purchase tower upgrades from a market that strengthen your towers and can even grant new effects. Discover different combinations and strategies every expedition!","url":"https://store.steampowered.com/app/3686580/","label":"证据原文片段"},{"text":"不同指挥官自带三座起始塔、能力与被动，形成独立打法","dimension":"玩法","excerpt":"Choose from different commanders, each with their own three starting towers, abilities and passive. Each offers their own play style and strategy.","url":"https://store.steampowered.com/app/3686580/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":18124,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":44484,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3226,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":161919,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":18714,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":18714,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.7961140263607875,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":355,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.788732,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"塔防、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/2e29b50b3b41a54e24a0fc2f646d49baebf37fa3/ss_2e29b50b3b41a54e24a0fc2f646d49baebf37fa3.1920x1080.jpg?t=1781569309","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/2e29b50b3b41a54e24a0fc2f646d49baebf37fa3/ss_2e29b50b3b41a54e24a0fc2f646d49baebf37fa3.1920x1080.jpg?t=1781569309","alt":"Repel The Rifts 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/ab1fa6b26a16556dc6249a9c2fff1565181ea4fc/ss_ab1fa6b26a16556dc6249a9c2fff1565181ea4fc.1920x1080.jpg?t=1781569309","alt":"Repel The Rifts 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/e60f29c221d1ec1401526f31daf119c4e2b560f4/ss_e60f29c221d1ec1401526f31daf119c4e2b560f4.1920x1080.jpg?t=1781569309","alt":"Repel The Rifts 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/77e0773bf07d3aabd817ee74d42482180e5f5302/ss_77e0773bf07d3aabd817ee74d42482180e5f5302.1920x1080.jpg?t=1781569309","alt":"Repel The Rifts 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Repel The Rifts",
+    "developers": [
+      "RefinedBearGames"
+    ],
+    "publishers": [
+      "Goblinz Publishing",
+      "WR game"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-11-24",
+    "tags": [
+      "塔防",
+      "类Rogue",
+      "动作肉鸽",
+      "科幻",
+      "战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每波勘测未知区域扩张地图，让塔位与地形优势联动",
+      "dimension": "玩法",
+      "excerpt": "Survey the unknown to expand the map. Different towers can benefit from different geography, so choose carefully Commander!",
+      "url": "https://store.steampowered.com/app/3686580/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在市场购买塔升级并赋予新效果，每次远征重组防线策略",
+      "dimension": "玩法",
+      "excerpt": "Purchase tower upgrades from a market that strengthen your towers and can even grant new effects. Discover different combinations and strategies every expedition!",
+      "url": "https://store.steampowered.com/app/3686580/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不同指挥官自带三座起始塔、能力与被动，形成独立打法",
+      "dimension": "玩法",
+      "excerpt": "Choose from different commanders, each with their own three starting towers, abilities and passive. Each offers their own play style and strategy.",
+      "url": "https://store.steampowered.com/app/3686580/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 18870,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 46026,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3230,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 172550,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 19517,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 19517,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.9260745904499394,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 342,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Repel The Rifts位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/2e29b50b3b41a54e24a0fc2f646d49baebf37fa3/ss_2e29b50b3b41a54e24a0fc2f646d49baebf37fa3.1920x1080.jpg?t=1781569309",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/2e29b50b3b41a54e24a0fc2f646d49baebf37fa3/ss_2e29b50b3b41a54e24a0fc2f646d49baebf37fa3.1920x1080.jpg?t=1786018599",
+        "alt": "Repel The Rifts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/ab1fa6b26a16556dc6249a9c2fff1565181ea4fc/ss_ab1fa6b26a16556dc6249a9c2fff1565181ea4fc.1920x1080.jpg?t=1786018599",
+        "alt": "Repel The Rifts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/e60f29c221d1ec1401526f31daf119c4e2b560f4/ss_e60f29c221d1ec1401526f31daf119c4e2b560f4.1920x1080.jpg?t=1786018599",
+        "alt": "Repel The Rifts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/77e0773bf07d3aabd817ee74d42482180e5f5302/ss_77e0773bf07d3aabd817ee74d42482180e5f5302.1920x1080.jpg?t=1786018599",
+        "alt": "Repel The Rifts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/39383407ef2ba43a2384b1af5ce9936771389a5c/ss_39383407ef2ba43a2384b1af5ce9936771389a5c.1920x1080.jpg?t=1786018599",
+        "alt": "Repel The Rifts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/6d15b4c81f9ac02495c6f4e6dbb37dcf96eca205/ss_6d15b4c81f9ac02495c6f4e6dbb37dcf96eca205.1920x1080.jpg?t=1786018599",
+        "alt": "Repel The Rifts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/5a8d3c0df9944785c0ca946f45fdb7e0b0a15c59/ss_5a8d3c0df9944785c0ca946f45fdb7e0b0a15c59.1920x1080.jpg?t=1786018599",
+        "alt": "Repel The Rifts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/8c695c02ba535697c18a97e40f34328b8192574a/ss_8c695c02ba535697c18a97e40f34328b8192574a.1920x1080.jpg?t=1786018599",
+        "alt": "Repel The Rifts 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

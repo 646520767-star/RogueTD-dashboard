@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Greedland","developers":["VaMP He"],"publishers":["Gamersky Games","2P Games"],"release_status":"released","release_date":"2025-09-15","tags":["清版射击","轻度Rogue","弹幕射击","类Rogue","科幻"]},"hooks":[{"text":"数百万怪物席卷数十关，导弹、火炮与激光同时铺满战场追求极端火力","dimension":"玩法","excerpt":"Hordes of monsters crash down on you, exploding into crimson mist with every shot. Missiles rain, cannons roar, and lasers paint the sky! Unleash extreme firepower to incinerate every enemy in your path. Millions of monstrosities across dozens of levels eye you hungrily.","url":"https://store.steampowered.com/app/2218400/","label":"证据原文片段"},{"text":"被怪群包围或弹药紧缺时可呼叫Titan Mecha，以重装火力直接碾过Boss和精英","dimension":"玩法","excerpt":"Surrounded by monsters? Running low on ammo? Your Titan Mechas are always on standby, ready to deploy. With a brutal aesthetic and overwhelming firepower, they'll crush everything in their path. Bosses or elite foes? They're just minor speed bumps on your rampage.","url":"https://store.steampowered.com/app/2218400/","label":"证据原文片段"},{"text":"每套Power Armor都有专属升级，芯片与三百多项强化还能合成终极装备","dimension":"玩法","excerpt":"Each Power Armor boasts unique upgrades—there's always one to suit your playstyle. A vast arsenal of chips will supercharge your combat, combining with over 300 upgrades to maximize the adrenaline rush of every encounter. Mix and match diverse auxiliary equipment to create unique experiences each run, and even synthesize ultimate gear to utterly dominate the battlefield!","url":"https://store.steampowered.com/app/2218400/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":190332,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":157597,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":15749,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1390825,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":209341,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":209341,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.572014989415393,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3284,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.262325,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"清版射击、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/30985b770607e352a550c7084287bdb530fa5caa/ss_30985b770607e352a550c7084287bdb530fa5caa.1920x1080.jpg?t=1784802201","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/30985b770607e352a550c7084287bdb530fa5caa/ss_30985b770607e352a550c7084287bdb530fa5caa.1920x1080.jpg?t=1784802201","alt":"贪婪大地 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/adbca1b692f41a104f24daf380af60e55a17f543/ss_adbca1b692f41a104f24daf380af60e55a17f543.1920x1080.jpg?t=1784802201","alt":"贪婪大地 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/4847895e5aa57311f4a4535466c1c2484fb4a450/ss_4847895e5aa57311f4a4535466c1c2484fb4a450.1920x1080.jpg?t=1784802201","alt":"贪婪大地 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/7717270d9962f686969980c0c58d429175bdfb57/ss_7717270d9962f686969980c0c58d429175bdfb57.1920x1080.jpg?t=1784802201","alt":"贪婪大地 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Greedland",
+    "developers": [
+      "VaMP He"
+    ],
+    "publishers": [
+      "Gamersky Games",
+      "2P Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-15",
+    "tags": [
+      "清版射击",
+      "轻度Rogue",
+      "轻度Rogue",
+      "弹幕射击",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "数百万怪物席卷数十关，导弹、火炮与激光同时铺满战场追求极端火力",
+      "dimension": "玩法",
+      "excerpt": "Hordes of monsters crash down on you, exploding into crimson mist with every shot. Missiles rain, cannons roar, and lasers paint the sky! Unleash extreme firepower to incinerate every enemy in your path. Millions of monstrosities across dozens of levels eye you hungrily.",
+      "url": "https://store.steampowered.com/app/2218400/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "被怪群包围或弹药紧缺时可呼叫Titan Mecha，以重装火力直接碾过Boss和精英",
+      "dimension": "玩法",
+      "excerpt": "Surrounded by monsters? Running low on ammo? Your Titan Mechas are always on standby, ready to deploy. With a brutal aesthetic and overwhelming firepower, they'll crush everything in their path. Bosses or elite foes? They're just minor speed bumps on your rampage.",
+      "url": "https://store.steampowered.com/app/2218400/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每套Power Armor都有专属升级，芯片与三百多项强化还能合成终极装备",
+      "dimension": "玩法",
+      "excerpt": "Each Power Armor boasts unique upgrades—there's always one to suit your playstyle. A vast arsenal of chips will supercharge your combat, combining with over 300 upgrades to maximize the adrenaline rush of every encounter. Mix and match diverse auxiliary equipment to create unique experiences each run, and even synthesize ultimate gear to utterly dominate the battlefield!",
+      "url": "https://store.steampowered.com/app/2218400/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 195150,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 158531,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 15799,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1413087,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 214695,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 214695,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.553108027531525,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2903,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.193529,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "贪婪大地位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/30985b770607e352a550c7084287bdb530fa5caa/ss_30985b770607e352a550c7084287bdb530fa5caa.1920x1080.jpg?t=1784802201",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/30985b770607e352a550c7084287bdb530fa5caa/ss_30985b770607e352a550c7084287bdb530fa5caa.1920x1080.jpg?t=1786455321",
+        "alt": "贪婪大地 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/adbca1b692f41a104f24daf380af60e55a17f543/ss_adbca1b692f41a104f24daf380af60e55a17f543.1920x1080.jpg?t=1786455321",
+        "alt": "贪婪大地 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/4847895e5aa57311f4a4535466c1c2484fb4a450/ss_4847895e5aa57311f4a4535466c1c2484fb4a450.1920x1080.jpg?t=1786455321",
+        "alt": "贪婪大地 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/7717270d9962f686969980c0c58d429175bdfb57/ss_7717270d9962f686969980c0c58d429175bdfb57.1920x1080.jpg?t=1786455321",
+        "alt": "贪婪大地 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/9e9490ba8e805c474c51b6e852fe51cbec0802e7/ss_9e9490ba8e805c474c51b6e852fe51cbec0802e7.1920x1080.jpg?t=1786455321",
+        "alt": "贪婪大地 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/ss_05e908903bd22f8ecab15d392dbf8cdf86b65711.1920x1080.jpg?t=1786455321",
+        "alt": "贪婪大地 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/25be2d593ca6954f14d205806a47fedef7c4742d/ss_25be2d593ca6954f14d205806a47fedef7c4742d.1920x1080.jpg?t=1786455321",
+        "alt": "贪婪大地 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/e220d36cc9adde9954000588953edf2a8fe1edec/ss_e220d36cc9adde9954000588953edf2a8fe1edec.1920x1080.jpg?t=1786455321",
+        "alt": "贪婪大地 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"UNDERDOGS","developers":["One Hamsa"],"publishers":["One Hamsa"],"release_status":"released","release_date":"2024-01-25","tags":["动作冒险","物理模拟","沙盒","动作","轻度Rogue"]},"hooks":[{"text":"五吨机甲的物理暴力乱斗","dimension":"玩法","excerpt":"Rampage through hordes of enemy bots and mechs in unhinged, physics-based, metal-on-metal violence !","url":"https://store.steampowered.com/app/2441700/","label":"证据原文片段"},{"text":"130+武器工具拼出失衡杀戮机","dimension":"玩法","excerpt":"This is a rogue-like with 130+ (!) items, weapons and power tools .","url":"https://store.steampowered.com/app/2441700/","label":"证据原文片段"},{"text":"为救弟弟闯入机甲斗都","dimension":"故事","excerpt":"After all, you're doing this all for him. For a chance to get him into the city and save his life.","url":"https://store.steampowered.com/app/2441700/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":97720,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":231312,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11338,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1955869,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":101064,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":101064,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.0829295913243584,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2856,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.517483,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作冒险、物理模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_a9fa05e7f0d48fbf59872da37ef5106c202a3b44.1920x1080.jpg?t=1784646594","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_a9fa05e7f0d48fbf59872da37ef5106c202a3b44.1920x1080.jpg?t=1784646594","alt":"UNDERDOGS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_6c7d625c9100b307cb5745b4c265dadda153cd28.1920x1080.jpg?t=1784646594","alt":"UNDERDOGS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_61c642f37dc5c0de958797c5dcfdb692ae61c249.1920x1080.jpg?t=1784646594","alt":"UNDERDOGS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_cc021b808ad247452d1a9fe998c3f7790fea0888.1920x1080.jpg?t=1784646594","alt":"UNDERDOGS 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "UNDERDOGS",
+    "developers": [
+      "One Hamsa"
+    ],
+    "publishers": [
+      "One Hamsa"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-25",
+    "tags": [
+      "动作肉鸽",
+      "动作冒险",
+      "物理模拟",
+      "沙盒",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "五吨机甲的物理暴力乱斗",
+      "dimension": "玩法",
+      "excerpt": "Rampage through hordes of enemy bots and mechs in unhinged, physics-based, metal-on-metal violence !",
+      "url": "https://store.steampowered.com/app/2441700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "130+武器工具拼出失衡杀戮机",
+      "dimension": "玩法",
+      "excerpt": "This is a rogue-like with 130+ (!) items, weapons and power tools .",
+      "url": "https://store.steampowered.com/app/2441700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "为救弟弟闯入机甲斗都",
+      "dimension": "故事",
+      "excerpt": "After all, you're doing this all for him. For a chance to get him into the city and save his life.",
+      "url": "https://store.steampowered.com/app/2441700/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 101325,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 232683,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11419,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2029259,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 104832,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 104832,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.15472433580694,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2770,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.181162,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "UNDERDOGS位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_a9fa05e7f0d48fbf59872da37ef5106c202a3b44.1920x1080.jpg?t=1784646594",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_a9fa05e7f0d48fbf59872da37ef5106c202a3b44.1920x1080.jpg?t=1786370744",
+        "alt": "UNDERDOGS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_6c7d625c9100b307cb5745b4c265dadda153cd28.1920x1080.jpg?t=1786370744",
+        "alt": "UNDERDOGS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_61c642f37dc5c0de958797c5dcfdb692ae61c249.1920x1080.jpg?t=1786370744",
+        "alt": "UNDERDOGS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_cc021b808ad247452d1a9fe998c3f7790fea0888.1920x1080.jpg?t=1786370744",
+        "alt": "UNDERDOGS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_ca36b5d9ac4b57dc7d4283c0b3b2e3b83b5f079e.1920x1080.jpg?t=1786370744",
+        "alt": "UNDERDOGS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_f62e1941647eac2dbc19524696ffd8aeccc151dd.1920x1080.jpg?t=1786370744",
+        "alt": "UNDERDOGS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_2487afc13020721abe42b896d75bfa5ddec2190a.1920x1080.jpg?t=1786370744",
+        "alt": "UNDERDOGS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/ss_06d1ed3ec86654c8c1e8ebb045072ea34cebadec.1920x1080.jpg?t=1786370744",
+        "alt": "UNDERDOGS 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

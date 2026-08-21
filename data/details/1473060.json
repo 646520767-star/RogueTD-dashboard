@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Reality Break","developers":["Element Games, LLC"],"publishers":["Element Games, LLC","Gamersky Games"],"release_status":"released","release_date":"2025-02-10","tags":["动作角色扮演","轻度Rogue","刷宝","制作","科幻"]},"hooks":[{"text":"改写宇宙规则，把掉落、任务与难度都变成可编辑系统","dimension":"玩法","excerpt":"Reality Break is a fast-paced ARPG with many interlocking systems and an opt-in roguelite structure, all of which is modifiable via a new Rewrite mechanic that allows you to alter the fundamental nature of the gameplay for unparalleled build customization.","url":"https://store.steampowered.com/app/1473060/","label":"证据原文片段"},{"text":"重置时间线，积累现实点数解锁跨周目成长","dimension":"玩法","excerpt":"Each time you reset, you will gain Reality Points which can be allocated to talents that majorly alter reality itself, applying those changes to both current and future pilots via a metagame talent system.","url":"https://store.steampowered.com/app/1473060/","label":"证据原文片段"},{"text":"穿梭多条时间线，改写旧事件并揭开现实力量的真相","dimension":"故事","excerpt":"With each timeline, you unlock new shocking secrets, change the outcome of previous scenarios and reveal new ways of looking at the universe.","url":"https://store.steampowered.com/app/1473060/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":30545,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":59734,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5880,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":551701,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":32758,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":32758,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.64562200736987,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":715,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.681564,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作角色扮演、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_d299e18293e3f52db9029381a39be61f0fbe80e1.1920x1080.jpg?t=1780164586","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_d299e18293e3f52db9029381a39be61f0fbe80e1.1920x1080.jpg?t=1780164586","alt":"轮回的瓦尔基里 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_cce2d4eaaf5587a60c31f8e41f37ca19be6b654c.1920x1080.jpg?t=1780164586","alt":"轮回的瓦尔基里 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_17ea9befa25a7309c30c82b1b4a2a3b1511f55f5.1920x1080.jpg?t=1780164586","alt":"轮回的瓦尔基里 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_81cc6a4b7222381b2d6b522468c58c67e6936181.1920x1080.jpg?t=1780164586","alt":"轮回的瓦尔基里 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Reality Break",
+    "developers": [
+      "Element Games, LLC"
+    ],
+    "publishers": [
+      "Element Games, LLC",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-02-10",
+    "tags": [
+      "动作角色扮演",
+      "轻度Rogue",
+      "刷宝",
+      "太空",
+      "制作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "改写宇宙规则，把掉落、任务与难度都变成可编辑系统",
+      "dimension": "玩法",
+      "excerpt": "Reality Break is a fast-paced ARPG with many interlocking systems and an opt-in roguelite structure, all of which is modifiable via a new Rewrite mechanic that allows you to alter the fundamental nature of the gameplay for unparalleled build customization.",
+      "url": "https://store.steampowered.com/app/1473060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "重置时间线，积累现实点数解锁跨周目成长",
+      "dimension": "玩法",
+      "excerpt": "Each time you reset, you will gain Reality Points which can be allocated to talents that majorly alter reality itself, applying those changes to both current and future pilots via a metagame talent system.",
+      "url": "https://store.steampowered.com/app/1473060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "穿梭多条时间线，改写旧事件并揭开现实力量的真相",
+      "dimension": "故事",
+      "excerpt": "With each timeline, you unlock new shocking secrets, change the outcome of previous scenarios and reveal new ways of looking at the universe.",
+      "url": "https://store.steampowered.com/app/1473060/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 30807,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 60088,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5881,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 548806,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 33061,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 33061,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.74855392388196,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 649,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.475661,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "轮回的瓦尔基里位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_d299e18293e3f52db9029381a39be61f0fbe80e1.1920x1080.jpg?t=1780164586",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_d299e18293e3f52db9029381a39be61f0fbe80e1.1920x1080.jpg?t=1786206706",
+        "alt": "轮回的瓦尔基里 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_cce2d4eaaf5587a60c31f8e41f37ca19be6b654c.1920x1080.jpg?t=1786206706",
+        "alt": "轮回的瓦尔基里 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_17ea9befa25a7309c30c82b1b4a2a3b1511f55f5.1920x1080.jpg?t=1786206706",
+        "alt": "轮回的瓦尔基里 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_81cc6a4b7222381b2d6b522468c58c67e6936181.1920x1080.jpg?t=1786206706",
+        "alt": "轮回的瓦尔基里 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_b1647884a43dc5f85562294d5ef690ef07762ba4.1920x1080.jpg?t=1786206706",
+        "alt": "轮回的瓦尔基里 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_c914e570152640ab03d6372d933c852be18346b1.1920x1080.jpg?t=1786206706",
+        "alt": "轮回的瓦尔基里 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_ea36730c069962dd8853934aa7d799d3905ef4cf.1920x1080.jpg?t=1786206706",
+        "alt": "轮回的瓦尔基里 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473060/ss_da35d03c7fa2d3429fcf0f36d05726cc995ed8d7.1920x1080.jpg?t=1786206706",
+        "alt": "轮回的瓦尔基里 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

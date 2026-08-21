@@ -1,1 +1,179 @@
-{"identity":{"original_title":"MULLET MADJACK","developers":["HAMMER95"],"publishers":["Epopeia Games","HAMMER95"],"release_status":"released","release_date":"2024-05-15","tags":["街机","动作","赛博朋克","单人游戏","动漫风格"]},"hooks":[{"text":"生命就是十秒倒计时，必须不断击杀才能续命","dimension":"玩法","excerpt":"You are MULLET MAD JACK, and you must kill enemies to refill your 10 SECONDS OF LIFE!","url":"https://store.steampowered.com/app/2111190/","label":"证据原文片段"},{"text":"每上一层都重新构筑角色，并嵌入完整动画叙事","dimension":"玩法","excerpt":"Cleverly build your character every FLOOR, in a fully-fledge NARRATIVE with small roguelite elements.","url":"https://store.steampowered.com/app/2111190/","label":"证据原文片段"},{"text":"随机无尽模式之外，还有完全取消计时器的经典模式","dimension":"玩法","excerpt":"You can play the game forever in random levels on ENDLESS MODE • A CLASSIC MODE with no TIMER if you want a traditional campaign","url":"https://store.steampowered.com/app/2111190/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":175161,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":673598,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":29650,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2568648,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":193800,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":193800,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.117051704079827,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":9360,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.683604,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"街机、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_b29d24d0e6947d7c9665a422196ddd53d38e613b.1920x1080.jpg?t=1765391765","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_b29d24d0e6947d7c9665a422196ddd53d38e613b.1920x1080.jpg?t=1765391765","alt":"MULLET MADJACK 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_07fc22bc458406e0030e8774ae87461420c09d46.1920x1080.jpg?t=1765391765","alt":"MULLET MADJACK 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_f397e42c1a7c7ef5507c063edf2a576d5d7f4868.1920x1080.jpg?t=1765391765","alt":"MULLET MADJACK 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_9721e68e39c26b644fd7f0215ab0aeb2dbb826ea.1920x1080.jpg?t=1765391765","alt":"MULLET MADJACK 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "MULLET MADJACK",
+    "developers": [
+      "HAMMER95"
+    ],
+    "publishers": [
+      "Epopeia Games",
+      "HAMMER95"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-15",
+    "tags": [
+      "轻度Rogue",
+      "轻度Rogue",
+      "轻度Rogue",
+      "街机",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "生命就是十秒倒计时，必须不断击杀才能续命",
+      "dimension": "玩法",
+      "excerpt": "You are MULLET MAD JACK, and you must kill enemies to refill your 10 SECONDS OF LIFE!",
+      "url": "https://store.steampowered.com/app/2111190/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每上一层都重新构筑角色，并嵌入完整动画叙事",
+      "dimension": "玩法",
+      "excerpt": "Cleverly build your character every FLOOR, in a fully-fledge NARRATIVE with small roguelite elements.",
+      "url": "https://store.steampowered.com/app/2111190/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "随机无尽模式之外，还有完全取消计时器的经典模式",
+      "dimension": "玩法",
+      "excerpt": "You can play the game forever in random levels on ENDLESS MODE • A CLASSIC MODE with no TIMER if you want a traditional campaign",
+      "url": "https://store.steampowered.com/app/2111190/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 178352,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 673755,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 29753,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2612299,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 197334,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 197334,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.9565096748941535,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 8160,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.664835,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "MULLET MADJACK位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_b29d24d0e6947d7c9665a422196ddd53d38e613b.1920x1080.jpg?t=1765391765",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_b29d24d0e6947d7c9665a422196ddd53d38e613b.1920x1080.jpg?t=1765391765",
+        "alt": "MULLET MADJACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_07fc22bc458406e0030e8774ae87461420c09d46.1920x1080.jpg?t=1765391765",
+        "alt": "MULLET MADJACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_f397e42c1a7c7ef5507c063edf2a576d5d7f4868.1920x1080.jpg?t=1765391765",
+        "alt": "MULLET MADJACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_9721e68e39c26b644fd7f0215ab0aeb2dbb826ea.1920x1080.jpg?t=1765391765",
+        "alt": "MULLET MADJACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_e3d2324968e3e101b961350430d344da1de1732e.1920x1080.jpg?t=1765391765",
+        "alt": "MULLET MADJACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_e7dd428121728e5b029cb6f1c8ec7fd5f44f9a4c.1920x1080.jpg?t=1765391765",
+        "alt": "MULLET MADJACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_93c0359abb8206d44d46e863fe47774eb2a2e906.1920x1080.jpg?t=1765391765",
+        "alt": "MULLET MADJACK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111190/ss_643a8d0aea5d4637d9e6063a1c60b31b45285625.1920x1080.jpg?t=1765391765",
+        "alt": "MULLET MADJACK 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,180 @@
-{"identity":{"original_title":"RIFTSTORM","developers":["Confiction Labs","Agate"],"publishers":["Confiction Labs"],"release_status":"coming_soon","release_date":"2026-08-11","tags":["动作角色扮演","玩家对环境","在线合作","轻度Rogue","等距视角"]},"hooks":[{"text":"最多三人进入逐步升级的异常区，在继续深入争取战利品与及时撤离之间押注。","dimension":"玩法","excerpt":"Deploy alone or with up to two friends and take the fight into unstable mythic combat zones where every mission is another chance to bring something dangerous back alive — or make sure it never returns.","url":"https://store.steampowered.com/app/2282790/","label":"证据原文片段"},{"text":"任务中的Lythogram升级可重塑流派，叠加修正并触发协同。","dimension":"玩法","excerpt":"Wield experimental weapons, manipulate rift energy, and harness in-mission Lythogram upgrades to reshape your builds and playstyles mid-mission. Stack modifiers. Trigger synergies.","url":"https://store.steampowered.com/app/2282790/","label":"证据原文片段"},{"text":"撤离失败不仅丢失任务所得，带入武器还会随机替换一项模组为负面疤痕。","dimension":"玩法","excerpt":"If you fail to extract, not only will you lose everything you’ve found on mission, and the weapons you brought will not come back unscathed. Scarred Weapons will replace one of its weapon mods with a random negative mod.","url":"https://store.steampowered.com/app/2282790/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":null,"unit":"份","state":"not_applicable","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":58991,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5272,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":null,"unit":"USD","state":"not_applicable","date":"2026-07-23"},{"id":"players","label":"玩家数","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":null,"unit":"小时","state":"not_applicable","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":null,"unit":"条","state":"not_applicable","date":"2026-07-23"},{"id":"score","label":"评分","value":null,"unit":"分","state":"not_applicable","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":null,"unit":"%","state":"not_applicable","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"持续跟踪","target":"发售日期、愿望单、关注人数与首批官方评论","reason":"产品位于受期待新品池，发售前指标与发行节点是当前最可执行的观察对象。","trigger":"正式发售，或愿望单、关注、评论状态出现同口径新快照。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/e484386d9c214c36e9f0b7bf59d40ff2807241c6/ss_e484386d9c214c36e9f0b7bf59d40ff2807241c6.1920x1080.jpg?t=1784536631","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/e484386d9c214c36e9f0b7bf59d40ff2807241c6/ss_e484386d9c214c36e9f0b7bf59d40ff2807241c6.1920x1080.jpg?t=1784536631","alt":"RIFTSTORM 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/9e245764cd4ad54f8ffd9a45fa578c51fb59a6b6/ss_9e245764cd4ad54f8ffd9a45fa578c51fb59a6b6.1920x1080.jpg?t=1784536631","alt":"RIFTSTORM 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/448924dec4f5a40acea6f00417c7e338d4e4d8f3/ss_448924dec4f5a40acea6f00417c7e338d4e4d8f3.1920x1080.jpg?t=1784536631","alt":"RIFTSTORM 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/33846cd816ada944f8f26e71fd0a443874436c17/ss_33846cd816ada944f8f26e71fd0a443874436c17.1920x1080.jpg?t=1784536631","alt":"RIFTSTORM 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "RIFTSTORM",
+    "developers": [
+      "Confiction Labs",
+      "Agate"
+    ],
+    "publishers": [
+      "Confiction Labs",
+      "Gamersky Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-08-11",
+    "tags": [
+      "在线合作",
+      "轻度Rogue",
+      "玩家对环境",
+      "轻度Rogue",
+      "动作角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "最多三人进入逐步升级的异常区，在继续深入争取战利品与及时撤离之间押注。",
+      "dimension": "玩法",
+      "excerpt": "Deploy alone or with up to two friends and take the fight into unstable mythic combat zones where every mission is another chance to bring something dangerous back alive — or make sure it never returns.",
+      "url": "https://store.steampowered.com/app/2282790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "任务中的Lythogram升级可重塑流派，叠加修正并触发协同。",
+      "dimension": "玩法",
+      "excerpt": "Wield experimental weapons, manipulate rift energy, and harness in-mission Lythogram upgrades to reshape your builds and playstyles mid-mission. Stack modifiers. Trigger synergies.",
+      "url": "https://store.steampowered.com/app/2282790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "撤离失败不仅丢失任务所得，带入武器还会随机替换一项模组为负面疤痕。",
+      "dimension": "玩法",
+      "excerpt": "If you fail to extract, not only will you lose everything you’ve found on mission, and the weapons you brought will not come back unscathed. Scarred Weapons will replace one of its weapon mods with a random negative mod.",
+      "url": "https://store.steampowered.com/app/2282790/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 16132,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 102278,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7165,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 174080,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 16979,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 16979,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.184665614246659,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 365,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 71,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 70.549451,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "RIFTSTORM位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/e484386d9c214c36e9f0b7bf59d40ff2807241c6/ss_e484386d9c214c36e9f0b7bf59d40ff2807241c6.1920x1080.jpg?t=1784536631",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/4cfffa9ab1d1e0676e5d7bacafb25838d1a5498f/ss_4cfffa9ab1d1e0676e5d7bacafb25838d1a5498f.1920x1080.jpg?t=1786591238",
+        "alt": "RIFTSTORM 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/ba6a9563e30b4e2f39667a64eaaa015b968d5f9c/ss_ba6a9563e30b4e2f39667a64eaaa015b968d5f9c.1920x1080.jpg?t=1786591238",
+        "alt": "RIFTSTORM 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/f0dae3d491a6bccc6fa18c2b13ceac61ad6d4612/ss_f0dae3d491a6bccc6fa18c2b13ceac61ad6d4612.1920x1080.jpg?t=1786591238",
+        "alt": "RIFTSTORM 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/60b6d2b53b8755cc983eff51ce214ff52656fa4e/ss_60b6d2b53b8755cc983eff51ce214ff52656fa4e.1920x1080.jpg?t=1786591238",
+        "alt": "RIFTSTORM 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/e5bc5859a2bbd98d34b30a0957863109ee7d3e83/ss_e5bc5859a2bbd98d34b30a0957863109ee7d3e83.1920x1080.jpg?t=1786591238",
+        "alt": "RIFTSTORM 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/69843ce213f7a2abd54147cb5123435e27a586bc/ss_69843ce213f7a2abd54147cb5123435e27a586bc.1920x1080.jpg?t=1786591238",
+        "alt": "RIFTSTORM 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/757fcaed61349b69483bfcd796411df9f5cd4503/ss_757fcaed61349b69483bfcd796411df9f5cd4503.1920x1080.jpg?t=1786591238",
+        "alt": "RIFTSTORM 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282790/2b16f0e6856926e9a371d82b864a42a9fcefcd55/ss_2b16f0e6856926e9a371d82b864a42a9fcefcd55.1920x1080.jpg?t=1786591238",
+        "alt": "RIFTSTORM 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

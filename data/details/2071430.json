@@ -1,1 +1,289 @@
-{"identity":{"original_title":"Roots of Yggdrasil","developers":["ManaVoid Entertainment"],"publishers":["ManaVoid Entertainment","Indie Asylum"],"release_status":"released","release_date":"2024-09-06","tags":["卡组构筑","女性主角","类Rogue","回合制策略","独立游戏"]},"hooks":[{"text":"聚落必须赶在Ginnungagap吞噬前推进，失败后带着知识重启循环","dimension":"玩法","excerpt":"Players’ settlements will constantly be in a race against time to avoid the Ginnungagap. Each failure will bring them back to the beginning of their adventure, where they can start anew with more knowledge and a better mastery of the game mechanics.","url":"https://store.steampowered.com/app/2071430/","label":"证据原文片段"},{"text":"永久可定制枢纽Holt解锁新机制与跨局升级，帮助部族重建","dimension":"玩法","excerpt":"The Holt is your permanent, customizable home and acts as the main hub of the game. Unlock new mechanics and permanent upgrades that will help you rebuild your tribe!","url":"https://store.steampowered.com/app/2071430/","label":"证据原文片段"},{"text":"每轮开始增删建筑卡，牌组直接决定该循环可用建筑与发展机会","dimension":"玩法","excerpt":"Before each run, add and remove building cards to your deck to create different challenges and opportunities each time.","url":"https://store.steampowered.com/app/2071430/","label":"证据原文片段"}],"opinions":[{"text":"控制器支持故障到无法使用。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"controller support is bugged to the point of being unusable.","url":"https://steamcommunity.com/profiles/76561198389802904/recommended/2071430/","label":"证据原文片段"}]},{"text":"多局之间变化不足","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Not enough changes between games","url":"https://steamcommunity.com/profiles/76561197976834325/recommended/2071430/","label":"证据原文片段"}]},{"text":"增加难度更像增加繁琐而非挑战。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Adding difficulty feels more tedious than it is challenging.","url":"https://steamcommunity.com/profiles/76561198353853879/recommended/2071430/","label":"证据原文片段"}]},{"text":"元进程奖励过小，缺乏存在感。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the rewards are so small and trivial they feel like they don't matter at all.","url":"https://steamcommunity.com/profiles/76561197976834325/recommended/2071430/","label":"证据原文片段"}]},{"text":"每轮城市建造容易让玩家继续再开一局。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"overwhelming desire to build one more town before bed.","url":"https://store.steampowered.com/curator/37765117-Made-For-Gamers/","label":"证据原文片段"}]},{"text":"资源扩张与限时竞速结合得深而放松。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"deep but chill resource/expansion race-against-time game.","url":"https://steamcommunity.com/profiles/76561197972370664/recommended/2071430/","label":"证据原文片段"}]},{"text":"拼图玩法和机制出色","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Overall, great puzzle game, great mechanics","url":"https://steamcommunity.com/id/dande48/recommended/2071430/","label":"证据原文片段"}]},{"text":"多个类型系统能直观地协同运作。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"It's very intuitive and all works reasonably well together.","url":"https://steamcommunity.com/profiles/76561197972370664/recommended/2071430/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":17826,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":72443,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6555,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":188466,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":20426,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":20426,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.864612454610584,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":363,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.225895,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["技术/性能：控制器支持故障到无法使用。","多局之间变化不足","增加难度更像增加繁琐而非挑战。","元进程奖励过小，缺乏存在感。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_50a084941aefad64758fcb87577105410f6a3932.1920x1080.jpg?t=1745413798","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_50a084941aefad64758fcb87577105410f6a3932.1920x1080.jpg?t=1745413798","alt":"Roots of Yggdrasil 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_31acdab31eb97d47a893e1fe9ab086b274c26d84.1920x1080.jpg?t=1745413798","alt":"Roots of Yggdrasil 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_961390247835df6dadde418bff509c5033078e6c.1920x1080.jpg?t=1745413798","alt":"Roots of Yggdrasil 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_7e73e158ca3ed35b6fa0452ec47469e92fdc5eac.1920x1080.jpg?t=1745413798","alt":"Roots of Yggdrasil 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Roots of Yggdrasil",
+    "developers": [
+      "ManaVoid Entertainment"
+    ],
+    "publishers": [
+      "ManaVoid Entertainment",
+      "Indie Asylum"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-06",
+    "tags": [
+      "卡组构筑",
+      "女性主角",
+      "塔防",
+      "类Rogue",
+      "回合制策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "聚落必须赶在Ginnungagap吞噬前推进，失败后带着知识重启循环",
+      "dimension": "玩法",
+      "excerpt": "Players’ settlements will constantly be in a race against time to avoid the Ginnungagap. Each failure will bring them back to the beginning of their adventure, where they can start anew with more knowledge and a better mastery of the game mechanics.",
+      "url": "https://store.steampowered.com/app/2071430/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "永久可定制枢纽Holt解锁新机制与跨局升级，帮助部族重建",
+      "dimension": "玩法",
+      "excerpt": "The Holt is your permanent, customizable home and acts as the main hub of the game. Unlock new mechanics and permanent upgrades that will help you rebuild your tribe!",
+      "url": "https://store.steampowered.com/app/2071430/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮开始增删建筑卡，牌组直接决定该循环可用建筑与发展机会",
+      "dimension": "玩法",
+      "excerpt": "Before each run, add and remove building cards to your deck to create different challenges and opportunities each time.",
+      "url": "https://store.steampowered.com/app/2071430/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "控制器支持故障到无法使用。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "controller support is bugged to the point of being unusable.",
+          "url": "https://steamcommunity.com/profiles/76561198389802904/recommended/2071430/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多局之间变化不足",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Not enough changes between games",
+          "url": "https://steamcommunity.com/profiles/76561197976834325/recommended/2071430/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "增加难度更像增加繁琐而非挑战。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Adding difficulty feels more tedious than it is challenging.",
+          "url": "https://steamcommunity.com/profiles/76561198353853879/recommended/2071430/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "元进程奖励过小，缺乏存在感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the rewards are so small and trivial they feel like they don't matter at all.",
+          "url": "https://steamcommunity.com/profiles/76561197976834325/recommended/2071430/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "每轮城市建造容易让玩家继续再开一局。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "overwhelming desire to build one more town before bed.",
+          "url": "https://store.steampowered.com/curator/37765117-Made-For-Gamers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "资源扩张与限时竞速结合得深而放松。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "deep but chill resource/expansion race-against-time game.",
+          "url": "https://steamcommunity.com/profiles/76561197972370664/recommended/2071430/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "拼图玩法和机制出色",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Overall, great puzzle game, great mechanics",
+          "url": "https://steamcommunity.com/id/dande48/recommended/2071430/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多个类型系统能直观地协同运作。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "It's very intuitive and all works reasonably well together.",
+          "url": "https://steamcommunity.com/profiles/76561197972370664/recommended/2071430/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 19204,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 74151,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6541,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 213463,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 21987,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 21987,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.808725637101357,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 299,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.027397,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "技术/性能：控制器支持故障到无法使用。",
+    "多局之间变化不足",
+    "增加难度更像增加繁琐而非挑战。",
+    "元进程奖励过小，缺乏存在感。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Roots of Yggdrasil位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_50a084941aefad64758fcb87577105410f6a3932.1920x1080.jpg?t=1745413798",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_50a084941aefad64758fcb87577105410f6a3932.1920x1080.jpg?t=1745413798",
+        "alt": "Roots of Yggdrasil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_31acdab31eb97d47a893e1fe9ab086b274c26d84.1920x1080.jpg?t=1745413798",
+        "alt": "Roots of Yggdrasil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_961390247835df6dadde418bff509c5033078e6c.1920x1080.jpg?t=1745413798",
+        "alt": "Roots of Yggdrasil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_7e73e158ca3ed35b6fa0452ec47469e92fdc5eac.1920x1080.jpg?t=1745413798",
+        "alt": "Roots of Yggdrasil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_c2f86bace263f054cd4390cf53e8e460385844de.1920x1080.jpg?t=1745413798",
+        "alt": "Roots of Yggdrasil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_e9148af7c07b5b151e42ffa5246c6ee7fc870054.1920x1080.jpg?t=1745413798",
+        "alt": "Roots of Yggdrasil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_afb24a1d4aaeb16f44b5dbfe2e2694a3999953ac.1920x1080.jpg?t=1745413798",
+        "alt": "Roots of Yggdrasil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071430/ss_267a06500863912762d50290a8f3a485bc425edf.1920x1080.jpg?t=1745413798",
+        "alt": "Roots of Yggdrasil 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

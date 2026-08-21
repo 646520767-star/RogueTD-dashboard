@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Backpack Battles","developers":["PlayWithFurcifer"],"publishers":["IndieArk","Shochiku (Japan)"],"release_status":"released","release_date":"2025-06-13","tags":["自走棋","策略","玩家对战","肉鸽卡组构筑","多人游戏"]},"hooks":[{"text":"背包内物品摆位直接决定自动战斗强度","dimension":"玩法","excerpt":"In Backpack Battles, you fight with your backpack full of items. It matters what you buy, and especially how you place it! The smarter you place your items, the stronger you will be!","url":"https://store.steampowered.com/app/2427700/","label":"证据原文片段"},{"text":"500余种异形物品可合成药水、神兵与龙伙伴","dimension":"玩法","excerpt":"Items come in different shapes, sizes, prices, and rarities. Combine them into even stronger equipment. Brew a powerful potion, craft a legendary weapon, or hatch a dragon friend! There are over 500 different items to choose from!","url":"https://store.steampowered.com/app/2427700/","label":"证据原文片段"},{"text":"七职业各带五分支形成暴击、毒伤或松鼠流派","dimension":"玩法","excerpt":"Pick one of 7 classes depending on your play style, each of them with 5 subclasses ! Do you want heavy crits or poison damage over time? Or squirrels ?","url":"https://store.steampowered.com/app/2427700/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1529220,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":688852,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":54974,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":14376452,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1626242,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1626242,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":33.65225177612246,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":20486,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.296287,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"自走棋、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/9f13e6549c1b38635a03cf3b7941843424ed96cd/ss_9f13e6549c1b38635a03cf3b7941843424ed96cd.1920x1080.jpg?t=1778121458","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/9f13e6549c1b38635a03cf3b7941843424ed96cd/ss_9f13e6549c1b38635a03cf3b7941843424ed96cd.1920x1080.jpg?t=1778121458","alt":"背包乱斗：福西法的宝藏 Backpack Battles 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/1dba72e799e0b9a760450761e90c727c43071d30/ss_1dba72e799e0b9a760450761e90c727c43071d30.1920x1080.jpg?t=1778121458","alt":"背包乱斗：福西法的宝藏 Backpack Battles 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/ss_890b9067455b70f8fabf299d65bba1e23a30f195.1920x1080.jpg?t=1778121458","alt":"背包乱斗：福西法的宝藏 Backpack Battles 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/ss_2e3b924ccf1d2aeed2e56f7a7d066d30accc0ad6.1920x1080.jpg?t=1778121458","alt":"背包乱斗：福西法的宝藏 Backpack Battles 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Backpack Battles",
+    "developers": [
+      "PlayWithFurcifer"
+    ],
+    "publishers": [
+      "IndieArk",
+      "Shochiku (Japan)"
+    ],
+    "release_status": "released",
+    "release_date": "2025-06-13",
+    "tags": [
+      "自走棋",
+      "轻度Rogue",
+      "策略",
+      "玩家对战",
+      "肉鸽卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "背包内物品摆位直接决定自动战斗强度",
+      "dimension": "玩法",
+      "excerpt": "In Backpack Battles, you fight with your backpack full of items. It matters what you buy, and especially how you place it! The smarter you place your items, the stronger you will be!",
+      "url": "https://store.steampowered.com/app/2427700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "500余种异形物品可合成药水、神兵与龙伙伴",
+      "dimension": "玩法",
+      "excerpt": "Items come in different shapes, sizes, prices, and rarities. Combine them into even stronger equipment. Brew a powerful potion, craft a legendary weapon, or hatch a dragon friend! There are over 500 different items to choose from!",
+      "url": "https://store.steampowered.com/app/2427700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "七职业各带五分支形成暴击、毒伤或松鼠流派",
+      "dimension": "玩法",
+      "excerpt": "Pick one of 7 classes depending on your play style, each of them with 5 subclasses ! Do you want heavy crits or poison damage over time? Or squirrels ?",
+      "url": "https://store.steampowered.com/app/2427700/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1545956,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 681429,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 55036,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 14498998,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1644116,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1644116,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 33.492946706586935,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 18843,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.234286,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "背包乱斗：福西法的宝藏 Backpack Battles位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/9f13e6549c1b38635a03cf3b7941843424ed96cd/ss_9f13e6549c1b38635a03cf3b7941843424ed96cd.1920x1080.jpg?t=1778121458",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/9f13e6549c1b38635a03cf3b7941843424ed96cd/ss_9f13e6549c1b38635a03cf3b7941843424ed96cd.1920x1080.jpg?t=1778121458",
+        "alt": "背包乱斗：福西法的宝藏 Backpack Battles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/1dba72e799e0b9a760450761e90c727c43071d30/ss_1dba72e799e0b9a760450761e90c727c43071d30.1920x1080.jpg?t=1778121458",
+        "alt": "背包乱斗：福西法的宝藏 Backpack Battles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/ss_890b9067455b70f8fabf299d65bba1e23a30f195.1920x1080.jpg?t=1778121458",
+        "alt": "背包乱斗：福西法的宝藏 Backpack Battles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/ss_2e3b924ccf1d2aeed2e56f7a7d066d30accc0ad6.1920x1080.jpg?t=1778121458",
+        "alt": "背包乱斗：福西法的宝藏 Backpack Battles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/09faa569f22e610890ef86ce860fe8492e0bbb3b/ss_09faa569f22e610890ef86ce860fe8492e0bbb3b.1920x1080.jpg?t=1778121458",
+        "alt": "背包乱斗：福西法的宝藏 Backpack Battles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/ss_bc70f0d943e1b3f0af758a23aa3272a9faf26e9c.1920x1080.jpg?t=1778121458",
+        "alt": "背包乱斗：福西法的宝藏 Backpack Battles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/ss_163eba98a615cc5e45a60f1571b571130d1186b4.1920x1080.jpg?t=1778121458",
+        "alt": "背包乱斗：福西法的宝藏 Backpack Battles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/ss_0bf6a57409465a76c40a6a2db760ec119ec2d814.1920x1080.jpg?t=1778121458",
+        "alt": "背包乱斗：福西法的宝藏 Backpack Battles 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

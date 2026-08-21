@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Hollow Survivors: Prologue","developers":["Danny Deer"],"publishers":["Games Incubator"],"release_status":"released","release_date":"2024-07-24","tags":["类Rogue","动作肉鸽","地牢探索","动作角色扮演","砍杀"]},"hooks":[{"text":"迅捷镰刀与重型巨斧代表速度和力量两种明确战斗路线","dimension":"玩法","excerpt":"Pick a weapon that best suits your combat style. Use a swift scythe to quickly cut down your enemies or wield a great axe to overwhelm them with power.","url":"https://store.steampowered.com/app/2909680/","label":"证据原文片段"},{"text":"死亡后把收集的灵魂投入永久升级，让每次爬塔都比上一局更强","dimension":"玩法","excerpt":"Death is not the end in Hollow Survivors: Prologue. Utilize the souls you gather to purchase permanent upgrades from other Hollows, ensuring that you grow stronger with each run.","url":"https://store.steampowered.com/app/2909680/","label":"证据原文片段"},{"text":"每张灵魂卡都会直接改变角色外观，不同构筑组合对应不同造型","dimension":"画风","excerpt":"Each soul-card you select directly influences your character's appearance . Every unique combination creates a distinct look for the player.","url":"https://store.steampowered.com/app/2909680/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":36312,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1597,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":36312,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":36312,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.06098944139982,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":535,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.897196,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_80bc39daef70497b87c284124db861a8e8e6700c.1920x1080.jpg?t=1744289496","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_80bc39daef70497b87c284124db861a8e8e6700c.1920x1080.jpg?t=1744289496","alt":"Hollow Survivors: Prologue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_5e4ca1bc6491451fa10b91c30e528e018ced0604.1920x1080.jpg?t=1744289496","alt":"Hollow Survivors: Prologue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_1ea657bfac14ac6211c6f439f9b0b79d85d63ef0.1920x1080.jpg?t=1744289496","alt":"Hollow Survivors: Prologue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_1b7ae5a43fbd7f99bdd768e75cb9a4ef7fe32419.1920x1080.jpg?t=1744289496","alt":"Hollow Survivors: Prologue 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Hollow Survivors: Prologue",
+    "developers": [
+      "Danny Deer"
+    ],
+    "publishers": [
+      "Games Incubator"
+    ],
+    "release_status": "released",
+    "release_date": "2024-07-24",
+    "tags": [
+      "类Rogue",
+      "动作肉鸽",
+      "地牢探索",
+      "动作角色扮演",
+      "砍杀"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "迅捷镰刀与重型巨斧代表速度和力量两种明确战斗路线",
+      "dimension": "玩法",
+      "excerpt": "Pick a weapon that best suits your combat style. Use a swift scythe to quickly cut down your enemies or wield a great axe to overwhelm them with power.",
+      "url": "https://store.steampowered.com/app/2909680/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "死亡后把收集的灵魂投入永久升级，让每次爬塔都比上一局更强",
+      "dimension": "玩法",
+      "excerpt": "Death is not the end in Hollow Survivors: Prologue. Utilize the souls you gather to purchase permanent upgrades from other Hollows, ensuring that you grow stronger with each run.",
+      "url": "https://store.steampowered.com/app/2909680/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每张灵魂卡都会直接改变角色外观，不同构筑组合对应不同造型",
+      "dimension": "画风",
+      "excerpt": "Each soul-card you select directly influences your character's appearance . Every unique combination creates a distinct look for the player.",
+      "url": "https://store.steampowered.com/app/2909680/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 36684,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1605,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 36684,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 36684,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.0461004505362124,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 537,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.92365,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Hollow Survivors: Prologue位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_80bc39daef70497b87c284124db861a8e8e6700c.1920x1080.jpg?t=1744289496",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_80bc39daef70497b87c284124db861a8e8e6700c.1920x1080.jpg?t=1744289496",
+        "alt": "Hollow Survivors: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_5e4ca1bc6491451fa10b91c30e528e018ced0604.1920x1080.jpg?t=1744289496",
+        "alt": "Hollow Survivors: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_1ea657bfac14ac6211c6f439f9b0b79d85d63ef0.1920x1080.jpg?t=1744289496",
+        "alt": "Hollow Survivors: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_1b7ae5a43fbd7f99bdd768e75cb9a4ef7fe32419.1920x1080.jpg?t=1744289496",
+        "alt": "Hollow Survivors: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_911de168665f80c45897a4d63edbbd770bd50eb8.1920x1080.jpg?t=1744289496",
+        "alt": "Hollow Survivors: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_ffb37d995c724aecaa04dcbac01cc14f3e0cbc1f.1920x1080.jpg?t=1744289496",
+        "alt": "Hollow Survivors: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_860935a1d12898a62ce303dbcd94cfea3056f4f1.1920x1080.jpg?t=1744289496",
+        "alt": "Hollow Survivors: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909680/ss_7cd46d2c61bf660c4b243dd06e06b94c584e519e.1920x1080.jpg?t=1744289496",
+        "alt": "Hollow Survivors: Prologue 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

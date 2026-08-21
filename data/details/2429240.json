@@ -1,1 +1,373 @@
-{"identity":{"original_title":"Soulslinger: Envoy of Death","developers":["Elder Games"],"publishers":["Headup","Beep Japan Inc."],"release_status":"released","release_date":"2025-04-17","tags":["轻度Rogue","动作肉鸽","奇幻","剧情丰富","动作"]},"hooks":[{"text":"西部奇幻炼狱中对抗收割灵魂的黑帮","dimension":"题材","excerpt":"You are a gunslinger in limbo, involved in a gritty war against \"The Cartel\", a ruthless organization harvesting souls to break free of the shackles of the afterlife.","url":"https://store.steampowered.com/app/2429240/","label":"证据原文片段"},{"text":"每局锻造武器并在Haven解锁永久升级","dimension":"玩法","excerpt":"Forge your own destiny with every run by crafting powerful weapons and unlocking permanent upgrades in Haven.","url":"https://store.steampowered.com/app/2429240/","label":"证据原文片段"},{"text":"故事会根据肉鸽玩法中的行动变化","dimension":"故事","excerpt":"The story adapts to what you do in the roguelike gameplay","url":"https://store.steampowered.com/app/2429240/","label":"证据原文片段"}],"opinions":[{"text":"武器音效缺乏力度与变化。","dimension":"音频","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"weapon audio lacks punch and variety","url":"https://steamcommunity.com/id/demon69696/recommended/2429240/","label":"证据原文片段"}]},{"text":"画面和视觉效果出色。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"great graphics and visuals","url":"https://store.steampowered.com/curator/38624426-Hidden-Gems-Review/","label":"证据原文片段"}]},{"text":"配乐是游戏最突出的元素之一","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The soundtrack is one of the game’s strongest elements.","url":"https://steamcommunity.com/id/demon69696/recommended/2429240/","label":"证据原文片段"}]},{"text":"崩溃会让肉鸽整局进度丢失。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"you'll get a fatal error an lose all progress for the run.","url":"https://steamcommunity.com/profiles/76561198014655028/recommended/2429240/","label":"证据原文片段"}]},{"text":"武器只能携带一把。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"武器只能带一把有点搞","url":"https://steamcommunity.com/profiles/76561198109267304/recommended/2429240/","label":"证据原文片段"}]},{"text":"局外成长别扭且低效。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Meta progression seems very awkward and ineffective","url":"https://steamcommunity.com/profiles/76561198332575949/recommended/2429240/","label":"证据原文片段"}]},{"text":"存在单一可全程碾压的超强技能组合","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"find that 1 overwhelmingly OP skill combo that flat carries you through everything.","url":"https://steamcommunity.com/profiles/76561198043943787/recommended/2429240/","label":"证据原文片段"}]},{"text":"远程击杀后的金币需要走过去拾取且会消失。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"击杀怪物后金币居然要走过去才能拿到否则就会消失","url":"https://steamcommunity.com/profiles/76561198355289614/recommended/2429240/","label":"证据原文片段"}]},{"text":"随机提供大量不适配构筑的无用天赋。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a bunch of trash perks that don't fit into the build","url":"https://steamcommunity.com/profiles/76561198332575949/recommended/2429240/","label":"证据原文片段"}]},{"text":"构筑缺少明显分化。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"builds don’t meaningfully diverge.","url":"https://steamcommunity.com/id/demon69696/recommended/2429240/","label":"证据原文片段"}]},{"text":"敌人可能穿模后无法攻击。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"enemies falling through textures, being unreachable","url":"https://steamcommunity.com/id/Ascate/recommended/2429240/","label":"证据原文片段"}]},{"text":"使用冲刺可能导致致命崩溃。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"fatal crash because I dared to use dash","url":"https://steamcommunity.com/id/Ascate/recommended/2429240/","label":"证据原文片段"}]},{"text":"崩溃会随游玩时间增长几乎必然发生。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"crashing is pretty much guaranteed the longer you play","url":"https://steamcommunity.com/profiles/76561198014655028/recommended/2429240/","label":"证据原文片段"}]},{"text":"角色会无限掉落穿模。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"infinitely falling through textures","url":"https://steamcommunity.com/id/Ascate/recommended/2429240/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":22701,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":141075,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8618,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":244642,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":29163,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":29163,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.028439062013426,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":676,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":64,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":64.254062,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["武器音效缺乏力度与变化。","技术/性能：崩溃会让肉鸽整局进度丢失。","武器只能携带一把。","局外成长别扭且低效。","存在单一可全程碾压的超强技能组合","远程击杀后的金币需要走过去拾取且会消失。","技术/性能：敌人可能穿模后无法攻击。","技术/性能：使用冲刺可能导致致命崩溃。","技术/性能：崩溃会随游玩时间增长几乎必然发生。","技术/性能：角色会无限掉落穿模。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_968b17b31599e7e9378e55731d30b84994eb7da8.1920x1080.jpg?t=1784028538","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_968b17b31599e7e9378e55731d30b84994eb7da8.1920x1080.jpg?t=1784028538","alt":"Soulslinger: Envoy of Death 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_becb4db3f1f134993db57b6cdde9f60ad8c417ad.1920x1080.jpg?t=1784028538","alt":"Soulslinger: Envoy of Death 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_83590cd8dd29b56f00a3a8fa58b24cf902b073d1.1920x1080.jpg?t=1784028538","alt":"Soulslinger: Envoy of Death 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_0423badd06688d8ce950af26f5f8109abe94e3b8.1920x1080.jpg?t=1784028538","alt":"Soulslinger: Envoy of Death 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Soulslinger: Envoy of Death",
+    "developers": [
+      "Elder Games"
+    ],
+    "publishers": [
+      "Headup",
+      "Beep Japan Inc."
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-17",
+    "tags": [
+      "轻度Rogue",
+      "轻度Rogue",
+      "轻度Rogue",
+      "动作肉鸽",
+      "奇幻"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "西部奇幻炼狱中对抗收割灵魂的黑帮",
+      "dimension": "题材",
+      "excerpt": "You are a gunslinger in limbo, involved in a gritty war against \"The Cartel\", a ruthless organization harvesting souls to break free of the shackles of the afterlife.",
+      "url": "https://store.steampowered.com/app/2429240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每局锻造武器并在Haven解锁永久升级",
+      "dimension": "玩法",
+      "excerpt": "Forge your own destiny with every run by crafting powerful weapons and unlocking permanent upgrades in Haven.",
+      "url": "https://store.steampowered.com/app/2429240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "故事会根据肉鸽玩法中的行动变化",
+      "dimension": "故事",
+      "excerpt": "The story adapts to what you do in the roguelike gameplay",
+      "url": "https://store.steampowered.com/app/2429240/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "武器音效缺乏力度与变化。",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "weapon audio lacks punch and variety",
+          "url": "https://steamcommunity.com/id/demon69696/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "画面和视觉效果出色。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "great graphics and visuals",
+          "url": "https://store.steampowered.com/curator/38624426-Hidden-Gems-Review/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "配乐是游戏最突出的元素之一",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The soundtrack is one of the game’s strongest elements.",
+          "url": "https://steamcommunity.com/id/demon69696/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "崩溃会让肉鸽整局进度丢失。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "you'll get a fatal error an lose all progress for the run.",
+          "url": "https://steamcommunity.com/profiles/76561198014655028/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器只能携带一把。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "武器只能带一把有点搞",
+          "url": "https://steamcommunity.com/profiles/76561198109267304/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局外成长别扭且低效。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Meta progression seems very awkward and ineffective",
+          "url": "https://steamcommunity.com/profiles/76561198332575949/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "存在单一可全程碾压的超强技能组合",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "find that 1 overwhelmingly OP skill combo that flat carries you through everything.",
+          "url": "https://steamcommunity.com/profiles/76561198043943787/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "远程击杀后的金币需要走过去拾取且会消失。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "击杀怪物后金币居然要走过去才能拿到否则就会消失",
+          "url": "https://steamcommunity.com/profiles/76561198355289614/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "随机提供大量不适配构筑的无用天赋。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a bunch of trash perks that don't fit into the build",
+          "url": "https://steamcommunity.com/profiles/76561198332575949/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "构筑缺少明显分化。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "builds don’t meaningfully diverge.",
+          "url": "https://steamcommunity.com/id/demon69696/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人可能穿模后无法攻击。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "enemies falling through textures, being unreachable",
+          "url": "https://steamcommunity.com/id/Ascate/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "使用冲刺可能导致致命崩溃。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "fatal crash because I dared to use dash",
+          "url": "https://steamcommunity.com/id/Ascate/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "崩溃会随游玩时间增长几乎必然发生。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "crashing is pretty much guaranteed the longer you play",
+          "url": "https://steamcommunity.com/profiles/76561198014655028/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色会无限掉落穿模。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "infinitely falling through textures",
+          "url": "https://steamcommunity.com/id/Ascate/recommended/2429240/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 23910,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 143190,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8621,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 253865,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 30748,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 30748,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.115169250586349,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 466,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 64,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 63.836018,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "武器音效缺乏力度与变化。",
+    "技术/性能：崩溃会让肉鸽整局进度丢失。",
+    "武器只能携带一把。",
+    "局外成长别扭且低效。",
+    "存在单一可全程碾压的超强技能组合",
+    "远程击杀后的金币需要走过去拾取且会消失。",
+    "技术/性能：敌人可能穿模后无法攻击。",
+    "技术/性能：使用冲刺可能导致致命崩溃。",
+    "技术/性能：崩溃会随游玩时间增长几乎必然发生。",
+    "技术/性能：角色会无限掉落穿模。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Soulslinger: Envoy of Death位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_968b17b31599e7e9378e55731d30b84994eb7da8.1920x1080.jpg?t=1784028538",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_968b17b31599e7e9378e55731d30b84994eb7da8.1920x1080.jpg?t=1784028538",
+        "alt": "Soulslinger: Envoy of Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_becb4db3f1f134993db57b6cdde9f60ad8c417ad.1920x1080.jpg?t=1784028538",
+        "alt": "Soulslinger: Envoy of Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_83590cd8dd29b56f00a3a8fa58b24cf902b073d1.1920x1080.jpg?t=1784028538",
+        "alt": "Soulslinger: Envoy of Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_0423badd06688d8ce950af26f5f8109abe94e3b8.1920x1080.jpg?t=1784028538",
+        "alt": "Soulslinger: Envoy of Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_ed455287e205b9b04cc69eb3ea7d35a36667b4d4.1920x1080.jpg?t=1784028538",
+        "alt": "Soulslinger: Envoy of Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_9d998f96679316342ff3a1b3ce5efe5c3d862981.1920x1080.jpg?t=1784028538",
+        "alt": "Soulslinger: Envoy of Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_e6a958684d8401b3263821ca24fce4b0bb2ac699.1920x1080.jpg?t=1784028538",
+        "alt": "Soulslinger: Envoy of Death 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429240/ss_f132b90422f27b41f3ee76415233ff6ac9f980ad.1920x1080.jpg?t=1784028538",
+        "alt": "Soulslinger: Envoy of Death 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

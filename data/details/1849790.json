@@ -1,1 +1,186 @@
-{"identity":{"original_title":"Uncle Chop's Rocket Shop","developers":["Beard Envy"],"publishers":["Kasedo Games"],"release_status":"released","release_date":"2024-12-05","tags":["冒险","模拟","经营管理","解谜","轻度Rogue"]},"hooks":[{"text":"在每日时限内用工具和诊断设备修复程序生成的飞船模块","dimension":"玩法","excerpt":"Fix Stuff Using a range of tools, diagnostic devices, parts and workshop appliances, you’ll be correcting faults in the modules of procedurally generated spaceships. From simple refuel jobs to total overhauls, get ready to frantically fumble, slice, loosen, tighten, grab and drop as you try to complete as many jobs as you can within each daily time limit.","url":"https://store.steampowered.com/app/1849790/","label":"证据原文片段"},{"text":"查阅维修手册与图解，按步骤诊断模块并操作工坊设备","dimension":"玩法","excerpt":"Read Stuff Flaunt your basic literacy by consulting manual pages for guidance on diagnosing and correcting faults in spaceship modules, as well as operating workshop appliances. And if basic literacy isn’t your bag, then at least you’ve got pretty diagrams to gawp at!","url":"https://store.steampowered.com/app/1849790/","label":"证据原文片段"},{"text":"递增租金推动重复经营，部分空间站升级可跨局保留","dimension":"玩法","excerpt":"Do All That Stuff Again, but Better Meeting those escalating R.E.N.T payments ain’t gonna be easy, but chin up, champ – certain station upgrades will persist across gameplay runs, making life a little more tolerable every time around.","url":"https://store.steampowered.com/app/1849790/","label":"证据原文片段"}],"opinions":[{"text":"随机Bug会导致整局失败。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"random bugs, that sometimes caused me to lose runs","url":"https://steamcommunity.com/profiles/76561199437648288/recommended/1849790/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":83920,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":138532,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7581,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1277484,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":90434,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":90434,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.31212028009349,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1205,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.643154,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["技术/性能：随机Bug会导致整局失败。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_05cac0b8e3995334c28a60364f18fc478d19f269.1920x1080.jpg?t=1741363567","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_05cac0b8e3995334c28a60364f18fc478d19f269.1920x1080.jpg?t=1741363567","alt":"Uncle Chop's Rocket Shop 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_3607dd9695fd99e05d52bd00e90cb8fe2883dfd2.1920x1080.jpg?t=1741363567","alt":"Uncle Chop's Rocket Shop 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_c6dac8f8dff8db0613edab707e61be7555ef9a7d.1920x1080.jpg?t=1741363567","alt":"Uncle Chop's Rocket Shop 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_ee15e3d07f3a33b4f5f6a647500ee87621c5edfe.1920x1080.jpg?t=1741363567","alt":"Uncle Chop's Rocket Shop 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Uncle Chop's Rocket Shop",
+    "developers": [
+      "Beard Envy"
+    ],
+    "publishers": [
+      "Kasedo Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-05",
+    "tags": [
+      "冒险",
+      "模拟",
+      "经营管理",
+      "解谜",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "在每日时限内用工具和诊断设备修复程序生成的飞船模块",
+      "dimension": "玩法",
+      "excerpt": "Fix Stuff Using a range of tools, diagnostic devices, parts and workshop appliances, you’ll be correcting faults in the modules of procedurally generated spaceships. From simple refuel jobs to total overhauls, get ready to frantically fumble, slice, loosen, tighten, grab and drop as you try to complete as many jobs as you can within each daily time limit.",
+      "url": "https://store.steampowered.com/app/1849790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "查阅维修手册与图解，按步骤诊断模块并操作工坊设备",
+      "dimension": "玩法",
+      "excerpt": "Read Stuff Flaunt your basic literacy by consulting manual pages for guidance on diagnosing and correcting faults in spaceship modules, as well as operating workshop appliances. And if basic literacy isn’t your bag, then at least you’ve got pretty diagrams to gawp at!",
+      "url": "https://store.steampowered.com/app/1849790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "递增租金推动重复经营，部分空间站升级可跨局保留",
+      "dimension": "玩法",
+      "excerpt": "Do All That Stuff Again, but Better Meeting those escalating R.E.N.T payments ain’t gonna be easy, but chin up, champ – certain station upgrades will persist across gameplay runs, making life a little more tolerable every time around.",
+      "url": "https://store.steampowered.com/app/1849790/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "随机Bug会导致整局失败。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "random bugs, that sometimes caused me to lose runs",
+          "url": "https://steamcommunity.com/profiles/76561199437648288/recommended/1849790/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 85584,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 138075,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7583,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1274896,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 92277,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 92277,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.203179751707284,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1090,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.127362,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "技术/性能：随机Bug会导致整局失败。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Uncle Chop's Rocket Shop位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_05cac0b8e3995334c28a60364f18fc478d19f269.1920x1080.jpg?t=1741363567",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_05cac0b8e3995334c28a60364f18fc478d19f269.1920x1080.jpg?t=1741363567",
+        "alt": "Uncle Chop's Rocket Shop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_3607dd9695fd99e05d52bd00e90cb8fe2883dfd2.1920x1080.jpg?t=1741363567",
+        "alt": "Uncle Chop's Rocket Shop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_c6dac8f8dff8db0613edab707e61be7555ef9a7d.1920x1080.jpg?t=1741363567",
+        "alt": "Uncle Chop's Rocket Shop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_ee15e3d07f3a33b4f5f6a647500ee87621c5edfe.1920x1080.jpg?t=1741363567",
+        "alt": "Uncle Chop's Rocket Shop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_bb21a6d24f3a04f62447f698a1f6d4e5113afaa1.1920x1080.jpg?t=1741363567",
+        "alt": "Uncle Chop's Rocket Shop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_cb065a7047eb81a6d933cd0dccdb276f03f719ee.1920x1080.jpg?t=1741363567",
+        "alt": "Uncle Chop's Rocket Shop 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

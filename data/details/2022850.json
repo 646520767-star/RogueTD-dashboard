@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Garlant: My Story","developers":["Flt Studio"],"publishers":["Gamirror Games"],"release_status":"released","release_date":"2024-09-04","tags":["角色扮演","像素画面","冒险","弹幕射击","战斗"]},"hooks":[{"text":"逐区击败统治Boss才能让公会重新控制边境","dimension":"玩法","excerpt":"Only by defeating the dominant BOSS there can we secure the area, so taking them down one by one is a long haul for the Doe Guild to accomplish.","url":"https://store.steampowered.com/app/2022850/","label":"证据原文片段"},{"text":"加工机器把采集资源制成工具，再用宝石强化装备","dimension":"玩法","excerpt":"Using my knowledge, I can create different processing machines, which will come in handy in crafting useful tools with the resources I gathered, along with gems to augment my equipment.","url":"https://store.steampowered.com/app/2022850/","label":"证据原文片段"},{"text":"庄园收成可出售、加工或直接完成村民委托","dimension":"玩法","excerpt":"Tend to my crops till a harvest, then I can sell them out, use them for crafting or fulfill other villagers' requests.","url":"https://store.steampowered.com/app/2022850/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":7385,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":16522,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1584,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":66163,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":8129,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":8129,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":39.41362667513864,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":268,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.701493,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、像素画面","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_cbe68df366de92491d4c4426a29bf57197850587.1920x1080.jpg?t=1759992141","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_cbe68df366de92491d4c4426a29bf57197850587.1920x1080.jpg?t=1759992141","alt":"伽尔兰特：我的冒险故事 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_52f69d8c565fad24fd3bae5adbf5c0c02dd3e80f.1920x1080.jpg?t=1759992141","alt":"伽尔兰特：我的冒险故事 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_9962c00e928e1a63746f47cdf4376d6e473a51d8.1920x1080.jpg?t=1759992141","alt":"伽尔兰特：我的冒险故事 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_30da63032140c6d4876419bd8206cf63e5f69024.1920x1080.jpg?t=1759992141","alt":"伽尔兰特：我的冒险故事 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Garlant: My Story",
+    "developers": [
+      "Flt Studio"
+    ],
+    "publishers": [
+      "Gamirror Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-04",
+    "tags": [
+      "角色扮演",
+      "像素画面",
+      "冒险",
+      "弹幕射击",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "逐区击败统治Boss才能让公会重新控制边境",
+      "dimension": "玩法",
+      "excerpt": "Only by defeating the dominant BOSS there can we secure the area, so taking them down one by one is a long haul for the Doe Guild to accomplish.",
+      "url": "https://store.steampowered.com/app/2022850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "加工机器把采集资源制成工具，再用宝石强化装备",
+      "dimension": "玩法",
+      "excerpt": "Using my knowledge, I can create different processing machines, which will come in handy in crafting useful tools with the resources I gathered, along with gems to augment my equipment.",
+      "url": "https://store.steampowered.com/app/2022850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "庄园收成可出售、加工或直接完成村民委托",
+      "dimension": "玩法",
+      "excerpt": "Tend to my crops till a harvest, then I can sell them out, use them for crafting or fulfill other villagers' requests.",
+      "url": "https://store.steampowered.com/app/2022850/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7763,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 16620,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1583,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 69808,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8537,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8537,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 39.12509252838324,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 235,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.814815,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "伽尔兰特：我的冒险故事位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_cbe68df366de92491d4c4426a29bf57197850587.1920x1080.jpg?t=1759992141",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_cbe68df366de92491d4c4426a29bf57197850587.1920x1080.jpg?t=1786588996",
+        "alt": "伽尔兰特：我的冒险故事 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_52f69d8c565fad24fd3bae5adbf5c0c02dd3e80f.1920x1080.jpg?t=1786588996",
+        "alt": "伽尔兰特：我的冒险故事 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_9962c00e928e1a63746f47cdf4376d6e473a51d8.1920x1080.jpg?t=1786588996",
+        "alt": "伽尔兰特：我的冒险故事 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_30da63032140c6d4876419bd8206cf63e5f69024.1920x1080.jpg?t=1786588996",
+        "alt": "伽尔兰特：我的冒险故事 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_91be3e65798ae6bd4e796a3b29f2a92ac1622b85.1920x1080.jpg?t=1786588996",
+        "alt": "伽尔兰特：我的冒险故事 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_2ee2c923d693d556b66c92b81273c038a80479ea.1920x1080.jpg?t=1786588996",
+        "alt": "伽尔兰特：我的冒险故事 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_eb2e989167dfb36553ade76c257dc2e4c00132db.1920x1080.jpg?t=1786588996",
+        "alt": "伽尔兰特：我的冒险故事 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022850/ss_8b7228b1b0e358c307467351b45406ee4dec3113.1920x1080.jpg?t=1786588996",
+        "alt": "伽尔兰特：我的冒险故事 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

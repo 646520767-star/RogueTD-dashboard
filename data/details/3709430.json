@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Witch's Apocalyptic Journey","developers":["MeowAlive"],"publishers":["MeowAlive","Solo Game"],"release_status":"released","release_date":"2026-06-04","tags":["肉鸽卡组构筑","卡牌游戏","动漫风格","像素画面","日式角色扮演"]},"hooks":[{"text":"满足条件并消耗Truth Crystals可定向制作想要的牌，还能用Super Card替换不想入牌组的卡","dimension":"玩法","excerpt":"Meet the requirements, spend Truth Crystals, and craft the card you want. Don’t want one card to appear in your deck...? Replace it with one of your super cards !","url":"https://store.steampowered.com/app/3709430/","label":"证据原文片段"},{"text":"抽取Fate Cards后可把事件排进时间线，预先设计女巫将经历的路线与意外转折","dimension":"玩法","excerpt":"You can customize the events the witches will encounter by drawing a certain number of Fate Cards on the map interface and arranging them along the timeline according to your will. Once the route is set, the witches will follow your planned course, and some ingenious combinations might lead to unexpected twists along the journey.","url":"https://store.steampowered.com/app/3709430/","label":"证据原文片段"},{"text":"卡牌搭建基础牌组、遗物决定流派、祝福强化属性，三层资源共同应对能力各异的敌人","dimension":"玩法","excerpt":"Construct your basic deck with cards, build your genre with relics, and strengthen your attributes with blessings. You will encounter enemies with different special abilities. Counter or be countered, it depends on your choice.","url":"https://store.steampowered.com/app/3709430/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":95107,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":144891,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7865,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":504655,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":104750,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":104750,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.54439246297058,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1209,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.786184,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、卡牌游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/6a7d51d3a18202bc5044c694335cbdb7bdb7e4ec/ss_6a7d51d3a18202bc5044c694335cbdb7bdb7e4ec.1920x1080.jpg?t=1782281729","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/6a7d51d3a18202bc5044c694335cbdb7bdb7e4ec/ss_6a7d51d3a18202bc5044c694335cbdb7bdb7e4ec.1920x1080.jpg?t=1782281729","alt":"魔女：终末旅途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/bd97d400361aa04ddf9cb1fd3431a74b957a22a8/ss_bd97d400361aa04ddf9cb1fd3431a74b957a22a8.1920x1080.jpg?t=1782281729","alt":"魔女：终末旅途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/ca6d65e0dd853c09bf13658637381137b02c8fd7/ss_ca6d65e0dd853c09bf13658637381137b02c8fd7.1920x1080.jpg?t=1782281729","alt":"魔女：终末旅途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/566d9d3018ee17da8168970e393e66a5d039595b/ss_566d9d3018ee17da8168970e393e66a5d039595b.1920x1080.jpg?t=1782281729","alt":"魔女：终末旅途 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Witch's Apocalyptic Journey",
+    "developers": [
+      "MeowAlive"
+    ],
+    "publishers": [
+      "MeowAlive",
+      "Solo Game"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-04",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡牌游戏",
+      "动漫风格",
+      "动漫风格",
+      "像素画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "满足条件并消耗Truth Crystals可定向制作想要的牌，还能用Super Card替换不想入牌组的卡",
+      "dimension": "玩法",
+      "excerpt": "Meet the requirements, spend Truth Crystals, and craft the card you want. Don’t want one card to appear in your deck...? Replace it with one of your super cards !",
+      "url": "https://store.steampowered.com/app/3709430/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "抽取Fate Cards后可把事件排进时间线，预先设计女巫将经历的路线与意外转折",
+      "dimension": "玩法",
+      "excerpt": "You can customize the events the witches will encounter by drawing a certain number of Fate Cards on the map interface and arranging them along the timeline according to your will. Once the route is set, the witches will follow your planned course, and some ingenious combinations might lead to unexpected twists along the journey.",
+      "url": "https://store.steampowered.com/app/3709430/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "卡牌搭建基础牌组、遗物决定流派、祝福强化属性，三层资源共同应对能力各异的敌人",
+      "dimension": "玩法",
+      "excerpt": "Construct your basic deck with cards, build your genre with relics, and strengthen your attributes with blessings. You will encounter enemies with different special abilities. Counter or be countered, it depends on your choice.",
+      "url": "https://store.steampowered.com/app/3709430/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 105695,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 145750,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8498,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 562603,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 116006,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 116006,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.834294404819429,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1162,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.300595,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "魔女：终末旅途位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/6a7d51d3a18202bc5044c694335cbdb7bdb7e4ec/ss_6a7d51d3a18202bc5044c694335cbdb7bdb7e4ec.1920x1080.jpg?t=1782281729",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/6a7d51d3a18202bc5044c694335cbdb7bdb7e4ec/ss_6a7d51d3a18202bc5044c694335cbdb7bdb7e4ec.1920x1080.jpg?t=1785219440",
+        "alt": "魔女：终末旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/bd97d400361aa04ddf9cb1fd3431a74b957a22a8/ss_bd97d400361aa04ddf9cb1fd3431a74b957a22a8.1920x1080.jpg?t=1785219440",
+        "alt": "魔女：终末旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/ca6d65e0dd853c09bf13658637381137b02c8fd7/ss_ca6d65e0dd853c09bf13658637381137b02c8fd7.1920x1080.jpg?t=1785219440",
+        "alt": "魔女：终末旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/566d9d3018ee17da8168970e393e66a5d039595b/ss_566d9d3018ee17da8168970e393e66a5d039595b.1920x1080.jpg?t=1785219440",
+        "alt": "魔女：终末旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/22c523ee8d83ad01b2c34501e76382bf5b09929a/ss_22c523ee8d83ad01b2c34501e76382bf5b09929a.1920x1080.jpg?t=1785219440",
+        "alt": "魔女：终末旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/f63c53a54bab25b72e79c801adef548f893cd129/ss_f63c53a54bab25b72e79c801adef548f893cd129.1920x1080.jpg?t=1785219440",
+        "alt": "魔女：终末旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/f2a141f3b97e9bfa0d872523afb2acf97dbaafe4/ss_f2a141f3b97e9bfa0d872523afb2acf97dbaafe4.1920x1080.jpg?t=1785219440",
+        "alt": "魔女：终末旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/d3078ba4d8ab677a5f3d85ad73e648c91c405afa/ss_d3078ba4d8ab677a5f3d85ad73e648c91c405afa.1920x1080.jpg?t=1785219440",
+        "alt": "魔女：终末旅途 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

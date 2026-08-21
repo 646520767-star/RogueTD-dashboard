@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Raining Blood: Hellfire","developers":["TechBooh"],"publishers":["SehLoiro","SLGames Inc."],"release_status":"released","release_date":"2025-07-11","tags":["动作肉鸽","弹幕射击","俯视角射击","高难度","黑暗风格"]},"hooks":[{"text":"符文可为武器和能力附加多重射击、轨道刀刃与元素爆发，并能自由混搭扩展武库","dimension":"玩法","excerpt":"Modify your weapons and abilities using Runes that grant devastating effects like multishot, orbital blades, elemental bursts, and more. Mix and match Runes to expand your arsenal and wreak havoc across the battlefield.","url":"https://store.steampowered.com/app/2147530/","label":"证据原文片段"},{"text":"时间、幸运、专注、力量和平衡五条路线可同路叠加，达到门槛后解锁强协同","dimension":"玩法","excerpt":"Choose from five distinct Paths — Time, Luck, Focus, Power, and Balance — and stack upgrades within the same path to unlock powerful synergies and become an unstoppable force of nature.","url":"https://store.steampowered.com/app/2147530/","label":"证据原文片段"},{"text":"水火气电按环境发生连锁反应，敌人还会随当前状态动态获得抗性与弱点","dimension":"玩法","excerpt":"Elements react with one another in powerful and unexpected ways — fire ignites, water douses, electricity surges through moisture, and more. These interactions can drastically alter the flow of battle. Meanwhile, enemies adapt to their current state, gaining new resistances and vulnerabilities on the fly.","url":"https://store.steampowered.com/app/2147530/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3243,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":34315,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1439,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":21702,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3625,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3625,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.665091379104197,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":233,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.416309,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/ss_ee017c34ce1a3d80832fef276bd883d41a4f891a.1920x1080.jpg?t=1753897492","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/ss_ee017c34ce1a3d80832fef276bd883d41a4f891a.1920x1080.jpg?t=1753897492","alt":"活魔人 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/53d67056a5474124f74a310cbbce96632c204364/ss_53d67056a5474124f74a310cbbce96632c204364.1920x1080.jpg?t=1753897492","alt":"活魔人 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/28ef98ef69bc9c551ac4d643dfbad5ede79356ee/ss_28ef98ef69bc9c551ac4d643dfbad5ede79356ee.1920x1080.jpg?t=1753897492","alt":"活魔人 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/6e7906bc00aec826b235274727ad119548bce863/ss_6e7906bc00aec826b235274727ad119548bce863.1920x1080.jpg?t=1753897492","alt":"活魔人 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Raining Blood: Hellfire",
+    "developers": [
+      "TechBooh"
+    ],
+    "publishers": [
+      "SehLoiro",
+      "SLGames Inc."
+    ],
+    "release_status": "released",
+    "release_date": "2025-07-11",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "俯视角射击",
+      "高难度",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "符文可为武器和能力附加多重射击、轨道刀刃与元素爆发，并能自由混搭扩展武库",
+      "dimension": "玩法",
+      "excerpt": "Modify your weapons and abilities using Runes that grant devastating effects like multishot, orbital blades, elemental bursts, and more. Mix and match Runes to expand your arsenal and wreak havoc across the battlefield.",
+      "url": "https://store.steampowered.com/app/2147530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "时间、幸运、专注、力量和平衡五条路线可同路叠加，达到门槛后解锁强协同",
+      "dimension": "玩法",
+      "excerpt": "Choose from five distinct Paths — Time, Luck, Focus, Power, and Balance — and stack upgrades within the same path to unlock powerful synergies and become an unstoppable force of nature.",
+      "url": "https://store.steampowered.com/app/2147530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "水火气电按环境发生连锁反应，敌人还会随当前状态动态获得抗性与弱点",
+      "dimension": "玩法",
+      "excerpt": "Elements react with one another in powerful and unexpected ways — fire ignites, water douses, electricity surges through moisture, and more. These interactions can drastically alter the flow of battle. Meanwhile, enemies adapt to their current state, gaining new resistances and vulnerabilities on the fly.",
+      "url": "https://store.steampowered.com/app/2147530/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3888,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 34519,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1439,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 24587,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4345,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4345,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.552396193615088,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 198,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.416309,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "活魔人位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/ss_ee017c34ce1a3d80832fef276bd883d41a4f891a.1920x1080.jpg?t=1753897492",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/ss_ee017c34ce1a3d80832fef276bd883d41a4f891a.1920x1080.jpg?t=1753897492",
+        "alt": "活魔人 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/53d67056a5474124f74a310cbbce96632c204364/ss_53d67056a5474124f74a310cbbce96632c204364.1920x1080.jpg?t=1753897492",
+        "alt": "活魔人 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/28ef98ef69bc9c551ac4d643dfbad5ede79356ee/ss_28ef98ef69bc9c551ac4d643dfbad5ede79356ee.1920x1080.jpg?t=1753897492",
+        "alt": "活魔人 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/6e7906bc00aec826b235274727ad119548bce863/ss_6e7906bc00aec826b235274727ad119548bce863.1920x1080.jpg?t=1753897492",
+        "alt": "活魔人 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/d10d559585cdaa301e8f4c2331d0c72d508d2da6/ss_d10d559585cdaa301e8f4c2331d0c72d508d2da6.1920x1080.jpg?t=1753897492",
+        "alt": "活魔人 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/e18c19828ab0a74b038d0ffd16e96be82dc206a3/ss_e18c19828ab0a74b038d0ffd16e96be82dc206a3.1920x1080.jpg?t=1753897492",
+        "alt": "活魔人 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/e0d166ad7138064ce7b33e5e200cb5fffcd97891/ss_e0d166ad7138064ce7b33e5e200cb5fffcd97891.1920x1080.jpg?t=1753897492",
+        "alt": "活魔人 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147530/ss_e1f31fb8243cf0c0b986d29b95ca5142e0b73cd2.1920x1080.jpg?t=1753897492",
+        "alt": "活魔人 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Katanaut","developers":["Voidmaw"],"publishers":["Acclaim, Inc."],"release_status":"released","release_date":"2025-09-10","tags":["动作","动作肉鸽","类Rogue","砍杀","轻度Rogue"]},"hooks":[{"text":"生物特征消失后由时间操控技术复活，把死亡直接纳入空间站循环","dimension":"玩法","excerpt":"Through advanced time-manipulation, you’re brought back to life whenever your bio-metrics are no longer detected.","url":"https://store.steampowered.com/app/3032830/","label":"证据原文片段"},{"text":"收集死者记忆碎片可下载遗失技能，并把进度带过一次次电梯下行","dimension":"玩法","excerpt":"In the future where humans are able to download new abilities on demand, the station is now scattered with memory fragments from the fallen. Each one having the potential of being a lost skill or talent waiting to be unlocked. Every run offers a new pivoted challenge with ever-changing pathways to explore, and pits you against hordes of enemies. Each ride down the station's elevators carries forward progress from the memory fragments you scavenge along your exploration.","url":"https://store.steampowered.com/app/3032830/","label":"证据原文片段"},{"text":"越往空间站深处下潜，环境会愈发阴森，遭遇的敌人也越来越不像人类","dimension":"玩法","excerpt":"The deeper you descend into the station, the environments become more haunting, and the enemies less human.","url":"https://store.steampowered.com/app/3032830/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":15983,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":147432,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6527,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":177257,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":17730,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":17730,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.43876263686452,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":412,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.805825,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/ss_225125e0690788832cb57fb0aaee4cdd5b06427b.1920x1080.jpg?t=1782412995","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/ss_225125e0690788832cb57fb0aaee4cdd5b06427b.1920x1080.jpg?t=1782412995","alt":"Katanaut 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/ss_7c84a86cd3fa65744a3789beca9c4b82422b024e.1920x1080.jpg?t=1782412995","alt":"Katanaut 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/c950eb85b1eb4a7ea1b4079c6c4677a07f799510/ss_c950eb85b1eb4a7ea1b4079c6c4677a07f799510.1920x1080.jpg?t=1782412995","alt":"Katanaut 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/6d888cd0e3fd78c491e39b7a2ac797dc8eadaf9a/ss_6d888cd0e3fd78c491e39b7a2ac797dc8eadaf9a.1920x1080.jpg?t=1782412995","alt":"Katanaut 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Katanaut",
+    "developers": [
+      "Voidmaw"
+    ],
+    "publishers": [
+      "Acclaim, Inc."
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-10",
+    "tags": [
+      "动作",
+      "动作肉鸽",
+      "类Rogue",
+      "砍杀",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "生物特征消失后由时间操控技术复活，把死亡直接纳入空间站循环",
+      "dimension": "玩法",
+      "excerpt": "Through advanced time-manipulation, you’re brought back to life whenever your bio-metrics are no longer detected.",
+      "url": "https://store.steampowered.com/app/3032830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集死者记忆碎片可下载遗失技能，并把进度带过一次次电梯下行",
+      "dimension": "玩法",
+      "excerpt": "In the future where humans are able to download new abilities on demand, the station is now scattered with memory fragments from the fallen. Each one having the potential of being a lost skill or talent waiting to be unlocked. Every run offers a new pivoted challenge with ever-changing pathways to explore, and pits you against hordes of enemies. Each ride down the station's elevators carries forward progress from the memory fragments you scavenge along your exploration.",
+      "url": "https://store.steampowered.com/app/3032830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "越往空间站深处下潜，环境会愈发阴森，遭遇的敌人也越来越不像人类",
+      "dimension": "玩法",
+      "excerpt": "The deeper you descend into the station, the environments become more haunting, and the enemies less human.",
+      "url": "https://store.steampowered.com/app/3032830/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 20813,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 166205,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7202,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 192880,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 22946,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 22946,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.8297769836370916,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 431,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.277778,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Katanaut位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/ss_225125e0690788832cb57fb0aaee4cdd5b06427b.1920x1080.jpg?t=1782412995",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/ss_225125e0690788832cb57fb0aaee4cdd5b06427b.1920x1080.jpg?t=1786323085",
+        "alt": "Katanaut 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/ss_7c84a86cd3fa65744a3789beca9c4b82422b024e.1920x1080.jpg?t=1786323085",
+        "alt": "Katanaut 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/c950eb85b1eb4a7ea1b4079c6c4677a07f799510/ss_c950eb85b1eb4a7ea1b4079c6c4677a07f799510.1920x1080.jpg?t=1786323085",
+        "alt": "Katanaut 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/6d888cd0e3fd78c491e39b7a2ac797dc8eadaf9a/ss_6d888cd0e3fd78c491e39b7a2ac797dc8eadaf9a.1920x1080.jpg?t=1786323085",
+        "alt": "Katanaut 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/89feaaa9c3ed4c76ed9f0c019002ea495c94e66f/ss_89feaaa9c3ed4c76ed9f0c019002ea495c94e66f.1920x1080.jpg?t=1786323085",
+        "alt": "Katanaut 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/b550bdbda054c6af507ef811ecb09aaf25c69ab4/ss_b550bdbda054c6af507ef811ecb09aaf25c69ab4.1920x1080.jpg?t=1786323085",
+        "alt": "Katanaut 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/a37dd79872b0ae6051a5177e0d9b7cf0e44304bd/ss_a37dd79872b0ae6051a5177e0d9b7cf0e44304bd.1920x1080.jpg?t=1786323085",
+        "alt": "Katanaut 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032830/f902df443c6f3d1eeb6e7433331842e7915a3949/ss_f902df443c6f3d1eeb6e7433331842e7915a3949.1920x1080.jpg?t=1786323085",
+        "alt": "Katanaut 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

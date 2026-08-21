@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Sparedevil","developers":["Sludge Pipe Games LTD"],"publishers":["Sludge Pipe Games LTD"],"release_status":"released","release_date":"2024-07-18","tags":["动作肉鸽","街机","动作","第一人称","挑战高分"]},"hooks":[{"text":"把街机第一人称射击包装成九十年代保龄球馆动画，在地狱球道里用枪与保龄球争夺Kingpin王冠","dimension":"画风","excerpt":"Sparedevil is an arcade FPS with the graphic charm of classic '90s bowling alley animations. This single-player skirmish is all about skill, strategy, and speed as you aim to dominate the leaderboard and earn the crown as the Kingpin of Hell’s Alley.","url":"https://store.steampowered.com/app/2960500/","label":"证据原文片段"},{"text":"击飞完整十瓶形成Strike、补中残瓶形成Spare，连续成功可从D级升到S级并获得五倍分数乘区","dimension":"玩法","excerpt":"Send all ten pins in a formation flying and that's a Strike ! A pin or two short on your first shot? Follow it up with another roll to take down the stragglers and land a Spare ! Rank Up Combos: start out at a lowly “D” then hit those strikes and spares consistently and you’ll rapidly ascend the ranks. “S” rank bowlers will be rewarded with a hefty 5x multiplier on their score but only the fastest will have the tempo to keep it.","url":"https://store.steampowered.com/app/2960500/","label":"证据原文片段"},{"text":"八种反派球瓶拥有独立行为，火箭瓶会追击、迫击炮瓶持续轰炸、Joker瓶死亡时破坏连击","dimension":"玩法","excerpt":"Put your balls on the line against a roster of 8 uniquely villainous pins ! Each designed with individual behaviors and abilities with their soul purpose bent on ruining your score! Some of the fiends you will be facing include... Flying rocket pins that will chase you down! Mortar pins that will relentlessly barrage your location! Joker pins that when struck down destroy your precious combos!","url":"https://store.steampowered.com/app/2960500/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1987,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":297,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":11660,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2250,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2250,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.7495329553979935,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":108,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":99,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":99.082569,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、街机","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/ss_51f1d9374542ee80892c5c96dd24a6fa674a84af.1920x1080.jpg?t=1770857288","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/ss_51f1d9374542ee80892c5c96dd24a6fa674a84af.1920x1080.jpg?t=1770857288","alt":"Sparedevil 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/f382c3ce5600c01c8414e04c0299ed7ec681b7a7/ss_f382c3ce5600c01c8414e04c0299ed7ec681b7a7.1920x1080.jpg?t=1770857288","alt":"Sparedevil 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/99c3cbe881e239d9f2d42733fa81635bddd49457/ss_99c3cbe881e239d9f2d42733fa81635bddd49457.1920x1080.jpg?t=1770857288","alt":"Sparedevil 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/4e6e85b9ed33823c5e0e9c784816b2d171a55ca5/ss_4e6e85b9ed33823c5e0e9c784816b2d171a55ca5.1920x1080.jpg?t=1770857288","alt":"Sparedevil 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Sparedevil",
+    "developers": [
+      "Sludge Pipe Games LTD"
+    ],
+    "publishers": [
+      "Sludge Pipe Games LTD"
+    ],
+    "release_status": "released",
+    "release_date": "2024-07-18",
+    "tags": [
+      "轻度Rogue",
+      "动作肉鸽",
+      "街机",
+      "动作",
+      "第一人称"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把街机第一人称射击包装成九十年代保龄球馆动画，在地狱球道里用枪与保龄球争夺Kingpin王冠",
+      "dimension": "画风",
+      "excerpt": "Sparedevil is an arcade FPS with the graphic charm of classic '90s bowling alley animations. This single-player skirmish is all about skill, strategy, and speed as you aim to dominate the leaderboard and earn the crown as the Kingpin of Hell’s Alley.",
+      "url": "https://store.steampowered.com/app/2960500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "击飞完整十瓶形成Strike、补中残瓶形成Spare，连续成功可从D级升到S级并获得五倍分数乘区",
+      "dimension": "玩法",
+      "excerpt": "Send all ten pins in a formation flying and that's a Strike ! A pin or two short on your first shot? Follow it up with another roll to take down the stragglers and land a Spare ! Rank Up Combos: start out at a lowly “D” then hit those strikes and spares consistently and you’ll rapidly ascend the ranks. “S” rank bowlers will be rewarded with a hefty 5x multiplier on their score but only the fastest will have the tempo to keep it.",
+      "url": "https://store.steampowered.com/app/2960500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "八种反派球瓶拥有独立行为，火箭瓶会追击、迫击炮瓶持续轰炸、Joker瓶死亡时破坏连击",
+      "dimension": "玩法",
+      "excerpt": "Put your balls on the line against a roster of 8 uniquely villainous pins ! Each designed with individual behaviors and abilities with their soul purpose bent on ruining your score! Some of the fiends you will be facing include... Flying rocket pins that will chase you down! Mortar pins that will relentlessly barrage your location! Joker pins that when struck down destroy your precious combos!",
+      "url": "https://store.steampowered.com/app/2960500/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2770,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 12785,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 327,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 14536,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3092,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3092,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.459355613541885,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 103,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 99,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 99.173554,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Sparedevil位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/ss_51f1d9374542ee80892c5c96dd24a6fa674a84af.1920x1080.jpg?t=1770857288",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/ss_51f1d9374542ee80892c5c96dd24a6fa674a84af.1920x1080.jpg?t=1785513761",
+        "alt": "Sparedevil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/f382c3ce5600c01c8414e04c0299ed7ec681b7a7/ss_f382c3ce5600c01c8414e04c0299ed7ec681b7a7.1920x1080.jpg?t=1785513761",
+        "alt": "Sparedevil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/99c3cbe881e239d9f2d42733fa81635bddd49457/ss_99c3cbe881e239d9f2d42733fa81635bddd49457.1920x1080.jpg?t=1785513761",
+        "alt": "Sparedevil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/4e6e85b9ed33823c5e0e9c784816b2d171a55ca5/ss_4e6e85b9ed33823c5e0e9c784816b2d171a55ca5.1920x1080.jpg?t=1785513761",
+        "alt": "Sparedevil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/17c4b7103d7f14689bbd4fd4775473145dc01509/ss_17c4b7103d7f14689bbd4fd4775473145dc01509.1920x1080.jpg?t=1785513761",
+        "alt": "Sparedevil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/3a06a929b126aa55a624bf9b16734615f6fb5dbe/ss_3a06a929b126aa55a624bf9b16734615f6fb5dbe.1920x1080.jpg?t=1785513761",
+        "alt": "Sparedevil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/4c078b687ea00a51f4af0407f55ea080ded14753/ss_4c078b687ea00a51f4af0407f55ea080ded14753.1920x1080.jpg?t=1785513761",
+        "alt": "Sparedevil 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/ss_c087bf2026b60679c59e29b0ad91681c401be1f6.1920x1080.jpg?t=1785513761",
+        "alt": "Sparedevil 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

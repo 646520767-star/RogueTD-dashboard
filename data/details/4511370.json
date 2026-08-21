@@ -1,1 +1,178 @@
-{"identity":{"original_title":"非凡仙途","developers":["Bee Studio"],"publishers":["Bee Studio"],"release_status":"released","release_date":"2026-04-02","tags":["策略","休闲","卡牌游戏","冒险","动作"]},"hooks":[{"text":"战斗采用轻操作的碰撞机制，神将自动冲锋，胜负重点落在战前阵容布置与策略判断。","dimension":"玩法","excerpt":"游戏的核心魅力在于“轻操作、重策略”。你无需繁琐的操作，神将们将依据你精心布置的阵容，在独特的碰撞战斗玩法中冲锋陷阵。","url":"https://store.steampowered.com/app/4511370/","label":"证据原文片段"},{"text":"不同神将技能可组合为击退、分身召唤和法师爆发等流派，西游、三国和上古角色羁绊还能带来战力跃升。","dimension":"玩法","excerpt":"强力击退流： 赵云 + 关羽 + 共工 + 姜子牙 + 南极仙翁 召唤分身流： 哪吒 + 齐天大圣 + 孙策 + 妲己 + 观音 法师爆发流： 钟馗 + 元始天尊 + 刑天 + 祝融 + 刘备 强力的羁绊搭配 你的神将阵容可谓星光熠熠，从英武不凡的哪吒，到兼具输出与防御的关羽、孙悟空等神话历史名人，每一位英雄都拥有独特的定位与技能，等待着你的发掘与培养。","url":"https://store.steampowered.com/app/4511370/","label":"证据原文片段"},{"text":"成长线覆盖神兵打造、神像共鸣、神器与元灵觉醒以及山海异兽抓捕炼化。","dimension":"玩法","excerpt":"神兵利器：龙鸣剑、玄武铠……打造属于你的绝世神装。 琴棋书画：闲情逸致，休养生息，于方寸间感悟大道。 神像共鸣：打造神像，与天地共鸣，实现实力的突破。 神器觉醒：唤醒上古神器，焕发全新技能，逆转战局。 元灵唤醒：让沉睡的元灵觉醒，为己身获得永恒加持。 山海异兽：抓捕《山海经》中的奇珍异兽，锁妖炼化，提升实力。","url":"https://store.steampowered.com/app/4511370/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5782,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1224,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":102,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":27239,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5782,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5782,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":24.424697524144975,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":122,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.147541,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、休闲","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/1a5d38d11644b5ac21705164c169911d753bcd65/ss_1a5d38d11644b5ac21705164c169911d753bcd65.1920x1080.jpg?t=1784128852","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/1a5d38d11644b5ac21705164c169911d753bcd65/ss_1a5d38d11644b5ac21705164c169911d753bcd65.1920x1080.jpg?t=1784128852","alt":"非凡仙途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/f0dfe94fdcbf5d6df87a69422499c9e9e089d455/ss_f0dfe94fdcbf5d6df87a69422499c9e9e089d455.1920x1080.jpg?t=1784128852","alt":"非凡仙途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/09c1ca68b54259a83a69ed3fed404634613f9732/ss_09c1ca68b54259a83a69ed3fed404634613f9732.1920x1080.jpg?t=1784128852","alt":"非凡仙途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/b4e704015f99ea2d14d74ba5e8449aab0b1268d2/ss_b4e704015f99ea2d14d74ba5e8449aab0b1268d2.1920x1080.jpg?t=1784128852","alt":"非凡仙途 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "非凡仙途",
+    "developers": [
+      "Bee Studio"
+    ],
+    "publishers": [
+      "Bee Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-02",
+    "tags": [
+      "策略",
+      "休闲",
+      "卡牌游戏",
+      "冒险",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "战斗采用轻操作的碰撞机制，神将自动冲锋，胜负重点落在战前阵容布置与策略判断。",
+      "dimension": "玩法",
+      "excerpt": "游戏的核心魅力在于“轻操作、重策略”。你无需繁琐的操作，神将们将依据你精心布置的阵容，在独特的碰撞战斗玩法中冲锋陷阵。",
+      "url": "https://store.steampowered.com/app/4511370/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不同神将技能可组合为击退、分身召唤和法师爆发等流派，西游、三国和上古角色羁绊还能带来战力跃升。",
+      "dimension": "玩法",
+      "excerpt": "强力击退流： 赵云 + 关羽 + 共工 + 姜子牙 + 南极仙翁 召唤分身流： 哪吒 + 齐天大圣 + 孙策 + 妲己 + 观音 法师爆发流： 钟馗 + 元始天尊 + 刑天 + 祝融 + 刘备 强力的羁绊搭配 你的神将阵容可谓星光熠熠，从英武不凡的哪吒，到兼具输出与防御的关羽、孙悟空等神话历史名人，每一位英雄都拥有独特的定位与技能，等待着你的发掘与培养。",
+      "url": "https://store.steampowered.com/app/4511370/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "成长线覆盖神兵打造、神像共鸣、神器与元灵觉醒以及山海异兽抓捕炼化。",
+      "dimension": "玩法",
+      "excerpt": "神兵利器：龙鸣剑、玄武铠……打造属于你的绝世神装。 琴棋书画：闲情逸致，休养生息，于方寸间感悟大道。 神像共鸣：打造神像，与天地共鸣，实现实力的突破。 神器觉醒：唤醒上古神器，焕发全新技能，逆转战局。 元灵唤醒：让沉睡的元灵觉醒，为己身获得永恒加持。 山海异兽：抓捕《山海经》中的奇珍异兽，锁妖炼化，提升实力。",
+      "url": "https://store.steampowered.com/app/4511370/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5740,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 116,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 66046,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5740,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5740,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 35.408585318656506,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 144,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.333333,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "非凡仙途位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/1a5d38d11644b5ac21705164c169911d753bcd65/ss_1a5d38d11644b5ac21705164c169911d753bcd65.1920x1080.jpg?t=1784128852",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/1a5d38d11644b5ac21705164c169911d753bcd65/ss_1a5d38d11644b5ac21705164c169911d753bcd65.1920x1080.jpg?t=1785462765",
+        "alt": "非凡仙途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/f0dfe94fdcbf5d6df87a69422499c9e9e089d455/ss_f0dfe94fdcbf5d6df87a69422499c9e9e089d455.1920x1080.jpg?t=1785462765",
+        "alt": "非凡仙途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/09c1ca68b54259a83a69ed3fed404634613f9732/ss_09c1ca68b54259a83a69ed3fed404634613f9732.1920x1080.jpg?t=1785462765",
+        "alt": "非凡仙途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/b4e704015f99ea2d14d74ba5e8449aab0b1268d2/ss_b4e704015f99ea2d14d74ba5e8449aab0b1268d2.1920x1080.jpg?t=1785462765",
+        "alt": "非凡仙途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/4e535f4c31465cf3245b084c2d20c6ded550574d/ss_4e535f4c31465cf3245b084c2d20c6ded550574d.1920x1080.jpg?t=1785462765",
+        "alt": "非凡仙途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/016c0522f9af85a1273123df589da298f1e5d5c2/ss_016c0522f9af85a1273123df589da298f1e5d5c2.1920x1080.jpg?t=1785462765",
+        "alt": "非凡仙途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/7526ecc48f666fd227109a7fdf23881a12a11518/ss_7526ecc48f666fd227109a7fdf23881a12a11518.1920x1080.jpg?t=1785462765",
+        "alt": "非凡仙途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511370/5ed0eff1cb2ae8740049e0cd3cd59c5154319391/ss_5ed0eff1cb2ae8740049e0cd3cd59c5154319391.1920x1080.jpg?t=1785462765",
+        "alt": "非凡仙途 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

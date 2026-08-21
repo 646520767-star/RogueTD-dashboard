@@ -1,1 +1,194 @@
-{"identity":{"original_title":"Balatro","developers":["LocalThunk"],"publishers":["Playstack"],"release_status":"released","release_date":"2024-02-20","tags":["卡牌游戏","类Rogue","肉鸽卡组构筑","卡组构筑","单人游戏"]},"hooks":[{"text":"把合法扑克牌型与能力各异的Joker组合成Build，攒够筹码击败Blind并冲向最终Ante","dimension":"玩法","excerpt":"Combine valid poker hands with unique Joker cards in order to create varied synergies and builds. Earn enough chips to beat devious blinds, all while uncovering hidden bonus hands and decks as you progress. You’re going to need every edge you can get in order to reach the boss blind, beat the final ante and secure victory.","url":"https://store.steampowered.com/app/2379780/","label":"证据原文片段"},{"text":"牌组、Joker、塔罗、星球、幽灵和优惠券六类工具共同改造牌型并点燃倍率连锁","dimension":"玩法","excerpt":"Deftly deploy an array of potent tools: different Decks, Jokers, Tarot cards, Planet cards, Spectral cards, and Vouchers. Use these versatile instruments to ignite a combo frenzy and turbocharge your poker hands, crafting electrifying, adrenaline-fueled synergies.","url":"https://store.steampowered.com/app/2379780/","label":"证据原文片段"},{"text":"迷幻世界配合Synthwave配乐营造放空心流，让高强度构筑包裹在复古催眠氛围中","dimension":"画风","excerpt":"Immerse yourself in Balatro’s distinctive psychedelic world. Let the synthwave soundtrack wash over you - wind down, escape the daily grind and prepare to enter the ultimate roguelike flow state.","url":"https://store.steampowered.com/app/2379780/","label":"证据原文片段"}],"opinions":[{"text":"高难度词条严重破坏构筑。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"易腐永恒破坏build","url":"https://steamcommunity.com/profiles/76561198819771796/recommended/2379780/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":6237865,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1717045,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":112391,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":75409907,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7201869,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7201869,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":36.516535618007154,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":195350,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.846618,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["高难度词条严重破坏构筑。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/96208723dbedef49d71bf1b0a74aee1689018c50/ss_96208723dbedef49d71bf1b0a74aee1689018c50.1920x1080.jpg?t=1781540048","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/96208723dbedef49d71bf1b0a74aee1689018c50/ss_96208723dbedef49d71bf1b0a74aee1689018c50.1920x1080.jpg?t=1781540048","alt":"Balatro 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_4862112e5030f74a5818cd4c31347d699ac5adf3.1920x1080.jpg?t=1781540048","alt":"Balatro 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_3be65a7dd3be072d567e11883d208861a7e959fa.1920x1080.jpg?t=1781540048","alt":"Balatro 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_e32ac94d7d1d6be7dd015d78f2b52aeb4cc282ed.1920x1080.jpg?t=1781540048","alt":"Balatro 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Balatro",
+    "developers": [
+      "LocalThunk"
+    ],
+    "publishers": [
+      "Playstack"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-20",
+    "tags": [
+      "卡牌游戏",
+      "类Rogue",
+      "肉鸽卡组构筑",
+      "卡组构筑",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把合法扑克牌型与能力各异的Joker组合成Build，攒够筹码击败Blind并冲向最终Ante",
+      "dimension": "玩法",
+      "excerpt": "Combine valid poker hands with unique Joker cards in order to create varied synergies and builds. Earn enough chips to beat devious blinds, all while uncovering hidden bonus hands and decks as you progress. You’re going to need every edge you can get in order to reach the boss blind, beat the final ante and secure victory.",
+      "url": "https://store.steampowered.com/app/2379780/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "牌组、Joker、塔罗、星球、幽灵和优惠券六类工具共同改造牌型并点燃倍率连锁",
+      "dimension": "玩法",
+      "excerpt": "Deftly deploy an array of potent tools: different Decks, Jokers, Tarot cards, Planet cards, Spectral cards, and Vouchers. Use these versatile instruments to ignite a combo frenzy and turbocharge your poker hands, crafting electrifying, adrenaline-fueled synergies.",
+      "url": "https://store.steampowered.com/app/2379780/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "迷幻世界配合Synthwave配乐营造放空心流，让高强度构筑包裹在复古催眠氛围中",
+      "dimension": "画风",
+      "excerpt": "Immerse yourself in Balatro’s distinctive psychedelic world. Let the synthwave soundtrack wash over you - wind down, escape the daily grind and prepare to enter the ultimate roguelike flow state.",
+      "url": "https://store.steampowered.com/app/2379780/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "高难度词条严重破坏构筑。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "易腐永恒破坏build",
+          "url": "https://steamcommunity.com/profiles/76561198819771796/recommended/2379780/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6344461,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1725946,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 113126,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 76246132,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7322660,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7322660,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 36.43933489525031,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 159360,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.844283,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "高难度词条严重破坏构筑。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Balatro位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/96208723dbedef49d71bf1b0a74aee1689018c50/ss_96208723dbedef49d71bf1b0a74aee1689018c50.1920x1080.jpg?t=1781540048",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/96208723dbedef49d71bf1b0a74aee1689018c50/ss_96208723dbedef49d71bf1b0a74aee1689018c50.1920x1080.jpg?t=1786037325",
+        "alt": "Balatro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_4862112e5030f74a5818cd4c31347d699ac5adf3.1920x1080.jpg?t=1786037325",
+        "alt": "Balatro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_3be65a7dd3be072d567e11883d208861a7e959fa.1920x1080.jpg?t=1786037325",
+        "alt": "Balatro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_e32ac94d7d1d6be7dd015d78f2b52aeb4cc282ed.1920x1080.jpg?t=1786037325",
+        "alt": "Balatro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_b8455573ec1fd2c9412f22bd8df05f2d8027a95b.1920x1080.jpg?t=1786037325",
+        "alt": "Balatro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_075cb45cbfa97d8139fb11f21667d6e35f908640.1920x1080.jpg?t=1786037325",
+        "alt": "Balatro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_ae055e0e583ac65000920ce33511df73f40814f4.1920x1080.jpg?t=1786037325",
+        "alt": "Balatro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_204350350761316ad3aa8b0184689f3f93e01f7b.1920x1080.jpg?t=1786037325",
+        "alt": "Balatro 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

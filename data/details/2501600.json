@@ -1,1 +1,178 @@
-{"identity":{"original_title":"DICEOMANCER","developers":["超厚皮猪猪 Ultra Piggy Studio"],"publishers":["Gamirror Games"],"release_status":"released","release_date":"2024-10-09","tags":["策略","卡牌游戏","肉鸽卡组构筑","卡牌对战","色彩鲜明"]},"hooks":[{"text":"掷骰直接篡改敌血法力与卡效","dimension":"玩法","excerpt":"Change enemy HP, alter your own mana, modify card effects, adjust relic charges - you can use dice to change your destiny.","url":"https://store.steampowered.com/app/2501600/","label":"证据原文片段"},{"text":"六种法力组合六职业与海量牌库","dimension":"玩法","excerpt":"You will gradually unlock 6 types of mana, which can be combined to create 6 unique classes. With nearly 500 cards and almost 200 relics, challenge enemies with your own deck!","url":"https://store.steampowered.com/app/2501600/","label":"证据原文片段"},{"text":"八帧手绘动画铺满异世界","dimension":"画风","excerpt":"The romance of 8 frames per second, a swan song of the hand-drawn era. There are over 10 sets of fully hand-drawn backgrounds, nearly 30 types of enemies, and close to 100 kinds of card effects.","url":"https://store.steampowered.com/app/2501600/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":277750,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":338072,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":16246,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3021338,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":311451,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":311451,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.251105035214037,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":5570,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.034452,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、卡牌游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_ddc63661529c9ecb69bda7f64ed88c3b178585bd.1920x1080.jpg?t=1778075971","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_ddc63661529c9ecb69bda7f64ed88c3b178585bd.1920x1080.jpg?t=1778075971","alt":"骰子浪游者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_216ad9acbe28293190a0fd22fab0ed81d5da2ee9.1920x1080.jpg?t=1778075971","alt":"骰子浪游者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_c42c92cd3d63cd3f56cabf4e27034630f973d1d5.1920x1080.jpg?t=1778075971","alt":"骰子浪游者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_ed017e0bab97adfb086479dfff8287d3ec18fab2.1920x1080.jpg?t=1778075971","alt":"骰子浪游者 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "DICEOMANCER",
+    "developers": [
+      "超厚皮猪猪 Ultra Piggy Studio"
+    ],
+    "publishers": [
+      "Gamirror Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-09",
+    "tags": [
+      "策略",
+      "卡牌游戏",
+      "肉鸽卡组构筑",
+      "卡牌对战",
+      "色彩鲜明"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "掷骰直接篡改敌血法力与卡效",
+      "dimension": "玩法",
+      "excerpt": "Change enemy HP, alter your own mana, modify card effects, adjust relic charges - you can use dice to change your destiny.",
+      "url": "https://store.steampowered.com/app/2501600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "六种法力组合六职业与海量牌库",
+      "dimension": "玩法",
+      "excerpt": "You will gradually unlock 6 types of mana, which can be combined to create 6 unique classes. With nearly 500 cards and almost 200 relics, challenge enemies with your own deck!",
+      "url": "https://store.steampowered.com/app/2501600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "八帧手绘动画铺满异世界",
+      "dimension": "画风",
+      "excerpt": "The romance of 8 frames per second, a swan song of the hand-drawn era. There are over 10 sets of fully hand-drawn backgrounds, nearly 30 types of enemies, and close to 100 kinds of card effects.",
+      "url": "https://store.steampowered.com/app/2501600/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 282172,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 334962,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 16261,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3050204,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 316252,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 316252,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.24503168669232,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 4732,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.033589,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "骰子浪游者位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_ddc63661529c9ecb69bda7f64ed88c3b178585bd.1920x1080.jpg?t=1778075971",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_ddc63661529c9ecb69bda7f64ed88c3b178585bd.1920x1080.jpg?t=1778075971",
+        "alt": "骰子浪游者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_216ad9acbe28293190a0fd22fab0ed81d5da2ee9.1920x1080.jpg?t=1778075971",
+        "alt": "骰子浪游者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_c42c92cd3d63cd3f56cabf4e27034630f973d1d5.1920x1080.jpg?t=1778075971",
+        "alt": "骰子浪游者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_ed017e0bab97adfb086479dfff8287d3ec18fab2.1920x1080.jpg?t=1778075971",
+        "alt": "骰子浪游者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_db6a5d307754f0a34925a5a9f93865e8ca28982f.1920x1080.jpg?t=1778075971",
+        "alt": "骰子浪游者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_fda77b85c84371eca0e11241002a1bf13caad0a7.1920x1080.jpg?t=1778075971",
+        "alt": "骰子浪游者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_ef3f675a1338c85902adf26a7569f149a0e65df0.1920x1080.jpg?t=1778075971",
+        "alt": "骰子浪游者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501600/ss_20f7dc0ba63ce102196d908c8387043e9301e60c.1920x1080.jpg?t=1778075971",
+        "alt": "骰子浪游者 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

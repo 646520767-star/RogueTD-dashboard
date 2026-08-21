@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Deadzone: Rogue","developers":["Prophecy Games"],"publishers":["Prophecy Games"],"release_status":"released","release_date":"2025-08-11","tags":["类Rogue","在线合作","玩家对环境","轻度Rogue","第一人称"]},"hooks":[{"text":"三人小队可标记集火目标、同步手雷轰炸并共同强攻被占领的飞船","dimension":"玩法","excerpt":"Adventure on your own, or conquer the ship in a co-op squad of up to 3 players. Mark enemies for focused fire, synchronize grenade strikes, and storm enemies with overwhelming force.","url":"https://store.steampowered.com/app/3228590/","label":"证据原文片段"},{"text":"三十多种枪械可附加元素与升级，把霰弹枪改成虚空扩散或让冲锋枪倾泻冰雹","dimension":"玩法","excerpt":"Master over 30 powerful weapons, each modifiable with elemental affixes and upgrades. Turn a shotgun into a void-spreading crowd crusher, or a submachine gun into a room clearing hail of ice.","url":"https://store.steampowered.com/app/3228590/","label":"证据原文片段"},{"text":"数十种强化可把打法改造成远射、潜行或强化近战，并继续叠加永久升级","dimension":"玩法","excerpt":"Transform your combat approach through dozens of augments, perks, and items. Dominate from afar, strike from the shadows with stealth, or get close with enhanced melee. Your choices offer a unique experience against the mechanical onslaught. Use permanent upgrades to reshape yourself into a killing machine. Boost your shields, amplify elemental chaos, and tear bots apart with satisfying fury. Forge a path that matches your playstyle.","url":"https://store.steampowered.com/app/3228590/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":801944,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":796896,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":53317,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":14107982,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":860356,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":860356,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":15.433001390395328,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":16043,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.412655,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、在线合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005/ss_57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005.1920x1080.jpg?t=1784756793","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005/ss_57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005.1920x1080.jpg?t=1784756793","alt":"死域Rogue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/2602a35bae9928e37d370441420f7d258e5a8595/ss_2602a35bae9928e37d370441420f7d258e5a8595.1920x1080.jpg?t=1784756793","alt":"死域Rogue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/920b1a94b8be19a220dbbca5fe6244f4b5cc6dcd/ss_920b1a94b8be19a220dbbca5fe6244f4b5cc6dcd.1920x1080.jpg?t=1784756793","alt":"死域Rogue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/f0c37e8c1504cfac3302ab79b72e4a1bc54639c1/ss_f0c37e8c1504cfac3302ab79b72e4a1bc54639c1.1920x1080.jpg?t=1784756793","alt":"死域Rogue 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Deadzone: Rogue",
+    "developers": [
+      "Prophecy Games"
+    ],
+    "publishers": [
+      "Prophecy Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-08-11",
+    "tags": [
+      "类Rogue",
+      "轻度Rogue",
+      "在线合作",
+      "玩家对环境",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "三人小队可标记集火目标、同步手雷轰炸并共同强攻被占领的飞船",
+      "dimension": "玩法",
+      "excerpt": "Adventure on your own, or conquer the ship in a co-op squad of up to 3 players. Mark enemies for focused fire, synchronize grenade strikes, and storm enemies with overwhelming force.",
+      "url": "https://store.steampowered.com/app/3228590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三十多种枪械可附加元素与升级，把霰弹枪改成虚空扩散或让冲锋枪倾泻冰雹",
+      "dimension": "玩法",
+      "excerpt": "Master over 30 powerful weapons, each modifiable with elemental affixes and upgrades. Turn a shotgun into a void-spreading crowd crusher, or a submachine gun into a room clearing hail of ice.",
+      "url": "https://store.steampowered.com/app/3228590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "数十种强化可把打法改造成远射、潜行或强化近战，并继续叠加永久升级",
+      "dimension": "玩法",
+      "excerpt": "Transform your combat approach through dozens of augments, perks, and items. Dominate from afar, strike from the shadows with stealth, or get close with enhanced melee. Your choices offer a unique experience against the mechanical onslaught. Use permanent upgrades to reshape yourself into a killing machine. Boost your shields, amplify elemental chaos, and tear bots apart with satisfying fury. Forge a path that matches your playstyle.",
+      "url": "https://store.steampowered.com/app/3228590/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 817437,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 800341,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 53452,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 14329938,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 877027,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 877027,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 15.149313452072255,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 14614,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.418329,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "死域Rogue位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005/ss_57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005.1920x1080.jpg?t=1784756793",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005/ss_57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005.1920x1080.jpg?t=1784756793",
+        "alt": "死域Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/2602a35bae9928e37d370441420f7d258e5a8595/ss_2602a35bae9928e37d370441420f7d258e5a8595.1920x1080.jpg?t=1784756793",
+        "alt": "死域Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/920b1a94b8be19a220dbbca5fe6244f4b5cc6dcd/ss_920b1a94b8be19a220dbbca5fe6244f4b5cc6dcd.1920x1080.jpg?t=1784756793",
+        "alt": "死域Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/f0c37e8c1504cfac3302ab79b72e4a1bc54639c1/ss_f0c37e8c1504cfac3302ab79b72e4a1bc54639c1.1920x1080.jpg?t=1784756793",
+        "alt": "死域Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/b5f8b9eab87397aad92884df892b59613f2d3221/ss_b5f8b9eab87397aad92884df892b59613f2d3221.1920x1080.jpg?t=1784756793",
+        "alt": "死域Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/36e67d12e155526ba0d1a98ea8079ac42b642fea/ss_36e67d12e155526ba0d1a98ea8079ac42b642fea.1920x1080.jpg?t=1784756793",
+        "alt": "死域Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/942f41de85325d4b80045e3e57e6fbb83d898c74/ss_942f41de85325d4b80045e3e57e6fbb83d898c74.1920x1080.jpg?t=1784756793",
+        "alt": "死域Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/17d2265321d05d7d8629db9b6b94c8376ef60602/ss_17d2265321d05d7d8629db9b6b94c8376ef60602.1920x1080.jpg?t=1784756793",
+        "alt": "死域Rogue 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

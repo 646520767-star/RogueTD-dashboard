@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Axon TD: Uprising - Tower Defense","developers":["Element Studios"],"publishers":["Element Studios"],"release_status":"released","release_date":"2024-09-27","tags":["塔防","即时战术","轻度Rogue","策略","玩家对环境"]},"hooks":[{"text":"像画布一样铺设地图瓦片，延长敌军路线、连接岛屿甚至放置新终点","dimension":"玩法","excerpt":"In Axon TD, you're given a brush, and the map is your canvas! The name of the game is map manipulation. Place down tiles to make longer paths and support more towers. Tiles can also bridge to various islands scattered around the map; these provide entire new chunks to maze with. On various maps, you can even place a new destination point!","url":"https://store.steampowered.com/app/2296550/","label":"证据原文片段"},{"text":"Roguelite模式随机组合地图、塔与科技，并在扩张战场中加速科技成长","dimension":"玩法","excerpt":"A roguelite mode where you face the gauntlet of randomized maps, towers, and techs. Adapt to a rapidly expanding map area and take advantage of an accelerated tower technology progression. Surviving earns you a place on the global leaderboard.","url":"https://store.steampowered.com/app/2296550/","label":"证据原文片段"},{"text":"地图编辑器提供官方同级工具，可制作单人或合作地图并通过Workshop分享","dimension":"玩法","excerpt":"The map editor gives you all of the tools needed to create any singleplayer or co-op map that we could create ourselves.","url":"https://store.steampowered.com/app/2296550/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":39731,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":57192,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5039,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":661208,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":43115,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":43115,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.217698705857881,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":767,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.440678,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"塔防、即时战术","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_b3b01b4493687117fecb54355d8e6eb337139704.1920x1080.jpg?t=1753878446","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_b3b01b4493687117fecb54355d8e6eb337139704.1920x1080.jpg?t=1753878446","alt":"铁壁矩阵：轴突塔防 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_81668b513f233b8e00d8849bc96a7d9fdd6eb388.1920x1080.jpg?t=1753878446","alt":"铁壁矩阵：轴突塔防 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_87194beee84a3a57a441cf50eed0e20a8c3c58fd.1920x1080.jpg?t=1753878446","alt":"铁壁矩阵：轴突塔防 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_a9b1fdf103d3902f18f8c3275f06c0fe4bf37a40.1920x1080.jpg?t=1753878446","alt":"铁壁矩阵：轴突塔防 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Axon TD: Uprising - Tower Defense",
+    "developers": [
+      "Element Studios"
+    ],
+    "publishers": [
+      "Element Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-27",
+    "tags": [
+      "塔防",
+      "即时战术",
+      "轻度Rogue",
+      "策略",
+      "玩家对环境"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "像画布一样铺设地图瓦片，延长敌军路线、连接岛屿甚至放置新终点",
+      "dimension": "玩法",
+      "excerpt": "In Axon TD, you're given a brush, and the map is your canvas! The name of the game is map manipulation. Place down tiles to make longer paths and support more towers. Tiles can also bridge to various islands scattered around the map; these provide entire new chunks to maze with. On various maps, you can even place a new destination point!",
+      "url": "https://store.steampowered.com/app/2296550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Roguelite模式随机组合地图、塔与科技，并在扩张战场中加速科技成长",
+      "dimension": "玩法",
+      "excerpt": "A roguelite mode where you face the gauntlet of randomized maps, towers, and techs. Adapt to a rapidly expanding map area and take advantage of an accelerated tower technology progression. Surviving earns you a place on the global leaderboard.",
+      "url": "https://store.steampowered.com/app/2296550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "地图编辑器提供官方同级工具，可制作单人或合作地图并通过Workshop分享",
+      "dimension": "玩法",
+      "excerpt": "The map editor gives you all of the tools needed to create any singleplayer or co-op map that we could create ourselves.",
+      "url": "https://store.steampowered.com/app/2296550/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "非常优秀的策略游戏（造防御塔及规划（敌人）行进路线，进行防御）。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "非常优秀的策略游戏（造防御塔及规划（敌人）行进路线，进行防御）。",
+          "url": "https://steamcommunity.com/profiles/76561198087930943/recommended/2296550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "I was having fun until just beyond the half way mark in the campaign, and then the level design changed abruptly, expecting very specific builds in order to be successful.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "I was having fun until just beyond the half way mark in the campaign, and then the level design changed abruptly, expecting very specific builds in order to be successful.",
+          "url": "https://steamcommunity.com/id/Mazian/recommended/2296550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Not only that, but the campaign has a great sense of progression, a fun story, and gradually increases the challenge in an exciting way.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Not only that, but the campaign has a great sense of progression, a fun story, and gradually increases the challenge in an exciting way.",
+          "url": "https://steamcommunity.com/profiles/76561198015463359/recommended/2296550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "[quote]寻找游戏里的独特风味，发现玩法中的创意挑战 点击关注[url=https://store.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "[quote]寻找游戏里的独特风味，发现玩法中的创意挑战 点击关注[url=https://store.",
+          "url": "https://steamcommunity.com/profiles/76561199362129809/recommended/2296550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The unique abilities of each turret type in Axon TD: Uprising open up a variety of strategies, making every battle unpredictable and interesting.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The unique abilities of each turret type in Axon TD: Uprising open up a variety of strategies, making every battle unpredictable and interesting.",
+          "url": "https://store.steampowered.com/curator/33970940-Cheating-Is-Bad-Mmmkaayy/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Axon TD: Uprising - Tower Defense gameplay allows you to use various strategies, making each game session interesting.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Axon TD: Uprising - Tower Defense gameplay allows you to use various strategies, making each game session interesting.",
+          "url": "https://store.steampowered.com/curator/45012372-Snake-Knows-it-All/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Towers in Axon TD: Uprising allows you to create your own unique strategies, which brings variety to the gameplay.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Towers in Axon TD: Uprising allows you to create your own unique strategies, which brings variety to the gameplay.",
+          "url": "https://store.steampowered.com/curator/44992561-Danmaku-Disciples/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Axon TD: Uprising - Tower Defense gives you joy of playing well made game with additional excitement from exploring interesting mechanics that add another layer of complexity into the game.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Axon TD: Uprising - Tower Defense gives you joy of playing well made game with additional excitement from exploring interesting mechanics that add another layer of complexity into the game.",
+          "url": "https://store.steampowered.com/curator/45004419-Emotional-Gaming/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 42563,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 58810,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5140,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 701391,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 46172,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 46172,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.835773842442709,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 692,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.951469,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "铁壁矩阵：轴突塔防位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_b3b01b4493687117fecb54355d8e6eb337139704.1920x1080.jpg?t=1753878446",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_b3b01b4493687117fecb54355d8e6eb337139704.1920x1080.jpg?t=1753878446",
+        "alt": "铁壁矩阵：轴突塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_81668b513f233b8e00d8849bc96a7d9fdd6eb388.1920x1080.jpg?t=1753878446",
+        "alt": "铁壁矩阵：轴突塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_87194beee84a3a57a441cf50eed0e20a8c3c58fd.1920x1080.jpg?t=1753878446",
+        "alt": "铁壁矩阵：轴突塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_a9b1fdf103d3902f18f8c3275f06c0fe4bf37a40.1920x1080.jpg?t=1753878446",
+        "alt": "铁壁矩阵：轴突塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_8e682c6a54849ac48726ad511b8e0aee221662db.1920x1080.jpg?t=1753878446",
+        "alt": "铁壁矩阵：轴突塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_e2390405f8a3cb59ca25c4858ebf6b6eb1488e76.1920x1080.jpg?t=1753878446",
+        "alt": "铁壁矩阵：轴突塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_3c748b63c58b1f039c6527607dc6419fe1a41cca.1920x1080.jpg?t=1753878446",
+        "alt": "铁壁矩阵：轴突塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2296550/ss_45db0ac4daf8be5d512adccf1f3b36cba64fb4f5.1920x1080.jpg?t=1753878446",
+        "alt": "铁壁矩阵：轴突塔防 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

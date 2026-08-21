@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Beach Defense: Zombie Invasion","developers":["Only Fun Games"],"publishers":["Only Fun Games"],"release_status":"released","release_date":"2026-06-11","tags":["休闲","策略","塔防","弹幕射击","类Rogue"]},"hooks":[{"text":"十二种以上士兵占用不同背包格数，有限空间中的排布直接决定防线强度","dimension":"玩法","excerpt":"With over 12 unique soldier types, you must strategically arrange your forces within a limited grid space—just like organizing a backpack—to fend off wave after wave of zombie attacks.","url":"https://store.steampowered.com/app/4754260/","label":"证据原文片段"},{"text":"开战后士兵自动形成密集弹幕，玩家通过资源分配、站位与技能组合维持防线","dimension":"玩法","excerpt":"When battle begins, your soldiers automatically attack, forming a dense bullet hell firing net. Zombies surge from the beach ahead. You must allocate resources, position your troops wisely, and combine their skills to ensure your line holds.","url":"https://store.steampowered.com/app/4754260/","label":"证据原文片段"},{"text":"失败仍保留战斗资源，用于开箱、升王与士兵，并在八档难度中收集碎片进化单位","dimension":"玩法","excerpt":"Can’t get past a wave? No problem! Every battle earns you resources → open chests → upgrade the King and your soldiers. The game features 8 difficulty levels: Earn soldier shards with each run Upgrade existing soldiers Unlock higher-tier units","url":"https://store.steampowered.com/app/4754260/","label":"证据原文片段"}],"opinions":[{"text":"明亮多彩的画面增强了游玩乐趣","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The visuals are bright and colorful, which makes the gameplay even more enjoyable.","url":"https://store.steampowered.com/curator/38771580-Escape-to-Game/","label":"证据原文片段"}]},{"text":"可爱画风带来怀旧掌机感","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"画风可爱得简单小游戏，玩起来有一种童年拿那种老手机玩得感觉","url":"https://steamcommunity.com/profiles/76561199178910465/recommended/4754260/","label":"证据原文片段"}]},{"text":"数关后玩法会显得重复","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"can feel repetitive after a few levels.","url":"https://store.steampowered.com/curator/40046710-BrainSimulator/","label":"证据原文片段"}]},{"text":"角色成长速度过慢","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"character progression is painfully slow.","url":"https://steamcommunity.com/profiles/76561198872048081/recommended/4754260/","label":"证据原文片段"}]},{"text":"缺少帧率限制导致CPU降频","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"no FPS limiter, which quickly leads to CPU throttling.","url":"https://steamcommunity.com/profiles/76561198872048081/recommended/4754260/","label":"证据原文片段"}]},{"text":"第七关难度不合理","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"第七关难度及其不合理","url":"https://steamcommunity.com/profiles/76561198104956330/recommended/4754260/","label":"证据原文片段"}]},{"text":"接近通关时Bug导致失败","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"好不容易狗运马上过了游戏卡BUG直接给我死出去了。","url":"https://steamcommunity.com/profiles/76561198104956330/recommended/4754260/","label":"证据原文片段"}]},{"text":"第七章敌人数值提升过高","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"第七章怪数值明显抬高不少","url":"https://steamcommunity.com/profiles/76561199659488944/recommended/4754260/","label":"证据原文片段"}]},{"text":"缺少倍速刷关功能","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游戏没有倍速刷关也难受","url":"https://steamcommunity.com/profiles/76561199659488944/recommended/4754260/","label":"证据原文片段"}]},{"text":"游戏机制说明严重不足","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"there is a severe lack of explanation about the game mechanics","url":"https://steamcommunity.com/profiles/76561198872048081/recommended/4754260/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":6675,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":121,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":18427,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7006,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7006,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.897291825436739,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":163,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.822086,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["数关后玩法会显得重复","角色成长速度过慢","技术/性能：缺少帧率限制导致CPU降频","第七关难度不合理","技术/性能：接近通关时Bug导致失败","第七章敌人数值提升过高"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/c2e20ab0842996a49afb1f0319f308d4df6c539a/ss_c2e20ab0842996a49afb1f0319f308d4df6c539a.1920x1080.jpg?t=1784121438","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/c2e20ab0842996a49afb1f0319f308d4df6c539a/ss_c2e20ab0842996a49afb1f0319f308d4df6c539a.1920x1080.jpg?t=1784121438","alt":"沙滩防线：僵尸来袭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/8fc6f6e1ea1e6326a477cbb112fe02789bb8c7c6/ss_8fc6f6e1ea1e6326a477cbb112fe02789bb8c7c6.1920x1080.jpg?t=1784121438","alt":"沙滩防线：僵尸来袭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/c631b67092c77dc9e9c31abd088b63a23e3aaf8b/ss_c631b67092c77dc9e9c31abd088b63a23e3aaf8b.1920x1080.jpg?t=1784121438","alt":"沙滩防线：僵尸来袭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/b3925ced91011ad953a781fa71a5233e24b95c58/ss_b3925ced91011ad953a781fa71a5233e24b95c58.1920x1080.jpg?t=1784121438","alt":"沙滩防线：僵尸来袭 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Beach Defense: Zombie Invasion",
+    "developers": [
+      "Only Fun Games"
+    ],
+    "publishers": [
+      "Only Fun Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-11",
+    "tags": [
+      "休闲",
+      "策略",
+      "塔防",
+      "弹幕射击",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "十二种以上士兵占用不同背包格数，有限空间中的排布直接决定防线强度",
+      "dimension": "玩法",
+      "excerpt": "With over 12 unique soldier types, you must strategically arrange your forces within a limited grid space—just like organizing a backpack—to fend off wave after wave of zombie attacks.",
+      "url": "https://store.steampowered.com/app/4754260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "开战后士兵自动形成密集弹幕，玩家通过资源分配、站位与技能组合维持防线",
+      "dimension": "玩法",
+      "excerpt": "When battle begins, your soldiers automatically attack, forming a dense bullet hell firing net. Zombies surge from the beach ahead. You must allocate resources, position your troops wisely, and combine their skills to ensure your line holds.",
+      "url": "https://store.steampowered.com/app/4754260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "失败仍保留战斗资源，用于开箱、升王与士兵，并在八档难度中收集碎片进化单位",
+      "dimension": "玩法",
+      "excerpt": "Can’t get past a wave? No problem! Every battle earns you resources → open chests → upgrade the King and your soldiers. The game features 8 difficulty levels: Earn soldier shards with each run Upgrade existing soldiers Unlock higher-tier units",
+      "url": "https://store.steampowered.com/app/4754260/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "明亮多彩的画面增强了游玩乐趣",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The visuals are bright and colorful, which makes the gameplay even more enjoyable.",
+          "url": "https://store.steampowered.com/curator/38771580-Escape-to-Game/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "可爱画风带来怀旧掌机感",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "画风可爱得简单小游戏，玩起来有一种童年拿那种老手机玩得感觉",
+          "url": "https://steamcommunity.com/profiles/76561199178910465/recommended/4754260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "数关后玩法会显得重复",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "can feel repetitive after a few levels.",
+          "url": "https://store.steampowered.com/curator/40046710-BrainSimulator/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色成长速度过慢",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "character progression is painfully slow.",
+          "url": "https://steamcommunity.com/profiles/76561198872048081/recommended/4754260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少帧率限制导致CPU降频",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "no FPS limiter, which quickly leads to CPU throttling.",
+          "url": "https://steamcommunity.com/profiles/76561198872048081/recommended/4754260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "第七关难度不合理",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "第七关难度及其不合理",
+          "url": "https://steamcommunity.com/profiles/76561198104956330/recommended/4754260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "接近通关时Bug导致失败",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "好不容易狗运马上过了游戏卡BUG直接给我死出去了。",
+          "url": "https://steamcommunity.com/profiles/76561198104956330/recommended/4754260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "第七章敌人数值提升过高",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "第七章怪数值明显抬高不少",
+          "url": "https://steamcommunity.com/profiles/76561199659488944/recommended/4754260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少倍速刷关功能",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游戏没有倍速刷关也难受",
+          "url": "https://steamcommunity.com/profiles/76561199659488944/recommended/4754260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏机制说明严重不足",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "there is a severe lack of explanation about the game mechanics",
+          "url": "https://steamcommunity.com/profiles/76561198872048081/recommended/4754260/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7153,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 134,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 21528,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7447,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7447,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.554256758461629,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 167,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.920904,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "数关后玩法会显得重复",
+    "角色成长速度过慢",
+    "技术/性能：缺少帧率限制导致CPU降频",
+    "第七关难度不合理",
+    "技术/性能：接近通关时Bug导致失败",
+    "第七章敌人数值提升过高"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "沙滩防线：僵尸来袭位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/c2e20ab0842996a49afb1f0319f308d4df6c539a/ss_c2e20ab0842996a49afb1f0319f308d4df6c539a.1920x1080.jpg?t=1784121438",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/c2e20ab0842996a49afb1f0319f308d4df6c539a/ss_c2e20ab0842996a49afb1f0319f308d4df6c539a.1920x1080.jpg?t=1786758510",
+        "alt": "沙滩防线：僵尸来袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/8fc6f6e1ea1e6326a477cbb112fe02789bb8c7c6/ss_8fc6f6e1ea1e6326a477cbb112fe02789bb8c7c6.1920x1080.jpg?t=1786758510",
+        "alt": "沙滩防线：僵尸来袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/c631b67092c77dc9e9c31abd088b63a23e3aaf8b/ss_c631b67092c77dc9e9c31abd088b63a23e3aaf8b.1920x1080.jpg?t=1786758510",
+        "alt": "沙滩防线：僵尸来袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/b3925ced91011ad953a781fa71a5233e24b95c58/ss_b3925ced91011ad953a781fa71a5233e24b95c58.1920x1080.jpg?t=1786758510",
+        "alt": "沙滩防线：僵尸来袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/d3c3a3ca5c8625613124a610b62fdc1aa8c916c7/ss_d3c3a3ca5c8625613124a610b62fdc1aa8c916c7.1920x1080.jpg?t=1786758510",
+        "alt": "沙滩防线：僵尸来袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/cd016109d08de32d8833f39ab922c3b2ea6fec97/ss_cd016109d08de32d8833f39ab922c3b2ea6fec97.1920x1080.jpg?t=1786758510",
+        "alt": "沙滩防线：僵尸来袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/7bed64648f4f27a56032d0b8b26a5f1d2597ec69/ss_7bed64648f4f27a56032d0b8b26a5f1d2597ec69.1920x1080.jpg?t=1786758510",
+        "alt": "沙滩防线：僵尸来袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754260/d854a960648fc275fb530cf74736e7e2f1499565/ss_d854a960648fc275fb530cf74736e7e2f1499565.1920x1080.jpg?t=1786758510",
+        "alt": "沙滩防线：僵尸来袭 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

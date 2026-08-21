@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Three Kingdoms:Yi","developers":["XL Studio"],"publishers":["XL Studio"],"release_status":"early_access","release_date":"2026-06-23","tags":["卡牌对战","轻度Rogue","策略","卡组构筑","角色扮演"]},"hooks":[{"text":"四槽战阵把卡组构筑与武将调度绑定，每名武将拥有独特天赋并可形成大量组合。","dimension":"玩法","excerpt":"Four slots on the battlefield are yours to command — deploy and withdraw any general as the moment demands. Each general carries unique talents, with thousands of possible combinations.","url":"https://store.steampowered.com/app/4771880/","label":"证据原文片段"},{"text":"每局可从不同州开局，在8州49城的事件、商店、招募、休整等节点中选择进军洛阳的路线。","dimension":"玩法","excerpt":"8 Provinces, 49 Cities — A Campaign That Never Repeats The \"Nine Provinces\" lie scattered like mist, their heroes blazing like stars — each run, choose any province as your starting ground. Conquer six cities within your province, and the road to Sili opens — all the way to Luoyang. Events, shops, recruitment, rest stops, drills, inheritance — the choices among them shape the path of your fate.","url":"https://store.steampowered.com/app/4771880/","label":"证据原文片段"},{"text":"包括Boss在内的敌将都可用劝降令策反，持续招募还会点亮星图新天赋。","dimension":"玩法","excerpt":"Every enemy general can be persuaded — even bosses. Use Persuasion Decrees of varying quality to attempt the turn, and with luck, the enemy will change banners and stand with you. — As recruitment count rises, you unlock the Star Chart and light new talents.","url":"https://store.steampowered.com/app/4771880/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":867,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":145,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7256,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":867,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":867,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.950006996568682,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":42,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.697674,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"卡牌对战、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/0d6109ecee96d0d736e312530a5580a7fabe6346/ss_0d6109ecee96d0d736e312530a5580a7fabe6346.1920x1080.jpg?t=1782222303","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/0d6109ecee96d0d736e312530a5580a7fabe6346/ss_0d6109ecee96d0d736e312530a5580a7fabe6346.1920x1080.jpg?t=1782222303","alt":"三国义 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/af4c203aea98114b01758559f0b7c1a2f04075a3/ss_af4c203aea98114b01758559f0b7c1a2f04075a3.1920x1080.jpg?t=1782222303","alt":"三国义 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/d84aee6122c2caae6c47e658c3017d0c59787439/ss_d84aee6122c2caae6c47e658c3017d0c59787439.1920x1080.jpg?t=1782222303","alt":"三国义 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/4edd64b9175169e9e6887a14ba4e6505331e6755/ss_4edd64b9175169e9e6887a14ba4e6505331e6755.1920x1080.jpg?t=1782222303","alt":"三国义 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Three Kingdoms:Yi",
+    "developers": [
+      "XL Studio"
+    ],
+    "publishers": [
+      "XL Studio"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-23",
+    "tags": [
+      "卡牌对战",
+      "轻度Rogue",
+      "策略",
+      "卡组构筑",
+      "角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "四槽战阵把卡组构筑与武将调度绑定，每名武将拥有独特天赋并可形成大量组合。",
+      "dimension": "玩法",
+      "excerpt": "Four slots on the battlefield are yours to command — deploy and withdraw any general as the moment demands. Each general carries unique talents, with thousands of possible combinations.",
+      "url": "https://store.steampowered.com/app/4771880/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每局可从不同州开局，在8州49城的事件、商店、招募、休整等节点中选择进军洛阳的路线。",
+      "dimension": "玩法",
+      "excerpt": "8 Provinces, 49 Cities — A Campaign That Never Repeats The \"Nine Provinces\" lie scattered like mist, their heroes blazing like stars — each run, choose any province as your starting ground. Conquer six cities within your province, and the road to Sili opens — all the way to Luoyang. Events, shops, recruitment, rest stops, drills, inheritance — the choices among them shape the path of your fate.",
+      "url": "https://store.steampowered.com/app/4771880/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "包括Boss在内的敌将都可用劝降令策反，持续招募还会点亮星图新天赋。",
+      "dimension": "玩法",
+      "excerpt": "Every enemy general can be persuaded — even bosses. Use Persuasion Decrees of varying quality to attempt the turn, and with luck, the enemy will change banners and stand with you. — As recruitment count rises, you unlock the Star Chart and light new talents.",
+      "url": "https://store.steampowered.com/app/4771880/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1092,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1279,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 183,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 9140,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1092,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1092,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.489766368937083,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 61,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.721311,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "三国义位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/0d6109ecee96d0d736e312530a5580a7fabe6346/ss_0d6109ecee96d0d736e312530a5580a7fabe6346.1920x1080.jpg?t=1782222303",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/0d6109ecee96d0d736e312530a5580a7fabe6346/ss_0d6109ecee96d0d736e312530a5580a7fabe6346.1920x1080.jpg?t=1782222303",
+        "alt": "三国义 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/af4c203aea98114b01758559f0b7c1a2f04075a3/ss_af4c203aea98114b01758559f0b7c1a2f04075a3.1920x1080.jpg?t=1782222303",
+        "alt": "三国义 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/d84aee6122c2caae6c47e658c3017d0c59787439/ss_d84aee6122c2caae6c47e658c3017d0c59787439.1920x1080.jpg?t=1782222303",
+        "alt": "三国义 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/4edd64b9175169e9e6887a14ba4e6505331e6755/ss_4edd64b9175169e9e6887a14ba4e6505331e6755.1920x1080.jpg?t=1782222303",
+        "alt": "三国义 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/695b86ecb69f42db7bdb94a4edd89159e03f579e/ss_695b86ecb69f42db7bdb94a4edd89159e03f579e.1920x1080.jpg?t=1782222303",
+        "alt": "三国义 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/f0bc7c6a90c9092c8b3bacf67c51a8fdb9649a10/ss_f0bc7c6a90c9092c8b3bacf67c51a8fdb9649a10.1920x1080.jpg?t=1782222303",
+        "alt": "三国义 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/a9436e3e2640b4ee72c20fbdc77f3b31ab285bd7/ss_a9436e3e2640b4ee72c20fbdc77f3b31ab285bd7.1920x1080.jpg?t=1782222303",
+        "alt": "三国义 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771880/51e9488efb46143ab71cc6e549a040a824b4b2d8/ss_51e9488efb46143ab71cc6e549a040a824b4b2d8.1920x1080.jpg?t=1782222303",
+        "alt": "三国义 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

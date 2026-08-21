@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Demon's Mirror","developers":["Be-Rad Entertainment"],"publishers":["Good Shepherd Entertainment"],"release_status":"released","release_date":"2024-09-05","tags":["卡牌游戏","卡牌对战","类Rogue","卡组构筑","轻度Rogue"]},"hooks":[{"text":"用卡牌操纵三消网格，连锁完成攻击、防御、资源获取与削弱","dimension":"玩法","excerpt":"Combining deckbuilding and chain-3 mechanics puts you in control of the battle! Collect and wield powerful cards to manipulate the grid and unleash devastating combos upon your foes while chaining tiles to attack, defend, gather resources or decrease your enemy’s power.","url":"https://store.steampowered.com/app/1600910/","label":"证据原文片段"},{"text":"收集超过200张卡牌构筑牌组","dimension":"玩法","excerpt":"Discover over 200 cards to create the ultimate deck!","url":"https://store.steampowered.com/app/1600910/","label":"证据原文片段"},{"text":"每局重组敌人、物品、随机卡牌与抉择事件，并逐步揭开世界秘密","dimension":"玩法","excerpt":"Unique enemy encounters, items, and randomly dropped cards are generated with each run. Discover chance events where you’ll make interesting choices, meet strange creatures, and uncover hidden secrets about the world, ensuring near-endless replayability.","url":"https://store.steampowered.com/app/1600910/","label":"证据原文片段"}],"opinions":[{"text":"卡牌抽取与棋盘抽取的双重随机拖累战斗","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"you wait for [b]two[/b] RNGs to line up: both your card draw and the board draw","url":"https://steamcommunity.com/profiles/76561198054725871/recommended/1600910/","label":"证据原文片段"}]},{"text":"很难形成滚雪球式强力组合","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"There's very little in the way of snowballing OP combos","url":"https://steamcommunity.com/profiles/76561198054725871/recommended/1600910/","label":"证据原文片段"}]},{"text":"三消机制拖慢单局节奏","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The chain 3 mechanics are...interesting, but ultimately, they slow the run down","url":"https://steamcommunity.com/id/cagebot/recommended/1600910/","label":"证据原文片段"}]},{"text":"卡牌与三消之间联系不好","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"卡牌和三消之间的联系不好","url":"https://steamcommunity.com/profiles/76561198125265489/recommended/1600910/","label":"证据原文片段"}]},{"text":"三消机制吸引力不足","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"they're not all that captivating","url":"https://steamcommunity.com/id/cagebot/recommended/1600910/","label":"证据原文片段"}]},{"text":"强力连锁通常只带来单回合优势","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"killer chains, but they usually only amount to single-turn advantages in this game","url":"https://steamcommunity.com/profiles/76561198054725871/recommended/1600910/","label":"证据原文片段"}]},{"text":"三消与战斗的联动有新意","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"三消机制和战斗的联动还是比较有新意的","url":"https://steamcommunity.com/id/lovcrimson/recommended/1600910/","label":"证据原文片段"}]},{"text":"卡牌操纵三消棋盘的方式很有意思","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"many cards can manipulate the puzzle grid in interesting ways","url":"https://steamcommunity.com/profiles/76561197992512352/recommended/1600910/","label":"证据原文片段"}]},{"text":"理解机制后游玩非常有满足感","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"once you wrap your head around the mechanics, Demon's Mirror is super satisfying","url":"https://steamcommunity.com/profiles/76561197972432520/recommended/1600910/","label":"证据原文片段"}]},{"text":"高难度策略与计算挑战性强","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"高难度下对于策略和计算的要求甚至比很多经典DBG还要高，玩起来很有挑战性","url":"https://steamcommunity.com/id/lovcrimson/recommended/1600910/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":3182,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":36857,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1488,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":48511,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3633,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3633,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.404387011906104,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":107,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.915888,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["卡牌抽取与棋盘抽取的双重随机拖累战斗","很难形成滚雪球式强力组合","三消机制拖慢单局节奏","卡牌与三消之间联系不好","三消机制吸引力不足","强力连锁通常只带来单回合优势"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_e685a85429515c94cceb20bfcb6ac5e106ef8163.1920x1080.jpg?t=1726817438","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_e685a85429515c94cceb20bfcb6ac5e106ef8163.1920x1080.jpg?t=1726817438","alt":"Demon's Mirror 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_6374805490a760ae74e4d4840105f91e7d5ba918.1920x1080.jpg?t=1726817438","alt":"Demon's Mirror 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_379aff2a71503579e4088adecf54aa52d2922be2.1920x1080.jpg?t=1726817438","alt":"Demon's Mirror 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_d98f7be123a7f7afbfbb02fde4df9fb2afb72667.1920x1080.jpg?t=1726817438","alt":"Demon's Mirror 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Demon's Mirror",
+    "developers": [
+      "Be-Rad Entertainment"
+    ],
+    "publishers": [
+      "Good Shepherd Entertainment"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-05",
+    "tags": [
+      "卡牌游戏",
+      "卡牌对战",
+      "类Rogue",
+      "卡组构筑",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用卡牌操纵三消网格，连锁完成攻击、防御、资源获取与削弱",
+      "dimension": "玩法",
+      "excerpt": "Combining deckbuilding and chain-3 mechanics puts you in control of the battle! Collect and wield powerful cards to manipulate the grid and unleash devastating combos upon your foes while chaining tiles to attack, defend, gather resources or decrease your enemy’s power.",
+      "url": "https://store.steampowered.com/app/1600910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集超过200张卡牌构筑牌组",
+      "dimension": "玩法",
+      "excerpt": "Discover over 200 cards to create the ultimate deck!",
+      "url": "https://store.steampowered.com/app/1600910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每局重组敌人、物品、随机卡牌与抉择事件，并逐步揭开世界秘密",
+      "dimension": "玩法",
+      "excerpt": "Unique enemy encounters, items, and randomly dropped cards are generated with each run. Discover chance events where you’ll make interesting choices, meet strange creatures, and uncover hidden secrets about the world, ensuring near-endless replayability.",
+      "url": "https://store.steampowered.com/app/1600910/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "卡牌抽取与棋盘抽取的双重随机拖累战斗",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "you wait for [b]two[/b] RNGs to line up: both your card draw and the board draw",
+          "url": "https://steamcommunity.com/profiles/76561198054725871/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "很难形成滚雪球式强力组合",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "There's very little in the way of snowballing OP combos",
+          "url": "https://steamcommunity.com/profiles/76561198054725871/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "三消机制拖慢单局节奏",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The chain 3 mechanics are...interesting, but ultimately, they slow the run down",
+          "url": "https://steamcommunity.com/id/cagebot/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "卡牌与三消之间联系不好",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "卡牌和三消之间的联系不好",
+          "url": "https://steamcommunity.com/profiles/76561198125265489/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "三消机制吸引力不足",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "they're not all that captivating",
+          "url": "https://steamcommunity.com/id/cagebot/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "强力连锁通常只带来单回合优势",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "killer chains, but they usually only amount to single-turn advantages in this game",
+          "url": "https://steamcommunity.com/profiles/76561198054725871/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "三消与战斗的联动有新意",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "三消机制和战斗的联动还是比较有新意的",
+          "url": "https://steamcommunity.com/id/lovcrimson/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "卡牌操纵三消棋盘的方式很有意思",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "many cards can manipulate the puzzle grid in interesting ways",
+          "url": "https://steamcommunity.com/profiles/76561197992512352/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "理解机制后游玩非常有满足感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "once you wrap your head around the mechanics, Demon's Mirror is super satisfying",
+          "url": "https://steamcommunity.com/profiles/76561197972432520/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高难度策略与计算挑战性强",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "高难度下对于策略和计算的要求甚至比很多经典DBG还要高，玩起来很有挑战性",
+          "url": "https://steamcommunity.com/id/lovcrimson/recommended/1600910/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3613,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 37075,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1488,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 52195,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4125,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4125,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.498203712483296,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 88,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.915888,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "卡牌抽取与棋盘抽取的双重随机拖累战斗",
+    "很难形成滚雪球式强力组合",
+    "三消机制拖慢单局节奏",
+    "卡牌与三消之间联系不好",
+    "三消机制吸引力不足",
+    "强力连锁通常只带来单回合优势"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Demon's Mirror位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_e685a85429515c94cceb20bfcb6ac5e106ef8163.1920x1080.jpg?t=1726817438",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_e685a85429515c94cceb20bfcb6ac5e106ef8163.1920x1080.jpg?t=1726817438",
+        "alt": "Demon's Mirror 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_6374805490a760ae74e4d4840105f91e7d5ba918.1920x1080.jpg?t=1726817438",
+        "alt": "Demon's Mirror 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_379aff2a71503579e4088adecf54aa52d2922be2.1920x1080.jpg?t=1726817438",
+        "alt": "Demon's Mirror 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_d98f7be123a7f7afbfbb02fde4df9fb2afb72667.1920x1080.jpg?t=1726817438",
+        "alt": "Demon's Mirror 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_10839b92076e3935cadb574cf3ea0ea14cabcaf4.1920x1080.jpg?t=1726817438",
+        "alt": "Demon's Mirror 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_f09ac593ac5a289455b3cdbb89251387891c6393.1920x1080.jpg?t=1726817438",
+        "alt": "Demon's Mirror 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_9431b599b6753c654207e4177182c9532a8569f4.1920x1080.jpg?t=1726817438",
+        "alt": "Demon's Mirror 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600910/ss_573419b54882d0580a1baae31a04c8083dd1af10.1920x1080.jpg?t=1726817438",
+        "alt": "Demon's Mirror 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

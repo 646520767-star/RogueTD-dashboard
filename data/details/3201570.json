@@ -1,1 +1,316 @@
-{"identity":{"original_title":"VR Sailing","developers":["HFRK."],"publishers":["HFRK."],"release_status":"released","release_date":"2024-10-15","tags":["模拟","动作","休闲","动作冒险","动作肉鸽"]},"hooks":[{"text":"VR中左手掌舵、右手控帆，用双手配合直接驾驭风力和船向","dimension":"玩法","excerpt":"The operation of sailboats in the game is not so complicated. Just control the rudder with your left hand and the sail with your right hand to flexibly control the sailboat and enjoy the pleasure of riding the wind and waves.","url":"https://store.steampowered.com/app/3201570/","label":"证据原文片段"},{"text":"既可沿固定航线竞赛，也能自由寻宝，每次变化的风向会重写航行策略","dimension":"玩法","excerpt":"Here, you can participate in sailing competitions along a fixed route, or embark on treasure hunting adventures at will. The wind direction is different every time, which can bring more fun and freshness.","url":"https://store.steampowered.com/app/3201570/","label":"证据原文片段"},{"text":"物理帆船模拟真实海浪，单条赛道会连续经历顺风、逆风与侧风阶段","dimension":"玩法","excerpt":"■Realistic ocean wave effects ■A fully physics based sailing experience ■Each competition route will go through stages of downwind, headwind, and crosswind","url":"https://store.steampowered.com/app/3201570/","label":"证据原文片段"}],"opinions":[{"text":"画面仅达到预算价位的尚可水平。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The visuals are okay for this budget price.","url":"https://steamcommunity.com/id/FastLawyer/recommended/3201570/","label":"证据原文片段"}]},{"text":"声音内容几乎只有海浪声，令人失望。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The sounds are pretty much just the ocean wave sounds, which was disappointing.","url":"https://steamcommunity.com/id/FastLawyer/recommended/3201570/","label":"证据原文片段"}]},{"text":"海面效果真实且不错。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"这个海的效果还挺真实的，还不错哦","url":"https://steamcommunity.com/profiles/76561198777145517/recommended/3201570/","label":"证据原文片段"}]},{"text":"船帆控制较难掌握，导致体验无聊。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"too difficult to catch the right control with a sail. So it's boring.","url":"https://store.steampowered.com/curator/32247615-VR-Goldgrabbers/","label":"证据原文片段"}]},{"text":"比赛中船会无故偏离航线。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"my sail boat would be knocked off course, like in a collision, but without seeing what hit me.","url":"https://steamcommunity.com/id/FastLawyer/recommended/3201570/","label":"证据原文片段"}]},{"text":"体验可能显得漫无目的。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"make the game feel aimless","url":"https://steamcommunity.com/id/xxadonisxx/recommended/3201570/","label":"证据原文片段"}]},{"text":"玩家操作与船只反馈不一致。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the feedback between player actions and the boat’s response is not always consistent.","url":"https://steamcommunity.com/id/xxadonisxx/recommended/3201570/","label":"证据原文片段"}]},{"text":"环境缺少变化且容易显得静态。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"this lack of variety can make the world feel static","url":"https://steamcommunity.com/id/xxadonisxx/recommended/3201570/","label":"证据原文片段"}]},{"text":"控制方式过于基础并削弱沉浸感。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The controls are just too basic and they really bring down the immersion","url":"https://steamcommunity.com/id/FastLawyer/recommended/3201570/","label":"证据原文片段"}]},{"text":"整体游戏有趣且物有所值。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"found it quite fun. I like it! I feel like it's worth it.","url":"https://steamcommunity.com/profiles/76561198704229157/recommended/3201570/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":2547,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8897,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":357,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7259,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2684,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2684,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.445194262811071,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":316,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.202532,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["画面仅达到预算价位的尚可水平。","声音内容几乎只有海浪声，令人失望。","船帆控制较难掌握，导致体验无聊。","比赛中船会无故偏离航线。","体验可能显得漫无目的。","玩家操作与船只反馈不一致。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_d4780206ba6d22f037c5290ef9ab96edd5361d38.1920x1080.jpg?t=1745208956","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_d4780206ba6d22f037c5290ef9ab96edd5361d38.1920x1080.jpg?t=1745208956","alt":"VR乘风破浪 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_63d2870f39eb4077e0a416c80813660c93dfd7f1.1920x1080.jpg?t=1745208956","alt":"VR乘风破浪 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_2108ceb19eaf997e7b4e34d4b8d962ae959dd955.1920x1080.jpg?t=1745208956","alt":"VR乘风破浪 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_306e967cf1b2ab4c32291f42c980b6460961166c.1920x1080.jpg?t=1745208956","alt":"VR乘风破浪 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "VR Sailing",
+    "developers": [
+      "HFRK."
+    ],
+    "publishers": [
+      "HFRK."
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-15",
+    "tags": [
+      "角色扮演",
+      "模拟",
+      "即时战略",
+      "策略",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "VR中左手掌舵、右手控帆，用双手配合直接驾驭风力和船向",
+      "dimension": "玩法",
+      "excerpt": "The operation of sailboats in the game is not so complicated. Just control the rudder with your left hand and the sail with your right hand to flexibly control the sailboat and enjoy the pleasure of riding the wind and waves.",
+      "url": "https://store.steampowered.com/app/3201570/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "既可沿固定航线竞赛，也能自由寻宝，每次变化的风向会重写航行策略",
+      "dimension": "玩法",
+      "excerpt": "Here, you can participate in sailing competitions along a fixed route, or embark on treasure hunting adventures at will. The wind direction is different every time, which can bring more fun and freshness.",
+      "url": "https://store.steampowered.com/app/3201570/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "物理帆船模拟真实海浪，单条赛道会连续经历顺风、逆风与侧风阶段",
+      "dimension": "玩法",
+      "excerpt": "■Realistic ocean wave effects ■A fully physics based sailing experience ■Each competition route will go through stages of downwind, headwind, and crosswind",
+      "url": "https://store.steampowered.com/app/3201570/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "画面仅达到预算价位的尚可水平。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The visuals are okay for this budget price.",
+          "url": "https://steamcommunity.com/id/FastLawyer/recommended/3201570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "声音内容几乎只有海浪声，令人失望。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The sounds are pretty much just the ocean wave sounds, which was disappointing.",
+          "url": "https://steamcommunity.com/id/FastLawyer/recommended/3201570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "海面效果真实且不错。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "这个海的效果还挺真实的，还不错哦",
+          "url": "https://steamcommunity.com/profiles/76561198777145517/recommended/3201570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "船帆控制较难掌握，导致体验无聊。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "too difficult to catch the right control with a sail. So it's boring.",
+          "url": "https://store.steampowered.com/curator/32247615-VR-Goldgrabbers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "比赛中船会无故偏离航线。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "my sail boat would be knocked off course, like in a collision, but without seeing what hit me.",
+          "url": "https://steamcommunity.com/id/FastLawyer/recommended/3201570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "体验可能显得漫无目的。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "make the game feel aimless",
+          "url": "https://steamcommunity.com/id/xxadonisxx/recommended/3201570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩家操作与船只反馈不一致。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the feedback between player actions and the boat’s response is not always consistent.",
+          "url": "https://steamcommunity.com/id/xxadonisxx/recommended/3201570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "环境缺少变化且容易显得静态。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "this lack of variety can make the world feel static",
+          "url": "https://steamcommunity.com/id/xxadonisxx/recommended/3201570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "控制方式过于基础并削弱沉浸感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The controls are just too basic and they really bring down the immersion",
+          "url": "https://steamcommunity.com/id/FastLawyer/recommended/3201570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体游戏有趣且物有所值。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "found it quite fun. I like it! I feel like it's worth it.",
+          "url": "https://steamcommunity.com/profiles/76561198704229157/recommended/3201570/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3137,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 8950,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 364,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 9263,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3301,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3301,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.4585982879091335,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 301,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.307692,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "画面仅达到预算价位的尚可水平。",
+    "声音内容几乎只有海浪声，令人失望。",
+    "船帆控制较难掌握，导致体验无聊。",
+    "比赛中船会无故偏离航线。",
+    "体验可能显得漫无目的。",
+    "玩家操作与船只反馈不一致。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "VR乘风破浪位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_d4780206ba6d22f037c5290ef9ab96edd5361d38.1920x1080.jpg?t=1745208956",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_d4780206ba6d22f037c5290ef9ab96edd5361d38.1920x1080.jpg?t=1745208956",
+        "alt": "VR乘风破浪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_63d2870f39eb4077e0a416c80813660c93dfd7f1.1920x1080.jpg?t=1745208956",
+        "alt": "VR乘风破浪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_2108ceb19eaf997e7b4e34d4b8d962ae959dd955.1920x1080.jpg?t=1745208956",
+        "alt": "VR乘风破浪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_306e967cf1b2ab4c32291f42c980b6460961166c.1920x1080.jpg?t=1745208956",
+        "alt": "VR乘风破浪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_d587233b814b7f85149d80a712b9b9408fe4adee.1920x1080.jpg?t=1745208956",
+        "alt": "VR乘风破浪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_aec87062bc89055898e01879ab466ec1e797cd88.1920x1080.jpg?t=1745208956",
+        "alt": "VR乘风破浪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_a25b775ac6df91aa5aed6f0613647c61e0128ee6.1920x1080.jpg?t=1745208956",
+        "alt": "VR乘风破浪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201570/ss_16753a19c07ccefd00d6eba92795fca388d4e52c.1920x1080.jpg?t=1745208956",
+        "alt": "VR乘风破浪 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

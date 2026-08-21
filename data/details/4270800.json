@@ -1,1 +1,166 @@
-{"identity":{"original_title":"No Mana, Just Dice","developers":["Dice Capital"],"publishers":["Jungle Game Lab"],"release_status":"released","release_date":"2026-02-04","tags":["策略","独立游戏","回合制战斗","回合制策略","回合制战术"]},"hooks":[{"text":"敌方行动完全预告，但手中只有四颗骰子，必须在移动逃生与攻击火力之间逐回合分配","dimension":"玩法","excerpt":"Perfect Information: Enemy actions are 100% telegraphed. Find the optimal ratio between movement and offense each turn. Desperate Resource Management: You hold only 4 dice.","url":"https://store.steampowered.com/app/4270800/","label":"证据原文片段"},{"text":"卷轴会重新解释骰面，同一个“1”既可能是失败也可能被转化为暴击","dimension":"玩法","excerpt":"Rethinking Dice Values: Every scroll interprets numbers differently. A generic '1' could be a failure on one scroll, but a critical hit on another.","url":"https://store.steampowered.com/app/4270800/","label":"证据原文片段"},{"text":"战斗只能携带四张卷轴，要在射程、范围伤害、生存与冲击力之间压缩出一套小型构筑","dimension":"玩法","excerpt":"4 Scrolls, Condensed Strategy: You can only bring 4 scrolls into battle. Find the perfect balance between range, AoE (Area of Effect), survival, and impact.","url":"https://store.steampowered.com/app/4270800/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":7336,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3204,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":267,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7336,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7336,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0.7606210539290449,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":164,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.484848,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、独立游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/294d8084eb7cb6784102db41cc67d494b2bbfbaa/ss_294d8084eb7cb6784102db41cc67d494b2bbfbaa.1920x1080.jpg?t=1784345568","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/294d8084eb7cb6784102db41cc67d494b2bbfbaa/ss_294d8084eb7cb6784102db41cc67d494b2bbfbaa.1920x1080.jpg?t=1784345568","alt":"No Mana, Just Dice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/f12ca372d83680e84c461fc05c552c67bad578a1/ss_f12ca372d83680e84c461fc05c552c67bad578a1.1920x1080.jpg?t=1784345568","alt":"No Mana, Just Dice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/7c6d023a31a2a367c2e0d74c5a706000baa5c033/ss_7c6d023a31a2a367c2e0d74c5a706000baa5c033.1920x1080.jpg?t=1784345568","alt":"No Mana, Just Dice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/2dc61428595f2a810bf42c8b4fbb0d23697b4636/ss_2dc61428595f2a810bf42c8b4fbb0d23697b4636.1920x1080.jpg?t=1784345568","alt":"No Mana, Just Dice 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "No Mana, Just Dice",
+    "developers": [
+      "Dice Capital"
+    ],
+    "publishers": [
+      "Jungle Game Lab"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-04",
+    "tags": [
+      "策略",
+      "独立游戏",
+      "回合制战斗",
+      "回合制策略",
+      "回合制战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "敌方行动完全预告，但手中只有四颗骰子，必须在移动逃生与攻击火力之间逐回合分配",
+      "dimension": "玩法",
+      "excerpt": "Perfect Information: Enemy actions are 100% telegraphed. Find the optimal ratio between movement and offense each turn. Desperate Resource Management: You hold only 4 dice.",
+      "url": "https://store.steampowered.com/app/4270800/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "卷轴会重新解释骰面，同一个“1”既可能是失败也可能被转化为暴击",
+      "dimension": "玩法",
+      "excerpt": "Rethinking Dice Values: Every scroll interprets numbers differently. A generic '1' could be a failure on one scroll, but a critical hit on another.",
+      "url": "https://store.steampowered.com/app/4270800/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗只能携带四张卷轴，要在射程、范围伤害、生存与冲击力之间压缩出一套小型构筑",
+      "dimension": "玩法",
+      "excerpt": "4 Scrolls, Condensed Strategy: You can only bring 4 scrolls into battle. Find the perfect balance between range, AoE (Area of Effect), survival, and impact.",
+      "url": "https://store.steampowered.com/app/4270800/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7893,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3288,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 274,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7893,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7893,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 0.7465645581770628,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 177,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.135593,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "No Mana, Just Dice位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/294d8084eb7cb6784102db41cc67d494b2bbfbaa/ss_294d8084eb7cb6784102db41cc67d494b2bbfbaa.1920x1080.jpg?t=1784345568",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/294d8084eb7cb6784102db41cc67d494b2bbfbaa/ss_294d8084eb7cb6784102db41cc67d494b2bbfbaa.1920x1080.jpg?t=1784345568",
+        "alt": "No Mana, Just Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/f12ca372d83680e84c461fc05c552c67bad578a1/ss_f12ca372d83680e84c461fc05c552c67bad578a1.1920x1080.jpg?t=1784345568",
+        "alt": "No Mana, Just Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/7c6d023a31a2a367c2e0d74c5a706000baa5c033/ss_7c6d023a31a2a367c2e0d74c5a706000baa5c033.1920x1080.jpg?t=1784345568",
+        "alt": "No Mana, Just Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/2dc61428595f2a810bf42c8b4fbb0d23697b4636/ss_2dc61428595f2a810bf42c8b4fbb0d23697b4636.1920x1080.jpg?t=1784345568",
+        "alt": "No Mana, Just Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270800/a84f9d87900c081aea1d8dc6e0bacbf0b0699375/ss_a84f9d87900c081aea1d8dc6e0bacbf0b0699375.1920x1080.jpg?t=1784345568",
+        "alt": "No Mana, Just Dice 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

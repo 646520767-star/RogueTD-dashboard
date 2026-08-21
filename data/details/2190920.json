@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Corebreaker","developers":["aQuadiun"],"publishers":["Astrolabe Games"],"release_status":"early_access","release_date":"2026-05-08","tags":["抢先体验","动作肉鸽","二维平台跳跃","射击","平台跳跃"]},"hooks":[{"text":"跑跳冲刺射击之外，还能串联多种近战动作","dimension":"玩法","excerpt":"Run, jump, dash, and shoot the way through hordes of robots, combining various melee attack moves for maximum impact.","url":"https://store.steampowered.com/app/2190920/","label":"证据原文片段"},{"text":"死亡后被回收修复，芯片和资源会保留用于永久升级","dimension":"玩法","excerpt":"No matter how many times Nova falls, it can be extracted, repaired, and sent right back into the fray. While progress resets, some of the power-up chips and resources collected deep within the ruins are preserved.","url":"https://store.steampowered.com/app/2190920/","label":"证据原文片段"},{"text":"打碎墙壁找隐藏房，再在强化终端和武器商店整备","dimension":"玩法","excerpt":"Break down walls to discover hidden rooms filled with useful resources and treasures, arm yourself at power-up terminals and weapon shops","url":"https://store.steampowered.com/app/2190920/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6565,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":41941,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1713,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":42774,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7357,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7357,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.5629633256618827,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":182,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.857143,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_17a6f964a66e7b153b99a3c6e1dfe69842f7127f.1920x1080.jpg?t=1780938784","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_17a6f964a66e7b153b99a3c6e1dfe69842f7127f.1920x1080.jpg?t=1780938784","alt":"核元突破！ 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_65ac76040a7053f5e8e43e94c3d2580c07a0faff.1920x1080.jpg?t=1780938784","alt":"核元突破！ 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_2d7de10e9693b010ef98ff9deaac66bcddff8e84.1920x1080.jpg?t=1780938784","alt":"核元突破！ 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_ff46fc63f782fc6c11afa2d8c14049ac5d261967.1920x1080.jpg?t=1780938784","alt":"核元突破！ 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Corebreaker",
+    "developers": [
+      "aQuadiun"
+    ],
+    "publishers": [
+      "Astrolabe Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-05-08",
+    "tags": [
+      "抢先体验",
+      "动作肉鸽",
+      "二维平台跳跃",
+      "射击",
+      "平台跳跃"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "跑跳冲刺射击之外，还能串联多种近战动作",
+      "dimension": "玩法",
+      "excerpt": "Run, jump, dash, and shoot the way through hordes of robots, combining various melee attack moves for maximum impact.",
+      "url": "https://store.steampowered.com/app/2190920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "死亡后被回收修复，芯片和资源会保留用于永久升级",
+      "dimension": "玩法",
+      "excerpt": "No matter how many times Nova falls, it can be extracted, repaired, and sent right back into the fray. While progress resets, some of the power-up chips and resources collected deep within the ruins are preserved.",
+      "url": "https://store.steampowered.com/app/2190920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "打碎墙壁找隐藏房，再在强化终端和武器商店整备",
+      "dimension": "玩法",
+      "excerpt": "Break down walls to discover hidden rooms filled with useful resources and treasures, arm yourself at power-up terminals and weapon shops",
+      "url": "https://store.steampowered.com/app/2190920/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6785,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 42190,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1732,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 45280,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7606,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7606,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.5524309320894143,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 159,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.553191,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "核元突破！位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_17a6f964a66e7b153b99a3c6e1dfe69842f7127f.1920x1080.jpg?t=1780938784",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_17a6f964a66e7b153b99a3c6e1dfe69842f7127f.1920x1080.jpg?t=1780938784",
+        "alt": "核元突破！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_65ac76040a7053f5e8e43e94c3d2580c07a0faff.1920x1080.jpg?t=1780938784",
+        "alt": "核元突破！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_2d7de10e9693b010ef98ff9deaac66bcddff8e84.1920x1080.jpg?t=1780938784",
+        "alt": "核元突破！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_ff46fc63f782fc6c11afa2d8c14049ac5d261967.1920x1080.jpg?t=1780938784",
+        "alt": "核元突破！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_de690c80eff2c4f7b98b1112930787fdd3ac71b7.1920x1080.jpg?t=1780938784",
+        "alt": "核元突破！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_8d59cae129581d80a411b0e1d9e5369da084ec20.1920x1080.jpg?t=1780938784",
+        "alt": "核元突破！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_ee46279c8eb9da0debeae05ff345dca8098cb4b0.1920x1080.jpg?t=1780938784",
+        "alt": "核元突破！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190920/ss_3a937a34304558b9cfd7610682b414a29e1e5e2c.1920x1080.jpg?t=1780938784",
+        "alt": "核元突破！ 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

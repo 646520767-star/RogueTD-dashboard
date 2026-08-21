@@ -1,1 +1,238 @@
-{"identity":{"original_title":"AHAPIKA – Heroic Agency","developers":["Pixeliantika"],"publishers":["Pixeliantika"],"release_status":"early_access","release_date":"2026-06-04","tags":["动作肉鸽","像素画面","弹幕射击","休闲","动作"]},"hooks":[{"text":"同一委托由不同英雄执行时，会拥有专属对话、神祇关系和麻烦，从而生成完全不同的故事","dimension":"故事","excerpt":"Every hero experiences each assignment in their own way — with their own dialogues, their own gods, and their own troubles. One quest, a dozen heroes — a dozen different ways to complicate everything. Play the same quest with different heroes and get completely different stories.","url":"https://store.steampowered.com/app/3431630/","label":"证据原文片段"},{"text":"奥林匹斯诸神会亲自干预战斗、赐福或诅咒，甚至同时施加两者，玩家行动决定最终阵营与援军","dimension":"故事","excerpt":"The gods are not merely a source of assignments: they intervene in battle, grant blessings and impose curses — sometimes simultaneously, and always for very personal reasons. Only your actions will determine which side you end up on and who will come to your aid in the decisive hour.","url":"https://store.steampowered.com/app/3431630/","label":"证据原文片段"},{"text":"每项委托都有独立故事与目标，涵盖Boss战、送货和资源收集，通关剧情后再开放无限竞技场","dimension":"玩法","excerpt":"Forget \"survive for N minutes\" — every assignment here has its own story. Dozens of unique story-driven quests with different types of tasks: battles with bosses, delivery, resource gathering, and much more. A variety of heroes, diverse weapons, powerful amulets and Divine Gifts. Hone your skills in the endless arena mode once the story is complete.","url":"https://store.steampowered.com/app/3431630/","label":"证据原文片段"}],"opinions":[{"text":"失败后缺少可延续的英雄或武器成长","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"i wish there was some meta progression that even if you lost you can upgrade your heroes or weapons","url":"https://steamcommunity.com/profiles/76561198821063137/recommended/3431630/","label":"证据原文片段"}]},{"text":"故事任务为每次跑图提供了明确目的","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"i like the mix with with story quests,really gives you a purpose to do runs","url":"https://steamcommunity.com/profiles/76561198821063137/recommended/3431630/","label":"证据原文片段"}]},{"text":"游戏具有很强的持续游玩吸引力","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Игра класс, очень залипательная","url":"https://steamcommunity.com/profiles/76561199039115051/recommended/3431630/","label":"证据原文片段"}]},{"text":"故事前提有趣，文笔能带来笑声","dimension":"剧情","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The premise is amusing and the writing made me laugh.","url":"https://store.steampowered.com/curator/42824375-Bullet-Heaven-Enthusiast/","label":"证据原文片段"}]},{"text":"对古希腊神话的诠释新鲜而独特","dimension":"主题","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"A fresh spin on ancient Greek legends!","url":"https://store.steampowered.com/curator/45625424-IndieSight/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":435,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":98,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1940,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":577,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":577,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.985129756752979,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":34,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["失败后缺少可延续的英雄或武器成长"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/5fdf3aa9c166736f3415004a592672876edfd2cf/ss_5fdf3aa9c166736f3415004a592672876edfd2cf.1920x1080.jpg?t=1781511856","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/5fdf3aa9c166736f3415004a592672876edfd2cf/ss_5fdf3aa9c166736f3415004a592672876edfd2cf.1920x1080.jpg?t=1781511856","alt":"AHAPIKA – Heroic Agency 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/194cd98cf17af9abd1c69c10c4d6219c2c259646/ss_194cd98cf17af9abd1c69c10c4d6219c2c259646.1920x1080.jpg?t=1781511856","alt":"AHAPIKA – Heroic Agency 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/6e3941c193295e758d3126ef1a8d52ed574534b5/ss_6e3941c193295e758d3126ef1a8d52ed574534b5.1920x1080.jpg?t=1781511856","alt":"AHAPIKA – Heroic Agency 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/b7430ce6d91d32c43e43faf22a4bd7ae366680fc/ss_b7430ce6d91d32c43e43faf22a4bd7ae366680fc.1920x1080.jpg?t=1781511856","alt":"AHAPIKA – Heroic Agency 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "AHAPIKA – Heroic Agency",
+    "developers": [
+      "Pixeliantika"
+    ],
+    "publishers": [
+      "Pixeliantika"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-04",
+    "tags": [
+      "动作肉鸽",
+      "像素画面",
+      "弹幕射击",
+      "休闲",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "同一委托由不同英雄执行时，会拥有专属对话、神祇关系和麻烦，从而生成完全不同的故事",
+      "dimension": "故事",
+      "excerpt": "Every hero experiences each assignment in their own way — with their own dialogues, their own gods, and their own troubles. One quest, a dozen heroes — a dozen different ways to complicate everything. Play the same quest with different heroes and get completely different stories.",
+      "url": "https://store.steampowered.com/app/3431630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "奥林匹斯诸神会亲自干预战斗、赐福或诅咒，甚至同时施加两者，玩家行动决定最终阵营与援军",
+      "dimension": "故事",
+      "excerpt": "The gods are not merely a source of assignments: they intervene in battle, grant blessings and impose curses — sometimes simultaneously, and always for very personal reasons. Only your actions will determine which side you end up on and who will come to your aid in the decisive hour.",
+      "url": "https://store.steampowered.com/app/3431630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每项委托都有独立故事与目标，涵盖Boss战、送货和资源收集，通关剧情后再开放无限竞技场",
+      "dimension": "玩法",
+      "excerpt": "Forget \"survive for N minutes\" — every assignment here has its own story. Dozens of unique story-driven quests with different types of tasks: battles with bosses, delivery, resource gathering, and much more. A variety of heroes, diverse weapons, powerful amulets and Divine Gifts. Hone your skills in the endless arena mode once the story is complete.",
+      "url": "https://store.steampowered.com/app/3431630/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "失败后缺少可延续的英雄或武器成长",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "i wish there was some meta progression that even if you lost you can upgrade your heroes or weapons",
+          "url": "https://steamcommunity.com/profiles/76561198821063137/recommended/3431630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "故事任务为每次跑图提供了明确目的",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "i like the mix with with story quests,really gives you a purpose to do runs",
+          "url": "https://steamcommunity.com/profiles/76561198821063137/recommended/3431630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏具有很强的持续游玩吸引力",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Игра класс, очень залипательная",
+          "url": "https://steamcommunity.com/profiles/76561199039115051/recommended/3431630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "故事前提有趣，文笔能带来笑声",
+      "dimension": "剧情",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The premise is amusing and the writing made me laugh.",
+          "url": "https://store.steampowered.com/curator/42824375-Bullet-Heaven-Enthusiast/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "对古希腊神话的诠释新鲜而独特",
+      "dimension": "主题",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "A fresh spin on ancient Greek legends!",
+          "url": "https://store.steampowered.com/curator/45625424-IndieSight/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 429,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 101,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1755,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 589,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 589,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.245471925513134,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 22,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "失败后缺少可延续的英雄或武器成长"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "AHAPIKA – Heroic Agency位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/5fdf3aa9c166736f3415004a592672876edfd2cf/ss_5fdf3aa9c166736f3415004a592672876edfd2cf.1920x1080.jpg?t=1781511856",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/5fdf3aa9c166736f3415004a592672876edfd2cf/ss_5fdf3aa9c166736f3415004a592672876edfd2cf.1920x1080.jpg?t=1781511856",
+        "alt": "AHAPIKA – Heroic Agency 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/194cd98cf17af9abd1c69c10c4d6219c2c259646/ss_194cd98cf17af9abd1c69c10c4d6219c2c259646.1920x1080.jpg?t=1781511856",
+        "alt": "AHAPIKA – Heroic Agency 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/6e3941c193295e758d3126ef1a8d52ed574534b5/ss_6e3941c193295e758d3126ef1a8d52ed574534b5.1920x1080.jpg?t=1781511856",
+        "alt": "AHAPIKA – Heroic Agency 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/b7430ce6d91d32c43e43faf22a4bd7ae366680fc/ss_b7430ce6d91d32c43e43faf22a4bd7ae366680fc.1920x1080.jpg?t=1781511856",
+        "alt": "AHAPIKA – Heroic Agency 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/3c5a84c330539e85619584a279d806daa2615183/ss_3c5a84c330539e85619584a279d806daa2615183.1920x1080.jpg?t=1781511856",
+        "alt": "AHAPIKA – Heroic Agency 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431630/06a761a8cba23b79770e0890581e7f502a61f592/ss_06a761a8cba23b79770e0890581e7f502a61f592.1920x1080.jpg?t=1781511856",
+        "alt": "AHAPIKA – Heroic Agency 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

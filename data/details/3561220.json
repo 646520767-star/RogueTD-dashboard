@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Pass the Fear","developers":["PlayMud Studio"],"publishers":["Paras Games"],"release_status":"released","release_date":"2026-07-22","tags":["动作肉鸽","轻度Rogue","多人游戏","合作","弹幕射击"]},"hooks":[{"text":"枪械、部件、遗物融合、塔罗牌和元素效果都能叠进武器，把多弹幕或单发融血条做成两条极端路线。","dimension":"玩法","excerpt":"Fancy weapons, special Weapon Parts, Relic fusion, Tarot Cards, elemental effects, random events... Every pickup is another experiment in weapon customization. Stack up Projectiles and become a \"Fireworks Master\", or pour everything into a single shot and melt an entire health bar—your weapons, your rules.","url":"https://store.steampowered.com/app/3561220/","label":"证据原文片段"},{"text":"高难度会解锁混沌战疤，每道战疤同时带来增益和诅咒，逼玩家把风险也纳入终极构筑。","dimension":"玩法","excerpt":"They also unlock the unique [Chaos Battle Scar] mode, where every Battle Scar comes with both a boon and a curse. High risk, high reward. Harness the boons, master the curses, and forge a one-of-a-kind ultimate build that pushes beyond the limits!","url":"https://store.steampowered.com/app/3561220/","label":"证据原文片段"},{"text":"多人局既能极限救援和交换道具，也用DPS榜制造后期反超与“输出王”竞争。","dimension":"玩法","excerpt":"Multiplayer has everything you would expect: clutch saves, item swapping, and fighting through tough encounters together... But the real fun is farming up quietly in the early game, then surging ahead to overtake everyone in damage later! Check the DPS rankings—who is the true damage king of your squad, and who is the poor soul stuck doing all the thankless work as the team's \"support bot\"?","url":"https://store.steampowered.com/app/3561220/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":0,"unit":"份","state":"zero","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":105588,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4926,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":0,"unit":"人","state":"zero","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":0,"unit":"人","state":"zero","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0,"unit":"小时","state":"zero","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":0,"unit":"条","state":"zero","date":"2026-07-23"},{"id":"score","label":"评分","value":0,"unit":"分","state":"zero","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.615385,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/9ad8e3454265e8e379304b3c0f297407d4949e13/ss_9ad8e3454265e8e379304b3c0f297407d4949e13.1920x1080.jpg?t=1784799208","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/9ad8e3454265e8e379304b3c0f297407d4949e13/ss_9ad8e3454265e8e379304b3c0f297407d4949e13.1920x1080.jpg?t=1784799208","alt":"风暴怕死队 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/0ad979943fe08a0d2e9965e6fc09930ffba397d0/ss_0ad979943fe08a0d2e9965e6fc09930ffba397d0.1920x1080.jpg?t=1784799208","alt":"风暴怕死队 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/ab275d20bd6e17367e05354b34a182c4e30a893a/ss_ab275d20bd6e17367e05354b34a182c4e30a893a.1920x1080.jpg?t=1784799208","alt":"风暴怕死队 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/b3274412b317771b80f276fec3576b2417b4cd38/ss_b3274412b317771b80f276fec3576b2417b4cd38.1920x1080.jpg?t=1784799208","alt":"风暴怕死队 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pass the Fear",
+    "developers": [
+      "PlayMud Studio"
+    ],
+    "publishers": [
+      "Paras Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-22",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "多人游戏",
+      "弹幕射击",
+      "合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "枪械、部件、遗物融合、塔罗牌和元素效果都能叠进武器，把多弹幕或单发融血条做成两条极端路线。",
+      "dimension": "玩法",
+      "excerpt": "Fancy weapons, special Weapon Parts, Relic fusion, Tarot Cards, elemental effects, random events... Every pickup is another experiment in weapon customization. Stack up Projectiles and become a \"Fireworks Master\", or pour everything into a single shot and melt an entire health bar—your weapons, your rules.",
+      "url": "https://store.steampowered.com/app/3561220/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "高难度会解锁混沌战疤，每道战疤同时带来增益和诅咒，逼玩家把风险也纳入终极构筑。",
+      "dimension": "玩法",
+      "excerpt": "They also unlock the unique [Chaos Battle Scar] mode, where every Battle Scar comes with both a boon and a curse. High risk, high reward. Harness the boons, master the curses, and forge a one-of-a-kind ultimate build that pushes beyond the limits!",
+      "url": "https://store.steampowered.com/app/3561220/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "多人局既能极限救援和交换道具，也用DPS榜制造后期反超与“输出王”竞争。",
+      "dimension": "玩法",
+      "excerpt": "Multiplayer has everything you would expect: clutch saves, item swapping, and fighting through tough encounters together... But the real fun is farming up quietly in the early game, then surging ahead to overtake everyone in damage later! Check the DPS rankings—who is the true damage king of your squad, and who is the poor soul stuck doing all the thankless work as the team's \"support bot\"?",
+      "url": "https://store.steampowered.com/app/3561220/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 262795,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 176434,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 10689,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3218780,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 282498,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 282498,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 15.70483362467667,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2485,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 77,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 76.975331,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "风暴怕死队位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/9ad8e3454265e8e379304b3c0f297407d4949e13/ss_9ad8e3454265e8e379304b3c0f297407d4949e13.1920x1080.jpg?t=1784799208",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/09da1902d7416e8202a449eb8c7140c2db8e5139/ss_09da1902d7416e8202a449eb8c7140c2db8e5139.1920x1080.jpg?t=1786703203",
+        "alt": "风暴怕死队 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/524fe155b9e28a859a6aa3774b7b748285b3ba19/ss_524fe155b9e28a859a6aa3774b7b748285b3ba19.1920x1080.jpg?t=1786703203",
+        "alt": "风暴怕死队 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/eeeabb8e789e6ecf397d6eb776f872656d263fa1/ss_eeeabb8e789e6ecf397d6eb776f872656d263fa1.1920x1080.jpg?t=1786703203",
+        "alt": "风暴怕死队 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/1344f93d8cb77697ee6f00de4e2c54865eb37753/ss_1344f93d8cb77697ee6f00de4e2c54865eb37753.1920x1080.jpg?t=1786703203",
+        "alt": "风暴怕死队 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/1103bf4be861157622d15743f92342ed6cdca669/ss_1103bf4be861157622d15743f92342ed6cdca669.1920x1080.jpg?t=1786703203",
+        "alt": "风暴怕死队 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/657892b4afc2026f86b9ca227a70214909c987d6/ss_657892b4afc2026f86b9ca227a70214909c987d6.1920x1080.jpg?t=1786703203",
+        "alt": "风暴怕死队 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/7d80981874324c4ed8b166e9477cc82597386e5c/ss_7d80981874324c4ed8b166e9477cc82597386e5c.1920x1080.jpg?t=1786703203",
+        "alt": "风暴怕死队 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/a2c65831a2732ae0cf22da12209e9237730872ec/ss_a2c65831a2732ae0cf22da12209e9237730872ec.1920x1080.jpg?t=1786703203",
+        "alt": "风暴怕死队 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

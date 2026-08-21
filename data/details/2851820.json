@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Kriegsfront Tactics - Prologue","developers":["Toge Productions"],"publishers":["Toge Productions"],"release_status":"released","release_date":"2024-07-17","tags":["回合制战术","轻度Rogue","玩家对环境","三维画面","角色扮演"]},"hooks":[{"text":"架空七十年代东南亚敌后行动中，资源与机甲管理伴随道德抉择","dimension":"故事","excerpt":"Set in alternate 1970s during an era of conflict in Southeast Asia, you'll play as a commander of a mecha squad sent behind enemy lines. Manage your squad, resources, and mechs. Complete your mission and survive the front while facing hard decisions that will test your morality.","url":"https://store.steampowered.com/app/2851820/","label":"证据原文片段"},{"text":"机甲可自定义涂装，并从战场回收或替换部件再重新配装武器","dimension":"玩法","excerpt":"Customize your mech’s livery, salvage or swap parts, and equip weapons.","url":"https://store.steampowered.com/app/2851820/","label":"证据原文片段"},{"text":"穿越东南亚丛林触发事件与秘密，战区探索不只发生在战棋格内","dimension":"玩法","excerpt":"Explore the jungles of Southeast Asia during an era of conflict, encounter events, and uncover secrets in this alternate 1970s world.","url":"https://store.steampowered.com/app/2851820/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":21413,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2560,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":21413,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":21413,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.5547430877821786,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":521,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.061303,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"回合制战术、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_3b7ab45c77d17566b12ebf173e1d5b903dc538c6.1920x1080.jpg?t=1737802996","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_3b7ab45c77d17566b12ebf173e1d5b903dc538c6.1920x1080.jpg?t=1737802996","alt":"Kriegsfront Tactics - Prologue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_d57c3245152a601560fd7cb2450393d875e50394.1920x1080.jpg?t=1737802996","alt":"Kriegsfront Tactics - Prologue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_1afacaa8d81cf7cb5e06f6b975c6aced07d794f8.1920x1080.jpg?t=1737802996","alt":"Kriegsfront Tactics - Prologue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_0216955c803d56697afb794e3efeac7b7f51c93d.1920x1080.jpg?t=1737802996","alt":"Kriegsfront Tactics - Prologue 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Kriegsfront Tactics - Prologue",
+    "developers": [
+      "Toge Productions"
+    ],
+    "publishers": [
+      "Toge Productions"
+    ],
+    "release_status": "released",
+    "release_date": "2024-07-17",
+    "tags": [
+      "轻度Rogue",
+      "回合制战术",
+      "动作肉鸽",
+      "三维画面",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "架空七十年代东南亚敌后行动中，资源与机甲管理伴随道德抉择",
+      "dimension": "故事",
+      "excerpt": "Set in alternate 1970s during an era of conflict in Southeast Asia, you'll play as a commander of a mecha squad sent behind enemy lines. Manage your squad, resources, and mechs. Complete your mission and survive the front while facing hard decisions that will test your morality.",
+      "url": "https://store.steampowered.com/app/2851820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "机甲可自定义涂装，并从战场回收或替换部件再重新配装武器",
+      "dimension": "玩法",
+      "excerpt": "Customize your mech’s livery, salvage or swap parts, and equip weapons.",
+      "url": "https://store.steampowered.com/app/2851820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "穿越东南亚丛林触发事件与秘密，战区探索不只发生在战棋格内",
+      "dimension": "玩法",
+      "excerpt": "Explore the jungles of Southeast Asia during an era of conflict, encounter events, and uncover secrets in this alternate 1970s world.",
+      "url": "https://store.steampowered.com/app/2851820/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 21083,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3835,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2580,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 21083,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 21083,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.6160678197467258,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 522,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.072658,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Kriegsfront Tactics - Prologue位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_3b7ab45c77d17566b12ebf173e1d5b903dc538c6.1920x1080.jpg?t=1737802996",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_3b7ab45c77d17566b12ebf173e1d5b903dc538c6.1920x1080.jpg?t=1737802996",
+        "alt": "Kriegsfront Tactics - Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_d57c3245152a601560fd7cb2450393d875e50394.1920x1080.jpg?t=1737802996",
+        "alt": "Kriegsfront Tactics - Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_1afacaa8d81cf7cb5e06f6b975c6aced07d794f8.1920x1080.jpg?t=1737802996",
+        "alt": "Kriegsfront Tactics - Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_0216955c803d56697afb794e3efeac7b7f51c93d.1920x1080.jpg?t=1737802996",
+        "alt": "Kriegsfront Tactics - Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_393be1b60096484a215f8e566959e8f7d6bc4a65.1920x1080.jpg?t=1737802996",
+        "alt": "Kriegsfront Tactics - Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851820/ss_346924179f62d392f61283c85b633dded7150673.1920x1080.jpg?t=1737802996",
+        "alt": "Kriegsfront Tactics - Prologue 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,166 @@
-{"identity":{"original_title":"Maze Mice","developers":["TrampolineTales"],"publishers":["TrampolineTales"],"release_status":"released","release_date":"2025-07-11","tags":["动作肉鸽","街机","轻度Rogue","弹幕射击","可爱"]},"hooks":[{"text":"只有玩家移动时迷宫和弹幕时间才会推进，可停下来观察并规划下一步","dimension":"玩法","excerpt":"Maze Mice is a bullet heaven roguelite where time only moves when you move.","url":"https://store.steampowered.com/app/3385370/","label":"证据原文片段"},{"text":"在自定节奏下收集圆点、升级、选择强化并躲避猫咪追捕","dimension":"玩法","excerpt":"Collect dots, level up, choose upgrades, and avoid cats. All at your own pace.","url":"https://store.steampowered.com/app/3385370/","label":"证据原文片段"},{"text":"可解锁多名可爱角色并从大量升级中挑选，持续改变每轮鼠鼠生存方式","dimension":"玩法","excerpt":"Multiple cute characters to unlock and play as. Tons of upgrades to unlock and pick from.","url":"https://store.steampowered.com/app/3385370/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":11333,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27961,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1095,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":74234,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":11685,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":11685,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.047550208645767,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":325,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.230769,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、街机","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/a69b48ec0aeaa17c725df09add361adc6cbcaaa6/ss_a69b48ec0aeaa17c725df09add361adc6cbcaaa6.1920x1080.jpg?t=1779140240","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/a69b48ec0aeaa17c725df09add361adc6cbcaaa6/ss_a69b48ec0aeaa17c725df09add361adc6cbcaaa6.1920x1080.jpg?t=1779140240","alt":"Maze Mice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/beb211452234a0aec5c5035919681cf31c0562fd/ss_beb211452234a0aec5c5035919681cf31c0562fd.1920x1080.jpg?t=1779140240","alt":"Maze Mice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/c89a2a92c50f7b93491bad8414187540ca80edae/ss_c89a2a92c50f7b93491bad8414187540ca80edae.1920x1080.jpg?t=1779140240","alt":"Maze Mice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/99700e09b6f9f2753cf25506d5d0fd81675cbc80/ss_99700e09b6f9f2753cf25506d5d0fd81675cbc80.1920x1080.jpg?t=1779140240","alt":"Maze Mice 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Maze Mice",
+    "developers": [
+      "TrampolineTales"
+    ],
+    "publishers": [
+      "TrampolineTales"
+    ],
+    "release_status": "released",
+    "release_date": "2025-07-11",
+    "tags": [
+      "动作肉鸽",
+      "动作肉鸽",
+      "动作",
+      "单人游戏",
+      "街机"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "只有玩家移动时迷宫和弹幕时间才会推进，可停下来观察并规划下一步",
+      "dimension": "玩法",
+      "excerpt": "Maze Mice is a bullet heaven roguelite where time only moves when you move.",
+      "url": "https://store.steampowered.com/app/3385370/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在自定节奏下收集圆点、升级、选择强化并躲避猫咪追捕",
+      "dimension": "玩法",
+      "excerpt": "Collect dots, level up, choose upgrades, and avoid cats. All at your own pace.",
+      "url": "https://store.steampowered.com/app/3385370/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可解锁多名可爱角色并从大量升级中挑选，持续改变每轮鼠鼠生存方式",
+      "dimension": "玩法",
+      "excerpt": "Multiple cute characters to unlock and play as. Tons of upgrades to unlock and pick from.",
+      "url": "https://store.steampowered.com/app/3385370/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 12726,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 28127,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1100,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 83801,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 13284,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 13284,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.946856162754594,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 313,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.323353,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Maze Mice位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/a69b48ec0aeaa17c725df09add361adc6cbcaaa6/ss_a69b48ec0aeaa17c725df09add361adc6cbcaaa6.1920x1080.jpg?t=1779140240",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/a69b48ec0aeaa17c725df09add361adc6cbcaaa6/ss_a69b48ec0aeaa17c725df09add361adc6cbcaaa6.1920x1080.jpg?t=1779140240",
+        "alt": "Maze Mice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/beb211452234a0aec5c5035919681cf31c0562fd/ss_beb211452234a0aec5c5035919681cf31c0562fd.1920x1080.jpg?t=1779140240",
+        "alt": "Maze Mice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/c89a2a92c50f7b93491bad8414187540ca80edae/ss_c89a2a92c50f7b93491bad8414187540ca80edae.1920x1080.jpg?t=1779140240",
+        "alt": "Maze Mice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/99700e09b6f9f2753cf25506d5d0fd81675cbc80/ss_99700e09b6f9f2753cf25506d5d0fd81675cbc80.1920x1080.jpg?t=1779140240",
+        "alt": "Maze Mice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3385370/179c88a191be3221764ae89016001768ba9158c8/ss_179c88a191be3221764ae89016001768ba9158c8.1920x1080.jpg?t=1779140240",
+        "alt": "Maze Mice 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

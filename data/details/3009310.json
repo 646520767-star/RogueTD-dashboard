@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Master of Piece","developers":["I M GAME","I M fine"],"publishers":["I M GAME","I M fine"],"release_status":"early_access","release_date":"2026-02-04","tags":["抢先体验","回合制策略","肉鸽卡组构筑","战术","回合制战斗"]},"hooks":[{"text":"行动点部署后佣兵按速度自动出手","dimension":"玩法","excerpt":"Each round, you spend action points to deploy mercenaries onto the battlefield. Once the battle begins, mercenaries act automatically in order of their Speed, so it’s crucial to position them wisely during deployment.","url":"https://store.steampowered.com/app/3009310/","label":"证据原文片段"},{"text":"单名佣兵可组合两项特质触发连携","dimension":"玩法","excerpt":"Each mercenary has unique traits that trigger during battle — and up to two traits can be combined per mercenary, enabling endless synergies and combos.","url":"https://store.steampowered.com/app/3009310/","label":"证据原文片段"},{"text":"失败远征资源转化为驻地永久成长","dimension":"玩法","excerpt":"Use the resources gained from failed expeditions to construct facilities at the Garrison . These buildings provide permanent upgrades: more usable items, stronger mercenaries, and other powerful advantages for future journeys.","url":"https://store.steampowered.com/app/3009310/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8261,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":53380,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4013,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":100133,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9606,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9606,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.572316298056876,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":235,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.361702,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、回合制策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/904aa5a5403f5b03ad6771ecef1a8e08958363ed/ss_904aa5a5403f5b03ad6771ecef1a8e08958363ed.1920x1080.jpg?t=1783932950","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/904aa5a5403f5b03ad6771ecef1a8e08958363ed/ss_904aa5a5403f5b03ad6771ecef1a8e08958363ed.1920x1080.jpg?t=1783932950","alt":"弈战征途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/43d403ebdb57edd0bdd9aa0fdd58c5f2cf89b07a/ss_43d403ebdb57edd0bdd9aa0fdd58c5f2cf89b07a.1920x1080.jpg?t=1783932950","alt":"弈战征途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/57a2a25a073088851eae49e6565a271856bb0f32/ss_57a2a25a073088851eae49e6565a271856bb0f32.1920x1080.jpg?t=1783932950","alt":"弈战征途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/bfa60da7ae58fe581096141a10d29f7026e4aefa/ss_bfa60da7ae58fe581096141a10d29f7026e4aefa.1920x1080.jpg?t=1783932950","alt":"弈战征途 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Master of Piece",
+    "developers": [
+      "I M GAME",
+      "I M fine"
+    ],
+    "publishers": [
+      "I M GAME",
+      "I M fine"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-02-04",
+    "tags": [
+      "抢先体验",
+      "回合制策略",
+      "肉鸽卡组构筑",
+      "战术",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "行动点部署后佣兵按速度自动出手",
+      "dimension": "玩法",
+      "excerpt": "Each round, you spend action points to deploy mercenaries onto the battlefield. Once the battle begins, mercenaries act automatically in order of their Speed, so it’s crucial to position them wisely during deployment.",
+      "url": "https://store.steampowered.com/app/3009310/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "单名佣兵可组合两项特质触发连携",
+      "dimension": "玩法",
+      "excerpt": "Each mercenary has unique traits that trigger during battle — and up to two traits can be combined per mercenary, enabling endless synergies and combos.",
+      "url": "https://store.steampowered.com/app/3009310/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "失败远征资源转化为驻地永久成长",
+      "dimension": "玩法",
+      "excerpt": "Use the resources gained from failed expeditions to construct facilities at the Garrison . These buildings provide permanent upgrades: more usable items, stronger mercenaries, and other powerful advantages for future journeys.",
+      "url": "https://store.steampowered.com/app/3009310/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 8824,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 53697,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4038,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 109428,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10233,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10233,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.722398726639617,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 192,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.166667,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "弈战征途位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/904aa5a5403f5b03ad6771ecef1a8e08958363ed/ss_904aa5a5403f5b03ad6771ecef1a8e08958363ed.1920x1080.jpg?t=1783932950",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/904aa5a5403f5b03ad6771ecef1a8e08958363ed/ss_904aa5a5403f5b03ad6771ecef1a8e08958363ed.1920x1080.jpg?t=1786031663",
+        "alt": "弈战征途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/43d403ebdb57edd0bdd9aa0fdd58c5f2cf89b07a/ss_43d403ebdb57edd0bdd9aa0fdd58c5f2cf89b07a.1920x1080.jpg?t=1786031663",
+        "alt": "弈战征途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/57a2a25a073088851eae49e6565a271856bb0f32/ss_57a2a25a073088851eae49e6565a271856bb0f32.1920x1080.jpg?t=1786031663",
+        "alt": "弈战征途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/bfa60da7ae58fe581096141a10d29f7026e4aefa/ss_bfa60da7ae58fe581096141a10d29f7026e4aefa.1920x1080.jpg?t=1786031663",
+        "alt": "弈战征途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/bb7e26b45555e2d7948cf2de64d540d639dc8ba9/ss_bb7e26b45555e2d7948cf2de64d540d639dc8ba9.1920x1080.jpg?t=1786031663",
+        "alt": "弈战征途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/b59994c0ae6e355e0e752b8f1c8a935baae46037/ss_b59994c0ae6e355e0e752b8f1c8a935baae46037.1920x1080.jpg?t=1786031663",
+        "alt": "弈战征途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/235075d43bec13d821b98ae0e1568f2123149fda/ss_235075d43bec13d821b98ae0e1568f2123149fda.1920x1080.jpg?t=1786031663",
+        "alt": "弈战征途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009310/dd5d7dc7ade120f0b7052c739449b699de106f63/ss_dd5d7dc7ade120f0b7052c739449b699de106f63.1920x1080.jpg?t=1786031663",
+        "alt": "弈战征途 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

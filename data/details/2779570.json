@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Archons","developers":["BulletHell Studios"],"publishers":["BulletHell Studios"],"release_status":"released","release_date":"2024-12-06","tags":["动作肉鸽","弹幕射击","砍杀","轻度Rogue","玩家对环境"]},"hooks":[{"text":"单人同时操控两名 Archon，左右手各负责一个角色","dimension":"玩法","excerpt":"Control two characters as one player, one with each hand","url":"https://store.steampowered.com/app/2779570/","label":"证据原文片段"},{"text":"收割精华强化武器与能力，再用血符以生命换取爆发力量","dimension":"玩法","excerpt":"Harvest essence to enhance your weapons and powers, then unlock bloodrunes to sacrifice health for devastating strength, paving the way to victory.","url":"https://store.steampowered.com/app/2779570/","label":"证据原文片段"},{"text":"构筑可在主动或被动、防守或进攻之间自由定向","dimension":"玩法","excerpt":"Select a build that suits you: active or passive? Defensive or Offensive? It's up to you!","url":"https://store.steampowered.com/app/2779570/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":16821,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":26690,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2021,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":97191,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":17375,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":17375,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.700845326894139,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":395,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.164557,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_0e6bdfa1069866531df563284b6f8af1d2f55be1.1920x1080.jpg?t=1757279202","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_0e6bdfa1069866531df563284b6f8af1d2f55be1.1920x1080.jpg?t=1757279202","alt":"Archons 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_78beb2436041a8120cd1732d8c8f1b98a3404560.1920x1080.jpg?t=1757279202","alt":"Archons 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_e1f5c0fc5ab347a2d652be99de358dbd8ebcd52c.1920x1080.jpg?t=1757279202","alt":"Archons 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_fd965b625ced4cec2c8243fa8a1cc7deec72130b.1920x1080.jpg?t=1757279202","alt":"Archons 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Archons",
+    "developers": [
+      "BulletHell Studios"
+    ],
+    "publishers": [
+      "BulletHell Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-06",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "砍杀",
+      "轻度Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "单人同时操控两名 Archon，左右手各负责一个角色",
+      "dimension": "玩法",
+      "excerpt": "Control two characters as one player, one with each hand",
+      "url": "https://store.steampowered.com/app/2779570/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收割精华强化武器与能力，再用血符以生命换取爆发力量",
+      "dimension": "玩法",
+      "excerpt": "Harvest essence to enhance your weapons and powers, then unlock bloodrunes to sacrifice health for devastating strength, paving the way to victory.",
+      "url": "https://store.steampowered.com/app/2779570/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "构筑可在主动或被动、防守或进攻之间自由定向",
+      "dimension": "玩法",
+      "excerpt": "Select a build that suits you: active or passive? Defensive or Offensive? It's up to you!",
+      "url": "https://store.steampowered.com/app/2779570/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "非常与众不同的类幸存者游戏，需要同时操纵两个角色进行战斗，如此独特的系统下，武器设计也是非常有创意，推荐大家至少玩一下DEMO试试看！",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "非常与众不同的类幸存者游戏，需要同时操纵两个角色进行战斗，如此独特的系统下，武器设计也是非常有创意，推荐大家至少玩一下DEMO试试看！",
+          "url": "https://steamcommunity.com/id/742040538/recommended/2779570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "作为一款小体量的类幸存者肉鸽，非常好玩但很受苦很难，手残和反应不够快的建议好好考虑一下再入手，一个人要控制两个角色移动躲避攻击还是相当有难度的，怪物的设计挺巧妙的，能看的出制作组在双人移动和怪物攻击方式上结合的很好。",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "作为一款小体量的类幸存者肉鸽，非常好玩但很受苦很难，手残和反应不够快的建议好好考虑一下再入手，一个人要控制两个角色移动躲避攻击还是相当有难度的，怪物的设计挺巧妙的，能看的出制作组在双人移动和怪物攻击方式上结合的很好。",
+          "url": "https://steamcommunity.com/id/BFDFD64424/recommended/2779570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Archons, developed and published by BulletHell Studios, is an inventive entry in the bullet-hell genre that challenges players with fast-paced, strategic combat and a unique dual-character mechanic.",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Archons, developed and published by BulletHell Studios, is an inventive entry in the bullet-hell genre that challenges players with fast-paced, strategic combat and a unique dual-character mechanic.",
+          "url": "https://steamcommunity.com/id/xxadonisxx/recommended/2779570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "特有规则或键位备忘： 画面：**** 音乐：**** 剧情：** 演出：*** 玩法：*** 创意：*** 手感：**** 难度：**** 丰富：*** 耐玩：**** 优化：*** 更新：* 热情：* 细节：** 打磨：** 诚意：** 不足，bug，建议等：coop need any time can change and add.",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "特有规则或键位备忘： 画面：**** 音乐：**** 剧情：** 演出：*** 玩法：*** 创意：*** 手感：**** 难度：**** 丰富：*** 耐玩：**** 优化：*** 更新：* 热情：* 细节：** 打磨：** 诚意：** 不足，bug，建议等：coop need any time can change and add.",
+          "url": "https://steamcommunity.com/profiles/76561198995387103/recommended/2779570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A unique survivors like with 2 player characters, to be used with two sticks of the same controller.",
+      "dimension": "剧情",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A unique survivors like with 2 player characters, to be used with two sticks of the same controller.",
+          "url": "https://store.steampowered.com/curator/27573842-Games-My-Wife-Allows-Me-To-Play/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Controlling two characters at the same time makes Archons a very unique and challenging game, the progression systems are great.",
+      "dimension": "剧情",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Controlling two characters at the same time makes Archons a very unique and challenging game, the progression systems are great.",
+          "url": "https://store.steampowered.com/curator/42803912-Vampire-Survivors-Like-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "This unique roguelite has you controlling two characters at once!",
+      "dimension": "剧情",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "This unique roguelite has you controlling two characters at once!",
+          "url": "https://store.steampowered.com/curator/44992561-Danmaku-Disciples/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A unique bullet hell game where you play with two characters.",
+      "dimension": "剧情",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A unique bullet hell game where you play with two characters.",
+          "url": "https://store.steampowered.com/curator/38352719-TalePlay/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 18321,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 28127,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2021,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 70814,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 18920,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 18920,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.67632694614275,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 380,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.21608,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Archons位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_0e6bdfa1069866531df563284b6f8af1d2f55be1.1920x1080.jpg?t=1757279202",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_0e6bdfa1069866531df563284b6f8af1d2f55be1.1920x1080.jpg?t=1757279202",
+        "alt": "Archons 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_78beb2436041a8120cd1732d8c8f1b98a3404560.1920x1080.jpg?t=1757279202",
+        "alt": "Archons 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_e1f5c0fc5ab347a2d652be99de358dbd8ebcd52c.1920x1080.jpg?t=1757279202",
+        "alt": "Archons 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_fd965b625ced4cec2c8243fa8a1cc7deec72130b.1920x1080.jpg?t=1757279202",
+        "alt": "Archons 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_d9b3b8189aab40c18694d1d8aa8c119dcaab6fbf.1920x1080.jpg?t=1757279202",
+        "alt": "Archons 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_8ebec1c6a0fd3c95794218ef0d5c8edab00a0e27.1920x1080.jpg?t=1757279202",
+        "alt": "Archons 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_ddb996db8db1660a3af1099d890e79fac06e1f66.1920x1080.jpg?t=1757279202",
+        "alt": "Archons 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779570/ss_1640cf545c5f4e90401bbdf9f24c99286e331d4d.1920x1080.jpg?t=1757279202",
+        "alt": "Archons 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

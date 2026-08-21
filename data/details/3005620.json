@@ -1,1 +1,220 @@
-{"identity":{"original_title":"Drop Pockets","developers":["Children of Madness"],"publishers":["Children of Madness"],"release_status":"early_access","release_date":"2025-08-08","tags":["轻度Rogue","回合制战术","解谜","物理模拟","街机"]},"hooks":[{"text":"球桌里不只台球，还会出现冰球甚至木星，每颗“球”都可能托起或毁掉整轮。","dimension":"玩法","excerpt":"From hockey pucks to the planet Jupiter, each ball has the power to carry your run or stop it dead in its tracks.","url":"https://store.steampowered.com/app/3005620/","label":"证据原文片段"},{"text":"每轮末的Pool Shark会改写物理、添加障碍或塞满球桌，用新规则充当Boss。","dimension":"玩法","excerpt":"Pool Sharks wait at the end of every round, ready to cut your run short by applying new rules to the table. By changing physics, adding obstacles, or just flooding the table with balls, these bosses demand your best.","url":"https://store.steampowered.com/app/3005620/","label":"证据原文片段"},{"text":"混搭数十种巧粉、球架与球杆，把得分收益转化为多路线球桌构筑。","dimension":"玩法","excerpt":"Combine dozens of Chalks, Racks, and Cues for many potential builds and ride your highs to success in Drop Pockets!","url":"https://store.steampowered.com/app/3005620/","label":"证据原文片段"}],"opinions":[{"text":"台球核心机制缺失","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the pool mechanics (what makes pool fun) are just not there.","url":"https://steamcommunity.com/id/yesyesbopbop/recommended/3005620/","label":"证据原文片段"}]},{"text":"Balatro式台球机制很聪明。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"a clever take on the Balatro formula as a billiards game.","url":"https://store.steampowered.com/curator/33823486-Slyther-Games/","label":"证据原文片段"}]},{"text":"台球与肉鸽组合带来大量乐趣。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I like pool, I like roguelites. I like this game :) Seriously, it's lots of fun.","url":"https://steamcommunity.com/id/juangmov/recommended/3005620/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":18578,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":33045,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1638,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":235920,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":18902,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":18902,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.835717335463302,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":245,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.489796,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["台球核心机制缺失"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/04cf59a4091c2eb1b9c1354efae3d447b121e6cc/ss_04cf59a4091c2eb1b9c1354efae3d447b121e6cc.1920x1080.jpg?t=1776096870","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/04cf59a4091c2eb1b9c1354efae3d447b121e6cc/ss_04cf59a4091c2eb1b9c1354efae3d447b121e6cc.1920x1080.jpg?t=1776096870","alt":"Drop Pockets 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/ae63181d044e73b169801f4bf28966b1b2434492/ss_ae63181d044e73b169801f4bf28966b1b2434492.1920x1080.jpg?t=1776096870","alt":"Drop Pockets 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/4aed079f1e1acfd9f06b241f01e309bf0650c244/ss_4aed079f1e1acfd9f06b241f01e309bf0650c244.1920x1080.jpg?t=1776096870","alt":"Drop Pockets 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/d5a4c8005976ac82f5b64453070ace4ab4831765/ss_d5a4c8005976ac82f5b64453070ace4ab4831765.1920x1080.jpg?t=1776096870","alt":"Drop Pockets 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Drop Pockets",
+    "developers": [
+      "Children of Madness"
+    ],
+    "publishers": [
+      "Children of Madness"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-08-08",
+    "tags": [
+      "街机",
+      "策略",
+      "轻度Rogue",
+      "回合制战术",
+      "解谜"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "球桌里不只台球，还会出现冰球甚至木星，每颗“球”都可能托起或毁掉整轮。",
+      "dimension": "玩法",
+      "excerpt": "From hockey pucks to the planet Jupiter, each ball has the power to carry your run or stop it dead in its tracks.",
+      "url": "https://store.steampowered.com/app/3005620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮末的Pool Shark会改写物理、添加障碍或塞满球桌，用新规则充当Boss。",
+      "dimension": "玩法",
+      "excerpt": "Pool Sharks wait at the end of every round, ready to cut your run short by applying new rules to the table. By changing physics, adding obstacles, or just flooding the table with balls, these bosses demand your best.",
+      "url": "https://store.steampowered.com/app/3005620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "混搭数十种巧粉、球架与球杆，把得分收益转化为多路线球桌构筑。",
+      "dimension": "玩法",
+      "excerpt": "Combine dozens of Chalks, Racks, and Cues for many potential builds and ride your highs to success in Drop Pockets!",
+      "url": "https://store.steampowered.com/app/3005620/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "台球核心机制缺失",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the pool mechanics (what makes pool fun) are just not there.",
+          "url": "https://steamcommunity.com/id/yesyesbopbop/recommended/3005620/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Balatro式台球机制很聪明。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a clever take on the Balatro formula as a billiards game.",
+          "url": "https://store.steampowered.com/curator/33823486-Slyther-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "台球与肉鸽组合带来大量乐趣。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I like pool, I like roguelites. I like this game :) Seriously, it's lots of fun.",
+          "url": "https://steamcommunity.com/id/juangmov/recommended/3005620/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 19402,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 33241,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1649,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 243147,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 19738,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 19738,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.728859684061794,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 241,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.210526,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "台球核心机制缺失"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Drop Pockets位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/04cf59a4091c2eb1b9c1354efae3d447b121e6cc/ss_04cf59a4091c2eb1b9c1354efae3d447b121e6cc.1920x1080.jpg?t=1776096870",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/04cf59a4091c2eb1b9c1354efae3d447b121e6cc/ss_04cf59a4091c2eb1b9c1354efae3d447b121e6cc.1920x1080.jpg?t=1776096870",
+        "alt": "Drop Pockets 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/ae63181d044e73b169801f4bf28966b1b2434492/ss_ae63181d044e73b169801f4bf28966b1b2434492.1920x1080.jpg?t=1776096870",
+        "alt": "Drop Pockets 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/4aed079f1e1acfd9f06b241f01e309bf0650c244/ss_4aed079f1e1acfd9f06b241f01e309bf0650c244.1920x1080.jpg?t=1776096870",
+        "alt": "Drop Pockets 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/d5a4c8005976ac82f5b64453070ace4ab4831765/ss_d5a4c8005976ac82f5b64453070ace4ab4831765.1920x1080.jpg?t=1776096870",
+        "alt": "Drop Pockets 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/30c33744fac7fae94e33fd338fc51eb1933d1306/ss_30c33744fac7fae94e33fd338fc51eb1933d1306.1920x1080.jpg?t=1776096870",
+        "alt": "Drop Pockets 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/3bbe6884f3db209af2e2234ae2685754fbcad26f/ss_3bbe6884f3db209af2e2234ae2685754fbcad26f.1920x1080.jpg?t=1776096870",
+        "alt": "Drop Pockets 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/40bdf108f985cbb5e76391f8e849ccf03b65d974/ss_40bdf108f985cbb5e76391f8e849ccf03b65d974.1920x1080.jpg?t=1776096870",
+        "alt": "Drop Pockets 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005620/009a092517c3dedd781a66f3485c6d783b7fe6da/ss_009a092517c3dedd781a66f3485c6d783b7fe6da.1920x1080.jpg?t=1776096870",
+        "alt": "Drop Pockets 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

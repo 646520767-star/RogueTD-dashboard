@@ -1,1 +1,179 @@
-{"identity":{"original_title":"The Spotter: Dig or Die","developers":["Puppyroar Games"],"publishers":["Forklift Interactive","Gamersky Games"],"release_status":"released","release_date":"2026-04-07","tags":["塔防","沙盒","僵尸","生存","模拟"]},"hooks":[{"text":"白天安静挖矿，夜晚切换成高压塔防","dimension":"玩法","excerpt":"Two games in one: Meditative digging by day, adrenaline-fueled Tower Defense by night.","url":"https://store.steampowered.com/app/3976500/","label":"证据原文片段"},{"text":"不只布防，还能亲自接管最强主炮扭转战局","dimension":"玩法","excerpt":"Don't just build—take personal control of the most powerful turret and change the outcome of the fight.","url":"https://store.steampowered.com/app/3976500/","label":"证据原文片段"},{"text":"修复接收机只为听到总统决定幸存者命运的信息","dimension":"故事","excerpt":"Your mission isn't just to survive, but to repair the main receiver and finally hear the President’s message that could decide the fate of all survivors.","url":"https://store.steampowered.com/app/3976500/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":147244,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":139808,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11214,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1236726,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":151476,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":151476,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.378795754376921,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1754,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.511364,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"塔防、沙盒","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/ec961464ae2aa6f2d675b21c4051dc11ebf50625/ss_ec961464ae2aa6f2d675b21c4051dc11ebf50625.1920x1080.jpg?t=1782894307","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/ec961464ae2aa6f2d675b21c4051dc11ebf50625/ss_ec961464ae2aa6f2d675b21c4051dc11ebf50625.1920x1080.jpg?t=1782894307","alt":"The Spotter: Dig or Die 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/61aaabad2231f6790faf2a6693b1a72eb413a2f7/ss_61aaabad2231f6790faf2a6693b1a72eb413a2f7.1920x1080.jpg?t=1782894307","alt":"The Spotter: Dig or Die 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/7026f9e9c57c46835d6face564f1bd9e28a2bcee/ss_7026f9e9c57c46835d6face564f1bd9e28a2bcee.1920x1080.jpg?t=1782894307","alt":"The Spotter: Dig or Die 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/24ac5ddc18cd3dc0ba98bdba4990dda4c8a4e174/ss_24ac5ddc18cd3dc0ba98bdba4990dda4c8a4e174.1920x1080.jpg?t=1782894307","alt":"The Spotter: Dig or Die 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Spotter: Dig or Die",
+    "developers": [
+      "Puppyroar Games"
+    ],
+    "publishers": [
+      "Forklift Interactive",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-07",
+    "tags": [
+      "休闲",
+      "塔防",
+      "沙盒",
+      "僵尸",
+      "生存"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "白天安静挖矿，夜晚切换成高压塔防",
+      "dimension": "玩法",
+      "excerpt": "Two games in one: Meditative digging by day, adrenaline-fueled Tower Defense by night.",
+      "url": "https://store.steampowered.com/app/3976500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不只布防，还能亲自接管最强主炮扭转战局",
+      "dimension": "玩法",
+      "excerpt": "Don't just build—take personal control of the most powerful turret and change the outcome of the fight.",
+      "url": "https://store.steampowered.com/app/3976500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "修复接收机只为听到总统决定幸存者命运的信息",
+      "dimension": "故事",
+      "excerpt": "Your mission isn't just to survive, but to repair the main receiver and finally hear the President’s message that could decide the fate of all survivors.",
+      "url": "https://store.steampowered.com/app/3976500/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 150488,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 139358,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11354,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1265149,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 154781,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 154781,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.532176029737599,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1745,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.376581,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "The Spotter: Dig or Die位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/ec961464ae2aa6f2d675b21c4051dc11ebf50625/ss_ec961464ae2aa6f2d675b21c4051dc11ebf50625.1920x1080.jpg?t=1782894307",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/ec961464ae2aa6f2d675b21c4051dc11ebf50625/ss_ec961464ae2aa6f2d675b21c4051dc11ebf50625.1920x1080.jpg?t=1786011334",
+        "alt": "The Spotter: Dig or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/61aaabad2231f6790faf2a6693b1a72eb413a2f7/ss_61aaabad2231f6790faf2a6693b1a72eb413a2f7.1920x1080.jpg?t=1786011334",
+        "alt": "The Spotter: Dig or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/7026f9e9c57c46835d6face564f1bd9e28a2bcee/ss_7026f9e9c57c46835d6face564f1bd9e28a2bcee.1920x1080.jpg?t=1786011334",
+        "alt": "The Spotter: Dig or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/24ac5ddc18cd3dc0ba98bdba4990dda4c8a4e174/ss_24ac5ddc18cd3dc0ba98bdba4990dda4c8a4e174.1920x1080.jpg?t=1786011334",
+        "alt": "The Spotter: Dig or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/84ad60cf91e177833b0ac7d748a096864e09eaff/ss_84ad60cf91e177833b0ac7d748a096864e09eaff.1920x1080.jpg?t=1786011334",
+        "alt": "The Spotter: Dig or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/55d8ca72afc9b00c126da7faa6c23af45df4e84c/ss_55d8ca72afc9b00c126da7faa6c23af45df4e84c.1920x1080.jpg?t=1786011334",
+        "alt": "The Spotter: Dig or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/00b189947ae2212566bb98b43986a2c0074e4ed7/ss_00b189947ae2212566bb98b43986a2c0074e4ed7.1920x1080.jpg?t=1786011334",
+        "alt": "The Spotter: Dig or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976500/efdcff09fec92886e747ea9b82f06b3b9c5b459f/ss_efdcff09fec92886e747ea9b82f06b3b9c5b459f.1920x1080.jpg?t=1786011334",
+        "alt": "The Spotter: Dig or Die 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

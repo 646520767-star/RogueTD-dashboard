@@ -1,1 +1,171 @@
-{"identity":{"original_title":"CRACKED","developers":["PurrNet","Pebbles Games"],"publishers":["Pebbles Games"],"release_status":"released","release_date":"2026-01-07","tags":["玩家对战","多人游戏","物理模拟","动作","竞技场射击"]},"hooks":[{"text":"玻璃头法师在物理驱动的3D竞技场中互相轰碎，让每次碰撞、爆炸和失控位移都改变对局","dimension":"玩法","excerpt":"CRACKED is a fast-paced, 3D PvP roguelike where glass-headed mages go head-to-head (or head-to-shards) in chaotic arena duels. Inspired by Rounds and powered by physics-based combat, every fight is unpredictable, explosive, and wildly replayable.","url":"https://store.steampowered.com/app/3917010/","label":"证据原文片段"},{"text":"每回合结束从古怪升级中选取一项，持续叠加追踪火球、喷气背包、毒云等失衡组合","dimension":"玩法","excerpt":"After every round, choose from a pool of powerful, quirky upgrades that stack into outrageous builds — from homing fireballs and jet packs to rapid-fire chaos or poison clouds.","url":"https://store.steampowered.com/app/3917010/","label":"证据原文片段"},{"text":"既可单人决斗也可扩展到四对四组队混战，用同一套短局规则承载不同人数的竞技","dimension":"玩法","excerpt":"Play solo or team up in 1v1 all the way to 4v4 showdowns.","url":"https://store.steampowered.com/app/3917010/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":28062,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":219,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":28062,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":28062,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.2682069021504523,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":285,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.338028,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"玩家对战、多人游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/c133aeaaea7d573a7ee8a30c4a78eb0e23907ccd/ss_c133aeaaea7d573a7ee8a30c4a78eb0e23907ccd.1920x1080.jpg?t=1767817133","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/c133aeaaea7d573a7ee8a30c4a78eb0e23907ccd/ss_c133aeaaea7d573a7ee8a30c4a78eb0e23907ccd.1920x1080.jpg?t=1767817133","alt":"CRACKED 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/16ef7a27189a21e5644f0f20777cae4ae36a3c69/ss_16ef7a27189a21e5644f0f20777cae4ae36a3c69.1920x1080.jpg?t=1767817133","alt":"CRACKED 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/3a6632c40a4c29c468b38e382a766412d3d5e63e/ss_3a6632c40a4c29c468b38e382a766412d3d5e63e.1920x1080.jpg?t=1767817133","alt":"CRACKED 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/e25a1d0c65da1368f6cfc6a320221a422241a3be/ss_e25a1d0c65da1368f6cfc6a320221a422241a3be.1920x1080.jpg?t=1767817133","alt":"CRACKED 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "CRACKED",
+    "developers": [
+      "PurrNet",
+      "Pebbles Games"
+    ],
+    "publishers": [
+      "Pebbles Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-01-07",
+    "tags": [
+      "玩家对战",
+      "多人游戏",
+      "物理模拟",
+      "动作",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "玻璃头法师在物理驱动的3D竞技场中互相轰碎，让每次碰撞、爆炸和失控位移都改变对局",
+      "dimension": "玩法",
+      "excerpt": "CRACKED is a fast-paced, 3D PvP roguelike where glass-headed mages go head-to-head (or head-to-shards) in chaotic arena duels. Inspired by Rounds and powered by physics-based combat, every fight is unpredictable, explosive, and wildly replayable.",
+      "url": "https://store.steampowered.com/app/3917010/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每回合结束从古怪升级中选取一项，持续叠加追踪火球、喷气背包、毒云等失衡组合",
+      "dimension": "玩法",
+      "excerpt": "After every round, choose from a pool of powerful, quirky upgrades that stack into outrageous builds — from homing fireballs and jet packs to rapid-fire chaos or poison clouds.",
+      "url": "https://store.steampowered.com/app/3917010/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "既可单人决斗也可扩展到四对四组队混战，用同一套短局规则承载不同人数的竞技",
+      "dimension": "玩法",
+      "excerpt": "Play solo or team up in 1v1 all the way to 4v4 showdowns.",
+      "url": "https://store.steampowered.com/app/3917010/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 30293,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 224,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 30293,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 30293,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.200506971206194,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 313,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.15016,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "CRACKED位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/c133aeaaea7d573a7ee8a30c4a78eb0e23907ccd/ss_c133aeaaea7d573a7ee8a30c4a78eb0e23907ccd.1920x1080.jpg?t=1767817133",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/c133aeaaea7d573a7ee8a30c4a78eb0e23907ccd/ss_c133aeaaea7d573a7ee8a30c4a78eb0e23907ccd.1920x1080.jpg?t=1767817133",
+        "alt": "CRACKED 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/16ef7a27189a21e5644f0f20777cae4ae36a3c69/ss_16ef7a27189a21e5644f0f20777cae4ae36a3c69.1920x1080.jpg?t=1767817133",
+        "alt": "CRACKED 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/3a6632c40a4c29c468b38e382a766412d3d5e63e/ss_3a6632c40a4c29c468b38e382a766412d3d5e63e.1920x1080.jpg?t=1767817133",
+        "alt": "CRACKED 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/e25a1d0c65da1368f6cfc6a320221a422241a3be/ss_e25a1d0c65da1368f6cfc6a320221a422241a3be.1920x1080.jpg?t=1767817133",
+        "alt": "CRACKED 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/0ed2ec592ae6eae56b42611a5b1fe676fa36282f/ss_0ed2ec592ae6eae56b42611a5b1fe676fa36282f.1920x1080.jpg?t=1767817133",
+        "alt": "CRACKED 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917010/f859cc8f4f8c1969bcd722299379297481e7a480/ss_f859cc8f4f8c1969bcd722299379297481e7a480.1920x1080.jpg?t=1767817133",
+        "alt": "CRACKED 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

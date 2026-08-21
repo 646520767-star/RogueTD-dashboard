@@ -1,1 +1,207 @@
-{"identity":{"original_title":"Clockfall","developers":["Rever Games GmbH"],"publishers":["Rever Games GmbH"],"release_status":"early_access","release_date":"2026-06-04","tags":["动作角色扮演","地牢探索","轻度Rogue","资源管理","单人游戏"]},"hooks":[{"text":"时间是核心资源，玩家必须在延长剩余时间与提升杀伤力之间持续取舍。","dimension":"玩法","excerpt":"Time is your ultimate resource, but your hero’s lethality is just as vital. Every choice matters: forge your character and sharpen your strategy. You must strike a balance between gaining time and boosting your firepower.","url":"https://store.steampowered.com/app/3596470/","label":"证据原文片段"},{"text":"地下城探索获得的资源、武器和法术会转化为村庄防御能力，两种阶段协同推进破局。","dimension":"玩法","excerpt":"Master the synergy between dungeon crawling and village defense to finally break the loop and save your kin. Experience a unique hybrid of Dungeon Crawler and Action-RPG, featuring intense village defense phases","url":"https://store.steampowered.com/app/3596470/","label":"证据原文片段"},{"text":"神秘时钟迫使主角反复经历村庄毁灭，通过循环积累力量以违抗命运并拯救亲族。","dimension":"故事","excerpt":"A mystical clock now looms amidst the ruins, forcing you to relive the massacres from the past in a relentless loop. In these dreams, time is short and always runs out. Will you seize this cycle to defy fate and save your kin?","url":"https://store.steampowered.com/app/3596470/","label":"证据原文片段"}],"opinions":[{"text":"局外成长显得缓慢且需要刷取。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Meta progression seems grindy/slow","url":"https://steamcommunity.com/id/toastyraven/recommended/3596470/","label":"证据原文片段"}]},{"text":"核心循环很有吸引力，让玩家想再开一局。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The core gameplay loop keeps you wanting to return for \"just one more run\"","url":"https://steamcommunity.com/id/toastyraven/recommended/3596470/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":357,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":337,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3199,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":444,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":444,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.606883823734453,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":25,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["局外成长显得缓慢且需要刷取。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/c545178448cd3ffdebb4b7bac4e441e60dbee817/ss_c545178448cd3ffdebb4b7bac4e441e60dbee817.1920x1080.jpg?t=1784542051","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/c545178448cd3ffdebb4b7bac4e441e60dbee817/ss_c545178448cd3ffdebb4b7bac4e441e60dbee817.1920x1080.jpg?t=1784542051","alt":"Clockfall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/b74bd92ba2e6be6bc5261ce9587581ac6395ae91/ss_b74bd92ba2e6be6bc5261ce9587581ac6395ae91.1920x1080.jpg?t=1784542051","alt":"Clockfall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/761e95ccde982b6b212b4d4ace169d8c4c8ad28e/ss_761e95ccde982b6b212b4d4ace169d8c4c8ad28e.1920x1080.jpg?t=1784542051","alt":"Clockfall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/553d624aa45ca2ebbc98c9c896ed3cfe262bc37e/ss_553d624aa45ca2ebbc98c9c896ed3cfe262bc37e.1920x1080.jpg?t=1784542051","alt":"Clockfall 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Clockfall",
+    "developers": [
+      "Rever Games GmbH"
+    ],
+    "publishers": [
+      "Rever Games GmbH"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-04",
+    "tags": [
+      "轻度Rogue",
+      "砍杀",
+      "地牢探索",
+      "轻度Rogue",
+      "塔防"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "时间是核心资源，玩家必须在延长剩余时间与提升杀伤力之间持续取舍。",
+      "dimension": "玩法",
+      "excerpt": "Time is your ultimate resource, but your hero’s lethality is just as vital. Every choice matters: forge your character and sharpen your strategy. You must strike a balance between gaining time and boosting your firepower.",
+      "url": "https://store.steampowered.com/app/3596470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "地下城探索获得的资源、武器和法术会转化为村庄防御能力，两种阶段协同推进破局。",
+      "dimension": "玩法",
+      "excerpt": "Master the synergy between dungeon crawling and village defense to finally break the loop and save your kin. Experience a unique hybrid of Dungeon Crawler and Action-RPG, featuring intense village defense phases",
+      "url": "https://store.steampowered.com/app/3596470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "神秘时钟迫使主角反复经历村庄毁灭，通过循环积累力量以违抗命运并拯救亲族。",
+      "dimension": "故事",
+      "excerpt": "A mystical clock now looms amidst the ruins, forcing you to relive the massacres from the past in a relentless loop. In these dreams, time is short and always runs out. Will you seize this cycle to defy fate and save your kin?",
+      "url": "https://store.steampowered.com/app/3596470/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "局外成长显得缓慢且需要刷取。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Meta progression seems grindy/slow",
+          "url": "https://steamcommunity.com/id/toastyraven/recommended/3596470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心循环很有吸引力，让玩家想再开一局。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The core gameplay loop keeps you wanting to return for \"just one more run\"",
+          "url": "https://steamcommunity.com/id/toastyraven/recommended/3596470/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 365,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 340,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3248,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 454,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 454,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.6214665001972524,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 18,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "局外成长显得缓慢且需要刷取。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Clockfall位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/c545178448cd3ffdebb4b7bac4e441e60dbee817/ss_c545178448cd3ffdebb4b7bac4e441e60dbee817.1920x1080.jpg?t=1784542051",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/c545178448cd3ffdebb4b7bac4e441e60dbee817/ss_c545178448cd3ffdebb4b7bac4e441e60dbee817.1920x1080.jpg?t=1786627675",
+        "alt": "Clockfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/b74bd92ba2e6be6bc5261ce9587581ac6395ae91/ss_b74bd92ba2e6be6bc5261ce9587581ac6395ae91.1920x1080.jpg?t=1786627675",
+        "alt": "Clockfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/761e95ccde982b6b212b4d4ace169d8c4c8ad28e/ss_761e95ccde982b6b212b4d4ace169d8c4c8ad28e.1920x1080.jpg?t=1786627675",
+        "alt": "Clockfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/553d624aa45ca2ebbc98c9c896ed3cfe262bc37e/ss_553d624aa45ca2ebbc98c9c896ed3cfe262bc37e.1920x1080.jpg?t=1786627675",
+        "alt": "Clockfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/81d8818cdb8e134e552a87ac9cdafe3fd6130642/ss_81d8818cdb8e134e552a87ac9cdafe3fd6130642.1920x1080.jpg?t=1786627675",
+        "alt": "Clockfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/45aadcf5b7906f0bc74f8b1a2df86b5e421c9eaf/ss_45aadcf5b7906f0bc74f8b1a2df86b5e421c9eaf.1920x1080.jpg?t=1786627675",
+        "alt": "Clockfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/cdf2d3fb505396f88aed851b136f1c6088e93565/ss_cdf2d3fb505396f88aed851b136f1c6088e93565.1920x1080.jpg?t=1786627675",
+        "alt": "Clockfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596470/a3c273f036702778ead866904e72afe884e83552/ss_a3c273f036702778ead866904e72afe884e83552.1920x1080.jpg?t=1786627675",
+        "alt": "Clockfall 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"生嚿叉燒好過生你","developers":["無厘頭遊戲工作室"],"publishers":["無厘頭遊戲工作室"],"release_status":"released","release_date":"2024-12-11","tags":["角色扮演","冒险","模拟","选择影响剧情","类Rogue"]},"hooks":[{"text":"地狱地下城搜集资源，升级弹弹球并叠加神器、食物与天赋","dimension":"玩法","excerpt":"在層層地下城般的地獄往下探索收集各種資源。利用資源升級各種彈彈球，配合各種道具神器，食物BUFF，天賦等玩出最爽一刻！","url":"https://store.steampowered.com/app/2540860/","label":"证据原文片段"},{"text":"十余位真人演员与数十只小鬼提供粤语、普通话双语全配音剧情","dimension":"故事","excerpt":"超過十位真人配音演員和數十隻可愛小鬼參與劇情全配音，粵語和普通話任君選擇。","url":"https://store.steampowered.com/app/2540860/","label":"证据原文片段"},{"text":"炒股、送快递、审案等20多个小游戏扩展主循环","dimension":"玩法","excerpt":"炒炒股票，送快遞，審案等等小玩法，和超過二十個小遊戲。還有超過一百個Steam成就等你來收集！","url":"https://store.steampowered.com/app/2540860/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8834,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":25419,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1269,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":99337,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":10636,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":10636,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.027978355311612,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":376,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.223404,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、冒险","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_15f19321d3e8f563e9f06b6900d8c2d5891751a0.1920x1080.jpg?t=1761127563","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_15f19321d3e8f563e9f06b6900d8c2d5891751a0.1920x1080.jpg?t=1761127563","alt":"生块叉烧好过生你 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_7102f9a96761c65f5135fc9674ec5b77d94934e1.1920x1080.jpg?t=1761127563","alt":"生块叉烧好过生你 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_90ce1961803ebfb55248b9a2373237f72634e02f.1920x1080.jpg?t=1761127563","alt":"生块叉烧好过生你 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_7bff61a54d3527269d54597140f3f50bbfb9de94.1920x1080.jpg?t=1761127563","alt":"生块叉烧好过生你 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "生嚿叉燒好過生你",
+    "developers": [
+      "無厘頭遊戲工作室"
+    ],
+    "publishers": [
+      "無厘頭遊戲工作室"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-11",
+    "tags": [
+      "角色扮演",
+      "冒险",
+      "模拟",
+      "选择影响剧情",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "地狱地下城搜集资源，升级弹弹球并叠加神器、食物与天赋",
+      "dimension": "玩法",
+      "excerpt": "在層層地下城般的地獄往下探索收集各種資源。利用資源升級各種彈彈球，配合各種道具神器，食物BUFF，天賦等玩出最爽一刻！",
+      "url": "https://store.steampowered.com/app/2540860/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十余位真人演员与数十只小鬼提供粤语、普通话双语全配音剧情",
+      "dimension": "故事",
+      "excerpt": "超過十位真人配音演員和數十隻可愛小鬼參與劇情全配音，粵語和普通話任君選擇。",
+      "url": "https://store.steampowered.com/app/2540860/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "炒股、送快递、审案等20多个小游戏扩展主循环",
+      "dimension": "玩法",
+      "excerpt": "炒炒股票，送快遞，審案等等小玩法，和超過二十個小遊戲。還有超過一百個Steam成就等你來收集！",
+      "url": "https://store.steampowered.com/app/2540860/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 8907,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 25570,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1272,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 100421,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10730,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10730,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.235751949098852,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 284,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.2,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "生块叉烧好过生你位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_15f19321d3e8f563e9f06b6900d8c2d5891751a0.1920x1080.jpg?t=1761127563",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_15f19321d3e8f563e9f06b6900d8c2d5891751a0.1920x1080.jpg?t=1761127563",
+        "alt": "生块叉烧好过生你 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_7102f9a96761c65f5135fc9674ec5b77d94934e1.1920x1080.jpg?t=1761127563",
+        "alt": "生块叉烧好过生你 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_90ce1961803ebfb55248b9a2373237f72634e02f.1920x1080.jpg?t=1761127563",
+        "alt": "生块叉烧好过生你 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_7bff61a54d3527269d54597140f3f50bbfb9de94.1920x1080.jpg?t=1761127563",
+        "alt": "生块叉烧好过生你 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_d2a62e30fb89646b5fdccd0d5a79c648acb9b20e.1920x1080.jpg?t=1761127563",
+        "alt": "生块叉烧好过生你 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_cb888ac69d8df5865e328111447337497f1a4c6f.1920x1080.jpg?t=1761127563",
+        "alt": "生块叉烧好过生你 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_30f3a5c5b9c279d81e38fc0d9803c1a5aeafa62a.1920x1080.jpg?t=1761127563",
+        "alt": "生块叉烧好过生你 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2540860/ss_a8494c57fcf44833038aa936801b0a869cbfb1f7.1920x1080.jpg?t=1761127563",
+        "alt": "生块叉烧好过生你 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

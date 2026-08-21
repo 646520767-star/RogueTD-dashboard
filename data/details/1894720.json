@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Motordoom","developers":["Hobo Cat Games"],"publishers":["Hobo Cat Games"],"release_status":"released","release_date":"2024-08-02","tags":["动作肉鸽","竞技场射击","弹幕射击","轻度Rogue","玩家对环境"]},"hooks":[{"text":"把特技连段与击杀合并计分，落地后按整段分数直接结算经验。","dimension":"玩法","excerpt":"Combine your trick combo with kills to earn even more points. Once you land your combo, gain experience points as high as the combo score.","url":"https://store.steampowered.com/app/1894720/","label":"证据原文片段"},{"text":"恶魔赐礼以卡牌形式出现，玩家按构筑需要选牌组建本局牌组。","dimension":"玩法","excerpt":"Demonic Offerings come in the form of cards. Build your deck by choosing the right cards for your build.","url":"https://store.steampowered.com/app/1894720/","label":"证据原文片段"},{"text":"驾驶链锯动力越野摩托在怪物竞技场完成翻转、抓板、磨杆与手动平衡连招。","dimension":"玩法","excerpt":"Ride your chainsaw driven pit bike through a monster filled arena! Perform gnarly tricks like flips, grabs, grinds and manuals and combine them all into the sickest combo the underworld has ever seen.","url":"https://store.steampowered.com/app/1894720/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3764,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":48296,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1803,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":39722,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3883,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3883,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.3926314191642,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":182,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.054945,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、竞技场射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_3b688dc2f37cb646b1268fb393b0e908227797e4.1920x1080.jpg?t=1784622891","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_3b688dc2f37cb646b1268fb393b0e908227797e4.1920x1080.jpg?t=1784622891","alt":"Motordoom 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_ba83be4a1f20ef868fc8297fb919a5a14be98678.1920x1080.jpg?t=1784622891","alt":"Motordoom 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_522c1f424c00eb530dae7d9ea77680e3f66a80e1.1920x1080.jpg?t=1784622891","alt":"Motordoom 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_44db5c81ba471ca55866f80661047461190e6570.1920x1080.jpg?t=1784622891","alt":"Motordoom 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Motordoom",
+    "developers": [
+      "Hobo Cat Games"
+    ],
+    "publishers": [
+      "Hobo Cat Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-02",
+    "tags": [
+      "动作肉鸽",
+      "竞技场射击",
+      "轻度Rogue",
+      "弹幕射击",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把特技连段与击杀合并计分，落地后按整段分数直接结算经验。",
+      "dimension": "玩法",
+      "excerpt": "Combine your trick combo with kills to earn even more points. Once you land your combo, gain experience points as high as the combo score.",
+      "url": "https://store.steampowered.com/app/1894720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "恶魔赐礼以卡牌形式出现，玩家按构筑需要选牌组建本局牌组。",
+      "dimension": "玩法",
+      "excerpt": "Demonic Offerings come in the form of cards. Build your deck by choosing the right cards for your build.",
+      "url": "https://store.steampowered.com/app/1894720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "驾驶链锯动力越野摩托在怪物竞技场完成翻转、抓板、磨杆与手动平衡连招。",
+      "dimension": "玩法",
+      "excerpt": "Ride your chainsaw driven pit bike through a monster filled arena! Perform gnarly tricks like flips, grabs, grinds and manuals and combine them all into the sickest combo the underworld has ever seen.",
+      "url": "https://store.steampowered.com/app/1894720/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4392,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 47303,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1805,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 42629,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4532,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4532,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.3264452433953515,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 173,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.027624,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Motordoom位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_3b688dc2f37cb646b1268fb393b0e908227797e4.1920x1080.jpg?t=1784622891",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_3b688dc2f37cb646b1268fb393b0e908227797e4.1920x1080.jpg?t=1784622891",
+        "alt": "Motordoom 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_ba83be4a1f20ef868fc8297fb919a5a14be98678.1920x1080.jpg?t=1784622891",
+        "alt": "Motordoom 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_522c1f424c00eb530dae7d9ea77680e3f66a80e1.1920x1080.jpg?t=1784622891",
+        "alt": "Motordoom 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_44db5c81ba471ca55866f80661047461190e6570.1920x1080.jpg?t=1784622891",
+        "alt": "Motordoom 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_e9991b0cf0c22a0d15bc3fa534b7ee3bc834dfe1.1920x1080.jpg?t=1784622891",
+        "alt": "Motordoom 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_c0e1d7623e61186b79d76307ef3bc9a83d25a7e3.1920x1080.jpg?t=1784622891",
+        "alt": "Motordoom 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_e3ad3905f2384fa99b90e2de7e8f9078544c9d45.1920x1080.jpg?t=1784622891",
+        "alt": "Motordoom 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1894720/ss_7e452e3db665a7542aa79046d448646b88be3873.1920x1080.jpg?t=1784622891",
+        "alt": "Motordoom 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

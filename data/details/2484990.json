@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Asgard's Fall: Origins","developers":["Soulpotion"],"publishers":["Assemble Entertainment"],"release_status":"released","release_date":"2024-01-27","tags":["免费游玩","动作肉鸽","弹幕射击","轻度Rogue","竞技场射击"]},"hooks":[{"text":"动态能力系统覆盖伤害技能、战略增益与独特力量，可按打法挑选征战九界。","dimension":"玩法","excerpt":"Master the art of combat with the dynamic Ability System. Choose from a diverse array of skills, each tailored to your playstyle. Unleash devastating attacks, strategic buffs, and unique powers to conquer the Nine Realms.","url":"https://store.steampowered.com/app/2484990/","label":"证据原文片段"},{"text":"把远古符文刻入遗物即可强化力量，让装备本身成为持续成长载体。","dimension":"玩法","excerpt":"Control the magic of ancient runes with our Rune Carving System. Craft your destiny by engraving powerful runes onto relics, enhancing your power on your way to conquer Asgard.","url":"https://store.steampowered.com/app/2484990/","label":"证据原文片段"},{"text":"技能树通过解锁能力、强化优势和适应挑战塑造战士进化，每个选择都会影响传奇结局。","dimension":"玩法","excerpt":"Shape your warrior's evolution with our intricate Skill Tree. Customize your playstyle by unlocking diverse abilities, enhancing strengths, and adapting to challenges. Every choice influences your saga's outcome.","url":"https://store.steampowered.com/app/2484990/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":108153,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8116,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1671,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":108153,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":108153,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.77685825995672,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1073,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.626031,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"免费游玩、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_6946ecad235cc723f1ed3f17eba66c37318022ae.1920x1080.jpg?t=1744273683","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_6946ecad235cc723f1ed3f17eba66c37318022ae.1920x1080.jpg?t=1744273683","alt":"阿斯加德的陨落: 起源 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_948411bea8460cd9dfe6e5559c4286fed96f2e80.1920x1080.jpg?t=1744273683","alt":"阿斯加德的陨落: 起源 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_04f5e3645561fa5b323a53aee7ac898166580744.1920x1080.jpg?t=1744273683","alt":"阿斯加德的陨落: 起源 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_d23eb1c7b87bcb7d4044fa270f8fba341db00756.1920x1080.jpg?t=1744273683","alt":"阿斯加德的陨落: 起源 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Asgard's Fall: Origins",
+    "developers": [
+      "Soulpotion"
+    ],
+    "publishers": [
+      "Assemble Entertainment"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-27",
+    "tags": [
+      "免费游玩",
+      "动作肉鸽",
+      "弹幕射击",
+      "轻度Rogue",
+      "竞技场射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "动态能力系统覆盖伤害技能、战略增益与独特力量，可按打法挑选征战九界。",
+      "dimension": "玩法",
+      "excerpt": "Master the art of combat with the dynamic Ability System. Choose from a diverse array of skills, each tailored to your playstyle. Unleash devastating attacks, strategic buffs, and unique powers to conquer the Nine Realms.",
+      "url": "https://store.steampowered.com/app/2484990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把远古符文刻入遗物即可强化力量，让装备本身成为持续成长载体。",
+      "dimension": "玩法",
+      "excerpt": "Control the magic of ancient runes with our Rune Carving System. Craft your destiny by engraving powerful runes onto relics, enhancing your power on your way to conquer Asgard.",
+      "url": "https://store.steampowered.com/app/2484990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "技能树通过解锁能力、强化优势和适应挑战塑造战士进化，每个选择都会影响传奇结局。",
+      "dimension": "玩法",
+      "excerpt": "Shape your warrior's evolution with our intricate Skill Tree. Customize your playstyle by unlocking diverse abilities, enhancing strengths, and adapting to challenges. Every choice influences your saga's outcome.",
+      "url": "https://store.steampowered.com/app/2484990/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 111111,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 8116,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 111111,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 111111,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.765380219416179,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1073,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.614679,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "阿斯加德的陨落: 起源位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_6946ecad235cc723f1ed3f17eba66c37318022ae.1920x1080.jpg?t=1744273683",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_6946ecad235cc723f1ed3f17eba66c37318022ae.1920x1080.jpg?t=1744273683",
+        "alt": "阿斯加德的陨落: 起源 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_948411bea8460cd9dfe6e5559c4286fed96f2e80.1920x1080.jpg?t=1744273683",
+        "alt": "阿斯加德的陨落: 起源 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_04f5e3645561fa5b323a53aee7ac898166580744.1920x1080.jpg?t=1744273683",
+        "alt": "阿斯加德的陨落: 起源 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_d23eb1c7b87bcb7d4044fa270f8fba341db00756.1920x1080.jpg?t=1744273683",
+        "alt": "阿斯加德的陨落: 起源 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_da41cd44ca0e31a025e1269a353f7d4b6512b2d3.1920x1080.jpg?t=1744273683",
+        "alt": "阿斯加德的陨落: 起源 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_658e0d741cf55e3ad1ef17b5912236a5152cedd7.1920x1080.jpg?t=1744273683",
+        "alt": "阿斯加德的陨落: 起源 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_6fa75e9fa45af9916c46cec328300cb75b4020a0.1920x1080.jpg?t=1744273683",
+        "alt": "阿斯加德的陨落: 起源 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484990/ss_cbd025bd30b12daccdc0336fc915d07afead011f.1920x1080.jpg?t=1744273683",
+        "alt": "阿斯加德的陨落: 起源 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Apokerlypse","developers":["Breaker Games"],"publishers":["Breaker Games"],"release_status":"released","release_date":"2026-04-29","tags":["策略","类Rogue","肉鸽卡组构筑","多人游戏","单人游戏"]},"hooks":[{"text":"以扑克出完手牌为基础，引入DBG构筑并通过连锁反应改写传统牌局节奏。","dimension":"玩法","excerpt":"Built on the classic poker objective of “getting rid of all your cards,” Apokerlypse blends in deep deckbuilding roguelike mechanics, making every run a chance to unleash outrageous chain reactions that will leave you stunned.","url":"https://store.steampowered.com/app/3481020/","label":"证据原文片段"},{"text":"异步对战会调用真实玩家创建的技能、筹码和牌组构筑，要求逐局寻找弱点。","dimension":"玩法","excerpt":"Every battle pits you against card builds created by real players in asynchronous multiplayer. They come armed with unique skills, chip combinations, and personalized decks of their own. Find their weaknesses, and do whatever it takes to defeat them!","url":"https://store.steampowered.com/app/3481020/","label":"证据原文片段"},{"text":"四百种筹码可直接重塑核心机制并打破常规牌局规则，扩大构筑空间。","dimension":"玩法","excerpt":"400 chips that reshape core mechanics and completely break the conventional rules of card play","url":"https://store.steampowered.com/app/3481020/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":57479,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":59736,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2784,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":314746,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":65363,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":65363,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.846184848103535,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":708,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.676056,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/ef29327ec17da303ad07ebef503a4480e5c32b3a/ss_ef29327ec17da303ad07ebef503a4480e5c32b3a.1920x1080.jpg?t=1781502629","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/ef29327ec17da303ad07ebef503a4480e5c32b3a/ss_ef29327ec17da303ad07ebef503a4480e5c32b3a.1920x1080.jpg?t=1781502629","alt":"恶魔牌 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/2763eed1e6fa607218f113abddf552330b9da0fb/ss_2763eed1e6fa607218f113abddf552330b9da0fb.1920x1080.jpg?t=1781502629","alt":"恶魔牌 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/aee1aeff6bb5f4ffa9bad468db8bfa515d6d969b/ss_aee1aeff6bb5f4ffa9bad468db8bfa515d6d969b.1920x1080.jpg?t=1781502629","alt":"恶魔牌 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/544870b1718aa54068734dd219e8f3eb96542604/ss_544870b1718aa54068734dd219e8f3eb96542604.1920x1080.jpg?t=1781502629","alt":"恶魔牌 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Apokerlypse",
+    "developers": [
+      "Breaker Games"
+    ],
+    "publishers": [
+      "Breaker Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-29",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "肉鸽卡组构筑",
+      "多人游戏",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "以扑克出完手牌为基础，引入DBG构筑并通过连锁反应改写传统牌局节奏。",
+      "dimension": "玩法",
+      "excerpt": "Built on the classic poker objective of “getting rid of all your cards,” Apokerlypse blends in deep deckbuilding roguelike mechanics, making every run a chance to unleash outrageous chain reactions that will leave you stunned.",
+      "url": "https://store.steampowered.com/app/3481020/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "异步对战会调用真实玩家创建的技能、筹码和牌组构筑，要求逐局寻找弱点。",
+      "dimension": "玩法",
+      "excerpt": "Every battle pits you against card builds created by real players in asynchronous multiplayer. They come armed with unique skills, chip combinations, and personalized decks of their own. Find their weaknesses, and do whatever it takes to defeat them!",
+      "url": "https://store.steampowered.com/app/3481020/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四百种筹码可直接重塑核心机制并打破常规牌局规则，扩大构筑空间。",
+      "dimension": "玩法",
+      "excerpt": "400 chips that reshape core mechanics and completely break the conventional rules of card play",
+      "url": "https://store.steampowered.com/app/3481020/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 60240,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 61368,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2808,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 336068,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 68444,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 68444,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.95023966310167,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 605,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.626539,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "恶魔牌位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/ef29327ec17da303ad07ebef503a4480e5c32b3a/ss_ef29327ec17da303ad07ebef503a4480e5c32b3a.1920x1080.jpg?t=1781502629",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/ef29327ec17da303ad07ebef503a4480e5c32b3a/ss_ef29327ec17da303ad07ebef503a4480e5c32b3a.1920x1080.jpg?t=1781502629",
+        "alt": "恶魔牌 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/2763eed1e6fa607218f113abddf552330b9da0fb/ss_2763eed1e6fa607218f113abddf552330b9da0fb.1920x1080.jpg?t=1781502629",
+        "alt": "恶魔牌 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/aee1aeff6bb5f4ffa9bad468db8bfa515d6d969b/ss_aee1aeff6bb5f4ffa9bad468db8bfa515d6d969b.1920x1080.jpg?t=1781502629",
+        "alt": "恶魔牌 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/544870b1718aa54068734dd219e8f3eb96542604/ss_544870b1718aa54068734dd219e8f3eb96542604.1920x1080.jpg?t=1781502629",
+        "alt": "恶魔牌 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/c784d32294b9f05a5f2a768c8cb8e3f6c9c6f39b/ss_c784d32294b9f05a5f2a768c8cb8e3f6c9c6f39b.1920x1080.jpg?t=1781502629",
+        "alt": "恶魔牌 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481020/2248a6ed1db96540864284f13a3c3bb3deee5b97/ss_2248a6ed1db96540864284f13a3c3bb3deee5b97.1920x1080.jpg?t=1781502629",
+        "alt": "恶魔牌 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

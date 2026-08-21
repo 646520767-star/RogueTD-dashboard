@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Whimsical Artefacts","developers":["Nick Reinche"],"publishers":["PRO//CYON"],"release_status":"released","release_date":"2025-07-31","tags":["休闲","角色自定义","探索","在线合作","玩家对环境"]},"hooks":[{"text":"先鉴定遗物推断对自己或队友的效果，再画图记录用途，或牺牲遗物换取深入地堡。","dimension":"玩法","excerpt":"Identify forgotten artefacts to deduce their effects on you or on your friends. Draw descriptive pictures to not forget what they do or sacrifice them to go deeper into the bunkers.","url":"https://store.steampowered.com/app/3604800/","label":"证据原文片段"},{"text":"越深入地堡，房间、陷阱与遗物本身都更危险，探索深度直接放大死亡风险。","dimension":"玩法","excerpt":"While delving deeper and deeper into the bunkers, rooms will get more dangerous, traps that keep scavenger at bay will be more frequent and artefacts will be more and more lethal.","url":"https://store.steampowered.com/app/3604800/","label":"证据原文片段"},{"text":"玩家能画脸、配饰、光标和遗物图示；死后留下的绘画可能帮助队友，也可能故意误导他们。","dimension":"玩法","excerpt":"Draw anything you want to represent yourself. Draw your face, accessories, your own cursor... You may also draw something for artefacts that could be helpful for yourself or for your friends that collect them from your remains. They could also deceive them into chaotic situations.","url":"https://store.steampowered.com/app/3604800/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":72958,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":584,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":72958,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":72958,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0.9434389932783149,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":635,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.277603,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲、角色自定义","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/627bc16538292818141f6faa5b54673c6042b01e/ss_627bc16538292818141f6faa5b54673c6042b01e.1920x1080.jpg?t=1766414812","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/627bc16538292818141f6faa5b54673c6042b01e/ss_627bc16538292818141f6faa5b54673c6042b01e.1920x1080.jpg?t=1766414812","alt":"Whimsical Artefacts 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/505b3097feb207f283d69e3df27ce1570f015b5a/ss_505b3097feb207f283d69e3df27ce1570f015b5a.1920x1080.jpg?t=1766414812","alt":"Whimsical Artefacts 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/2c531de1dc0806faec35de4caa9a538f9385b331/ss_2c531de1dc0806faec35de4caa9a538f9385b331.1920x1080.jpg?t=1766414812","alt":"Whimsical Artefacts 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/d65efea865a50c72e26d3a7efb0b13da8470ea9c/ss_d65efea865a50c72e26d3a7efb0b13da8470ea9c.1920x1080.jpg?t=1766414812","alt":"Whimsical Artefacts 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Whimsical Artefacts",
+    "developers": [
+      "Nick Reinche"
+    ],
+    "publishers": [
+      "PRO//CYON"
+    ],
+    "release_status": "released",
+    "release_date": "2025-07-31",
+    "tags": [
+      "休闲",
+      "角色自定义",
+      "探索",
+      "在线合作",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "先鉴定遗物推断对自己或队友的效果，再画图记录用途，或牺牲遗物换取深入地堡。",
+      "dimension": "玩法",
+      "excerpt": "Identify forgotten artefacts to deduce their effects on you or on your friends. Draw descriptive pictures to not forget what they do or sacrifice them to go deeper into the bunkers.",
+      "url": "https://store.steampowered.com/app/3604800/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "越深入地堡，房间、陷阱与遗物本身都更危险，探索深度直接放大死亡风险。",
+      "dimension": "玩法",
+      "excerpt": "While delving deeper and deeper into the bunkers, rooms will get more dangerous, traps that keep scavenger at bay will be more frequent and artefacts will be more and more lethal.",
+      "url": "https://store.steampowered.com/app/3604800/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "玩家能画脸、配饰、光标和遗物图示；死后留下的绘画可能帮助队友，也可能故意误导他们。",
+      "dimension": "玩法",
+      "excerpt": "Draw anything you want to represent yourself. Draw your face, accessories, your own cursor... You may also draw something for artefacts that could be helpful for yourself or for your friends that collect them from your remains. They could also deceive them into chaotic situations.",
+      "url": "https://store.steampowered.com/app/3604800/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 74223,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 584,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 74223,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 74223,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 0.9488765926956262,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 641,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.09375,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Whimsical Artefacts位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/627bc16538292818141f6faa5b54673c6042b01e/ss_627bc16538292818141f6faa5b54673c6042b01e.1920x1080.jpg?t=1766414812",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/627bc16538292818141f6faa5b54673c6042b01e/ss_627bc16538292818141f6faa5b54673c6042b01e.1920x1080.jpg?t=1766414812",
+        "alt": "Whimsical Artefacts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/505b3097feb207f283d69e3df27ce1570f015b5a/ss_505b3097feb207f283d69e3df27ce1570f015b5a.1920x1080.jpg?t=1766414812",
+        "alt": "Whimsical Artefacts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/2c531de1dc0806faec35de4caa9a538f9385b331/ss_2c531de1dc0806faec35de4caa9a538f9385b331.1920x1080.jpg?t=1766414812",
+        "alt": "Whimsical Artefacts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/d65efea865a50c72e26d3a7efb0b13da8470ea9c/ss_d65efea865a50c72e26d3a7efb0b13da8470ea9c.1920x1080.jpg?t=1766414812",
+        "alt": "Whimsical Artefacts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/2397d15369fdd4993194819f8ca4f489c26f52b6/ss_2397d15369fdd4993194819f8ca4f489c26f52b6.1920x1080.jpg?t=1766414812",
+        "alt": "Whimsical Artefacts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/b112a7cde1f3dea7d6b4fb8f52d59b29e6b52cda/ss_b112a7cde1f3dea7d6b4fb8f52d59b29e6b52cda.1920x1080.jpg?t=1766414812",
+        "alt": "Whimsical Artefacts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/e651c89dbb79f2bdc14b608275791d12daf61c81/ss_e651c89dbb79f2bdc14b608275791d12daf61c81.1920x1080.jpg?t=1766414812",
+        "alt": "Whimsical Artefacts 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604800/2891262dcb9031b04a6595e8dda8c6bb4bbb9769/ss_2891262dcb9031b04a6595e8dda8c6bb4bbb9769.1920x1080.jpg?t=1766414812",
+        "alt": "Whimsical Artefacts 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

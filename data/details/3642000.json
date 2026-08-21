@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Space Warlord Baby Trading Simulator","developers":["Strange Scaffold"],"publishers":["Frosty Pop","Strange Scaffold"],"release_status":"released","release_date":"2026-01-29","tags":["策略","模拟","轻度Rogue","经营管理","类Rogue"]},"hooks":[{"text":"买卖的是基于模拟外星婴儿人生的股票，可押注寿命并在中银河彩票时套现","dimension":"玩法","excerpt":"You buy stocks BASED on the simulated lives of babies, profiting from their misery and cashing out the moment they win the Galactic Lottery! Step into the shoes of baby traders across the universe in a fast-paced series of mini-campaigns. Unlock unique character endings, bet on the lifespans of digitally simulated alien children, and snatch up as many credits as you can, as fast as you can.","url":"https://store.steampowered.com/app/3642000/","label":"证据原文片段"},{"text":"交易日前雇佣古怪顾问，收集目标数据以提高短时Trading Rush决策质量","dimension":"玩法","excerpt":"Purchase the services of strange consultants, gathering data on your trading targets and building your fortune one Trading Rush at a time.","url":"https://store.steampowered.com/app/3642000/","label":"证据原文片段"},{"text":"七颗行星分别生成外星婴儿股票，并用不同社会利润标准改写市场","dimension":"玩法","excerpt":"Seven distinct planets to trade procedurally generated alien baby stocks on, each showcasing unique ideas of what it means to be profitable and productive to society.","url":"https://store.steampowered.com/app/3642000/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":35726,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":96594,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3437,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":607434,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":36996,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":36996,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.905438294558218,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":510,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.601562,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/8c5c0e3313f8efe0e39d9fc19de5aecb52abf4c2/ss_8c5c0e3313f8efe0e39d9fc19de5aecb52abf4c2.1920x1080.jpg?t=1770222474","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/8c5c0e3313f8efe0e39d9fc19de5aecb52abf4c2/ss_8c5c0e3313f8efe0e39d9fc19de5aecb52abf4c2.1920x1080.jpg?t=1770222474","alt":"Space Warlord Baby Trading Simulator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/32d6e55228698b548ad06b4656f372c635771fb0/ss_32d6e55228698b548ad06b4656f372c635771fb0.1920x1080.jpg?t=1770222474","alt":"Space Warlord Baby Trading Simulator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/95453a050c2d67d50c3631d7f98de2722972d063/ss_95453a050c2d67d50c3631d7f98de2722972d063.1920x1080.jpg?t=1770222474","alt":"Space Warlord Baby Trading Simulator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/aa269f72ca6a73a53f98d44691fe102dfd13d3a4/ss_aa269f72ca6a73a53f98d44691fe102dfd13d3a4.1920x1080.jpg?t=1770222474","alt":"Space Warlord Baby Trading Simulator 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Space Warlord Baby Trading Simulator",
+    "developers": [
+      "Strange Scaffold"
+    ],
+    "publishers": [
+      "Frosty Pop",
+      "Strange Scaffold"
+    ],
+    "release_status": "released",
+    "release_date": "2026-01-29",
+    "tags": [
+      "策略",
+      "模拟",
+      "轻度Rogue",
+      "轻度Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "买卖的是基于模拟外星婴儿人生的股票，可押注寿命并在中银河彩票时套现",
+      "dimension": "玩法",
+      "excerpt": "You buy stocks BASED on the simulated lives of babies, profiting from their misery and cashing out the moment they win the Galactic Lottery! Step into the shoes of baby traders across the universe in a fast-paced series of mini-campaigns. Unlock unique character endings, bet on the lifespans of digitally simulated alien children, and snatch up as many credits as you can, as fast as you can.",
+      "url": "https://store.steampowered.com/app/3642000/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "交易日前雇佣古怪顾问，收集目标数据以提高短时Trading Rush决策质量",
+      "dimension": "玩法",
+      "excerpt": "Purchase the services of strange consultants, gathering data on your trading targets and building your fortune one Trading Rush at a time.",
+      "url": "https://store.steampowered.com/app/3642000/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "七颗行星分别生成外星婴儿股票，并用不同社会利润标准改写市场",
+      "dimension": "玩法",
+      "excerpt": "Seven distinct planets to trade procedurally generated alien baby stocks on, each showcasing unique ideas of what it means to be profitable and productive to society.",
+      "url": "https://store.steampowered.com/app/3642000/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 36052,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 98445,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3579,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 611955,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 37354,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 37354,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.996549757950292,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 496,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.762452,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Space Warlord Baby Trading Simulator位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/8c5c0e3313f8efe0e39d9fc19de5aecb52abf4c2/ss_8c5c0e3313f8efe0e39d9fc19de5aecb52abf4c2.1920x1080.jpg?t=1770222474",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/8c5c0e3313f8efe0e39d9fc19de5aecb52abf4c2/ss_8c5c0e3313f8efe0e39d9fc19de5aecb52abf4c2.1920x1080.jpg?t=1770222474",
+        "alt": "Space Warlord Baby Trading Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/32d6e55228698b548ad06b4656f372c635771fb0/ss_32d6e55228698b548ad06b4656f372c635771fb0.1920x1080.jpg?t=1770222474",
+        "alt": "Space Warlord Baby Trading Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/95453a050c2d67d50c3631d7f98de2722972d063/ss_95453a050c2d67d50c3631d7f98de2722972d063.1920x1080.jpg?t=1770222474",
+        "alt": "Space Warlord Baby Trading Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/aa269f72ca6a73a53f98d44691fe102dfd13d3a4/ss_aa269f72ca6a73a53f98d44691fe102dfd13d3a4.1920x1080.jpg?t=1770222474",
+        "alt": "Space Warlord Baby Trading Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/d31a9eae9832b4909dd59437cdfa1165698e1432/ss_d31a9eae9832b4909dd59437cdfa1165698e1432.1920x1080.jpg?t=1770222474",
+        "alt": "Space Warlord Baby Trading Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/27b65dfa9c330453079bf4ae308a5a68d6192a4d/ss_27b65dfa9c330453079bf4ae308a5a68d6192a4d.1920x1080.jpg?t=1770222474",
+        "alt": "Space Warlord Baby Trading Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/535bf83e0897afd1a6618f3147b079201d7f55d6/ss_535bf83e0897afd1a6618f3147b079201d7f55d6.1920x1080.jpg?t=1770222474",
+        "alt": "Space Warlord Baby Trading Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642000/a06f179647e3534dd57a1ad60e59ea320a90f984/ss_a06f179647e3534dd57a1ad60e59ea320a90f984.1920x1080.jpg?t=1770222474",
+        "alt": "Space Warlord Baby Trading Simulator 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

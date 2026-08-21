@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Blue Prince","developers":["Dogubomb"],"publishers":["Raw Fury"],"release_status":"released","release_date":"2025-04-10","tags":["解谜","探索","轻度Rogue","单人游戏","剧情丰富"]},"hooks":[{"text":"每推开一扇门都由你选择新房间，亲手起草当天路线","dimension":"玩法","excerpt":"Upon reaching a closed door in Mt. Holly, you decide what room appears behind it and each decision shapes your path as you navigate through the manor.","url":"https://store.steampowered.com/app/1569580/","label":"证据原文片段"},{"text":"宅邸每天清晨重置，只有找到的庄园蓝图升级能留下","dimension":"玩法","excerpt":"Yet, tread wisely – the house resets each dawn, erasing all but the permanent upgrades to your estate blueprint. That is, if you were clever enough to find one!","url":"https://store.steampowered.com/app/1569580/","label":"证据原文片段"},{"text":"寻找46号房时揭开勒索、政治阴谋与作家失踪案","dimension":"故事","excerpt":"Investigate a past woven with the threads of blackmail, political intrigue, and the mysterious disappearance of a local children’s book author.","url":"https://store.steampowered.com/app/1569580/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":862595,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1162901,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":57227,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":19667248,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":948309,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":948309,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":24.57895744062057,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":19276,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.481309,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"解谜、探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_7f4511e2454604568f545436f36674451fed6353.1920x1080.jpg?t=1783605097","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_7f4511e2454604568f545436f36674451fed6353.1920x1080.jpg?t=1783605097","alt":"蓝途王子 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_d04f2e766f538d3680b28574ec97f06b3274aafc.1920x1080.jpg?t=1783605097","alt":"蓝途王子 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_f35ec2c097bda6d0d1eb2846be6be0cfc4cdfcc8.1920x1080.jpg?t=1783605097","alt":"蓝途王子 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_03c1b51c07cb85a30470ae5a652ab9a31eb77479.1920x1080.jpg?t=1783605097","alt":"蓝途王子 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Blue Prince",
+    "developers": [
+      "Dogubomb"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-10",
+    "tags": [
+      "解谜",
+      "探索",
+      "探索",
+      "单人游戏",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每推开一扇门都由你选择新房间，亲手起草当天路线",
+      "dimension": "玩法",
+      "excerpt": "Upon reaching a closed door in Mt. Holly, you decide what room appears behind it and each decision shapes your path as you navigate through the manor.",
+      "url": "https://store.steampowered.com/app/1569580/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "宅邸每天清晨重置，只有找到的庄园蓝图升级能留下",
+      "dimension": "玩法",
+      "excerpt": "Yet, tread wisely – the house resets each dawn, erasing all but the permanent upgrades to your estate blueprint. That is, if you were clever enough to find one!",
+      "url": "https://store.steampowered.com/app/1569580/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "寻找46号房时揭开勒索、政治阴谋与作家失踪案",
+      "dimension": "故事",
+      "excerpt": "Investigate a past woven with the threads of blackmail, political intrigue, and the mysterious disappearance of a local children’s book author.",
+      "url": "https://store.steampowered.com/app/1569580/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 879865,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1177465,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 57565,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 19931593,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 967843,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 967843,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 24.651388431133277,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 17100,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.467389,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "蓝途王子位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_7f4511e2454604568f545436f36674451fed6353.1920x1080.jpg?t=1783605097",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_7f4511e2454604568f545436f36674451fed6353.1920x1080.jpg?t=1783605097",
+        "alt": "蓝途王子 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_d04f2e766f538d3680b28574ec97f06b3274aafc.1920x1080.jpg?t=1783605097",
+        "alt": "蓝途王子 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_f35ec2c097bda6d0d1eb2846be6be0cfc4cdfcc8.1920x1080.jpg?t=1783605097",
+        "alt": "蓝途王子 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_03c1b51c07cb85a30470ae5a652ab9a31eb77479.1920x1080.jpg?t=1783605097",
+        "alt": "蓝途王子 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_7ec816e88c44f30e9de7578132091728713d5944.1920x1080.jpg?t=1783605097",
+        "alt": "蓝途王子 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_2d231fd2f1caf3023631afe24d1dc8d2088f1728.1920x1080.jpg?t=1783605097",
+        "alt": "蓝途王子 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_297937f8ad2567f6de682e8e90859c45240c9142.1920x1080.jpg?t=1783605097",
+        "alt": "蓝途王子 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_afd1b2f0f6ef550cdf0052267e4535c0967d5a2e.1920x1080.jpg?t=1783605097",
+        "alt": "蓝途王子 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,770 @@
-{"schema_version":"d_pc_direction_full_review_cover_patch_round2_v1","steam_appid":"1697870","display_title":"Crown of Greed","sources":{"player":{"label":"普通玩家","readable_count":73,"empty_status_count":0,"reviews":[{"id":"p001","recommendation":"不推荐","text":"太让我痛心了，我不仅仅是因为这个游戏的正式版甚至不如demo，还有对制作组的设计能力感到疑惑，我今天提前两个小时就已经在电脑面前等待了，最后的结果却让我大失所望。 我目前遇到的问题： 1.卫兵的巡逻机制问题，这一点甚至不如demo的版本，至少我看到了demo版本的卫兵是真的会自己组织起大规模甚至全国性的巡逻了，我以为正式版依然会保留这个还算不错的机制，但是没有 2.正式版通过提高英雄单位的招募价格，减少技能的学习成本，减少英雄的成长性来解决之前demo遇到的英雄太过强大的问题，这毫无疑问是愚蠢的，英雄强大是应该的，不然我们玩什么，重点应该是怪物的难度曲线有问题 3.正式版为了适配降低强度的英雄而更改了大部分怪物的属性，甚至不如前代或者王权时候的数据了，有这个必要吗，简要的对怪物进行威胁等级的分级，让卫兵和皇家卫兵可以单独处理类似狼一样的较低级别的威胁，提高英雄的成长性，然后再给予他们更大更强，那些卫兵没办法对付的挑战：熊、恶魔、巨龙之类的 4.看不到怪物和卫兵的具体属性，不是哥们，一个类王权的游戏，战斗是大头，你不给我们看信息我们玩什么！让我们自定义税收？这个意义在哪，只要外面守住了里面税收无论多少都收的起来，守不住改这个也没用 5.中文的问题是解决了 6.现在变了新的问题，你们写代码的是怎么写的，这个最低伤害和最高伤害的词条还没弄清楚吗，到现在还是反的，需要我一步一步教你们如何写代码吗 7.目前遇到的随着游戏的进行会遇到各种神秘的bug包括但不限于： 1.英雄多次死亡并且无法复活。 2.英雄突然原地愣着不动，直到受到攻击才会有反应。 3.在2的基础上你如果解散了他，并且他会在墓地出现并且让你失去复活英雄的功能(什么冤魂)。 4.有时候英雄会到家里或者首都，躺下了就一睡不起，他们的状态没有补满，估计是什么敌人的神秘buff导致的化学反应，永久睡眠了，并且在睡觉的时候还会接任务的，接了任务其他的英雄就不能接了，然后再家里睡大觉。 5.酒馆招募英雄组队，依然继承老一派幽默组队，英雄必须到位，但是你tm老版会强制让英雄过来，你这英雄必须要先做完自己的任务然后过来，哦那任务是什么呢，探索？攻击？无关紧要，只要他接了这个任务就一定会完成，哪怕他根本打不过，他就会来来复复循环：冲过去被打残，回老家补血，然后在过去被打残。然后酒馆的其他几位英雄这辈子都不会等到他了。 6.4的bug衍生，如果你在他睡觉的时候试图打扰他，把建筑拆除了，他有可能确实会醒过来，但也会直接遁入虚空，你在所有地方都找不到这个人，但是左上角的英雄头像你还是能看到他点击他，他也会虚空接任务。 7.在这些bug的共同努力之下，我的电脑终于不堪重负，自动关机了，我真的是nmlb的 8.不是，哥们，好歹按照正常的逻辑来增强敌人吧，你不给拿弩的骷髅弓加额外伤害加满闪避和远抗也就算了，你怎么还能给巨人加50％的近战闪避的，给所有的怪安排上一个最低最高伤害很难吗，这巨人光是肉有什么用啊,把巨人的aoe还回来啊混蛋 9.怪物回归巢穴的时候可能会出现虽然回归了，但是脚底下框还存在的bug，然后英雄就会全锁定这个框从而不会攻击巢穴 10.如果英雄在短期被多次攻击回归老家，仍然会出现疲劳永远回不满的bug，然后就在里面不出来了 It breaks my heart. It's not just that the full release of this game is worse than the demo—I'm also genuinely confused by the design choices of the development team. I was sitting in front of my computer two hours early waiting for it, and the end result was just such a huge disappointment. The issues I'm currently facing: 1.The guard patrol mechanics. This is even worse than the demo version—at least in the demo I could see that the guards would actually organize themselves into large-scale, even kingdom-wide patrols. I thought this decent mechanic would still be present in the full release, but it's not. I2.n the full release, the devs tried to address the problem of heroes being too powerful (an issue present in the demo) by increasing the recruitment cost of hero units, reducing the cost of learning skills, and lowering hero scaling. This is, without a doubt, a stupid approach. Heroes are supposed to be powerful—otherwise, what's the point? The real issue was the monster difficulty curve. 3.To accommodate the nerfed heroes, the full release changed the stats of most monsters, making them even worse than the data from the previous game or Reigns. Was this really necessary? A better approach would have been to introduce threat level classifications for monsters, allowing regular guards and royal guards to handle lower-level threats like wolves on their own, while increasing hero scaling and giving them bigger, tougher challenges that guards can't handle—bears, demons, dragons, and the like. 4.There's no way to view the specific stats of monsters or guards. Come on—this is a Reigns-like game; combat is a major part of it. If you don't let us see the stats, what are we even playing for? Letting us customize taxes? What's the point of that? As long as the outside is defended, taxes can be collected no matter how high or low they are—if you can't hold the perimeter, adjusting taxes won't make a difference. 5. The problem in Chinese has been solved. 6. Now a new problem has arisen. How are you writing the code? You still haven't figured out the terms for minimum damage and maximum damage, and they are still reversed.Do you need me to teach you step by step how to write code? 7. Various mysterious bugs encountered as the game progresses, including but not limited to: 1.Heroes die multiple times and cannot be resurrected. 2.Heroes suddenly stand still and do nothing until they are attacked — only then do they react. 3.Based on bug #2: if you dismiss such a hero, they will appear in the cemetery and cause you to lose the ability to resurrect heroes (what a vengeful spirit). 4.Sometimes heroes go home or to the capital, lie down and never wake up — their status doesn't get replenished. I suspect some enemy's mysterious buff causes a chemical reaction that puts them into permanent sleep. And while sleeping, they still accept quests. Once they accept a quest, other heroes cannot take it, so they just sleep at home. 5.Recruiting heroes in the tavern to form a team still inherits the old ridiculous group mechanics: heroes must physically arrive. But in the old version, the game would force them to come. Here, heroes must first finish their own tasks before coming over. Oh, what are those tasks? Exploration? Attack? It doesn't matter — as long as they accept the quest, they will try to complete it, even if they can't win. So they repeat the cycle: rush in, get beaten up, go back to base to heal, then rush in again and get beaten up again. Meanwhile, the other heroes waiting in the tavern will never see him arrive. 6.Derived from bug #4: if you try to disturb him while he's sleeping — for example, by demolishing a building — he might actually wake up, but then directly vanish into the void. You can't find him anywhere, but you can still see his hero portrait in the top-left corner. Clicking on him allows him to accept quests from the void. 7.Under the combined effort of all these bugs, my computer finally couldn't bear it anymore and shut down automatically. I'm really ♥♥♥♥♥♥♥ done with this. 8.Come on, man, at least follow some basic logic when buffing enemies, right? Fine, you don't give the crossbow-wielding skeleton archer extra damage, maxed-out evasion, and high ranged resistance — but how the hell do you give a giant 50% melee evasion? Is it really that hard to give every enemy a minimum and maximum damage range? What's the point of a giant being just a meat shield?Bring back the giant's AOE, for ♥♥♥♥'s sake! 9. When the monster returns to its lair, there might be a bug where, although it has returned, the frame under its feet still exists, and the hero will completely lock onto this frame, thus not attacking the lair. 10. If the hero is repeatedly attacked in a short period and returns home, there will still be a bug where the fatigue never fully recovers, and then the hero stays inside and does not come out.","url":"https://steamcommunity.com/id/13738223739/recommended/1697870/"},{"id":"p002","recommendation":"不推荐","text":"Buggy. Short. Low quality. Uninventive. EA release marketed as completed. Avoid purchase at all costs.","url":"https://steamcommunity.com/id/Xer0Flux/recommended/1697870/"},{"id":"p003","recommendation":"不推荐","text":"It's a good start, but boy howdy, does this game have rough edges. I'm definitely playing more tomorrow, but this needs some major quality of life changes. Major contentions: - Max speed you can go is 2. It should at least go up to 3x speed, preferably up to 5x. I was sitting around for several minutes doing nothing at several points in the same mission, not in danger but without money to do anything - Seemingly the only way to place a bounty is to click the flag at the top of the screen, click a location to place the flag, then click the placed flag, then set the bounty amount? Why is there no contextual option to right click and enemy and create a flag? Or double left click? Both of these are options in Majesty, neither work here [FIXED] - Heroes sometimes get stuck after opening chests and stand there for the rest of the mission - Why is nothing labeled? Why doesn't hovering my cursor over something have a message box appear that tells me more about that thing? [FIXED] - Why is the tax collector louder/more vocal than other characters? Maybe it's just a bug, but my tax collectors talk constantly and at a louder volume than any other character in my kingdom - Voice acting is overall good, but please consider recasting the tax collector. Again, the man never shuts up, and whoever did his voice acting, did a god-awful job. The actor isn't even trying - Characters don't seem to scout on their own, even the ranger. In Majesty, you can direct people to scout with quest flags, but characters do explore the map on their own eventually, even if you don't. That doesn't seem to be the case here. If the quest says to destroy every lair, you'll have to place down dozens of explore flags to force your characters to explore every nook and cranny - No option to quit game from the ESC menu; you have to go to the main menu first [FIXED] - No journal? I'm constantly getting told quests are being added. The objectives themselves are added to the upper right hand corner of the screen, but they're usually only a few words long and can be vague; there's no journal I could find that offers a more in depth explanation of what you're intended to do","url":"https://steamcommunity.com/profiles/76561198009960608/recommended/1697870/"},{"id":"p004","recommendation":"不推荐","text":"No, to many game breaking bugs, if you are not use to wasting 2-3 hrs like me just to have game breaking bugs , that make your 2-3 hrs reset. Do not bother getting the game til 3 months later or never. 3 times where my game just bug out, only fix is to restart the game but its false hope, Example, if you noticed that people are standing still in place or walking in place, do not save the game and reload, why? because it breaks your game. It will give you the illusion that you people are walking or working again but, seconds later its broken again. Kill a main boss to early ? broken game. So yeah do not bother til a year later or something or skip this game. I enjoy it, but if you are not the type to waste 3 hrs just to have it vanish, avoid this game at all cost. 4/4/2026 (Would You still Recommend this game?) After 16 hrs, I will have to say No still. I still will not recommend this game, if you are not use to wasting time, just to have it break on you, leading to a restart. This game to me is like eating ice cream, very good and enjoyable but , you have bugs in it. Bugs is not that bad compare to Poop chunks in my ice cream though. TLDR: Cons: Constant Bugs , bad UI, No Restart Button, Horrible Balancing in late Stages of the game and more. Pros: Nice Art Style Music Relaxing (When Balanced) Short and to the Point Great Time Waster A Small nice Sense of Adventure Edit: 4/10/2026 Lessaria or Crown of Greed? I just bought Lessaria, and I’m enjoying it more than Crown of Greed. For example, in Crown of Greed, the inn/party mechanics don't work and are just useless. There is no synergy among the parties, and it fails to give you that fantasy feeling. In Greed, you just spam troops and towers until you win. In Lessaria, you can spam troops, or you can go for a specialized setup like Ranger (DPS), Knight (Tank), Druid (Healer), and Ogre (Buff/Debuff). It’s sad to say, but Lessaria is just better. Both have their charm, so if you have the money and—most importantly—the time, go for both. However, I’d say, get Lessaria. It’s a bit unfair since Lessaria was a buggy mess at the start too, but the party system and inn mechanics in Lessaria are just 10x better. It gives you that fantasy feeling of building a real party instead of just faceless blobs. Most importantly, the sense of adventure when playing Lessaria outshines Crown of Greed.","url":"https://steamcommunity.com/profiles/76561198161618305/recommended/1697870/"},{"id":"p005","recommendation":"不推荐","text":"很难相信一款游戏的正式版比不上自己的DEMO好玩，这不由得令人深思：你们他妈的听取了谁的建议对DEMO改动了这么多？？？","url":"https://steamcommunity.com/id/RicoSZE/recommended/1697870/"},{"id":"p006","recommendation":"推荐","text":"Highly recommend this game. Watch my Let's Play coverage of the release version: https://youtu.be/Hgoc4W0OBXY","url":"https://steamcommunity.com/profiles/76561198070413486/recommended/1697870/"},{"id":"p007","recommendation":"不推荐","text":"真畜生啊刚开局怪窝直接在我家门口，冒险者好像火车王一样在外面打了怪就往家跑，清窝点不组队一个一个送，组了队就罚站挂机，我头一次玩到DEMO比正式版好玩的游戏，希望制作组回家自己吃自己去吧","url":"https://steamcommunity.com/profiles/76561198282099546/recommended/1697870/"},{"id":"p008","recommendation":"不推荐","text":"It’s not just a few bugs, it’s a swarm infestation. The game is fun tho, I'll change my review if all issues have been fixed but right now I can't even completed the campaign because of it.","url":"https://steamcommunity.com/profiles/76561198043396863/recommended/1697870/"},{"id":"p009","recommendation":"不推荐","text":"I've played Majesty series over and over and over. Is it me or is this game boring even though it is almost the same. I can't say what is wrong about this game but I have passed 6 campaign missions but i am still not enjoying it. I am pushing really hard to enjoy it but i don't feel the same when i first or last played Majesty 2. Is it me? Am I the problem? I am beginning to think it is me because this is really similar...","url":"https://steamcommunity.com/id/absolutezerotr/recommended/1697870/"},{"id":"p010","recommendation":"推荐","text":"你以为把科技建筑全摆野外并且不让重建我就会像狗一样不停花钱去防守吗 我爆两百个小弓不一样把极难堆过去了","url":"https://steamcommunity.com/id/frostcompass/recommended/1697870/"},{"id":"p011","recommendation":"不推荐","text":"Too many game breaking bugs forcing you to do entire missions again, bonus objectives not counting and the final mission even black screened giving achievment but no meta currency. What did Majesty do to deserve such an almost endless slog of cheap imitators?","url":"https://steamcommunity.com/profiles/76561198759411049/recommended/1697870/"},{"id":"p012","recommendation":"推荐","text":"I do really enjoy the game, but it has some odd bugs that detract from the experience. The developer does seem to be working those out in good fashion, but several of these shouldn't have existed in the first place. I hadn't really played a game in the same vein as Majesty 20 odd years ago, so this is my first foray into the \"hands-off\" RTS type of game. I almost find it relaxing to not have total control over the heroes, and for the most part they will perform the tasks required themselves. It seems if you can just get the economy stabilized and pump out as many heroes as possible, they will slowly overwhelm the foes. I do wish they would do some tasks without being paid, like clearing out a den that is directly in front of them, but I suppose a mercenary doesn't work for free. As far as some of the bugs go, there's some pretty severe ones. If you save and exit the game, it seems to drop your difficulty level from anything above the easiest difficulty. The scenarios can take anywhere from 30 minutes to an hour or more if you take your time, so this is pretty devastating, specifically because your meta-game progression is tied to completing the scenarios on the hardest difficulty. Beyond that, some side-quests seem to break the same way. Again, the developer seems to be on this, and if you do play in one session, I really haven't seen any issues. I imagine the game will be fully ironed out in the future, and I would recommend it if you're looking for a different kind of economy base building game.","url":"https://steamcommunity.com/id/Ailments69/recommended/1697870/"},{"id":"p013","recommendation":"推荐","text":"Old style game for an old style homage. There are quirks to the system sure, and it does have an 'early access' feel to it in place, but its a step in the right direction for me.","url":"https://steamcommunity.com/profiles/76561198014725566/recommended/1697870/"},{"id":"p014","recommendation":"推荐","text":"I am very much enjoying the game, it is very chill and have been having a lot of fun playing through the different level progressions. Quite happy with it!","url":"https://steamcommunity.com/profiles/76561199835627044/recommended/1697870/"},{"id":"p015","recommendation":"推荐","text":"good game","url":"https://steamcommunity.com/profiles/76561197967651753/recommended/1697870/"},{"id":"p016","recommendation":"推荐","text":"That is a good game Do not listen those haters ! 1st update 16-04-2026 This is a great game so far I had a lot of fun. I would like to have some more option like scenario or map editor but at the moment this is a fresh game. And do not listen those fake accounts giving fake negative review that is competition unfair tactics.","url":"https://steamcommunity.com/profiles/76561197991080008/recommended/1697870/"},{"id":"p017","recommendation":"不推荐","text":"bug好多，保存，加载会出bug 大地图动画时的卡顿不明所以 游戏性方面，数值崩坏，由于怪物只控制刷新速度，导致怪物如果叠多了完全救不回来 总体来说是一款很需要改进的游戏 买到就是亏到","url":"https://steamcommunity.com/profiles/76561198133754642/recommended/1697870/"},{"id":"p018","recommendation":"推荐","text":"The game is nice, experienced only 1 bug in 5 missions so far, and that was one hero being stuck doing nothing.....wellll, deployed a workaround......killed him and then resurrected him. Ta-daaaa, issue resolved. :D but, yeah, as I said, nice game, you will have fun time :)","url":"https://steamcommunity.com/profiles/76561198084894278/recommended/1697870/"},{"id":"p019","recommendation":"推荐","text":"I agree this should have been released as early access. It needed more time to cook, to weed out the bugs and offer more features. Pros: - This does satisfy the majesty itch, and I would argue it is a much better sequel to the original than majesty 2. - Updates fixing bugs are coming out fast. - Art design for the most part is consistent and really good! - Pacing feels good a faster speed, and one in between the two speeds would be nice to have - will keep more people happy i imagine. Cons: - enemy units stack too well, sure it helps pathing, but it looks stupid when 10 units are inside each other - bugs, nests of bugs! - UI has very limited info. - Feels like your locked out of the game for most missions, by that, I mean some guilds you barely get to use then you have finished the game. - limited settings, like i cant screen scroll speed Things that would be nice - some sort of skirmish/random map feature - characters being more recognisable, along with their spells. - general clean up of bugs, too many to list, but most of them are small, some are game breaking. - replaying a won mission should unlock all buildings, heroes etc. - some sort of prestige system could make for unique playstyles and extend play time.","url":"https://steamcommunity.com/profiles/76561198098189165/recommended/1697870/"},{"id":"p020","recommendation":"推荐","text":"I'll be quick. I haven't played Lessaria or Majesty but I've seen the mentions and checked them out. I see they are indeed similar, but I can't help but notice crown of greed has a different approach. The game has potential. Huge potential. It is clunky and rough. The performance is quite terrible honestly, needs to be adressed ASAP, game has no business running this poorly. But I'll be damned, this game's charming and so addictive.","url":"https://steamcommunity.com/profiles/76561198010894890/recommended/1697870/"},{"id":"p021","recommendation":"推荐","text":"I don`t usually write reviews but I will make an exception. I saw a lot of negative reviews about bugs and crashes but I didn`t had any. I finished mission on nightmare as well as normal difficulty and except some hero bugging and staying still witch can be resolved with teleport back it went well. This game feels very similar to majesty which is a plus to me, it scratches that itch. If you want that feel you can surely give it a try.","url":"https://steamcommunity.com/profiles/76561198162138773/recommended/1697870/"},{"id":"p022","recommendation":"不推荐","text":"傻逼一样的AI，加上在正常RTS里都嫌紧迫的任务条件，再加上层出不穷的bug，最后加上如同大脑残缺的的机制设计，共同为我们呈上了如同屎一样的游戏体验。","url":"https://steamcommunity.com/id/11229952255965/recommended/1697870/"},{"id":"p023","recommendation":"推荐","text":"Pros: 1. Fun game 2. Capture the original Majesty moody vibe and mature art direction 3. Lots of heroes are fun to use and have different personalities 4. Variety of quests 5. Excellent monster designs 6. Missions are good paced with well-intended objectives. Cons: 1. Some weird bugs at release but I haven't encountered any gamebreaking. 2. Small indie team so progress to fix bugs will be slow Conclusion: Buy it if you are a fan of the Original Majesty. It almost feels like a 2026 clone of the original Majesty, remake for the modern gamers. I wish there would be an expansion with even more heroes and fantastic monster design (i.e. I love the witch and the chicken-legged house design).","url":"https://steamcommunity.com/id/aguswings/recommended/1697870/"},{"id":"p024","recommendation":"推荐","text":"Majesty fan here - it's good","url":"https://steamcommunity.com/profiles/76561197974310984/recommended/1697870/"},{"id":"p025","recommendation":"推荐","text":"I beat everything in about 30 hours. It was fun. Could maybe play it for 40 hours if you're a completionist and beat it and be done with it in 20 hours if you just want to play on easy. I don't really have a strong desire to keep playing.","url":"https://steamcommunity.com/profiles/76561198216201628/recommended/1697870/"},{"id":"p026","recommendation":"推荐","text":"i LIKED IT","url":"https://steamcommunity.com/profiles/76561198020974478/recommended/1697870/"},{"id":"p027","recommendation":"推荐","text":"It's basically Majesty rebuilt with modern tech. That is excellent and what I was hoping it would be. Yes, it's buggy, but that will get ironed out over time. Yes, performance needs work, but again, will improve with time. The parts that matter (the design choices, sound effects, visual assets and general gameplay loop) are all pitch perfect. My only real complaint is that it doesn't ship with the free-play option from Majesty. You could pick a map and an enemy type and a victory condition and just play a map. It was great. I'm hoping they add that in the near future.","url":"https://steamcommunity.com/profiles/76561197975464456/recommended/1697870/"},{"id":"p028","recommendation":"推荐","text":"I had fun.","url":"https://steamcommunity.com/id/MBShoxi/recommended/1697870/"},{"id":"p029","recommendation":"推荐","text":"I really like this game. I still haven't finished the campaign and I'm enjoying it a lot. I lover both original Majesty games and Crown of Greed does a lot to make you remember them, while adding some nice new things along the way. The technology development is in your hands allowing for quite significant differences between playthroughs, depending on what you chosoe to purchase. The graphics and music / sounds are great, not really much else to say here. I also like all the characters talking occasionally, it's a little thing, but it makes the game feel alive. As for the gameplay - if you liked Majesty, you will be very, very happy with it. The enemy unit / lair cards could use some, or even any actual descriptions / stats. Would a a little bit of flavour.","url":"https://steamcommunity.com/id/Crenge/recommended/1697870/"},{"id":"p030","recommendation":"推荐","text":"It's a thumbs up with conditions. The core gameplay is great and I'm having a blast. BUT... it's a buggy mess. Game will sometimes softlock loading in and you'll have to alt f4, won't properly autosave after a level, quests won't register completion, and even some dialogue has the wrong character portraits for a few lines. Needs work, but still very glad I got it.","url":"https://steamcommunity.com/profiles/76561198014119706/recommended/1697870/"},{"id":"p031","recommendation":"不推荐","text":"The game is okay, but it’s irritating that the autosave doesn’t give you any control over how often it triggers. You shouldn't do a job halfway; if a feature is there, it needs to be implemented properly. I deleted the game after five missions because is makes me so angry.","url":"https://steamcommunity.com/profiles/76561198158220173/recommended/1697870/"},{"id":"p032","recommendation":"不推荐","text":"the games not bad but its a bug ridden mess. for 1.0 ...no..... stay far away from this. playing the game on x3 speed breaks many side quest. the main map where you choose missions, its difficult to see missions to choose since the entire map and the missions are just shades of grey..... the snow maps, everything is white....including your building UI...so you cant see building stats because its white on white... missoins are badly paired. one mission has a timer. do this before X time runs out...but the side missions are not clearly scripted for a timed main mission. and this is just the basic stuff...its gets more broken as you go on. but they deemed the game 1.0 worth...ok","url":"https://steamcommunity.com/id/Nightwolf181/recommended/1697870/"},{"id":"p033","recommendation":"不推荐","text":"The game is basically a less polished majesty/Lessaria. Shame as its has potential but it seems super buggy I currently have a full black screen on the save loading, so i've lost the 18 hour campaign that i've done so far. The heroes themselves are buggy in their actions, for example a party of heroes (only 1 per inn which is annoying), will have their leader wait totally inactive, whilst the rest of the party run back and shop, then maybe they want to shop again, so they run back, i've seen one party not take any action for 10 mins of game time. The game needs portals or something to allow the heroes to run around. I've also seen heroes with 1000 gold just not buy any actual items, sometimes they fill up on every possible consumable, but just not buy armour or weapons. Had a few broken side missions as well which has been a shame. The last bug was the blacksmith upgrade for mythical weapons (4th tier), which i bought then can't actually use in game as it says i dont have it. game could be good, just recommend waiting till they;ve invested time into making it actual work properly","url":"https://steamcommunity.com/profiles/76561198035365098/recommended/1697870/"},{"id":"p034","recommendation":"推荐","text":"较高画质王权2还是值得鼓励一下的，BUG很多有些导致支线做不了，但是整体个人还是很满意的，尤其防御塔终于有用了...好评，好评...","url":"https://steamcommunity.com/id/123638943/recommended/1697870/"},{"id":"p035","recommendation":"不推荐","text":"Good ideas, bad execution. I like how the gameplay loop is supposed to work and when the game does work its really fun. You set up contracts where to defend, scout or attack and how much a contract is paying out and build up the heroes homebases with inns blacksmiths etc. when ever a contract is completed and paid out the heroes can buy potions equipment etc. You dont control the units directly but indirectly and its cool to see how it works out and the money invested back so you can re-invest in more or upgrades. Some of the quests make fun of other fantasy cliches or tropes and it reminded me a little bit of the wither series at a few points. The artwork too is nice (except for the advisor, not sure what to think about that...) The problem is that the game doesn't work most. Heroes just \"forget\" the contracts they are assigned to, its almost impossible to create parties, quest triggers dont work, artifacts or mission related items either dont drop or can not be retrieved, many many times the scenarios load up in a broken state or the key inputs for some reason decide to quit. In general too many game breaking bugs at this point. At the time of writing this is version 1.1 but it feels like an early access game thats not playtested yet. I like it but i can not recommend it in its current state. Maybe check this out in half a year or so. Maybe i'll retry this at a later point when major updates or dlcs come out but for now i'm done with this","url":"https://steamcommunity.com/profiles/76561198058922330/recommended/1697870/"},{"id":"p036","recommendation":"不推荐","text":"不要买，一堆恶性bug。游戏性不如10几年前得王权2.","url":"https://steamcommunity.com/profiles/76561198184569417/recommended/1697870/"},{"id":"p037","recommendation":"不推荐","text":"Insanely buggy. Quests are impossible to complete. While it is fun when it works, it takes doing maps multiple times to get around the bugs.","url":"https://steamcommunity.com/profiles/76561198017136716/recommended/1697870/"},{"id":"p038","recommendation":"推荐","text":"big bug!!!!!!最后一个困难模式下关卡永远被卡，50000金币运不出去，龙永远不死，实在无语！","url":"https://steamcommunity.com/profiles/76561198820567522/recommended/1697870/"},{"id":"p039","recommendation":"不推荐","text":"导致卡关的恶性bug很多。 升级城堡后，每个建筑需要单独升级，没有统一的管理界面，非常麻烦。 任务指引不明确，部分任务不知道如何完成。 没有写明部分建筑升级的作用。 有时会看到英雄拿到了什么东西，但是没有任何文本描述。 战役地图界面太简陋，不知道是以什么难度通关的剧本，需要手动查看。 部分魔法只是凑数。 建筑受到一次攻击就开始着火，实在没必要。 以目前的完成度，卖30-40块钱比较合理。","url":"https://steamcommunity.com/id/FOODE-C137/recommended/1697870/"},{"id":"p040","recommendation":"推荐","text":"玩完了我就拉稀了， 垃圾游戏。","url":"https://steamcommunity.com/id/QiDengYuErJiaWu/recommended/1697870/"},{"id":"p041","recommendation":"不推荐","text":"太辣鸡了啊，我完了一天的存档没了 bug倒是修复了不少，但是英雄太蠢了，有钱的情况下不买装备，买一堆药。。","url":"https://steamcommunity.com/profiles/76561198871227314/recommended/1697870/"},{"id":"p042","recommendation":"推荐","text":"好玩","url":"https://steamcommunity.com/profiles/76561198099341378/recommended/1697870/"},{"id":"p043","recommendation":"不推荐","text":"这游戏怎么越玩帧数越低？？","url":"https://steamcommunity.com/id/582902504/recommended/1697870/"},{"id":"p044","recommendation":"不推荐","text":"Never played Majesty but I wish I did – Crown of Greed is one of many recent games trying to revive that type of game. Across Lessaria and Gold Gold Adventure Gold, Crown of Creed seemed the most promising to me. However the game has had a plethora of both game breaking bugs and non-game breaking bugs since the pre-release demo. The devs released the game out of Early Access with 2-3 very small hot fixes within the first month and them abandoned the game. Even Discord has been totally abandoned by the devs. The devs Blum Entertainment seems to have done the exact same thing to with their previous game Viking Frontiers... The writting is on the wall with this dev so this review is for anyone considering buying the game; don’t. Simply don’t. Take a moment to read all the other reviews commenting on the game breaking bugs and try one of the other Majesty games instead.","url":"https://steamcommunity.com/profiles/76561198008195484/recommended/1697870/"},{"id":"p045","recommendation":"推荐","text":"000","url":"https://steamcommunity.com/profiles/76561198107915061/recommended/1697870/"},{"id":"p046","recommendation":"不推荐","text":"bug太多，比如使用所有法术成就，危险地带不让去的功能哪","url":"https://steamcommunity.com/profiles/76561198154611004/recommended/1697870/"},{"id":"p047","recommendation":"推荐","text":"真jb好玩","url":"https://steamcommunity.com/profiles/76561199104271514/recommended/1697870/"},{"id":"p048","recommendation":"推荐","text":"游戏还是有点王权精神续作的味道的 ，特别是顾问老头的配音。但是BUG还是有一些。1::德鲁伊的龙卷风放完后不会消失，到后面就会越来越卡.2:我已经所有关卡全皇冠了但是成就地狱之门和先祖的罪孽不会跳杯。3::焚烧定理在最后一关所有法术全研究后都放了一遍也是不跳成就。","url":"https://steamcommunity.com/profiles/76561199098066044/recommended/1697870/"},{"id":"p049","recommendation":"推荐","text":"挺好玩的，最好出个无尽模式","url":"https://steamcommunity.com/profiles/76561198994299858/recommended/1697870/"},{"id":"p050","recommendation":"不推荐","text":"Avoid Blum, Play Way and ConsoleWay products. This game was released with no QA, meaning gamebreaking bugs on day 1. There are *still* game-and-level breaking bugs. Two of Blum's previous games, Builders of Greece and Viking Frontiers were left in bad states with no support after short periods of time. The Discord for this game took until the first week of June to even mention that the people responding to \"dev\" pings were actually ConsoleWay employees so part of the money folks and *not* the devs. Along with that, the sections for Blum's previous games have been removed to hide all the questions about why they've been abandoned in such sorry states. Don't buy from these people.","url":"https://steamcommunity.com/profiles/76561198044010700/recommended/1697870/"},{"id":"p051","recommendation":"不推荐","text":"英雄都不买装备！不卖药给悬赏都不去 然后酒馆组队合作的那个都不管用 后面不买装备根本打不过","url":"https://steamcommunity.com/profiles/76561198420492241/recommended/1697870/"},{"id":"p052","recommendation":"推荐","text":"王权的精神续作，及格以上吧。","url":"https://steamcommunity.com/profiles/76561198096628858/recommended/1697870/"},{"id":"p053","recommendation":"不推荐","text":"你们的AI到底是怎么写的？英雄各种迷惑行为，你们的测试人员玩过自己的游戏吗？","url":"https://steamcommunity.com/profiles/76561198220219415/recommended/1697870/"},{"id":"p054","recommendation":"不推荐","text":"No updates, not possible to complete the entire game. Out of balance, needs updates to be relevant and hold the interest of players. Looks like the got the startup money and ran.","url":"https://steamcommunity.com/profiles/76561198035787096/recommended/1697870/"},{"id":"p055","recommendation":"不推荐","text":"发售这么久了，游戏恶性bug还是这么多，玩了俩关就遇到好几个严重影响游戏的bug","url":"https://steamcommunity.com/profiles/76561198800461027/recommended/1697870/"},{"id":"p056","recommendation":"推荐","text":"Fun Majesty clone, a little grindy towards the end(If you are a completionist). Some bugs/glitches","url":"https://steamcommunity.com/profiles/76561198028764279/recommended/1697870/"},{"id":"p057","recommendation":"不推荐","text":"优化差，帧数太低 中文字体太小，希望UI与文字大小能设置，太小导致下面一排建筑的外形也不好辨认 抗锯齿只有TAA也太糊了，我FXAA呢？ （被防御塔的攻击频率急晕）","url":"https://steamcommunity.com/id/QQwiwi/recommended/1697870/"},{"id":"p058","recommendation":"不推荐","text":"Love Majesty style games, but this one feels unfinished and boring. I lost interest very quickly as a result. The ememies take forever to die(way too much health) and your heros are too weak. Takes forever to kill anything and there is no time for you're heros to get strong or money to defend(towers are too expensive).","url":"https://steamcommunity.com/id/Psynex1/recommended/1697870/"},{"id":"p059","recommendation":"推荐","text":"Best strategy games for a busy working class like myself.","url":"https://steamcommunity.com/profiles/76561198105779327/recommended/1697870/"},{"id":"p060","recommendation":"推荐","text":"no idea what's up with the comments, this game is jank but not broken. overall solid, it isn't just a majesty clone and has some good ideas of its own","url":"https://steamcommunity.com/id/rippercoyote/recommended/1697870/"},{"id":"p061","recommendation":"不推荐","text":"这游戏好不好玩不好评，但是制作组是肯定不想让玩家开开心心玩游戏的，而且100%确定制作组并没有试玩过自己的游戏，但凡心里有点B数的行内人士都设计不出这么恶心的游戏模式。 游戏的难度很高但非常的低质，游戏中期开始梦魇难度就无法正常游玩了最夸张的是我使用了cheat将资金改成无限都无法三星获胜，但这并不是因为有BUG或者机制问题而是纯纯的数值难度，制作组再用纯粹的数值增加游戏的难度。最诟病的是建筑速度，每秒差不多7-8点左右的建造速度，一个防御塔400血，建一个塔要一分钟左右...即使开3倍速度加速的情况下也很消耗玩家的阳寿。 be like：玩家过关太快了？那我们就设定成怪物的抗性几十倍加成。 推关变慢但发育太快？那我们再设定每过十几秒就来一波怪让玩家忙起来别玩得那么舒服。 发育也慢了但资源获得的太简单？那我们就设定成5座防御塔射不死一个小怪再用怪物海推平玩家的防线让玩家大量的消耗资源不就行了~ 我们这么为玩家着想帮他们玩游戏，玩家们肯定非常感动，咱们的游戏一定大卖！ ----------------------------------------------------------------------------------------------------------- 就拿这个游戏里让我卡关开修改器的关卡来说吧，在不计算建造时间默认所有建筑瞬间建造完成的前提下，我想请制作者告诉我在梦魇难度下“嘎吱作响的小屋”这个战役如何在开始5分钟以内收集到1W+的金币？因为游戏里的怪物在第一天夜晚就会开始进攻，我大略数了一下差不多16只怪而我只有两个弩手，在保护主城建造兵营的基础上还要保护周围的四个村庄，每个防御塔1500金币，算上每个村庄本就有的一个塔起码还要再补2个这就是1.2W金币还不包括主城需要的建造的建筑.... 先造主城建筑村庄在2分钟以内就直接炸了，但如果先帮村庄造塔即使我将所有资源全部给到这四个小村庄满打满算8000金币而且即使金币够用建筑速度也跟不上，这还是我放弃所有主城建筑不花哪怕一毛钱造兵的情况下也才有8K换言之这意味着我的主城就是0防御，任何一只小哥布林都能抄我的家破我的防最后会导致什么呢？一群小怪堵在我的城堡门口的出生点拿我的守卫刷经验，这种情况下如果我的基地还能不崩是完全不可能的。 好，那咱们就按照最保险的局面来算，放弃其他的三个营地只保住一个行不行？可惜的是也很难在梦魇难度下守住这唯一的村子的概率都趋近为0，因为除了一个无敌的横冲直撞不断杀英雄的BOSS还有固定刷新和BOSS带领的大约30+的小怪没有20座防御塔根本无法撑下去，而这些所有的怪物都会在任务开始的5分钟内开始无穷无尽的冲击你的防线，每晚20+左右的野怪加上每3分钟刷出的BOSS带领着20只左右的精英怪，它们的数量已经是玩家所有单位数量总和的2-3倍了。 简而言之你需要用手里仅存的8K金币在无尽数量怪物的攻击下撑住还要想办法在10分钟以内造出十几座建筑还要避免被怪物拆掉完成这些以后再养出20几个英雄去完成主线任务...而这所有的一切差不多要10W+金币的项目都需要你用8K的杠杆打出效果来，想要打赢这个战役完全凭的是运气和技术、意识、运营完全不沾边。 This game hard to say if it's fun or not, but one thing's for sure—the devs clearly don't want players to enjoy themselves. I'm 100% convinced they never even playtested their own game. Any decent developer with half a brain wouldn't come up with such a disgusting game mode. The difficulty is super high but also really low-quality. Once you hit mid-game, Nightmare difficulty becomes basically unplayable. The craziest part is I used cheats to make my money unlimited and still couldn't get 3 stars. It's not because of bugs or broken mechanics—it's pure number-crunching BS. The devs just keep pumping up the numbers to make it harder. What pisses me off the most is the building speed. It's only about 7-8 points per second. A defense tower has 400 HP, so building one takes roughly a whole minute... Even with 3x speed on, it still eats up your lifespan. It's like: Players clearing levels too fast? Let's give monsters dozens of times more resistance. Pushing levels is slower but economy is growing too fast? Let's spawn a wave every dozen seconds so players stay busy and can't relax. Economy slowed down but resources are too easy to get? Let's make it so 5 defense towers can't even kill one small monster, then use monster waves to flatten the player's defenses and drain their resources~ \"Look how much we're thinking about the players! Helping them play the game!\" The players must be so touched. This game is definitely gonna be a huge hit! --- Take the level where I got stuck and had to use cheats, for example. Ignoring build time and assuming all buildings are instantly done, can the devs please tell me: On Nightmare difficulty, in the \"Creaky Cabin\" campaign, how the hell are you supposed to gather 10,000+ gold within the first 5 minutes? Monsters start attacking on the first night. I counted roughly 16 of them, and I only have two crossbowmen. I need to protect the main base while building barracks, and also protect four surrounding villages. Each defense tower costs 1,500 gold. Plus the one tower each village already has, I still need to build at least 2 more per village—that's already 12,000 gold, not even counting the buildings I need for the main base... If I build main base stuff first, the villages get wiped out in under 2 minutes. But if I focus on building towers for the villages, even dumping all my resources into those four little villages, I can only scrape together 8,000 gold max. And even if I had enough money, the building speed can't keep up. This is while ignoring the main base completely and not spending a single coin on barracks. So my main base has zero defense—any little goblin can just walk in and wreck everything. What happens then? A bunch of small monsters camp at my castle's spawn point and farm experience off my guards. There's no way the base survives that. Alright, let's say we go for the safest option—abandon three camps and only protect one. Too bad that's still nearly impossible on Nightmare. There's an invincible boss that charges around killing heroes nonstop, plus fixed spawns and about 30+ small monsters led by the boss. Without 20 defense towers you can't hold at all. All these monsters will start endlessly smashing your defenses within the first 5 minutes of the mission. Every night there are 20+ wild monsters, plus every 3 minutes the boss shows up with around 20 elite monsters. Their numbers are already 2-3 times more than all your units combined. In short, you have to use your measly 8K gold to survive endless monster attacks, somehow build a dozen+ buildings within 10 minutes without them getting torn down, and then train 20+ heroes to finish the main quest... All of this is basically a 100,000+ gold project that you have to pull off with only 8K. Winning this level has nothing to do with skill, awareness, or good management—it's pure luck.","url":"https://steamcommunity.com/id/hsqfrw/recommended/1697870/"},{"id":"p062","recommendation":"推荐","text":"Just finished the Campaign on Normal, first try on every scenario. It wasn't hard, but not too easy either, and I had fun playing it. For those seeking harder challenge, there are harder difficulties. I did not encounter any game breaking bugs throughout my entire playthrough. The game is definitely inspired by the good old Majesty series. Most of the negative reviews are not justified at all. This game is definitely worth checking out if you liked the Majesty series.","url":"https://steamcommunity.com/profiles/76561198101216970/recommended/1697870/"},{"id":"p063","recommendation":"推荐","text":"It's Majesty, but modern and honestly it's pretty great. I do miss the ratmen and goblins tho","url":"https://steamcommunity.com/id/ExiledTension/recommended/1697870/"},{"id":"p064","recommendation":"推荐","text":"This game is fun. It works ok but has a lot of bugs. For example, in the final mission some dumb bugs cause the voiceover to repeat cautions about the gold caravan when there's no danger. You can still complete the mission but it's annoying.","url":"https://steamcommunity.com/profiles/76561198007745313/recommended/1697870/"},{"id":"p065","recommendation":"推荐","text":"成就bug很难受，英雄ai值得继续被优化，同时只有战役也挺让人失望。 但这款游戏代表的是王权类型的游戏复活，值得购买游玩，特别适合rts跟不上的中老登。","url":"https://steamcommunity.com/profiles/76561198009100633/recommended/1697870/"},{"id":"p066","recommendation":"推荐","text":"虽然bug很多，但仍是我心目中最好的Majesty精神续作。 非常喜欢的黑暗画风，高质量的画质，各有特色的战役关卡（后面的关卡数值不合理，难度奇高），每个英雄性格各不相同，招式也十分华丽。总之制作精良，非常喜爱。 不过问题也很大，各个方面奇多的bug，严重破坏游戏体验，导致游戏无法进行下去。而且关卡很少，希望能推出更多关卡或dlc（别跑路啊，继续更新求求了）","url":"https://steamcommunity.com/id/MagicCCTV/recommended/1697870/"},{"id":"p067","recommendation":"不推荐","text":"Buggy mess. I wanted this to be good, but it feels like it should still be in early access.","url":"https://steamcommunity.com/id/MrFritz844/recommended/1697870/"},{"id":"p068","recommendation":"推荐","text":"I personally thought it was a cool game with a cool vibe. My first time playing this type of game. Basically you kinda vaguely set objectives for your minions to complete and they do it given the proper... motivation is there. (gold) It's a pretty good game but has some bugs and frankly is a bit short and lacks multiplayer and free play. I will recommend this game however because it's got really comfy unique gameplay. You manage heroes and build up a fantasy empire, it's a lot of fun. My kind of game tbh. I dunno why, but it basically reminds me of there are billion minus the micro management. It's a cool base building game, try it.","url":"https://steamcommunity.com/profiles/76561198000712347/recommended/1697870/"},{"id":"p069","recommendation":"推荐","text":"Even though i clicked \"recommend\", it's more of a \"do so at your own leasure, and at a big discount\". If you enjoyed the Majesty game series, you'll probably enjoy this, even though the nostalgic charm falls of rather fast. It has a bunch of infuriating bugs that still aren't patched (Please do somehthing about the druid's tornadoes that never goes away after being cast!). It's also somewhat content poor. After the campaign there's really nothing to do - no multiplayer or co-op, or any kind of single missions or sandbox, survival - nothing. If you pick it up on sale and liked Majesty, you'll get a few hours of entertainment. Also, your heroes are woefully inept at responding to the flags you plant down. Sometimes they might respond, sometimes they couldn't care less, even if you slap on a money prize the size of a small country's GDP. No consistency. One last thing, but it's more of a pet peeve of mine. In Majesty 2 your heroes actually changed looks when they bought better gear, and it was pretty distinct. Was fun seeing them go from puny noobs to veteran giga chads. Here it kind of happens, but you barely notice it, and it seems to be very random. Some change attire, some don't. Definitely lacking the charm and atmosphere of the game it is trying to be a successor to. I did like the slavic folklore influence though. I'll give them that.","url":"https://steamcommunity.com/profiles/76561198006885444/recommended/1697870/"},{"id":"p070","recommendation":"不推荐","text":"This game had great potential, but the dev doesn't understand anything about balance. Having mega-strong boss units come trounce your base every 7 minutes or a 10k hitpoint dragon summon 30 enemies with him to trounce your base in less than 10 minutes into a mission is ♥♥♥♥♥♥♥♥. You have no real time to prepare, and once they leave, you get almost no time to recover. There are even side missions that take specific characters of a certain level (which happens to be the slowest hero so he doesn't catch the bad guys before others do) and you cannot direct one specifically to train, meaning you can spend HOURS waiting on this while the rest of the mission is finished. Seriously, I WANT to like this game, but it becomes a time waster half-way through. Its sad, really. The mechanics have real potential, if only a dev with the knowledge to bring about that potential had a hold of it.","url":"https://steamcommunity.com/profiles/76561198049259479/recommended/1697870/"},{"id":"p071","recommendation":"推荐","text":"7 out of 10 Kind of fun could of used some polish. Pros: - Full Campaign - Cheesy Voice Acting - Outer map Menu had strategic upgrades based on points earned - A few interesting maps and campaigns - A lot of factions spells upgrades ect Cons: - I feel like the game works backwards in some ways you start with all the different allied camps except in a few missions - Barbarians just run past demons ect... kind of annoying and unrealistic how nothing wants to kill each other they all just wanna kill you - Could of used some fun allied maps where your not in complete control - Characters were a little buggy especially when you try to revive maybe make it so you can only revive one time and after that remove them from list","url":"https://steamcommunity.com/profiles/76561197974090298/recommended/1697870/"},{"id":"p072","recommendation":"不推荐","text":"一堆bug，最明显的就是有4个成就不会跳。另外体量很小。我为了支持特意花了90买了，全金冠但是却没有白金，重新开档打了另一个号也没有。有bug体谅小我忍了，但是已经长期不更新修补bug了。莱萨里亚一直会修补，而且还免费更新了好多章节，还加了自定义遭遇战，生存模式等。体量设计，后期用心程度都超过了贪婪之冠。另外战斗音效，难度的递进关系也是。贪婪之冠只要撑过了前期，后期除了高本兵种就变成了垃圾时间（最后一关尤为明显）图书馆的法术形同虚设，根本没有用的必要，boss弱的要死，后期一两个英雄就能把他砍死在某个角落突然就通关了。王权1，9分；王权2，8.5分；王权2怪兽王国，9分；莱萨里亚，8分；贪婪王冠5.5分。","url":"https://steamcommunity.com/profiles/76561198448036622/recommended/1697870/"},{"id":"p073","recommendation":"推荐","text":"Here is the 1 million dollar idea, Crown of Greed but in space, now that is a game I would play","url":"https://steamcommunity.com/profiles/76561198031572138/recommended/1697870/"}],"groups":[{"key":"funny","label":"欢乐","review_ids":["p001","p002","p003","p004","p005","p006","p007","p008","p009","p010","p011","p012","p013","p014","p015","p016","p017","p018","p019","p020","p021","p022","p023","p024","p025","p026","p027","p028","p029","p030","p031","p032","p033","p060"]},{"key":"summary","label":"概要","review_ids":["p033","p034","p035","p036","p037","p038","p039","p040","p041","p042","p044","p046","p047","p048","p049","p050","p051","p052","p053","p054","p055","p056","p057","p058","p059","p060","p061","p062","p063","p064","p065","p066","p067","p068","p069","p070","p071","p072","p073"]},{"key":"helpful","label":"最有价值的","review_ids":["p033","p034","p035","p036","p037","p038","p039","p040","p041","p042","p043","p044","p045","p046","p047","p048","p049","p050","p051","p052","p053","p054","p055","p056","p057","p058","p059","p061","p062","p063","p064","p065","p066","p067","p068","p069","p070","p071","p072","p073"]},{"key":"recent","label":"最新","review_ids":["p033","p034","p035","p036","p037","p038","p039","p040","p041","p042","p043","p044","p045","p046","p047","p048","p049","p050","p051","p052","p053","p054","p055","p056","p057","p058","p059","p061","p062","p063","p064","p065","p066","p067","p068","p069","p070","p071","p072","p073"]}]},"curator":{"label":"鉴赏家","readable_count":16,"empty_status_count":0,"reviews":[{"id":"c001","recommendation":"信息提供","text":"Coming soon","url":"https://store.steampowered.com/curator/38337724-STRATEGY-gems/"},{"id":"c002","recommendation":"信息提供","text":"EA game in the vein of the old Majesty series which up until just a couple of years ago had no spiritual successor. Now it has three. This is one. Then you have Lessaria and Heroes of Orn","url":"https://store.steampowered.com/curator/45602729-Loot_Collector/"},{"id":"c003","recommendation":"信息提供","text":"Demo - mrc 2026 available, unreleased","url":"https://store.steampowered.com/curator/43950812-spielerinchen-plays/"},{"id":"c004","recommendation":"推荐","text":"Very enjoyable, interesting RTS, which has a unique approach to hero management. The forests, ruins, caves, plains. Nice adventures. Real-time strategy game with indirect control in fantasy world.","url":"https://store.steampowered.com/curator/31443943-Best-RPG/"},{"id":"c005","recommendation":"推荐","text":"Good","url":"https://store.steampowered.com/curator/9966013-SalviaQeenzi/"},{"id":"c006","recommendation":"信息提供","text":"A charming, gorgeous Majesty successor with clever indirect RTS mechanics and deep meta-progression, held back by wonky hero AI and technical stability issues.","url":"https://vaporlens.app/app/1697870/crown_of_greed"},{"id":"c007","recommendation":"推荐","text":"Another Majesty remake is here! Offering a gritty take on a fantastic kingdom, Crown of greed brings back the classic asymmetrical gameplay of Majesty you know and love. This one is worth checking out","url":"https://store.steampowered.com/curator/37049023-Generals-Admirals/"},{"id":"c008","recommendation":"不推荐","text":"🟡 5／10 - Average","url":"https://store.steampowered.com/curator/45160298-X-10/"},{"id":"c009","recommendation":"推荐","text":"Gold replaces orders in a clever system where heroes act on their own, turning every decision into a gamble. Strong atmosphere and ideas shine through, though bugs edges still hold it back for now.","url":"https://store.steampowered.com/curator/37765117-Made-For-Gamers/"},{"id":"c010","recommendation":"信息提供","text":"Crown of Greed has a solid foundation that just needs a bit more balance to truly let its royal potential shine.","url":"https://www.gamestic.nl/2026/04/05/review-crown-of-greed/"},{"id":"c011","recommendation":"推荐","text":"Managing a kingdom has never felt so precarious. Your greed is your greatest enemy here.","url":"https://store.steampowered.com/curator/43939488-Gamer-Detective/"},{"id":"c012","recommendation":"推荐","text":"Unique indirect control mechanics. It’s fascinating to watch your heroes act on their own whims.","url":"https://store.steampowered.com/curator/43939029-The-Game-Report/"},{"id":"c013","recommendation":"推荐","text":"A fresh take on RTS. You don't just lead; you influence. Truly innovative and challenging.","url":"https://store.steampowered.com/curator/45380672-Kawaii-Questers/"},{"id":"c014","recommendation":"推荐","text":"Addictive gameplay loop! Building up your defenses while balancing the budget is top-tier fun.","url":"https://store.steampowered.com/curator/43938573-Gurus-Playing/"},{"id":"c015","recommendation":"推荐","text":"Influence your units rather than commanding them. It adds a layer of realism I really enjoy.","url":"https://store.steampowered.com/curator/37040404-Joystick-Knight/"},{"id":"c016","recommendation":"推荐","text":"Great price! Thank you! ❤ EU: 19,99 € (86,49 zł), PL: 71,99 zł (-14,50 zł, -16,76%), EUR/PLN = 4,3268 (22/07/26 05:55)","url":"https://store.steampowered.com/curator/46093924-Is-the-Price-Polished-Part-6/"}],"groups":[{"key":"informational","label":"信息提供","review_ids":["c001","c002","c003","c006","c010"]},{"key":"recommended","label":"推荐","review_ids":["c004","c005","c007","c009","c011","c012","c013","c014","c015","c016"]},{"key":"not_recommended","label":"不推荐","review_ids":["c008"]}]}}}
+{
+  "schema_version": "d_pc_direction_full_review_cover_patch_round2_v1",
+  "steam_appid": "1697870",
+  "display_title": "Crown of Greed",
+  "sources": {
+    "player": {
+      "reviews": [
+        {
+          "id": "p001",
+          "recommendation": "推荐",
+          "text": "虽然bug很多，但仍是我心目中最好的Majesty精神续作。 非常喜欢的黑暗画风，高质量的画质，各有特色的战役关卡（后面的关卡数值不合理，难度奇高），每个英雄性格各不相同，招式也十分华丽。总之制作精良，非常喜爱。 不过问题也很大，各个方面奇多的bug，严重破坏游戏体验，导致游戏无法进行下去。而且关卡很少，希望能推出更多关卡或dlc（别跑路啊，继续更新求求了）",
+          "url": "https://steamcommunity.com/id/MagicCCTV/recommended/1697870/"
+        },
+        {
+          "id": "p002",
+          "recommendation": "推荐",
+          "text": "成就bug很难受，英雄ai值得继续被优化，同时只有战役也挺让人失望。 但这款游戏代表的是王权类型的游戏复活，值得购买游玩，特别适合rts跟不上的中老登。",
+          "url": "https://steamcommunity.com/profiles/76561198009100633/recommended/1697870/"
+        },
+        {
+          "id": "p003",
+          "recommendation": "推荐",
+          "text": "游戏还是有点王权精神续作的味道的 ，特别是顾问老头的配音。但是BUG还是有一些。1::德鲁伊的龙卷风放完后不会消失，到后面就会越来越卡.2:我已经所有关卡全皇冠了但是成就地狱之门和先祖的罪孽不会跳杯。3::焚烧定理在最后一关所有法术全研究后都放了一遍也是不跳成就。",
+          "url": "https://steamcommunity.com/profiles/76561199098066044/recommended/1697870/"
+        },
+        {
+          "id": "p004",
+          "recommendation": "推荐",
+          "text": "big bug!!!!!!最后一个困难模式下关卡永远被卡，50000金币运不出去，龙永远不死，实在无语！",
+          "url": "https://steamcommunity.com/profiles/76561198820567522/recommended/1697870/"
+        },
+        {
+          "id": "p005",
+          "recommendation": "推荐",
+          "text": "较高画质王权2还是值得鼓励一下的，BUG很多有些导致支线做不了，但是整体个人还是很满意的，尤其防御塔终于有用了...好评，好评...",
+          "url": "https://steamcommunity.com/id/123638943/recommended/1697870/"
+        },
+        {
+          "id": "p006",
+          "recommendation": "推荐",
+          "text": "挺好玩的，最好出个无尽模式",
+          "url": "https://steamcommunity.com/profiles/76561198994299858/recommended/1697870/"
+        },
+        {
+          "id": "p007",
+          "recommendation": "推荐",
+          "text": "玩完了我就拉稀了， 垃圾游戏。",
+          "url": "https://steamcommunity.com/id/QiDengYuErJiaWu/recommended/1697870/"
+        },
+        {
+          "id": "p008",
+          "recommendation": "推荐",
+          "text": "王权的精神续作，及格以上吧。",
+          "url": "https://steamcommunity.com/profiles/76561198096628858/recommended/1697870/"
+        },
+        {
+          "id": "p009",
+          "recommendation": "推荐",
+          "text": "好玩",
+          "url": "https://steamcommunity.com/profiles/76561198099341378/recommended/1697870/"
+        },
+        {
+          "id": "p010",
+          "recommendation": "推荐",
+          "text": "真jb好玩",
+          "url": "https://steamcommunity.com/profiles/76561199104271514/recommended/1697870/"
+        },
+        {
+          "id": "p011",
+          "recommendation": "推荐",
+          "text": "7 out of 10 Kind of fun could of used some polish. Pros: - Full Campaign - Cheesy Voice Acting - Outer map Menu had strategic upgrades based on points earned - A few interesting maps and campaigns - A lot of factions spells upgrades ect Cons: - I feel like the game works backwards in some ways you start with all the different allied camps except in a few missions - Barbarians just run past demons ect... kind of annoying and unrealistic how nothing wants to kill each other they all just wanna kill you - Could of used some fun allied maps where your not in complete control - Characters were a little buggy especially when you try to revive maybe make it so you can only revive one time and after that remove them from list",
+          "url": "https://steamcommunity.com/profiles/76561197974090298/recommended/1697870/"
+        },
+        {
+          "id": "p012",
+          "recommendation": "推荐",
+          "text": "Even though i clicked \"recommend\", it's more of a \"do so at your own leasure, and at a big discount\". If you enjoyed the Majesty game series, you'll probably enjoy this, even though the nostalgic charm falls of rather fast. It has a bunch of infuriating bugs that still aren't patched (Please do somehthing about the druid's tornadoes that never goes away after being cast!). It's also somewhat content poor. After the campaign there's really nothing to do - no multiplayer or co-op, or any kind of single missions or sandbox, survival - nothing. If you pick it up on sale and liked Majesty, you'll get a few hours of entertainment. Also, your heroes are woefully inept at responding to the flags you plant down. Sometimes they might respond, sometimes they couldn't care less, even if you slap on a money prize the size of a small country's GDP. No consistency. One last thing, but it's more of a pet peeve of mine. In Majesty 2 your heroes actually changed looks when they bought better gear, and it was pretty distinct. Was fun seeing them go from puny noobs to veteran giga chads. Here it kind of happens, but you barely notice it, and it seems to be very random. Some change attire, some don't. Definitely lacking the charm and atmosphere of the game it is trying to be a successor to. I did like the slavic folklore influence though. I'll give them that.",
+          "url": "https://steamcommunity.com/profiles/76561198006885444/recommended/1697870/"
+        },
+        {
+          "id": "p013",
+          "recommendation": "推荐",
+          "text": "I personally thought it was a cool game with a cool vibe. My first time playing this type of game. Basically you kinda vaguely set objectives for your minions to complete and they do it given the proper... motivation is there. (gold) It's a pretty good game but has some bugs and frankly is a bit short and lacks multiplayer and free play. I will recommend this game however because it's got really comfy unique gameplay. You manage heroes and build up a fantasy empire, it's a lot of fun. My kind of game tbh. I dunno why, but it basically reminds me of there are billion minus the micro management. It's a cool base building game, try it.",
+          "url": "https://steamcommunity.com/profiles/76561198000712347/recommended/1697870/"
+        },
+        {
+          "id": "p014",
+          "recommendation": "推荐",
+          "text": "This game is fun. It works ok but has a lot of bugs. For example, in the final mission some dumb bugs cause the voiceover to repeat cautions about the gold caravan when there's no danger. You can still complete the mission but it's annoying.",
+          "url": "https://steamcommunity.com/profiles/76561198007745313/recommended/1697870/"
+        },
+        {
+          "id": "p015",
+          "recommendation": "推荐",
+          "text": "Just finished the Campaign on Normal, first try on every scenario. It wasn't hard, but not too easy either, and I had fun playing it. For those seeking harder challenge, there are harder difficulties. I did not encounter any game breaking bugs throughout my entire playthrough. The game is definitely inspired by the good old Majesty series. Most of the negative reviews are not justified at all. This game is definitely worth checking out if you liked the Majesty series.",
+          "url": "https://steamcommunity.com/profiles/76561198101216970/recommended/1697870/"
+        },
+        {
+          "id": "p016",
+          "recommendation": "推荐",
+          "text": "Best strategy games for a busy working class like myself.",
+          "url": "https://steamcommunity.com/profiles/76561198105779327/recommended/1697870/"
+        },
+        {
+          "id": "p017",
+          "recommendation": "推荐",
+          "text": "Fun Majesty clone, a little grindy towards the end(If you are a completionist). Some bugs/glitches",
+          "url": "https://steamcommunity.com/profiles/76561198028764279/recommended/1697870/"
+        },
+        {
+          "id": "p018",
+          "recommendation": "推荐",
+          "text": "It's Majesty, but modern and honestly it's pretty great. I do miss the ratmen and goblins tho",
+          "url": "https://steamcommunity.com/id/ExiledTension/recommended/1697870/"
+        },
+        {
+          "id": "p019",
+          "recommendation": "推荐",
+          "text": "Here is the 1 million dollar idea, Crown of Greed but in space, now that is a game I would play",
+          "url": "https://steamcommunity.com/profiles/76561198031572138/recommended/1697870/"
+        },
+        {
+          "id": "p020",
+          "recommendation": "推荐",
+          "text": "no idea what's up with the comments, this game is jank but not broken. overall solid, it isn't just a majesty clone and has some good ideas of its own",
+          "url": "https://steamcommunity.com/id/rippercoyote/recommended/1697870/"
+        },
+        {
+          "id": "p021",
+          "recommendation": "不推荐",
+          "text": "这游戏好不好玩不好评，但是制作组是肯定不想让玩家开开心心玩游戏的，而且100%确定制作组并没有试玩过自己的游戏，但凡心里有点B数的行内人士都设计不出这么恶心的游戏模式。 游戏的难度很高但非常的低质，游戏中期开始梦魇难度就无法正常游玩了最夸张的是我使用了cheat将资金改成无限都无法三星获胜，但这并不是因为有BUG或者机制问题而是纯纯的数值难度，制作组再用纯粹的数值增加游戏的难度。最诟病的是建筑速度，每秒差不多7-8点左右的建造速度，一个防御塔400血，建一个塔要一分钟左右...即使开3倍速度加速的情况下也很消耗玩家的阳寿。 be like：玩家过关太快了？那我们就设定成怪物的抗性几十倍加成。 推关变慢但发育太快？那我们再设定每过十几秒就来一波怪让玩家忙起来别玩得那么舒服。 发育也慢了但资源获得的太简单？那我们就设定成5座防御塔射不死一个小怪再用怪物海推平玩家的防线让玩家大量的消耗资源不就行了~ 我们这么为玩家着想帮他们玩游戏，玩家们肯定非常感动，咱们的游戏一定大卖！ ----------------------------------------------------------------------------------------------------------- 就拿这个游戏里让我卡关开修改器的关卡来说吧，在不计算建造时间默认所有建筑瞬间建造完成的前提下，我想请制作者告诉我在梦魇难度下“嘎吱作响的小屋”这个战役如何在开始5分钟以内收集到1W+的金币？因为游戏里的怪物在第一天夜晚就会开始进攻，我大略数了一下差不多16只怪而我只有两个弩手，在保护主城建造兵营的基础上还要保护周围的四个村庄，每个防御塔1500金币，算上每个村庄本就有的一个塔起码还要再补2个这就是1.2W金币还不包括主城需要的建造的建筑.... 先造主城建筑村庄在2分钟以内就直接炸了，但如果先帮村庄造塔即使我将所有资源全部给到这四个小村庄满打满算8000金币而且即使金币够用建筑速度也跟不上，这还是我放弃所有主城建筑不花哪怕一毛钱造兵的情况下也才有8K换言之这意味着我的主城就是0防御，任何一只小哥布林都能抄我的家破我的防最后会导致什么呢？一群小怪堵在我的城堡门口的出生点拿我的守卫刷经验，这种情况下如果我的基地还能不崩是完全不可能的。 好，那咱们就按照最保险的局面来算，放弃其他的三个营地只保住一个行不行？可惜的是也很难在梦魇难度下守住这唯一的村子的概率都趋近为0，因为除了一个无敌的横冲直撞不断杀英雄的BOSS还有固定刷新和BOSS带领的大约30+的小怪没有20座防御塔根本无法撑下去，而这些所有的怪物都会在任务开始的5分钟内开始无穷无尽的冲击你的防线，每晚20+左右的野怪加上每3分钟刷出的BOSS带领着20只左右的精英怪，它们的数量已经是玩家所有单位数量总和的2-3倍了。 简而言之你需要用手里仅存的8K金币在无尽数量怪物的攻击下撑住还要想办法在10分钟以内造出十几座建筑还要避免被怪物拆掉完成这些以后再养出20几个英雄去完成主线任务...而这所有的一切差不多要10W+金币的项目都需要你用8K的杠杆打出效果来，想要打赢这个战役完全凭的是运气和技术、意识、运营完全不沾边。 This game hard to say if it's fun or not, but one thing's for sure—the devs clearly don't want players to enjoy themselves. I'm 100% convinced they never even playtested their own game. Any decent developer with half a brain wouldn't come up with such a disgusting game mode. The difficulty is super high but also really low-quality. Once you hit mid-game, Nightmare difficulty becomes basically unplayable. The craziest part is I used cheats to make my money unlimited and still couldn't get 3 stars. It's not because of bugs or broken mechanics—it's pure number-crunching BS. The devs just keep pumping up the numbers to make it harder. What pisses me off the most is the building speed. It's only about 7-8 points per second. A defense tower has 400 HP, so building one takes roughly a whole minute... Even with 3x speed on, it still eats up your lifespan. It's like: Players clearing levels too fast? Let's give monsters dozens of times more resistance. Pushing levels is slower but economy is growing too fast? Let's spawn a wave every dozen seconds so players stay busy and can't relax. Economy slowed down but resources are too easy to get? Let's make it so 5 defense towers can't even kill one small monster, then use monster waves to flatten the player's defenses and drain their resources~ \"Look how much we're thinking about the players! Helping them play the game!\" The players must be so touched. This game is definitely gonna be a huge hit! --- Take the level where I got stuck and had to use cheats, for example. Ignoring build time and assuming all buildings are instantly done, can the devs please tell me: On Nightmare difficulty, in the \"Creaky Cabin\" campaign, how the hell are you supposed to gather 10,000+ gold within the first 5 minutes? Monsters start attacking on the first night. I counted roughly 16 of them, and I only have two crossbowmen. I need to protect the main base while building barracks, and also protect four surrounding villages. Each defense tower costs 1,500 gold. Plus the one tower each village already has, I still need to build at least 2 more per village—that's already 12,000 gold, not even counting the buildings I need for the main base... If I build main base stuff first, the villages get wiped out in under 2 minutes. But if I focus on building towers for the villages, even dumping all my resources into those four little villages, I can only scrape together 8,000 gold max. And even if I had enough money, the building speed can't keep up. This is while ignoring the main base completely and not spending a single coin on barracks. So my main base has zero defense—any little goblin can just walk in and wreck everything. What happens then? A bunch of small monsters camp at my castle's spawn point and farm experience off my guards. There's no way the base survives that. Alright, let's say we go for the safest option—abandon three camps and only protect one. Too bad that's still nearly impossible on Nightmare. There's an invincible boss that charges around killing heroes nonstop, plus fixed spawns and about 30+ small monsters led by the boss. Without 20 defense towers you can't hold at all. All these monsters will start endlessly smashing your defenses within the first 5 minutes of the mission. Every night there are 20+ wild monsters, plus every 3 minutes the boss shows up with around 20 elite monsters. Their numbers are already 2-3 times more than all your units combined. In short, you have to use your measly 8K gold to survive endless monster attacks, somehow build a dozen+ buildings within 10 minutes without them getting torn down, and then train 20+ heroes to finish the main quest... All of this is basically a 100,000+ gold project that you have to pull off with only 8K. Winning this level has nothing to do with skill, awareness, or good management—it's pure luck.",
+          "url": "https://steamcommunity.com/id/hsqfrw/recommended/1697870/"
+        },
+        {
+          "id": "p022",
+          "recommendation": "不推荐",
+          "text": "优化差，帧数太低 中文字体太小，希望UI与文字大小能设置，太小导致下面一排建筑的外形也不好辨认 抗锯齿只有TAA也太糊了，我FXAA呢？ （被防御塔的攻击频率急晕）",
+          "url": "https://steamcommunity.com/id/QQwiwi/recommended/1697870/"
+        },
+        {
+          "id": "p023",
+          "recommendation": "不推荐",
+          "text": "发售这么久了，游戏恶性bug还是这么多，玩了俩关就遇到好几个严重影响游戏的bug",
+          "url": "https://steamcommunity.com/profiles/76561198800461027/recommended/1697870/"
+        },
+        {
+          "id": "p024",
+          "recommendation": "不推荐",
+          "text": "一堆bug，最明显的就是有4个成就不会跳。另外体量很小。我为了支持特意花了90买了，全金冠但是却没有白金，重新开档打了另一个号也没有。有bug体谅小我忍了，但是已经长期不更新修补bug了。莱萨里亚一直会修补，而且还免费更新了好多章节，还加了自定义遭遇战，生存模式等。体量设计，后期用心程度都超过了贪婪之冠。另外战斗音效，难度的递进关系也是。贪婪之冠只要撑过了前期，后期除了高本兵种就变成了垃圾时间（最后一关尤为明显）图书馆的法术形同虚设，根本没有用的必要，boss弱的要死，后期一两个英雄就能把他砍死在某个角落突然就通关了。王权1，9分；王权2，8.5分；王权2怪兽王国，9分；莱萨里亚，8分；贪婪王冠5.5分。",
+          "url": "https://steamcommunity.com/profiles/76561198448036622/recommended/1697870/"
+        },
+        {
+          "id": "p025",
+          "recommendation": "不推荐",
+          "text": "不要买，一堆恶性bug。游戏性不如10几年前得王权2.",
+          "url": "https://steamcommunity.com/profiles/76561198184569417/recommended/1697870/"
+        },
+        {
+          "id": "p026",
+          "recommendation": "不推荐",
+          "text": "太辣鸡了啊，我完了一天的存档没了 bug倒是修复了不少，但是英雄太蠢了，有钱的情况下不买装备，买一堆药。。",
+          "url": "https://steamcommunity.com/profiles/76561198871227314/recommended/1697870/"
+        },
+        {
+          "id": "p027",
+          "recommendation": "不推荐",
+          "text": "英雄都不买装备！不卖药给悬赏都不去 然后酒馆组队合作的那个都不管用 后面不买装备根本打不过",
+          "url": "https://steamcommunity.com/profiles/76561198420492241/recommended/1697870/"
+        },
+        {
+          "id": "p028",
+          "recommendation": "不推荐",
+          "text": "bug太多，比如使用所有法术成就，危险地带不让去的功能哪",
+          "url": "https://steamcommunity.com/profiles/76561198154611004/recommended/1697870/"
+        },
+        {
+          "id": "p029",
+          "recommendation": "不推荐",
+          "text": "导致卡关的恶性bug很多。 升级城堡后，每个建筑需要单独升级，没有统一的管理界面，非常麻烦。 任务指引不明确，部分任务不知道如何完成。 没有写明部分建筑升级的作用。 有时会看到英雄拿到了什么东西，但是没有任何文本描述。 战役地图界面太简陋，不知道是以什么难度通关的剧本，需要手动查看。 部分魔法只是凑数。 建筑受到一次攻击就开始着火，实在没必要。 以目前的完成度，卖30-40块钱比较合理。",
+          "url": "https://steamcommunity.com/id/FOODE-C137/recommended/1697870/"
+        },
+        {
+          "id": "p030",
+          "recommendation": "不推荐",
+          "text": "你们的AI到底是怎么写的？英雄各种迷惑行为，你们的测试人员玩过自己的游戏吗？",
+          "url": "https://steamcommunity.com/profiles/76561198220219415/recommended/1697870/"
+        },
+        {
+          "id": "p031",
+          "recommendation": "不推荐",
+          "text": "No updates, not possible to complete the entire game. Out of balance, needs updates to be relevant and hold the interest of players. Looks like the got the startup money and ran.",
+          "url": "https://steamcommunity.com/profiles/76561198035787096/recommended/1697870/"
+        },
+        {
+          "id": "p032",
+          "recommendation": "不推荐",
+          "text": "Buggy mess. I wanted this to be good, but it feels like it should still be in early access.",
+          "url": "https://steamcommunity.com/id/MrFritz844/recommended/1697870/"
+        },
+        {
+          "id": "p033",
+          "recommendation": "不推荐",
+          "text": "Love Majesty style games, but this one feels unfinished and boring. I lost interest very quickly as a result. The ememies take forever to die(way too much health) and your heros are too weak. Takes forever to kill anything and there is no time for you're heros to get strong or money to defend(towers are too expensive).",
+          "url": "https://steamcommunity.com/id/Psynex1/recommended/1697870/"
+        },
+        {
+          "id": "p034",
+          "recommendation": "不推荐",
+          "text": "This game had great potential, but the dev doesn't understand anything about balance. Having mega-strong boss units come trounce your base every 7 minutes or a 10k hitpoint dragon summon 30 enemies with him to trounce your base in less than 10 minutes into a mission is ♥♥♥♥♥♥♥♥. You have no real time to prepare, and once they leave, you get almost no time to recover. There are even side missions that take specific characters of a certain level (which happens to be the slowest hero so he doesn't catch the bad guys before others do) and you cannot direct one specifically to train, meaning you can spend HOURS waiting on this while the rest of the mission is finished. Seriously, I WANT to like this game, but it becomes a time waster half-way through. Its sad, really. The mechanics have real potential, if only a dev with the knowledge to bring about that potential had a hold of it.",
+          "url": "https://steamcommunity.com/profiles/76561198049259479/recommended/1697870/"
+        },
+        {
+          "id": "p035",
+          "recommendation": "不推荐",
+          "text": "Avoid Blum, Play Way and ConsoleWay products. This game was released with no QA, meaning gamebreaking bugs on day 1. There are *still* game-and-level breaking bugs. Two of Blum's previous games, Builders of Greece and Viking Frontiers were left in bad states with no support after short periods of time. The Discord for this game took until the first week of June to even mention that the people responding to \"dev\" pings were actually ConsoleWay employees so part of the money folks and *not* the devs. Along with that, the sections for Blum's previous games have been removed to hide all the questions about why they've been abandoned in such sorry states. Don't buy from these people.",
+          "url": "https://steamcommunity.com/profiles/76561198044010700/recommended/1697870/"
+        },
+        {
+          "id": "p036",
+          "recommendation": "不推荐",
+          "text": "Never played Majesty but I wish I did – Crown of Greed is one of many recent games trying to revive that type of game. Across Lessaria and Gold Gold Adventure Gold, Crown of Creed seemed the most promising to me. However the game has had a plethora of both game breaking bugs and non-game breaking bugs since the pre-release demo. The devs released the game out of Early Access with 2-3 very small hot fixes within the first month and them abandoned the game. Even Discord has been totally abandoned by the devs. The devs Blum Entertainment seems to have done the exact same thing to with their previous game Viking Frontiers... The writting is on the wall with this dev so this review is for anyone considering buying the game; don’t. Simply don’t. Take a moment to read all the other reviews commenting on the game breaking bugs and try one of the other Majesty games instead.",
+          "url": "https://steamcommunity.com/profiles/76561198008195484/recommended/1697870/"
+        },
+        {
+          "id": "p037",
+          "recommendation": "不推荐",
+          "text": "Insanely buggy. Quests are impossible to complete. While it is fun when it works, it takes doing maps multiple times to get around the bugs.",
+          "url": "https://steamcommunity.com/profiles/76561198017136716/recommended/1697870/"
+        },
+        {
+          "id": "p038",
+          "recommendation": "不推荐",
+          "text": "The game is basically a less polished majesty/Lessaria. Shame as its has potential but it seems super buggy I currently have a full black screen on the save loading, so i've lost the 18 hour campaign that i've done so far. The heroes themselves are buggy in their actions, for example a party of heroes (only 1 per inn which is annoying), will have their leader wait totally inactive, whilst the rest of the party run back and shop, then maybe they want to shop again, so they run back, i've seen one party not take any action for 10 mins of game time. The game needs portals or something to allow the heroes to run around. I've also seen heroes with 1000 gold just not buy any actual items, sometimes they fill up on every possible consumable, but just not buy armour or weapons. Had a few broken side missions as well which has been a shame. The last bug was the blacksmith upgrade for mythical weapons (4th tier), which i bought then can't actually use in game as it says i dont have it. game could be good, just recommend waiting till they;ve invested time into making it actual work properly",
+          "url": "https://steamcommunity.com/profiles/76561198035365098/recommended/1697870/"
+        },
+        {
+          "id": "p039",
+          "recommendation": "不推荐",
+          "text": "Good ideas, bad execution. I like how the gameplay loop is supposed to work and when the game does work its really fun. You set up contracts where to defend, scout or attack and how much a contract is paying out and build up the heroes homebases with inns blacksmiths etc. when ever a contract is completed and paid out the heroes can buy potions equipment etc. You dont control the units directly but indirectly and its cool to see how it works out and the money invested back so you can re-invest in more or upgrades. Some of the quests make fun of other fantasy cliches or tropes and it reminded me a little bit of the wither series at a few points. The artwork too is nice (except for the advisor, not sure what to think about that...) The problem is that the game doesn't work most. Heroes just \"forget\" the contracts they are assigned to, its almost impossible to create parties, quest triggers dont work, artifacts or mission related items either dont drop or can not be retrieved, many many times the scenarios load up in a broken state or the key inputs for some reason decide to quit. In general too many game breaking bugs at this point. At the time of writing this is version 1.1 but it feels like an early access game thats not playtested yet. I like it but i can not recommend it in its current state. Maybe check this out in half a year or so. Maybe i'll retry this at a later point when major updates or dlcs come out but for now i'm done with this",
+          "url": "https://steamcommunity.com/profiles/76561198058922330/recommended/1697870/"
+        },
+        {
+          "id": "p040",
+          "recommendation": "推荐",
+          "text": "000",
+          "url": "https://steamcommunity.com/profiles/76561198107915061/recommended/1697870/"
+        },
+        {
+          "id": "p041",
+          "recommendation": "不推荐",
+          "text": "这游戏怎么越玩帧数越低？？",
+          "url": "https://steamcommunity.com/id/582902504/recommended/1697870/"
+        },
+        {
+          "id": "p042",
+          "recommendation": "推荐",
+          "text": "你以为把科技建筑全摆野外并且不让重建我就会像狗一样不停花钱去防守吗 我爆两百个小弓不一样把极难堆过去了",
+          "url": "https://steamcommunity.com/id/frostcompass/recommended/1697870/"
+        },
+        {
+          "id": "p043",
+          "recommendation": "推荐",
+          "text": "I agree this should have been released as early access. It needed more time to cook, to weed out the bugs and offer more features. Pros: - This does satisfy the majesty itch, and I would argue it is a much better sequel to the original than majesty 2. - Updates fixing bugs are coming out fast. - Art design for the most part is consistent and really good! - Pacing feels good a faster speed, and one in between the two speeds would be nice to have - will keep more people happy i imagine. Cons: - enemy units stack too well, sure it helps pathing, but it looks stupid when 10 units are inside each other - bugs, nests of bugs! - UI has very limited info. - Feels like your locked out of the game for most missions, by that, I mean some guilds you barely get to use then you have finished the game. - limited settings, like i cant screen scroll speed Things that would be nice - some sort of skirmish/random map feature - characters being more recognisable, along with their spells. - general clean up of bugs, too many to list, but most of them are small, some are game breaking. - replaying a won mission should unlock all buildings, heroes etc. - some sort of prestige system could make for unique playstyles and extend play time.",
+          "url": "https://steamcommunity.com/profiles/76561198098189165/recommended/1697870/"
+        },
+        {
+          "id": "p044",
+          "recommendation": "推荐",
+          "text": "Highly recommend this game. Watch my Let's Play coverage of the release version: https://youtu.be/Hgoc4W0OBXY",
+          "url": "https://steamcommunity.com/profiles/76561198070413486/recommended/1697870/"
+        },
+        {
+          "id": "p045",
+          "recommendation": "推荐",
+          "text": "It's a thumbs up with conditions. The core gameplay is great and I'm having a blast. BUT... it's a buggy mess. Game will sometimes softlock loading in and you'll have to alt f4, won't properly autosave after a level, quests won't register completion, and even some dialogue has the wrong character portraits for a few lines. Needs work, but still very glad I got it.",
+          "url": "https://steamcommunity.com/profiles/76561198014119706/recommended/1697870/"
+        },
+        {
+          "id": "p046",
+          "recommendation": "推荐",
+          "text": "I really like this game. I still haven't finished the campaign and I'm enjoying it a lot. I lover both original Majesty games and Crown of Greed does a lot to make you remember them, while adding some nice new things along the way. The technology development is in your hands allowing for quite significant differences between playthroughs, depending on what you chosoe to purchase. The graphics and music / sounds are great, not really much else to say here. I also like all the characters talking occasionally, it's a little thing, but it makes the game feel alive. As for the gameplay - if you liked Majesty, you will be very, very happy with it. The enemy unit / lair cards could use some, or even any actual descriptions / stats. Would a a little bit of flavour.",
+          "url": "https://steamcommunity.com/id/Crenge/recommended/1697870/"
+        },
+        {
+          "id": "p047",
+          "recommendation": "推荐",
+          "text": "I had fun.",
+          "url": "https://steamcommunity.com/id/MBShoxi/recommended/1697870/"
+        },
+        {
+          "id": "p048",
+          "recommendation": "推荐",
+          "text": "It's basically Majesty rebuilt with modern tech. That is excellent and what I was hoping it would be. Yes, it's buggy, but that will get ironed out over time. Yes, performance needs work, but again, will improve with time. The parts that matter (the design choices, sound effects, visual assets and general gameplay loop) are all pitch perfect. My only real complaint is that it doesn't ship with the free-play option from Majesty. You could pick a map and an enemy type and a victory condition and just play a map. It was great. I'm hoping they add that in the near future.",
+          "url": "https://steamcommunity.com/profiles/76561197975464456/recommended/1697870/"
+        },
+        {
+          "id": "p049",
+          "recommendation": "推荐",
+          "text": "i LIKED IT",
+          "url": "https://steamcommunity.com/profiles/76561198020974478/recommended/1697870/"
+        },
+        {
+          "id": "p050",
+          "recommendation": "推荐",
+          "text": "I beat everything in about 30 hours. It was fun. Could maybe play it for 40 hours if you're a completionist and beat it and be done with it in 20 hours if you just want to play on easy. I don't really have a strong desire to keep playing.",
+          "url": "https://steamcommunity.com/profiles/76561198216201628/recommended/1697870/"
+        },
+        {
+          "id": "p051",
+          "recommendation": "推荐",
+          "text": "Majesty fan here - it's good",
+          "url": "https://steamcommunity.com/profiles/76561197974310984/recommended/1697870/"
+        },
+        {
+          "id": "p052",
+          "recommendation": "推荐",
+          "text": "Pros: 1. Fun game 2. Capture the original Majesty moody vibe and mature art direction 3. Lots of heroes are fun to use and have different personalities 4. Variety of quests 5. Excellent monster designs 6. Missions are good paced with well-intended objectives. Cons: 1. Some weird bugs at release but I haven't encountered any gamebreaking. 2. Small indie team so progress to fix bugs will be slow Conclusion: Buy it if you are a fan of the Original Majesty. It almost feels like a 2026 clone of the original Majesty, remake for the modern gamers. I wish there would be an expansion with even more heroes and fantastic monster design (i.e. I love the witch and the chicken-legged house design).",
+          "url": "https://steamcommunity.com/id/aguswings/recommended/1697870/"
+        },
+        {
+          "id": "p053",
+          "recommendation": "推荐",
+          "text": "I don`t usually write reviews but I will make an exception. I saw a lot of negative reviews about bugs and crashes but I didn`t had any. I finished mission on nightmare as well as normal difficulty and except some hero bugging and staying still witch can be resolved with teleport back it went well. This game feels very similar to majesty which is a plus to me, it scratches that itch. If you want that feel you can surely give it a try.",
+          "url": "https://steamcommunity.com/profiles/76561198162138773/recommended/1697870/"
+        },
+        {
+          "id": "p054",
+          "recommendation": "推荐",
+          "text": "I'll be quick. I haven't played Lessaria or Majesty but I've seen the mentions and checked them out. I see they are indeed similar, but I can't help but notice crown of greed has a different approach. The game has potential. Huge potential. It is clunky and rough. The performance is quite terrible honestly, needs to be adressed ASAP, game has no business running this poorly. But I'll be damned, this game's charming and so addictive.",
+          "url": "https://steamcommunity.com/profiles/76561198010894890/recommended/1697870/"
+        },
+        {
+          "id": "p055",
+          "recommendation": "推荐",
+          "text": "The game is nice, experienced only 1 bug in 5 missions so far, and that was one hero being stuck doing nothing.....wellll, deployed a workaround......killed him and then resurrected him. Ta-daaaa, issue resolved. :D but, yeah, as I said, nice game, you will have fun time :)",
+          "url": "https://steamcommunity.com/profiles/76561198084894278/recommended/1697870/"
+        },
+        {
+          "id": "p056",
+          "recommendation": "推荐",
+          "text": "That is a good game Do not listen those haters ! 1st update 16-04-2026 This is a great game so far I had a lot of fun. I would like to have some more option like scenario or map editor but at the moment this is a fresh game. And do not listen those fake accounts giving fake negative review that is competition unfair tactics.",
+          "url": "https://steamcommunity.com/profiles/76561197991080008/recommended/1697870/"
+        },
+        {
+          "id": "p057",
+          "recommendation": "推荐",
+          "text": "good game",
+          "url": "https://steamcommunity.com/profiles/76561197967651753/recommended/1697870/"
+        },
+        {
+          "id": "p058",
+          "recommendation": "推荐",
+          "text": "I am very much enjoying the game, it is very chill and have been having a lot of fun playing through the different level progressions. Quite happy with it!",
+          "url": "https://steamcommunity.com/profiles/76561199835627044/recommended/1697870/"
+        },
+        {
+          "id": "p059",
+          "recommendation": "推荐",
+          "text": "Old style game for an old style homage. There are quirks to the system sure, and it does have an 'early access' feel to it in place, but its a step in the right direction for me.",
+          "url": "https://steamcommunity.com/profiles/76561198014725566/recommended/1697870/"
+        },
+        {
+          "id": "p060",
+          "recommendation": "推荐",
+          "text": "I do really enjoy the game, but it has some odd bugs that detract from the experience. The developer does seem to be working those out in good fashion, but several of these shouldn't have existed in the first place. I hadn't really played a game in the same vein as Majesty 20 odd years ago, so this is my first foray into the \"hands-off\" RTS type of game. I almost find it relaxing to not have total control over the heroes, and for the most part they will perform the tasks required themselves. It seems if you can just get the economy stabilized and pump out as many heroes as possible, they will slowly overwhelm the foes. I do wish they would do some tasks without being paid, like clearing out a den that is directly in front of them, but I suppose a mercenary doesn't work for free. As far as some of the bugs go, there's some pretty severe ones. If you save and exit the game, it seems to drop your difficulty level from anything above the easiest difficulty. The scenarios can take anywhere from 30 minutes to an hour or more if you take your time, so this is pretty devastating, specifically because your meta-game progression is tied to completing the scenarios on the hardest difficulty. Beyond that, some side-quests seem to break the same way. Again, the developer seems to be on this, and if you do play in one session, I really haven't seen any issues. I imagine the game will be fully ironed out in the future, and I would recommend it if you're looking for a different kind of economy base building game.",
+          "url": "https://steamcommunity.com/id/Ailments69/recommended/1697870/"
+        },
+        {
+          "id": "p061",
+          "recommendation": "不推荐",
+          "text": "真畜生啊刚开局怪窝直接在我家门口，冒险者好像火车王一样在外面打了怪就往家跑，清窝点不组队一个一个送，组了队就罚站挂机，我头一次玩到DEMO比正式版好玩的游戏，希望制作组回家自己吃自己去吧",
+          "url": "https://steamcommunity.com/profiles/76561198282099546/recommended/1697870/"
+        },
+        {
+          "id": "p062",
+          "recommendation": "不推荐",
+          "text": "很难相信一款游戏的正式版比不上自己的DEMO好玩，这不由得令人深思：你们他妈的听取了谁的建议对DEMO改动了这么多？？？",
+          "url": "https://steamcommunity.com/id/RicoSZE/recommended/1697870/"
+        },
+        {
+          "id": "p063",
+          "recommendation": "不推荐",
+          "text": "太让我痛心了，我不仅仅是因为这个游戏的正式版甚至不如demo，还有对制作组的设计能力感到疑惑，我今天提前两个小时就已经在电脑面前等待了，最后的结果却让我大失所望。 我目前遇到的问题： 1.卫兵的巡逻机制问题，这一点甚至不如demo的版本，至少我看到了demo版本的卫兵是真的会自己组织起大规模甚至全国性的巡逻了，我以为正式版依然会保留这个还算不错的机制，但是没有 2.正式版通过提高英雄单位的招募价格，减少技能的学习成本，减少英雄的成长性来解决之前demo遇到的英雄太过强大的问题，这毫无疑问是愚蠢的，英雄强大是应该的，不然我们玩什么，重点应该是怪物的难度曲线有问题 3.正式版为了适配降低强度的英雄而更改了大部分怪物的属性，甚至不如前代或者王权时候的数据了，有这个必要吗，简要的对怪物进行威胁等级的分级，让卫兵和皇家卫兵可以单独处理类似狼一样的较低级别的威胁，提高英雄的成长性，然后再给予他们更大更强，那些卫兵没办法对付的挑战：熊、恶魔、巨龙之类的 4.看不到怪物和卫兵的具体属性，不是哥们，一个类王权的游戏，战斗是大头，你不给我们看信息我们玩什么！让我们自定义税收？这个意义在哪，只要外面守住了里面税收无论多少都收的起来，守不住改这个也没用 5.中文的问题是解决了 6.现在变了新的问题，你们写代码的是怎么写的，这个最低伤害和最高伤害的词条还没弄清楚吗，到现在还是反的，需要我一步一步教你们如何写代码吗 7.目前遇到的随着游戏的进行会遇到各种神秘的bug包括但不限于： 1.英雄多次死亡并且无法复活。 2.英雄突然原地愣着不动，直到受到攻击才会有反应。 3.在2的基础上你如果解散了他，并且他会在墓地出现并且让你失去复活英雄的功能(什么冤魂)。 4.有时候英雄会到家里或者首都，躺下了就一睡不起，他们的状态没有补满，估计是什么敌人的神秘buff导致的化学反应，永久睡眠了，并且在睡觉的时候还会接任务的，接了任务其他的英雄就不能接了，然后再家里睡大觉。 5.酒馆招募英雄组队，依然继承老一派幽默组队，英雄必须到位，但是你tm老版会强制让英雄过来，你这英雄必须要先做完自己的任务然后过来，哦那任务是什么呢，探索？攻击？无关紧要，只要他接了这个任务就一定会完成，哪怕他根本打不过，他就会来来复复循环：冲过去被打残，回老家补血，然后在过去被打残。然后酒馆的其他几位英雄这辈子都不会等到他了。 6.4的bug衍生，如果你在他睡觉的时候试图打扰他，把建筑拆除了，他有可能确实会醒过来，但也会直接遁入虚空，你在所有地方都找不到这个人，但是左上角的英雄头像你还是能看到他点击他，他也会虚空接任务。 7.在这些bug的共同努力之下，我的电脑终于不堪重负，自动关机了，我真的是nmlb的 8.不是，哥们，好歹按照正常的逻辑来增强敌人吧，你不给拿弩的骷髅弓加额外伤害加满闪避和远抗也就算了，你怎么还能给巨人加50％的近战闪避的，给所有的怪安排上一个最低最高伤害很难吗，这巨人光是肉有什么用啊,把巨人的aoe还回来啊混蛋 9.怪物回归巢穴的时候可能会出现虽然回归了，但是脚底下框还存在的bug，然后英雄就会全锁定这个框从而不会攻击巢穴 10.如果英雄在短期被多次攻击回归老家，仍然会出现疲劳永远回不满的bug，然后就在里面不出来了 It breaks my heart. It's not just that the full release of this game is worse than the demo—I'm also genuinely confused by the design choices of the development team. I was sitting in front of my computer two hours early waiting for it, and the end result was just such a huge disappointment. The issues I'm currently facing: 1.The guard patrol mechanics. This is even worse than the demo version—at least in the demo I could see that the guards would actually organize themselves into large-scale, even kingdom-wide patrols. I thought this decent mechanic would still be present in the full release, but it's not. I2.n the full release, the devs tried to address the problem of heroes being too powerful (an issue present in the demo) by increasing the recruitment cost of hero units, reducing the cost of learning skills, and lowering hero scaling. This is, without a doubt, a stupid approach. Heroes are supposed to be powerful—otherwise, what's the point? The real issue was the monster difficulty curve. 3.To accommodate the nerfed heroes, the full release changed the stats of most monsters, making them even worse than the data from the previous game or Reigns. Was this really necessary? A better approach would have been to introduce threat level classifications for monsters, allowing regular guards and royal guards to handle lower-level threats like wolves on their own, while increasing hero scaling and giving them bigger, tougher challenges that guards can't handle—bears, demons, dragons, and the like. 4.There's no way to view the specific stats of monsters or guards. Come on—this is a Reigns-like game; combat is a major part of it. If you don't let us see the stats, what are we even playing for? Letting us customize taxes? What's the point of that? As long as the outside is defended, taxes can be collected no matter how high or low they are—if you can't hold the perimeter, adjusting taxes won't make a difference. 5. The problem in Chinese has been solved. 6. Now a new problem has arisen. How are you writing the code? You still haven't figured out the terms for minimum damage and maximum damage, and they are still reversed.Do you need me to teach you step by step how to write code? 7. Various mysterious bugs encountered as the game progresses, including but not limited to: 1.Heroes die multiple times and cannot be resurrected. 2.Heroes suddenly stand still and do nothing until they are attacked — only then do they react. 3.Based on bug #2: if you dismiss such a hero, they will appear in the cemetery and cause you to lose the ability to resurrect heroes (what a vengeful spirit). 4.Sometimes heroes go home or to the capital, lie down and never wake up — their status doesn't get replenished. I suspect some enemy's mysterious buff causes a chemical reaction that puts them into permanent sleep. And while sleeping, they still accept quests. Once they accept a quest, other heroes cannot take it, so they just sleep at home. 5.Recruiting heroes in the tavern to form a team still inherits the old ridiculous group mechanics: heroes must physically arrive. But in the old version, the game would force them to come. Here, heroes must first finish their own tasks before coming over. Oh, what are those tasks? Exploration? Attack? It doesn't matter — as long as they accept the quest, they will try to complete it, even if they can't win. So they repeat the cycle: rush in, get beaten up, go back to base to heal, then rush in again and get beaten up again. Meanwhile, the other heroes waiting in the tavern will never see him arrive. 6.Derived from bug #4: if you try to disturb him while he's sleeping — for example, by demolishing a building — he might actually wake up, but then directly vanish into the void. You can't find him anywhere, but you can still see his hero portrait in the top-left corner. Clicking on him allows him to accept quests from the void. 7.Under the combined effort of all these bugs, my computer finally couldn't bear it anymore and shut down automatically. I'm really ♥♥♥♥♥♥♥ done with this. 8.Come on, man, at least follow some basic logic when buffing enemies, right? Fine, you don't give the crossbow-wielding skeleton archer extra damage, maxed-out evasion, and high ranged resistance — but how the hell do you give a giant 50% melee evasion? Is it really that hard to give every enemy a minimum and maximum damage range? What's the point of a giant being just a meat shield?Bring back the giant's AOE, for ♥♥♥♥'s sake! 9. When the monster returns to its lair, there might be a bug where, although it has returned, the frame under its feet still exists, and the hero will completely lock onto this frame, thus not attacking the lair. 10. If the hero is repeatedly attacked in a short period and returns home, there will still be a bug where the fatigue never fully recovers, and then the hero stays inside and does not come out.",
+          "url": "https://steamcommunity.com/id/13738223739/recommended/1697870/"
+        },
+        {
+          "id": "p064",
+          "recommendation": "不推荐",
+          "text": "傻逼一样的AI，加上在正常RTS里都嫌紧迫的任务条件，再加上层出不穷的bug，最后加上如同大脑残缺的的机制设计，共同为我们呈上了如同屎一样的游戏体验。",
+          "url": "https://steamcommunity.com/id/11229952255965/recommended/1697870/"
+        },
+        {
+          "id": "p065",
+          "recommendation": "不推荐",
+          "text": "bug好多，保存，加载会出bug 大地图动画时的卡顿不明所以 游戏性方面，数值崩坏，由于怪物只控制刷新速度，导致怪物如果叠多了完全救不回来 总体来说是一款很需要改进的游戏 买到就是亏到",
+          "url": "https://steamcommunity.com/profiles/76561198133754642/recommended/1697870/"
+        },
+        {
+          "id": "p066",
+          "recommendation": "不推荐",
+          "text": "It’s not just a few bugs, it’s a swarm infestation. The game is fun tho, I'll change my review if all issues have been fixed but right now I can't even completed the campaign because of it.",
+          "url": "https://steamcommunity.com/profiles/76561198043396863/recommended/1697870/"
+        },
+        {
+          "id": "p067",
+          "recommendation": "不推荐",
+          "text": "The game is okay, but it’s irritating that the autosave doesn’t give you any control over how often it triggers. You shouldn't do a job halfway; if a feature is there, it needs to be implemented properly. I deleted the game after five missions because is makes me so angry.",
+          "url": "https://steamcommunity.com/profiles/76561198158220173/recommended/1697870/"
+        },
+        {
+          "id": "p068",
+          "recommendation": "不推荐",
+          "text": "the games not bad but its a bug ridden mess. for 1.0 ...no..... stay far away from this. playing the game on x3 speed breaks many side quest. the main map where you choose missions, its difficult to see missions to choose since the entire map and the missions are just shades of grey..... the snow maps, everything is white....including your building UI...so you cant see building stats because its white on white... missoins are badly paired. one mission has a timer. do this before X time runs out...but the side missions are not clearly scripted for a timed main mission. and this is just the basic stuff...its gets more broken as you go on. but they deemed the game 1.0 worth...ok",
+          "url": "https://steamcommunity.com/id/Nightwolf181/recommended/1697870/"
+        },
+        {
+          "id": "p069",
+          "recommendation": "不推荐",
+          "text": "Too many game breaking bugs forcing you to do entire missions again, bonus objectives not counting and the final mission even black screened giving achievment but no meta currency. What did Majesty do to deserve such an almost endless slog of cheap imitators?",
+          "url": "https://steamcommunity.com/profiles/76561198759411049/recommended/1697870/"
+        },
+        {
+          "id": "p070",
+          "recommendation": "不推荐",
+          "text": "I've played Majesty series over and over and over. Is it me or is this game boring even though it is almost the same. I can't say what is wrong about this game but I have passed 6 campaign missions but i am still not enjoying it. I am pushing really hard to enjoy it but i don't feel the same when i first or last played Majesty 2. Is it me? Am I the problem? I am beginning to think it is me because this is really similar...",
+          "url": "https://steamcommunity.com/id/absolutezerotr/recommended/1697870/"
+        },
+        {
+          "id": "p071",
+          "recommendation": "不推荐",
+          "text": "No, to many game breaking bugs, if you are not use to wasting 2-3 hrs like me just to have game breaking bugs , that make your 2-3 hrs reset. Do not bother getting the game til 3 months later or never. 3 times where my game just bug out, only fix is to restart the game but its false hope, Example, if you noticed that people are standing still in place or walking in place, do not save the game and reload, why? because it breaks your game. It will give you the illusion that you people are walking or working again but, seconds later its broken again. Kill a main boss to early ? broken game. So yeah do not bother til a year later or something or skip this game. I enjoy it, but if you are not the type to waste 3 hrs just to have it vanish, avoid this game at all cost. 4/4/2026 (Would You still Recommend this game?) After 16 hrs, I will have to say No still. I still will not recommend this game, if you are not use to wasting time, just to have it break on you, leading to a restart. This game to me is like eating ice cream, very good and enjoyable but , you have bugs in it. Bugs is not that bad compare to Poop chunks in my ice cream though. TLDR: Cons: Constant Bugs , bad UI, No Restart Button, Horrible Balancing in late Stages of the game and more. Pros: Nice Art Style Music Relaxing (When Balanced) Short and to the Point Great Time Waster A Small nice Sense of Adventure Edit: 4/10/2026 Lessaria or Crown of Greed? I just bought Lessaria, and I’m enjoying it more than Crown of Greed. For example, in Crown of Greed, the inn/party mechanics don't work and are just useless. There is no synergy among the parties, and it fails to give you that fantasy feeling. In Greed, you just spam troops and towers until you win. In Lessaria, you can spam troops, or you can go for a specialized setup like Ranger (DPS), Knight (Tank), Druid (Healer), and Ogre (Buff/Debuff). It’s sad to say, but Lessaria is just better. Both have their charm, so if you have the money and—most importantly—the time, go for both. However, I’d say, get Lessaria. It’s a bit unfair since Lessaria was a buggy mess at the start too, but the party system and inn mechanics in Lessaria are just 10x better. It gives you that fantasy feeling of building a real party instead of just faceless blobs. Most importantly, the sense of adventure when playing Lessaria outshines Crown of Greed.",
+          "url": "https://steamcommunity.com/profiles/76561198161618305/recommended/1697870/"
+        },
+        {
+          "id": "p072",
+          "recommendation": "不推荐",
+          "text": "It's a good start, but boy howdy, does this game have rough edges. I'm definitely playing more tomorrow, but this needs some major quality of life changes. Major contentions: - Max speed you can go is 2. It should at least go up to 3x speed, preferably up to 5x. I was sitting around for several minutes doing nothing at several points in the same mission, not in danger but without money to do anything - Seemingly the only way to place a bounty is to click the flag at the top of the screen, click a location to place the flag, then click the placed flag, then set the bounty amount? Why is there no contextual option to right click and enemy and create a flag? Or double left click? Both of these are options in Majesty, neither work here [FIXED] - Heroes sometimes get stuck after opening chests and stand there for the rest of the mission - Why is nothing labeled? Why doesn't hovering my cursor over something have a message box appear that tells me more about that thing? [FIXED] - Why is the tax collector louder/more vocal than other characters? Maybe it's just a bug, but my tax collectors talk constantly and at a louder volume than any other character in my kingdom - Voice acting is overall good, but please consider recasting the tax collector. Again, the man never shuts up, and whoever did his voice acting, did a god-awful job. The actor isn't even trying - Characters don't seem to scout on their own, even the ranger. In Majesty, you can direct people to scout with quest flags, but characters do explore the map on their own eventually, even if you don't. That doesn't seem to be the case here. If the quest says to destroy every lair, you'll have to place down dozens of explore flags to force your characters to explore every nook and cranny - No option to quit game from the ESC menu; you have to go to the main menu first [FIXED] - No journal? I'm constantly getting told quests are being added. The objectives themselves are added to the upper right hand corner of the screen, but they're usually only a few words long and can be vague; there's no journal I could find that offers a more in depth explanation of what you're intended to do",
+          "url": "https://steamcommunity.com/profiles/76561198009960608/recommended/1697870/"
+        },
+        {
+          "id": "p073",
+          "recommendation": "不推荐",
+          "text": "Buggy. Short. Low quality. Uninventive. EA release marketed as completed. Avoid purchase at all costs.",
+          "url": "https://steamcommunity.com/id/Xer0Flux/recommended/1697870/"
+        }
+      ],
+      "groups": [
+        {
+          "key": "funny",
+          "label": "欢乐",
+          "review_ids": [
+            "p020",
+            "p038",
+            "p042",
+            "p043",
+            "p044",
+            "p045",
+            "p046",
+            "p047",
+            "p048",
+            "p049",
+            "p050",
+            "p051",
+            "p052",
+            "p053",
+            "p054",
+            "p055",
+            "p056",
+            "p057",
+            "p058",
+            "p059",
+            "p060",
+            "p061",
+            "p062",
+            "p063",
+            "p064",
+            "p065",
+            "p066",
+            "p067",
+            "p068",
+            "p069",
+            "p070",
+            "p071",
+            "p072",
+            "p073"
+          ]
+        },
+        {
+          "key": "helpful",
+          "label": "最有价值的",
+          "review_ids": [
+            "p001",
+            "p002",
+            "p003",
+            "p004",
+            "p005",
+            "p006",
+            "p007",
+            "p008",
+            "p009",
+            "p010",
+            "p011",
+            "p012",
+            "p013",
+            "p014",
+            "p015",
+            "p016",
+            "p017",
+            "p018",
+            "p019",
+            "p021",
+            "p022",
+            "p023",
+            "p024",
+            "p025",
+            "p026",
+            "p027",
+            "p028",
+            "p029",
+            "p030",
+            "p031",
+            "p032",
+            "p033",
+            "p034",
+            "p035",
+            "p036",
+            "p037",
+            "p038",
+            "p039",
+            "p040",
+            "p041"
+          ]
+        },
+        {
+          "key": "recent",
+          "label": "最新",
+          "review_ids": [
+            "p001",
+            "p002",
+            "p003",
+            "p004",
+            "p005",
+            "p006",
+            "p007",
+            "p008",
+            "p009",
+            "p010",
+            "p011",
+            "p012",
+            "p013",
+            "p014",
+            "p015",
+            "p016",
+            "p017",
+            "p018",
+            "p019",
+            "p021",
+            "p022",
+            "p023",
+            "p024",
+            "p025",
+            "p026",
+            "p027",
+            "p028",
+            "p029",
+            "p030",
+            "p031",
+            "p032",
+            "p033",
+            "p034",
+            "p035",
+            "p036",
+            "p037",
+            "p038",
+            "p039",
+            "p040",
+            "p041"
+          ]
+        },
+        {
+          "key": "summary",
+          "label": "概要",
+          "review_ids": [
+            "p001",
+            "p002",
+            "p003",
+            "p004",
+            "p005",
+            "p006",
+            "p007",
+            "p008",
+            "p009",
+            "p010",
+            "p011",
+            "p012",
+            "p013",
+            "p014",
+            "p015",
+            "p016",
+            "p017",
+            "p018",
+            "p019",
+            "p020",
+            "p021",
+            "p022",
+            "p023",
+            "p024",
+            "p025",
+            "p026",
+            "p027",
+            "p028",
+            "p029",
+            "p030",
+            "p031",
+            "p032",
+            "p033",
+            "p034",
+            "p035",
+            "p036",
+            "p037",
+            "p038",
+            "p039"
+          ]
+        }
+      ],
+      "label": "普通玩家",
+      "readable_count": 73,
+      "empty_status_count": 0
+    },
+    "curator": {
+      "reviews": [
+        {
+          "id": "c001",
+          "recommendation": "推荐",
+          "text": "Managing a kingdom has never felt so precarious. Your greed is your greatest enemy here.",
+          "url": "https://store.steampowered.com/curator/43939488-Gamer-Detective/"
+        },
+        {
+          "id": "c002",
+          "recommendation": "推荐",
+          "text": "Unique indirect control mechanics. It’s fascinating to watch your heroes act on their own whims.",
+          "url": "https://store.steampowered.com/curator/43939029-The-Game-Report/"
+        },
+        {
+          "id": "c003",
+          "recommendation": "推荐",
+          "text": "A fresh take on RTS. You don't just lead; you influence. Truly innovative and challenging.",
+          "url": "https://store.steampowered.com/curator/45380672-Kawaii-Questers/"
+        },
+        {
+          "id": "c004",
+          "recommendation": "推荐",
+          "text": "Good",
+          "url": "https://store.steampowered.com/curator/9966013-SalviaQeenzi/"
+        },
+        {
+          "id": "c005",
+          "recommendation": "推荐",
+          "text": "Addictive gameplay loop! Building up your defenses while balancing the budget is top-tier fun.",
+          "url": "https://store.steampowered.com/curator/43938573-Gurus-Playing/"
+        },
+        {
+          "id": "c006",
+          "recommendation": "推荐",
+          "text": "Gold replaces orders in a clever system where heroes act on their own, turning every decision into a gamble. Strong atmosphere and ideas shine through, though bugs edges still hold it back for now.",
+          "url": "https://store.steampowered.com/curator/37765117-Made-For-Gamers/"
+        },
+        {
+          "id": "c007",
+          "recommendation": "推荐",
+          "text": "Very enjoyable, interesting RTS, which has a unique approach to hero management. The forests, ruins, caves, plains. Nice adventures. Real-time strategy game with indirect control in fantasy world.",
+          "url": "https://store.steampowered.com/curator/31443943-Best-RPG/"
+        },
+        {
+          "id": "c008",
+          "recommendation": "推荐",
+          "text": "Influence your units rather than commanding them. It adds a layer of realism I really enjoy.",
+          "url": "https://store.steampowered.com/curator/37040404-Joystick-Knight/"
+        },
+        {
+          "id": "c009",
+          "recommendation": "推荐",
+          "text": "Another Majesty remake is here! Offering a gritty take on a fantastic kingdom, Crown of greed brings back the classic asymmetrical gameplay of Majesty you know and love. This one is worth checking out",
+          "url": "https://store.steampowered.com/curator/37049023-Generals-Admirals/"
+        },
+        {
+          "id": "c010",
+          "recommendation": "推荐",
+          "text": "Great price! Thank you! ❤ EU: 19,99 € (86,49 zł), PL: 71,99 zł (-14,50 zł, -16,76%), EUR/PLN = 4,3268 (22/07/26 05:55)",
+          "url": "https://store.steampowered.com/curator/46093924-Is-the-Price-Polished-Part-6/"
+        },
+        {
+          "id": "c011",
+          "recommendation": "不推荐",
+          "text": "🟡 5／10 - Average",
+          "url": "https://store.steampowered.com/curator/45160298-X-10/"
+        },
+        {
+          "id": "c012",
+          "recommendation": "信息提供",
+          "text": "Coming soon",
+          "url": "https://store.steampowered.com/curator/38337724-STRATEGY-gems/"
+        },
+        {
+          "id": "c013",
+          "recommendation": "信息提供",
+          "text": "A charming, gorgeous Majesty successor with clever indirect RTS mechanics and deep meta-progression, held back by wonky hero AI and technical stability issues.",
+          "url": "https://store.steampowered.com/curator/45497815-VaporLens/"
+        },
+        {
+          "id": "c014",
+          "recommendation": "信息提供",
+          "text": "EA game in the vein of the old Majesty series which up until just a couple of years ago had no spiritual successor. Now it has three. This is one. Then you have Lessaria and Heroes of Orn",
+          "url": "https://store.steampowered.com/curator/45602729-Loot_Collector/"
+        },
+        {
+          "id": "c015",
+          "recommendation": "信息提供",
+          "text": "Demo - mrc 2026 available, unreleased",
+          "url": "https://store.steampowered.com/curator/43950812-spielerinchen-plays/"
+        },
+        {
+          "id": "c016",
+          "recommendation": "信息提供",
+          "text": "Crown of Greed has a solid foundation that just needs a bit more balance to truly let its royal potential shine.",
+          "url": "https://store.steampowered.com/curator/45479798-Gamestic/"
+        }
+      ],
+      "groups": [
+        {
+          "key": "informational",
+          "label": "信息提供",
+          "review_ids": [
+            "c012",
+            "c013",
+            "c014",
+            "c015",
+            "c016"
+          ]
+        },
+        {
+          "key": "not_recommended",
+          "label": "不推荐",
+          "review_ids": [
+            "c011"
+          ]
+        },
+        {
+          "key": "recommended",
+          "label": "推荐",
+          "review_ids": [
+            "c001",
+            "c002",
+            "c003",
+            "c004",
+            "c005",
+            "c006",
+            "c007",
+            "c008",
+            "c009",
+            "c010"
+          ]
+        }
+      ],
+      "label": "鉴赏家",
+      "readable_count": 16,
+      "empty_status_count": 0
+    }
+  }
+}

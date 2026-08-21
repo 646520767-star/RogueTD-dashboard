@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Vortica","developers":["Vortical Studios"],"publishers":["Caketown Interactive"],"release_status":"released","release_date":"2026-05-25","tags":["动作肉鸽","弹幕射击","像素画面","科幻","刷宝"]},"hooks":[{"text":"每项任务前搜刮资源、制作武器和道具，再按任务特性选择专用负载","dimension":"玩法","excerpt":"Scavenge for resources, craft weapons and items and carefully select your loadouts to overcome each unique mission.","url":"https://store.steampowered.com/app/2980170/","label":"证据原文片段"},{"text":"一百多种工具覆盖跳跃靴、陷阱与炸药，可击退敌人、培育资源或照亮断电站点","dimension":"玩法","excerpt":"Find utility items like jumping boots, traps, and improvised explosives, or craft them yourself in your homebase. With over 100 items available, you can repel enemies, grow resources or light your way through dark powerless stations. There's a tool for everything!","url":"https://store.steampowered.com/app/2980170/","label":"证据原文片段"},{"text":"每轮空间站会随机遭遇断电、辐射或失重条件，迫使战术随环境改写","dimension":"玩法","excerpt":"Every run is different , some stations are plunged into darkness by power failures, some are saturated with radiation, and some force you to fight through facilities without gravity.","url":"https://store.steampowered.com/app/2980170/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3160,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":20335,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2129,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":36302,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.829135417613868,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":94,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.978723,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/fb3bb5a3b1f3517572cdeef455669ad95ec8d58a/ss_fb3bb5a3b1f3517572cdeef455669ad95ec8d58a.1920x1080.jpg?t=1780644507","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/fb3bb5a3b1f3517572cdeef455669ad95ec8d58a/ss_fb3bb5a3b1f3517572cdeef455669ad95ec8d58a.1920x1080.jpg?t=1780644507","alt":"Vortica 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/14a6a56dff28c687656c577da4e3af831418a6aa/ss_14a6a56dff28c687656c577da4e3af831418a6aa.1920x1080.jpg?t=1780644507","alt":"Vortica 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/9f03f1e5147ee31ee05e6411851a4284973f673d/ss_9f03f1e5147ee31ee05e6411851a4284973f673d.1920x1080.jpg?t=1780644507","alt":"Vortica 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/db6fbb551fb41679df3e6db43d71d1067c6a9989/ss_db6fbb551fb41679df3e6db43d71d1067c6a9989.1920x1080.jpg?t=1780644507","alt":"Vortica 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Vortica",
+    "developers": [
+      "Vortical Studios"
+    ],
+    "publishers": [
+      "Caketown Interactive"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-25",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "像素画面",
+      "科幻",
+      "刷宝"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每项任务前搜刮资源、制作武器和道具，再按任务特性选择专用负载",
+      "dimension": "玩法",
+      "excerpt": "Scavenge for resources, craft weapons and items and carefully select your loadouts to overcome each unique mission.",
+      "url": "https://store.steampowered.com/app/2980170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "一百多种工具覆盖跳跃靴、陷阱与炸药，可击退敌人、培育资源或照亮断电站点",
+      "dimension": "玩法",
+      "excerpt": "Find utility items like jumping boots, traps, and improvised explosives, or craft them yourself in your homebase. With over 100 items available, you can repel enemies, grow resources or light your way through dark powerless stations. There's a tool for everything!",
+      "url": "https://store.steampowered.com/app/2980170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮空间站会随机遭遇断电、辐射或失重条件，迫使战术随环境改写",
+      "dimension": "玩法",
+      "excerpt": "Every run is different , some stations are plunged into darkness by power failures, some are saturated with radiation, and some force you to fight through facilities without gravity.",
+      "url": "https://store.steampowered.com/app/2980170/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3230,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 19177,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2153,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 36719,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3328,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3328,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.965873426450144,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 91,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.105263,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Vortica位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/fb3bb5a3b1f3517572cdeef455669ad95ec8d58a/ss_fb3bb5a3b1f3517572cdeef455669ad95ec8d58a.1920x1080.jpg?t=1780644507",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/fb3bb5a3b1f3517572cdeef455669ad95ec8d58a/ss_fb3bb5a3b1f3517572cdeef455669ad95ec8d58a.1920x1080.jpg?t=1786734259",
+        "alt": "Vortica 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/84813ad640e579b08d643c081549f63387757836/ss_84813ad640e579b08d643c081549f63387757836.1920x1080.jpg?t=1786734259",
+        "alt": "Vortica 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/14a6a56dff28c687656c577da4e3af831418a6aa/ss_14a6a56dff28c687656c577da4e3af831418a6aa.1920x1080.jpg?t=1786734259",
+        "alt": "Vortica 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/9f03f1e5147ee31ee05e6411851a4284973f673d/ss_9f03f1e5147ee31ee05e6411851a4284973f673d.1920x1080.jpg?t=1786734259",
+        "alt": "Vortica 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/db6fbb551fb41679df3e6db43d71d1067c6a9989/ss_db6fbb551fb41679df3e6db43d71d1067c6a9989.1920x1080.jpg?t=1786734259",
+        "alt": "Vortica 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/9d5df68a1d6967329435508d1ba7361196669f96/ss_9d5df68a1d6967329435508d1ba7361196669f96.1920x1080.jpg?t=1786734259",
+        "alt": "Vortica 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/2b3518044ac7274fe010f92960291f950759bdf9/ss_2b3518044ac7274fe010f92960291f950759bdf9.1920x1080.jpg?t=1786734259",
+        "alt": "Vortica 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980170/26ab5e341ab8c7cec8a5503f4330c72a79eff367/ss_26ab5e341ab8c7cec8a5503f4330c72a79eff367.1920x1080.jpg?t=1786734259",
+        "alt": "Vortica 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

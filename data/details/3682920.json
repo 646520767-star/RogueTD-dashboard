@@ -1,1 +1,169 @@
-{"identity":{"original_title":"Chicken Coop Invaders","developers":["Miris Mind"],"publishers":["Miris Mind"],"release_status":"released","release_date":"2026-06-04","tags":["幽默","卡通风格","色彩鲜明","风格化","动作"]},"hooks":[{"text":"第一人称射击与塔防结合，在40个入侵关卡中保护鸡舍","dimension":"玩法","excerpt":"Intense FPS action mechanics with Tower Defense elements 40 different invasion levels (plus one ultra-secret stage to unlock)","url":"https://store.steampowered.com/app/3682920/","label":"证据原文片段"},{"text":"拯救目标被明确量化为410只鸡，强化外星入侵下的荒诞守护主题","dimension":"题材","excerpt":"410 chickens to save!","url":"https://store.steampowered.com/app/3682920/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":85,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":27,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":356,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":138,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":138,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0.9047905687518702,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":9,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.888889,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"],"actions":[{"label":"原型验证","target":"幽默、卡通风格","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/cde618a08927c5657db8965773b4a20cabeec84c/ss_cde618a08927c5657db8965773b4a20cabeec84c.1920x1080.jpg?t=1780580317","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/cde618a08927c5657db8965773b4a20cabeec84c/ss_cde618a08927c5657db8965773b4a20cabeec84c.1920x1080.jpg?t=1780580317","alt":"Chicken Coop Invaders 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/bdc6da0f5ea22f34cf514755426c310fea07ad02/ss_bdc6da0f5ea22f34cf514755426c310fea07ad02.1920x1080.jpg?t=1780580317","alt":"Chicken Coop Invaders 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/67ca275bd8424100986cbc79809fc083eb6c87e9/ss_67ca275bd8424100986cbc79809fc083eb6c87e9.1920x1080.jpg?t=1780580317","alt":"Chicken Coop Invaders 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/451e4ff6405a45bca4dd40b5218450d528c10834/ss_451e4ff6405a45bca4dd40b5218450d528c10834.1920x1080.jpg?t=1780580317","alt":"Chicken Coop Invaders 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Chicken Coop Invaders",
+    "developers": [
+      "Miris Mind"
+    ],
+    "publishers": [
+      "Miris Mind"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-04",
+    "tags": [
+      "幽默",
+      "卡通风格",
+      "色彩鲜明",
+      "风格化",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "第一人称射击与塔防结合，在40个入侵关卡中保护鸡舍",
+      "dimension": "玩法",
+      "excerpt": "Intense FPS action mechanics with Tower Defense elements 40 different invasion levels (plus one ultra-secret stage to unlock)",
+      "url": "https://store.steampowered.com/app/3682920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "拯救目标被明确量化为410只鸡，强化外星入侵下的荒诞守护主题",
+      "dimension": "题材",
+      "excerpt": "410 chickens to save!",
+      "url": "https://store.steampowered.com/app/3682920/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 82,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1279,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 27,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 340,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 133,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 133,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 0.9103547377195433,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 4,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Chicken Coop Invaders位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/cde618a08927c5657db8965773b4a20cabeec84c/ss_cde618a08927c5657db8965773b4a20cabeec84c.1920x1080.jpg?t=1780580317",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/cde618a08927c5657db8965773b4a20cabeec84c/ss_cde618a08927c5657db8965773b4a20cabeec84c.1920x1080.jpg?t=1780580317",
+        "alt": "Chicken Coop Invaders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/bdc6da0f5ea22f34cf514755426c310fea07ad02/ss_bdc6da0f5ea22f34cf514755426c310fea07ad02.1920x1080.jpg?t=1780580317",
+        "alt": "Chicken Coop Invaders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/67ca275bd8424100986cbc79809fc083eb6c87e9/ss_67ca275bd8424100986cbc79809fc083eb6c87e9.1920x1080.jpg?t=1780580317",
+        "alt": "Chicken Coop Invaders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/451e4ff6405a45bca4dd40b5218450d528c10834/ss_451e4ff6405a45bca4dd40b5218450d528c10834.1920x1080.jpg?t=1780580317",
+        "alt": "Chicken Coop Invaders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/e6ac760027e8dbc087651942b0b25ba9fbdf997f/ss_e6ac760027e8dbc087651942b0b25ba9fbdf997f.1920x1080.jpg?t=1780580317",
+        "alt": "Chicken Coop Invaders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/31dec4d8c6c42004a26acfcc7648554788c87153/ss_31dec4d8c6c42004a26acfcc7648554788c87153.1920x1080.jpg?t=1780580317",
+        "alt": "Chicken Coop Invaders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682920/ac79215e64b59e398a4b29111b2997894a5bc545/ss_ac79215e64b59e398a4b29111b2997894a5bc545.1920x1080.jpg?t=1780580317",
+        "alt": "Chicken Coop Invaders 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

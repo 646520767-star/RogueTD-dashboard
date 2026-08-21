@@ -1,1 +1,316 @@
-{"identity":{"original_title":"RACCOIN: Coin Pusher Roguelike","developers":["Doraccoon"],"publishers":["Playstack"],"release_status":"released","release_date":"2026-03-31","tags":["策略","类Rogue","卡组构筑","单人游戏","肉鸽卡组构筑"]},"hooks":[{"text":"Seed Coin遇到Water Coin会在推币机里长出摇钱树，Cat Coin则会追猎所有Rat Coin换取额外票券","dimension":"玩法","excerpt":"Combine Seed Coins with Water Coins to grow a money tree right inside your machine. Drop a Cat Coin to hunt down every last Rat Coin and rack up extra tickets.","url":"https://store.steampowered.com/app/3784030/","label":"证据原文片段"},{"text":"一百五十件道具可改变整局走向，还能给常用硬币镀特殊涂层增强效果并解锁更狂野连招","dimension":"玩法","excerpt":"Uncover 150 unique items that can dramatically shift the course of your run. Stack multipliers, spawn coins with extra points, or simply shake the machine when you're running dry. Apply special plating to your favorite coins to enhance their effects and unlock even wilder combos.","url":"https://store.steampowered.com/app/3784030/","label":"证据原文片段"},{"text":"不同角色拥有主题硬币和独立玩法，例如浣熊经理专攻数学连锁，生物学家专攻动物硬币","dimension":"玩法","excerpt":"Play as one of several unique characters, each with their own set of themed coins and playstyle. Take on the role of a greedy raccoon manager who excels at math-based combos, or a quirky biologist who specializes in animal-based coins. Every character offers a fresh and wildly different way to play.","url":"https://store.steampowered.com/app/3784030/","label":"证据原文片段"}],"opinions":[{"text":"多数特殊代币需要留在台面或到下一回合才生效","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"为什么大多数特殊代币一定要在台子上才生效甚至是下一回合生效","url":"https://steamcommunity.com/profiles/76561198140788449/recommended/3784030/","label":"证据原文片段"}]},{"text":"随机性会直接决定能否过关","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"随机性应该是决定我用什么方式通过这一关，而不是直接决定我能不能通过这一关","url":"https://steamcommunity.com/profiles/76561198098754611/recommended/3784030/","label":"证据原文片段"}]},{"text":"回合制限制了推币爽感","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"回合制确实有点限制爽点","url":"https://steamcommunity.com/profiles/76561198368236399/recommended/3784030/","label":"证据原文片段"}]},{"text":"正式版削弱了测试版的核心爽感","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"完全把测试时最重要的爽感给消磨掉了","url":"https://steamcommunity.com/profiles/76561199081601072/recommended/3784030/","label":"证据原文片段"}]},{"text":"道具格子过少限制构筑","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"道具格子一定要这么少吗","url":"https://steamcommunity.com/profiles/76561198140788449/recommended/3784030/","label":"证据原文片段"}]},{"text":"解锁内容越多越难抽到协同组合","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"随着你解锁的特殊币越来越多，能抽到搭配的几率越来越低","url":"https://steamcommunity.com/profiles/76561198098754611/recommended/3784030/","label":"证据原文片段"}]},{"text":"胜负过度依赖技能搭配和运气","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"过关根本不是看你投币水平，而是技能搭配的水平和运气","url":"https://steamcommunity.com/profiles/76561198098754611/recommended/3784030/","label":"证据原文片段"}]},{"text":"数值溢出会导致已堆分值丢失","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"应该是溢出重新计算了，但这就导致我白堆了很多代币分值","url":"https://steamcommunity.com/profiles/76561198368236399/recommended/3784030/","label":"证据原文片段"}]},{"text":"正式版越玩越无聊","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"真正游戏上线越玩越无聊","url":"https://steamcommunity.com/id/urpapazqqqq/recommended/3784030/","label":"证据原文片段"}]},{"text":"巨大组合能强烈触发奖励感","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"trigger your dopamine receptors like any good roguelike does when you get a massive combo","url":"https://store.steampowered.com/curator/6856269-Just-Good-PC-Games/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":741488,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":659637,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":26525,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6971910,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":789130,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":789130,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.775621158211349,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":4348,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.755454,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["多数特殊代币需要留在台面或到下一回合才生效","随机性会直接决定能否过关","回合制限制了推币爽感","正式版削弱了测试版的核心爽感","道具格子过少限制构筑","解锁内容越多越难抽到协同组合"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/9dc3df02e3195847fd0dd61a5931712faadc40ec/ss_9dc3df02e3195847fd0dd61a5931712faadc40ec.1920x1080.jpg?t=1783956646","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/9dc3df02e3195847fd0dd61a5931712faadc40ec/ss_9dc3df02e3195847fd0dd61a5931712faadc40ec.1920x1080.jpg?t=1783956646","alt":"浣熊推币机 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/86ab76b194788a3ac7188cc79f69d9293ebb76d5/ss_86ab76b194788a3ac7188cc79f69d9293ebb76d5.1920x1080.jpg?t=1783956646","alt":"浣熊推币机 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/347ad829f66d8d0c8cc32cfdfbc6b5b2099128e4/ss_347ad829f66d8d0c8cc32cfdfbc6b5b2099128e4.1920x1080.jpg?t=1783956646","alt":"浣熊推币机 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/b35de7a491b09573ad84b72b6d9afd50297a9320/ss_b35de7a491b09573ad84b72b6d9afd50297a9320.1920x1080.jpg?t=1783956646","alt":"浣熊推币机 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "RACCOIN: Coin Pusher Roguelike",
+    "developers": [
+      "Doraccoon"
+    ],
+    "publishers": [
+      "Playstack"
+    ],
+    "release_status": "released",
+    "release_date": "2026-03-31",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "卡组构筑",
+      "肉鸽卡组构筑",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "Seed Coin遇到Water Coin会在推币机里长出摇钱树，Cat Coin则会追猎所有Rat Coin换取额外票券",
+      "dimension": "玩法",
+      "excerpt": "Combine Seed Coins with Water Coins to grow a money tree right inside your machine. Drop a Cat Coin to hunt down every last Rat Coin and rack up extra tickets.",
+      "url": "https://store.steampowered.com/app/3784030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "一百五十件道具可改变整局走向，还能给常用硬币镀特殊涂层增强效果并解锁更狂野连招",
+      "dimension": "玩法",
+      "excerpt": "Uncover 150 unique items that can dramatically shift the course of your run. Stack multipliers, spawn coins with extra points, or simply shake the machine when you're running dry. Apply special plating to your favorite coins to enhance their effects and unlock even wilder combos.",
+      "url": "https://store.steampowered.com/app/3784030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不同角色拥有主题硬币和独立玩法，例如浣熊经理专攻数学连锁，生物学家专攻动物硬币",
+      "dimension": "玩法",
+      "excerpt": "Play as one of several unique characters, each with their own set of themed coins and playstyle. Take on the role of a greedy raccoon manager who excels at math-based combos, or a quirky biologist who specializes in animal-based coins. Every character offers a fresh and wildly different way to play.",
+      "url": "https://store.steampowered.com/app/3784030/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "多数特殊代币需要留在台面或到下一回合才生效",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "为什么大多数特殊代币一定要在台子上才生效甚至是下一回合生效",
+          "url": "https://steamcommunity.com/profiles/76561198140788449/recommended/3784030/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "随机性会直接决定能否过关",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "随机性应该是决定我用什么方式通过这一关，而不是直接决定我能不能通过这一关",
+          "url": "https://steamcommunity.com/profiles/76561198098754611/recommended/3784030/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "回合制限制了推币爽感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "回合制确实有点限制爽点",
+          "url": "https://steamcommunity.com/profiles/76561198368236399/recommended/3784030/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "正式版削弱了测试版的核心爽感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "完全把测试时最重要的爽感给消磨掉了",
+          "url": "https://steamcommunity.com/profiles/76561199081601072/recommended/3784030/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "道具格子过少限制构筑",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "道具格子一定要这么少吗",
+          "url": "https://steamcommunity.com/profiles/76561198140788449/recommended/3784030/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "解锁内容越多越难抽到协同组合",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "随着你解锁的特殊币越来越多，能抽到搭配的几率越来越低",
+          "url": "https://steamcommunity.com/profiles/76561198098754611/recommended/3784030/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "胜负过度依赖技能搭配和运气",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "过关根本不是看你投币水平，而是技能搭配的水平和运气",
+          "url": "https://steamcommunity.com/profiles/76561198098754611/recommended/3784030/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "数值溢出会导致已堆分值丢失",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "应该是溢出重新计算了，但这就导致我白堆了很多代币分值",
+          "url": "https://steamcommunity.com/profiles/76561198368236399/recommended/3784030/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "正式版越玩越无聊",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "真正游戏上线越玩越无聊",
+          "url": "https://steamcommunity.com/id/urpapazqqqq/recommended/3784030/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "巨大组合能强烈触发奖励感",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "trigger your dopamine receptors like any good roguelike does when you get a massive combo",
+          "url": "https://store.steampowered.com/curator/6856269-Just-Good-PC-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 786720,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 657154,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 26848,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 7346590,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 836995,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 836995,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.899780546629286,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 4123,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.529854,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "多数特殊代币需要留在台面或到下一回合才生效",
+    "随机性会直接决定能否过关",
+    "回合制限制了推币爽感",
+    "正式版削弱了测试版的核心爽感",
+    "道具格子过少限制构筑",
+    "解锁内容越多越难抽到协同组合"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "浣熊推币机位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/9dc3df02e3195847fd0dd61a5931712faadc40ec/ss_9dc3df02e3195847fd0dd61a5931712faadc40ec.1920x1080.jpg?t=1783956646",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/9dc3df02e3195847fd0dd61a5931712faadc40ec/ss_9dc3df02e3195847fd0dd61a5931712faadc40ec.1920x1080.jpg?t=1786037377",
+        "alt": "浣熊推币机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/86ab76b194788a3ac7188cc79f69d9293ebb76d5/ss_86ab76b194788a3ac7188cc79f69d9293ebb76d5.1920x1080.jpg?t=1786037377",
+        "alt": "浣熊推币机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/347ad829f66d8d0c8cc32cfdfbc6b5b2099128e4/ss_347ad829f66d8d0c8cc32cfdfbc6b5b2099128e4.1920x1080.jpg?t=1786037377",
+        "alt": "浣熊推币机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/b35de7a491b09573ad84b72b6d9afd50297a9320/ss_b35de7a491b09573ad84b72b6d9afd50297a9320.1920x1080.jpg?t=1786037377",
+        "alt": "浣熊推币机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/35bb5c1df6d0aae62a1d52cba320a4a77b76d78e/ss_35bb5c1df6d0aae62a1d52cba320a4a77b76d78e.1920x1080.jpg?t=1786037377",
+        "alt": "浣熊推币机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/4541040768a5d31f59c95bae6c192b29b6b88660/ss_4541040768a5d31f59c95bae6c192b29b6b88660.1920x1080.jpg?t=1786037377",
+        "alt": "浣熊推币机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/24843e6e351ca3fc64e0d499d4cf7d4e530c19af/ss_24843e6e351ca3fc64e0d499d4cf7d4e530c19af.1920x1080.jpg?t=1786037377",
+        "alt": "浣熊推币机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/93ea66c9bcb1e4e3ccd466ae9f0f4bd0e26d6cfe/ss_93ea66c9bcb1e4e3ccd466ae9f0f4bd0e26d6cfe.1920x1080.jpg?t=1786037377",
+        "alt": "浣熊推币机 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

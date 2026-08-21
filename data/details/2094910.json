@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Pile Up!","developers":["Remoob"],"publishers":["Catoptric Games","IndieArk"],"release_status":"released","release_date":"2025-07-23","tags":["休闲放松","基地建设","独立游戏","休闲","氛围感"]},"hooks":[{"text":"在狭小岛屿上向上堆叠建筑，以垂直城市布局提升人口","dimension":"玩法","excerpt":"Stack your buildings over a small island to make beautiful cities and to increase your population.","url":"https://store.steampowered.com/app/2094910/","label":"证据原文片段"},{"text":"七类五十多种建筑借鉴卡牌组合逻辑，可解锁并拼出不同城市策略","dimension":"玩法","excerpt":"Over +50 buildings of 7 building types inspired from card games to unlock and combine.","url":"https://store.steampowered.com/app/2094910/","label":"证据原文片段"},{"text":"轻松建城随时可能因爆炸与失控翻车，每局还带有受控随机变化","dimension":"玩法","excerpt":"Chill and strategic gameplay with a bit of explosions and the risk of everything going sideways. Replayability with controlled randomness on every run.","url":"https://store.steampowered.com/app/2094910/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":63021,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":165222,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11284,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":376348,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":68363,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":68363,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.56765803161689,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1066,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":77,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":76.382381,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲放松、基地建设","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_3e0c4242630b4857b8179f98a67e617fd15a45c6.1920x1080.jpg?t=1784026104","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_3e0c4242630b4857b8179f98a67e617fd15a45c6.1920x1080.jpg?t=1784026104","alt":"叠叠高城 Pile Up! 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_0c44aa899f5ce29bf8a89d77a151221416caf2c4.1920x1080.jpg?t=1784026104","alt":"叠叠高城 Pile Up! 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_6a3577a26a070f988c013dd900d1e52ddbddaba4.1920x1080.jpg?t=1784026104","alt":"叠叠高城 Pile Up! 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_d1d0cd6a621f56e054f053c1dc4ae0405844621b.1920x1080.jpg?t=1784026104","alt":"叠叠高城 Pile Up! 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pile Up!",
+    "developers": [
+      "Remoob"
+    ],
+    "publishers": [
+      "Catoptric Games",
+      "IndieArk"
+    ],
+    "release_status": "released",
+    "release_date": "2025-07-23",
+    "tags": [
+      "休闲放松",
+      "基地建设",
+      "独立游戏",
+      "休闲",
+      "氛围感"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "在狭小岛屿上向上堆叠建筑，以垂直城市布局提升人口",
+      "dimension": "玩法",
+      "excerpt": "Stack your buildings over a small island to make beautiful cities and to increase your population.",
+      "url": "https://store.steampowered.com/app/2094910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "七类五十多种建筑借鉴卡牌组合逻辑，可解锁并拼出不同城市策略",
+      "dimension": "玩法",
+      "excerpt": "Over +50 buildings of 7 building types inspired from card games to unlock and combine.",
+      "url": "https://store.steampowered.com/app/2094910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "轻松建城随时可能因爆炸与失控翻车，每局还带有受控随机变化",
+      "dimension": "玩法",
+      "excerpt": "Chill and strategic gameplay with a bit of explosions and the risk of everything going sideways. Replayability with controlled randomness on every run.",
+      "url": "https://store.steampowered.com/app/2094910/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 71388,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 159809,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11348,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 434325,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 78597,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 78597,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.303883895930808,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 955,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.339982,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "叠叠高城 Pile Up!位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_3e0c4242630b4857b8179f98a67e617fd15a45c6.1920x1080.jpg?t=1784026104",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_3e0c4242630b4857b8179f98a67e617fd15a45c6.1920x1080.jpg?t=1786035781",
+        "alt": "叠叠高城 Pile Up! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_0c44aa899f5ce29bf8a89d77a151221416caf2c4.1920x1080.jpg?t=1786035781",
+        "alt": "叠叠高城 Pile Up! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_6a3577a26a070f988c013dd900d1e52ddbddaba4.1920x1080.jpg?t=1786035781",
+        "alt": "叠叠高城 Pile Up! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_d1d0cd6a621f56e054f053c1dc4ae0405844621b.1920x1080.jpg?t=1786035781",
+        "alt": "叠叠高城 Pile Up! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_35ee115436fefb28d149726a94a47db29eeb1c9e.1920x1080.jpg?t=1786035781",
+        "alt": "叠叠高城 Pile Up! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_8aebacbcd45a12fce5562776debafbeb9bd452d2.1920x1080.jpg?t=1786035781",
+        "alt": "叠叠高城 Pile Up! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_ab82eebf6417a04821a9458b67c3ec6aa0013329.1920x1080.jpg?t=1786035781",
+        "alt": "叠叠高城 Pile Up! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094910/ss_0d44dc3b23f9abe9fc227f6c8084c6ead3742ea3.1920x1080.jpg?t=1786035781",
+        "alt": "叠叠高城 Pile Up! 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

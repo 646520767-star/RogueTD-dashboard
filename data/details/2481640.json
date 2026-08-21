@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Mage and Monsters II","developers":["Lasse Zacho Malver"],"publishers":["Lasse Zacho Malver"],"release_status":"released","release_date":"2025-09-08","tags":["自走棋","动作肉鸽","策略","永久死亡","魔法"]},"hooks":[{"text":"军队自动作战，玩家主动施法支援由英雄率领的部队","dimension":"玩法","excerpt":"Recruit a hero to lead your army, and use spells while they fight for you.","url":"https://store.steampowered.com/app/2481640/","label":"证据原文片段"},{"text":"成长时在强化英雄、扩充军队与提升法术三条路线之间取舍","dimension":"玩法","excerpt":"Mage & Monsters 2 is an active auto battler, where you choose to either enhance the strength of your hero, reinforce the might of your army, or increase the power of your spells.","url":"https://store.steampowered.com/app/2481640/","label":"证据原文片段"},{"text":"十八名英雄、百余升级、十三法术与二十五兵种组成战术池","dimension":"玩法","excerpt":"Choose between 18 different heroes to fight for you. - Over 100 different upgrades. - 13 unique spells you can use in battle to help your army. - 25 different units you can recruit, and over 50 enemies.","url":"https://store.steampowered.com/app/2481640/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":29288,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27961,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2515,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":203522,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":29401,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":29401,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.917830811396833,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":367,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.651226,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"自走棋、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/2a888192b4ceeef8bb3e66698ca8d4e5bc7602dd/ss_2a888192b4ceeef8bb3e66698ca8d4e5bc7602dd.1920x1080.jpg?t=1778782593","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/2a888192b4ceeef8bb3e66698ca8d4e5bc7602dd/ss_2a888192b4ceeef8bb3e66698ca8d4e5bc7602dd.1920x1080.jpg?t=1778782593","alt":"Mage and Monsters II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/9c700863c0d447f3a9b576368c02846650547778/ss_9c700863c0d447f3a9b576368c02846650547778.1920x1080.jpg?t=1778782593","alt":"Mage and Monsters II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/c53e754faf23e55d8748ae405089a69c6c404103/ss_c53e754faf23e55d8748ae405089a69c6c404103.1920x1080.jpg?t=1778782593","alt":"Mage and Monsters II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/3f1a8f341cdf940345bbc1d1d54f883b04bee016/ss_3f1a8f341cdf940345bbc1d1d54f883b04bee016.1920x1080.jpg?t=1778782593","alt":"Mage and Monsters II 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Mage and Monsters II",
+    "developers": [
+      "Lasse Zacho Malver"
+    ],
+    "publishers": [
+      "Lasse Zacho Malver"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-08",
+    "tags": [
+      "自走棋",
+      "动作肉鸽",
+      "策略",
+      "永久死亡",
+      "魔法"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "军队自动作战，玩家主动施法支援由英雄率领的部队",
+      "dimension": "玩法",
+      "excerpt": "Recruit a hero to lead your army, and use spells while they fight for you.",
+      "url": "https://store.steampowered.com/app/2481640/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "成长时在强化英雄、扩充军队与提升法术三条路线之间取舍",
+      "dimension": "玩法",
+      "excerpt": "Mage & Monsters 2 is an active auto battler, where you choose to either enhance the strength of your hero, reinforce the might of your army, or increase the power of your spells.",
+      "url": "https://store.steampowered.com/app/2481640/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十八名英雄、百余升级、十三法术与二十五兵种组成战术池",
+      "dimension": "玩法",
+      "excerpt": "Choose between 18 different heroes to fight for you. - Over 100 different upgrades. - 13 unique spells you can use in battle to help your army. - 25 different units you can recruit, and over 50 enemies.",
+      "url": "https://store.steampowered.com/app/2481640/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 30201,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 28127,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2525,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 211561,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 30316,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 30316,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.05138645783174,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 369,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.827493,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Mage and Monsters II位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/2a888192b4ceeef8bb3e66698ca8d4e5bc7602dd/ss_2a888192b4ceeef8bb3e66698ca8d4e5bc7602dd.1920x1080.jpg?t=1778782593",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/2a888192b4ceeef8bb3e66698ca8d4e5bc7602dd/ss_2a888192b4ceeef8bb3e66698ca8d4e5bc7602dd.1920x1080.jpg?t=1778782593",
+        "alt": "Mage and Monsters II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/9c700863c0d447f3a9b576368c02846650547778/ss_9c700863c0d447f3a9b576368c02846650547778.1920x1080.jpg?t=1778782593",
+        "alt": "Mage and Monsters II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/c53e754faf23e55d8748ae405089a69c6c404103/ss_c53e754faf23e55d8748ae405089a69c6c404103.1920x1080.jpg?t=1778782593",
+        "alt": "Mage and Monsters II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/3f1a8f341cdf940345bbc1d1d54f883b04bee016/ss_3f1a8f341cdf940345bbc1d1d54f883b04bee016.1920x1080.jpg?t=1778782593",
+        "alt": "Mage and Monsters II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/b7683d73795db3d76e8e962a3a3737d2f0b4ffc4/ss_b7683d73795db3d76e8e962a3a3737d2f0b4ffc4.1920x1080.jpg?t=1778782593",
+        "alt": "Mage and Monsters II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481640/8e68f9a43ed76eb6c4ec8aedf4a5bfbf6679f4e6/ss_8e68f9a43ed76eb6c4ec8aedf4a5bfbf6679f4e6.1920x1080.jpg?t=1778782593",
+        "alt": "Mage and Monsters II 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

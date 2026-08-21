@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Rogue Voltage","developers":["Horizont Computergrafik"],"publishers":["Horizont Computergrafik","IndieArk"],"release_status":"released","release_date":"2026-05-01","tags":["卡组构筑","卡牌对战","类Rogue","策略","高重复可玩性"]},"hooks":[{"text":"从150多种模块中接线组装机器并发现连锁构筑","dimension":"玩法","excerpt":"Pick from over 150 unique modules to construct crazy machines, discover devastating synergies, and create overpowered builds.","url":"https://store.steampowered.com/app/1494560/","label":"证据原文片段"},{"text":"每回合在攻击、治疗和蓄电之间分配有限能量","dimension":"玩法","excerpt":"Every turn you have to decide where you want to put your energy: Into your blaster module? Do you have to crack a healing potion? Or do you store energy in a battery to prepare an even bigger move next turn?","url":"https://store.steampowered.com/app/1494560/","label":"证据原文片段"},{"text":"前后推动行动时间，在时间轴上抢先、闪避或把敌人送入灾害","dimension":"玩法","excerpt":"Turns can be tactically pushed and pulled forward or backward in time: Dodge volcano eruptions and lightning strikes, slip before your enemies on the timeline or throw them into a devastating Grav-Spike.","url":"https://store.steampowered.com/app/1494560/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":19025,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":101674,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5061,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":226614,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":20408,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":20408,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.222789184791228,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":630,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.879747,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"卡组构筑、卡牌对战","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/ss_7cf18fdc0c48be27e788e541b52dcaf1218445d4.1920x1080.jpg?t=1784301901","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/ss_7cf18fdc0c48be27e788e541b52dcaf1218445d4.1920x1080.jpg?t=1784301901","alt":"末日电涌 Rogue Voltage 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/20d172a059c4a21cc8527f5f64b9693f3908e6c7/ss_20d172a059c4a21cc8527f5f64b9693f3908e6c7.1920x1080.jpg?t=1784301901","alt":"末日电涌 Rogue Voltage 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/acc08c736cab3dd24fbf865d8724e95de4a8fc26/ss_acc08c736cab3dd24fbf865d8724e95de4a8fc26.1920x1080.jpg?t=1784301901","alt":"末日电涌 Rogue Voltage 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/b1ac554a2f2f458bb1d0fe8ec4b28215ca16ffd6/ss_b1ac554a2f2f458bb1d0fe8ec4b28215ca16ffd6.1920x1080.jpg?t=1784301901","alt":"末日电涌 Rogue Voltage 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Rogue Voltage",
+    "developers": [
+      "Horizont Computergrafik"
+    ],
+    "publishers": [
+      "Horizont Computergrafik",
+      "IndieArk"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-01",
+    "tags": [
+      "卡组构筑",
+      "塔防",
+      "卡牌对战",
+      "类Rogue",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从150多种模块中接线组装机器并发现连锁构筑",
+      "dimension": "玩法",
+      "excerpt": "Pick from over 150 unique modules to construct crazy machines, discover devastating synergies, and create overpowered builds.",
+      "url": "https://store.steampowered.com/app/1494560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每回合在攻击、治疗和蓄电之间分配有限能量",
+      "dimension": "玩法",
+      "excerpt": "Every turn you have to decide where you want to put your energy: Into your blaster module? Do you have to crack a healing potion? Or do you store energy in a battery to prepare an even bigger move next turn?",
+      "url": "https://store.steampowered.com/app/1494560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "前后推动行动时间，在时间轴上抢先、闪避或把敌人送入灾害",
+      "dimension": "玩法",
+      "excerpt": "Turns can be tactically pushed and pulled forward or backward in time: Dodge volcano eruptions and lightning strikes, slip before your enemies on the timeline or throw them into a devastating Grav-Spike.",
+      "url": "https://store.steampowered.com/app/1494560/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 21121,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 100999,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5102,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 256849,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 22648,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 22648,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.5625405460118,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 582,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.546584,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "末日电涌 Rogue Voltage位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/ss_7cf18fdc0c48be27e788e541b52dcaf1218445d4.1920x1080.jpg?t=1784301901",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/ss_7cf18fdc0c48be27e788e541b52dcaf1218445d4.1920x1080.jpg?t=1786458887",
+        "alt": "末日电涌 Rogue Voltage 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/20d172a059c4a21cc8527f5f64b9693f3908e6c7/ss_20d172a059c4a21cc8527f5f64b9693f3908e6c7.1920x1080.jpg?t=1786458887",
+        "alt": "末日电涌 Rogue Voltage 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/acc08c736cab3dd24fbf865d8724e95de4a8fc26/ss_acc08c736cab3dd24fbf865d8724e95de4a8fc26.1920x1080.jpg?t=1786458887",
+        "alt": "末日电涌 Rogue Voltage 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/b1ac554a2f2f458bb1d0fe8ec4b28215ca16ffd6/ss_b1ac554a2f2f458bb1d0fe8ec4b28215ca16ffd6.1920x1080.jpg?t=1786458887",
+        "alt": "末日电涌 Rogue Voltage 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/67a1221efcefc2011c015ceaef49b4f5606c7a9c/ss_67a1221efcefc2011c015ceaef49b4f5606c7a9c.1920x1080.jpg?t=1786458887",
+        "alt": "末日电涌 Rogue Voltage 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494560/ss_62187b7c64e8932788b478da01f2cab8a2d484fc.1920x1080.jpg?t=1786458887",
+        "alt": "末日电涌 Rogue Voltage 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Content Warning","developers":["Zorro","Wilnyl","Philip","thePetHen","Skog"],"publishers":["Evil Landfall?"],"release_status":"released","release_date":"2024-04-01","tags":["恐怖","在线合作","程序生成","探索","动作肉鸽"]},"hooks":[{"text":"氧气、相机电量和队友都耗尽前尽量拍到恐怖素材","dimension":"玩法","excerpt":"Film as many scary things as possible before you run out of oxygen, camera battery or friends…","url":"https://store.steampowered.com/app/2881650/","label":"证据原文片段"},{"text":"SpöökTube广告收入反过来升级拍摄与生存装备","dimension":"玩法","excerpt":"The ad revenue from your SpöökTube videos enables you to upgrade your gear to film better videos and survive more easily in the Old World.","url":"https://store.steampowered.com/app/2881650/","label":"证据原文片段"},{"text":"每轮只有三天用恐怖镜头冲高传播量","dimension":"玩法","excerpt":"Every run goes on for 3 days, the more scary stuff you film, the more you go viral.","url":"https://store.steampowered.com/app/2881650/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5678504,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":998975,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":108819,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":34358518,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9356285,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9356285,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.910863663419335,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":161549,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.894362,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"恐怖、在线合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_5df7377699e11b22ffbb604f2b3cc74d39d9bb2f.1920x1080.jpg?t=1775640428","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_5df7377699e11b22ffbb604f2b3cc74d39d9bb2f.1920x1080.jpg?t=1775640428","alt":"前方高能 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.1920x1080.jpg?t=1775640428","alt":"前方高能 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_f7f450f42db587f4e143ad1178500ad786c965a3.1920x1080.jpg?t=1775640428","alt":"前方高能 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_ae459a02056e53665b20270b3b2c2ec74e6c4963.1920x1080.jpg?t=1775640428","alt":"前方高能 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Content Warning",
+    "developers": [
+      "Zorro",
+      "Wilnyl",
+      "Philip",
+      "thePetHen",
+      "Skog"
+    ],
+    "publishers": [
+      "Evil Landfall?"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-01",
+    "tags": [
+      "在线合作",
+      "恐怖",
+      "程序生成",
+      "探索",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "氧气、相机电量和队友都耗尽前尽量拍到恐怖素材",
+      "dimension": "玩法",
+      "excerpt": "Film as many scary things as possible before you run out of oxygen, camera battery or friends…",
+      "url": "https://store.steampowered.com/app/2881650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "SpöökTube广告收入反过来升级拍摄与生存装备",
+      "dimension": "玩法",
+      "excerpt": "The ad revenue from your SpöökTube videos enables you to upgrade your gear to film better videos and survive more easily in the Old World.",
+      "url": "https://store.steampowered.com/app/2881650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮只有三天用恐怖镜头冲高传播量",
+      "dimension": "玩法",
+      "excerpt": "Every run goes on for 3 days, the more scary stuff you film, the more you go viral.",
+      "url": "https://store.steampowered.com/app/2881650/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5722629,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1002340,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 109368,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 34482198,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 9403985,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 9403985,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.9305569747650555,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 71628,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.844441,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "前方高能位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_5df7377699e11b22ffbb604f2b3cc74d39d9bb2f.1920x1080.jpg?t=1775640428",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_5df7377699e11b22ffbb604f2b3cc74d39d9bb2f.1920x1080.jpg?t=1785137321",
+        "alt": "前方高能 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.1920x1080.jpg?t=1785137321",
+        "alt": "前方高能 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_f7f450f42db587f4e143ad1178500ad786c965a3.1920x1080.jpg?t=1785137321",
+        "alt": "前方高能 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_ae459a02056e53665b20270b3b2c2ec74e6c4963.1920x1080.jpg?t=1785137321",
+        "alt": "前方高能 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_86404e1606ca67a485e20c71cddd3cffdc511c71.1920x1080.jpg?t=1785137321",
+        "alt": "前方高能 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_35c0fbe15af6816fd0d53156f0330e78a73c533d.1920x1080.jpg?t=1785137321",
+        "alt": "前方高能 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_371cb06f9f6a6bc9e5273b4d6b8168ce00f4ff34.1920x1080.jpg?t=1785137321",
+        "alt": "前方高能 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

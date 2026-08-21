@@ -1,1 +1,303 @@
-{"identity":{"original_title":"Nevergrind","developers":["Neverworks Games"],"publishers":["Neverworks Games"],"release_status":"released","release_date":"2026-07-14","tags":["角色扮演","休闲","地牢探索","第一人称","单人游戏"]},"hooks":[{"text":"连续击杀维持连击链，直接放大经验、金币与稀有掉落收益","dimension":"玩法","excerpt":"The chain combo system is a core game mechanic which boosts your hero's rewards! Completing chain combos is a great way to increase experience gained, gold find, and magic find!","url":"https://store.steampowered.com/app/948820/","label":"证据原文片段"},{"text":"每个职业从12项独特天赋中混搭，定向塑造角色优势","dimension":"玩法","excerpt":"Class Depth: Blend 12 unique talents per class to customize your hero’s strengths!","url":"https://store.steampowered.com/app/948820/","label":"证据原文片段"},{"text":"九百余独特装备与28套套装构成高密度寻宝和套装加成追求","dimension":"玩法","excerpt":"In addition to items with randomized properties, there are over 900 uniquely designed items that can be discovered. You can even find items from 28 different sets which provide passive bonuses as you equip more pieces!","url":"https://store.steampowered.com/app/948820/","label":"证据原文片段"}],"opinions":[{"text":"向玩家提供的信息不足。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Complete lack of information given to the player:","url":"https://steamcommunity.com/id/Veriok/recommended/948820/","label":"证据原文片段"}]},{"text":"缺少自动释放技能。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"什麽年代了自動釋放技能都沒有 玩笑了","url":"https://steamcommunity.com/profiles/76561198305534687/recommended/948820/","label":"证据原文片段"}]},{"text":"便利性功能不足。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Complete lack of QoL:","url":"https://steamcommunity.com/id/Veriok/recommended/948820/","label":"证据原文片段"}]},{"text":"稀有装备被独特装备全面替代，装备层级冗余。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"why have rare gear with randomized stats when uniques are just straight up better","url":"https://steamcommunity.com/id/Veriok/recommended/948820/","label":"证据原文片段"}]},{"text":"商店标注的中文支持不可信。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"语言写着有中文 不就纯诈骗","url":"https://steamcommunity.com/profiles/76561198301525733/recommended/948820/","label":"证据原文片段"}]},{"text":"大量职业缺少真正专精差异。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"A ton of classes that don't really specialize.","url":"https://steamcommunity.com/id/Veriok/recommended/948820/","label":"证据原文片段"}]},{"text":"角色成长与易操作性的组合很好。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The accessibility plus character progression focused gameplay is a really nice mix for me.","url":"https://steamcommunity.com/profiles/76561198026074229/recommended/948820/","label":"证据原文片段"}]},{"text":"战斗虽然混乱，但很有趣。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"combat is considerably more chaotic, yet fun.","url":"https://steamcommunity.com/profiles/76561198273254344/recommended/948820/","label":"证据原文片段"}]},{"text":"只用一只手操作鼠标也能轻松游玩。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"This is a chill game that can be played with just your hand on the mouse","url":"https://steamcommunity.com/profiles/76561198026074229/recommended/948820/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":2171,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10167,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":589,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":23530,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2200,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2200,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.845243100963499,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":52,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":67,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":67.272727,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["向玩家提供的信息不足。","缺少自动释放技能。","便利性功能不足。","稀有装备被独特装备全面替代，装备层级冗余。","商店标注的中文支持不可信。","大量职业缺少真正专精差异。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/515c20f0c0d52a769da1cc8b70f9c101def1604d/ss_515c20f0c0d52a769da1cc8b70f9c101def1604d.1920x1080.jpg?t=1784287808","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/515c20f0c0d52a769da1cc8b70f9c101def1604d/ss_515c20f0c0d52a769da1cc8b70f9c101def1604d.1920x1080.jpg?t=1784287808","alt":"Nevergrind 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/5f6102412c5168215ef296a184569984b296f7e3/ss_5f6102412c5168215ef296a184569984b296f7e3.1920x1080.jpg?t=1784287808","alt":"Nevergrind 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/dab816ebf5b9b7c07041e02c958e0ac3aa850f76/ss_dab816ebf5b9b7c07041e02c958e0ac3aa850f76.1920x1080.jpg?t=1784287808","alt":"Nevergrind 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/753784ea13f6cc371904a7c4c0b76e2050738a86/ss_753784ea13f6cc371904a7c4c0b76e2050738a86.1920x1080.jpg?t=1784287808","alt":"Nevergrind 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Nevergrind",
+    "developers": [
+      "Neverworks Games"
+    ],
+    "publishers": [
+      "Neverworks Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-14",
+    "tags": [
+      "角色扮演",
+      "休闲",
+      "地牢探索",
+      "第一人称",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "连续击杀维持连击链，直接放大经验、金币与稀有掉落收益",
+      "dimension": "玩法",
+      "excerpt": "The chain combo system is a core game mechanic which boosts your hero's rewards! Completing chain combos is a great way to increase experience gained, gold find, and magic find!",
+      "url": "https://store.steampowered.com/app/948820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每个职业从12项独特天赋中混搭，定向塑造角色优势",
+      "dimension": "玩法",
+      "excerpt": "Class Depth: Blend 12 unique talents per class to customize your hero’s strengths!",
+      "url": "https://store.steampowered.com/app/948820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "九百余独特装备与28套套装构成高密度寻宝和套装加成追求",
+      "dimension": "玩法",
+      "excerpt": "In addition to items with randomized properties, there are over 900 uniquely designed items that can be discovered. You can even find items from 28 different sets which provide passive bonuses as you equip more pieces!",
+      "url": "https://store.steampowered.com/app/948820/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "向玩家提供的信息不足。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Complete lack of information given to the player:",
+          "url": "https://steamcommunity.com/id/Veriok/recommended/948820/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少自动释放技能。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "什麽年代了自動釋放技能都沒有 玩笑了",
+          "url": "https://steamcommunity.com/profiles/76561198305534687/recommended/948820/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "便利性功能不足。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Complete lack of QoL:",
+          "url": "https://steamcommunity.com/id/Veriok/recommended/948820/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "稀有装备被独特装备全面替代，装备层级冗余。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "why have rare gear with randomized stats when uniques are just straight up better",
+          "url": "https://steamcommunity.com/id/Veriok/recommended/948820/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "商店标注的中文支持不可信。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "语言写着有中文 不就纯诈骗",
+          "url": "https://steamcommunity.com/profiles/76561198301525733/recommended/948820/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大量职业缺少真正专精差异。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "A ton of classes that don't really specialize.",
+          "url": "https://steamcommunity.com/id/Veriok/recommended/948820/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色成长与易操作性的组合很好。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The accessibility plus character progression focused gameplay is a really nice mix for me.",
+          "url": "https://steamcommunity.com/profiles/76561198026074229/recommended/948820/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗虽然混乱，但很有趣。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "combat is considerably more chaotic, yet fun.",
+          "url": "https://steamcommunity.com/profiles/76561198273254344/recommended/948820/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "只用一只手操作鼠标也能轻松游玩。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "This is a chill game that can be played with just your hand on the mouse",
+          "url": "https://steamcommunity.com/profiles/76561198026074229/recommended/948820/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2407,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 8949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 603,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 26189,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2407,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2407,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.163546032406851,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 58,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 67,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 67.79661,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "向玩家提供的信息不足。",
+    "缺少自动释放技能。",
+    "便利性功能不足。",
+    "稀有装备被独特装备全面替代，装备层级冗余。",
+    "商店标注的中文支持不可信。",
+    "大量职业缺少真正专精差异。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Nevergrind位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/515c20f0c0d52a769da1cc8b70f9c101def1604d/ss_515c20f0c0d52a769da1cc8b70f9c101def1604d.1920x1080.jpg?t=1784287808",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/515c20f0c0d52a769da1cc8b70f9c101def1604d/ss_515c20f0c0d52a769da1cc8b70f9c101def1604d.1920x1080.jpg?t=1784287808",
+        "alt": "Nevergrind 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/5f6102412c5168215ef296a184569984b296f7e3/ss_5f6102412c5168215ef296a184569984b296f7e3.1920x1080.jpg?t=1784287808",
+        "alt": "Nevergrind 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/dab816ebf5b9b7c07041e02c958e0ac3aa850f76/ss_dab816ebf5b9b7c07041e02c958e0ac3aa850f76.1920x1080.jpg?t=1784287808",
+        "alt": "Nevergrind 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/753784ea13f6cc371904a7c4c0b76e2050738a86/ss_753784ea13f6cc371904a7c4c0b76e2050738a86.1920x1080.jpg?t=1784287808",
+        "alt": "Nevergrind 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/7f52d77a35ac956a3ddef380b755edeffeb2f94d/ss_7f52d77a35ac956a3ddef380b755edeffeb2f94d.1920x1080.jpg?t=1784287808",
+        "alt": "Nevergrind 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/b8959c93bbbee790df30cdc3301a77b792d600a4/ss_b8959c93bbbee790df30cdc3301a77b792d600a4.1920x1080.jpg?t=1784287808",
+        "alt": "Nevergrind 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/55cda45fabb9f717d905c0977b3dcb62d8ef1d90/ss_55cda45fabb9f717d905c0977b3dcb62d8ef1d90.1920x1080.jpg?t=1784287808",
+        "alt": "Nevergrind 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948820/93ea64a99be0c5fd5abe415c9896a1a2356f3929/ss_93ea64a99be0c5fd5abe415c9896a1a2356f3929.1920x1080.jpg?t=1784287808",
+        "alt": "Nevergrind 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

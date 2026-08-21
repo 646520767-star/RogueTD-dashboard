@@ -1,1 +1,175 @@
-{"identity":{"original_title":"Antipaint","developers":["Vilius Prakapas"],"publishers":["Vilius Prakapas","Gamersky Games"],"release_status":"released","release_date":"2024-03-11","tags":["单人游戏","动作肉鸽","生存","弹幕射击","休闲"]},"hooks":[{"text":"战场就是画布、敌人就是颜料，打完一关留下的画作会成为玩家自己的收藏。","dimension":"题材","excerpt":"The battlefield is your canvas, the enemies are your paint. Literally. The art you make is yours to keep.","url":"https://store.steampowered.com/app/1418390/","label":"证据原文片段"},{"text":"厚画笔稳重缓慢，滚筒快速灵活，武器选择直接改变移动与攻击节奏。","dimension":"玩法","excerpt":"Choose from a variety of brushes and characters. From a slow and steady thick brush to a quick and nimble paint roller - we've got you covered.","url":"https://store.steampowered.com/app/1418390/","label":"证据原文片段"},{"text":"完成画作会获得桶伙伴、颜料炮塔、胡子恶作剧或机器人化等荒诞能力。","dimension":"玩法","excerpt":"Finishing a painting rewards you with versatile items. Enlist the help of a friendly painting bucket, install some paint turrets, give your enemies moustaches or become a robot.","url":"https://store.steampowered.com/app/1418390/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4592,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27960,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1019,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":26862,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4853,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4853,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.382602613738882,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":286,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.470383,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"单人游戏、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_ec206ea89b55bb98334225919d921532d8dd80b3.1920x1080.jpg?t=1776166370","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_ec206ea89b55bb98334225919d921532d8dd80b3.1920x1080.jpg?t=1776166370","alt":"Antipaint 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_f8156b0417096e12a4d1d3f02c677244b693f833.1920x1080.jpg?t=1776166370","alt":"Antipaint 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_04e82acf6f7a470be5bae6e0113290233bd59f8c.1920x1080.jpg?t=1776166370","alt":"Antipaint 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_afc8bf3692cf9dca4e5cd95651b68b792e7adfea.1920x1080.jpg?t=1776166370","alt":"Antipaint 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Antipaint",
+    "developers": [
+      "Vilius Prakapas"
+    ],
+    "publishers": [
+      "Vilius Prakapas",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-11",
+    "tags": [
+      "单人游戏",
+      "动作肉鸽",
+      "动作肉鸽",
+      "生存",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "战场就是画布、敌人就是颜料，打完一关留下的画作会成为玩家自己的收藏。",
+      "dimension": "题材",
+      "excerpt": "The battlefield is your canvas, the enemies are your paint. Literally. The art you make is yours to keep.",
+      "url": "https://store.steampowered.com/app/1418390/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "厚画笔稳重缓慢，滚筒快速灵活，武器选择直接改变移动与攻击节奏。",
+      "dimension": "玩法",
+      "excerpt": "Choose from a variety of brushes and characters. From a slow and steady thick brush to a quick and nimble paint roller - we've got you covered.",
+      "url": "https://store.steampowered.com/app/1418390/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "完成画作会获得桶伙伴、颜料炮塔、胡子恶作剧或机器人化等荒诞能力。",
+      "dimension": "玩法",
+      "excerpt": "Finishing a painting rewards you with versatile items. Enlist the help of a friendly painting bucket, install some paint turrets, give your enemies moustaches or become a robot.",
+      "url": "https://store.steampowered.com/app/1418390/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6492,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 28126,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1021,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 37259,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 6878,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 6878,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.601468075516616,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 264,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.470383,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Antipaint位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_ec206ea89b55bb98334225919d921532d8dd80b3.1920x1080.jpg?t=1776166370",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_ec206ea89b55bb98334225919d921532d8dd80b3.1920x1080.jpg?t=1776166370",
+        "alt": "Antipaint 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_f8156b0417096e12a4d1d3f02c677244b693f833.1920x1080.jpg?t=1776166370",
+        "alt": "Antipaint 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_04e82acf6f7a470be5bae6e0113290233bd59f8c.1920x1080.jpg?t=1776166370",
+        "alt": "Antipaint 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_afc8bf3692cf9dca4e5cd95651b68b792e7adfea.1920x1080.jpg?t=1776166370",
+        "alt": "Antipaint 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_164ef669118a1c1d2f86f63793e5d222f266f60e.1920x1080.jpg?t=1776166370",
+        "alt": "Antipaint 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_688f5a139cbfa3f6bb2d3f57caed644cef7e10f9.1920x1080.jpg?t=1776166370",
+        "alt": "Antipaint 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418390/ss_8c5cab1433e245773333a621d463f2cdd2b7088b.1920x1080.jpg?t=1776166370",
+        "alt": "Antipaint 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

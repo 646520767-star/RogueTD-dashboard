@@ -1,1 +1,176 @@
-{"identity":{"original_title":"我的人生","developers":["ZZ Games"],"publishers":["Gamirror Games"],"release_status":"released","release_date":"2025-03-05","tags":["肉鸽卡组构筑","卡牌游戏","独立游戏","卡组构筑","幽默"]},"hooks":[{"text":"每回合只选择一张卡，就能持续拼接出意外且不同的人生故事。","dimension":"玩法","excerpt":"In this game, you can craft a fascinating, surprising, and memorable life story with the simplest operation—just choosing one card per turn.","url":"https://store.steampowered.com/app/3393750/","label":"证据原文片段"},{"text":"年龄增长会进入不同人生阶段，同一阶段的决定可能彻底改写后续轨迹。","dimension":"故事","excerpt":"For instance, as you age, you'll need to face various [stages] of choices, where different decisions could completely alter your life's trajectory.","url":"https://store.steampowered.com/app/3393750/","label":"证据原文片段"},{"text":"徽章升级会增加人生选项，并让原有玩法发生分化或转向。","dimension":"玩法","excerpt":"When your [badges] level up, the choices and gameplay in life will become even more diverse or take a different turn.","url":"https://store.steampowered.com/app/3393750/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":49554,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":24148,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1848,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":207245,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":51491,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":51491,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.01194707314159,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":521,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":67,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":66.602687,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为66.602687%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/0a5e00b3445a9a35beb5ce4e1b04a17f1869a477/ss_0a5e00b3445a9a35beb5ce4e1b04a17f1869a477.1920x1080.jpg?t=1770173333","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/0a5e00b3445a9a35beb5ce4e1b04a17f1869a477/ss_0a5e00b3445a9a35beb5ce4e1b04a17f1869a477.1920x1080.jpg?t=1770173333","alt":"我的人生 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/ea72335125c4cb9255c3214522a1a1516efd4355/ss_ea72335125c4cb9255c3214522a1a1516efd4355.1920x1080.jpg?t=1770173333","alt":"我的人生 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/ss_56ea7aacf87a9ab1439c5fa68caefa842ac041d9.1920x1080.jpg?t=1770173333","alt":"我的人生 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/ss_d9490ec13de0e4af10d682edaf74f00af5cf1008.1920x1080.jpg?t=1770173333","alt":"我的人生 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "我的人生",
+    "developers": [
+      "ZZ Games"
+    ],
+    "publishers": [
+      "Gamirror Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-05",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡牌游戏",
+      "独立游戏",
+      "独立游戏",
+      "卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每回合只选择一张卡，就能持续拼接出意外且不同的人生故事。",
+      "dimension": "玩法",
+      "excerpt": "In this game, you can craft a fascinating, surprising, and memorable life story with the simplest operation—just choosing one card per turn.",
+      "url": "https://store.steampowered.com/app/3393750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "年龄增长会进入不同人生阶段，同一阶段的决定可能彻底改写后续轨迹。",
+      "dimension": "故事",
+      "excerpt": "For instance, as you age, you'll need to face various [stages] of choices, where different decisions could completely alter your life's trajectory.",
+      "url": "https://store.steampowered.com/app/3393750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "徽章升级会增加人生选项，并让原有玩法发生分化或转向。",
+      "dimension": "玩法",
+      "excerpt": "When your [badges] level up, the choices and gameplay in life will become even more diverse or take a different turn.",
+      "url": "https://store.steampowered.com/app/3393750/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 49845,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 24292,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1850,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 209956,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 51789,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 51789,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.043306149429306,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 494,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 66,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 66.475096,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为66.602687%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "我的人生位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/0a5e00b3445a9a35beb5ce4e1b04a17f1869a477/ss_0a5e00b3445a9a35beb5ce4e1b04a17f1869a477.1920x1080.jpg?t=1770173333",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/0a5e00b3445a9a35beb5ce4e1b04a17f1869a477/ss_0a5e00b3445a9a35beb5ce4e1b04a17f1869a477.1920x1080.jpg?t=1770173333",
+        "alt": "我的人生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/ea72335125c4cb9255c3214522a1a1516efd4355/ss_ea72335125c4cb9255c3214522a1a1516efd4355.1920x1080.jpg?t=1770173333",
+        "alt": "我的人生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/ss_56ea7aacf87a9ab1439c5fa68caefa842ac041d9.1920x1080.jpg?t=1770173333",
+        "alt": "我的人生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/ss_d9490ec13de0e4af10d682edaf74f00af5cf1008.1920x1080.jpg?t=1770173333",
+        "alt": "我的人生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/ss_7224c6795089ce682140a30be1d0fdc1345706fa.1920x1080.jpg?t=1770173333",
+        "alt": "我的人生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/137cc7b00cae21516d6e02de96d9947bfed543a9/ss_137cc7b00cae21516d6e02de96d9947bfed543a9.1920x1080.jpg?t=1770173333",
+        "alt": "我的人生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393750/ss_c71666797224816f60be38fe3c6d7ee57d29e350.1920x1080.jpg?t=1770173333",
+        "alt": "我的人生 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

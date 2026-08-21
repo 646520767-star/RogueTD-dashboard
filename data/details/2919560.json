@@ -1,1 +1,318 @@
-{"identity":{"original_title":"👑Idle Calibur：Zero💕（选王之剑：零）","developers":["绝汪"],"publishers":["绝汪","NPC Entertainment"],"release_status":"released","release_date":"2024-10-31","tags":["轻度Rogue","策略角色扮演","剧情丰富","动漫风格","类Rogue"]},"hooks":[{"text":"以桌面角色扮演为根基自由拼装多种力量，让角色构筑而非单次骰运决定结果","dimension":"玩法","excerpt":"Within the game's realm, you have the freedom to assemble an array of powers, drawing inspiration from a build system rooted in tabletop role-playing games. ・Fantasy Adventure Embark on a breathtaking fantasy odyssey, blending the allure of rogue elements with the strategic depth of tabletop role-playing adventures. success or failure hinges not merely on the roll of the dice but on the myriad abilities your character possesses. Your fate is not solely dictated by chance; rather, it is shaped by your character's prowess, allowing you to wield various abilities to alter outcomes and carve your own destiny.","url":"https://store.steampowered.com/app/2919560/","label":"证据原文片段"},{"text":"特定敌人与场景会解锁专属战斗交互，可谈判招募、断尾、反射石化或念出真名驱魔","dimension":"玩法","excerpt":"Moreover, numerous \"interactive actions\" are unlocked only when facing specific enemies or encountering particular scenarios. These interactive actions, referred to as \"combat interactions,\" include: ·Engaging in dialogue with sentient adversaries, potentially ending the conflict peacefully or even recruiting them as new allies.· ·Employing a \"tail severing\" maneuver to neutralize a foe's formidable appendage. ·Exploiting an enemy's petrifying gaze to one's advantage, potentially inducing self-petrification through mirrored reflection. ·Unveiling a demon's true name through \"knowledge,\" then utilizing \"chanting\" to vanquish or weaken it.","url":"https://store.steampowered.com/app/2919560/","label":"证据原文片段"},{"text":"除战棋外还设辩论战与军团战，分别管理反驳社交检定以及军队训练和士气","dimension":"玩法","excerpt":"The game harbors additional combat systems: · For instance, there's the nuanced \"debate warfare,\" which involves managing counterarguments and social skill checks to simulate a debate scenario. · Additionally, there's the imperative of cultivating armies and sustaining morale in the realm of \"military combat,\" necessitating ongoing attention to training and morale outside of the battlefield.","url":"https://store.steampowered.com/app/2919560/","label":"证据原文片段"}],"opinions":[{"text":"不同美术素材混杂，整体画风不统一。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"画风混杂，什么东西都往里丢，无意义","url":"https://steamcommunity.com/profiles/76561198840113117/recommended/2919560/","label":"证据原文片段"}]},{"text":"音乐音量让玩家感到吵闹。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"音乐有点吵了","url":"https://steamcommunity.com/profiles/76561198840113117/recommended/2919560/","label":"证据原文片段"}]},{"text":"本体立绘显得古旧","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"你看到的是很古早的立绘","url":"https://steamcommunity.com/profiles/76561199496444167/recommended/2919560/","label":"证据原文片段"}]},{"text":"画面被评价为赏心悦目。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"✓ 赏心悦目","url":"https://steamcommunity.com/profiles/76561198965248838/recommended/2919560/","label":"证据原文片段"}]},{"text":"军队战被认为缺乏意义。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"无意义的军队战","url":"https://steamcommunity.com/profiles/76561198840113117/recommended/2919560/","label":"证据原文片段"}]},{"text":"界面可理解性较差。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"UI comprehensibility is generally low","url":"https://steamcommunity.com/profiles/76561198020728468/recommended/2919560/","label":"证据原文片段"}]},{"text":"城镇经营没有带来乐趣。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"什么神人会从中体验到乐趣啊","url":"https://steamcommunity.com/profiles/76561198840113117/recommended/2919560/","label":"证据原文片段"}]},{"text":"系统堆叠过多，整体机制过于复杂。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"机制这么复杂的游戏，财政、治安、甚至角色职业、领域等等，加的实在是太多了","url":"https://steamcommunity.com/profiles/76561199496444167/recommended/2919560/","label":"证据原文片段"}]},{"text":"可能丢失全部存档","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"you will lose all your save data","url":"https://steamcommunity.com/profiles/76561199229804880/recommended/2919560/","label":"证据原文片段"}]},{"text":"游戏想法不错，但实际并不好玩。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"想法很好，但就是三个字，不好玩。","url":"https://steamcommunity.com/profiles/76561199496444167/recommended/2919560/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":25091,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":29232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3128,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":217886,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":27350,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":27350,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":18.552462097354827,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":500,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["不同美术素材混杂，整体画风不统一。","音乐音量让玩家感到吵闹。","本体立绘显得古旧","军队战被认为缺乏意义。","界面可理解性较差。","城镇经营没有带来乐趣。","技术/性能：可能丢失全部存档"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_da9147d6e4203c5dce11303459d0f9e5f4f81413.1920x1080.jpg?t=1767351729","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_da9147d6e4203c5dce11303459d0f9e5f4f81413.1920x1080.jpg?t=1767351729","alt":"👑选王之剑：零👑 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_66f5a6e5e52f090e37b0c1563805909b1fee7fad.1920x1080.jpg?t=1767351729","alt":"👑选王之剑：零👑 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_df20beaf3f957dbd913ba513cf6f7b78930bde59.1920x1080.jpg?t=1767351729","alt":"👑选王之剑：零👑 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_314be0983c2ef2038d6433c7152c5e3fd8e9ed91.1920x1080.jpg?t=1767351729","alt":"👑选王之剑：零👑 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "👑Idle Calibur：Zero💕（选王之剑：零）",
+    "developers": [
+      "绝汪"
+    ],
+    "publishers": [
+      "绝汪",
+      "NPC Entertainment"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-31",
+    "tags": [
+      "轻度Rogue",
+      "轻度Rogue",
+      "探索",
+      "轻度Rogue",
+      "策略角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "以桌面角色扮演为根基自由拼装多种力量，让角色构筑而非单次骰运决定结果",
+      "dimension": "玩法",
+      "excerpt": "Within the game's realm, you have the freedom to assemble an array of powers, drawing inspiration from a build system rooted in tabletop role-playing games. ・Fantasy Adventure Embark on a breathtaking fantasy odyssey, blending the allure of rogue elements with the strategic depth of tabletop role-playing adventures. success or failure hinges not merely on the roll of the dice but on the myriad abilities your character possesses. Your fate is not solely dictated by chance; rather, it is shaped by your character's prowess, allowing you to wield various abilities to alter outcomes and carve your own destiny.",
+      "url": "https://store.steampowered.com/app/2919560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "特定敌人与场景会解锁专属战斗交互，可谈判招募、断尾、反射石化或念出真名驱魔",
+      "dimension": "玩法",
+      "excerpt": "Moreover, numerous \"interactive actions\" are unlocked only when facing specific enemies or encountering particular scenarios. These interactive actions, referred to as \"combat interactions,\" include: ·Engaging in dialogue with sentient adversaries, potentially ending the conflict peacefully or even recruiting them as new allies.· ·Employing a \"tail severing\" maneuver to neutralize a foe's formidable appendage. ·Exploiting an enemy's petrifying gaze to one's advantage, potentially inducing self-petrification through mirrored reflection. ·Unveiling a demon's true name through \"knowledge,\" then utilizing \"chanting\" to vanquish or weaken it.",
+      "url": "https://store.steampowered.com/app/2919560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "除战棋外还设辩论战与军团战，分别管理反驳社交检定以及军队训练和士气",
+      "dimension": "玩法",
+      "excerpt": "The game harbors additional combat systems: · For instance, there's the nuanced \"debate warfare,\" which involves managing counterarguments and social skill checks to simulate a debate scenario. · Additionally, there's the imperative of cultivating armies and sustaining morale in the realm of \"military combat,\" necessitating ongoing attention to training and morale outside of the battlefield.",
+      "url": "https://store.steampowered.com/app/2919560/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "不同美术素材混杂，整体画风不统一。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "画风混杂，什么东西都往里丢，无意义",
+          "url": "https://steamcommunity.com/profiles/76561198840113117/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "音乐音量让玩家感到吵闹。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "音乐有点吵了",
+          "url": "https://steamcommunity.com/profiles/76561198840113117/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "本体立绘显得古旧",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "你看到的是很古早的立绘",
+          "url": "https://steamcommunity.com/profiles/76561199496444167/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "画面被评价为赏心悦目。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "✓ 赏心悦目",
+          "url": "https://steamcommunity.com/profiles/76561198965248838/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "军队战被认为缺乏意义。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "无意义的军队战",
+          "url": "https://steamcommunity.com/profiles/76561198840113117/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "界面可理解性较差。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "UI comprehensibility is generally low",
+          "url": "https://steamcommunity.com/profiles/76561198020728468/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "城镇经营没有带来乐趣。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "什么神人会从中体验到乐趣啊",
+          "url": "https://steamcommunity.com/profiles/76561198840113117/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "系统堆叠过多，整体机制过于复杂。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "机制这么复杂的游戏，财政、治安、甚至角色职业、领域等等，加的实在是太多了",
+          "url": "https://steamcommunity.com/profiles/76561199496444167/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "可能丢失全部存档",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "you will lose all your save data",
+          "url": "https://steamcommunity.com/profiles/76561199229804880/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏想法不错，但实际并不好玩。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "想法很好，但就是三个字，不好玩。",
+          "url": "https://steamcommunity.com/profiles/76561199496444167/recommended/2919560/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 25499,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 29405,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3135,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 213815,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 27790,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 27790,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 18.456536115180306,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 442,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.836327,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "不同美术素材混杂，整体画风不统一。",
+    "音乐音量让玩家感到吵闹。",
+    "本体立绘显得古旧",
+    "军队战被认为缺乏意义。",
+    "界面可理解性较差。",
+    "城镇经营没有带来乐趣。",
+    "技术/性能：可能丢失全部存档"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "👑选王之剑：零👑位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_da9147d6e4203c5dce11303459d0f9e5f4f81413.1920x1080.jpg?t=1767351729",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_da9147d6e4203c5dce11303459d0f9e5f4f81413.1920x1080.jpg?t=1767351729",
+        "alt": "👑选王之剑：零👑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_66f5a6e5e52f090e37b0c1563805909b1fee7fad.1920x1080.jpg?t=1767351729",
+        "alt": "👑选王之剑：零👑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_df20beaf3f957dbd913ba513cf6f7b78930bde59.1920x1080.jpg?t=1767351729",
+        "alt": "👑选王之剑：零👑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_314be0983c2ef2038d6433c7152c5e3fd8e9ed91.1920x1080.jpg?t=1767351729",
+        "alt": "👑选王之剑：零👑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_25e41188619e30b8fa76e5a8182ee1ddac879e72.1920x1080.jpg?t=1767351729",
+        "alt": "👑选王之剑：零👑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_fab717e17f2fdde7afe2aa38b8de1ec437e48bf6.1920x1080.jpg?t=1767351729",
+        "alt": "👑选王之剑：零👑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_6f7d6059005928a69d763f7590d392efcaa8148f.1920x1080.jpg?t=1767351729",
+        "alt": "👑选王之剑：零👑 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919560/ss_2f11c7898fdc670b8217635201361d0e08d4be90.1920x1080.jpg?t=1767351729",
+        "alt": "👑选王之剑：零👑 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

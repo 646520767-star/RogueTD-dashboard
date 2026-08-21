@@ -1,1 +1,178 @@
-{"identity":{"original_title":"DAICE","developers":["Aeterna Ludi"],"publishers":["GrabTheGames"],"release_status":"released","release_date":"2026-07-16","tags":["策略","回合制策略","回合制战斗","太空","战术"]},"hooks":[{"text":"把不同骰子装入武器、防御与燃料系统来驱动回合战斗","dimension":"玩法","excerpt":"Use different types of dice to load your weapons and unleash attacks. Roll dice to protect against incoming missiles. Gain fuel with dice to power your movement and maneuver your weapons.","url":"https://store.steampowered.com/app/4422430/","label":"证据原文片段"},{"text":"规划库存格与相邻芯片增益，组合武器、骰子和升级协同","dimension":"玩法","excerpt":"Strategically plan your inventory to optimize your arsenal. Expand inventory size to carry more weapons, dice, and upgrades. Use chips to buff adjacent AI Cores and enhance your combat efficiency.","url":"https://store.steampowered.com/app/4422430/","label":"证据原文片段"},{"text":"为每件武器积累充能，释放独有的超载毁灭效果","dimension":"玩法","excerpt":"Discover each weapon’s unique Overcharge ability. Build up charges to unlock devastating effects.","url":"https://store.steampowered.com/app/4422430/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":576,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":7626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1079,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6993,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":623,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":623,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.853566714446842,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":37,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.871795,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、回合制策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e9375349503695130c14eec71726d6732b9baa7c/ss_e9375349503695130c14eec71726d6732b9baa7c.1920x1080.jpg?t=1784217518","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e9375349503695130c14eec71726d6732b9baa7c/ss_e9375349503695130c14eec71726d6732b9baa7c.1920x1080.jpg?t=1784217518","alt":"DAICE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/d34ae8692e127c7fdbdce02490e3db32127fe1f0/ss_d34ae8692e127c7fdbdce02490e3db32127fe1f0.1920x1080.jpg?t=1784217518","alt":"DAICE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/7aa46208e655a6fdb938598a499b9e8a6c60bd78/ss_7aa46208e655a6fdb938598a499b9e8a6c60bd78.1920x1080.jpg?t=1784217518","alt":"DAICE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e7caf11bb5647cc17cf74fda563ee03ec028effa/ss_e7caf11bb5647cc17cf74fda563ee03ec028effa.1920x1080.jpg?t=1784217518","alt":"DAICE 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "DAICE",
+    "developers": [
+      "Aeterna Ludi"
+    ],
+    "publishers": [
+      "GrabTheGames"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-16",
+    "tags": [
+      "策略",
+      "回合制策略",
+      "回合制战斗",
+      "太空",
+      "战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把不同骰子装入武器、防御与燃料系统来驱动回合战斗",
+      "dimension": "玩法",
+      "excerpt": "Use different types of dice to load your weapons and unleash attacks. Roll dice to protect against incoming missiles. Gain fuel with dice to power your movement and maneuver your weapons.",
+      "url": "https://store.steampowered.com/app/4422430/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "规划库存格与相邻芯片增益，组合武器、骰子和升级协同",
+      "dimension": "玩法",
+      "excerpt": "Strategically plan your inventory to optimize your arsenal. Expand inventory size to carry more weapons, dice, and upgrades. Use chips to buff adjacent AI Cores and enhance your combat efficiency.",
+      "url": "https://store.steampowered.com/app/4422430/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "为每件武器积累充能，释放独有的超载毁灭效果",
+      "dimension": "玩法",
+      "excerpt": "Discover each weapon’s unique Overcharge ability. Build up charges to unlock devastating effects.",
+      "url": "https://store.steampowered.com/app/4422430/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 781,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 7671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1092,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 9533,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 916,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 916,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.187830159082393,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 41,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.230769,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "DAICE位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e9375349503695130c14eec71726d6732b9baa7c/ss_e9375349503695130c14eec71726d6732b9baa7c.1920x1080.jpg?t=1784217518",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e9375349503695130c14eec71726d6732b9baa7c/ss_e9375349503695130c14eec71726d6732b9baa7c.1920x1080.jpg?t=1785234731",
+        "alt": "DAICE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/d34ae8692e127c7fdbdce02490e3db32127fe1f0/ss_d34ae8692e127c7fdbdce02490e3db32127fe1f0.1920x1080.jpg?t=1785234731",
+        "alt": "DAICE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/7aa46208e655a6fdb938598a499b9e8a6c60bd78/ss_7aa46208e655a6fdb938598a499b9e8a6c60bd78.1920x1080.jpg?t=1785234731",
+        "alt": "DAICE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e7caf11bb5647cc17cf74fda563ee03ec028effa/ss_e7caf11bb5647cc17cf74fda563ee03ec028effa.1920x1080.jpg?t=1785234731",
+        "alt": "DAICE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/110a470d1ed4291e1f72623c2d31fa70d1eeeafc/ss_110a470d1ed4291e1f72623c2d31fa70d1eeeafc.1920x1080.jpg?t=1785234731",
+        "alt": "DAICE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/6f08a5852ed6eaa863952c52ecb20cd00c96af2d/ss_6f08a5852ed6eaa863952c52ecb20cd00c96af2d.1920x1080.jpg?t=1785234731",
+        "alt": "DAICE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/61571619027d0bc41a0b1152888bb2783eb4f27c/ss_61571619027d0bc41a0b1152888bb2783eb4f27c.1920x1080.jpg?t=1785234731",
+        "alt": "DAICE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/b9387d72ccb9a1a9b29cf7ec8121c0d8dffc0f66/ss_b9387d72ccb9a1a9b29cf7ec8121c0d8dffc0f66.1920x1080.jpg?t=1785234731",
+        "alt": "DAICE 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

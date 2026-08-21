@@ -1,1 +1,180 @@
-{"identity":{"original_title":"VOIDRAVE","developers":["Erak_Dev"],"publishers":["AenyeGames"],"release_status":"released","release_date":"2026-07-13","tags":["清版射击","动作","弹幕射击","街机","轻度Rogue"]},"hooks":[{"text":"在100波、20名Boss的弹幕战中逐步发现自己并非穿越虚空，而是身处其体内","dimension":"故事","excerpt":"100 waves, 20 bosses, and the slow realization that the sector you're purging isn't a sector. You are not crossing the void. You are inside it.","url":"https://store.steampowered.com/app/4840190/","label":"证据原文片段"},{"text":"每十波三选一规则突变，以吸血弹、弹射、连锁闪电或引力井组合破局构筑","dimension":"玩法","excerpt":"Every 10 waves you pick 1 of 3 mutations that bend the rules: vampiric rounds, ricochet, chain lightning, gravity wells. No two runs build the same. Find a synergy that breaks the game and ride it to wave 100.","url":"https://store.steampowered.com/app/4840190/","label":"证据原文片段"},{"text":"全球玩家共享同一世界Boss血池，个人伤害共同推进并面对狂暴阶段","dimension":"玩法","excerpt":"WORLD BOSS - one giant boss, one health pool shared by every player in the world. Your damage counts. It has enrage phases.","url":"https://store.steampowered.com/app/4840190/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":92,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3924,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":327,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":391,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":167,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":167,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.74288009228629,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":11,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"],"actions":[{"label":"原型验证","target":"清版射击、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/ea5146997450bd30129e7147084947b18ba57be8/ss_ea5146997450bd30129e7147084947b18ba57be8.1920x1080.jpg?t=1784683970","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/ea5146997450bd30129e7147084947b18ba57be8/ss_ea5146997450bd30129e7147084947b18ba57be8.1920x1080.jpg?t=1784683970","alt":"VOIDRAVE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/19b3e2d5ee4882faee24c033d0be46bc3212ed81/ss_19b3e2d5ee4882faee24c033d0be46bc3212ed81.1920x1080.jpg?t=1784683970","alt":"VOIDRAVE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/114f852ee9d8072454458db70a918a88a4869750/ss_114f852ee9d8072454458db70a918a88a4869750.1920x1080.jpg?t=1784683970","alt":"VOIDRAVE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/40ddb5015a9add7f06225ba7a32cc7b90f107fd5/ss_40ddb5015a9add7f06225ba7a32cc7b90f107fd5.1920x1080.jpg?t=1784683970","alt":"VOIDRAVE 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "VOIDRAVE",
+    "developers": [
+      "Erak_Dev"
+    ],
+    "publishers": [
+      "AenyeGames"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-13",
+    "tags": [
+      "清版射击",
+      "动作",
+      "弹幕射击",
+      "街机",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "在100波、20名Boss的弹幕战中逐步发现自己并非穿越虚空，而是身处其体内",
+      "dimension": "故事",
+      "excerpt": "100 waves, 20 bosses, and the slow realization that the sector you're purging isn't a sector. You are not crossing the void. You are inside it.",
+      "url": "https://store.steampowered.com/app/4840190/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每十波三选一规则突变，以吸血弹、弹射、连锁闪电或引力井组合破局构筑",
+      "dimension": "玩法",
+      "excerpt": "Every 10 waves you pick 1 of 3 mutations that bend the rules: vampiric rounds, ricochet, chain lightning, gravity wells. No two runs build the same. Find a synergy that breaks the game and ride it to wave 100.",
+      "url": "https://store.steampowered.com/app/4840190/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "全球玩家共享同一世界Boss血池，个人伤害共同推进并面对狂暴阶段",
+      "dimension": "玩法",
+      "excerpt": "WORLD BOSS - one giant boss, one health pool shared by every player in the world. Your damage counts. It has enrage phases.",
+      "url": "https://store.steampowered.com/app/4840190/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 162,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 4212,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 351,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 687,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 355,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 355,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.6402108816800054,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 4,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "VOIDRAVE位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/ea5146997450bd30129e7147084947b18ba57be8/ss_ea5146997450bd30129e7147084947b18ba57be8.1920x1080.jpg?t=1784683970",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/babcec628ee3e7bb1a5dd6ae5a0c9585c1c7d10e/ss_babcec628ee3e7bb1a5dd6ae5a0c9585c1c7d10e.1920x1080.jpg?t=1786535208",
+        "alt": "VOIDRAVE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/f0d8df799b21b57c3022d77dca29ec3fddc0cfd4/ss_f0d8df799b21b57c3022d77dca29ec3fddc0cfd4.1920x1080.jpg?t=1786535208",
+        "alt": "VOIDRAVE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/48ad0a8d99a91bbff229d4635969dd2fe17699ec/ss_48ad0a8d99a91bbff229d4635969dd2fe17699ec.1920x1080.jpg?t=1786535208",
+        "alt": "VOIDRAVE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/1610ee66e697b7f54ba78e241e573b05d6f42e4a/ss_1610ee66e697b7f54ba78e241e573b05d6f42e4a.1920x1080.jpg?t=1786535208",
+        "alt": "VOIDRAVE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/5c9294690b287c067bddf5b1c7bc710cca908579/ss_5c9294690b287c067bddf5b1c7bc710cca908579.1920x1080.jpg?t=1786535208",
+        "alt": "VOIDRAVE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/29117da52d48e53eff31e71cb7c4bdd680b1d156/ss_29117da52d48e53eff31e71cb7c4bdd680b1d156.1920x1080.jpg?t=1786535208",
+        "alt": "VOIDRAVE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/5a2eada246c9ce7015f5f31e56ea6dee8da0ded1/ss_5a2eada246c9ce7015f5f31e56ea6dee8da0ded1.1920x1080.jpg?t=1786535208",
+        "alt": "VOIDRAVE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/2a71ce0f636abd97e8ca2f862e93251552f7a6d9/ss_2a71ce0f636abd97e8ca2f862e93251552f7a6d9.1920x1080.jpg?t=1786535208",
+        "alt": "VOIDRAVE 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

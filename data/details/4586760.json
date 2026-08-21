@@ -1,1 +1,276 @@
-{"identity":{"original_title":"Sphere TD","developers":["Standard Issue Games"],"publishers":["Standard Issue Games"],"release_status":"early_access","release_date":"2026-06-24","tags":["塔防","解谜","制作","高难度","轻度Rogue"]},"hooks":[{"text":"所有防御塔都必须从零搭建，系统不提供任何预制塔方案","dimension":"玩法","excerpt":"You will need to build EVERY tower. No presets.","url":"https://store.steampowered.com/app/4586760/","label":"证据原文片段"},{"text":"弹道模组可分裂、叠加、反弹、连锁与倍增，把单塔扩展成百万级组合空间","dimension":"玩法","excerpt":"Build your towers and mod your projectiles — split it, add it, bounce it, chain it, multiply it! A true 1 tower = 1,000,000+ builds.","url":"https://store.steampowered.com/app/4586760/","label":"证据原文片段"},{"text":"三十三种模组各自拥有阶级、MK升级、B面功能与三项天赋，并继续进入高级制作和长期研究","dimension":"玩法","excerpt":"33 mods, each with tiers, MK upgrades, a B-Side function, and 3 unique perks - Research, advanced mod crafting, and long-term progression.","url":"https://store.steampowered.com/app/4586760/","label":"证据原文片段"}],"opinions":[{"text":"菜单过多会打断游戏流程","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"its got way too many menus which break the flow of the game","url":"https://www.youtube.com/shorts/E1Falz0tL_0?feature=share","label":"证据原文片段"}]},{"text":"成长过程略显重复刷取","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"is a bit grindy","url":"https://steamcommunity.com/profiles/76561198286224276/recommended/4586760/","label":"证据原文片段"}]},{"text":"缺少整塔配置的保存与载入，使模块操作很麻烦","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"目前缺少以整个塔为单位的配置存储/载入，使得这个操作非常麻烦","url":"https://steamcommunity.com/profiles/76561198070181269/recommended/4586760/","label":"证据原文片段"}]},{"text":"需要自行摸索大量机制","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Sorta got to figure out a lot on your own","url":"https://steamcommunity.com/id/McWaffle/recommended/4586760/","label":"证据原文片段"}]},{"text":"能够构筑超强配置后放置运行的组合很独特","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"A unique combination of games is nice for people who want to build something OP and then just let it play.","url":"https://steamcommunity.com/profiles/76561198286224276/recommended/4586760/","label":"证据原文片段"}]},{"text":"成长系统深且自定义空间近乎无限","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"deep progression and near infinite customization","url":"https://steamcommunity.com/id/citrus277/recommended/4586760/","label":"证据原文片段"}]},{"text":"塔防体验获得玩家极高评价","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Literally the best TD that i have ever played","url":"https://steamcommunity.com/id/G5ars/recommended/4586760/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":144,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":163,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1641,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":170,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":170,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":18.06606920044162,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":9,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["菜单过多会打断游戏流程","成长过程略显重复刷取","缺少整塔配置的保存与载入，使模块操作很麻烦","需要自行摸索大量机制","截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/a19c8e91dec4613090eaeda9d6346ade6a446d72/ss_a19c8e91dec4613090eaeda9d6346ade6a446d72.1920x1080.jpg?t=1784113162","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/a19c8e91dec4613090eaeda9d6346ade6a446d72/ss_a19c8e91dec4613090eaeda9d6346ade6a446d72.1920x1080.jpg?t=1784113162","alt":"Sphere TD 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/c59f812e3f1d74e777c986db06daf3e37cd50bb2/ss_c59f812e3f1d74e777c986db06daf3e37cd50bb2.1920x1080.jpg?t=1784113162","alt":"Sphere TD 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/23f1aa18a08a3ed2129a02722f33825970e0941c/ss_23f1aa18a08a3ed2129a02722f33825970e0941c.1920x1080.jpg?t=1784113162","alt":"Sphere TD 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/49bd9202a8831b23681ba3aa34c2f1ebe6c8c8c9/ss_49bd9202a8831b23681ba3aa34c2f1ebe6c8c8c9.1920x1080.jpg?t=1784113162","alt":"Sphere TD 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Sphere TD",
+    "developers": [
+      "Standard Issue Games"
+    ],
+    "publishers": [
+      "Standard Issue Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-24",
+    "tags": [
+      "塔防",
+      "解谜",
+      "制作",
+      "高难度",
+      "休闲"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "所有防御塔都必须从零搭建，系统不提供任何预制塔方案",
+      "dimension": "玩法",
+      "excerpt": "You will need to build EVERY tower. No presets.",
+      "url": "https://store.steampowered.com/app/4586760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "弹道模组可分裂、叠加、反弹、连锁与倍增，把单塔扩展成百万级组合空间",
+      "dimension": "玩法",
+      "excerpt": "Build your towers and mod your projectiles — split it, add it, bounce it, chain it, multiply it! A true 1 tower = 1,000,000+ builds.",
+      "url": "https://store.steampowered.com/app/4586760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三十三种模组各自拥有阶级、MK升级、B面功能与三项天赋，并继续进入高级制作和长期研究",
+      "dimension": "玩法",
+      "excerpt": "33 mods, each with tiers, MK upgrades, a B-Side function, and 3 unique perks - Research, advanced mod crafting, and long-term progression.",
+      "url": "https://store.steampowered.com/app/4586760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "菜单过多会打断游戏流程",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "its got way too many menus which break the flow of the game",
+          "url": "https://www.youtube.com/shorts/E1Falz0tL_0?feature=share",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成长过程略显重复刷取",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "is a bit grindy",
+          "url": "https://steamcommunity.com/profiles/76561198286224276/recommended/4586760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少整塔配置的保存与载入，使模块操作很麻烦",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "目前缺少以整个塔为单位的配置存储/载入，使得这个操作非常麻烦",
+          "url": "https://steamcommunity.com/profiles/76561198070181269/recommended/4586760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "需要自行摸索大量机制",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Sorta got to figure out a lot on your own",
+          "url": "https://steamcommunity.com/id/McWaffle/recommended/4586760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "能够构筑超强配置后放置运行的组合很独特",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "A unique combination of games is nice for people who want to build something OP and then just let it play.",
+          "url": "https://steamcommunity.com/profiles/76561198286224276/recommended/4586760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成长系统深且自定义空间近乎无限",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "deep progression and near infinite customization",
+          "url": "https://steamcommunity.com/id/citrus277/recommended/4586760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "塔防体验获得玩家极高评价",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Literally the best TD that i have ever played",
+          "url": "https://steamcommunity.com/id/G5ars/recommended/4586760/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 237,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 162,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2773,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 316,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 316,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 24.39730850333948,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 9,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "菜单过多会打断游戏流程",
+    "成长过程略显重复刷取",
+    "缺少整塔配置的保存与载入，使模块操作很麻烦",
+    "需要自行摸索大量机制",
+    "截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Sphere TD位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/a19c8e91dec4613090eaeda9d6346ade6a446d72/ss_a19c8e91dec4613090eaeda9d6346ade6a446d72.1920x1080.jpg?t=1784113162",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/a19c8e91dec4613090eaeda9d6346ade6a446d72/ss_a19c8e91dec4613090eaeda9d6346ade6a446d72.1920x1080.jpg?t=1784113162",
+        "alt": "Sphere TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/c59f812e3f1d74e777c986db06daf3e37cd50bb2/ss_c59f812e3f1d74e777c986db06daf3e37cd50bb2.1920x1080.jpg?t=1784113162",
+        "alt": "Sphere TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/23f1aa18a08a3ed2129a02722f33825970e0941c/ss_23f1aa18a08a3ed2129a02722f33825970e0941c.1920x1080.jpg?t=1784113162",
+        "alt": "Sphere TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/49bd9202a8831b23681ba3aa34c2f1ebe6c8c8c9/ss_49bd9202a8831b23681ba3aa34c2f1ebe6c8c8c9.1920x1080.jpg?t=1784113162",
+        "alt": "Sphere TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/24d25ac5ee65abac467be07b41e4d163010017ca/ss_24d25ac5ee65abac467be07b41e4d163010017ca.1920x1080.jpg?t=1784113162",
+        "alt": "Sphere TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/9e7186491799b367d44492eba8e7f5f4118ba757/ss_9e7186491799b367d44492eba8e7f5f4118ba757.1920x1080.jpg?t=1784113162",
+        "alt": "Sphere TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/0e67addb5284c10b9a571448d13d037384002c9a/ss_0e67addb5284c10b9a571448d13d037384002c9a.1920x1080.jpg?t=1784113162",
+        "alt": "Sphere TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586760/58eb94e25258266135cff4a8f360c3d08c931bac/ss_58eb94e25258266135cff4a8f360c3d08c931bac.1920x1080.jpg?t=1784113162",
+        "alt": "Sphere TD 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

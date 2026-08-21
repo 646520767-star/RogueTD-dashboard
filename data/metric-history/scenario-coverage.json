@@ -1,0 +1,22 @@
+{
+  "baseline_only": {
+    "availability": "available",
+    "reason": null
+  },
+  "two_point_change": {
+    "availability": "available",
+    "reason": null
+  },
+  "multi_period_trend": {
+    "availability": "available",
+    "reason": null
+  },
+  "definition_change": {
+    "availability": "available",
+    "reason": null
+  },
+  "missing_gap": {
+    "availability": "available",
+    "reason": null
+  }
+}

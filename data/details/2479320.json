@@ -1,1 +1,317 @@
-{"identity":{"original_title":"Pesticide Not Required","developers":["Jampacked Games"],"publishers":["Jampacked Games","Gamersky Games"],"release_status":"released","release_date":"2024-03-18","tags":["动作肉鸽","弹幕射击","轻度Rogue","清版射击","动作角色扮演"]},"hooks":[{"text":"40余项属性与角色专属特质共同塑造每轮割草构筑","dimension":"玩法","excerpt":"Create Overpowered Builds You are the bullet hell! Grow an arsenal of ridiculous weapons and craft your own unique build with a combination of 40+ stats. Additionally, each character has their own unique traits that keep runs fresh.","url":"https://store.steampowered.com/app/2479320/","label":"证据原文片段"},{"text":"种田、钓鱼和采矿同时产出金币与经验，扩建地块可强化三类生产","dimension":"玩法","excerpt":"Farm, Fish, and Mine Earn vital gold and experience from growing crops, catching fish, and mining. Expand your plot to harvest huge quantities of crops and build carefully to enhance your farming, fishing, and mining capabilities.","url":"https://store.steampowered.com/app/2479320/","label":"证据原文片段"},{"text":"招募宠物自动经营农场、捡取战利品并直接击杀敌人","dimension":"玩法","excerpt":"Automate Your Farm With Pets Recruit friendly pets that will enhance your farm, collect loot, and kill enemies.","url":"https://store.steampowered.com/app/2479320/","label":"证据原文片段"}],"opinions":[{"text":"敌人视觉混成难辨的一团。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the enemies all blend into an insipid clump of nothingness","url":"https://steamcommunity.com/id/magerama/recommended/2479320/","label":"证据原文片段"}]},{"text":"相关活动重复且很快令人厌倦","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it's all the same so it gets old fast.","url":"https://steamcommunity.com/id/magerama/recommended/2479320/","label":"证据原文片段"}]},{"text":"需要的内容经常不出现","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"缺啥啥不来","url":"https://steamcommunity.com/profiles/76561198221249724/recommended/2479320/","label":"证据原文片段"}]},{"text":"角色打法趋同，难度差异主要只是数值变化。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"虽然角色多，但是打法千篇一律，难度区别也只是怪物血量伤害的区别","url":"https://steamcommunity.com/profiles/76561198099030486/recommended/2479320/","label":"证据原文片段"}]},{"text":"角色数量多但多数仅由属性差异构成。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"角色虽然多但是都是硬凑属性出的","url":"https://steamcommunity.com/id/1923078701/recommended/2479320/","label":"证据原文片段"}]},{"text":"经营系统把原本简单的运营步骤复杂化","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"只是把其他游戏里简单的运营步骤复杂化了","url":"https://steamcommunity.com/profiles/76561198099030486/recommended/2479320/","label":"证据原文片段"}]},{"text":"大多数升级附带负面效果，削弱爽感。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"升级有负面 不够爽","url":"https://steamcommunity.com/profiles/76561198221249724/recommended/2479320/","label":"证据原文片段"}]},{"text":"武器效果和伤害数字不够明显。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Most of the weapon effects and projectiles are barely noticeable, so are the damage numbers.","url":"https://steamcommunity.com/id/magerama/recommended/2479320/","label":"证据原文片段"}]},{"text":"清理虫群缺乏冲击与满足感。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Mowing the hordes doesn't feel satisfying","url":"https://steamcommunity.com/id/magerama/recommended/2479320/","label":"证据原文片段"}]},{"text":"整体休闲且具有良性成瘾感。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"it feels really casual and addictive in a good way.","url":"https://steamcommunity.com/profiles/76561199218109155/recommended/2479320/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":45592,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":61005,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3219,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":244616,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":50341,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":50341,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.289170136431236,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":935,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.023479,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["敌人视觉混成难辨的一团。","相关活动重复且很快令人厌倦","需要的内容经常不出现","角色打法趋同，难度差异主要只是数值变化。","角色数量多但多数仅由属性差异构成。","经营系统把原本简单的运营步骤复杂化"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_e4a71145f1c8d3a1981df1e847cb328837877df7.1920x1080.jpg?t=1780936646","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_e4a71145f1c8d3a1981df1e847cb328837877df7.1920x1080.jpg?t=1780936646","alt":"青蛙农场：幸存者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_00daaa43c849c3d8cdebbccaab9a4f454560452c.1920x1080.jpg?t=1780936646","alt":"青蛙农场：幸存者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_93a9511a31a929eeb6f6d855bf053bafa788008a.1920x1080.jpg?t=1780936646","alt":"青蛙农场：幸存者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_c671fb317ce05047538a1e6c8f1297d3d8bcd38e.1920x1080.jpg?t=1780936646","alt":"青蛙农场：幸存者 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pesticide Not Required",
+    "developers": [
+      "Jampacked Games"
+    ],
+    "publishers": [
+      "Jampacked Games",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-18",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "轻度Rogue",
+      "清版射击",
+      "动作角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "40余项属性与角色专属特质共同塑造每轮割草构筑",
+      "dimension": "玩法",
+      "excerpt": "Create Overpowered Builds You are the bullet hell! Grow an arsenal of ridiculous weapons and craft your own unique build with a combination of 40+ stats. Additionally, each character has their own unique traits that keep runs fresh.",
+      "url": "https://store.steampowered.com/app/2479320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "种田、钓鱼和采矿同时产出金币与经验，扩建地块可强化三类生产",
+      "dimension": "玩法",
+      "excerpt": "Farm, Fish, and Mine Earn vital gold and experience from growing crops, catching fish, and mining. Expand your plot to harvest huge quantities of crops and build carefully to enhance your farming, fishing, and mining capabilities.",
+      "url": "https://store.steampowered.com/app/2479320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "招募宠物自动经营农场、捡取战利品并直接击杀敌人",
+      "dimension": "玩法",
+      "excerpt": "Automate Your Farm With Pets Recruit friendly pets that will enhance your farm, collect loot, and kill enemies.",
+      "url": "https://store.steampowered.com/app/2479320/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "敌人视觉混成难辨的一团。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the enemies all blend into an insipid clump of nothingness",
+          "url": "https://steamcommunity.com/id/magerama/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "相关活动重复且很快令人厌倦",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it's all the same so it gets old fast.",
+          "url": "https://steamcommunity.com/id/magerama/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "需要的内容经常不出现",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "缺啥啥不来",
+          "url": "https://steamcommunity.com/profiles/76561198221249724/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色打法趋同，难度差异主要只是数值变化。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "虽然角色多，但是打法千篇一律，难度区别也只是怪物血量伤害的区别",
+          "url": "https://steamcommunity.com/profiles/76561198099030486/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色数量多但多数仅由属性差异构成。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "角色虽然多但是都是硬凑属性出的",
+          "url": "https://steamcommunity.com/id/1923078701/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "经营系统把原本简单的运营步骤复杂化",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "只是把其他游戏里简单的运营步骤复杂化了",
+          "url": "https://steamcommunity.com/profiles/76561198099030486/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大多数升级附带负面效果，削弱爽感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "升级有负面 不够爽",
+          "url": "https://steamcommunity.com/profiles/76561198221249724/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器效果和伤害数字不够明显。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Most of the weapon effects and projectiles are barely noticeable, so are the damage numbers.",
+          "url": "https://steamcommunity.com/id/magerama/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "清理虫群缺乏冲击与满足感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Mowing the hordes doesn't feel satisfying",
+          "url": "https://steamcommunity.com/id/magerama/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体休闲且具有良性成瘾感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it feels really casual and addictive in a good way.",
+          "url": "https://steamcommunity.com/profiles/76561199218109155/recommended/2479320/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 47071,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 60089,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3218,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 247250,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 52216,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 52216,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.274148712373193,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 812,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.080338,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "敌人视觉混成难辨的一团。",
+    "相关活动重复且很快令人厌倦",
+    "需要的内容经常不出现",
+    "角色打法趋同，难度差异主要只是数值变化。",
+    "角色数量多但多数仅由属性差异构成。",
+    "经营系统把原本简单的运营步骤复杂化"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "青蛙农场：幸存者位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_e4a71145f1c8d3a1981df1e847cb328837877df7.1920x1080.jpg?t=1780936646",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_e4a71145f1c8d3a1981df1e847cb328837877df7.1920x1080.jpg?t=1780936646",
+        "alt": "青蛙农场：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_00daaa43c849c3d8cdebbccaab9a4f454560452c.1920x1080.jpg?t=1780936646",
+        "alt": "青蛙农场：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_93a9511a31a929eeb6f6d855bf053bafa788008a.1920x1080.jpg?t=1780936646",
+        "alt": "青蛙农场：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_c671fb317ce05047538a1e6c8f1297d3d8bcd38e.1920x1080.jpg?t=1780936646",
+        "alt": "青蛙农场：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_23e8a37dfe2ac52b8190fb1fd4d1089593c04fb8.1920x1080.jpg?t=1780936646",
+        "alt": "青蛙农场：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_7e2b1db4a7e63adccb380d383add715c95275901.1920x1080.jpg?t=1780936646",
+        "alt": "青蛙农场：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_63fc3fc182424bfe2166174424766cf0731563cf.1920x1080.jpg?t=1780936646",
+        "alt": "青蛙农场：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479320/ss_e232ba4e70b273f28a224398d0670edbc41e2651.1920x1080.jpg?t=1780936646",
+        "alt": "青蛙农场：幸存者 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

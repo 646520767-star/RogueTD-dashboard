@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Vellum","developers":["Alvios Games"],"publishers":["Alvios, Inc."],"release_status":"released","release_date":"2025-05-02","tags":["在线合作","动作肉鸽","奇幻","魔法","三维画面"]},"hooks":[{"text":"一至四人参与的30分钟内快速书页冒险","dimension":"玩法","excerpt":"Swift Tales : Approachable, under 30-minute roguelike runs crafted for quick gameplay sessions for 1-4 players.","url":"https://store.steampowered.com/app/917950/","label":"证据原文片段"},{"text":"六色职业、300种能力与20多法术共同构筑","dimension":"玩法","excerpt":"Signature Inks : Infuse your spells with one of 6 colorful classes , complete with their own unique upgrades and rewarding challenges! Scrolls of Power : Tear through enemies with over 300 powers for you and your team. All powers can be build-makers, no filler. Shaping Your Spellbook : Wield and combine an imaginative roster of over 20 spells - conjure Sewing Needles, hurl Anchors, sling Playing Cards - then enhance them with limit-breaking augments!","url":"https://store.steampowered.com/app/917950/","label":"证据原文片段"},{"text":"玩家亲自选择百种效果来塑造敌人成长","dimension":"玩法","excerpt":"Torn Pages : With over 100 enemy upgrades and effects to choose from, only you will decide how your foes evolve throughout the course of battle.","url":"https://store.steampowered.com/app/917950/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":110235,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":217326,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":13648,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1630663,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":119735,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":119735,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.704475115832409,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1438,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.132036,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"在线合作、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/cd94d4791e0019240850628c220409b9ab585488/ss_cd94d4791e0019240850628c220409b9ab585488.1920x1080.jpg?t=1780616152","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/cd94d4791e0019240850628c220409b9ab585488/ss_cd94d4791e0019240850628c220409b9ab585488.1920x1080.jpg?t=1780616152","alt":"Vellum 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/ss_b60d906052f9467c051cdea7c5bfdf3ad90f608f.1920x1080.jpg?t=1780616152","alt":"Vellum 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/ss_40b4447cfbd27c8486f4ca1f0afb405010f26f6f.1920x1080.jpg?t=1780616152","alt":"Vellum 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/ss_a068e123de456804828bd04ed7b5e7836c5aabb7.1920x1080.jpg?t=1780616152","alt":"Vellum 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Vellum",
+    "developers": [
+      "Alvios Games"
+    ],
+    "publishers": [
+      "Alvios, Inc."
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-02",
+    "tags": [
+      "在线合作",
+      "动作肉鸽",
+      "轻度Rogue",
+      "奇幻",
+      "魔法"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "一至四人参与的30分钟内快速书页冒险",
+      "dimension": "玩法",
+      "excerpt": "Swift Tales : Approachable, under 30-minute roguelike runs crafted for quick gameplay sessions for 1-4 players.",
+      "url": "https://store.steampowered.com/app/917950/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "六色职业、300种能力与20多法术共同构筑",
+      "dimension": "玩法",
+      "excerpt": "Signature Inks : Infuse your spells with one of 6 colorful classes , complete with their own unique upgrades and rewarding challenges! Scrolls of Power : Tear through enemies with over 300 powers for you and your team. All powers can be build-makers, no filler. Shaping Your Spellbook : Wield and combine an imaginative roster of over 20 spells - conjure Sewing Needles, hurl Anchors, sling Playing Cards - then enhance them with limit-breaking augments!",
+      "url": "https://store.steampowered.com/app/917950/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "玩家亲自选择百种效果来塑造敌人成长",
+      "dimension": "玩法",
+      "excerpt": "Torn Pages : With over 100 enemy upgrades and effects to choose from, only you will decide how your foes evolve throughout the course of battle.",
+      "url": "https://store.steampowered.com/app/917950/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 111787,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 217336,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 13651,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1655781,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 121392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 121392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.80739441170796,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1279,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.152566,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Vellum位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/cd94d4791e0019240850628c220409b9ab585488/ss_cd94d4791e0019240850628c220409b9ab585488.1920x1080.jpg?t=1780616152",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/cd94d4791e0019240850628c220409b9ab585488/ss_cd94d4791e0019240850628c220409b9ab585488.1920x1080.jpg?t=1780616152",
+        "alt": "Vellum 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/ss_b60d906052f9467c051cdea7c5bfdf3ad90f608f.1920x1080.jpg?t=1780616152",
+        "alt": "Vellum 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/ss_40b4447cfbd27c8486f4ca1f0afb405010f26f6f.1920x1080.jpg?t=1780616152",
+        "alt": "Vellum 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/ss_a068e123de456804828bd04ed7b5e7836c5aabb7.1920x1080.jpg?t=1780616152",
+        "alt": "Vellum 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/ss_c3a2e3d4f9c13f55c962fb10b8f2615565e5abaf.1920x1080.jpg?t=1780616152",
+        "alt": "Vellum 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/ss_e1c6562f28c4f9502ffe0afd27f7dafaaf5ae589.1920x1080.jpg?t=1780616152",
+        "alt": "Vellum 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/ss_720bf790f70ccadf5c8dfe0a624796a1a3706a57.1920x1080.jpg?t=1780616152",
+        "alt": "Vellum 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917950/8d18c9a90b1fedb02f969625623e73538410014e/ss_8d18c9a90b1fedb02f969625623e73538410014e.1920x1080.jpg?t=1780616152",
+        "alt": "Vellum 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

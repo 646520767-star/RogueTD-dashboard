@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Skill Legends Royale","developers":["ZGGame"],"publishers":["ZGGame"],"release_status":"released","release_date":"2024-11-04","tags":["自走棋","策略","玩家对战","卡牌对战","回合制战术"]},"hooks":[{"text":"每局从12种流派中随机抽取8种，再通过流派互补拼出当局最强组合","dimension":"玩法","excerpt":"12 Unique Archetypes *The game features 12 distinct archetypes, with more to come in future updates. Random Selection of 8 Archetypes *Each match features 8 randomly selected archetypes, ensuring a unique experience every time. Freely Combine Archetypes *Different archetypes complement each other—experiment to craft the most powerful combination.","url":"https://store.steampowered.com/app/3114410/","label":"证据原文片段"},{"text":"一百余技能、六十余宝物与三十余英雄提供多层构筑池","dimension":"玩法","excerpt":"Rich Content *Over 100 skills for endless build possibilities. *60+ treasures to mix and match. *30+ unique heroes, each with distinct traits.","url":"https://store.steampowered.com/app/3114410/","label":"证据原文片段"},{"text":"八名玩家在线自由混战，英雄自动战斗而玩家专注阵容与资源决策","dimension":"玩法","excerpt":"Auto Battler-like *Eight players face off online, with everyone fending for themselves.","url":"https://store.steampowered.com/app/3114410/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":355492,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":13981,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3012,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":856110,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":355492,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":355492,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":25.384072574558232,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2994,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":75,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":74.482989,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"自走棋、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/5dcd060fb2d9c99e587438f1ac1acb0521365c43/ss_5dcd060fb2d9c99e587438f1ac1acb0521365c43.1920x1080.jpg?t=1775535603","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/5dcd060fb2d9c99e587438f1ac1acb0521365c43/ss_5dcd060fb2d9c99e587438f1ac1acb0521365c43.1920x1080.jpg?t=1775535603","alt":"选技大乱斗 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/a96bd6304cfc2f3a26ecde2b6a6377189b42ddea/ss_a96bd6304cfc2f3a26ecde2b6a6377189b42ddea.1920x1080.jpg?t=1775535603","alt":"选技大乱斗 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/0573e9d393e62e699f9ac4cdbcbe006007953e61/ss_0573e9d393e62e699f9ac4cdbcbe006007953e61.1920x1080.jpg?t=1775535603","alt":"选技大乱斗 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/7fea1a4cb87e20ebc825b8b4af211fb083dbcafb/ss_7fea1a4cb87e20ebc825b8b4af211fb083dbcafb.1920x1080.jpg?t=1775535603","alt":"选技大乱斗 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Skill Legends Royale",
+    "developers": [
+      "ZGGame"
+    ],
+    "publishers": [
+      "ZGGame"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-04",
+    "tags": [
+      "自走棋",
+      "策略",
+      "玩家对战",
+      "卡牌对战",
+      "回合制战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每局从12种流派中随机抽取8种，再通过流派互补拼出当局最强组合",
+      "dimension": "玩法",
+      "excerpt": "12 Unique Archetypes *The game features 12 distinct archetypes, with more to come in future updates. Random Selection of 8 Archetypes *Each match features 8 randomly selected archetypes, ensuring a unique experience every time. Freely Combine Archetypes *Different archetypes complement each other—experiment to craft the most powerful combination.",
+      "url": "https://store.steampowered.com/app/3114410/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "一百余技能、六十余宝物与三十余英雄提供多层构筑池",
+      "dimension": "玩法",
+      "excerpt": "Rich Content *Over 100 skills for endless build possibilities. *60+ treasures to mix and match. *30+ unique heroes, each with distinct traits.",
+      "url": "https://store.steampowered.com/app/3114410/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "八名玩家在线自由混战，英雄自动战斗而玩家专注阵容与资源决策",
+      "dimension": "玩法",
+      "excerpt": "Auto Battler-like *Eight players face off online, with everyone fending for themselves.",
+      "url": "https://store.steampowered.com/app/3114410/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 346429,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 14063,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3041,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1061266,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 346429,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 346429,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 27.889453142411256,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3032,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 74,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 74.430881,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "选技大乱斗位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/5dcd060fb2d9c99e587438f1ac1acb0521365c43/ss_5dcd060fb2d9c99e587438f1ac1acb0521365c43.1920x1080.jpg?t=1775535603",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/5dcd060fb2d9c99e587438f1ac1acb0521365c43/ss_5dcd060fb2d9c99e587438f1ac1acb0521365c43.1920x1080.jpg?t=1775535603",
+        "alt": "选技大乱斗 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/a96bd6304cfc2f3a26ecde2b6a6377189b42ddea/ss_a96bd6304cfc2f3a26ecde2b6a6377189b42ddea.1920x1080.jpg?t=1775535603",
+        "alt": "选技大乱斗 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/0573e9d393e62e699f9ac4cdbcbe006007953e61/ss_0573e9d393e62e699f9ac4cdbcbe006007953e61.1920x1080.jpg?t=1775535603",
+        "alt": "选技大乱斗 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/7fea1a4cb87e20ebc825b8b4af211fb083dbcafb/ss_7fea1a4cb87e20ebc825b8b4af211fb083dbcafb.1920x1080.jpg?t=1775535603",
+        "alt": "选技大乱斗 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/2f08dd46349c1e71d657fb1fb8b8b4c89073627a/ss_2f08dd46349c1e71d657fb1fb8b8b4c89073627a.1920x1080.jpg?t=1775535603",
+        "alt": "选技大乱斗 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/d03851af90fea2d49c2df456662e1a634fbd3ecc/ss_d03851af90fea2d49c2df456662e1a634fbd3ecc.1920x1080.jpg?t=1775535603",
+        "alt": "选技大乱斗 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/24701fea9fe05c5f25cc284222fe514a2ce4b899/ss_24701fea9fe05c5f25cc284222fe514a2ce4b899.1920x1080.jpg?t=1775535603",
+        "alt": "选技大乱斗 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114410/97df95caeb50b7c5a16512afd607e1b82eb0fa1f/ss_97df95caeb50b7c5a16512afd607e1b82eb0fa1f.1920x1080.jpg?t=1775535603",
+        "alt": "选技大乱斗 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

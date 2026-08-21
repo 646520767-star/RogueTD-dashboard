@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Apocalypse Express","developers":["Llamaware Studios"],"publishers":["Llamaware Studios"],"release_status":"released","release_date":"2026-06-10","tags":["动作肉鸽","末日后","像素画面","轻度Rogue","俯视角射击"]},"hooks":[{"text":"列车失控时要同时灭火、搜集资源和击退敌人，但永远无法照顾全部车厢","dimension":"玩法","excerpt":"Be prepared for some nail-biting tension as you try to keep your train running while balancing putting out fires, collecting resources and dispatching enemies. You won't always be able to take care of every part of the Train so be ready to think fast and smart as things will not go as planned.","url":"https://store.steampowered.com/app/3223160/","label":"证据原文片段"},{"text":"有限车厢槽位可塞入不同模块，构筑炮火、绝对防御、高速或全自动列车","dimension":"玩法","excerpt":"Go full offense by building up an arsenal of cannons, rocket launchers and turrets, obliterating everything in your path. Take the more defensive approach and create an indestructible machine built around disabling enemies, deflecting shots and extinguishing fires, keeping your train healthy and running even through the harshest conditions. Or experiment with other combinations, perhaps go with a speedy train that gets you to your destination faster or even create a completely autonomous system that does all the work for you. Your slots are limited, so choose wisely.","url":"https://store.steampowered.com/app/3223160/","label":"证据原文片段"},{"text":"每个模块都有数十种升级方向，既可强化数值也能引入全新能力","dimension":"玩法","excerpt":"Each module can be upgraded in dozens of interesting ways, either by making them more powerful or introducing completely new abilities.","url":"https://store.steampowered.com/app/3223160/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6435,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":31774,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2465,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":41740,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6636,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6636,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.391199878663254,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":254,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.879377,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、末日后","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/bf70b9120278a0cacb49c9df59ce24e6a71dbb85/ss_bf70b9120278a0cacb49c9df59ce24e6a71dbb85.1920x1080.jpg?t=1783521545","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/bf70b9120278a0cacb49c9df59ce24e6a71dbb85/ss_bf70b9120278a0cacb49c9df59ce24e6a71dbb85.1920x1080.jpg?t=1783521545","alt":"Apocalypse Express 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/6794d2fe93c72e0c3e7d7994f79af3ee2e32e7ac/ss_6794d2fe93c72e0c3e7d7994f79af3ee2e32e7ac.1920x1080.jpg?t=1783521545","alt":"Apocalypse Express 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/8d9a49b02a5e1c6622710cfff5e4c5f36c3dc5a9/ss_8d9a49b02a5e1c6622710cfff5e4c5f36c3dc5a9.1920x1080.jpg?t=1783521545","alt":"Apocalypse Express 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/b5596388de86b76f6e3b27c81aa4c71aed8f39d6/ss_b5596388de86b76f6e3b27c81aa4c71aed8f39d6.1920x1080.jpg?t=1783521545","alt":"Apocalypse Express 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Apocalypse Express",
+    "developers": [
+      "Llamaware Studios"
+    ],
+    "publishers": [
+      "Llamaware Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-10",
+    "tags": [
+      "动作肉鸽",
+      "末日后",
+      "像素画面",
+      "卡组构筑",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "列车失控时要同时灭火、搜集资源和击退敌人，但永远无法照顾全部车厢",
+      "dimension": "玩法",
+      "excerpt": "Be prepared for some nail-biting tension as you try to keep your train running while balancing putting out fires, collecting resources and dispatching enemies. You won't always be able to take care of every part of the Train so be ready to think fast and smart as things will not go as planned.",
+      "url": "https://store.steampowered.com/app/3223160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "有限车厢槽位可塞入不同模块，构筑炮火、绝对防御、高速或全自动列车",
+      "dimension": "玩法",
+      "excerpt": "Go full offense by building up an arsenal of cannons, rocket launchers and turrets, obliterating everything in your path. Take the more defensive approach and create an indestructible machine built around disabling enemies, deflecting shots and extinguishing fires, keeping your train healthy and running even through the harshest conditions. Or experiment with other combinations, perhaps go with a speedy train that gets you to your destination faster or even create a completely autonomous system that does all the work for you. Your slots are limited, so choose wisely.",
+      "url": "https://store.steampowered.com/app/3223160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每个模块都有数十种升级方向，既可强化数值也能引入全新能力",
+      "dimension": "玩法",
+      "excerpt": "Each module can be upgraded in dozens of interesting ways, either by making them more powerful or introducing completely new abilities.",
+      "url": "https://store.steampowered.com/app/3223160/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 8078,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 31963,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2503,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 55785,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8384,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8384,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.623415574167884,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 255,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.527881,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Apocalypse Express位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/bf70b9120278a0cacb49c9df59ce24e6a71dbb85/ss_bf70b9120278a0cacb49c9df59ce24e6a71dbb85.1920x1080.jpg?t=1783521545",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/bf70b9120278a0cacb49c9df59ce24e6a71dbb85/ss_bf70b9120278a0cacb49c9df59ce24e6a71dbb85.1920x1080.jpg?t=1783521545",
+        "alt": "Apocalypse Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/6794d2fe93c72e0c3e7d7994f79af3ee2e32e7ac/ss_6794d2fe93c72e0c3e7d7994f79af3ee2e32e7ac.1920x1080.jpg?t=1783521545",
+        "alt": "Apocalypse Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/8d9a49b02a5e1c6622710cfff5e4c5f36c3dc5a9/ss_8d9a49b02a5e1c6622710cfff5e4c5f36c3dc5a9.1920x1080.jpg?t=1783521545",
+        "alt": "Apocalypse Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/b5596388de86b76f6e3b27c81aa4c71aed8f39d6/ss_b5596388de86b76f6e3b27c81aa4c71aed8f39d6.1920x1080.jpg?t=1783521545",
+        "alt": "Apocalypse Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/958852095100c8ecf2f31f3cee63b144ed996dda/ss_958852095100c8ecf2f31f3cee63b144ed996dda.1920x1080.jpg?t=1783521545",
+        "alt": "Apocalypse Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/22b661495e676cb5d38f6bbe3443fddde69fd9e3/ss_22b661495e676cb5d38f6bbe3443fddde69fd9e3.1920x1080.jpg?t=1783521545",
+        "alt": "Apocalypse Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/49dcf4c64a310976551b2ae01ed21100831d3113/ss_49dcf4c64a310976551b2ae01ed21100831d3113.1920x1080.jpg?t=1783521545",
+        "alt": "Apocalypse Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223160/ef553b7d1f7d20f7004376e4469c9af37cb24feb/ss_ef553b7d1f7d20f7004376e4469c9af37cb24feb.1920x1080.jpg?t=1783521545",
+        "alt": "Apocalypse Express 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

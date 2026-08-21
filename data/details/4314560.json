@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Cartapli : Fold Quest","developers":["ManduPod"],"publishers":["Jungle Game Lab"],"release_status":"released","release_date":"2026-02-04","tags":["回合制战术","轻度Rogue","角色扮演","玩家对环境","策略"]},"hooks":[{"text":"通过折叠纸张改变棋盘位置与地形关系，甚至能不直接攻击就完成战斗","dimension":"玩法","excerpt":"Overcome the odds on a disadvantageous battlefield and defeat enemies in your own way through paper folding! You can even claim victory without attacking directly.","url":"https://store.steampowered.com/app/4314560/","label":"证据原文片段"},{"text":"每场战斗后从不同奖励中选择Pebble与技能，持续拼装独特角色构筑","dimension":"玩法","excerpt":"Wisely choose your rewards from every varying battle victory, and combine various Pebbles and Skills to create your own unique character.","url":"https://store.steampowered.com/app/4314560/","label":"证据原文片段"},{"text":"纸片英雄进入祖父的故事，整个纸香世界中最强武器不是剑或魔法，而是玩家亲手折纸","dimension":"题材","excerpt":"You become a paper hero in the world of Cartapli and embark on an adventure into your grandfather's story. In this world filled with the scent of paper, your most powerful weapon is neither sword nor magic, but your own hands folding paper.","url":"https://store.steampowered.com/app/4314560/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":25158,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":764,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":25158,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":25158,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.4219993863183507,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":646,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.145286,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"回合制战术、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/ee66c1c829efe8f34a5ccdc68a107e05bacc53f5/ss_ee66c1c829efe8f34a5ccdc68a107e05bacc53f5.1920x1080.jpg?t=1784343470","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/ee66c1c829efe8f34a5ccdc68a107e05bacc53f5/ss_ee66c1c829efe8f34a5ccdc68a107e05bacc53f5.1920x1080.jpg?t=1784343470","alt":"Cartapli : Fold Quest 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/0c43eae892e11e43f8a25e484bd7b085802f3d5d/ss_0c43eae892e11e43f8a25e484bd7b085802f3d5d.1920x1080.jpg?t=1784343470","alt":"Cartapli : Fold Quest 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/c647ae9d2497987265a48e6ed42ce705a4a12c85/ss_c647ae9d2497987265a48e6ed42ce705a4a12c85.1920x1080.jpg?t=1784343470","alt":"Cartapli : Fold Quest 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/8e09f1103cc05565a651f56605b627a242480154/ss_8e09f1103cc05565a651f56605b627a242480154.1920x1080.jpg?t=1784343470","alt":"Cartapli : Fold Quest 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Cartapli : Fold Quest",
+    "developers": [
+      "ManduPod"
+    ],
+    "publishers": [
+      "Jungle Game Lab"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-04",
+    "tags": [
+      "回合制战术",
+      "轻度Rogue",
+      "角色扮演",
+      "玩家对环境",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "通过折叠纸张改变棋盘位置与地形关系，甚至能不直接攻击就完成战斗",
+      "dimension": "玩法",
+      "excerpt": "Overcome the odds on a disadvantageous battlefield and defeat enemies in your own way through paper folding! You can even claim victory without attacking directly.",
+      "url": "https://store.steampowered.com/app/4314560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每场战斗后从不同奖励中选择Pebble与技能，持续拼装独特角色构筑",
+      "dimension": "玩法",
+      "excerpt": "Wisely choose your rewards from every varying battle victory, and combine various Pebbles and Skills to create your own unique character.",
+      "url": "https://store.steampowered.com/app/4314560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "纸片英雄进入祖父的故事，整个纸香世界中最强武器不是剑或魔法，而是玩家亲手折纸",
+      "dimension": "题材",
+      "excerpt": "You become a paper hero in the world of Cartapli and embark on an adventure into your grandfather's story. In this world filled with the scent of paper, your most powerful weapon is neither sword nor magic, but your own hands folding paper.",
+      "url": "https://store.steampowered.com/app/4314560/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 27125,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 779,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 27125,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 27125,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.3463055750468147,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 684,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 98.093842,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Cartapli : Fold Quest位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/ee66c1c829efe8f34a5ccdc68a107e05bacc53f5/ss_ee66c1c829efe8f34a5ccdc68a107e05bacc53f5.1920x1080.jpg?t=1784343470",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/ee66c1c829efe8f34a5ccdc68a107e05bacc53f5/ss_ee66c1c829efe8f34a5ccdc68a107e05bacc53f5.1920x1080.jpg?t=1784343470",
+        "alt": "Cartapli : Fold Quest 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/0c43eae892e11e43f8a25e484bd7b085802f3d5d/ss_0c43eae892e11e43f8a25e484bd7b085802f3d5d.1920x1080.jpg?t=1784343470",
+        "alt": "Cartapli : Fold Quest 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/c647ae9d2497987265a48e6ed42ce705a4a12c85/ss_c647ae9d2497987265a48e6ed42ce705a4a12c85.1920x1080.jpg?t=1784343470",
+        "alt": "Cartapli : Fold Quest 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/8e09f1103cc05565a651f56605b627a242480154/ss_8e09f1103cc05565a651f56605b627a242480154.1920x1080.jpg?t=1784343470",
+        "alt": "Cartapli : Fold Quest 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/879a4d9d541650d85567d751963e533a8c3a1a42/ss_879a4d9d541650d85567d751963e533a8c3a1a42.1920x1080.jpg?t=1784343470",
+        "alt": "Cartapli : Fold Quest 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314560/f4aea33a4d2d53dc690485861bcf73296abfb547/ss_f4aea33a4d2d53dc690485861bcf73296abfb547.1920x1080.jpg?t=1784343470",
+        "alt": "Cartapli : Fold Quest 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

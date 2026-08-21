@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Windblown","developers":["Motion Twin"],"publishers":["Motion Twin","Kepler Ghost"],"release_status":"early_access","release_date":"2024-10-24","tags":["动作肉鸽","砍杀","在线合作","轻度Rogue","战斗"]},"hooks":[{"text":"把连续冲刺、攻击、技能和强力招式串成强调动量的高速战斗流","dimension":"玩法","excerpt":"Your godlike speed is key to surviving the all-consuming Vortex threatening your world; stay aggressive and overwhelm the battlefield - before it overwhelms you. Chain dashes, strikes, abilities and devastating power moves together in hyper-fast combat built around flow.","url":"https://store.steampowered.com/app/1911610/","label":"证据原文片段"},{"text":"双持不同武器组合专属动作与Alterattack，再从170多项解锁物中配装","dimension":"玩法","excerpt":"Dual wield to combine unique weapon movesets, unleash powerful Alterattacks, and customize your build with over 170+ unlockables . The playstyle is yours to create: Mix fast melee weapons with heavy hitters (including the fan-favourite Crocojaw, known for its brutal bite!), ranged tools, status effects, mobility skills and more to become the unstoppable force on the battlefield.","url":"https://store.steampowered.com/app/1911610/","label":"证据原文片段"},{"text":"失败也能带回资源，在方舟解锁新武器与能力扩展后续构筑","dimension":"玩法","excerpt":"Every failed run lets you bring back valuable resources to unlock new weapons, powers and upgrades at the Ark, expanding future builds and playstyles. Learn enemy patterns, try a new loadout, and come back stronger every time. No drawback to experimenting, so go forward, Leaper!","url":"https://store.steampowered.com/app/1911610/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":535659,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1038355,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":67991,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":9554680,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":587089,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":587089,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.301462769003882,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":10236,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.936627,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、砍杀","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/553a13c3899fb45d37d466d52967ececefc53da1/ss_553a13c3899fb45d37d466d52967ececefc53da1.1920x1080.jpg?t=1784623599","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/553a13c3899fb45d37d466d52967ececefc53da1/ss_553a13c3899fb45d37d466d52967ececefc53da1.1920x1080.jpg?t=1784623599","alt":"风中行者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_cac5261b41219363b6fa4317b40e9a85e56d136f.1920x1080.jpg?t=1784623599","alt":"风中行者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/3f08076ce9813ee088c82cf4d51b34ca893c60ca/ss_3f08076ce9813ee088c82cf4d51b34ca893c60ca.1920x1080.jpg?t=1784623599","alt":"风中行者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/93b2c8f3927f6f8b81029117e6a1af80d158bebe/ss_93b2c8f3927f6f8b81029117e6a1af80d158bebe.1920x1080.jpg?t=1784623599","alt":"风中行者 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Windblown",
+    "developers": [
+      "Motion Twin"
+    ],
+    "publishers": [
+      "Motion Twin",
+      "Kepler Ghost"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-10-24",
+    "tags": [
+      "动作肉鸽",
+      "砍杀",
+      "在线合作",
+      "轻度Rogue",
+      "像素画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把连续冲刺、攻击、技能和强力招式串成强调动量的高速战斗流",
+      "dimension": "玩法",
+      "excerpt": "Your godlike speed is key to surviving the all-consuming Vortex threatening your world; stay aggressive and overwhelm the battlefield - before it overwhelms you. Chain dashes, strikes, abilities and devastating power moves together in hyper-fast combat built around flow.",
+      "url": "https://store.steampowered.com/app/1911610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "双持不同武器组合专属动作与Alterattack，再从170多项解锁物中配装",
+      "dimension": "玩法",
+      "excerpt": "Dual wield to combine unique weapon movesets, unleash powerful Alterattacks, and customize your build with over 170+ unlockables . The playstyle is yours to create: Mix fast melee weapons with heavy hitters (including the fan-favourite Crocojaw, known for its brutal bite!), ranged tools, status effects, mobility skills and more to become the unstoppable force on the battlefield.",
+      "url": "https://store.steampowered.com/app/1911610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "失败也能带回资源，在方舟解锁新武器与能力扩展后续构筑",
+      "dimension": "玩法",
+      "excerpt": "Every failed run lets you bring back valuable resources to unlock new weapons, powers and upgrades at the Ark, expanding future builds and playstyles. Learn enemy patterns, try a new loadout, and come back stronger every time. No drawback to experimenting, so go forward, Leaper!",
+      "url": "https://store.steampowered.com/app/1911610/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 548140,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1040674,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 68151,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 9733860,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 601071,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 601071,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.804868406543827,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 9013,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.881349,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "风中行者位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/553a13c3899fb45d37d466d52967ececefc53da1/ss_553a13c3899fb45d37d466d52967ececefc53da1.1920x1080.jpg?t=1784623599",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/553a13c3899fb45d37d466d52967ececefc53da1/ss_553a13c3899fb45d37d466d52967ececefc53da1.1920x1080.jpg?t=1784623599",
+        "alt": "风中行者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_cac5261b41219363b6fa4317b40e9a85e56d136f.1920x1080.jpg?t=1784623599",
+        "alt": "风中行者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/3f08076ce9813ee088c82cf4d51b34ca893c60ca/ss_3f08076ce9813ee088c82cf4d51b34ca893c60ca.1920x1080.jpg?t=1784623599",
+        "alt": "风中行者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/93b2c8f3927f6f8b81029117e6a1af80d158bebe/ss_93b2c8f3927f6f8b81029117e6a1af80d158bebe.1920x1080.jpg?t=1784623599",
+        "alt": "风中行者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/0cd0673f6360cc842303eb260de07ed6c86b1aac/ss_0cd0673f6360cc842303eb260de07ed6c86b1aac.1920x1080.jpg?t=1784623599",
+        "alt": "风中行者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/19e829b08d5809b98104d87f1653cf8f5a7a3993/ss_19e829b08d5809b98104d87f1653cf8f5a7a3993.1920x1080.jpg?t=1784623599",
+        "alt": "风中行者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/c50ec37f702c5dda50c24d387f26761bafc393b9/ss_c50ec37f702c5dda50c24d387f26761bafc393b9.1920x1080.jpg?t=1784623599",
+        "alt": "风中行者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/86426c113b06c2cd85b7b65e7de32548bed23f9b/ss_86426c113b06c2cd85b7b65e7de32548bed23f9b.1920x1080.jpg?t=1784623599",
+        "alt": "风中行者 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

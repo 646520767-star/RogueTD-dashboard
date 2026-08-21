@@ -1,1 +1,178 @@
-{"identity":{"original_title":"PANICORE","developers":["ZTEK Studio"],"publishers":["ZTEK Studio"],"release_status":"released","release_date":"2024-05-31","tags":["恐怖","在线合作","多人游戏","第一人称","玩家对环境"]},"hooks":[{"text":"追猎怪物不只听脚步，也会通过玩家麦克风捕捉声音","dimension":"玩法","excerpt":"Try to escape and don't get caught, but beware: they don't only hear your steps, but also your voice.","url":"https://store.steampowered.com/app/2695940/","label":"证据原文片段"},{"text":"同一场景提供多条截然不同的逃生路线","dimension":"玩法","excerpt":"Multiple Escape Routes: Confront a challenge with multiple distinct escape routes.","url":"https://store.steampowered.com/app/2695940/","label":"证据原文片段"},{"text":"可以钻进柜子、桌底和阴影，用环境完成躲猫猫式生存","dimension":"玩法","excerpt":"Hide in cabinets, under tables, and in the shadows to outsmart the lurking terror.","url":"https://store.steampowered.com/app/2695940/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1344963,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":588450,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":29307,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5487799,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1529667,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1529667,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.122529202281892,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":12806,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":79,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":78.87302,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"恐怖、在线合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/48eeba7241dbcb8edd2ce5f162d8fae37146f379/ss_48eeba7241dbcb8edd2ce5f162d8fae37146f379.1920x1080.jpg?t=1774881329","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/48eeba7241dbcb8edd2ce5f162d8fae37146f379/ss_48eeba7241dbcb8edd2ce5f162d8fae37146f379.1920x1080.jpg?t=1774881329","alt":"PANICORE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/91ff367763ca8f6e97d4593cf43a37be5c8a209d/ss_91ff367763ca8f6e97d4593cf43a37be5c8a209d.1920x1080.jpg?t=1774881329","alt":"PANICORE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_b449bafa0f72b1acb9c4963125cc9e80057a928b.1920x1080.jpg?t=1774881329","alt":"PANICORE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_e15e38107b44a7a8ea13e75f83754ba9849ea089.1920x1080.jpg?t=1774881329","alt":"PANICORE 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "PANICORE",
+    "developers": [
+      "ZTEK Studio"
+    ],
+    "publishers": [
+      "ZTEK Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-31",
+    "tags": [
+      "恐怖",
+      "在线合作",
+      "多人游戏",
+      "恐怖",
+      "第一人称"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "追猎怪物不只听脚步，也会通过玩家麦克风捕捉声音",
+      "dimension": "玩法",
+      "excerpt": "Try to escape and don't get caught, but beware: they don't only hear your steps, but also your voice.",
+      "url": "https://store.steampowered.com/app/2695940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "同一场景提供多条截然不同的逃生路线",
+      "dimension": "玩法",
+      "excerpt": "Multiple Escape Routes: Confront a challenge with multiple distinct escape routes.",
+      "url": "https://store.steampowered.com/app/2695940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可以钻进柜子、桌底和阴影，用环境完成躲猫猫式生存",
+      "dimension": "玩法",
+      "excerpt": "Hide in cabinets, under tables, and in the shadows to outsmart the lurking terror.",
+      "url": "https://store.steampowered.com/app/2695940/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1354336,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 589381,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 29433,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 5481115,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1541232,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1541232,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.115811949019485,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 10638,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 79,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 78.876631,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "PANICORE位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/48eeba7241dbcb8edd2ce5f162d8fae37146f379/ss_48eeba7241dbcb8edd2ce5f162d8fae37146f379.1920x1080.jpg?t=1774881329",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/48eeba7241dbcb8edd2ce5f162d8fae37146f379/ss_48eeba7241dbcb8edd2ce5f162d8fae37146f379.1920x1080.jpg?t=1774881329",
+        "alt": "PANICORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/91ff367763ca8f6e97d4593cf43a37be5c8a209d/ss_91ff367763ca8f6e97d4593cf43a37be5c8a209d.1920x1080.jpg?t=1774881329",
+        "alt": "PANICORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_b449bafa0f72b1acb9c4963125cc9e80057a928b.1920x1080.jpg?t=1774881329",
+        "alt": "PANICORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_e15e38107b44a7a8ea13e75f83754ba9849ea089.1920x1080.jpg?t=1774881329",
+        "alt": "PANICORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/010750c95d3d5a04cb1e91d54513297014430092/ss_010750c95d3d5a04cb1e91d54513297014430092.1920x1080.jpg?t=1774881329",
+        "alt": "PANICORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_1c21ddfb73039357e815007af0921d4087d04af0.1920x1080.jpg?t=1774881329",
+        "alt": "PANICORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ea0565c657be6e1afe801ab265b8c66d77260a36/ss_ea0565c657be6e1afe801ab265b8c66d77260a36.1920x1080.jpg?t=1774881329",
+        "alt": "PANICORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_036d4e32a8c61cd14056651a2cd75f21281bb051.1920x1080.jpg?t=1774881329",
+        "alt": "PANICORE 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

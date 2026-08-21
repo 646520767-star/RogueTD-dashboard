@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Slot or Not","developers":["MakoTeam"],"publishers":["Proteus Interactive"],"release_status":"released","release_date":"2026-05-25","tags":["肉鸽卡组构筑","类Rogue","卡组构筑","高重复可玩性","轻度Rogue"]},"hooks":[{"text":"把装备投入老虎机抽取池并由结果决定攻防","dimension":"玩法","excerpt":"The slot machine battle mechanics , where you toss your gear into the drawing pool and attack/defend based on the outcome gives it that special chance-game vibe, for the gambler inside us all (but with no actual gambling!).","url":"https://store.steampowered.com/app/3496890/","label":"证据原文片段"},{"text":"四十余件背包物品与四十九饰品塑造老虎机Build","dimension":"玩法","excerpt":"🎒 40+ playable items you can carry in your bag and spin in your slot machine for 🥕 ️49 game-changing trinkets to spice things and give you more build flexibility","url":"https://store.steampowered.com/app/3496890/","label":"证据原文片段"},{"text":"专业漫画作者包办原创美术与故事","dimension":"画风","excerpt":"🎨 Original art and story by a professional comic book artist. No AI chicanery!","url":"https://store.steampowered.com/app/3496890/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4707,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22877,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":675,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":26698,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5397,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5397,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.515879127022676,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":148,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.275168,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/2111505552f856dd7a96b286f0a1fa825d7bc6be/ss_2111505552f856dd7a96b286f0a1fa825d7bc6be.1920x1080.jpg?t=1781124161","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/2111505552f856dd7a96b286f0a1fa825d7bc6be/ss_2111505552f856dd7a96b286f0a1fa825d7bc6be.1920x1080.jpg?t=1781124161","alt":"Slot or Not 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/b8eded195fde0bf08700510cffb10f59ec1974a6/ss_b8eded195fde0bf08700510cffb10f59ec1974a6.1920x1080.jpg?t=1781124161","alt":"Slot or Not 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/3f3d95422f94d7a162e7c196275ad1b555fe8903/ss_3f3d95422f94d7a162e7c196275ad1b555fe8903.1920x1080.jpg?t=1781124161","alt":"Slot or Not 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/7a49e65503615549e07262c58c17ba4b3809fe08/ss_7a49e65503615549e07262c58c17ba4b3809fe08.1920x1080.jpg?t=1781124161","alt":"Slot or Not 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Slot or Not",
+    "developers": [
+      "MakoTeam"
+    ],
+    "publishers": [
+      "Proteus Interactive"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-25",
+    "tags": [
+      "肉鸽卡组构筑",
+      "类Rogue",
+      "卡组构筑",
+      "高重复可玩性",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把装备投入老虎机抽取池并由结果决定攻防",
+      "dimension": "玩法",
+      "excerpt": "The slot machine battle mechanics , where you toss your gear into the drawing pool and attack/defend based on the outcome gives it that special chance-game vibe, for the gambler inside us all (but with no actual gambling!).",
+      "url": "https://store.steampowered.com/app/3496890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四十余件背包物品与四十九饰品塑造老虎机Build",
+      "dimension": "玩法",
+      "excerpt": "🎒 40+ playable items you can carry in your bag and spin in your slot machine for 🥕 ️49 game-changing trinkets to spice things and give you more build flexibility",
+      "url": "https://store.steampowered.com/app/3496890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "专业漫画作者包办原创美术与故事",
+      "dimension": "画风",
+      "excerpt": "🎨 Original art and story by a professional comic book artist. No AI chicanery!",
+      "url": "https://store.steampowered.com/app/3496890/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5178,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 24292,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 685,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 29285,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5941,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5941,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.517690896076543,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 129,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.566038,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Slot or Not位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/2111505552f856dd7a96b286f0a1fa825d7bc6be/ss_2111505552f856dd7a96b286f0a1fa825d7bc6be.1920x1080.jpg?t=1781124161",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/2111505552f856dd7a96b286f0a1fa825d7bc6be/ss_2111505552f856dd7a96b286f0a1fa825d7bc6be.1920x1080.jpg?t=1786614371",
+        "alt": "Slot or Not 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/b8eded195fde0bf08700510cffb10f59ec1974a6/ss_b8eded195fde0bf08700510cffb10f59ec1974a6.1920x1080.jpg?t=1786614371",
+        "alt": "Slot or Not 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/3f3d95422f94d7a162e7c196275ad1b555fe8903/ss_3f3d95422f94d7a162e7c196275ad1b555fe8903.1920x1080.jpg?t=1786614371",
+        "alt": "Slot or Not 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/7a49e65503615549e07262c58c17ba4b3809fe08/ss_7a49e65503615549e07262c58c17ba4b3809fe08.1920x1080.jpg?t=1786614371",
+        "alt": "Slot or Not 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/4f157a18f03de80272a17a1807826e330eb2457e/ss_4f157a18f03de80272a17a1807826e330eb2457e.1920x1080.jpg?t=1786614371",
+        "alt": "Slot or Not 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/b2da51a41029bcaa458c0159de3adb8103a362b5/ss_b2da51a41029bcaa458c0159de3adb8103a362b5.1920x1080.jpg?t=1786614371",
+        "alt": "Slot or Not 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/2f68f9ed91ea2d9ee3d68bc724ca14192e91657b/ss_2f68f9ed91ea2d9ee3d68bc724ca14192e91657b.1920x1080.jpg?t=1786614371",
+        "alt": "Slot or Not 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496890/0e5c73241844c7f83ccb7214ba5cbd06956b3449/ss_0e5c73241844c7f83ccb7214ba5cbd06956b3449.1920x1080.jpg?t=1786614371",
+        "alt": "Slot or Not 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

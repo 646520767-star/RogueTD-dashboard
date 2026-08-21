@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Lost in Random: The Eternal Die","developers":["Stormteller Games"],"publishers":["Thunderful Publishing"],"release_status":"released","release_date":"2025-06-17","tags":["动作","轻度Rogue","砍杀","动作肉鸽","类Rogue"]},"hooks":[{"text":"把即时动作、战术决策与高风险骰子机制融合进连续战斗","dimension":"玩法","excerpt":"Lost in Random: The Eternal Die blends dynamic real-time action, tactical combat, and risk-reward dice mechanics for thrilling second-to-second battles.","url":"https://store.steampowered.com/app/2564520/","label":"证据原文片段"},{"text":"组合100多种元素遗物与15种卡牌能力定制构筑","dimension":"玩法","excerpt":"100+ elemental relics and 15 powerful card-based abilities to customise your build.","url":"https://store.steampowered.com/app/2564520/","label":"证据原文片段"},{"text":"以伯顿式视觉呈现诡丽迷人的黑暗奇幻世界","dimension":"画风","excerpt":"A dark fantasy world brought to life in a Burtonesque style featuring hauntingly beautiful environments and an enchanting soundtrack.","url":"https://store.steampowered.com/app/2564520/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":39020,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":161410,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":10362,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":696527,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":46439,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":46439,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.011501357511693,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":964,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.632124,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/96632e5ed5f854e32b3d86ebdb1c919d7f801e6f/ss_96632e5ed5f854e32b3d86ebdb1c919d7f801e6f.1920x1080.jpg?t=1765297362","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/96632e5ed5f854e32b3d86ebdb1c919d7f801e6f/ss_96632e5ed5f854e32b3d86ebdb1c919d7f801e6f.1920x1080.jpg?t=1765297362","alt":"迷失混沌王国：永恒之骰 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/7a30f3e913b97c76439288e0449204b0d649fd4d/ss_7a30f3e913b97c76439288e0449204b0d649fd4d.1920x1080.jpg?t=1765297362","alt":"迷失混沌王国：永恒之骰 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/c8b8650102816562582d7e38a7fa231f7f719b25/ss_c8b8650102816562582d7e38a7fa231f7f719b25.1920x1080.jpg?t=1765297362","alt":"迷失混沌王国：永恒之骰 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/c07780b1ebf7ffc0a2fde58e491faf9c6e2cf008/ss_c07780b1ebf7ffc0a2fde58e491faf9c6e2cf008.1920x1080.jpg?t=1765297362","alt":"迷失混沌王国：永恒之骰 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lost in Random: The Eternal Die",
+    "developers": [
+      "Stormteller Games"
+    ],
+    "publishers": [
+      "Thunderful Publishing"
+    ],
+    "release_status": "released",
+    "release_date": "2025-06-17",
+    "tags": [
+      "动作",
+      "轻度Rogue",
+      "砍杀",
+      "动作肉鸽",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把即时动作、战术决策与高风险骰子机制融合进连续战斗",
+      "dimension": "玩法",
+      "excerpt": "Lost in Random: The Eternal Die blends dynamic real-time action, tactical combat, and risk-reward dice mechanics for thrilling second-to-second battles.",
+      "url": "https://store.steampowered.com/app/2564520/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "组合100多种元素遗物与15种卡牌能力定制构筑",
+      "dimension": "玩法",
+      "excerpt": "100+ elemental relics and 15 powerful card-based abilities to customise your build.",
+      "url": "https://store.steampowered.com/app/2564520/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "以伯顿式视觉呈现诡丽迷人的黑暗奇幻世界",
+      "dimension": "画风",
+      "excerpt": "A dark fantasy world brought to life in a Burtonesque style featuring hauntingly beautiful environments and an enchanting soundtrack.",
+      "url": "https://store.steampowered.com/app/2564520/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 39820,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 162367,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 10366,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 696084,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 47411,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 47411,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.051036920794464,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 752,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.564103,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "迷失混沌王国：永恒之骰位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/96632e5ed5f854e32b3d86ebdb1c919d7f801e6f/ss_96632e5ed5f854e32b3d86ebdb1c919d7f801e6f.1920x1080.jpg?t=1765297362",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/96632e5ed5f854e32b3d86ebdb1c919d7f801e6f/ss_96632e5ed5f854e32b3d86ebdb1c919d7f801e6f.1920x1080.jpg?t=1765297362",
+        "alt": "迷失混沌王国：永恒之骰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/7a30f3e913b97c76439288e0449204b0d649fd4d/ss_7a30f3e913b97c76439288e0449204b0d649fd4d.1920x1080.jpg?t=1765297362",
+        "alt": "迷失混沌王国：永恒之骰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/c8b8650102816562582d7e38a7fa231f7f719b25/ss_c8b8650102816562582d7e38a7fa231f7f719b25.1920x1080.jpg?t=1765297362",
+        "alt": "迷失混沌王国：永恒之骰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/c07780b1ebf7ffc0a2fde58e491faf9c6e2cf008/ss_c07780b1ebf7ffc0a2fde58e491faf9c6e2cf008.1920x1080.jpg?t=1765297362",
+        "alt": "迷失混沌王国：永恒之骰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/23250576b9142bb850bd6961b4f9ae90f393c233/ss_23250576b9142bb850bd6961b4f9ae90f393c233.1920x1080.jpg?t=1765297362",
+        "alt": "迷失混沌王国：永恒之骰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/ac14dcadaf71205273168fad9c999f83af95f1e3/ss_ac14dcadaf71205273168fad9c999f83af95f1e3.1920x1080.jpg?t=1765297362",
+        "alt": "迷失混沌王国：永恒之骰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/cca96b8b8ba9ef06a9c6f4272d41564ca30b77f0/ss_cca96b8b8ba9ef06a9c6f4272d41564ca30b77f0.1920x1080.jpg?t=1765297362",
+        "alt": "迷失混沌王国：永恒之骰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564520/b1590b0e2f20982cb6a6bc13e55a3b7eff64248d/ss_b1590b0e2f20982cb6a6bc13e55a3b7eff64248d.1920x1080.jpg?t=1765297362",
+        "alt": "迷失混沌王国：永恒之骰 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

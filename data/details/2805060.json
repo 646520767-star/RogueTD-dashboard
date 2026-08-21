@@ -1,1 +1,221 @@
-{"identity":{"original_title":"Diabotical Rogue","developers":["GD Studio Inc"],"publishers":["GD Studio Inc"],"release_status":"early_access","release_date":"2024-06-04","tags":["动作肉鸽","动作","玩家对战","轻度Rogue","抢先体验"]},"hooks":[{"text":"快节奏竞技射击叠加局内肉鸽升级","dimension":"玩法","excerpt":"An online, PvP, first-person shooter that combines fast-paced combat and roguelike upgrades.","url":"https://store.steampowered.com/app/2805060/","label":"证据原文片段"},{"text":"四套机体各有武器能力与升级","dimension":"玩法","excerpt":"4 suits, each with unique weapons, abilities, and upgrades","url":"https://store.steampowered.com/app/2805060/","label":"证据原文片段"},{"text":"用开发同款编辑器自制社区地图","dimension":"玩法","excerpt":"Create your own maps using the in-game map editor, the same editor used by our dev team.","url":"https://store.steampowered.com/app/2805060/","label":"证据原文片段"}],"opinions":[{"text":"缺少活跃玩家导致难以匹配","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it's impossible to play this game with other people unless you're involved in the Discord community","url":"https://steamcommunity.com/id/zenilant/recommended/2805060/","label":"证据原文片段"}]},{"text":"开发沟通不足且更新状态不透明","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the devs need to be better with communicating whether they're still working on this or not","url":"https://steamcommunity.com/id/zenilant/recommended/2805060/","label":"证据原文片段"}]},{"text":"停止与原作比较后整体非常有趣","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"this is a ton of fun after I stopped comparing it to the original","url":"https://steamcommunity.com/id/booskibro/recommended/2805060/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":9080,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27961,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2160,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":128681,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":10122,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":10122,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.94455948596757,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":517,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":73,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":72.779923,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["缺少活跃玩家导致难以匹配","开发沟通不足且更新状态不透明"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_7a8d53f8e723c587eb3f988273a1f5db7499bcbf.1920x1080.jpg?t=1721130299","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_7a8d53f8e723c587eb3f988273a1f5db7499bcbf.1920x1080.jpg?t=1721130299","alt":"Diabotical Rogue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_64e731f653c8945936b7cbe43f7a38e1cd7b8897.1920x1080.jpg?t=1721130299","alt":"Diabotical Rogue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_008d481241af20be23365b649c383dba14a17405.1920x1080.jpg?t=1721130299","alt":"Diabotical Rogue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_a406985e8b33850afdff3755c70feced8c74fc94.1920x1080.jpg?t=1721130299","alt":"Diabotical Rogue 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Diabotical Rogue",
+    "developers": [
+      "GD Studio Inc"
+    ],
+    "publishers": [
+      "GD Studio Inc"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-06-04",
+    "tags": [
+      "轻度Rogue",
+      "动作肉鸽",
+      "动作",
+      "玩家对战",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "快节奏竞技射击叠加局内肉鸽升级",
+      "dimension": "玩法",
+      "excerpt": "An online, PvP, first-person shooter that combines fast-paced combat and roguelike upgrades.",
+      "url": "https://store.steampowered.com/app/2805060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四套机体各有武器能力与升级",
+      "dimension": "玩法",
+      "excerpt": "4 suits, each with unique weapons, abilities, and upgrades",
+      "url": "https://store.steampowered.com/app/2805060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用开发同款编辑器自制社区地图",
+      "dimension": "玩法",
+      "excerpt": "Create your own maps using the in-game map editor, the same editor used by our dev team.",
+      "url": "https://store.steampowered.com/app/2805060/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "缺少活跃玩家导致难以匹配",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it's impossible to play this game with other people unless you're involved in the Discord community",
+          "url": "https://steamcommunity.com/id/zenilant/recommended/2805060/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "开发沟通不足且更新状态不透明",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the devs need to be better with communicating whether they're still working on this or not",
+          "url": "https://steamcommunity.com/id/zenilant/recommended/2805060/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "停止与原作比较后整体非常有趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "this is a ton of fun after I stopped comparing it to the original",
+          "url": "https://steamcommunity.com/id/booskibro/recommended/2805060/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 9136,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 28127,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2163,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 131551,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10182,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10182,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.862755597168412,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 442,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 73,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 72.586873,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "缺少活跃玩家导致难以匹配",
+    "开发沟通不足且更新状态不透明"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Diabotical Rogue位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_7a8d53f8e723c587eb3f988273a1f5db7499bcbf.1920x1080.jpg?t=1721130299",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_7a8d53f8e723c587eb3f988273a1f5db7499bcbf.1920x1080.jpg?t=1721130299",
+        "alt": "Diabotical Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_64e731f653c8945936b7cbe43f7a38e1cd7b8897.1920x1080.jpg?t=1721130299",
+        "alt": "Diabotical Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_008d481241af20be23365b649c383dba14a17405.1920x1080.jpg?t=1721130299",
+        "alt": "Diabotical Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_a406985e8b33850afdff3755c70feced8c74fc94.1920x1080.jpg?t=1721130299",
+        "alt": "Diabotical Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_752dae5891ab585bf8ad9de13e487203ff06e4fe.1920x1080.jpg?t=1721130299",
+        "alt": "Diabotical Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_d246ce58d87d6f71459526b2a16b02fa1cb32ce0.1920x1080.jpg?t=1721130299",
+        "alt": "Diabotical Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_777bc3cd48df1ab48c2abbf07da6f2c2c4d95fae.1920x1080.jpg?t=1721130299",
+        "alt": "Diabotical Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2805060/ss_342755294d47f214f004d884f9f8b1655ad2ad11.1920x1080.jpg?t=1721130299",
+        "alt": "Diabotical Rogue 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

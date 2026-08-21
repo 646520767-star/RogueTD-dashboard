@@ -1,1 +1,167 @@
-{"identity":{"original_title":"MYRIAD DEATH","developers":["IGNITION M","Clover Lab.,inc."],"publishers":["holo Indie"],"release_status":"released","release_date":"2025-03-24","tags":["动作肉鸽","探索","弹幕射击","俯视角射击","砍杀"]},"hooks":[{"text":"森美声与死神老师并肩出战，夺回被窃取的冥界","dimension":"故事","excerpt":"\"MYRIAD DEATH\" is a fan-made action and shooting game in which hololive English -Myth- member \"Mori Calliope\" and her master \"Death-sensei\" reclaim the stolen underworld.","url":"https://store.steampowered.com/app/3324320/","label":"证据原文片段"},{"text":"每趟地牢从宝箱随机掉落武器，临场决定本局战斗配置","dimension":"玩法","excerpt":"Defeat the enemies that stand in your way using various weapons that drop randomly from treasure chests in the dungeon!","url":"https://store.steampowered.com/app/3324320/","label":"证据原文片段"},{"text":"近战连续强攻或远程安全清场，两条推进路线任玩家选择","dimension":"玩法","excerpt":"You can advance by defeating enemies one after another with a melee weapon! You can also advance by safely defeating enemies with a long-range weapon! The play style is up to you!","url":"https://store.steampowered.com/app/3324320/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":13281,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":48297,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2964,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":88890,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":13552,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":13552,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.833087063236878,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":281,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.765125,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_df7380813daf63aacb8458ade2e33ecb2013b91e.1920x1080.jpg?t=1764412946","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_df7380813daf63aacb8458ade2e33ecb2013b91e.1920x1080.jpg?t=1764412946","alt":"MYRIAD DEATH 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_7f7ff057975a50b439dc44234852a5affb800e02.1920x1080.jpg?t=1764412946","alt":"MYRIAD DEATH 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_4fe261069b8a3d932e5e25f0a7587378b57815cc.1920x1080.jpg?t=1764412946","alt":"MYRIAD DEATH 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_3a1c56f2e2e78e710ba8468351fbda361e624a3a.1920x1080.jpg?t=1764412946","alt":"MYRIAD DEATH 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "MYRIAD DEATH",
+    "developers": [
+      "IGNITION M",
+      "Clover Lab.,inc."
+    ],
+    "publishers": [
+      "holo Indie"
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-24",
+    "tags": [
+      "动作肉鸽",
+      "探索",
+      "弹幕射击",
+      "俯视角射击",
+      "砍杀"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "森美声与死神老师并肩出战，夺回被窃取的冥界",
+      "dimension": "故事",
+      "excerpt": "\"MYRIAD DEATH\" is a fan-made action and shooting game in which hololive English -Myth- member \"Mori Calliope\" and her master \"Death-sensei\" reclaim the stolen underworld.",
+      "url": "https://store.steampowered.com/app/3324320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每趟地牢从宝箱随机掉落武器，临场决定本局战斗配置",
+      "dimension": "玩法",
+      "excerpt": "Defeat the enemies that stand in your way using various weapons that drop randomly from treasure chests in the dungeon!",
+      "url": "https://store.steampowered.com/app/3324320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "近战连续强攻或远程安全清场，两条推进路线任玩家选择",
+      "dimension": "玩法",
+      "excerpt": "You can advance by defeating enemies one after another with a melee weapon! You can also advance by safely defeating enemies with a long-range weapon! The play style is up to you!",
+      "url": "https://store.steampowered.com/app/3324320/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 14171,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 47305,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2966,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 96696,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 14458,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 14458,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.834327866499788,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 274,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.815603,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "MYRIAD DEATH位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_df7380813daf63aacb8458ade2e33ecb2013b91e.1920x1080.jpg?t=1764412946",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_df7380813daf63aacb8458ade2e33ecb2013b91e.1920x1080.jpg?t=1764412946",
+        "alt": "MYRIAD DEATH 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_7f7ff057975a50b439dc44234852a5affb800e02.1920x1080.jpg?t=1764412946",
+        "alt": "MYRIAD DEATH 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_4fe261069b8a3d932e5e25f0a7587378b57815cc.1920x1080.jpg?t=1764412946",
+        "alt": "MYRIAD DEATH 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_3a1c56f2e2e78e710ba8468351fbda361e624a3a.1920x1080.jpg?t=1764412946",
+        "alt": "MYRIAD DEATH 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324320/ss_8475802f1c135e333a2ac15a83d9066f7cecde94.1920x1080.jpg?t=1764412946",
+        "alt": "MYRIAD DEATH 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

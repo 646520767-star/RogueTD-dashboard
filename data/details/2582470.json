@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Wacky West","developers":["OnlyStuff"],"publishers":["OnlyStuff"],"release_status":"released","release_date":"2025-08-26","tags":["独立游戏","免费游玩","轻度Rogue","第三人称","线性流程"]},"hooks":[{"text":"末日西部唯一牵挂被变种人掳走，踏上救猫之旅","dimension":"故事","excerpt":"heartless mutants have abducted your pet, and you are its last hope !","url":"https://store.steampowered.com/app/2582470/","label":"证据原文片段"},{"text":"沿途搜刮废铁与垃圾，把废料做成工具和枪械","dimension":"玩法","excerpt":"Gather resources: Use everything you find along the way - scrap metal, trash, and other materials - to craft tools and weapons.","url":"https://store.steampowered.com/app/2582470/","label":"证据原文片段"},{"text":"击败最终Boss后开启无限模式，以更高难度换双倍奖励","dimension":"玩法","excerpt":"After defeating the final boss, you can continue playing in infinite mode, with greater challenges and double rewards.","url":"https://store.steampowered.com/app/2582470/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8354,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":300,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":8354,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":8354,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.253261604502896,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":155,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.387097,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"独立游戏、免费游玩","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/d05417e736c1e71b1b7288d5afb7f37b57778088/ss_d05417e736c1e71b1b7288d5afb7f37b57778088.1920x1080.jpg?t=1764959729","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/d05417e736c1e71b1b7288d5afb7f37b57778088/ss_d05417e736c1e71b1b7288d5afb7f37b57778088.1920x1080.jpg?t=1764959729","alt":"Wacky West 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/1add8779db6927fd6ecf63f490596648571dca5c/ss_1add8779db6927fd6ecf63f490596648571dca5c.1920x1080.jpg?t=1764959729","alt":"Wacky West 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/341419e6093982a0b20d01db13287e73f1396152/ss_341419e6093982a0b20d01db13287e73f1396152.1920x1080.jpg?t=1764959729","alt":"Wacky West 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/ee7b1db356b885dacec687135545fb409f67c6db/ss_ee7b1db356b885dacec687135545fb409f67c6db.1920x1080.jpg?t=1764959729","alt":"Wacky West 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Wacky West",
+    "developers": [
+      "OnlyStuff"
+    ],
+    "publishers": [
+      "OnlyStuff"
+    ],
+    "release_status": "released",
+    "release_date": "2025-08-26",
+    "tags": [
+      "独立游戏",
+      "免费游玩",
+      "轻度Rogue",
+      "第三人称",
+      "线性流程"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "末日西部唯一牵挂被变种人掳走，踏上救猫之旅",
+      "dimension": "故事",
+      "excerpt": "heartless mutants have abducted your pet, and you are its last hope !",
+      "url": "https://store.steampowered.com/app/2582470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "沿途搜刮废铁与垃圾，把废料做成工具和枪械",
+      "dimension": "玩法",
+      "excerpt": "Gather resources: Use everything you find along the way - scrap metal, trash, and other materials - to craft tools and weapons.",
+      "url": "https://store.steampowered.com/app/2582470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "击败最终Boss后开启无限模式，以更高难度换双倍奖励",
+      "dimension": "玩法",
+      "excerpt": "After defeating the final boss, you can continue playing in infinite mode, with greater challenges and double rewards.",
+      "url": "https://store.steampowered.com/app/2582470/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 8354,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1278,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 301,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8354,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8354,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.366468920072203,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 157,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.461538,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Wacky West位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/d05417e736c1e71b1b7288d5afb7f37b57778088/ss_d05417e736c1e71b1b7288d5afb7f37b57778088.1920x1080.jpg?t=1764959729",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/d05417e736c1e71b1b7288d5afb7f37b57778088/ss_d05417e736c1e71b1b7288d5afb7f37b57778088.1920x1080.jpg?t=1764959729",
+        "alt": "Wacky West 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/1add8779db6927fd6ecf63f490596648571dca5c/ss_1add8779db6927fd6ecf63f490596648571dca5c.1920x1080.jpg?t=1764959729",
+        "alt": "Wacky West 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/341419e6093982a0b20d01db13287e73f1396152/ss_341419e6093982a0b20d01db13287e73f1396152.1920x1080.jpg?t=1764959729",
+        "alt": "Wacky West 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/ee7b1db356b885dacec687135545fb409f67c6db/ss_ee7b1db356b885dacec687135545fb409f67c6db.1920x1080.jpg?t=1764959729",
+        "alt": "Wacky West 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/f45ca0c0fda6ca1fac9b67697bac112c09a41d01/ss_f45ca0c0fda6ca1fac9b67697bac112c09a41d01.1920x1080.jpg?t=1764959729",
+        "alt": "Wacky West 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/cfd46a846a68ca2e205151961a5afcd172a70d9d/ss_cfd46a846a68ca2e205151961a5afcd172a70d9d.1920x1080.jpg?t=1764959729",
+        "alt": "Wacky West 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/14b19091e0ab0e2532f513ac9a52c9baf763f16d/ss_14b19091e0ab0e2532f513ac9a52c9baf763f16d.1920x1080.jpg?t=1764959729",
+        "alt": "Wacky West 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582470/d4feac41c58013af9a501eccec458fe21f224df6/ss_d4feac41c58013af9a501eccec458fe21f224df6.1920x1080.jpg?t=1764959729",
+        "alt": "Wacky West 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

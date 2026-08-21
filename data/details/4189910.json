@@ -1,1 +1,159 @@
-{"identity":{"original_title":"Dice In You","developers":["Team DICE"],"publishers":["Sejong Univ. PandoraCube"],"release_status":"released","release_date":"2025-12-11","tags":["肉鸽卡组构筑","卡组构筑","策略","模拟","类Rogue"]},"hooks":[{"text":"每轮获得带特殊能力的新骰子，再与已有骰子融合，制造专属强力骰。","dimension":"玩法","excerpt":"At the end of each round, you can obtain dice with special abilities. Newly acquired dice can be fused with one of your existing dice to create your own powerful custom die.","url":"https://store.steampowered.com/app/4189910/","label":"证据原文片段"},{"text":"女孩的情绪会随你的玩法改变，并可能反过来帮助两人逃离密室。","dimension":"故事","excerpt":"The girl’s emotions change depending on how you play. Her shifting feelings may end up helping you. Reach the end together with the girl— and ESCAPE .","url":"https://store.steampowered.com/app/4189910/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":7813,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":132,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.9474961756706073,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":205,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.097561,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/46569aa5227867ad7363da27d5731b7d16cbb823/ss_46569aa5227867ad7363da27d5731b7d16cbb823.1920x1080.jpg?t=1765538267","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/46569aa5227867ad7363da27d5731b7d16cbb823/ss_46569aa5227867ad7363da27d5731b7d16cbb823.1920x1080.jpg?t=1765538267","alt":"Dice In You 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/97abb668e0c23d7cde444fffe7855c095e7829c9/ss_97abb668e0c23d7cde444fffe7855c095e7829c9.1920x1080.jpg?t=1765538267","alt":"Dice In You 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/552ebe57942b3e4672ff43df520ca2c3bd554d2d/ss_552ebe57942b3e4672ff43df520ca2c3bd554d2d.1920x1080.jpg?t=1765538267","alt":"Dice In You 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/1b4d5eb82c8f18f098d61c004dc4fb4c8b5c5772/ss_1b4d5eb82c8f18f098d61c004dc4fb4c8b5c5772.1920x1080.jpg?t=1765538267","alt":"Dice In You 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dice In You",
+    "developers": [
+      "Team DICE"
+    ],
+    "publishers": [
+      "Sejong Univ. PandoraCube"
+    ],
+    "release_status": "released",
+    "release_date": "2025-12-11",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡组构筑",
+      "策略",
+      "模拟",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每轮获得带特殊能力的新骰子，再与已有骰子融合，制造专属强力骰。",
+      "dimension": "玩法",
+      "excerpt": "At the end of each round, you can obtain dice with special abilities. Newly acquired dice can be fused with one of your existing dice to create your own powerful custom die.",
+      "url": "https://store.steampowered.com/app/4189910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "女孩的情绪会随你的玩法改变，并可能反过来帮助两人逃离密室。",
+      "dimension": "故事",
+      "excerpt": "The girl’s emotions change depending on how you play. Her shifting feelings may end up helping you. Reach the end together with the girl— and ESCAPE .",
+      "url": "https://store.steampowered.com/app/4189910/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 9123,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 137,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 9123,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 9123,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.8421868184406707,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 229,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.614035,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Dice In You位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/46569aa5227867ad7363da27d5731b7d16cbb823/ss_46569aa5227867ad7363da27d5731b7d16cbb823.1920x1080.jpg?t=1765538267",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/46569aa5227867ad7363da27d5731b7d16cbb823/ss_46569aa5227867ad7363da27d5731b7d16cbb823.1920x1080.jpg?t=1765538267",
+        "alt": "Dice In You 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/97abb668e0c23d7cde444fffe7855c095e7829c9/ss_97abb668e0c23d7cde444fffe7855c095e7829c9.1920x1080.jpg?t=1765538267",
+        "alt": "Dice In You 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/552ebe57942b3e4672ff43df520ca2c3bd554d2d/ss_552ebe57942b3e4672ff43df520ca2c3bd554d2d.1920x1080.jpg?t=1765538267",
+        "alt": "Dice In You 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/1b4d5eb82c8f18f098d61c004dc4fb4c8b5c5772/ss_1b4d5eb82c8f18f098d61c004dc4fb4c8b5c5772.1920x1080.jpg?t=1765538267",
+        "alt": "Dice In You 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189910/1c963638680426392993b2752b122b2e49b7e199/ss_1c963638680426392993b2752b122b2e49b7e199.1920x1080.jpg?t=1765538267",
+        "alt": "Dice In You 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

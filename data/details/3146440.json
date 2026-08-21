@@ -1,1 +1,178 @@
-{"identity":{"original_title":"SPORTAL","developers":["Sleepwalking Potatoes"],"publishers":["Retrovibe"],"release_status":"released","release_date":"2026-06-11","tags":["动作肉鸽","竞技场射击","轻度Rogue","角色扮演","永久死亡"]},"hooks":[{"text":"用重金属棒球、闪电冰球、保龄球炮塔和元素高尔夫球猎杀怪物","dimension":"玩法","excerpt":"- Use a variety of sporting equipment to defeat hordes of monsters straight from 50's era creature features by heavy metal baseballs, lightning infused hockey pucks, bowling ball turrets and elemental golf balls that freeze, ignite, or terrify anything in their path, and more!","url":"https://store.steampowered.com/app/3146440/","label":"证据原文片段"},{"text":"八种基础体育武器拥有一百二十多升级，并搭配一百种装备专长","dimension":"玩法","excerpt":"Features: 8 base sports weapons with over 120 lethal upgrades in total 100 perks: backpacks, shoulder pads, boots, and masks","url":"https://store.steampowered.com/app/3146440/","label":"证据原文片段"},{"text":"六个五十年代B级片场景对阵十九类怪物与五名Boss","dimension":"题材","excerpt":"6 B-movie-themed environments and dozens of arenas 19 types of movie monsters and 5 brutal bosses Dark humor, retro-styled gibs and satisfying monster-smashing 19 badass tracks to pump you up during mayhem Retro stylised pixelated look with a serious 50's vibe","url":"https://store.steampowered.com/app/3146440/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":883,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":24148,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5729,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":920,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":920,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.2805107669160045,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":52,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.076923,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、竞技场射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/e6781f0064a423b32126c227700ac739b7f4524f/ss_e6781f0064a423b32126c227700ac739b7f4524f.1920x1080.jpg?t=1782581563","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/e6781f0064a423b32126c227700ac739b7f4524f/ss_e6781f0064a423b32126c227700ac739b7f4524f.1920x1080.jpg?t=1782581563","alt":"SPORTAL 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/eabded44309aa4886cf191e814783b3af2ffb9ce/ss_eabded44309aa4886cf191e814783b3af2ffb9ce.1920x1080.jpg?t=1782581563","alt":"SPORTAL 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/eb179b7ae35577faf4a3ac3e03a6487f5e716776/ss_eb179b7ae35577faf4a3ac3e03a6487f5e716776.1920x1080.jpg?t=1782581563","alt":"SPORTAL 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/a3ced3d3415debe52053519b9926fcfad32d96d0/ss_a3ced3d3415debe52053519b9926fcfad32d96d0.1920x1080.jpg?t=1782581563","alt":"SPORTAL 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "SPORTAL",
+    "developers": [
+      "Sleepwalking Potatoes"
+    ],
+    "publishers": [
+      "Retrovibe"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-11",
+    "tags": [
+      "策略",
+      "动作肉鸽",
+      "竞技场射击",
+      "轻度Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用重金属棒球、闪电冰球、保龄球炮塔和元素高尔夫球猎杀怪物",
+      "dimension": "玩法",
+      "excerpt": "- Use a variety of sporting equipment to defeat hordes of monsters straight from 50's era creature features by heavy metal baseballs, lightning infused hockey pucks, bowling ball turrets and elemental golf balls that freeze, ignite, or terrify anything in their path, and more!",
+      "url": "https://store.steampowered.com/app/3146440/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "八种基础体育武器拥有一百二十多升级，并搭配一百种装备专长",
+      "dimension": "玩法",
+      "excerpt": "Features: 8 base sports weapons with over 120 lethal upgrades in total 100 perks: backpacks, shoulder pads, boots, and masks",
+      "url": "https://store.steampowered.com/app/3146440/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "六个五十年代B级片场景对阵十九类怪物与五名Boss",
+      "dimension": "题材",
+      "excerpt": "6 B-movie-themed environments and dozens of arenas 19 types of movie monsters and 5 brutal bosses Dark humor, retro-styled gibs and satisfying monster-smashing 19 badass tracks to pump you up during mayhem Retro stylised pixelated look with a serious 50's vibe",
+      "url": "https://store.steampowered.com/app/3146440/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1188,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 24291,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1275,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 7886,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1259,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1259,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.240391087129476,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 57,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.16129,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "SPORTAL位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/e6781f0064a423b32126c227700ac739b7f4524f/ss_e6781f0064a423b32126c227700ac739b7f4524f.1920x1080.jpg?t=1782581563",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/e6781f0064a423b32126c227700ac739b7f4524f/ss_e6781f0064a423b32126c227700ac739b7f4524f.1920x1080.jpg?t=1785171070",
+        "alt": "SPORTAL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/eabded44309aa4886cf191e814783b3af2ffb9ce/ss_eabded44309aa4886cf191e814783b3af2ffb9ce.1920x1080.jpg?t=1785171070",
+        "alt": "SPORTAL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/eb179b7ae35577faf4a3ac3e03a6487f5e716776/ss_eb179b7ae35577faf4a3ac3e03a6487f5e716776.1920x1080.jpg?t=1785171070",
+        "alt": "SPORTAL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/a3ced3d3415debe52053519b9926fcfad32d96d0/ss_a3ced3d3415debe52053519b9926fcfad32d96d0.1920x1080.jpg?t=1785171070",
+        "alt": "SPORTAL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/9ccf8c861b9ec436fab71ef323fcc79134131898/ss_9ccf8c861b9ec436fab71ef323fcc79134131898.1920x1080.jpg?t=1785171070",
+        "alt": "SPORTAL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/ad05b75430e88b882f9faab4a26bfbe2a5bc8fe2/ss_ad05b75430e88b882f9faab4a26bfbe2a5bc8fe2.1920x1080.jpg?t=1785171070",
+        "alt": "SPORTAL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/b36fc7fcc532f0e6469166a4bfa3c3e46acc11bd/ss_b36fc7fcc532f0e6469166a4bfa3c3e46acc11bd.1920x1080.jpg?t=1785171070",
+        "alt": "SPORTAL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146440/cd160c7d4668a8de5e9b7bd3e208a0a178e49adc/ss_cd160c7d4668a8de5e9b7bd3e208a0a178e49adc.1920x1080.jpg?t=1785171070",
+        "alt": "SPORTAL 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

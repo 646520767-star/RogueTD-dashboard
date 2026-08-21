@@ -1,1 +1,317 @@
-{"identity":{"original_title":"Keeper's Toll","developers":["Stingbot Games"],"publishers":["Stingbot Games","Doyoyo Games"],"release_status":"released","release_date":"2024-10-28","tags":["动作肉鸽","轻度Rogue","像素画面","弹幕射击","类Rogue"]},"hooks":[{"text":"每轮通过观察敌人磨炼操作，主线推进后逐步加入新敌人与Boss机制","dimension":"玩法","excerpt":"Keeper’s Toll places a heavy focus on skill-based gameplay with ARPG elements. Each run allows you to study your enemies and hone your skills while progressing through the main quest. Once you have mastered the basics, Keeper’s Toll introduces unique enemy archetypes, intricate bosses, and fresh mechanics that will challenge any worthy hero.","url":"https://store.steampowered.com/app/2002220/","label":"证据原文片段"},{"text":"六名复生英雄各有决定玩法的专属机制、能力与成长树","dimension":"玩法","excerpt":"Keeper's Toll features 6 unique risen heroes: the Shadow Monk, Pyromancer, Blood Maiden, Necromancer, Ranger, and Bogatyr. Each hero has their own specialized game-defining mechanics, as well as completely unique abilities and progression trees.","url":"https://store.steampowered.com/app/2002220/","label":"证据原文片段"},{"text":"Boss、小Boss与入侵者各有机制变体，要求针对性规划角色强化","dimension":"玩法","excerpt":"Ferocious bosses and cutthroat invaders lie at the heart of Keeper’s Toll and its perilous lands. All of the bosses, mini bosses, and invaders you will encounter feature their own unique battle mechanics and twists on the core gameplay. Overcoming the bosses requires a keen sense of strategy, so strengthen your character with purpose or suffer a swift end to your journey.","url":"https://store.steampowered.com/app/2002220/","label":"证据原文片段"}],"opinions":[{"text":"职业局内升级路线只有两到三条且相互重叠。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"only really 2-3 upgrade paths in a run (which overlap a bit).","url":"https://steamcommunity.com/profiles/76561197968658621/recommended/2002220","label":"证据原文片段"}]},{"text":"职业独特天赋树很浅。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"there is a unique tree but shallow","url":"https://steamcommunity.com/profiles/76561197974326583/recommended/2002220/","label":"证据原文片段"}]},{"text":"局外天赋树过于简单且提升很弱。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"天赋树做的过于简单，而且弱的不行","url":"https://steamcommunity.com/profiles/76561198286119727/recommended/2002220/","label":"证据原文片段"}]},{"text":"玩法缺少自身特色。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"这个幸存者没有啥自己的特点啊","url":"https://steamcommunity.com/profiles/76561198096620866/recommended/2002220/","label":"证据原文片段"}]},{"text":"可用角色平衡严重失调。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the balance is completly off on playable characters","url":"https://steamcommunity.com/profiles/76561198045886202/recommended/2002220/","label":"证据原文片段"}]},{"text":"技能升级顺序随机，关键技能获取时机过于看运气。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"什么时间拿到能升几级就很看运气。","url":"https://steamcommunity.com/profiles/76561198286119727/recommended/2002220/","label":"证据原文片段"}]},{"text":"缺少改变构筑的肉鸽元素。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"为啥不缝合点能搭配和改变build的肉鸽元素进去啊","url":"https://steamcommunity.com/profiles/76561198096620866/recommended/2002220/","label":"证据原文片段"}]},{"text":"实际缺少ARPG与魂系元素。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"no arpg or souls-like elements at all.","url":"https://steamcommunity.com/profiles/76561197974326583/recommended/2002220/","label":"证据原文片段"}]},{"text":"Boss奖励正反馈过少。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"现在打完boss也基本没啥奖励，正反馈太少了。","url":"https://steamcommunity.com/profiles/76561198096620866/recommended/2002220/","label":"证据原文片段"}]},{"text":"废技能会污染升级池。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"很多废物技能污染池子","url":"https://steamcommunity.com/profiles/76561198286119727/recommended/2002220/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":40227,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":52108,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3468,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":167023,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":45207,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":45207,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.242360743488433,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":788,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.607098,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["职业局内升级路线只有两到三条且相互重叠。","职业独特天赋树很浅。","局外天赋树过于简单且提升很弱。","玩法缺少自身特色。","可用角色平衡严重失调。","技能升级顺序随机，关键技能获取时机过于看运气。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_18415cfa545d4fd9edf90e71455784c48ace6634.1920x1080.jpg?t=1771810545","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_18415cfa545d4fd9edf90e71455784c48ace6634.1920x1080.jpg?t=1771810545","alt":"守护者之魂 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_84fb08ce664059e5f8552184b5922ca91b5b06a5.1920x1080.jpg?t=1771810545","alt":"守护者之魂 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_23ca4d6d13169d0c143c4bb1442dfbd160648ce5.1920x1080.jpg?t=1771810545","alt":"守护者之魂 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_6af78bd34486682d5f890f33993be26b23576b74.1920x1080.jpg?t=1771810545","alt":"守护者之魂 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Keeper's Toll",
+    "developers": [
+      "Stingbot Games"
+    ],
+    "publishers": [
+      "Stingbot Games",
+      "Doyoyo Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-28",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "动作肉鸽",
+      "像素画面",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每轮通过观察敌人磨炼操作，主线推进后逐步加入新敌人与Boss机制",
+      "dimension": "玩法",
+      "excerpt": "Keeper’s Toll places a heavy focus on skill-based gameplay with ARPG elements. Each run allows you to study your enemies and hone your skills while progressing through the main quest. Once you have mastered the basics, Keeper’s Toll introduces unique enemy archetypes, intricate bosses, and fresh mechanics that will challenge any worthy hero.",
+      "url": "https://store.steampowered.com/app/2002220/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "六名复生英雄各有决定玩法的专属机制、能力与成长树",
+      "dimension": "玩法",
+      "excerpt": "Keeper's Toll features 6 unique risen heroes: the Shadow Monk, Pyromancer, Blood Maiden, Necromancer, Ranger, and Bogatyr. Each hero has their own specialized game-defining mechanics, as well as completely unique abilities and progression trees.",
+      "url": "https://store.steampowered.com/app/2002220/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Boss、小Boss与入侵者各有机制变体，要求针对性规划角色强化",
+      "dimension": "玩法",
+      "excerpt": "Ferocious bosses and cutthroat invaders lie at the heart of Keeper’s Toll and its perilous lands. All of the bosses, mini bosses, and invaders you will encounter feature their own unique battle mechanics and twists on the core gameplay. Overcoming the bosses requires a keen sense of strategy, so strengthen your character with purpose or suffer a swift end to your journey.",
+      "url": "https://store.steampowered.com/app/2002220/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "职业局内升级路线只有两到三条且相互重叠。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "only really 2-3 upgrade paths in a run (which overlap a bit).",
+          "url": "https://steamcommunity.com/profiles/76561197968658621/recommended/2002220",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "职业独特天赋树很浅。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "there is a unique tree but shallow",
+          "url": "https://steamcommunity.com/profiles/76561197974326583/recommended/2002220/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局外天赋树过于简单且提升很弱。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "天赋树做的过于简单，而且弱的不行",
+          "url": "https://steamcommunity.com/profiles/76561198286119727/recommended/2002220/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法缺少自身特色。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "这个幸存者没有啥自己的特点啊",
+          "url": "https://steamcommunity.com/profiles/76561198096620866/recommended/2002220/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "可用角色平衡严重失调。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the balance is completly off on playable characters",
+          "url": "https://steamcommunity.com/profiles/76561198045886202/recommended/2002220/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "技能升级顺序随机，关键技能获取时机过于看运气。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "什么时间拿到能升几级就很看运气。",
+          "url": "https://steamcommunity.com/profiles/76561198286119727/recommended/2002220/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少改变构筑的肉鸽元素。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "为啥不缝合点能搭配和改变build的肉鸽元素进去啊",
+          "url": "https://steamcommunity.com/profiles/76561198096620866/recommended/2002220/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "实际缺少ARPG与魂系元素。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "no arpg or souls-like elements at all.",
+          "url": "https://steamcommunity.com/profiles/76561197974326583/recommended/2002220/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boss奖励正反馈过少。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "现在打完boss也基本没啥奖励，正反馈太少了。",
+          "url": "https://steamcommunity.com/profiles/76561198096620866/recommended/2002220/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "废技能会污染升级池。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "很多废物技能污染池子",
+          "url": "https://steamcommunity.com/profiles/76561198286119727/recommended/2002220/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 42810,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 52417,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3469,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 176572,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 48264,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 48264,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.255313808301342,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 665,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.659521,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "职业局内升级路线只有两到三条且相互重叠。",
+    "职业独特天赋树很浅。",
+    "局外天赋树过于简单且提升很弱。",
+    "玩法缺少自身特色。",
+    "可用角色平衡严重失调。",
+    "技能升级顺序随机，关键技能获取时机过于看运气。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "守护者之魂位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_18415cfa545d4fd9edf90e71455784c48ace6634.1920x1080.jpg?t=1771810545",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_18415cfa545d4fd9edf90e71455784c48ace6634.1920x1080.jpg?t=1771810545",
+        "alt": "守护者之魂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_84fb08ce664059e5f8552184b5922ca91b5b06a5.1920x1080.jpg?t=1771810545",
+        "alt": "守护者之魂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_23ca4d6d13169d0c143c4bb1442dfbd160648ce5.1920x1080.jpg?t=1771810545",
+        "alt": "守护者之魂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_6af78bd34486682d5f890f33993be26b23576b74.1920x1080.jpg?t=1771810545",
+        "alt": "守护者之魂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_b98a6b69c168e4188e0449cba57c62b4589cfa86.1920x1080.jpg?t=1771810545",
+        "alt": "守护者之魂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_5cbacdf6adf297b420469ad3edfb2975fbfd75f2.1920x1080.jpg?t=1771810545",
+        "alt": "守护者之魂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_e1099119a40e72ea21843c79a9d7c46bbfc53204.1920x1080.jpg?t=1771810545",
+        "alt": "守护者之魂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/ss_190c09e045661d689334ff9b6e6ca89053cf7dd6.1920x1080.jpg?t=1771810545",
+        "alt": "守护者之魂 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

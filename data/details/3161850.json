@@ -1,1 +1,321 @@
-{"identity":{"original_title":"Boosted Survivors","developers":["Clarity Games"],"publishers":["Clarity Games"],"release_status":"released","release_date":"2024-08-29","tags":["角色扮演","动作肉鸽","动作","沙盒","街机"]},"hooks":[{"text":"可任意上调或下调英雄、武器和技能的数值，用双向改造重写每局规则与构筑","dimension":"玩法","excerpt":"Boosting lets you increase or decrease any value of your hero, weapons and abilities, giving you complete freedom to reinterpret the game in new and exciting ways.","url":"https://store.steampowered.com/app/3161850/","label":"证据原文片段"},{"text":"十二种起始武器与法术继续叠加普通和传奇升级，传奇强化还会解锁新的改造方式","dimension":"玩法","excerpt":"12 unique starting weapons and spells. Tons of upgrades to them, but we don't want to spoil just how many. Even more legendary upgrades that give new ways to boost your hero.","url":"https://store.steampowered.com/app/3161850/","label":"证据原文片段"},{"text":"穿越敌群试炼抵达最终首领后，还能把生存成绩投入全球排行榜竞争","dimension":"玩法","excerpt":"An intimidating gauntlet of enemies on your journey to the final boss. A global Leaderboard to compete for the spot of top survivor.","url":"https://store.steampowered.com/app/3161850/","label":"证据原文片段"}],"opinions":[{"text":"酸液池视觉不像酸液且难以发现。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Acid pool does not look like acid, i could barely tell it existed","url":"https://steamcommunity.com/id/NaClFueled/recommended/3161850/","label":"证据原文片段"}]},{"text":"部分图形表现过于粗糙。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"quite a bit of graphics are simply too primitive","url":"https://steamcommunity.com/id/SemyonTheGreat/recommended/3161850/","label":"证据原文片段"}]},{"text":"键鼠移动体验很差。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the movement is horrible on MnK","url":"https://steamcommunity.com/id/NaClFueled/recommended/3161850/","label":"证据原文片段"}]},{"text":"闪避移动仍显得卡顿。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"movement jank on dodges","url":"https://steamcommunity.com/id/NaClFueled/recommended/3161850/","label":"证据原文片段"}]},{"text":"死亡原因缺乏说明。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"I can't see how I died in multiple runs","url":"https://steamcommunity.com/profiles/76561198087690287/recommended/3161850/","label":"证据原文片段"}]},{"text":"获得目标增强过度依赖运气。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"too much luck regarding if you get the boosts you want","url":"https://steamcommunity.com/id/zurreco/recommended/3161850/","label":"证据原文片段"}]},{"text":"玩家碰撞箱位置异常。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the hitbox for the player character just... feels a bit off","url":"https://steamcommunity.com/id/NaClFueled/recommended/3161850/","label":"证据原文片段"}]},{"text":"属性与技能描述糟糕。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"terrible stat/skill descriptions","url":"https://steamcommunity.com/id/zurreco/recommended/3161850/","label":"证据原文片段"}]},{"text":"召唤流等玩法会出现明显卡顿。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Last update really made some gameplays lag (speccialy summon builds).","url":"https://steamcommunity.com/profiles/76561198038161253/recommended/3161850/","label":"证据原文片段"}]},{"text":"冲刺进入敌人后可能被卡住。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"enemies getting stuck in your character if you dash into them","url":"https://steamcommunity.com/id/NaClFueled/recommended/3161850/","label":"证据原文片段"}]},{"text":"特效叠加可能严重降低帧率。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"FPS killing from slightly too intense effect stacking","url":"https://steamcommunity.com/id/SemyonTheGreat/recommended/3161850/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":4362,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1127,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":136,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3886,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4397,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4397,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.865651254141055,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":179,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.530726,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["酸液池视觉不像酸液且难以发现。","部分图形表现过于粗糙。","键鼠移动体验很差。","闪避移动仍显得卡顿。","死亡原因缺乏说明。","获得目标增强过度依赖运气。","技术/性能：玩家碰撞箱位置异常。","技术/性能：召唤流等玩法会出现明显卡顿。","技术/性能：冲刺进入敌人后可能被卡住。","技术/性能：特效叠加可能严重降低帧率。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_134adf87cc6ad265a27b247960e6b6f55a03c16e.1920x1080.jpg?t=1724929505","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_134adf87cc6ad265a27b247960e6b6f55a03c16e.1920x1080.jpg?t=1724929505","alt":"Boosted Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_8165de6c4acc2f2658bddcaaa8e1f4534b9696c1.1920x1080.jpg?t=1724929505","alt":"Boosted Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_f344801c25c51a4d2e9292e5cba3fce7cd27cd75.1920x1080.jpg?t=1724929505","alt":"Boosted Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_38b0a5ec94ef1ab0fc8288d943064489b8661758.1920x1080.jpg?t=1724929505","alt":"Boosted Survivors 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Boosted Survivors",
+    "developers": [
+      "Clarity Games"
+    ],
+    "publishers": [
+      "Clarity Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-29",
+    "tags": [
+      "角色扮演",
+      "动作肉鸽",
+      "动作",
+      "沙盒",
+      "街机"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "可任意上调或下调英雄、武器和技能的数值，用双向改造重写每局规则与构筑",
+      "dimension": "玩法",
+      "excerpt": "Boosting lets you increase or decrease any value of your hero, weapons and abilities, giving you complete freedom to reinterpret the game in new and exciting ways.",
+      "url": "https://store.steampowered.com/app/3161850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十二种起始武器与法术继续叠加普通和传奇升级，传奇强化还会解锁新的改造方式",
+      "dimension": "玩法",
+      "excerpt": "12 unique starting weapons and spells. Tons of upgrades to them, but we don't want to spoil just how many. Even more legendary upgrades that give new ways to boost your hero.",
+      "url": "https://store.steampowered.com/app/3161850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "穿越敌群试炼抵达最终首领后，还能把生存成绩投入全球排行榜竞争",
+      "dimension": "玩法",
+      "excerpt": "An intimidating gauntlet of enemies on your journey to the final boss. A global Leaderboard to compete for the spot of top survivor.",
+      "url": "https://store.steampowered.com/app/3161850/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "酸液池视觉不像酸液且难以发现。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Acid pool does not look like acid, i could barely tell it existed",
+          "url": "https://steamcommunity.com/id/NaClFueled/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分图形表现过于粗糙。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "quite a bit of graphics are simply too primitive",
+          "url": "https://steamcommunity.com/id/SemyonTheGreat/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "键鼠移动体验很差。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the movement is horrible on MnK",
+          "url": "https://steamcommunity.com/id/NaClFueled/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "闪避移动仍显得卡顿。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "movement jank on dodges",
+          "url": "https://steamcommunity.com/id/NaClFueled/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "死亡原因缺乏说明。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "I can't see how I died in multiple runs",
+          "url": "https://steamcommunity.com/profiles/76561198087690287/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "获得目标增强过度依赖运气。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "too much luck regarding if you get the boosts you want",
+          "url": "https://steamcommunity.com/id/zurreco/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩家碰撞箱位置异常。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the hitbox for the player character just... feels a bit off",
+          "url": "https://steamcommunity.com/id/NaClFueled/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "属性与技能描述糟糕。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "terrible stat/skill descriptions",
+          "url": "https://steamcommunity.com/id/zurreco/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "召唤流等玩法会出现明显卡顿。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Last update really made some gameplays lag (speccialy summon builds).",
+          "url": "https://steamcommunity.com/profiles/76561198038161253/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "冲刺进入敌人后可能被卡住。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "enemies getting stuck in your character if you dash into them",
+          "url": "https://steamcommunity.com/id/NaClFueled/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "特效叠加可能严重降低帧率。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "FPS killing from slightly too intense effect stacking",
+          "url": "https://steamcommunity.com/id/SemyonTheGreat/recommended/3161850/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4628,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1127,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 135,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 4123,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4664,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4664,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.92447095282185,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 177,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.530726,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "酸液池视觉不像酸液且难以发现。",
+    "部分图形表现过于粗糙。",
+    "键鼠移动体验很差。",
+    "闪避移动仍显得卡顿。",
+    "死亡原因缺乏说明。",
+    "获得目标增强过度依赖运气。",
+    "技术/性能：玩家碰撞箱位置异常。",
+    "技术/性能：召唤流等玩法会出现明显卡顿。",
+    "技术/性能：冲刺进入敌人后可能被卡住。",
+    "技术/性能：特效叠加可能严重降低帧率。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Boosted Survivors位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_134adf87cc6ad265a27b247960e6b6f55a03c16e.1920x1080.jpg?t=1724929505",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_134adf87cc6ad265a27b247960e6b6f55a03c16e.1920x1080.jpg?t=1724929505",
+        "alt": "Boosted Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_8165de6c4acc2f2658bddcaaa8e1f4534b9696c1.1920x1080.jpg?t=1724929505",
+        "alt": "Boosted Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_f344801c25c51a4d2e9292e5cba3fce7cd27cd75.1920x1080.jpg?t=1724929505",
+        "alt": "Boosted Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_38b0a5ec94ef1ab0fc8288d943064489b8661758.1920x1080.jpg?t=1724929505",
+        "alt": "Boosted Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161850/ss_8314b81aa6462ab31d6cad4f760fde1d79fb7bdb.1920x1080.jpg?t=1724929505",
+        "alt": "Boosted Survivors 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

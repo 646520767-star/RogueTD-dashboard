@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Footgun: Underground","developers":["Turtle Knight Games"],"publishers":["CobraTekku Games"],"release_status":"released","release_date":"2024-04-30","tags":["动作肉鸽","街机","二维画面","轻度Rogue","单人游戏"]},"hooks":[{"text":"没有枪械、魔法或刀剑，唯一需要掌握的武器是一颗未来感十足的致命足球。","dimension":"玩法","excerpt":"Instead of guns, magic or swords you have only one weapon to master: your futuristic ball of death.","url":"https://store.steampowered.com/app/2206240/","label":"证据原文片段"},{"text":"精准控球要结合房间角度、空间布局与不同敌人的行为，把环境本身转化为攻击路线。","dimension":"玩法","excerpt":"Leverage the angles and layout of the rooms as well as the behavior of the different enemy types to create a barrage of violence.","url":"https://store.steampowered.com/app/2206240/","label":"证据原文片段"},{"text":"可解锁的多名角色和多种独特球体，让每次跑局都能尝试不同构筑与操控流派。","dimension":"玩法","excerpt":"With a variety of different, unlockable characters as well as a multitude of unique balls, each run you will find many builds and different playstyles to experiment with.","url":"https://store.steampowered.com/app/2206240/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3514,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27961,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1094,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":36159,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4049,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4049,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.880063482215836,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":122,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.704918,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、街机","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_29008e48c7d86f219c56c5d72313c781a8240c13.1920x1080.jpg?t=1777997735","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_29008e48c7d86f219c56c5d72313c781a8240c13.1920x1080.jpg?t=1777997735","alt":"踢踢地牢 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_502698e96a71b4f86968ca90b3dc696fac4b1893.1920x1080.jpg?t=1777997735","alt":"踢踢地牢 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_6787882a14b2743263a05e55ea10f45571ceb159.1920x1080.jpg?t=1777997735","alt":"踢踢地牢 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_48c65883100b32c5f3476f02bb0cf94a7437fd18.1920x1080.jpg?t=1777997735","alt":"踢踢地牢 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Footgun: Underground",
+    "developers": [
+      "Turtle Knight Games"
+    ],
+    "publishers": [
+      "CobraTekku Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-30",
+    "tags": [
+      "动作肉鸽",
+      "街机",
+      "二维画面",
+      "轻度Rogue",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "没有枪械、魔法或刀剑，唯一需要掌握的武器是一颗未来感十足的致命足球。",
+      "dimension": "玩法",
+      "excerpt": "Instead of guns, magic or swords you have only one weapon to master: your futuristic ball of death.",
+      "url": "https://store.steampowered.com/app/2206240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "精准控球要结合房间角度、空间布局与不同敌人的行为，把环境本身转化为攻击路线。",
+      "dimension": "玩法",
+      "excerpt": "Leverage the angles and layout of the rooms as well as the behavior of the different enemy types to create a barrage of violence.",
+      "url": "https://store.steampowered.com/app/2206240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可解锁的多名角色和多种独特球体，让每次跑局都能尝试不同构筑与操控流派。",
+      "dimension": "玩法",
+      "excerpt": "With a variety of different, unlockable characters as well as a multitude of unique balls, each run you will find many builds and different playstyles to experiment with.",
+      "url": "https://store.steampowered.com/app/2206240/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4033,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 28126,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1095,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 37862,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4646,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4646,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.880063482215836,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 99,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.704918,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "踢踢地牢位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_29008e48c7d86f219c56c5d72313c781a8240c13.1920x1080.jpg?t=1777997735",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_29008e48c7d86f219c56c5d72313c781a8240c13.1920x1080.jpg?t=1777997735",
+        "alt": "踢踢地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_502698e96a71b4f86968ca90b3dc696fac4b1893.1920x1080.jpg?t=1777997735",
+        "alt": "踢踢地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_6787882a14b2743263a05e55ea10f45571ceb159.1920x1080.jpg?t=1777997735",
+        "alt": "踢踢地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_48c65883100b32c5f3476f02bb0cf94a7437fd18.1920x1080.jpg?t=1777997735",
+        "alt": "踢踢地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_e933429e329fc404b91e93136cadd5ae54bc103b.1920x1080.jpg?t=1777997735",
+        "alt": "踢踢地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_0cae9268c4e1e14fe38b4c15fb9b02622cabba97.1920x1080.jpg?t=1777997735",
+        "alt": "踢踢地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_776588af71b2d03d90229a82b3dbf265ec51785d.1920x1080.jpg?t=1777997735",
+        "alt": "踢踢地牢 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206240/ss_1f96f0bac2ae39f25f56fefc4b7337052088805c.1920x1080.jpg?t=1777997735",
+        "alt": "踢踢地牢 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

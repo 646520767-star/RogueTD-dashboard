@@ -1,1 +1,166 @@
-{"identity":{"original_title":"Mineral Defense","developers":["Corestone Games"],"publishers":["Corestone Games"],"release_status":"released","release_date":"2024-11-15","tags":["策略","轻度Rogue","塔防","卡牌游戏","类Rogue"]},"hooks":[{"text":"解锁地块并摆放不同形状结构，亲手构造交叉口与瓶颈迷宫","dimension":"玩法","excerpt":"Shape the battlefield by unlocking tiles and crafting the ultimate path. Plan intersections and bottlenecks to funnel enemies in the most efficient way.","url":"https://store.steampowered.com/app/3125890/","label":"证据原文片段"},{"text":"让减速、破抗、酸蚀与导弹爆破按顺序联动，组合塔群完成清场","dimension":"玩法","excerpt":"Slow enemies, reduce their resistance, melt them with acid, then explode them with missiles!","url":"https://store.steampowered.com/app/3125890/","label":"证据原文片段"},{"text":"每轮结束抽卡解锁强化与新建筑，让防线持续扩张和转型","dimension":"玩法","excerpt":"Draw cards after rounds to unlock powerful upgrades, activate new structures, and improve your chance of victory.","url":"https://store.steampowered.com/app/3125890/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":10290,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":12710,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":734,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":64602,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":11347,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":11347,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.15921120049931,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":248,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.322581,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/b4c1f207335d5ce93fdf08ebe0ccca728b54d774/ss_b4c1f207335d5ce93fdf08ebe0ccca728b54d774.1920x1080.jpg?t=1743397558","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/b4c1f207335d5ce93fdf08ebe0ccca728b54d774/ss_b4c1f207335d5ce93fdf08ebe0ccca728b54d774.1920x1080.jpg?t=1743397558","alt":"Mineral Defense 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/203e2dea17664f13528ce0aa884b34741862eaa5/ss_203e2dea17664f13528ce0aa884b34741862eaa5.1920x1080.jpg?t=1743397558","alt":"Mineral Defense 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/df91ff1bec30acd64b2aab3b5e97d9c73f079027/ss_df91ff1bec30acd64b2aab3b5e97d9c73f079027.1920x1080.jpg?t=1743397558","alt":"Mineral Defense 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/6bdc3c1b10b597e1cad4e46e56569f9bf4f1a937/ss_6bdc3c1b10b597e1cad4e46e56569f9bf4f1a937.1920x1080.jpg?t=1743397558","alt":"Mineral Defense 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Mineral Defense",
+    "developers": [
+      "Corestone Games"
+    ],
+    "publishers": [
+      "Corestone Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-15",
+    "tags": [
+      "策略",
+      "轻度Rogue",
+      "塔防",
+      "卡牌游戏",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "解锁地块并摆放不同形状结构，亲手构造交叉口与瓶颈迷宫",
+      "dimension": "玩法",
+      "excerpt": "Shape the battlefield by unlocking tiles and crafting the ultimate path. Plan intersections and bottlenecks to funnel enemies in the most efficient way.",
+      "url": "https://store.steampowered.com/app/3125890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "让减速、破抗、酸蚀与导弹爆破按顺序联动，组合塔群完成清场",
+      "dimension": "玩法",
+      "excerpt": "Slow enemies, reduce their resistance, melt them with acid, then explode them with missiles!",
+      "url": "https://store.steampowered.com/app/3125890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮结束抽卡解锁强化与新建筑，让防线持续扩张和转型",
+      "dimension": "玩法",
+      "excerpt": "Draw cards after rounds to unlock powerful upgrades, activate new structures, and improve your chance of victory.",
+      "url": "https://store.steampowered.com/app/3125890/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 11913,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 12785,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 735,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 80084,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 13126,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 13126,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.460251187822971,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 217,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.4,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Mineral Defense位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/b4c1f207335d5ce93fdf08ebe0ccca728b54d774/ss_b4c1f207335d5ce93fdf08ebe0ccca728b54d774.1920x1080.jpg?t=1743397558",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/b4c1f207335d5ce93fdf08ebe0ccca728b54d774/ss_b4c1f207335d5ce93fdf08ebe0ccca728b54d774.1920x1080.jpg?t=1743397558",
+        "alt": "Mineral Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/203e2dea17664f13528ce0aa884b34741862eaa5/ss_203e2dea17664f13528ce0aa884b34741862eaa5.1920x1080.jpg?t=1743397558",
+        "alt": "Mineral Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/df91ff1bec30acd64b2aab3b5e97d9c73f079027/ss_df91ff1bec30acd64b2aab3b5e97d9c73f079027.1920x1080.jpg?t=1743397558",
+        "alt": "Mineral Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/6bdc3c1b10b597e1cad4e46e56569f9bf4f1a937/ss_6bdc3c1b10b597e1cad4e46e56569f9bf4f1a937.1920x1080.jpg?t=1743397558",
+        "alt": "Mineral Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125890/4ad4b51d793acdd5d562fefd2c3b5eee4cfd48fc/ss_4ad4b51d793acdd5d562fefd2c3b5eee4cfd48fc.1920x1080.jpg?t=1743397558",
+        "alt": "Mineral Defense 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

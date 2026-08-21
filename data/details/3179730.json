@@ -1,1 +1,317 @@
-{"identity":{"original_title":"Deck of Haunts","developers":["Mantis"],"publishers":["DANGEN Entertainment","Game Source Entertainment"],"release_status":"released","release_date":"2025-05-07","tags":["卡牌游戏","建造","卡牌对战","回合制战术","轻度Rogue"]},"hooks":[{"text":"白天造迷宫，夜晚用恐怖牌改变走廊猎杀访客","dimension":"玩法","excerpt":"By day, meticulously design the labyrinthine layout of your mansion, transforming it into a death trap that no human can escape. As night falls, lure unwitting explorers into your home, where you'll use a deck of terrifying cards to summon spirits, shift hallways, and unleash spine-chilling horrors.","url":"https://store.steampowered.com/app/3179730/","label":"证据原文片段"},{"text":"累积紧张与疯狂，同时守护宅邸心脏房","dimension":"玩法","excerpt":"Build tension and drive your guests toward madness, all while protecting your Heart room—the core of your malevolent power.","url":"https://store.steampowered.com/app/3179730/","label":"证据原文片段"},{"text":"抽取疯狂访客精华扩建房间与招致更强目标","dimension":"玩法","excerpt":"Once you've driven the explorers mad with fear, extract their essence to grow your mansion. Use it to unlock new rooms, expand your haunting powers, and attract more dangerous—and rewarding—targets.","url":"https://store.steampowered.com/app/3179730/","label":"证据原文片段"}],"opinions":[{"text":"题材配套美术风格独到","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"独特的题材本身和同样独到的美术风格","url":"https://steamcommunity.com/profiles/76561198090490140/recommended/3179730/","label":"证据原文片段"}]},{"text":"UI简洁明快且功能区清晰","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"UI更是简洁明快，让人一眼便知使用时的功能区域","url":"https://steamcommunity.com/profiles/76561198090490140/recommended/3179730/","label":"证据原文片段"}]},{"text":"实际上只有一种有效策略","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"There is really only one strategy","url":"https://steamcommunity.com/id/parsonharlequin/recommended/3179730/","label":"证据原文片段"}]},{"text":"部分UI操作笨拙","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"some really clunky UI bits and glitches","url":"https://steamcommunity.com/id/parsonharlequin/recommended/3179730/","label":"证据原文片段"}]},{"text":"系统迫使玩家反复采用同一种建造方式","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it is mandatory to build this way","url":"https://steamcommunity.com/profiles/76561198022409164/recommended/3179730/","label":"证据原文片段"}]},{"text":"主线难度梯度突然增大","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"在这28个回合中难度梯度是猛然增加的","url":"https://steamcommunity.com/id/gain174/recommended/3179730/","label":"证据原文片段"}]},{"text":"房间视角不能转动导致目标难选","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"房间视角好像是不能转动的，导致人走到房间死角，或者被仆从遮挡时很难选中","url":"https://steamcommunity.com/id/gain174/recommended/3179730/","label":"证据原文片段"}]},{"text":"卡牌构筑公式化且缺少亮点","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"卡牌构筑上没什么亮点太公式化","url":"https://steamcommunity.com/profiles/76561199632077996/recommended/3179730/","label":"证据原文片段"}]},{"text":"一小时内就会感到极度重复","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"under an hour in) it gets EXTREMELY repetitive","url":"https://steamcommunity.com/id/parsonharlequin/recommended/3179730/","label":"证据原文片段"}]},{"text":"玩法被锁死为单一建造方式","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"just locks you in to building the house one way","url":"https://steamcommunity.com/profiles/76561198022409164/recommended/3179730/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":42940,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":115658,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":10090,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":620931,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":48297,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":48297,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.297869045820295,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1382,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.745297,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["实际上只有一种有效策略","技术/性能：部分UI操作笨拙","系统迫使玩家反复采用同一种建造方式","主线难度梯度突然增大","房间视角不能转动导致目标难选","卡牌构筑公式化且缺少亮点"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/cb6f9c8dc12368024f9fe3215c97a4a2684b3e7f/ss_cb6f9c8dc12368024f9fe3215c97a4a2684b3e7f.1920x1080.jpg?t=1777990104","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/cb6f9c8dc12368024f9fe3215c97a4a2684b3e7f/ss_cb6f9c8dc12368024f9fe3215c97a4a2684b3e7f.1920x1080.jpg?t=1777990104","alt":"《幽室鬼牌》（Deck of Haunts） 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/c925df29a2af7da99326bbff0699aa081b103b80/ss_c925df29a2af7da99326bbff0699aa081b103b80.1920x1080.jpg?t=1777990104","alt":"《幽室鬼牌》（Deck of Haunts） 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/094af9889878c4c3c880498157fea94f19864bdf/ss_094af9889878c4c3c880498157fea94f19864bdf.1920x1080.jpg?t=1777990104","alt":"《幽室鬼牌》（Deck of Haunts） 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/a7e65d403a0b4503d9ca17483d22f891975ea613/ss_a7e65d403a0b4503d9ca17483d22f891975ea613.1920x1080.jpg?t=1777990104","alt":"《幽室鬼牌》（Deck of Haunts） 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Deck of Haunts",
+    "developers": [
+      "Mantis"
+    ],
+    "publishers": [
+      "DANGEN Entertainment",
+      "Game Source Entertainment"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-07",
+    "tags": [
+      "卡牌游戏",
+      "建造",
+      "卡牌对战",
+      "回合制战术",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "白天造迷宫，夜晚用恐怖牌改变走廊猎杀访客",
+      "dimension": "玩法",
+      "excerpt": "By day, meticulously design the labyrinthine layout of your mansion, transforming it into a death trap that no human can escape. As night falls, lure unwitting explorers into your home, where you'll use a deck of terrifying cards to summon spirits, shift hallways, and unleash spine-chilling horrors.",
+      "url": "https://store.steampowered.com/app/3179730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "累积紧张与疯狂，同时守护宅邸心脏房",
+      "dimension": "玩法",
+      "excerpt": "Build tension and drive your guests toward madness, all while protecting your Heart room—the core of your malevolent power.",
+      "url": "https://store.steampowered.com/app/3179730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "抽取疯狂访客精华扩建房间与招致更强目标",
+      "dimension": "玩法",
+      "excerpt": "Once you've driven the explorers mad with fear, extract their essence to grow your mansion. Use it to unlock new rooms, expand your haunting powers, and attract more dangerous—and rewarding—targets.",
+      "url": "https://store.steampowered.com/app/3179730/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "题材配套美术风格独到",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "独特的题材本身和同样独到的美术风格",
+          "url": "https://steamcommunity.com/profiles/76561198090490140/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "UI简洁明快且功能区清晰",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "UI更是简洁明快，让人一眼便知使用时的功能区域",
+          "url": "https://steamcommunity.com/profiles/76561198090490140/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "实际上只有一种有效策略",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "There is really only one strategy",
+          "url": "https://steamcommunity.com/id/parsonharlequin/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分UI操作笨拙",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "some really clunky UI bits and glitches",
+          "url": "https://steamcommunity.com/id/parsonharlequin/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "系统迫使玩家反复采用同一种建造方式",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it is mandatory to build this way",
+          "url": "https://steamcommunity.com/profiles/76561198022409164/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "主线难度梯度突然增大",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "在这28个回合中难度梯度是猛然增加的",
+          "url": "https://steamcommunity.com/id/gain174/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "房间视角不能转动导致目标难选",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "房间视角好像是不能转动的，导致人走到房间死角，或者被仆从遮挡时很难选中",
+          "url": "https://steamcommunity.com/id/gain174/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "卡牌构筑公式化且缺少亮点",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "卡牌构筑上没什么亮点太公式化",
+          "url": "https://steamcommunity.com/profiles/76561199632077996/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "一小时内就会感到极度重复",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "under an hour in) it gets EXTREMELY repetitive",
+          "url": "https://steamcommunity.com/id/parsonharlequin/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法被锁死为单一建造方式",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "just locks you in to building the house one way",
+          "url": "https://steamcommunity.com/profiles/76561198022409164/recommended/3179730/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 45359,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 117622,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 10143,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 650237,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 51032,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 51032,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.999341438801483,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1176,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.928571,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "实际上只有一种有效策略",
+    "技术/性能：部分UI操作笨拙",
+    "系统迫使玩家反复采用同一种建造方式",
+    "主线难度梯度突然增大",
+    "房间视角不能转动导致目标难选",
+    "卡牌构筑公式化且缺少亮点"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "《幽室鬼牌》（Deck of Haunts）位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/cb6f9c8dc12368024f9fe3215c97a4a2684b3e7f/ss_cb6f9c8dc12368024f9fe3215c97a4a2684b3e7f.1920x1080.jpg?t=1777990104",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/cb6f9c8dc12368024f9fe3215c97a4a2684b3e7f/ss_cb6f9c8dc12368024f9fe3215c97a4a2684b3e7f.1920x1080.jpg?t=1785756387",
+        "alt": "《幽室鬼牌》（Deck of Haunts） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/c925df29a2af7da99326bbff0699aa081b103b80/ss_c925df29a2af7da99326bbff0699aa081b103b80.1920x1080.jpg?t=1785756387",
+        "alt": "《幽室鬼牌》（Deck of Haunts） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/094af9889878c4c3c880498157fea94f19864bdf/ss_094af9889878c4c3c880498157fea94f19864bdf.1920x1080.jpg?t=1785756387",
+        "alt": "《幽室鬼牌》（Deck of Haunts） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/a7e65d403a0b4503d9ca17483d22f891975ea613/ss_a7e65d403a0b4503d9ca17483d22f891975ea613.1920x1080.jpg?t=1785756387",
+        "alt": "《幽室鬼牌》（Deck of Haunts） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/c00947bb14ee32cd219e964e7e5fe01316865c85/ss_c00947bb14ee32cd219e964e7e5fe01316865c85.1920x1080.jpg?t=1785756387",
+        "alt": "《幽室鬼牌》（Deck of Haunts） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/a8439326e9cbb9e0c427cdd8a6427bc6d95c2db0/ss_a8439326e9cbb9e0c427cdd8a6427bc6d95c2db0.1920x1080.jpg?t=1785756387",
+        "alt": "《幽室鬼牌》（Deck of Haunts） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/07a43fe1538bbd7ede714d3df70575834f61f761/ss_07a43fe1538bbd7ede714d3df70575834f61f761.1920x1080.jpg?t=1785756387",
+        "alt": "《幽室鬼牌》（Deck of Haunts） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179730/4efaed7997ebefb6e1a4c5c9eab943b61c5726d3/ss_4efaed7997ebefb6e1a4c5c9eab943b61c5726d3.1920x1080.jpg?t=1785756387",
+        "alt": "《幽室鬼牌》（Deck of Haunts） 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

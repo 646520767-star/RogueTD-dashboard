@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Bloodgrounds","developers":["Exordium Games"],"publishers":["Daedalic Entertainment"],"release_status":"released","release_date":"2026-03-12","tags":["回合制战术","回合制战斗","永久死亡","角色扮演","经营管理"]},"hooks":[{"text":"角斗士阵亡会永久消失，连身上装备也一并失去","dimension":"玩法","excerpt":"But beware - permadeath is on. If a gladiator falls, they and their equipment are lost forever, adding high stakes to every decision.","url":"https://store.steampowered.com/app/2507820/","label":"证据原文片段"},{"text":"格子战斗按先攻行动，用行动点走位、技能、道具与陷阱算杀局","dimension":"玩法","excerpt":"Combat unfolds in turn-based battles on a grid, where units act in order of initiative. Strategically move your gladiators, attack, and position them to outsmart and outmaneuver your opponents. Use your action points wisely - unleash powerful weapon or class abilities, make use of items like potions and magical scrolls, or set traps on the ground to catch enemies off guard.","url":"https://store.steampowered.com/app/2507820/","label":"证据原文片段"},{"text":"战间经营海岸城市，用医务室、市场和纪念碑支撑复仇队伍","dimension":"玩法","excerpt":"Between battles, use your hard-earned gold to build and upgrade city buildings, unlocking new tools and services to aid you in your quest for vengeance. From the infirmary, where your gladiators can recover, to the bustling market for trading items, and even a grand monument to honor fallen gladiators.","url":"https://store.steampowered.com/app/2507820/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":37215,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":94050,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9712,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":384475,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":39621,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":39621,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.733119985813314,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":588,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":77,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":77.079796,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"回合制战术、回合制战斗","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/400f2dcd8ee158437d5745af132859365a56d70b/ss_400f2dcd8ee158437d5745af132859365a56d70b.1920x1080.jpg?t=1777538673","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/400f2dcd8ee158437d5745af132859365a56d70b/ss_400f2dcd8ee158437d5745af132859365a56d70b.1920x1080.jpg?t=1777538673","alt":"Bloodgrounds 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/16939bd6ce46924187f1c38bd33b71dc0fe582d1/ss_16939bd6ce46924187f1c38bd33b71dc0fe582d1.1920x1080.jpg?t=1777538673","alt":"Bloodgrounds 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/3692611309d22643d666729e23bd8ce42b6acd84/ss_3692611309d22643d666729e23bd8ce42b6acd84.1920x1080.jpg?t=1777538673","alt":"Bloodgrounds 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/3c372b4356dad87e604b9497e7b03b806899f37f/ss_3c372b4356dad87e604b9497e7b03b806899f37f.1920x1080.jpg?t=1777538673","alt":"Bloodgrounds 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Bloodgrounds",
+    "developers": [
+      "Exordium Games"
+    ],
+    "publishers": [
+      "Daedalic Entertainment"
+    ],
+    "release_status": "released",
+    "release_date": "2026-03-12",
+    "tags": [
+      "回合制战术",
+      "回合制战斗",
+      "回合制战斗",
+      "永久死亡",
+      "角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "角斗士阵亡会永久消失，连身上装备也一并失去",
+      "dimension": "玩法",
+      "excerpt": "But beware - permadeath is on. If a gladiator falls, they and their equipment are lost forever, adding high stakes to every decision.",
+      "url": "https://store.steampowered.com/app/2507820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "格子战斗按先攻行动，用行动点走位、技能、道具与陷阱算杀局",
+      "dimension": "玩法",
+      "excerpt": "Combat unfolds in turn-based battles on a grid, where units act in order of initiative. Strategically move your gladiators, attack, and position them to outsmart and outmaneuver your opponents. Use your action points wisely - unleash powerful weapon or class abilities, make use of items like potions and magical scrolls, or set traps on the ground to catch enemies off guard.",
+      "url": "https://store.steampowered.com/app/2507820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战间经营海岸城市，用医务室、市场和纪念碑支撑复仇队伍",
+      "dimension": "玩法",
+      "excerpt": "Between battles, use your hard-earned gold to build and upgrade city buildings, unlocking new tools and services to aid you in your quest for vengeance. From the infirmary, where your gladiators can recover, to the bustling market for trading items, and even a grand monument to honor fallen gladiators.",
+      "url": "https://store.steampowered.com/app/2507820/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 40098,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 93329,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9733,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 428431,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 42626,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 42626,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.909259266183451,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 551,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 77,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 77.076412,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Bloodgrounds位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/400f2dcd8ee158437d5745af132859365a56d70b/ss_400f2dcd8ee158437d5745af132859365a56d70b.1920x1080.jpg?t=1777538673",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/400f2dcd8ee158437d5745af132859365a56d70b/ss_400f2dcd8ee158437d5745af132859365a56d70b.1920x1080.jpg?t=1777538673",
+        "alt": "Bloodgrounds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/16939bd6ce46924187f1c38bd33b71dc0fe582d1/ss_16939bd6ce46924187f1c38bd33b71dc0fe582d1.1920x1080.jpg?t=1777538673",
+        "alt": "Bloodgrounds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/3692611309d22643d666729e23bd8ce42b6acd84/ss_3692611309d22643d666729e23bd8ce42b6acd84.1920x1080.jpg?t=1777538673",
+        "alt": "Bloodgrounds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/3c372b4356dad87e604b9497e7b03b806899f37f/ss_3c372b4356dad87e604b9497e7b03b806899f37f.1920x1080.jpg?t=1777538673",
+        "alt": "Bloodgrounds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/13315428c44a7f29904f9dd50f60763a07be2ada/ss_13315428c44a7f29904f9dd50f60763a07be2ada.1920x1080.jpg?t=1777538673",
+        "alt": "Bloodgrounds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/ss_fca11a61b5a1ca72d239226a95c4ca282bc45a72.1920x1080.jpg?t=1777538673",
+        "alt": "Bloodgrounds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/ss_7369d4ea482ad19f3b51dbcac1a4ba2fb9bb4825.1920x1080.jpg?t=1777538673",
+        "alt": "Bloodgrounds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507820/ss_19694eb1070ad5f85466a711eb19ff394c2a8213.1920x1080.jpg?t=1777538673",
+        "alt": "Bloodgrounds 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

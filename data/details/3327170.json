@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Minutescape","developers":["Molter"],"publishers":["Poysky Productions"],"release_status":"released","release_date":"2025-04-15","tags":["增量成长","策略","弹幕射击","生存","街机"]},"hooks":[{"text":"持续解锁并强化能力，目标是在弹幕中连续存活5分钟","dimension":"玩法","excerpt":"Unlock new abilities and keep upgrading yourself to survive for 5 consecutive minutes.","url":"https://store.steampowered.com/app/3327170/","label":"证据原文片段"},{"text":"全程面对持续弹幕，以精确闪避延长生存时间","dimension":"玩法","excerpt":"Dodge relentless bullet hell at every moment. Master precise dodges to survive longer.","url":"https://store.steampowered.com/app/3327170/","label":"证据原文片段"},{"text":"发现能改写战斗规则的升级，让每次尝试都积累永久强度","dimension":"玩法","excerpt":"Discover upgrades that change the rules of combat. Every attempt makes you stronger.","url":"https://store.steampowered.com/app/3327170/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":39149,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":31774,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1153,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":192549,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":39758,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":39758,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.165471107218074,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":548,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":75,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.045537,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"增量成长、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/0ec66dff3e3c876d56ab151c80dc249de9daf8e7/ss_0ec66dff3e3c876d56ab151c80dc249de9daf8e7.1920x1080.jpg?t=1780570185","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/0ec66dff3e3c876d56ab151c80dc249de9daf8e7/ss_0ec66dff3e3c876d56ab151c80dc249de9daf8e7.1920x1080.jpg?t=1780570185","alt":"Minutescape 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/9d2a7f11cfd68aad3f039fe578000e5387dd3bf8/ss_9d2a7f11cfd68aad3f039fe578000e5387dd3bf8.1920x1080.jpg?t=1780570185","alt":"Minutescape 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/7a556ba453af4c4ab38cf38191f06a658eb11e5b/ss_7a556ba453af4c4ab38cf38191f06a658eb11e5b.1920x1080.jpg?t=1780570185","alt":"Minutescape 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/24891198b8692909a87975cd427b98cfa8a07f3b/ss_24891198b8692909a87975cd427b98cfa8a07f3b.1920x1080.jpg?t=1780570185","alt":"Minutescape 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Minutescape",
+    "developers": [
+      "Molter"
+    ],
+    "publishers": [
+      "Poysky Productions"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-15",
+    "tags": [
+      "增量成长",
+      "策略",
+      "弹幕射击",
+      "生存",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "持续解锁并强化能力，目标是在弹幕中连续存活5分钟",
+      "dimension": "玩法",
+      "excerpt": "Unlock new abilities and keep upgrading yourself to survive for 5 consecutive minutes.",
+      "url": "https://store.steampowered.com/app/3327170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "全程面对持续弹幕，以精确闪避延长生存时间",
+      "dimension": "玩法",
+      "excerpt": "Dodge relentless bullet hell at every moment. Master precise dodges to survive longer.",
+      "url": "https://store.steampowered.com/app/3327170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "发现能改写战斗规则的升级，让每次尝试都积累永久强度",
+      "dimension": "玩法",
+      "excerpt": "Discover upgrades that change the rules of combat. Every attempt makes you stronger.",
+      "url": "https://store.steampowered.com/app/3327170/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 41019,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 31963,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1153,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 200585,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 41648,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 41648,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.171867274476684,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 544,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 75,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Minutescape位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/0ec66dff3e3c876d56ab151c80dc249de9daf8e7/ss_0ec66dff3e3c876d56ab151c80dc249de9daf8e7.1920x1080.jpg?t=1780570185",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/0ec66dff3e3c876d56ab151c80dc249de9daf8e7/ss_0ec66dff3e3c876d56ab151c80dc249de9daf8e7.1920x1080.jpg?t=1780570185",
+        "alt": "Minutescape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/9d2a7f11cfd68aad3f039fe578000e5387dd3bf8/ss_9d2a7f11cfd68aad3f039fe578000e5387dd3bf8.1920x1080.jpg?t=1780570185",
+        "alt": "Minutescape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/7a556ba453af4c4ab38cf38191f06a658eb11e5b/ss_7a556ba453af4c4ab38cf38191f06a658eb11e5b.1920x1080.jpg?t=1780570185",
+        "alt": "Minutescape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/24891198b8692909a87975cd427b98cfa8a07f3b/ss_24891198b8692909a87975cd427b98cfa8a07f3b.1920x1080.jpg?t=1780570185",
+        "alt": "Minutescape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/44f7ea74802b4a60af060ae2dab7da454a2f7337/ss_44f7ea74802b4a60af060ae2dab7da454a2f7337.1920x1080.jpg?t=1780570185",
+        "alt": "Minutescape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/3a35dca449ea26c131313b2003b15a42d8aeba36/ss_3a35dca449ea26c131313b2003b15a42d8aeba36.1920x1080.jpg?t=1780570185",
+        "alt": "Minutescape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3327170/0032d7b2f706f19d1279ef887e690ac29872e2b2/ss_0032d7b2f706f19d1279ef887e690ac29872e2b2.1920x1080.jpg?t=1780570185",
+        "alt": "Minutescape 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

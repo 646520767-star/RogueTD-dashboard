@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Ants Took My Eyeball","developers":["Bosmic Forge"],"publishers":["Bosmic Forge"],"release_status":"released","release_date":"2024-04-19","tags":["像素画面","刷宝","高难度","动作肉鸽","二维平台跳跃"]},"hooks":[{"text":"跑跳冲刺绕到虫群侧面，以高速机动同时规避伤害和抢占位置","dimension":"玩法","excerpt":"Use your exceptional mobility to run, jump and dash around your enemies to avoid damage and to gain positional advantage.","url":"https://store.steampowered.com/app/1627890/","label":"证据原文片段"},{"text":"每次下潜都重组蚁丘生态，生物群系、陷阱、敌人与战利品同步变化","dimension":"玩法","excerpt":"Explore procedurally generated levels of the mysterious ant hill, with various diverse biomes with their own unique enemies, traps and loot. No run will be the same, as each adventure into the ant hill provides you with new challenges and opportunities.","url":"https://store.steampowered.com/app/1627890/","label":"证据原文片段"},{"text":"局间用宝石添置基地家具，为未来每次下潜预先争取优势","dimension":"玩法","excerpt":"Spend gems between runs to upgrade your base with furniture that gives you a nice little head start for your future runs.","url":"https://store.steampowered.com/app/1627890/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8516,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":61005,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3020,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":101657,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":8807,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":8807,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.289125235245749,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":254,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.307087,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"像素画面、刷宝","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_3413269e06c4aa57b42976660445bb48e304a314.1920x1080.jpg?t=1732857244","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_3413269e06c4aa57b42976660445bb48e304a314.1920x1080.jpg?t=1732857244","alt":"Ants Took My Eyeball 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_1a6fc53f726fd008fb4033dbae7c7a09c6d7b90e.1920x1080.jpg?t=1732857244","alt":"Ants Took My Eyeball 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_279f085ad95884196ede8044ed0f49fa6b7a3104.1920x1080.jpg?t=1732857244","alt":"Ants Took My Eyeball 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_34b51fa6c601b933f8e4ff6a7a38354e1ce8cd5e.1920x1080.jpg?t=1732857244","alt":"Ants Took My Eyeball 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Ants Took My Eyeball",
+    "developers": [
+      "Bosmic Forge"
+    ],
+    "publishers": [
+      "Bosmic Forge"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-19",
+    "tags": [
+      "像素画面",
+      "刷宝",
+      "高难度",
+      "动作肉鸽",
+      "本地合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "跑跳冲刺绕到虫群侧面，以高速机动同时规避伤害和抢占位置",
+      "dimension": "玩法",
+      "excerpt": "Use your exceptional mobility to run, jump and dash around your enemies to avoid damage and to gain positional advantage.",
+      "url": "https://store.steampowered.com/app/1627890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次下潜都重组蚁丘生态，生物群系、陷阱、敌人与战利品同步变化",
+      "dimension": "玩法",
+      "excerpt": "Explore procedurally generated levels of the mysterious ant hill, with various diverse biomes with their own unique enemies, traps and loot. No run will be the same, as each adventure into the ant hill provides you with new challenges and opportunities.",
+      "url": "https://store.steampowered.com/app/1627890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "局间用宝石添置基地家具，为未来每次下潜预先争取优势",
+      "dimension": "玩法",
+      "excerpt": "Spend gems between runs to upgrade your base with furniture that gives you a nice little head start for your future runs.",
+      "url": "https://store.steampowered.com/app/1627890/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 10155,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 62645,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3030,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 106968,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10527,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10527,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.088698542398767,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 245,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.410853,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Ants Took My Eyeball位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_3413269e06c4aa57b42976660445bb48e304a314.1920x1080.jpg?t=1732857244",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_3413269e06c4aa57b42976660445bb48e304a314.1920x1080.jpg?t=1732857244",
+        "alt": "Ants Took My Eyeball 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_1a6fc53f726fd008fb4033dbae7c7a09c6d7b90e.1920x1080.jpg?t=1732857244",
+        "alt": "Ants Took My Eyeball 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_279f085ad95884196ede8044ed0f49fa6b7a3104.1920x1080.jpg?t=1732857244",
+        "alt": "Ants Took My Eyeball 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_34b51fa6c601b933f8e4ff6a7a38354e1ce8cd5e.1920x1080.jpg?t=1732857244",
+        "alt": "Ants Took My Eyeball 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_6b303e5a494174fd8402d240e2bd3444fcd85396.1920x1080.jpg?t=1732857244",
+        "alt": "Ants Took My Eyeball 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_512a3c738c9292c27ff6e8b0c98994637de799cc.1920x1080.jpg?t=1732857244",
+        "alt": "Ants Took My Eyeball 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_72621fd81d8cd8145dde5fa214f7d1f47166c98a.1920x1080.jpg?t=1732857244",
+        "alt": "Ants Took My Eyeball 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627890/ss_65430260d5413019b6c9d455f3ae826e1ab87f4e.1920x1080.jpg?t=1732857244",
+        "alt": "Ants Took My Eyeball 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Takara Cards","developers":["Post Mortem Pixels"],"publishers":["GrabTheGames"],"release_status":"released","release_date":"2025-01-17","tags":["卡牌对战","选择影响剧情","轻度Rogue","肉鸽卡组构筑","科幻"]},"hooks":[{"text":"四个可解锁种族各自驾驶专属飞船，从矮人、人类、兽人到精灵形成不同开局","dimension":"玩法","excerpt":"Choose from four unlockable races, each with its ship: The fearless Dwarves , the intuitive Humans , the mystical Orks, or the glamorous Elves!","url":"https://store.steampowered.com/app/1932210/","label":"证据原文片段"},{"text":"连击可赚额外经验，清空敌人波次会回满电池，甚至能让回合持续不断","dimension":"玩法","excerpt":"Earn extra XP in combat by doing a chain of COMBOS! Plan and make your turns never end: Defeating a wave of enemies recharges your batteries. You might even resort to using your whole ship as a weapon!","url":"https://store.steampowered.com/app/1932210/","label":"证据原文片段"},{"text":"事件回应会生成不同Karma，同时改写角色声望与牌组走向","dimension":"玩法","excerpt":"Your response to events influences your reputation and deck: Karma will be generated during your interactions.","url":"https://store.steampowered.com/app/1932210/","label":"证据原文片段"}],"opinions":[{"text":"美术风格受到明确肯定。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"美术风格挺好","url":"https://steamcommunity.com/id/44361023/recommended/1932210/","label":"证据原文片段"}]},{"text":"需要一段时间才会感到角色变强","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"it takes a while to feel like you're getting stronger.","url":"https://store.steampowered.com/curator/43939029-The-Game-Report/","label":"证据原文片段"}]},{"text":"战斗UI质量很差","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"战斗ui真的是依托","url":"https://steamcommunity.com/id/44361023/recommended/1932210/","label":"证据原文片段"}]},{"text":"所有地图节点都能访问，使移动段落被过度拉长。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the fact that you can visit every node on the map really drags out the travel segments.","url":"https://steamcommunity.com/id/millionpede/recommended/1932210/","label":"证据原文片段"}]},{"text":"中文翻译质量不佳。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"中翻不行","url":"https://steamcommunity.com/id/44361023/recommended/1932210/","label":"证据原文片段"}]},{"text":"战场单位偶尔会全部不显示。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"有时还会有战场上所有单位都不显示的bug","url":"https://steamcommunity.com/profiles/76561198189697398/recommended/1932210/","label":"证据原文片段"}]},{"text":"大量视觉效果会造成眼睛不适。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a lot of effects, I'm not epileptic, but even my eyes hurt.","url":"https://steamcommunity.com/id/Ghostbuster_Ray/recommended/1932210/","label":"证据原文片段"}]},{"text":"明确协同的卡牌不多","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"there aren’t many cards with explicit synergies","url":"https://steamcommunity.com/id/millionpede/recommended/1932210/","label":"证据原文片段"}]},{"text":"核心玩法循环容易上瘾。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The gameplay loop is addictive","url":"https://store.steampowered.com/curator/43939029-The-Game-Report/","label":"证据原文片段"}]},{"text":"卡牌种类和策略选项丰富。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Love the card variety and strategic options.","url":"https://store.steampowered.com/curator/43939488-Gamer-Detective/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":4173,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":21606,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1299,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":33087,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4954,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4954,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.7825856395951747,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":142,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.690141,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["需要一段时间才会感到角色变强","战斗UI质量很差","所有地图节点都能访问，使移动段落被过度拉长。","中文翻译质量不佳。","技术/性能：战场单位偶尔会全部不显示。","大量视觉效果会造成眼睛不适。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_02750862b825307eadf4ddb398e3caed250e6123.1920x1080.jpg?t=1784217446","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_02750862b825307eadf4ddb398e3caed250e6123.1920x1080.jpg?t=1784217446","alt":"宝卡太空龙 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_3f0ffebea9c3833ac6a0fc42b35a883dda93178b.1920x1080.jpg?t=1784217446","alt":"宝卡太空龙 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_7b75779313f5072e7e9afe1dea89eb0a2f5b5f49.1920x1080.jpg?t=1784217446","alt":"宝卡太空龙 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_aa26540195f6c449ab3a045317ed45d8ea4511d9.1920x1080.jpg?t=1784217446","alt":"宝卡太空龙 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Takara Cards",
+    "developers": [
+      "Post Mortem Pixels"
+    ],
+    "publishers": [
+      "GrabTheGames"
+    ],
+    "release_status": "released",
+    "release_date": "2025-01-17",
+    "tags": [
+      "卡牌对战",
+      "选择影响剧情",
+      "轻度Rogue",
+      "肉鸽卡组构筑",
+      "太空"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "四个可解锁种族各自驾驶专属飞船，从矮人、人类、兽人到精灵形成不同开局",
+      "dimension": "玩法",
+      "excerpt": "Choose from four unlockable races, each with its ship: The fearless Dwarves , the intuitive Humans , the mystical Orks, or the glamorous Elves!",
+      "url": "https://store.steampowered.com/app/1932210/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "连击可赚额外经验，清空敌人波次会回满电池，甚至能让回合持续不断",
+      "dimension": "玩法",
+      "excerpt": "Earn extra XP in combat by doing a chain of COMBOS! Plan and make your turns never end: Defeating a wave of enemies recharges your batteries. You might even resort to using your whole ship as a weapon!",
+      "url": "https://store.steampowered.com/app/1932210/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "事件回应会生成不同Karma，同时改写角色声望与牌组走向",
+      "dimension": "玩法",
+      "excerpt": "Your response to events influences your reputation and deck: Karma will be generated during your interactions.",
+      "url": "https://store.steampowered.com/app/1932210/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "美术风格受到明确肯定。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "美术风格挺好",
+          "url": "https://steamcommunity.com/id/44361023/recommended/1932210/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "需要一段时间才会感到角色变强",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it takes a while to feel like you're getting stronger.",
+          "url": "https://store.steampowered.com/curator/43939029-The-Game-Report/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗UI质量很差",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "战斗ui真的是依托",
+          "url": "https://steamcommunity.com/id/44361023/recommended/1932210/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "所有地图节点都能访问，使移动段落被过度拉长。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the fact that you can visit every node on the map really drags out the travel segments.",
+          "url": "https://steamcommunity.com/id/millionpede/recommended/1932210/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "中文翻译质量不佳。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "中翻不行",
+          "url": "https://steamcommunity.com/id/44361023/recommended/1932210/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战场单位偶尔会全部不显示。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "有时还会有战场上所有单位都不显示的bug",
+          "url": "https://steamcommunity.com/profiles/76561198189697398/recommended/1932210/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大量视觉效果会造成眼睛不适。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a lot of effects, I'm not epileptic, but even my eyes hurt.",
+          "url": "https://steamcommunity.com/id/Ghostbuster_Ray/recommended/1932210/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "明确协同的卡牌不多",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "there aren’t many cards with explicit synergies",
+          "url": "https://steamcommunity.com/id/millionpede/recommended/1932210/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心玩法循环容易上瘾。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The gameplay loop is addictive",
+          "url": "https://store.steampowered.com/curator/43939029-The-Game-Report/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "卡牌种类和策略选项丰富。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Love the card variety and strategic options.",
+          "url": "https://store.steampowered.com/curator/43939488-Gamer-Detective/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4981,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 21734,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1301,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 39400,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5914,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5914,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.7662884658115523,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 110,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.690141,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "需要一段时间才会感到角色变强",
+    "战斗UI质量很差",
+    "所有地图节点都能访问，使移动段落被过度拉长。",
+    "中文翻译质量不佳。",
+    "技术/性能：战场单位偶尔会全部不显示。",
+    "大量视觉效果会造成眼睛不适。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "宝卡太空龙位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_02750862b825307eadf4ddb398e3caed250e6123.1920x1080.jpg?t=1784217446",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_02750862b825307eadf4ddb398e3caed250e6123.1920x1080.jpg?t=1786726211",
+        "alt": "宝卡太空龙 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_3f0ffebea9c3833ac6a0fc42b35a883dda93178b.1920x1080.jpg?t=1786726211",
+        "alt": "宝卡太空龙 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_7b75779313f5072e7e9afe1dea89eb0a2f5b5f49.1920x1080.jpg?t=1786726211",
+        "alt": "宝卡太空龙 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_aa26540195f6c449ab3a045317ed45d8ea4511d9.1920x1080.jpg?t=1786726211",
+        "alt": "宝卡太空龙 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_eb61d52f9efb1574ba28c721dc4facff9859dd48.1920x1080.jpg?t=1786726211",
+        "alt": "宝卡太空龙 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_441a5de39242fe2cd14f386dcaf8026ca8122959.1920x1080.jpg?t=1786726211",
+        "alt": "宝卡太空龙 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_f261443f52914fd884fe998cf61b76cf1b70c5d4.1920x1080.jpg?t=1786726211",
+        "alt": "宝卡太空龙 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932210/ss_e12e6b19ce4d8d4b8b576f7f1302236d186d3735.1920x1080.jpg?t=1786726211",
+        "alt": "宝卡太空龙 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

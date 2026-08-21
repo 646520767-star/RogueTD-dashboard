@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Three Kingdoms:BOND","developers":["Get Wrapped Up Inc."],"publishers":["Get Wrapped Up Inc."],"release_status":"early_access","release_date":"2026-07-13","tags":["策略","即时战术","轻度Rogue","自走棋","模拟"]},"hooks":[{"text":"没有固定版本阵容，每场从随机武将池临场组建最适合战场的队伍","dimension":"玩法","excerpt":"There are no fixed meta formations. Each match presents you with a challenging selection of warlords. Choose wisely and build the formation best suited to each unique battlefield.","url":"https://store.steampowered.com/app/4375230/","label":"证据原文片段"},{"text":"利用武将羁绊和技能跨越历史阵营，组成逆转战局的梦之队","dimension":"玩法","excerpt":"Warlord affinities and skills create powerful synergies. Build dream teams that transcend historical alliances and turn the tide of battle.","url":"https://store.steampowered.com/app/4375230/","label":"证据原文片段"},{"text":"开战前读取敌阵，在网格中针对兵种克制、技能射程和伏兵摆将","dimension":"玩法","excerpt":"Study your opponent’s formation in advance and place your generals on the grid-based battlefield to counter their strategy. Success depends on reading unit counters, skill ranges, and potential for ambushes.","url":"https://store.steampowered.com/app/4375230/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":10832,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":13981,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1234,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":73018,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":10982,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":10982,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.7244326211858825,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":308,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.850467,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、即时战术","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/f2860426493a492f02ca78909b70880fc6b2db14/ss_f2860426493a492f02ca78909b70880fc6b2db14.1920x1080.jpg?t=1783997926","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/f2860426493a492f02ca78909b70880fc6b2db14/ss_f2860426493a492f02ca78909b70880fc6b2db14.1920x1080.jpg?t=1783997926","alt":"三国志BOND 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/9c242f92d0a9ec65207387daf5d7f223a3cf861a/ss_9c242f92d0a9ec65207387daf5d7f223a3cf861a.1920x1080.jpg?t=1783997926","alt":"三国志BOND 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/44c0b50f4d4a084fb4f3eeca20deb97f973278d1/ss_44c0b50f4d4a084fb4f3eeca20deb97f973278d1.1920x1080.jpg?t=1783997926","alt":"三国志BOND 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/6ba0c617a101e1d74974adc51df76472d15aa6b3/ss_6ba0c617a101e1d74974adc51df76472d15aa6b3.1920x1080.jpg?t=1783997926","alt":"三国志BOND 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Three Kingdoms:BOND",
+    "developers": [
+      "Get Wrapped Up Inc."
+    ],
+    "publishers": [
+      "Get Wrapped Up Inc."
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-07-13",
+    "tags": [
+      "策略",
+      "即时战术",
+      "自走棋",
+      "轻度Rogue",
+      "模拟"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "没有固定版本阵容，每场从随机武将池临场组建最适合战场的队伍",
+      "dimension": "玩法",
+      "excerpt": "There are no fixed meta formations. Each match presents you with a challenging selection of warlords. Choose wisely and build the formation best suited to each unique battlefield.",
+      "url": "https://store.steampowered.com/app/4375230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "利用武将羁绊和技能跨越历史阵营，组成逆转战局的梦之队",
+      "dimension": "玩法",
+      "excerpt": "Warlord affinities and skills create powerful synergies. Build dream teams that transcend historical alliances and turn the tide of battle.",
+      "url": "https://store.steampowered.com/app/4375230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "开战前读取敌阵，在网格中针对兵种克制、技能射程和伏兵摆将",
+      "dimension": "玩法",
+      "excerpt": "Study your opponent’s formation in advance and place your generals on the grid-based battlefield to counter their strategy. Success depends on reading unit counters, skill ranges, and potential for ambushes.",
+      "url": "https://store.steampowered.com/app/4375230/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 9599,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 12785,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1431,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 63705,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 9878,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 9878,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.893860548375423,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 381,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.863524,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "三国志BOND位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/f2860426493a492f02ca78909b70880fc6b2db14/ss_f2860426493a492f02ca78909b70880fc6b2db14.1920x1080.jpg?t=1783997926",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/f2860426493a492f02ca78909b70880fc6b2db14/ss_f2860426493a492f02ca78909b70880fc6b2db14.1920x1080.jpg?t=1786591380",
+        "alt": "三国志BOND 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/9c242f92d0a9ec65207387daf5d7f223a3cf861a/ss_9c242f92d0a9ec65207387daf5d7f223a3cf861a.1920x1080.jpg?t=1786591380",
+        "alt": "三国志BOND 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/44c0b50f4d4a084fb4f3eeca20deb97f973278d1/ss_44c0b50f4d4a084fb4f3eeca20deb97f973278d1.1920x1080.jpg?t=1786591380",
+        "alt": "三国志BOND 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/6ba0c617a101e1d74974adc51df76472d15aa6b3/ss_6ba0c617a101e1d74974adc51df76472d15aa6b3.1920x1080.jpg?t=1786591380",
+        "alt": "三国志BOND 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/925dbf41f38ec3963495d4cab839b906d8b45db8/ss_925dbf41f38ec3963495d4cab839b906d8b45db8.1920x1080.jpg?t=1786591380",
+        "alt": "三国志BOND 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/c7dcc7ae0d6a5a1fb58982c2fec31f7290a5a5b3/ss_c7dcc7ae0d6a5a1fb58982c2fec31f7290a5a5b3.1920x1080.jpg?t=1786591380",
+        "alt": "三国志BOND 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/edfe71474d186bffc7182712f34459b8b94c7123/ss_edfe71474d186bffc7182712f34459b8b94c7123.1920x1080.jpg?t=1786591380",
+        "alt": "三国志BOND 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375230/0eaf29661cd6eb6349a10b2c4b950d6a47936147/ss_0eaf29661cd6eb6349a10b2c4b950d6a47936147.1920x1080.jpg?t=1786591380",
+        "alt": "三国志BOND 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

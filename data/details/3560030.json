@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Cataclysm: The Last Generation","developers":["Worm Girl"],"publishers":["Worm Girl"],"release_status":"released","release_date":"2025-07-11","tags":["角色扮演","模拟","类Rogue","末日后","生存"]},"hooks":[{"text":"搜刮工具并制作针对性武器库，应对会持续演化的僵尸、变种人、外星人与机器人群","dimension":"玩法","excerpt":"Scavenge tools to craft an arsenal capable of dealing with the ever-evolving hordes of zombies, mutants, aliens, and robots in one of the deepest survival sims around.","url":"https://store.steampowered.com/app/3560030/","label":"证据原文片段"},{"text":"可组建幸存者队伍、安装军用义体，或主动变异成自己的怪物形态来适应末日","dimension":"玩法","excerpt":"Dig through the wreckage of shadowy government conspiracies to uncover the truth about the Cataclysm, form your own band of survivors, and adapt to the myriad threats by expanding your arsenal, installing military-grade bionics, or mutating into your own kind of monster.","url":"https://store.steampowered.com/app/3560030/","label":"证据原文片段"},{"text":"现实结构已经崩坏，最后一代人类究竟灭绝还是进化成适应新世界的物种由玩家决定","dimension":"故事","excerpt":"The Last Generation tells the story of a world where the dead walk, alien horrors stalk the land, and the fabric of reality as we know it has come undone. Despite all this, a few unlucky souls yet survive, and whether the last generation of humanity is destined to die off, or to become something fit to survive in this brave new world is up to you.","url":"https://store.steampowered.com/app/3560030/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4220,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":11439,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1115,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":22147,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4293,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4293,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":52.717762203883,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":246,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.712551,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/2ad71d55b5b29a01a9e5e03cd9a11f9122fb0dcc/ss_2ad71d55b5b29a01a9e5e03cd9a11f9122fb0dcc.1920x1080.jpg?t=1782500301","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/2ad71d55b5b29a01a9e5e03cd9a11f9122fb0dcc/ss_2ad71d55b5b29a01a9e5e03cd9a11f9122fb0dcc.1920x1080.jpg?t=1782500301","alt":"Cataclysm: The Last Generation 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/a024d7b5391752caa3ef9e79716bfbf31df156ea/ss_a024d7b5391752caa3ef9e79716bfbf31df156ea.1920x1080.jpg?t=1782500301","alt":"Cataclysm: The Last Generation 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/8ee2d6c21dd5125d7de44ec6cadd3ac5e17f5e1b/ss_8ee2d6c21dd5125d7de44ec6cadd3ac5e17f5e1b.1920x1080.jpg?t=1782500301","alt":"Cataclysm: The Last Generation 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/6e4824cae24dd594a0c2c3142b870058130191ae/ss_6e4824cae24dd594a0c2c3142b870058130191ae.1920x1080.jpg?t=1782500301","alt":"Cataclysm: The Last Generation 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Cataclysm: The Last Generation",
+    "developers": [
+      "Worm Girl"
+    ],
+    "publishers": [
+      "Worm Girl"
+    ],
+    "release_status": "released",
+    "release_date": "2025-07-11",
+    "tags": [
+      "角色扮演",
+      "模拟",
+      "类Rogue",
+      "地牢探索",
+      "末日后"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "搜刮工具并制作针对性武器库，应对会持续演化的僵尸、变种人、外星人与机器人群",
+      "dimension": "玩法",
+      "excerpt": "Scavenge tools to craft an arsenal capable of dealing with the ever-evolving hordes of zombies, mutants, aliens, and robots in one of the deepest survival sims around.",
+      "url": "https://store.steampowered.com/app/3560030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可组建幸存者队伍、安装军用义体，或主动变异成自己的怪物形态来适应末日",
+      "dimension": "玩法",
+      "excerpt": "Dig through the wreckage of shadowy government conspiracies to uncover the truth about the Cataclysm, form your own band of survivors, and adapt to the myriad threats by expanding your arsenal, installing military-grade bionics, or mutating into your own kind of monster.",
+      "url": "https://store.steampowered.com/app/3560030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "现实结构已经崩坏，最后一代人类究竟灭绝还是进化成适应新世界的物种由玩家决定",
+      "dimension": "故事",
+      "excerpt": "The Last Generation tells the story of a world where the dead walk, alien horrors stalk the land, and the fabric of reality as we know it has come undone. Despite all this, a few unlucky souls yet survive, and whether the last generation of humanity is destined to die off, or to become something fit to survive in this brave new world is up to you.",
+      "url": "https://store.steampowered.com/app/3560030/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7326,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 11507,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1174,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 38632,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7445,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7445,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 39.020213391362596,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 255,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.984733,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Cataclysm: The Last Generation位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/2ad71d55b5b29a01a9e5e03cd9a11f9122fb0dcc/ss_2ad71d55b5b29a01a9e5e03cd9a11f9122fb0dcc.1920x1080.jpg?t=1782500301",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/2ad71d55b5b29a01a9e5e03cd9a11f9122fb0dcc/ss_2ad71d55b5b29a01a9e5e03cd9a11f9122fb0dcc.1920x1080.jpg?t=1782500301",
+        "alt": "Cataclysm: The Last Generation 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/a024d7b5391752caa3ef9e79716bfbf31df156ea/ss_a024d7b5391752caa3ef9e79716bfbf31df156ea.1920x1080.jpg?t=1782500301",
+        "alt": "Cataclysm: The Last Generation 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/8ee2d6c21dd5125d7de44ec6cadd3ac5e17f5e1b/ss_8ee2d6c21dd5125d7de44ec6cadd3ac5e17f5e1b.1920x1080.jpg?t=1782500301",
+        "alt": "Cataclysm: The Last Generation 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/6e4824cae24dd594a0c2c3142b870058130191ae/ss_6e4824cae24dd594a0c2c3142b870058130191ae.1920x1080.jpg?t=1782500301",
+        "alt": "Cataclysm: The Last Generation 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/f2337ba6849e0e6662fd06397337dbd9efd8a782/ss_f2337ba6849e0e6662fd06397337dbd9efd8a782.1920x1080.jpg?t=1782500301",
+        "alt": "Cataclysm: The Last Generation 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/48a61a793787079550332ddd630ba88394d787c3/ss_48a61a793787079550332ddd630ba88394d787c3.1920x1080.jpg?t=1782500301",
+        "alt": "Cataclysm: The Last Generation 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/c8cc8fa519f5d811037b89a6f79a89e32aee9183/ss_c8cc8fa519f5d811037b89a6f79a89e32aee9183.1920x1080.jpg?t=1782500301",
+        "alt": "Cataclysm: The Last Generation 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560030/ce050319252024947c5cd6b5df440323b1f24fbd/ss_ce050319252024947c5cd6b5df440323b1f24fbd.1920x1080.jpg?t=1782500301",
+        "alt": "Cataclysm: The Last Generation 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

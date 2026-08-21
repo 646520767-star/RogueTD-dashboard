@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Zombie Graveyard Simulator","developers":["threeW"],"publishers":["PlayWay S.A."],"release_status":"released","release_date":"2025-06-05","tags":["模拟","建造","僵尸","经营管理","生存"]},"hooks":[{"text":"白天经营墓园生意，夜晚架设防线亲自抵挡僵尸潮","dimension":"玩法","excerpt":"Manage your Graveyard by day as you bury and cremate bodies, maintain graves, fulfill visitor requests, grow crops, run a shop and unlock upgrades. When night falls, face relentless zombie hordes as you build defenses to protect your work and fight to survive in Zombie Graveyard Simulator!","url":"https://store.steampowered.com/app/3430450/","label":"证据原文片段"},{"text":"维护墓碑、鲜花与礼拜环境，用访客满意度推动墓园收益","dimension":"玩法","excerpt":"After processing the bodies, visitors will return to check on their loved ones. Your duty is to keep graves intact while providing fresh flowers and maintaining a welcoming environment. Every visit rewards you with valuable bonuses to help your business thrive.","url":"https://store.steampowered.com/app/3430450/","label":"证据原文片段"},{"text":"从铁丝网升级到火焰喷射塔，在血月等特殊夜晚守住墓园","dimension":"玩法","excerpt":"Some nights may be even more dangerous with special events like the Blood Moon. From basic defenses like barbed wires and fences to advanced machines like flamethrower turrets, keep your defenses upgraded, repaired, and fully stocked with ammo to withstand the night.","url":"https://store.steampowered.com/app/3430450/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":39034,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":36858,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3789,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":426118,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":40483,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":40483,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.087157227126078,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":821,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.024331,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"模拟、建造","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/6d5e0a02303b073ba1804b5e97905a41c50abc46/ss_6d5e0a02303b073ba1804b5e97905a41c50abc46.1920x1080.jpg?t=1784195209","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/6d5e0a02303b073ba1804b5e97905a41c50abc46/ss_6d5e0a02303b073ba1804b5e97905a41c50abc46.1920x1080.jpg?t=1784195209","alt":"Zombie Graveyard Simulator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/6edd27a61831acef729a63b446aa8866ca13df7b/ss_6edd27a61831acef729a63b446aa8866ca13df7b.1920x1080.jpg?t=1784195209","alt":"Zombie Graveyard Simulator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/76b7930dd87698bde8876b1a6e96581bfb56c7d5/ss_76b7930dd87698bde8876b1a6e96581bfb56c7d5.1920x1080.jpg?t=1784195209","alt":"Zombie Graveyard Simulator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/b22117ce09e8c7169cd79eb5c4ae8c8d81ba90fc/ss_b22117ce09e8c7169cd79eb5c4ae8c8d81ba90fc.1920x1080.jpg?t=1784195209","alt":"Zombie Graveyard Simulator 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Zombie Graveyard Simulator",
+    "developers": [
+      "threeW"
+    ],
+    "publishers": [
+      "PlayWay S.A."
+    ],
+    "release_status": "released",
+    "release_date": "2025-06-05",
+    "tags": [
+      "模拟",
+      "建造",
+      "僵尸",
+      "经营管理",
+      "独立游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "白天经营墓园生意，夜晚架设防线亲自抵挡僵尸潮",
+      "dimension": "玩法",
+      "excerpt": "Manage your Graveyard by day as you bury and cremate bodies, maintain graves, fulfill visitor requests, grow crops, run a shop and unlock upgrades. When night falls, face relentless zombie hordes as you build defenses to protect your work and fight to survive in Zombie Graveyard Simulator!",
+      "url": "https://store.steampowered.com/app/3430450/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "维护墓碑、鲜花与礼拜环境，用访客满意度推动墓园收益",
+      "dimension": "玩法",
+      "excerpt": "After processing the bodies, visitors will return to check on their loved ones. Your duty is to keep graves intact while providing fresh flowers and maintaining a welcoming environment. Every visit rewards you with valuable bonuses to help your business thrive.",
+      "url": "https://store.steampowered.com/app/3430450/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从铁丝网升级到火焰喷射塔，在血月等特殊夜晚守住墓园",
+      "dimension": "玩法",
+      "excerpt": "Some nights may be even more dangerous with special events like the Blood Moon. From basic defenses like barbed wires and fences to advanced machines like flamethrower turrets, keep your defenses upgraded, repaired, and fully stocked with ammo to withstand the night.",
+      "url": "https://store.steampowered.com/app/3430450/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 40261,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 42191,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3887,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 445942,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 41728,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 41728,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.184183636125087,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 794,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.083632,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Zombie Graveyard Simulator位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/6d5e0a02303b073ba1804b5e97905a41c50abc46/ss_6d5e0a02303b073ba1804b5e97905a41c50abc46.1920x1080.jpg?t=1784195209",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/6d5e0a02303b073ba1804b5e97905a41c50abc46/ss_6d5e0a02303b073ba1804b5e97905a41c50abc46.1920x1080.jpg?t=1786619183",
+        "alt": "Zombie Graveyard Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/6edd27a61831acef729a63b446aa8866ca13df7b/ss_6edd27a61831acef729a63b446aa8866ca13df7b.1920x1080.jpg?t=1786619183",
+        "alt": "Zombie Graveyard Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/76b7930dd87698bde8876b1a6e96581bfb56c7d5/ss_76b7930dd87698bde8876b1a6e96581bfb56c7d5.1920x1080.jpg?t=1786619183",
+        "alt": "Zombie Graveyard Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/b22117ce09e8c7169cd79eb5c4ae8c8d81ba90fc/ss_b22117ce09e8c7169cd79eb5c4ae8c8d81ba90fc.1920x1080.jpg?t=1786619183",
+        "alt": "Zombie Graveyard Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/8cec48060ec80a0287306bd5ba719192a7b4da95/ss_8cec48060ec80a0287306bd5ba719192a7b4da95.1920x1080.jpg?t=1786619183",
+        "alt": "Zombie Graveyard Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/7ee8230088f0a58fc5ea3ce7ac67a6ae6cf546bd/ss_7ee8230088f0a58fc5ea3ce7ac67a6ae6cf546bd.1920x1080.jpg?t=1786619183",
+        "alt": "Zombie Graveyard Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/a006e0159f9d14d68a4782e8dd3bc2c95ffa3eed/ss_a006e0159f9d14d68a4782e8dd3bc2c95ffa3eed.1920x1080.jpg?t=1786619183",
+        "alt": "Zombie Graveyard Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/6a560941cba857585fcfe11603025a99c33b66d9/ss_6a560941cba857585fcfe11603025a99c33b66d9.1920x1080.jpg?t=1786619183",
+        "alt": "Zombie Graveyard Simulator 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

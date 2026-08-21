@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Down with the Ship","developers":["Iron Anchor Games"],"publishers":["Proxy Studios"],"release_status":"early_access","release_date":"2026-05-15","tags":["抢先体验","自走棋","卡组构筑","高重复可玩性","玩家对战"]},"hooks":[{"text":"拼接船体扩展空间，每轮再塞入枪炮、反应堆和诅咒遗物","dimension":"玩法","excerpt":"Connect hull pieces to expand your ship and make room for modules. Each round offers a new set of parts: guns, reactors, shields, cursed relics, and more.","url":"https://store.steampowered.com/app/3523750/","label":"证据原文片段"},{"text":"部件摆位直接管理资源连接、效果联动和叠加加成","dimension":"玩法","excerpt":"Positioning is the core of the game. Move parts around to manage resources, connect item effects, and stack bonuses.","url":"https://store.steampowered.com/app/3523750/","label":"证据原文片段"},{"text":"战斗自动进行，但会异步匹配其他玩家保存的飞船","dimension":"玩法","excerpt":"Battles play out automatically, but you decide when your ship is ready to fight. Your current build is matched against stored ships from other players.","url":"https://store.steampowered.com/app/3523750/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":20139,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":72445,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5227,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":250169,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":20433,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":20433,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":19.34066519507909,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":729,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.927126,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、自走棋","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d6b5c59a5ba38dce03371df6ba713dfec2dd7f25/ss_d6b5c59a5ba38dce03371df6ba713dfec2dd7f25.1920x1080.jpg?t=1783456029","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d6b5c59a5ba38dce03371df6ba713dfec2dd7f25/ss_d6b5c59a5ba38dce03371df6ba713dfec2dd7f25.1920x1080.jpg?t=1783456029","alt":"Down with the Ship 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/c17db272613e17b40d44ada9830c169d3a0b9abb/ss_c17db272613e17b40d44ada9830c169d3a0b9abb.1920x1080.jpg?t=1783456029","alt":"Down with the Ship 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d2c886bac4b8f677b367b560fac89b692b6a6d34/ss_d2c886bac4b8f677b367b560fac89b692b6a6d34.1920x1080.jpg?t=1783456029","alt":"Down with the Ship 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d4e5f7e45275a1355b2635625ec833bd0060a54b/ss_d4e5f7e45275a1355b2635625ec833bd0060a54b.1920x1080.jpg?t=1783456029","alt":"Down with the Ship 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Down with the Ship",
+    "developers": [
+      "Iron Anchor Games"
+    ],
+    "publishers": [
+      "Proxy Studios"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-05-15",
+    "tags": [
+      "抢先体验",
+      "自走棋",
+      "轻度Rogue",
+      "卡组构筑",
+      "高重复可玩性"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "拼接船体扩展空间，每轮再塞入枪炮、反应堆和诅咒遗物",
+      "dimension": "玩法",
+      "excerpt": "Connect hull pieces to expand your ship and make room for modules. Each round offers a new set of parts: guns, reactors, shields, cursed relics, and more.",
+      "url": "https://store.steampowered.com/app/3523750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "部件摆位直接管理资源连接、效果联动和叠加加成",
+      "dimension": "玩法",
+      "excerpt": "Positioning is the core of the game. Move parts around to manage resources, connect item effects, and stack bonuses.",
+      "url": "https://store.steampowered.com/app/3523750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗自动进行，但会异步匹配其他玩家保存的飞船",
+      "dimension": "玩法",
+      "excerpt": "Battles play out automatically, but you decide when your ship is ready to fight. Your current build is matched against stored ships from other players.",
+      "url": "https://store.steampowered.com/app/3523750/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 20525,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 70318,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5305,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 251025,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 20891,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 20891,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 23.926078008068423,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 779,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.508115,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Down with the Ship位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d6b5c59a5ba38dce03371df6ba713dfec2dd7f25/ss_d6b5c59a5ba38dce03371df6ba713dfec2dd7f25.1920x1080.jpg?t=1783456029",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d6b5c59a5ba38dce03371df6ba713dfec2dd7f25/ss_d6b5c59a5ba38dce03371df6ba713dfec2dd7f25.1920x1080.jpg?t=1783456029",
+        "alt": "Down with the Ship 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/c17db272613e17b40d44ada9830c169d3a0b9abb/ss_c17db272613e17b40d44ada9830c169d3a0b9abb.1920x1080.jpg?t=1783456029",
+        "alt": "Down with the Ship 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d2c886bac4b8f677b367b560fac89b692b6a6d34/ss_d2c886bac4b8f677b367b560fac89b692b6a6d34.1920x1080.jpg?t=1783456029",
+        "alt": "Down with the Ship 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/d4e5f7e45275a1355b2635625ec833bd0060a54b/ss_d4e5f7e45275a1355b2635625ec833bd0060a54b.1920x1080.jpg?t=1783456029",
+        "alt": "Down with the Ship 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/8274d58c4d2f1fc26dc1bda93cfbf8f5d6f624bb/ss_8274d58c4d2f1fc26dc1bda93cfbf8f5d6f624bb.1920x1080.jpg?t=1783456029",
+        "alt": "Down with the Ship 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/7742b29e3d6d8b5db904cdb7c307548d9147ba17/ss_7742b29e3d6d8b5db904cdb7c307548d9147ba17.1920x1080.jpg?t=1783456029",
+        "alt": "Down with the Ship 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/8a1be8709346638ccc4d01e3c18f52713f081ba7/ss_8a1be8709346638ccc4d01e3c18f52713f081ba7.1920x1080.jpg?t=1783456029",
+        "alt": "Down with the Ship 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3523750/bd5fd2a000495a484333f6f290c9faf46785ccae/ss_bd5fd2a000495a484333f6f290c9faf46785ccae.1920x1080.jpg?t=1783456029",
+        "alt": "Down with the Ship 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

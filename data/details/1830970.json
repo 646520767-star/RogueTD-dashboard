@@ -1,1 +1,179 @@
-{"identity":{"original_title":"The Last Flame","developers":["Hotloop"],"publishers":["Hotloop","Surefire.Games"],"release_status":"released","release_date":"2025-01-09","tags":["自走棋","类Rogue","策略","战术","回合制策略"]},"hooks":[{"text":"六十五名英雄、三百二十五件物品、一百五十件遗物和六十种起源共同支撑大量协同构筑。","dimension":"玩法","excerpt":"With 65 heroes, 325 items, 150 relics and 60 origins, every run will be unique and challenging! Hero and team building have been designed with flexibility and freedom at their core which allows you to discover and create unique synergetic builds every single run!","url":"https://store.steampowered.com/app/1830970/","label":"证据原文片段"},{"text":"自动战斗之间要管理资源、选择地图路线、调整构筑并规划站位和战斗阶段。","dimension":"玩法","excerpt":"In between the automated combats, you will have to cleverly guide your heroes through the adventure by making the smart decisions! Manage your resources, choose the optimal path in the map, make powerful builds, and strategically position and plan the combat phase!","url":"https://store.steampowered.com/app/1830970/","label":"证据原文片段"},{"text":"五档难度、无尽冲层和二十种挑战分别检验构筑上限与策略掌握。","dimension":"玩法","excerpt":"Progress through 5 difficulties which will challenge your knowledge and strategy! Push your builds to their limit in the endless mode, a mode where you try to reach the highest floor! Experience the game in diverse and fun new ways with the 20 available challenges!","url":"https://store.steampowered.com/app/1830970/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":169574,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":128364,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11616,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2053104,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":177781,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":177781,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.528645635783676,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2881,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.095321,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"自走棋、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_4b5bf33cd70be81588b579cae21a399b17a27b9e.1920x1080.jpg?t=1763223756","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_4b5bf33cd70be81588b579cae21a399b17a27b9e.1920x1080.jpg?t=1763223756","alt":"将熄之焰 The Last Flame 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_8ee3eae7c57964c7cbad7ce7a4b07166ca04ea27.1920x1080.jpg?t=1763223756","alt":"将熄之焰 The Last Flame 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_2f634b08c59c57bc3ce6cfecfa38ef5d590446e9.1920x1080.jpg?t=1763223756","alt":"将熄之焰 The Last Flame 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_b4fa1bdb44553581dd902ec924db726b437a56b2.1920x1080.jpg?t=1763223756","alt":"将熄之焰 The Last Flame 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Last Flame",
+    "developers": [
+      "Hotloop"
+    ],
+    "publishers": [
+      "Hotloop",
+      "Surefire.Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-01-09",
+    "tags": [
+      "自走棋",
+      "类Rogue",
+      "策略",
+      "战术",
+      "回合制策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "六十五名英雄、三百二十五件物品、一百五十件遗物和六十种起源共同支撑大量协同构筑。",
+      "dimension": "玩法",
+      "excerpt": "With 65 heroes, 325 items, 150 relics and 60 origins, every run will be unique and challenging! Hero and team building have been designed with flexibility and freedom at their core which allows you to discover and create unique synergetic builds every single run!",
+      "url": "https://store.steampowered.com/app/1830970/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "自动战斗之间要管理资源、选择地图路线、调整构筑并规划站位和战斗阶段。",
+      "dimension": "玩法",
+      "excerpt": "In between the automated combats, you will have to cleverly guide your heroes through the adventure by making the smart decisions! Manage your resources, choose the optimal path in the map, make powerful builds, and strategically position and plan the combat phase!",
+      "url": "https://store.steampowered.com/app/1830970/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "五档难度、无尽冲层和二十种挑战分别检验构筑上限与策略掌握。",
+      "dimension": "玩法",
+      "excerpt": "Progress through 5 difficulties which will challenge your knowledge and strategy! Push your builds to their limit in the endless mode, a mode where you try to reach the highest floor! Experience the game in diverse and fun new ways with the 20 available challenges!",
+      "url": "https://store.steampowered.com/app/1830970/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 172662,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 132961,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11666,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2078521,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 181062,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 181062,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.392351844343908,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2705,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.053504,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "将熄之焰 The Last Flame位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_4b5bf33cd70be81588b579cae21a399b17a27b9e.1920x1080.jpg?t=1763223756",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_4b5bf33cd70be81588b579cae21a399b17a27b9e.1920x1080.jpg?t=1763223756",
+        "alt": "将熄之焰 The Last Flame 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_8ee3eae7c57964c7cbad7ce7a4b07166ca04ea27.1920x1080.jpg?t=1763223756",
+        "alt": "将熄之焰 The Last Flame 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_2f634b08c59c57bc3ce6cfecfa38ef5d590446e9.1920x1080.jpg?t=1763223756",
+        "alt": "将熄之焰 The Last Flame 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_b4fa1bdb44553581dd902ec924db726b437a56b2.1920x1080.jpg?t=1763223756",
+        "alt": "将熄之焰 The Last Flame 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_ca5e63b724fcda6601c6e75178f69437023ac1ff.1920x1080.jpg?t=1763223756",
+        "alt": "将熄之焰 The Last Flame 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_ccaa2bcabd73eb598816bf3f382ebae6b4bd290a.1920x1080.jpg?t=1763223756",
+        "alt": "将熄之焰 The Last Flame 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_a4c2516ea0a47760f1142f8fbee8eb31f2f27987.1920x1080.jpg?t=1763223756",
+        "alt": "将熄之焰 The Last Flame 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830970/ss_299d1663aa82879c99d4f3aacf4cf4ab0128e19d.1920x1080.jpg?t=1763223756",
+        "alt": "将熄之焰 The Last Flame 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,222 @@
-{"identity":{"original_title":"Ash & Adam's Existential Treads","developers":["Ash & Adam's Games"],"publishers":["Ash & Adam's Games","CC Games"],"release_status":"released","release_date":"2026-05-03","tags":["策略","动作","塔防","街机","探索"]},"hooks":[{"text":"驾驶载具拆除旧世界废墟并就地建造聚落","dimension":"玩法","excerpt":"Part city builder, part retro vehicle shooter. Tear down the ruins of the old world and use what you find to build a settlement.","url":"https://store.steampowered.com/app/3580340/","label":"证据原文片段"},{"text":"营救荒原幸存者并以建筑摆位抵挡失控AI敌潮","dimension":"玩法","excerpt":"Rescue survivors from the wastes. Defend your people against waves of attacks from the rogue AI that ruined the old world. Procedural levels and random build order make every run unique. Carve your way through the post-post-apocalyptic sprawl to find valuable resources and rescue settlers. Every building you construct and how you position it affects your settlement's chance of survival.","url":"https://store.steampowered.com/app/3580340/","label":"证据原文片段"},{"text":"程序化关卡与随机建造顺序重排每次重建路线","dimension":"玩法","excerpt":"Procedural levels and random build order make every run unique.","url":"https://store.steampowered.com/app/3580340/","label":"证据原文片段"}],"opinions":[{"text":"游戏内容过短，重开价值低。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"几个多小时就通关了，内容量不大，通关后重开的价值不高。","url":"https://steamcommunity.com/id/cunpao/recommended/3580340/","label":"证据原文片段"}]},{"text":"胜负过度受随机种子影响。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"运气对胜负的影响太大了。","url":"https://steamcommunity.com/profiles/76561198071201025/recommended/3580340/","label":"证据原文片段"}]},{"text":"开车拆家与塔防结合巧妙。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"把“开车拆家”和“塔防”结合得挺巧妙。","url":"https://steamcommunity.com/id/cunpao/recommended/3580340/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":13847,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":36858,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4049,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":63449,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":15111,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":15111,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.927001290960235,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":368,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.140921,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["游戏内容过短，重开价值低。","胜负过度受随机种子影响。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/059689d70705db19de7f3dec6c45ebe0b3e77163/ss_059689d70705db19de7f3dec6c45ebe0b3e77163.1920x1080.jpg?t=1780323513","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/059689d70705db19de7f3dec6c45ebe0b3e77163/ss_059689d70705db19de7f3dec6c45ebe0b3e77163.1920x1080.jpg?t=1780323513","alt":"Ash & Adam's Existential Treads 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/1439b8151b56a0e14db9f2bbddbd23f5d4fa24f0/ss_1439b8151b56a0e14db9f2bbddbd23f5d4fa24f0.1920x1080.jpg?t=1780323513","alt":"Ash & Adam's Existential Treads 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/0708f39a1f1d47093831ca5ee35aa47daadd3683/ss_0708f39a1f1d47093831ca5ee35aa47daadd3683.1920x1080.jpg?t=1780323513","alt":"Ash & Adam's Existential Treads 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/1cdbffc83646e3e4c19191946c6fb90bd9cfacb5/ss_1cdbffc83646e3e4c19191946c6fb90bd9cfacb5.1920x1080.jpg?t=1780323513","alt":"Ash & Adam's Existential Treads 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Ash & Adam's Existential Treads",
+    "developers": [
+      "Ash & Adam's Games"
+    ],
+    "publishers": [
+      "Ash & Adam's Games",
+      "CC Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-03",
+    "tags": [
+      "策略",
+      "动作",
+      "塔防",
+      "塔防",
+      "街机"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "驾驶载具拆除旧世界废墟并就地建造聚落",
+      "dimension": "玩法",
+      "excerpt": "Part city builder, part retro vehicle shooter. Tear down the ruins of the old world and use what you find to build a settlement.",
+      "url": "https://store.steampowered.com/app/3580340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "营救荒原幸存者并以建筑摆位抵挡失控AI敌潮",
+      "dimension": "玩法",
+      "excerpt": "Rescue survivors from the wastes. Defend your people against waves of attacks from the rogue AI that ruined the old world. Procedural levels and random build order make every run unique. Carve your way through the post-post-apocalyptic sprawl to find valuable resources and rescue settlers. Every building you construct and how you position it affects your settlement's chance of survival.",
+      "url": "https://store.steampowered.com/app/3580340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "程序化关卡与随机建造顺序重排每次重建路线",
+      "dimension": "玩法",
+      "excerpt": "Procedural levels and random build order make every run unique.",
+      "url": "https://store.steampowered.com/app/3580340/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "游戏内容过短，重开价值低。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "几个多小时就通关了，内容量不大，通关后重开的价值不高。",
+          "url": "https://steamcommunity.com/id/cunpao/recommended/3580340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "胜负过度受随机种子影响。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "运气对胜负的影响太大了。",
+          "url": "https://steamcommunity.com/profiles/76561198071201025/recommended/3580340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "开车拆家与塔防结合巧妙。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "把“开车拆家”和“塔防”结合得挺巧妙。",
+          "url": "https://steamcommunity.com/id/cunpao/recommended/3580340/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 14738,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 35798,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4073,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 69280,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 16049,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 16049,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.8934967713088646,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 333,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.307692,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "游戏内容过短，重开价值低。",
+    "胜负过度受随机种子影响。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Ash & Adam's Existential Treads位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/059689d70705db19de7f3dec6c45ebe0b3e77163/ss_059689d70705db19de7f3dec6c45ebe0b3e77163.1920x1080.jpg?t=1780323513",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/059689d70705db19de7f3dec6c45ebe0b3e77163/ss_059689d70705db19de7f3dec6c45ebe0b3e77163.1920x1080.jpg?t=1780323513",
+        "alt": "Ash & Adam's Existential Treads 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/1439b8151b56a0e14db9f2bbddbd23f5d4fa24f0/ss_1439b8151b56a0e14db9f2bbddbd23f5d4fa24f0.1920x1080.jpg?t=1780323513",
+        "alt": "Ash & Adam's Existential Treads 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/0708f39a1f1d47093831ca5ee35aa47daadd3683/ss_0708f39a1f1d47093831ca5ee35aa47daadd3683.1920x1080.jpg?t=1780323513",
+        "alt": "Ash & Adam's Existential Treads 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/1cdbffc83646e3e4c19191946c6fb90bd9cfacb5/ss_1cdbffc83646e3e4c19191946c6fb90bd9cfacb5.1920x1080.jpg?t=1780323513",
+        "alt": "Ash & Adam's Existential Treads 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/38351f90cb0b4072c79c7122d781e260a43466d1/ss_38351f90cb0b4072c79c7122d781e260a43466d1.1920x1080.jpg?t=1780323513",
+        "alt": "Ash & Adam's Existential Treads 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/c0e3177d58ed5c9e256957759ab0bb737d7e223f/ss_c0e3177d58ed5c9e256957759ab0bb737d7e223f.1920x1080.jpg?t=1780323513",
+        "alt": "Ash & Adam's Existential Treads 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/ff0eb4403cdd9b2fa9a4134abf8cde24b1d2b28f/ss_ff0eb4403cdd9b2fa9a4134abf8cde24b1d2b28f.1920x1080.jpg?t=1780323513",
+        "alt": "Ash & Adam's Existential Treads 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580340/2cd068215055e0c0ecacd0fc786f9a56e0353b39/ss_2cd068215055e0c0ecacd0fc786f9a56e0353b39.1920x1080.jpg?t=1780323513",
+        "alt": "Ash & Adam's Existential Treads 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

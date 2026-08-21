@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Tower Factory","developers":["Gius Caminiti"],"publishers":["Gius Caminiti"],"release_status":"early_access","release_date":"2024-11-07","tags":["塔防","策略","即时战略","轻度Rogue","类Rogue"]},"hooks":[{"text":"每局从零用传送带搭工厂并持续生产防御塔","dimension":"玩法","excerpt":"Create a factory from scratch in each game, gaining access to more resources and new buildings over time. How? With conveyor belts , indeed!","url":"https://store.steampowered.com/app/2707490/","label":"证据原文片段"},{"text":"清除战争迷雾寻找敌方城堡、宝藏和扩建空间","dimension":"玩法","excerpt":"Clear the fog in search of the enemy castle, treasures, and (very importantly) more space to build!","url":"https://store.steampowered.com/app/2707490/","label":"证据原文片段"},{"text":"敌军白天来袭但夜间更密集，必须针对性升级塔","dimension":"玩法","excerpt":"Construct and upgrade suitable towers to fend off enemies who will come during the day but mostly... during the night!","url":"https://store.steampowered.com/app/2707490/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":79188,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":161411,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11729,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":951846,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":80885,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":80885,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.418551359822304,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1235,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.392713,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"塔防、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/88c1117cc12b565d860aa6a6208e04cdf64a03b2/ss_88c1117cc12b565d860aa6a6208e04cdf64a03b2.1920x1080.jpg?t=1784545950","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/88c1117cc12b565d860aa6a6208e04cdf64a03b2/ss_88c1117cc12b565d860aa6a6208e04cdf64a03b2.1920x1080.jpg?t=1784545950","alt":"Tower Factory 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/f3beaf374fcbcf8df0b38813d98e06bd3d09289e/ss_f3beaf374fcbcf8df0b38813d98e06bd3d09289e.1920x1080.jpg?t=1784545950","alt":"Tower Factory 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/a451e13ec8cf80896ca702622b348c814556d914/ss_a451e13ec8cf80896ca702622b348c814556d914.1920x1080.jpg?t=1784545950","alt":"Tower Factory 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/504a1fdee45cf51dc28726a71f41ac906b8523b7/ss_504a1fdee45cf51dc28726a71f41ac906b8523b7.1920x1080.jpg?t=1784545950","alt":"Tower Factory 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Tower Factory",
+    "developers": [
+      "Gius Caminiti"
+    ],
+    "publishers": [
+      "Gius Caminiti"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-11-07",
+    "tags": [
+      "塔防",
+      "塔防",
+      "策略",
+      "即时战略",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每局从零用传送带搭工厂并持续生产防御塔",
+      "dimension": "玩法",
+      "excerpt": "Create a factory from scratch in each game, gaining access to more resources and new buildings over time. How? With conveyor belts , indeed!",
+      "url": "https://store.steampowered.com/app/2707490/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "清除战争迷雾寻找敌方城堡、宝藏和扩建空间",
+      "dimension": "玩法",
+      "excerpt": "Clear the fog in search of the enemy castle, treasures, and (very importantly) more space to build!",
+      "url": "https://store.steampowered.com/app/2707490/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "敌军白天来袭但夜间更密集，必须针对性升级塔",
+      "dimension": "玩法",
+      "excerpt": "Construct and upgrade suitable towers to fend off enemies who will come during the day but mostly... during the night!",
+      "url": "https://store.steampowered.com/app/2707490/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 82368,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 166203,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11763,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 990044,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 84117,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 84117,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.310747982582205,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1209,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.486356,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Tower Factory位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/88c1117cc12b565d860aa6a6208e04cdf64a03b2/ss_88c1117cc12b565d860aa6a6208e04cdf64a03b2.1920x1080.jpg?t=1784545950",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/88c1117cc12b565d860aa6a6208e04cdf64a03b2/ss_88c1117cc12b565d860aa6a6208e04cdf64a03b2.1920x1080.jpg?t=1785901271",
+        "alt": "Tower Factory 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/f3beaf374fcbcf8df0b38813d98e06bd3d09289e/ss_f3beaf374fcbcf8df0b38813d98e06bd3d09289e.1920x1080.jpg?t=1785901271",
+        "alt": "Tower Factory 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/a451e13ec8cf80896ca702622b348c814556d914/ss_a451e13ec8cf80896ca702622b348c814556d914.1920x1080.jpg?t=1785901271",
+        "alt": "Tower Factory 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/504a1fdee45cf51dc28726a71f41ac906b8523b7/ss_504a1fdee45cf51dc28726a71f41ac906b8523b7.1920x1080.jpg?t=1785901271",
+        "alt": "Tower Factory 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/6f5949102e96ead9d30fe45be7d5963869220a1b/ss_6f5949102e96ead9d30fe45be7d5963869220a1b.1920x1080.jpg?t=1785901271",
+        "alt": "Tower Factory 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/7434702063e7f272e7afb1186a489987e4340988/ss_7434702063e7f272e7afb1186a489987e4340988.1920x1080.jpg?t=1785901271",
+        "alt": "Tower Factory 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/2ad9b47856a317109c0ee986186d4151881e94be/ss_2ad9b47856a317109c0ee986186d4151881e94be.1920x1080.jpg?t=1785901271",
+        "alt": "Tower Factory 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

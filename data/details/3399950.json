@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Your Mother","developers":["M for Mother"],"publishers":["M for Mother"],"release_status":"released","release_date":"2025-02-28","tags":["动漫风格","女性主角","二维画面","可爱","休闲放松"]},"hooks":[{"text":"桌面母亲角色会跟随鼠标注视，并支持拖动、缩放与双屏切换","dimension":"玩法","excerpt":"The character's gaze will follow the movement of your mouse. -Supports character dragging (left mouse button) and zooming in and out (using the mouse wheel during dragging), but please do not block mother from watching TV. -You can switch the screen where the character is located in a dual-screen situation","url":"https://store.steampowered.com/app/3399950/","label":"证据原文片段"},{"text":"从游戏内母亲处学习日语、英美英语、粤语、闽南语等多种语言","dimension":"玩法","excerpt":"You will learn dozen of languages from your mother-in-game: Japanese, British English, American English, Cantonese, Minnan, Northeastern, Shanghainese and more.","url":"https://store.steampowered.com/app/3399950/","label":"证据原文片段"},{"text":"每次打开游戏都有机会遇到特殊母亲，例如日本黑道母亲","dimension":"题材","excerpt":"When you open the game, there is a chance that a mysterious mother will appear, such as a Japanese Yakuza mother.","url":"https://store.steampowered.com/app/3399950/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":447994,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":99136,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":10476,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":280683,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":523195,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":523195,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.3235065133947757,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":10349,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.432432,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动漫风格、女性主角","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_8fe419caaaf25b2a505601af4517e9314a09f278.1920x1080.jpg?t=1781631200","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_8fe419caaaf25b2a505601af4517e9314a09f278.1920x1080.jpg?t=1781631200","alt":"你的老母 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/e45713835ddac278738cc3db539e8933a219af68/ss_e45713835ddac278738cc3db539e8933a219af68.1920x1080.jpg?t=1781631200","alt":"你的老母 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_d86bd7bf41cdd68408475bba84b1bf7422107386.1920x1080.jpg?t=1781631200","alt":"你的老母 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_5fd09f1f268a376adb77859255c3ae1b33e08cfe.1920x1080.jpg?t=1781631200","alt":"你的老母 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Your Mother",
+    "developers": [
+      "M for Mother"
+    ],
+    "publishers": [
+      "M for Mother"
+    ],
+    "release_status": "released",
+    "release_date": "2025-02-28",
+    "tags": [
+      "轻度Rogue",
+      "动漫风格",
+      "女性主角",
+      "可爱",
+      "二维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "桌面母亲角色会跟随鼠标注视，并支持拖动、缩放与双屏切换",
+      "dimension": "玩法",
+      "excerpt": "The character's gaze will follow the movement of your mouse. -Supports character dragging (left mouse button) and zooming in and out (using the mouse wheel during dragging), but please do not block mother from watching TV. -You can switch the screen where the character is located in a dual-screen situation",
+      "url": "https://store.steampowered.com/app/3399950/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从游戏内母亲处学习日语、英美英语、粤语、闽南语等多种语言",
+      "dimension": "玩法",
+      "excerpt": "You will learn dozen of languages from your mother-in-game: Japanese, British English, American English, Cantonese, Minnan, Northeastern, Shanghainese and more.",
+      "url": "https://store.steampowered.com/app/3399950/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次打开游戏都有机会遇到特殊母亲，例如日本黑道母亲",
+      "dimension": "题材",
+      "excerpt": "When you open the game, there is a chance that a mysterious mother will appear, such as a Japanese Yakuza mother.",
+      "url": "https://store.steampowered.com/app/3399950/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 469533,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 99723,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 10572,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 299600,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 548765,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 548765,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.3842277090250654,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 8320,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.382496,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "你的老母位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_8fe419caaaf25b2a505601af4517e9314a09f278.1920x1080.jpg?t=1781631200",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_8fe419caaaf25b2a505601af4517e9314a09f278.1920x1080.jpg?t=1781631200",
+        "alt": "你的老母 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/e45713835ddac278738cc3db539e8933a219af68/ss_e45713835ddac278738cc3db539e8933a219af68.1920x1080.jpg?t=1781631200",
+        "alt": "你的老母 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_d86bd7bf41cdd68408475bba84b1bf7422107386.1920x1080.jpg?t=1781631200",
+        "alt": "你的老母 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_5fd09f1f268a376adb77859255c3ae1b33e08cfe.1920x1080.jpg?t=1781631200",
+        "alt": "你的老母 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_95582c52abd7f3272938a7ecb16aa42bd76081a7.1920x1080.jpg?t=1781631200",
+        "alt": "你的老母 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_5494dbadf164c56e1b3641ddbf2f06da0fae54a5.1920x1080.jpg?t=1781631200",
+        "alt": "你的老母 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399950/ss_e4bd530c506e562341ea46966a10795d62101c69.1920x1080.jpg?t=1781631200",
+        "alt": "你的老母 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

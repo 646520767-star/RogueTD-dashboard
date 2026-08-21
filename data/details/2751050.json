@@ -1,1 +1,308 @@
-{"identity":{"original_title":"clickyland","developers":["Sokpop Collective"],"publishers":["Sokpop Collective"],"release_status":"released","release_date":"2024-06-03","tags":["策略","塔防","基地建设","三维画面","单人游戏"]},"hooks":[{"text":"点击既是采集、战斗和经营资源，但每天总共只有 20 次","dimension":"玩法","excerpt":"Use clicks to harvest resources, fight enemies and manage your village, but use them wisely as you only get 20 clicks every day!","url":"https://store.steampowered.com/app/2751050/","label":"证据原文片段"},{"text":"点击树木、敌人与迷雾执行不同动作，建筑还能把单次点击放大为更多产出","dimension":"玩法","excerpt":"For example, click a tree to get wood, click enemies to damage them or click the fog to reveal more of the map. Use structures to get the maximum out of your clicks. For example, build a quarry that automatically mines 3 stone per click or build click factories to obtain more clicks.","url":"https://store.steampowered.com/app/2751050/","label":"证据原文片段"},{"text":"每局赚取商店金币，用来购买新塔和快速点击等升级延长生存","dimension":"玩法","excerpt":"Each run gives you coins to spend in the shop. Buy new towers and upgrades like rapid click to survive longer!","url":"https://store.steampowered.com/app/2751050/","label":"证据原文片段"}],"opinions":[{"text":"建筑和敌人设计可爱","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"每个建筑和敌人都设计得十分可爱","url":"https://steamcommunity.com/profiles/76561199646619295/recommended/2751050/","label":"证据原文片段"}]},{"text":"塔防部分表现不佳","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"The tower defense aspect of it isn't great either.","url":"https://store.steampowered.com/curator/45690278-SJ%2527s-Tower-Defence-Library/","label":"证据原文片段"}]},{"text":"玩法循环很快变得重复且缺乏刺激","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"very quickly it became apparent how repetitive and unexciting the gameplay loop is","url":"https://store.steampowered.com/curator/45690278-SJ%2527s-Tower-Defence-Library/","label":"证据原文片段"}]},{"text":"防御塔有时无法识别近身敌人","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"我旁边围着的一圈防御塔都认不出来那是怪","url":"https://steamcommunity.com/profiles/76561198957589015/recommended/2751050/","label":"证据原文片段"}]},{"text":"部分建筑强度失衡且没有建造价值","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"别的一些建筑 (尤其是弱的塔)，可以说不明所以，完全没有造的必要","url":"https://steamcommunity.com/id/R__sin/recommended/2751050/","label":"证据原文片段"}]},{"text":"中后期波次内容重复","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"中后期 50 到 100 波感觉比较重复","url":"https://steamcommunity.com/id/R__sin/recommended/2751050/","label":"证据原文片段"}]},{"text":"后半段体验枯燥且回报不足","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the rest was dull and tedious and unrewarding","url":"https://steamcommunity.com/profiles/76561198077681829/recommended/2751050/","label":"证据原文片段"}]},{"text":"便利性功能严重不足","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"QoL 极度欠缺","url":"https://steamcommunity.com/id/R__sin/recommended/2751050/","label":"证据原文片段"}]},{"text":"成长系统表现不错","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"a nice progression system","url":"https://store.steampowered.com/curator/44794427-Tower-Defense-games-rated/","label":"证据原文片段"}]},{"text":"塔防与资源管理融合得很出色","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"An incredible blend of tower defense strategy & resource management","url":"https://store.steampowered.com/curator/40608092-PursuingPixels/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":46245,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":54651,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2795,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":183000,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":47971,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":47971,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.481246737130885,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":642,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.225505,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["塔防部分表现不佳","玩法循环很快变得重复且缺乏刺激","技术/性能：防御塔有时无法识别近身敌人","部分建筑强度失衡且没有建造价值","中后期波次内容重复","后半段体验枯燥且回报不足"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_9f3e5d538b240b483f03dee68bb779770013f3cd.1920x1080.jpg?t=1717434946","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_9f3e5d538b240b483f03dee68bb779770013f3cd.1920x1080.jpg?t=1717434946","alt":"clickyland 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_ed143d1d364fa9ada196008a75449b0b8f52b7d4.1920x1080.jpg?t=1717434946","alt":"clickyland 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_28cec61cc0ea6233d88e0f3191cc778423ff1bdc.1920x1080.jpg?t=1717434946","alt":"clickyland 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_cf550315827cda279f545e9e8d49e90f92b89763.1920x1080.jpg?t=1717434946","alt":"clickyland 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "clickyland",
+    "developers": [
+      "Sokpop Collective"
+    ],
+    "publishers": [
+      "Sokpop Collective"
+    ],
+    "release_status": "released",
+    "release_date": "2024-06-03",
+    "tags": [
+      "策略",
+      "塔防",
+      "基地建设",
+      "塔防",
+      "三维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "点击既是采集、战斗和经营资源，但每天总共只有 20 次",
+      "dimension": "玩法",
+      "excerpt": "Use clicks to harvest resources, fight enemies and manage your village, but use them wisely as you only get 20 clicks every day!",
+      "url": "https://store.steampowered.com/app/2751050/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "点击树木、敌人与迷雾执行不同动作，建筑还能把单次点击放大为更多产出",
+      "dimension": "玩法",
+      "excerpt": "For example, click a tree to get wood, click enemies to damage them or click the fog to reveal more of the map. Use structures to get the maximum out of your clicks. For example, build a quarry that automatically mines 3 stone per click or build click factories to obtain more clicks.",
+      "url": "https://store.steampowered.com/app/2751050/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每局赚取商店金币，用来购买新塔和快速点击等升级延长生存",
+      "dimension": "玩法",
+      "excerpt": "Each run gives you coins to spend in the shop. Buy new towers and upgrades like rapid click to survive longer!",
+      "url": "https://store.steampowered.com/app/2751050/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "建筑和敌人设计可爱",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "每个建筑和敌人都设计得十分可爱",
+          "url": "https://steamcommunity.com/profiles/76561199646619295/recommended/2751050/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "塔防部分表现不佳",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The tower defense aspect of it isn't great either.",
+          "url": "https://store.steampowered.com/curator/45690278-SJ%2527s-Tower-Defence-Library/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法循环很快变得重复且缺乏刺激",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "very quickly it became apparent how repetitive and unexciting the gameplay loop is",
+          "url": "https://store.steampowered.com/curator/45690278-SJ%2527s-Tower-Defence-Library/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "防御塔有时无法识别近身敌人",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "我旁边围着的一圈防御塔都认不出来那是怪",
+          "url": "https://steamcommunity.com/profiles/76561198957589015/recommended/2751050/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分建筑强度失衡且没有建造价值",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "别的一些建筑 (尤其是弱的塔)，可以说不明所以，完全没有造的必要",
+          "url": "https://steamcommunity.com/id/R__sin/recommended/2751050/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "中后期波次内容重复",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "中后期 50 到 100 波感觉比较重复",
+          "url": "https://steamcommunity.com/id/R__sin/recommended/2751050/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后半段体验枯燥且回报不足",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the rest was dull and tedious and unrewarding",
+          "url": "https://steamcommunity.com/profiles/76561198077681829/recommended/2751050/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "便利性功能严重不足",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "QoL 极度欠缺",
+          "url": "https://steamcommunity.com/id/R__sin/recommended/2751050/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成长系统表现不错",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a nice progression system",
+          "url": "https://store.steampowered.com/curator/44794427-Tower-Defense-games-rated/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "塔防与资源管理融合得很出色",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "An incredible blend of tower defense strategy & resource management",
+          "url": "https://store.steampowered.com/curator/40608092-PursuingPixels/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 48812,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 54975,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2800,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 186421,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 50611,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 50611,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.4535948200777917,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 617,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.076923,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "塔防部分表现不佳",
+    "玩法循环很快变得重复且缺乏刺激",
+    "技术/性能：防御塔有时无法识别近身敌人",
+    "部分建筑强度失衡且没有建造价值",
+    "中后期波次内容重复",
+    "后半段体验枯燥且回报不足"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "clickyland位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_9f3e5d538b240b483f03dee68bb779770013f3cd.1920x1080.jpg?t=1717434946",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_9f3e5d538b240b483f03dee68bb779770013f3cd.1920x1080.jpg?t=1717434946",
+        "alt": "clickyland 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_ed143d1d364fa9ada196008a75449b0b8f52b7d4.1920x1080.jpg?t=1717434946",
+        "alt": "clickyland 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_28cec61cc0ea6233d88e0f3191cc778423ff1bdc.1920x1080.jpg?t=1717434946",
+        "alt": "clickyland 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_cf550315827cda279f545e9e8d49e90f92b89763.1920x1080.jpg?t=1717434946",
+        "alt": "clickyland 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_d94a2223b3989a258076061697a13c380160944e.1920x1080.jpg?t=1717434946",
+        "alt": "clickyland 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751050/ss_7f0ecd22da54a56dac3de0af2d9c61e0e8148c0c.1920x1080.jpg?t=1717434946",
+        "alt": "clickyland 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Decktamer","developers":["Horizon Edge"],"publishers":["Assemble Entertainment"],"release_status":"released","release_date":"2025-10-27","tags":["肉鸽卡组构筑","卡牌游戏","卡牌对战","回合制战斗","卡组构筑"]},"hooks":[{"text":"驯服敌人才能把它变成牌且死亡永久丢失","dimension":"玩法","excerpt":"In this game, cards are not simply handed out to you, you have to tame your enemies to add them to your deck! But be careful, when one of your creature dies, the card is gone forever!","url":"https://store.steampowered.com/app/2870340/","label":"证据原文片段"},{"text":"每张生物牌每回合各行动一次","dimension":"玩法","excerpt":"Every turn, each one of your cards can use a move.","url":"https://store.steampowered.com/app/2870340/","label":"证据原文片段"},{"text":"把突变能力从一只生物移植给另一只","dimension":"玩法","excerpt":"Use that to your advantage and transfer abilities from one creature to another to create unique and devastating combos!","url":"https://store.steampowered.com/app/2870340/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":128209,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":111845,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9122,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1346031,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":134075,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":134075,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.5550293141814935,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2048,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.644769,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、卡牌游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/8de87f8ad8abc6630dc485046ae6f3594e489d80/ss_8de87f8ad8abc6630dc485046ae6f3594e489d80.1920x1080.jpg?t=1782487109","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/8de87f8ad8abc6630dc485046ae6f3594e489d80/ss_8de87f8ad8abc6630dc485046ae6f3594e489d80.1920x1080.jpg?t=1782487109","alt":"驯牌师 Decktamer 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/a40274c0f6c3881edd5c42a4f2721621aeb1e5c3/ss_a40274c0f6c3881edd5c42a4f2721621aeb1e5c3.1920x1080.jpg?t=1782487109","alt":"驯牌师 Decktamer 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/46c4c60793c60b4eee8877fdcc2bb5f2f404cf8b/ss_46c4c60793c60b4eee8877fdcc2bb5f2f404cf8b.1920x1080.jpg?t=1782487109","alt":"驯牌师 Decktamer 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/15e334425e0eec75e344f43773e682e60f94b0b3/ss_15e334425e0eec75e344f43773e682e60f94b0b3.1920x1080.jpg?t=1782487109","alt":"驯牌师 Decktamer 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Decktamer",
+    "developers": [
+      "Horizon Edge"
+    ],
+    "publishers": [
+      "Assemble Entertainment"
+    ],
+    "release_status": "released",
+    "release_date": "2025-10-27",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡牌游戏",
+      "卡牌对战",
+      "轻度Rogue",
+      "回合制战斗"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "驯服敌人才能把它变成牌且死亡永久丢失",
+      "dimension": "玩法",
+      "excerpt": "In this game, cards are not simply handed out to you, you have to tame your enemies to add them to your deck! But be careful, when one of your creature dies, the card is gone forever!",
+      "url": "https://store.steampowered.com/app/2870340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每张生物牌每回合各行动一次",
+      "dimension": "玩法",
+      "excerpt": "Every turn, each one of your cards can use a move.",
+      "url": "https://store.steampowered.com/app/2870340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把突变能力从一只生物移植给另一只",
+      "dimension": "玩法",
+      "excerpt": "Use that to your advantage and transfer abilities from one creature to another to create unique and devastating combos!",
+      "url": "https://store.steampowered.com/app/2870340/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 136987,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 102280,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9241,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1445454,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 145959,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 145959,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.189058384720674,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1953,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.787512,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "驯牌师 Decktamer位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/8de87f8ad8abc6630dc485046ae6f3594e489d80/ss_8de87f8ad8abc6630dc485046ae6f3594e489d80.1920x1080.jpg?t=1782487109",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/8de87f8ad8abc6630dc485046ae6f3594e489d80/ss_8de87f8ad8abc6630dc485046ae6f3594e489d80.1920x1080.jpg?t=1786198959",
+        "alt": "驯牌师 Decktamer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/a40274c0f6c3881edd5c42a4f2721621aeb1e5c3/ss_a40274c0f6c3881edd5c42a4f2721621aeb1e5c3.1920x1080.jpg?t=1786198959",
+        "alt": "驯牌师 Decktamer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/46c4c60793c60b4eee8877fdcc2bb5f2f404cf8b/ss_46c4c60793c60b4eee8877fdcc2bb5f2f404cf8b.1920x1080.jpg?t=1786198959",
+        "alt": "驯牌师 Decktamer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/15e334425e0eec75e344f43773e682e60f94b0b3/ss_15e334425e0eec75e344f43773e682e60f94b0b3.1920x1080.jpg?t=1786198959",
+        "alt": "驯牌师 Decktamer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/869ed0917bd9c4e94cee81fac6d3ccd7c3db5174/ss_869ed0917bd9c4e94cee81fac6d3ccd7c3db5174.1920x1080.jpg?t=1786198959",
+        "alt": "驯牌师 Decktamer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/5a20fdead4cf92b833df61b2ca3644926e0a83dc/ss_5a20fdead4cf92b833df61b2ca3644926e0a83dc.1920x1080.jpg?t=1786198959",
+        "alt": "驯牌师 Decktamer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/0e5e511d8237261066ff3dab3a68cc4bc453d92e/ss_0e5e511d8237261066ff3dab3a68cc4bc453d92e.1920x1080.jpg?t=1786198959",
+        "alt": "驯牌师 Decktamer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870340/96ced1180eebefb72212b796242ab8f7118b1e7b/ss_96ced1180eebefb72212b796242ab8f7118b1e7b.1920x1080.jpg?t=1786198959",
+        "alt": "驯牌师 Decktamer 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

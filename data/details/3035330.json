@@ -1,1 +1,301 @@
-{"identity":{"original_title":"Dicealot","developers":["goodviewgames"],"publishers":["Yogscast Games"],"release_status":"released","release_date":"2025-10-09","tags":["肉鸽卡组构筑","地牢探索","卡组构筑","类Rogue","高重复可玩性"]},"hooks":[{"text":"连续掷骰叠加连击与分数，但贪到失手会清空本回合全部收益","dimension":"玩法","excerpt":"The twist? Keep rolling to stack bigger combos and score more points, but push too far, and you’ll lose everything you’ve gained that turn.","url":"https://store.steampowered.com/app/3035330/","label":"证据原文片段"},{"text":"战斗间在商店扩充骰池，不同骰子会偏转概率、放大得分或反噬，并可用重掷补救","dimension":"玩法","excerpt":"You’ll begin each run with a simple set of dice, but between battles you’ll stop at shops to expand and refine your collection. Some dice tilt the odds in your favour, others amplify your scores, and a few can backfire entirely, unless you’ve saved enough re-rolls to turn the tide.","url":"https://store.steampowered.com/app/3035330/","label":"证据原文片段"},{"text":"十种武器会根本改变掷骰路线，可走稳定小伤或追逐极限大点数","dimension":"玩法","excerpt":"Wield one of 10 distinct weapons that fundamentally transform the way you play. Maybe you favour steady, smaller, but consistent hits, or perhaps you thrive on the thrill of chasing the biggest rolls?","url":"https://store.steampowered.com/app/3035330/","label":"证据原文片段"}],"opinions":[{"text":"数值会变为负数并导致无法正常造成伤害","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the value will turn negative, resulting in the inability to inflict damage normally.","url":"https://steamcommunity.com/id/3471065195/recommended/3035330/","label":"证据原文片段"}]},{"text":"战斗会因运气不好而被迫多次重开","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"一局战斗多次因为运气不好被迫重开绝对不是好的体验","url":"https://steamcommunity.com/profiles/76561199074543594/recommended/3035330/","label":"证据原文片段"}]},{"text":"游戏的随机机制令人非常失望","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Very, very disappointed at the RNG in this game","url":"https://steamcommunity.com/profiles/76561198000177856/recommended/3035330/","label":"证据原文片段"}]},{"text":"成长曲线极不合理","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"成长曲线及其不合理","url":"https://steamcommunity.com/profiles/76561199074543594/recommended/3035330/","label":"证据原文片段"}]},{"text":"骰子肉鸽玩法令人上瘾","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Addictive dice roguelike","url":"https://vaporlens.app/app/3035330/dicealot","label":"证据原文片段"}]},{"text":"整体体验制作良好且令人愉快","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"A well-crafted and thoroughly enjoyable experience","url":"https://steamcommunity.com/app/3035330/discussions/0/592898050171680954/","label":"证据原文片段"}]},{"text":"运气与策略的组合良好","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"a good mix of luck and strategy.","url":"https://store.steampowered.com/curator/44902423-Dice-Based-Roguelikes-%2528ENG%2529/","label":"证据原文片段"}]},{"text":"游戏有趣且很有魅力","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"pretty fun, and very charming","url":"https://steamcommunity.com/profiles/76561198208628841/recommended/3035330/","label":"证据原文片段"}]},{"text":"整体玩法有趣且想法不错","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Its overall fun and a good idea","url":"https://steamcommunity.com/profiles/76561197977146636/recommended/3035330/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":7352,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":39400,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1515,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":80749,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":8132,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":8132,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.276110652042379,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":248,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.241935,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["数值会变为负数并导致无法正常造成伤害","战斗会因运气不好而被迫多次重开","游戏的随机机制令人非常失望","成长曲线极不合理"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_d2a47291a7d5a63c3260c4d036761980e46d7723.1920x1080.jpg?t=1772079941","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_d2a47291a7d5a63c3260c4d036761980e46d7723.1920x1080.jpg?t=1772079941","alt":"骰子阿瓦隆 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_50da971a39222454d9745a4d546c166ae1daf1e5.1920x1080.jpg?t=1772079941","alt":"骰子阿瓦隆 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_c95fefa393333760f0c60026ae3ab82079b86bbf.1920x1080.jpg?t=1772079941","alt":"骰子阿瓦隆 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/9e34835fc4f6cf0441ba9e24efebabea456bf71b/ss_9e34835fc4f6cf0441ba9e24efebabea456bf71b.1920x1080.jpg?t=1772079941","alt":"骰子阿瓦隆 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dicealot",
+    "developers": [
+      "goodviewgames"
+    ],
+    "publishers": [
+      "Yogscast Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-10-09",
+    "tags": [
+      "肉鸽卡组构筑",
+      "地牢探索",
+      "卡组构筑",
+      "类Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "连续掷骰叠加连击与分数，但贪到失手会清空本回合全部收益",
+      "dimension": "玩法",
+      "excerpt": "The twist? Keep rolling to stack bigger combos and score more points, but push too far, and you’ll lose everything you’ve gained that turn.",
+      "url": "https://store.steampowered.com/app/3035330/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗间在商店扩充骰池，不同骰子会偏转概率、放大得分或反噬，并可用重掷补救",
+      "dimension": "玩法",
+      "excerpt": "You’ll begin each run with a simple set of dice, but between battles you’ll stop at shops to expand and refine your collection. Some dice tilt the odds in your favour, others amplify your scores, and a few can backfire entirely, unless you’ve saved enough re-rolls to turn the tide.",
+      "url": "https://store.steampowered.com/app/3035330/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十种武器会根本改变掷骰路线，可走稳定小伤或追逐极限大点数",
+      "dimension": "玩法",
+      "excerpt": "Wield one of 10 distinct weapons that fundamentally transform the way you play. Maybe you favour steady, smaller, but consistent hits, or perhaps you thrive on the thrill of chasing the biggest rolls?",
+      "url": "https://store.steampowered.com/app/3035330/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "数值会变为负数并导致无法正常造成伤害",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the value will turn negative, resulting in the inability to inflict damage normally.",
+          "url": "https://steamcommunity.com/id/3471065195/recommended/3035330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗会因运气不好而被迫多次重开",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "一局战斗多次因为运气不好被迫重开绝对不是好的体验",
+          "url": "https://steamcommunity.com/profiles/76561199074543594/recommended/3035330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏的随机机制令人非常失望",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Very, very disappointed at the RNG in this game",
+          "url": "https://steamcommunity.com/profiles/76561198000177856/recommended/3035330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成长曲线极不合理",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "成长曲线及其不合理",
+          "url": "https://steamcommunity.com/profiles/76561199074543594/recommended/3035330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "骰子肉鸽玩法令人上瘾",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Addictive dice roguelike",
+          "url": "https://vaporlens.app/app/3035330/dicealot",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体体验制作良好且令人愉快",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "A well-crafted and thoroughly enjoyable experience",
+          "url": "https://steamcommunity.com/app/3035330/discussions/0/592898050171680954/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "运气与策略的组合良好",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a good mix of luck and strategy.",
+          "url": "https://store.steampowered.com/curator/44902423-Dice-Based-Roguelikes-%2528ENG%2529/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏有趣且很有魅力",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "pretty fun, and very charming",
+          "url": "https://steamcommunity.com/profiles/76561198208628841/recommended/3035330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体玩法有趣且想法不错",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Its overall fun and a good idea",
+          "url": "https://steamcommunity.com/profiles/76561197977146636/recommended/3035330/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7896,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 40912,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1531,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 83263,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8746,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8746,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.340891635212152,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 217,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 79.841897,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "数值会变为负数并导致无法正常造成伤害",
+    "战斗会因运气不好而被迫多次重开",
+    "游戏的随机机制令人非常失望",
+    "成长曲线极不合理"
+  ],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "骰子阿瓦隆当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_d2a47291a7d5a63c3260c4d036761980e46d7723.1920x1080.jpg?t=1772079941",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_d2a47291a7d5a63c3260c4d036761980e46d7723.1920x1080.jpg?t=1772079941",
+        "alt": "骰子阿瓦隆 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_50da971a39222454d9745a4d546c166ae1daf1e5.1920x1080.jpg?t=1772079941",
+        "alt": "骰子阿瓦隆 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_c95fefa393333760f0c60026ae3ab82079b86bbf.1920x1080.jpg?t=1772079941",
+        "alt": "骰子阿瓦隆 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/9e34835fc4f6cf0441ba9e24efebabea456bf71b/ss_9e34835fc4f6cf0441ba9e24efebabea456bf71b.1920x1080.jpg?t=1772079941",
+        "alt": "骰子阿瓦隆 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_3d120251c1862a4dfc2843587defc0719582bbd8.1920x1080.jpg?t=1772079941",
+        "alt": "骰子阿瓦隆 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_df34ccf294bc2de6492b3abe44ea189606a14a4d.1920x1080.jpg?t=1772079941",
+        "alt": "骰子阿瓦隆 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/9dd5050fd274335b363db7888445c8b8182c597d/ss_9dd5050fd274335b363db7888445c8b8182c597d.1920x1080.jpg?t=1772079941",
+        "alt": "骰子阿瓦隆 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035330/ss_1dc04f663851b925b27d23d01b11aa600f2e23bc.1920x1080.jpg?t=1772079941",
+        "alt": "骰子阿瓦隆 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

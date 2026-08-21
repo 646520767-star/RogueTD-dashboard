@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Halls of Torment","developers":["Chasing Carrots"],"publishers":["Chasing Carrots"],"release_status":"released","release_date":"2024-09-24","tags":["动作肉鸽","轻度Rogue","弹幕射击","像素画面","黑暗奇幻"]},"hooks":[{"text":"采用九十年代末RPG式预渲染复古画面，把地狱群怪生存包装成老派暗黑视觉","dimension":"画风","excerpt":"Halls of Torment is a horde survival game with a pre-rendered retro look reminiscent of RPGs from the late 90s.","url":"https://store.steampowered.com/app/2218750/","label":"证据原文片段"},{"text":"稀有物品可从地下送回地表并用于定制后续流程，把本局掉落转化为跨局Build资源","dimension":"玩法","excerpt":"Unique items can be sent up to the overworld and used to customize future runs","url":"https://store.steampowered.com/app/2218750/","label":"证据原文片段"},{"text":"十一名角色、六十件基础物品与二百四十种高稀有变体，再叠加七十四项能力和一千多条Trait","dimension":"玩法","excerpt":"11 playable characters & character marks 25 blessings that make you stronger for each run 60 unique items to retrieve and unlock 240 higher rarity item variants 74 abilities and ability upgrades 30 artifacts to customize your game experience 35+ unique bosses 70+ unique monsters 500 quests to complete 1000+ traits that upgrade characters and abilities","url":"https://store.steampowered.com/app/2218750/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1370624,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":369844,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":35109,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5788676,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1405168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1405168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":21.703345287756473,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":31635,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.412322,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_75fc37b9c2a3b30c01c03d2f3cb86cf6a754ccc2.1920x1080.jpg?t=1779993327","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_75fc37b9c2a3b30c01c03d2f3cb86cf6a754ccc2.1920x1080.jpg?t=1779993327","alt":"Halls of Torment 苦痛殿堂 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_2d104ee2c73776ba9019f3a5050c4d5942a56e93.1920x1080.jpg?t=1779993327","alt":"Halls of Torment 苦痛殿堂 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_c5b5ec37d6b00c5b2ccbcb1fccf48aaef8bfb20f.1920x1080.jpg?t=1779993327","alt":"Halls of Torment 苦痛殿堂 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_7bb48f7c67941509b73fc36929440fe663b5b85d.1920x1080.jpg?t=1779993327","alt":"Halls of Torment 苦痛殿堂 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Halls of Torment",
+    "developers": [
+      "Chasing Carrots"
+    ],
+    "publishers": [
+      "Chasing Carrots"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-24",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "弹幕射击",
+      "像素画面",
+      "黑暗奇幻"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "采用九十年代末RPG式预渲染复古画面，把地狱群怪生存包装成老派暗黑视觉",
+      "dimension": "美术",
+      "excerpt": "Halls of Torment is a horde survival game with a pre-rendered retro look reminiscent of RPGs from the late 90s.",
+      "url": "https://store.steampowered.com/app/2218750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "稀有物品可从地下送回地表并用于定制后续流程，把本局掉落转化为跨局Build资源",
+      "dimension": "玩法",
+      "excerpt": "Unique items can be sent up to the overworld and used to customize future runs",
+      "url": "https://store.steampowered.com/app/2218750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十一名角色、六十件基础物品与二百四十种高稀有变体，再叠加七十四项能力和一千多条Trait",
+      "dimension": "玩法",
+      "excerpt": "11 playable characters & character marks 25 blessings that make you stronger for each run 60 unique items to retrieve and unlock 240 higher rarity item variants 74 abilities and ability upgrades 30 artifacts to customize your game experience 35+ unique bosses 70+ unique monsters 500 quests to complete 1000+ traits that upgrade characters and abilities",
+      "url": "https://store.steampowered.com/app/2218750/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "作为暗黑1和2上万小时的玩家，非常喜欢这种画风",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "作为暗黑1和2上万小时的玩家，非常喜欢这种画风",
+          "url": "https://steamcommunity.com/id/910216/recommended/2218750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "浅浅玩了下挺好玩的，画面风格很吸引人，好笑的是用deck在床上玩会莫名其妙的昏死过去，买完游戏这两天睡得很香。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "浅浅玩了下挺好玩的，画面风格很吸引人，好笑的是用deck在床上玩会莫名其妙的昏死过去，买完游戏这两天睡得很香。",
+          "url": "https://steamcommunity.com/id/xuyuliuranzhi/recommended/2218750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "复古画风 穿越了 正好那个年代的游戏没有玩过 也算圆梦体验了一下 更新：我本以为拿到神器之后是爽局的开始 随橙想是折磨的开始 越来越打不过 谁家好人神器带debuff不带buff啊 真服了",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "复古画风 穿越了 正好那个年代的游戏没有玩过 也算圆梦体验了一下 更新：我本以为拿到神器之后是爽局的开始 随橙想是折磨的开始 越来越打不过 谁家好人神器带debuff不带buff啊 真服了",
+          "url": "https://steamcommunity.com/profiles/76561198241900972/recommended/2218750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "复古画面有特色比起其它热门幸存者游戏称得上精致, 但贴图感还是很重;",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "复古画面有特色比起其它热门幸存者游戏称得上精致, 但贴图感还是很重;",
+          "url": "https://steamcommunity.com/id/x6udpngx/recommended/2218750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A fun, addictive game with Diablo-like graphics, inspired by Vampire Survivors.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A fun, addictive game with Diablo-like graphics, inspired by Vampire Survivors.",
+          "url": "https://store.steampowered.com/curator/45452114-Hype-Expert/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "An excellent follower of Vampire Survivors with its own ideas and interesting visual style, although it is in early access.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "An excellent follower of Vampire Survivors with its own ideas and interesting visual style, although it is in early access.",
+          "url": "https://store.steampowered.com/curator/33823596-Cookie%2527s-lovers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Survivorslike - It has his own art style, some unique quests, a good amount of achievements, controller support, multiple characters and maps, and a decent amount of skills.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Survivorslike - It has his own art style, some unique quests, a good amount of achievements, controller support, multiple characters and maps, and a decent amount of skills.",
+          "url": "https://store.steampowered.com/curator/43562394-Impressive-Rogue-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "It's literally Vampire Survivors but with a more solid art style, theme and graphics, more engaging gameplay (less AFK farming pretty much like in VS).",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "It's literally Vampire Survivors but with a more solid art style, theme and graphics, more engaging gameplay (less AFK farming pretty much like in VS).",
+          "url": "https://store.steampowered.com/curator/2816339-PsiSyndicate/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1392662,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 374593,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 35228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 5838429,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1427528,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1427528,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 21.433192187983604,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 30647,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.383259,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Halls of Torment 苦痛殿堂位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_75fc37b9c2a3b30c01c03d2f3cb86cf6a754ccc2.1920x1080.jpg?t=1779993327",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_75fc37b9c2a3b30c01c03d2f3cb86cf6a754ccc2.1920x1080.jpg?t=1779993327",
+        "alt": "Halls of Torment 苦痛殿堂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_2d104ee2c73776ba9019f3a5050c4d5942a56e93.1920x1080.jpg?t=1779993327",
+        "alt": "Halls of Torment 苦痛殿堂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_c5b5ec37d6b00c5b2ccbcb1fccf48aaef8bfb20f.1920x1080.jpg?t=1779993327",
+        "alt": "Halls of Torment 苦痛殿堂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_7bb48f7c67941509b73fc36929440fe663b5b85d.1920x1080.jpg?t=1779993327",
+        "alt": "Halls of Torment 苦痛殿堂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_6e32e4aa9261c60115c89fc608c5e156839b2709.1920x1080.jpg?t=1779993327",
+        "alt": "Halls of Torment 苦痛殿堂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_16c8797ca5624cf52eac0c7a212c385aed1d0d87.1920x1080.jpg?t=1779993327",
+        "alt": "Halls of Torment 苦痛殿堂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_16565e20ae93e12d9dbf52bade1393195ba87c31.1920x1080.jpg?t=1779993327",
+        "alt": "Halls of Torment 苦痛殿堂 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_0714cff8d1f71716688474f7282eb2d828f0d554.1920x1080.jpg?t=1779993327",
+        "alt": "Halls of Torment 苦痛殿堂 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

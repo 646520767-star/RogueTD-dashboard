@@ -1,1 +1,315 @@
-{"identity":{"original_title":"Repterra","developers":["Chute Apps"],"publishers":["MicroProse Software"],"release_status":"early_access","release_date":"2026-04-28","tags":["抢先体验","基地建设","即时战略","塔防","策略"]},"hooks":[{"text":"把士兵、工程师或驯兽师骑到恐龙背上，每种人龙组合都有专属能力","dimension":"玩法","excerpt":"Assign human units (soldier, engineer, tamer) to one of your dinos and let them ride! Each human/dino combination has powerful and unique special abilities.","url":"https://store.steampowered.com/app/2768380/","label":"证据原文片段"},{"text":"让雌雄恐龙进入繁育站，后代可能突变，甚至鼓励跨种杂交","dimension":"玩法","excerpt":"Put a male/female pair of dinos in your breeding station and let nature do its thing! The offspring may surprise you. Cross breeding with genetic mutations is encouraged.","url":"https://store.steampowered.com/app/2768380/","label":"证据原文片段"},{"text":"用食物、干扰甚至求偶引诱敌对恐龙，驯服后反过来加入己方","dimension":"玩法","excerpt":"Lure in enemy dinosaurs with food, distractions, or sex. Once tamed, they will fight alongside you.","url":"https://store.steampowered.com/app/2768380/","label":"证据原文片段"}],"opinions":[{"text":"美术表现一般且略显模糊。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游戏的美术这方面确实一般，甚至有点糊糊的。","url":"https://steamcommunity.com/profiles/76561198824787295/recommended/2768380/","label":"证据原文片段"}]},{"text":"复古RTS美学受到高度赞赏。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"awesome retro RTS vibe and aesthetic","url":"https://steamcommunity.com/profiles/76561197971691873/recommended/2768380/","label":"证据原文片段"}]},{"text":"缺少快速编队工具","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Another issue is the absence of quick formation tools.","url":"https://steamcommunity.com/id/Pawkt/recommended/2768380/","label":"证据原文片段"}]},{"text":"DNA局外天赋效果弱，缺乏真实成长感。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The perks you can buy with DNA don't do much, and don't feel as if you're getting real progression","url":"https://steamcommunity.com/profiles/76561198001821238/recommended/2768380/","label":"证据原文片段"}]},{"text":"地图解锁要求反复挑战同一地图。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"creating a grind system where you have to replay the same maps on higher difficulties","url":"https://steamcommunity.com/id/our_lady_in_shadow/recommended/2768380/","label":"证据原文片段"}]},{"text":"自有建筑无法驻军限制了战术选择。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"there’s no option to garrison your units inside watch towers or most of the buildings you construct.","url":"https://steamcommunity.com/id/Pawkt/recommended/2768380/","label":"证据原文片段"}]},{"text":"玩法具有吸引力。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"really engaging gameplay.","url":"https://store.steampowered.com/curator/45013120-Kitty-Cat-Reviews/","label":"证据原文片段"}]},{"text":"资源管理执行出色","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Executed well with hectic battles & surprisingly good resource management.","url":"https://www.cshpicone.com/gaming/bite-sized-game-reviews/bsr-repterra","label":"证据原文片段"}]},{"text":"游戏能提供严肃挑战","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"still manages to deliver a serious challenge","url":"https://steamcommunity.com/id/Pawkt/recommended/2768380/","label":"证据原文片段"}]},{"text":"多种系统并未让玩法过度复杂，仍易于上手。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Despite the variety, Repterra isn’t bogged down by complexity. It’s accessible","url":"https://steamcommunity.com/id/Pawkt/recommended/2768380/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":2188,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":47025,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3589,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":31768,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2438,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2438,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.049367605162637,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":82,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.463415,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["美术表现一般且略显模糊。","缺少快速编队工具","DNA局外天赋效果弱，缺乏真实成长感。","地图解锁要求反复挑战同一地图。","自有建筑无法驻军限制了战术选择。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/d8742325d8dd91b7ba7d38b77922259ceb477ee4/ss_d8742325d8dd91b7ba7d38b77922259ceb477ee4.1920x1080.jpg?t=1784645381","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/d8742325d8dd91b7ba7d38b77922259ceb477ee4/ss_d8742325d8dd91b7ba7d38b77922259ceb477ee4.1920x1080.jpg?t=1784645381","alt":"Repterra 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/f09b62f6fef0fc96abbe4e2393b4b566c827ee0b/ss_f09b62f6fef0fc96abbe4e2393b4b566c827ee0b.1920x1080.jpg?t=1784645381","alt":"Repterra 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/788d209e3eefbbe02a4568ab4877150e0c673813/ss_788d209e3eefbbe02a4568ab4877150e0c673813.1920x1080.jpg?t=1784645381","alt":"Repterra 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/2ae0f2294dd5a1d507a7e887750109417f8008e1/ss_2ae0f2294dd5a1d507a7e887750109417f8008e1.1920x1080.jpg?t=1784645381","alt":"Repterra 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Repterra",
+    "developers": [
+      "Chute Apps"
+    ],
+    "publishers": [
+      "MicroProse Software"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-04-28",
+    "tags": [
+      "抢先体验",
+      "独立游戏",
+      "基地建设",
+      "塔防",
+      "即时战略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把士兵、工程师或驯兽师骑到恐龙背上，每种人龙组合都有专属能力",
+      "dimension": "玩法",
+      "excerpt": "Assign human units (soldier, engineer, tamer) to one of your dinos and let them ride! Each human/dino combination has powerful and unique special abilities.",
+      "url": "https://store.steampowered.com/app/2768380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "让雌雄恐龙进入繁育站，后代可能突变，甚至鼓励跨种杂交",
+      "dimension": "玩法",
+      "excerpt": "Put a male/female pair of dinos in your breeding station and let nature do its thing! The offspring may surprise you. Cross breeding with genetic mutations is encouraged.",
+      "url": "https://store.steampowered.com/app/2768380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用食物、干扰甚至求偶引诱敌对恐龙，驯服后反过来加入己方",
+      "dimension": "玩法",
+      "excerpt": "Lure in enemy dinosaurs with food, distractions, or sex. Once tamed, they will fight alongside you.",
+      "url": "https://store.steampowered.com/app/2768380/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "美术表现一般且略显模糊。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游戏的美术这方面确实一般，甚至有点糊糊的。",
+          "url": "https://steamcommunity.com/profiles/76561198824787295/recommended/2768380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "复古RTS美学受到高度赞赏。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "awesome retro RTS vibe and aesthetic",
+          "url": "https://steamcommunity.com/profiles/76561197971691873/recommended/2768380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少快速编队工具",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Another issue is the absence of quick formation tools.",
+          "url": "https://steamcommunity.com/id/Pawkt/recommended/2768380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "DNA局外天赋效果弱，缺乏真实成长感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The perks you can buy with DNA don't do much, and don't feel as if you're getting real progression",
+          "url": "https://steamcommunity.com/profiles/76561198001821238/recommended/2768380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "地图解锁要求反复挑战同一地图。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "creating a grind system where you have to replay the same maps on higher difficulties",
+          "url": "https://steamcommunity.com/id/our_lady_in_shadow/recommended/2768380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "自有建筑无法驻军限制了战术选择。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "there’s no option to garrison your units inside watch towers or most of the buildings you construct.",
+          "url": "https://steamcommunity.com/id/Pawkt/recommended/2768380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法具有吸引力。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "really engaging gameplay.",
+          "url": "https://store.steampowered.com/curator/45013120-Kitty-Cat-Reviews/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "资源管理执行出色",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Executed well with hectic battles & surprisingly good resource management.",
+          "url": "https://www.cshpicone.com/gaming/bite-sized-game-reviews/bsr-repterra",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏能提供严肃挑战",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "still manages to deliver a serious challenge",
+          "url": "https://steamcommunity.com/id/Pawkt/recommended/2768380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多种系统并未让玩法过度复杂，仍易于上手。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Despite the variety, Repterra isn’t bogged down by complexity. It’s accessible",
+          "url": "https://steamcommunity.com/id/Pawkt/recommended/2768380/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2525,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 46025,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3783,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 38209,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2827,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2827,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.776950186956798,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 72,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.588235,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "美术表现一般且略显模糊。",
+    "缺少快速编队工具",
+    "DNA局外天赋效果弱，缺乏真实成长感。",
+    "地图解锁要求反复挑战同一地图。",
+    "自有建筑无法驻军限制了战术选择。"
+  ],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "Repterra当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/d8742325d8dd91b7ba7d38b77922259ceb477ee4/ss_d8742325d8dd91b7ba7d38b77922259ceb477ee4.1920x1080.jpg?t=1784645381",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/609013d92d9cdc5d507bc1204875a31de9aedd2a/ss_609013d92d9cdc5d507bc1204875a31de9aedd2a.1920x1080.jpg?t=1786028749",
+        "alt": "Repterra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/cae50033dd54800ff6f1e45234d4c8be7653f410/ss_cae50033dd54800ff6f1e45234d4c8be7653f410.1920x1080.jpg?t=1786028749",
+        "alt": "Repterra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/788d209e3eefbbe02a4568ab4877150e0c673813/ss_788d209e3eefbbe02a4568ab4877150e0c673813.1920x1080.jpg?t=1786028749",
+        "alt": "Repterra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/eb8995073dd9b236c21cfdee41828c400dfae806/ss_eb8995073dd9b236c21cfdee41828c400dfae806.1920x1080.jpg?t=1786028749",
+        "alt": "Repterra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/2ae0f2294dd5a1d507a7e887750109417f8008e1/ss_2ae0f2294dd5a1d507a7e887750109417f8008e1.1920x1080.jpg?t=1786028749",
+        "alt": "Repterra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/6748691efe449c7e2295e52925e7e604f8b84f2f/ss_6748691efe449c7e2295e52925e7e604f8b84f2f.1920x1080.jpg?t=1786028749",
+        "alt": "Repterra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/ec61d14f8610c4ba655159fe13d4942f94884cd6/ss_ec61d14f8610c4ba655159fe13d4942f94884cd6.1920x1080.jpg?t=1786028749",
+        "alt": "Repterra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/f09b62f6fef0fc96abbe4e2393b4b566c827ee0b/ss_f09b62f6fef0fc96abbe4e2393b4b566c827ee0b.1920x1080.jpg?t=1786028749",
+        "alt": "Repterra 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

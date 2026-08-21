@@ -1,1 +1,180 @@
-{"identity":{"original_title":"The Backrooms Deluxe 2","developers":["Lory Games"],"publishers":["Lory Games"],"release_status":"released","release_date":"2025-12-24","tags":["冒险","多人游戏","轻度Rogue","第一人称","探索"]},"hooks":[{"text":"自由混搭正负修正效果，用更高风险换取结算金币变化","dimension":"玩法","excerpt":"Mix and match positive and negative effects that give you more or less Deluxe Coins at the end of your run.","url":"https://store.steampowered.com/app/4066790/","label":"证据原文片段"},{"text":"底层重写多人同步，目标是让联机过程更无缝","dimension":"玩法","excerpt":"The entire game has been rewritten to support a much more seamless multiplayer experience.","url":"https://store.steampowered.com/app/4066790/","label":"证据原文片段"},{"text":"永久死亡结束单局，但全队阵亡才真正结算，并可不通关也赚取货币","dimension":"玩法","excerpt":"Since the original game, permadeath has been added, which adds a new element of challenge as well as being able to earn Deluxe Coins without having to do a full run every time. All players have to die for the run to end.","url":"https://store.steampowered.com/app/4066790/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":97325,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1856,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":913,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":97325,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":97325,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.031241285477469,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":642,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":48,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":47.589425,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为47.589425%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/837c72a82fccf8b440673997dce67e41a6539e25/ss_837c72a82fccf8b440673997dce67e41a6539e25.1920x1080.jpg?t=1774221564","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/837c72a82fccf8b440673997dce67e41a6539e25/ss_837c72a82fccf8b440673997dce67e41a6539e25.1920x1080.jpg?t=1774221564","alt":"The Backrooms Deluxe 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/7d276c3bc292427b2a7fe0a76b897f117bb6441a/ss_7d276c3bc292427b2a7fe0a76b897f117bb6441a.1920x1080.jpg?t=1774221564","alt":"The Backrooms Deluxe 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/656aecb08909d746c52575827f97ceff1e1b1207/ss_656aecb08909d746c52575827f97ceff1e1b1207.1920x1080.jpg?t=1774221564","alt":"The Backrooms Deluxe 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/09db3d5644d42e24f634c46b19f01b05936bac6d/ss_09db3d5644d42e24f634c46b19f01b05936bac6d.1920x1080.jpg?t=1774221564","alt":"The Backrooms Deluxe 2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Backrooms Deluxe 2",
+    "developers": [
+      "Lory Games"
+    ],
+    "publishers": [
+      "Lory Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-12-24",
+    "tags": [
+      "冒险",
+      "探索",
+      "多人游戏",
+      "第一人称",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "自由混搭正负修正效果，用更高风险换取结算金币变化",
+      "dimension": "玩法",
+      "excerpt": "Mix and match positive and negative effects that give you more or less Deluxe Coins at the end of your run.",
+      "url": "https://store.steampowered.com/app/4066790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "底层重写多人同步，目标是让联机过程更无缝",
+      "dimension": "玩法",
+      "excerpt": "The entire game has been rewritten to support a much more seamless multiplayer experience.",
+      "url": "https://store.steampowered.com/app/4066790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "永久死亡结束单局，但全队阵亡才真正结算，并可不通关也赚取货币",
+      "dimension": "玩法",
+      "excerpt": "Since the original game, permadeath has been added, which adds a new element of challenge as well as being able to earn Deluxe Coins without having to do a full run every time. All players have to die for the run to end.",
+      "url": "https://store.steampowered.com/app/4066790/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 109759,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1902,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1083,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 109759,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 109759,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 0.990873821381939,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 689,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 48,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 48.554913,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为47.589425%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "The Backrooms Deluxe 2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/837c72a82fccf8b440673997dce67e41a6539e25/ss_837c72a82fccf8b440673997dce67e41a6539e25.1920x1080.jpg?t=1774221564",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/837c72a82fccf8b440673997dce67e41a6539e25/ss_837c72a82fccf8b440673997dce67e41a6539e25.1920x1080.jpg?t=1786473719",
+        "alt": "The Backrooms Deluxe 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/7d276c3bc292427b2a7fe0a76b897f117bb6441a/ss_7d276c3bc292427b2a7fe0a76b897f117bb6441a.1920x1080.jpg?t=1786473719",
+        "alt": "The Backrooms Deluxe 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/656aecb08909d746c52575827f97ceff1e1b1207/ss_656aecb08909d746c52575827f97ceff1e1b1207.1920x1080.jpg?t=1786473719",
+        "alt": "The Backrooms Deluxe 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/09db3d5644d42e24f634c46b19f01b05936bac6d/ss_09db3d5644d42e24f634c46b19f01b05936bac6d.1920x1080.jpg?t=1786473719",
+        "alt": "The Backrooms Deluxe 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/81b444ca921253c2911597fdd7222535f90f5935/ss_81b444ca921253c2911597fdd7222535f90f5935.1920x1080.jpg?t=1786473719",
+        "alt": "The Backrooms Deluxe 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/4365053026c3526185cc1d53078b8d9ed702caee/ss_4365053026c3526185cc1d53078b8d9ed702caee.1920x1080.jpg?t=1786473719",
+        "alt": "The Backrooms Deluxe 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/cdc444e845ce3cafa16d59833b88164ba01801c5/ss_cdc444e845ce3cafa16d59833b88164ba01801c5.1920x1080.jpg?t=1786473719",
+        "alt": "The Backrooms Deluxe 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066790/4a013dc662f308de155bc3c841ba402fd9e328c0/ss_4a013dc662f308de155bc3c841ba402fd9e328c0.1920x1080.jpg?t=1786473719",
+        "alt": "The Backrooms Deluxe 2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

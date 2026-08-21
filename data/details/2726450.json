@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Windowkill","developers":["torcado"],"publishers":["torcado"],"release_status":"released","release_date":"2024-02-23","tags":["独立游戏","动作","动作肉鸽","弹幕射击","街机"]},"hooks":[{"text":"游戏窗口不断收缩，必须射击边框移动窗口并同时迎战","dimension":"玩法","excerpt":"Windowkill is a twin-stick shooter, but the game window itself is constantly closing in on you. Shoot the window edges to push it around your screen as you fight and dodge enemies and bosses in their own windows.","url":"https://store.steampowered.com/app/2726450/","label":"证据原文片段"},{"text":"永久死亡单局中穿插商店、升级与Perk构筑","dimension":"玩法","excerpt":"Roguelike permadeath Shop screens Upgrades and Perks","url":"https://store.steampowered.com/app/2726450/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":158464,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":138534,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6670,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":652714,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":169155,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":169155,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.7810693027183313,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3688,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.880759,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"独立游戏、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_ad299c43d77777124f0b4db471e5d937c8b97737.1920x1080.jpg?t=1775524232","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_ad299c43d77777124f0b4db471e5d937c8b97737.1920x1080.jpg?t=1775524232","alt":"Windowkill 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_41d326bbc9721394bc5fac8921e80a64b74be7ca.1920x1080.jpg?t=1775524232","alt":"Windowkill 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_89008fe811e280bb1868242034e56519db87bd02.1920x1080.jpg?t=1775524232","alt":"Windowkill 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_500ee6e717881f0fda6c88bc29d86b61dc071248.1920x1080.jpg?t=1775524232","alt":"Windowkill 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Windowkill",
+    "developers": [
+      "torcado"
+    ],
+    "publishers": [
+      "torcado"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-23",
+    "tags": [
+      "独立游戏",
+      "动作",
+      "动作肉鸽",
+      "弹幕射击",
+      "街机"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "游戏窗口不断收缩，必须射击边框移动窗口并同时迎战",
+      "dimension": "玩法",
+      "excerpt": "Windowkill is a twin-stick shooter, but the game window itself is constantly closing in on you. Shoot the window edges to push it around your screen as you fight and dodge enemies and bosses in their own windows.",
+      "url": "https://store.steampowered.com/app/2726450/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "永久死亡单局中穿插商店、升级与Perk构筑",
+      "dimension": "玩法",
+      "excerpt": "Roguelike permadeath Shop screens Upgrades and Perks",
+      "url": "https://store.steampowered.com/app/2726450/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 163381,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 138076,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6689,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 670927,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 174478,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 174478,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.7884651700697733,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3372,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.900755,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Windowkill位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_ad299c43d77777124f0b4db471e5d937c8b97737.1920x1080.jpg?t=1775524232",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_ad299c43d77777124f0b4db471e5d937c8b97737.1920x1080.jpg?t=1775524232",
+        "alt": "Windowkill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_41d326bbc9721394bc5fac8921e80a64b74be7ca.1920x1080.jpg?t=1775524232",
+        "alt": "Windowkill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_89008fe811e280bb1868242034e56519db87bd02.1920x1080.jpg?t=1775524232",
+        "alt": "Windowkill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_500ee6e717881f0fda6c88bc29d86b61dc071248.1920x1080.jpg?t=1775524232",
+        "alt": "Windowkill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_3739718d3a6b612573cbd8feb8376d7715915b7a.1920x1080.jpg?t=1775524232",
+        "alt": "Windowkill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_9df4662f90069177209968fda73bd67790e6b96b.1920x1080.jpg?t=1775524232",
+        "alt": "Windowkill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_2c449976c8f7946b1b2c49da9e3e7c8d939d3906.1920x1080.jpg?t=1775524232",
+        "alt": "Windowkill 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726450/ss_9f0dbeb4abf19633ab0cfeb25b5f689cfc4038cc.1920x1080.jpg?t=1775524232",
+        "alt": "Windowkill 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

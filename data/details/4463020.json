@@ -1,1 +1,289 @@
-{"identity":{"original_title":"Treasure's Mine!","developers":["FatFishGame"],"publishers":["FatFishGame"],"release_status":"released","release_date":"2026-04-26","tags":["轻度Rogue","策略","塔防","休闲","回合制策略"]},"hooks":[{"text":"在随机生成的群岛上临场布防，抵挡一波波海盗抢掠","dimension":"玩法","excerpt":"Build defenses on randomly generated archipelagos and fend off waves of pirates!","url":"https://store.steampowered.com/app/4463020/","label":"证据原文片段"},{"text":"扩张六角岛屿地块并合成防御塔，用宝藏持续强化群岛","dimension":"玩法","excerpt":"Expand land plots, combine defense towers, and collect treasures to strengthen your islands.","url":"https://store.steampowered.com/app/4463020/","label":"证据原文片段"},{"text":"战败后带宝石返回港口，解锁更强开局构筑和建筑再度出航","dimension":"玩法","excerpt":"After each defeat, return to the harbor with your accumulated gems to unlock stronger starting builds and structures — and take on even greater challenges!","url":"https://store.steampowered.com/app/4463020/","label":"证据原文片段"}],"opinions":[{"text":"UI带有简陋廉价感","dimension":"画风","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"UI有些简陋廉价感","url":"https://store.steampowered.com/curator/34823852-%25E7%259C%259F%25E7%2588%25B1%25E9%2589%25B4%25E8%25B5%258F/","label":"证据原文片段"}]},{"text":"清新可爱的画面风格受到肯定","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"画面风格清新可爱","url":"https://steamcommunity.com/id/TioPlato40/recommended/4463020/","label":"证据原文片段"}]},{"text":"退出按钮位置不符合直觉","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"不好找还以为没有造成误认没有退出按钮而强退","url":"https://steamcommunity.com/profiles/76561198995387103/recommended/4463020/","label":"证据原文片段"}]},{"text":"敌人类型稍显单一","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"敌人类型目前稍显单一","url":"https://steamcommunity.com/id/cunpao/recommended/4463020/","label":"证据原文片段"}]},{"text":"玩法模式仅限守岛建塔，变化单一","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"全程只有守岛建塔的防守玩法，玩法模式单一","url":"https://steamcommunity.com/id/moupflowers/recommended/4463020/","label":"证据原文片段"}]},{"text":"高波次敌人机制重复并容易套路化","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期高波次敌人机制重复，玩久了容易套路化、缺少新鲜感","url":"https://steamcommunity.com/id/moupflowers/recommended/4463020/","label":"证据原文片段"}]},{"text":"塔组联动具有出乎意料的深度","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The tower combo system gets surprisingly deep","url":"https://store.steampowered.com/curator/40640212-What-The-Game/","label":"证据原文片段"}]},{"text":"失败后永久强化带来明确正反馈","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"每次战斗无论成败都能带回宝石用于永久强化，让重复挑战有明确的正反馈。","url":"https://steamcommunity.com/id/cunpao/recommended/4463020/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":604,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1270,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":61,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2356,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1004,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1004,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.9866035102222195,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":51,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["UI带有简陋廉价感","退出按钮位置不符合直觉","敌人类型稍显单一","玩法模式仅限守岛建塔，变化单一","高波次敌人机制重复并容易套路化"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/f73ce25b94ffb72e0e1dcbf1bd5116de61c88d5f/ss_f73ce25b94ffb72e0e1dcbf1bd5116de61c88d5f.1920x1080.jpg?t=1777270390","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/f73ce25b94ffb72e0e1dcbf1bd5116de61c88d5f/ss_f73ce25b94ffb72e0e1dcbf1bd5116de61c88d5f.1920x1080.jpg?t=1777270390","alt":"这是我的宝藏！ 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/091b46cf2f15b13ca66efb4fffcccfee5e8e2dce/ss_091b46cf2f15b13ca66efb4fffcccfee5e8e2dce.1920x1080.jpg?t=1777270390","alt":"这是我的宝藏！ 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/5ea0d973ad1ad26171db60aec0a1c4a0a4bbaef7/ss_5ea0d973ad1ad26171db60aec0a1c4a0a4bbaef7.1920x1080.jpg?t=1777270390","alt":"这是我的宝藏！ 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/3781cc5efca693c88eaa9ac3995213be6bf3cecd/ss_3781cc5efca693c88eaa9ac3995213be6bf3cecd.1920x1080.jpg?t=1777270390","alt":"这是我的宝藏！ 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Treasure's Mine!",
+    "developers": [
+      "FatFishGame"
+    ],
+    "publishers": [
+      "FatFishGame"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-26",
+    "tags": [
+      "轻度Rogue",
+      "策略",
+      "塔防",
+      "休闲",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "在随机生成的群岛上临场布防，抵挡一波波海盗抢掠",
+      "dimension": "玩法",
+      "excerpt": "Build defenses on randomly generated archipelagos and fend off waves of pirates!",
+      "url": "https://store.steampowered.com/app/4463020/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "扩张六角岛屿地块并合成防御塔，用宝藏持续强化群岛",
+      "dimension": "玩法",
+      "excerpt": "Expand land plots, combine defense towers, and collect treasures to strengthen your islands.",
+      "url": "https://store.steampowered.com/app/4463020/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战败后带宝石返回港口，解锁更强开局构筑和建筑再度出航",
+      "dimension": "玩法",
+      "excerpt": "After each defeat, return to the harbor with your accumulated gems to unlock stronger starting builds and structures — and take on even greater challenges!",
+      "url": "https://store.steampowered.com/app/4463020/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "UI带有简陋廉价感",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "UI有些简陋廉价感",
+          "url": "https://store.steampowered.com/curator/34823852-%25E7%259C%259F%25E7%2588%25B1%25E9%2589%25B4%25E8%25B5%258F/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "清新可爱的画面风格受到肯定",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "画面风格清新可爱",
+          "url": "https://steamcommunity.com/id/TioPlato40/recommended/4463020/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "退出按钮位置不符合直觉",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "不好找还以为没有造成误认没有退出按钮而强退",
+          "url": "https://steamcommunity.com/profiles/76561198995387103/recommended/4463020/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人类型稍显单一",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "敌人类型目前稍显单一",
+          "url": "https://steamcommunity.com/id/cunpao/recommended/4463020/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法模式仅限守岛建塔，变化单一",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "全程只有守岛建塔的防守玩法，玩法模式单一",
+          "url": "https://steamcommunity.com/id/moupflowers/recommended/4463020/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高波次敌人机制重复并容易套路化",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期高波次敌人机制重复，玩久了容易套路化、缺少新鲜感",
+          "url": "https://steamcommunity.com/id/moupflowers/recommended/4463020/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "塔组联动具有出乎意料的深度",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The tower combo system gets surprisingly deep",
+          "url": "https://store.steampowered.com/curator/40640212-What-The-Game/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "失败后永久强化带来明确正反馈",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "每次战斗无论成败都能带回宝石用于永久强化，让重复挑战有明确的正反馈。",
+          "url": "https://steamcommunity.com/id/cunpao/recommended/4463020/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 566,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1270,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 63,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2117,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 966,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 966,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.9866825629314273,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 20,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "UI带有简陋廉价感",
+    "退出按钮位置不符合直觉",
+    "敌人类型稍显单一",
+    "玩法模式仅限守岛建塔，变化单一",
+    "高波次敌人机制重复并容易套路化"
+  ],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "这是我的宝藏！当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/f73ce25b94ffb72e0e1dcbf1bd5116de61c88d5f/ss_f73ce25b94ffb72e0e1dcbf1bd5116de61c88d5f.1920x1080.jpg?t=1777270390",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/f73ce25b94ffb72e0e1dcbf1bd5116de61c88d5f/ss_f73ce25b94ffb72e0e1dcbf1bd5116de61c88d5f.1920x1080.jpg?t=1777270390",
+        "alt": "这是我的宝藏！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/091b46cf2f15b13ca66efb4fffcccfee5e8e2dce/ss_091b46cf2f15b13ca66efb4fffcccfee5e8e2dce.1920x1080.jpg?t=1777270390",
+        "alt": "这是我的宝藏！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/5ea0d973ad1ad26171db60aec0a1c4a0a4bbaef7/ss_5ea0d973ad1ad26171db60aec0a1c4a0a4bbaef7.1920x1080.jpg?t=1777270390",
+        "alt": "这是我的宝藏！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/3781cc5efca693c88eaa9ac3995213be6bf3cecd/ss_3781cc5efca693c88eaa9ac3995213be6bf3cecd.1920x1080.jpg?t=1777270390",
+        "alt": "这是我的宝藏！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/60f63636b101d5552f0b514d453b9c33f3f5b3a8/ss_60f63636b101d5552f0b514d453b9c33f3f5b3a8.1920x1080.jpg?t=1777270390",
+        "alt": "这是我的宝藏！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/8aaf01251ac81589d320d6ecf2453f0491c88f3e/ss_8aaf01251ac81589d320d6ecf2453f0491c88f3e.1920x1080.jpg?t=1777270390",
+        "alt": "这是我的宝藏！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/928a561eb022e60f805ea0d78208e2b9ca6ca58e/ss_928a561eb022e60f805ea0d78208e2b9ca6ca58e.1920x1080.jpg?t=1777270390",
+        "alt": "这是我的宝藏！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463020/719afa8a48bb7a51633a3b314fbd8b2871adb178/ss_719afa8a48bb7a51633a3b314fbd8b2871adb178.1920x1080.jpg?t=1777270390",
+        "alt": "这是我的宝藏！ 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

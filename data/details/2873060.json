@@ -1,1 +1,178 @@
-{"identity":{"original_title":"The Bell Echoes","developers":["七颗枚"],"publishers":["七颗枚"],"release_status":"early_access","release_date":"2026-02-05","tags":["剧情丰富","回合制战术","轻度Rogue","回合制策略","策略角色扮演"]},"hooks":[{"text":"三名队员可在同一回合连续释放多种技能，把资源规划转化为层层衔接的协同攻势。","dimension":"玩法","excerpt":"Each character has a rich and versatile skill set, letting you freely plan an entire turn around your resources and chain multiple abilities together. When your three party members link their actions together, a single battle becomes a layered, coordinated offensive of your own making.","url":"https://store.steampowered.com/app/2873060/","label":"证据原文片段"},{"text":"高度、掩体、击退、碰撞与场景物件都能成为武器，可制造连锁反应并改造攻防空间。","dimension":"玩法","excerpt":"Height, cover, displacement, knockbacks, collisions, and battlefield objects and terrain all have a real impact on combat. Slam enemies into obstacles, trigger chain reactions through objects, and use terrain to reshape both offense and defense.","url":"https://store.steampowered.com/app/2873060/","label":"证据原文片段"},{"text":"击败强敌获得“回响”来推进区域，再收集章节记忆碎片揭开角色过去与世界秘密。","dimension":"故事","excerpt":"Defeat powerful enemies and obtain precious Echoes to advance the story and unlock deeper regions. But that is only the beginning. Keep venturing deeper and collect Chapter Memory Fragments to uncover each character’s hidden past—and the deeper secrets of the world itself.","url":"https://store.steampowered.com/app/2873060/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1354,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":16313,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1789,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1789,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.767187586390043,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":118,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.833333,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"剧情丰富、回合制战术","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/63b413c1b27b12dcf6a55d20e84d1ba421e0541c/ss_63b413c1b27b12dcf6a55d20e84d1ba421e0541c.1920x1080.jpg?t=1782307917","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/63b413c1b27b12dcf6a55d20e84d1ba421e0541c/ss_63b413c1b27b12dcf6a55d20e84d1ba421e0541c.1920x1080.jpg?t=1782307917","alt":"永铃回响 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/7eeaf948176eabbb00ffa750e6256a5dbb319abb/ss_7eeaf948176eabbb00ffa750e6256a5dbb319abb.1920x1080.jpg?t=1782307917","alt":"永铃回响 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/ea2c36f0be8479d8b17b3885cc63cf8285010eec/ss_ea2c36f0be8479d8b17b3885cc63cf8285010eec.1920x1080.jpg?t=1782307917","alt":"永铃回响 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/6dd4db668f6426372d5c95623bd2ba3e9290f25b/ss_6dd4db668f6426372d5c95623bd2ba3e9290f25b.1920x1080.jpg?t=1782307917","alt":"永铃回响 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Bell Echoes",
+    "developers": [
+      "七颗枚"
+    ],
+    "publishers": [
+      "七颗枚"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-02-05",
+    "tags": [
+      "剧情丰富",
+      "回合制战术",
+      "轻度Rogue",
+      "轻度Rogue",
+      "回合制策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "三名队员可在同一回合连续释放多种技能，把资源规划转化为层层衔接的协同攻势。",
+      "dimension": "玩法",
+      "excerpt": "Each character has a rich and versatile skill set, letting you freely plan an entire turn around your resources and chain multiple abilities together. When your three party members link their actions together, a single battle becomes a layered, coordinated offensive of your own making.",
+      "url": "https://store.steampowered.com/app/2873060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "高度、掩体、击退、碰撞与场景物件都能成为武器，可制造连锁反应并改造攻防空间。",
+      "dimension": "玩法",
+      "excerpt": "Height, cover, displacement, knockbacks, collisions, and battlefield objects and terrain all have a real impact on combat. Slam enemies into obstacles, trigger chain reactions through objects, and use terrain to reshape both offense and defense.",
+      "url": "https://store.steampowered.com/app/2873060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "击败强敌获得“回响”来推进区域，再收集章节记忆碎片揭开角色过去与世界秘密。",
+      "dimension": "故事",
+      "excerpt": "Defeat powerful enemies and obtain precious Echoes to advance the story and unlock deeper regions. But that is only the beginning. Keep venturing deeper and collect Chapter Memory Fragments to uncover each character’s hidden past—and the deeper secrets of the world itself.",
+      "url": "https://store.steampowered.com/app/2873060/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1424,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3835,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 633,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 16336,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1871,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1871,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.125631866618887,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 81,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.121951,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "永铃回响位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/63b413c1b27b12dcf6a55d20e84d1ba421e0541c/ss_63b413c1b27b12dcf6a55d20e84d1ba421e0541c.1920x1080.jpg?t=1782307917",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/63b413c1b27b12dcf6a55d20e84d1ba421e0541c/ss_63b413c1b27b12dcf6a55d20e84d1ba421e0541c.1920x1080.jpg?t=1785228792",
+        "alt": "永铃回响 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/7eeaf948176eabbb00ffa750e6256a5dbb319abb/ss_7eeaf948176eabbb00ffa750e6256a5dbb319abb.1920x1080.jpg?t=1785228792",
+        "alt": "永铃回响 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/ea2c36f0be8479d8b17b3885cc63cf8285010eec/ss_ea2c36f0be8479d8b17b3885cc63cf8285010eec.1920x1080.jpg?t=1785228792",
+        "alt": "永铃回响 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/6dd4db668f6426372d5c95623bd2ba3e9290f25b/ss_6dd4db668f6426372d5c95623bd2ba3e9290f25b.1920x1080.jpg?t=1785228792",
+        "alt": "永铃回响 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/e2fb09dc8ca819a63eb306603712f7e96fac3365/ss_e2fb09dc8ca819a63eb306603712f7e96fac3365.1920x1080.jpg?t=1785228792",
+        "alt": "永铃回响 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/06144e093cfa6307e5bf81280510ffa8e694a32c/ss_06144e093cfa6307e5bf81280510ffa8e694a32c.1920x1080.jpg?t=1785228792",
+        "alt": "永铃回响 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/59e80d701cd611369298680b208d62cf87d28359/ss_59e80d701cd611369298680b208d62cf87d28359.1920x1080.jpg?t=1785228792",
+        "alt": "永铃回响 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/e38f45d7325dac6dcef4e1643097fb02fc9aab90/ss_e38f45d7325dac6dcef4e1643097fb02fc9aab90.1920x1080.jpg?t=1785228792",
+        "alt": "永铃回响 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

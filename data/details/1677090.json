@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Godless","developers":["Danil Kalyupa"],"publishers":["Danil Kalyupa"],"release_status":"released","release_date":"2024-06-03","tags":["回合制战术","轻度Rogue","自走棋","回合制策略","策略"]},"hooks":[{"text":"同一回合可召唤攻辅治疗单位、施放复活附魔毒术，并改造地块进行增益阻挡传送","dimension":"玩法","excerpt":"Will you summon auto-battling units that attack, buff, or heal? Will you cast spells to resurrect, enchant or poison targets? Will you terraform the map with tiles that boost, block or teleport units?","url":"https://store.steampowered.com/app/1677090/","label":"证据原文片段"},{"text":"战斗间选择路线和升级，必须为下一场拼出最优协同构筑","dimension":"玩法","excerpt":"Between battles, choose your path and upgrades wisely to find the optimal synergetic build for your next fight.","url":"https://store.steampowered.com/app/1677090/","label":"证据原文片段"},{"text":"每轮结束解锁永久升级，最终以摧毁十块大陆决定整个世界命运","dimension":"玩法","excerpt":"Unlock permanent upgrades after each run to destroy the ten continents and decide the fate of the world!","url":"https://store.steampowered.com/app/1677090/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1900,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8897,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":946,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":11960,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2249,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2249,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.627721306011873,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":122,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.622951,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"回合制战术、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_58861bfe4ab3169a118e7c66d9539c34a764e534.1920x1080.jpg?t=1776084251","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_58861bfe4ab3169a118e7c66d9539c34a764e534.1920x1080.jpg?t=1776084251","alt":"Godless 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_0b4108b894613b612a22fd3bc5c29f55db7cce6c.1920x1080.jpg?t=1776084251","alt":"Godless 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_0115938f1b76fe460c69a7475e01ad0ad33fda31.1920x1080.jpg?t=1776084251","alt":"Godless 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_63d9e65e6b82e4729e8c1c6c3f56c6e2860610ab.1920x1080.jpg?t=1776084251","alt":"Godless 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Godless",
+    "developers": [
+      "Danil Kalyupa"
+    ],
+    "publishers": [
+      "Danil Kalyupa"
+    ],
+    "release_status": "released",
+    "release_date": "2024-06-03",
+    "tags": [
+      "策略",
+      "回合制战术",
+      "轻度Rogue",
+      "自走棋",
+      "回合制策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "同一回合可召唤攻辅治疗单位、施放复活附魔毒术，并改造地块进行增益阻挡传送",
+      "dimension": "玩法",
+      "excerpt": "Will you summon auto-battling units that attack, buff, or heal? Will you cast spells to resurrect, enchant or poison targets? Will you terraform the map with tiles that boost, block or teleport units?",
+      "url": "https://store.steampowered.com/app/1677090/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗间选择路线和升级，必须为下一场拼出最优协同构筑",
+      "dimension": "玩法",
+      "excerpt": "Between battles, choose your path and upgrades wisely to find the optimal synergetic build for your next fight.",
+      "url": "https://store.steampowered.com/app/1677090/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮结束解锁永久升级，最终以摧毁十块大陆决定整个世界命运",
+      "dimension": "玩法",
+      "excerpt": "Unlock permanent upgrades after each run to destroy the ten continents and decide the fate of the world!",
+      "url": "https://store.steampowered.com/app/1677090/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2370,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 8949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 945,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 15240,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2819,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2819,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.526182208126883,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 95,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.682927,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Godless位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_58861bfe4ab3169a118e7c66d9539c34a764e534.1920x1080.jpg?t=1776084251",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_58861bfe4ab3169a118e7c66d9539c34a764e534.1920x1080.jpg?t=1776084251",
+        "alt": "Godless 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_0b4108b894613b612a22fd3bc5c29f55db7cce6c.1920x1080.jpg?t=1776084251",
+        "alt": "Godless 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_0115938f1b76fe460c69a7475e01ad0ad33fda31.1920x1080.jpg?t=1776084251",
+        "alt": "Godless 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_63d9e65e6b82e4729e8c1c6c3f56c6e2860610ab.1920x1080.jpg?t=1776084251",
+        "alt": "Godless 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_705923ac7e250a6ca18fa7a14ab5bb1ad2322aca.1920x1080.jpg?t=1776084251",
+        "alt": "Godless 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_b8435bdf500dcafe631f03b74267422f1ce2ce53.1920x1080.jpg?t=1776084251",
+        "alt": "Godless 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_abda4278fd0d13dcdbf57a7829451cac12421a69.1920x1080.jpg?t=1776084251",
+        "alt": "Godless 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677090/ss_dd094165bf71607358e032d72a34380b73f90643.1920x1080.jpg?t=1776084251",
+        "alt": "Godless 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

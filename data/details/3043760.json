@@ -1,1 +1,179 @@
-{"identity":{"original_title":"HELLBREAK","developers":["Double Barrel Games"],"publishers":["Flagship Interactive","Double Barrel Games"],"release_status":"released","release_date":"2026-05-08","tags":["动作肉鸽","竞技场射击","轻度Rogue","弹幕射击","射击"]},"hooks":[{"text":"十九把恶魔武器包含“异端头骨”这种非常规枪械","dimension":"玩法","excerpt":"Wield an arsenal of 19 demonic weapons, each offering distinct playstyles and strategic options. Equip yourself with machine guns, shotguns, revolvers, the skull of a heretic, and more!","url":"https://store.steampowered.com/app/3043760/","label":"证据原文片段"},{"text":"法术可放地狱火、召恶魔图腾或化身幽魂","dimension":"玩法","excerpt":"Cast infernal flames, summon demonic totems and turn into a chilling wraith form to send shivers down the spine of your enemies!","url":"https://store.steampowered.com/app/3043760/","label":"证据原文片段"},{"text":"一百五十多种祝福会改写能力和玩法","dimension":"玩法","excerpt":"Unlock and choose from over 150 different blessings that modify your abilities and playstyle.","url":"https://store.steampowered.com/app/3043760/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":12839,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":62277,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3712,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":121536,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":13735,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":13735,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.440924739033383,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":279,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":79.642857,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、竞技场射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/2d40d221c5e89b1316065916212445bfd53a577d/ss_2d40d221c5e89b1316065916212445bfd53a577d.1920x1080.jpg?t=1783548181","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/2d40d221c5e89b1316065916212445bfd53a577d/ss_2d40d221c5e89b1316065916212445bfd53a577d.1920x1080.jpg?t=1783548181","alt":"HELLBREAK 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/88739dc48479f8c6958848bd436a9fed7d9e6488/ss_88739dc48479f8c6958848bd436a9fed7d9e6488.1920x1080.jpg?t=1783548181","alt":"HELLBREAK 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/e1b0802d366b042ab85833bf41bbcdb58f35f070/ss_e1b0802d366b042ab85833bf41bbcdb58f35f070.1920x1080.jpg?t=1783548181","alt":"HELLBREAK 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/cf1a7e632408001b11b352de60f63c8e9394dfe4/ss_cf1a7e632408001b11b352de60f63c8e9394dfe4.1920x1080.jpg?t=1783548181","alt":"HELLBREAK 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "HELLBREAK",
+    "developers": [
+      "Double Barrel Games"
+    ],
+    "publishers": [
+      "Flagship Interactive",
+      "Double Barrel Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-08",
+    "tags": [
+      "动作肉鸽",
+      "竞技场射击",
+      "轻度Rogue",
+      "弹幕射击",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "十九把恶魔武器包含“异端头骨”这种非常规枪械",
+      "dimension": "玩法",
+      "excerpt": "Wield an arsenal of 19 demonic weapons, each offering distinct playstyles and strategic options. Equip yourself with machine guns, shotguns, revolvers, the skull of a heretic, and more!",
+      "url": "https://store.steampowered.com/app/3043760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "法术可放地狱火、召恶魔图腾或化身幽魂",
+      "dimension": "玩法",
+      "excerpt": "Cast infernal flames, summon demonic totems and turn into a chilling wraith form to send shivers down the spine of your enemies!",
+      "url": "https://store.steampowered.com/app/3043760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "一百五十多种祝福会改写能力和玩法",
+      "dimension": "玩法",
+      "excerpt": "Unlock and choose from over 150 different blessings that modify your abilities and playstyle.",
+      "url": "https://store.steampowered.com/app/3043760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 14462,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 65203,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3755,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 144174,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 15452,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 15452,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.369104072857985,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 268,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 79,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 78.983051,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "HELLBREAK当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/2d40d221c5e89b1316065916212445bfd53a577d/ss_2d40d221c5e89b1316065916212445bfd53a577d.1920x1080.jpg?t=1783548181",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/2d40d221c5e89b1316065916212445bfd53a577d/ss_2d40d221c5e89b1316065916212445bfd53a577d.1920x1080.jpg?t=1786032619",
+        "alt": "HELLBREAK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/88739dc48479f8c6958848bd436a9fed7d9e6488/ss_88739dc48479f8c6958848bd436a9fed7d9e6488.1920x1080.jpg?t=1786032619",
+        "alt": "HELLBREAK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/e1b0802d366b042ab85833bf41bbcdb58f35f070/ss_e1b0802d366b042ab85833bf41bbcdb58f35f070.1920x1080.jpg?t=1786032619",
+        "alt": "HELLBREAK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/cf1a7e632408001b11b352de60f63c8e9394dfe4/ss_cf1a7e632408001b11b352de60f63c8e9394dfe4.1920x1080.jpg?t=1786032619",
+        "alt": "HELLBREAK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/a8d0f9e37a972676de036d6e365af974c2244cf0/ss_a8d0f9e37a972676de036d6e365af974c2244cf0.1920x1080.jpg?t=1786032619",
+        "alt": "HELLBREAK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/b57d033d062931ccf0aa24a64b57ebd8ae9e9931/ss_b57d033d062931ccf0aa24a64b57ebd8ae9e9931.1920x1080.jpg?t=1786032619",
+        "alt": "HELLBREAK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/cbe2e083f8f1595a45e102c0dbd5e2885c570306/ss_cbe2e083f8f1595a45e102c0dbd5e2885c570306.1920x1080.jpg?t=1786032619",
+        "alt": "HELLBREAK 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043760/3f9bc1582980bb51e882462eeaea859fc9a19ad9/ss_3f9bc1582980bb51e882462eeaea859fc9a19ad9.1920x1080.jpg?t=1786032619",
+        "alt": "HELLBREAK 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

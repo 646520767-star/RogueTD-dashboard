@@ -1,0 +1,206 @@
+{
+  "identity": {
+    "original_title": "西部枪手",
+    "developers": [
+      "比岛礁石"
+    ],
+    "publishers": [
+      "比岛礁石"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-08-03",
+    "tags": [
+      "角色扮演",
+      "地牢探索",
+      "回合制战术",
+      "轻度Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [],
+  "opinions": [
+    {
+      "text": "更为让人觉得有趣的是，虽然本游戏本质上属于回合制游戏，但是每回合的行动并非是简单的根据构建做出行动，护盾机制和枪斗的机制都能让你在回合中实现与敌人的交互。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "更为让人觉得有趣的是，虽然本游戏本质上属于回合制游戏，但是每回合的行动并非是简单的根据构建做出行动，护盾机制和枪斗的机制都能让你在回合中实现与敌人的交互。",
+          "url": "https://steamcommunity.com/id/gogofish/recommended/4800290/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "之前测试的时候玩过一段时间，游戏模式挺新颖的，多种buff也能保证几小时的游玩吧，只是说buff还不算多，整体剧情好像也还没写完，最好再加一个多周目能获得不同强化的功能，可能复玩率就会比较高了，慢慢更新吧，加油",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "之前测试的时候玩过一段时间，游戏模式挺新颖的，多种buff也能保证几小时的游玩吧，只是说buff还不算多，整体剧情好像也还没写完，最好再加一个多周目能获得不同强化的功能，可能复玩率就会比较高了，慢慢更新吧，加油",
+          "url": "https://steamcommunity.com/profiles/76561198931342974/recommended/4800290/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The combination of procedural progression and tactical customization gives the gameplay a satisfying sense of variety while rewarding those willing to adapt to constantly changing circumstances.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The combination of procedural progression and tactical customization gives the gameplay a satisfying sense of variety while rewarding those willing to adapt to constantly changing circumstances.",
+          "url": "https://steamcommunity.com/id/xxadonisxx/recommended/4800290/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "非常好玩的一款肉鸽游戏，也有成就系统，虽然难度比较高都是很好玩",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "非常好玩的一款肉鸽游戏，也有成就系统，虽然难度比较高都是很好玩",
+          "url": "https://steamcommunity.com/profiles/76561199835995165/recommended/4800290/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "克苏鲁元素加西部元素的回合制肉鸽游戏，以牛仔射击，对枪来进行武器对决的形式来进行回合制战斗，还可以搭配不同的战利品，与不同的子弹组合，来构筑属于你自己的流派，核心特色就是通过6个子弹塞进一把特制的左轮里面，根据敌人的攻击方式来进行相对应的反应，机制有趣，并不是很吓人，Boss 战的挑战还是比较有难度的，需要思考该怎么打。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "克苏鲁元素加西部元素的回合制肉鸽游戏，以牛仔射击，对枪来进行武器对决的形式来进行回合制战斗，还可以搭配不同的战利品，与不同的子弹组合，来构筑属于你自己的流派，核心特色就是通过6个子弹塞进一把特制的左轮里面，根据敌人的攻击方式来进行相对应的反应，机制有趣，并不是很吓人，Boss 战的挑战还是比较有难度的，需要思考该怎么打。",
+          "url": "https://store.steampowered.com/curator/44551694-%25E5%2586%2599%25E7%2594%259F%25E6%25BC%25AB%25E8%25AF%259D%25E5%25AE%25B6/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 447,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 264,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 22,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 368,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 514,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 514,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.7414195008567717,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 22,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "西部枪手位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800290/55bfdafa648bbb73d5255a3ab7da0dbde638097a/ss_55bfdafa648bbb73d5255a3ab7da0dbde638097a.1920x1080.jpg?t=1786346242",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800290/55bfdafa648bbb73d5255a3ab7da0dbde638097a/ss_55bfdafa648bbb73d5255a3ab7da0dbde638097a.1920x1080.jpg?t=1786346242",
+        "alt": "西部枪手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800290/d30144abcd425bb00b552179f83c11f63998f29f/ss_d30144abcd425bb00b552179f83c11f63998f29f.1920x1080.jpg?t=1786346242",
+        "alt": "西部枪手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800290/89515ed059b375ac7f8f23340abc70ec8a4cf705/ss_89515ed059b375ac7f8f23340abc70ec8a4cf705.1920x1080.jpg?t=1786346242",
+        "alt": "西部枪手 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800290/ed74dcf4301e62a1b97a10ba301cf6b59aa66cf3/ss_ed74dcf4301e62a1b97a10ba301cf6b59aa66cf3.1920x1080.jpg?t=1786346242",
+        "alt": "西部枪手 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

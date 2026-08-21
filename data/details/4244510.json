@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Pratfall","developers":["Quad Head"],"publishers":["Quad Head"],"release_status":"released","release_date":"2026-04-20","tags":["多人游戏","在线合作","物理模拟","喜剧","类Rogue"]},"hooks":[{"text":"用滑索跨裂隙，再以镐、钻头和魔豆自行开路","dimension":"玩法","excerpt":"Find food to recover from injuries, use ziplines to cross crevasses, or create your own path with your pickaxe, drill, and magic beans.","url":"https://store.steampowered.com/app/4244510/","label":"证据原文片段"},{"text":"接住坠落队友、倒地复活，也可投喂怪东西或扔炸弹","dimension":"玩法","excerpt":"Watch out for your friends, catch them if they fall. Too clumsy to catch? Revive them if they're down. Or don't. Feed them weird stuff, toss them a bomb, and see what happens.","url":"https://store.steampowered.com/app/4244510/","label":"证据原文片段"},{"text":"三种程序生成洞穴生态叠加可破坏地形与爆炸混乱","dimension":"玩法","excerpt":"Every run is different with 3 procedurally generated biomes Destructible terrain, interactive items, and explosive chaos","url":"https://store.steampowered.com/app/4244510/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":405429,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":334269,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11510,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2240606,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":454902,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":454902,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.100935255234188,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2581,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.411476,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"多人游戏、在线合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/7466683155c61bda5940c6a80a646e5f01615a48/ss_7466683155c61bda5940c6a80a646e5f01615a48.1920x1080.jpg?t=1784297677","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/7466683155c61bda5940c6a80a646e5f01615a48/ss_7466683155c61bda5940c6a80a646e5f01615a48.1920x1080.jpg?t=1784297677","alt":"Pratfall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/e9182c0f15ad51b2ddd4627c4d262a916ae3b9cf/ss_e9182c0f15ad51b2ddd4627c4d262a916ae3b9cf.1920x1080.jpg?t=1784297677","alt":"Pratfall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/92a6e925f8780a482cd0cf5a4036d6dab4565afe/ss_92a6e925f8780a482cd0cf5a4036d6dab4565afe.1920x1080.jpg?t=1784297677","alt":"Pratfall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/ea7e8d4453a61ac75581a05ab385d778968a7a76/ss_ea7e8d4453a61ac75581a05ab385d778968a7a76.1920x1080.jpg?t=1784297677","alt":"Pratfall 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pratfall",
+    "developers": [
+      "Quad Head"
+    ],
+    "publishers": [
+      "Quad Head"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-20",
+    "tags": [
+      "轻度Rogue",
+      "多人游戏",
+      "在线合作",
+      "物理模拟",
+      "喜剧"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用滑索跨裂隙，再以镐、钻头和魔豆自行开路",
+      "dimension": "玩法",
+      "excerpt": "Find food to recover from injuries, use ziplines to cross crevasses, or create your own path with your pickaxe, drill, and magic beans.",
+      "url": "https://store.steampowered.com/app/4244510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "接住坠落队友、倒地复活，也可投喂怪东西或扔炸弹",
+      "dimension": "玩法",
+      "excerpt": "Watch out for your friends, catch them if they fall. Too clumsy to catch? Revive them if they're down. Or don't. Feed them weird stuff, toss them a bomb, and see what happens.",
+      "url": "https://store.steampowered.com/app/4244510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三种程序生成洞穴生态叠加可破坏地形与爆炸混乱",
+      "dimension": "玩法",
+      "excerpt": "Every run is different with 3 procedurally generated biomes Destructible terrain, interactive items, and explosive chaos",
+      "url": "https://store.steampowered.com/app/4244510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 445715,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 350314,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 12416,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2466619,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 502731,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 502731,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.329285354759915,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2524,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.562914,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Pratfall位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/7466683155c61bda5940c6a80a646e5f01615a48/ss_7466683155c61bda5940c6a80a646e5f01615a48.1920x1080.jpg?t=1784297677",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/7466683155c61bda5940c6a80a646e5f01615a48/ss_7466683155c61bda5940c6a80a646e5f01615a48.1920x1080.jpg?t=1784880390",
+        "alt": "Pratfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/e9182c0f15ad51b2ddd4627c4d262a916ae3b9cf/ss_e9182c0f15ad51b2ddd4627c4d262a916ae3b9cf.1920x1080.jpg?t=1784880390",
+        "alt": "Pratfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/92a6e925f8780a482cd0cf5a4036d6dab4565afe/ss_92a6e925f8780a482cd0cf5a4036d6dab4565afe.1920x1080.jpg?t=1784880390",
+        "alt": "Pratfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/ea7e8d4453a61ac75581a05ab385d778968a7a76/ss_ea7e8d4453a61ac75581a05ab385d778968a7a76.1920x1080.jpg?t=1784880390",
+        "alt": "Pratfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/cb998d2a8a9d8176c183edc2f1856ea1637c7aa7/ss_cb998d2a8a9d8176c183edc2f1856ea1637c7aa7.1920x1080.jpg?t=1784880390",
+        "alt": "Pratfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/2afb7c89aaa758a079c0c30920513330ceff02a1/ss_2afb7c89aaa758a079c0c30920513330ceff02a1.1920x1080.jpg?t=1784880390",
+        "alt": "Pratfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/52cb90fad0a542f9ca33f2c60b4df4bc9345702c/ss_52cb90fad0a542f9ca33f2c60b4df4bc9345702c.1920x1080.jpg?t=1784880390",
+        "alt": "Pratfall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/25dfb600f6c095e31058012df3ff374e37241e9e/ss_25dfb600f6c095e31058012df3ff374e37241e9e.1920x1080.jpg?t=1784880390",
+        "alt": "Pratfall 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

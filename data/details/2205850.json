@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Dwarves: Glory, Death and Loot","developers":["Hamma Studios"],"publishers":["Sidekick Publishing","Gamersky Games"],"release_status":"released","release_date":"2026-01-22","tags":["自走棋","角色扮演","类Rogue","角色自定义","策略"]},"hooks":[{"text":"战斗自动进行，真正胜负点在开战前根据敌方威胁调整矮人的阵型与站位。","dimension":"玩法","excerpt":"Battles play out automatically, so the real challenge happens before the fight begins. Choose the right formation and position for your Dwarves as you are preparing for specific enemy threats, often deciding the outcome long before the first blow is struck.","url":"https://store.steampowered.com/app/2205850/","label":"证据原文片段"},{"text":"每名矮人都能通过装备塑造成前排坦克、近战输出或需要保护的强力法师。","dimension":"玩法","excerpt":"Every Dwarf can be shaped into a distinct party-member through gear and equipment. Build sturdy frontline tanks to hold the line, deadly damage dealers to tear through enemies with meele combat, or fragile but powerful mages that need protection.","url":"https://store.steampowered.com/app/2205850/","label":"证据原文片段"},{"text":"每场战斗后都要在经验、装备投入和招募新成员之间选择，让队伍成长走向不同路线。","dimension":"玩法","excerpt":"After each battle, you choose how to proceed. Gain experience, invest gold into better equipment, or recruit new Dwarves to strengthen your group. Every choice pushes your run in a different direction, and not every path leads to survival.","url":"https://store.steampowered.com/app/2205850/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":262748,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":198267,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":14956,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2503778,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":271680,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":271680,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":18.08610723338217,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2619,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.525754,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"自走棋、角色扮演","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_ee3117e76f1676724a59041c3bcb8d95841feb77.1920x1080.jpg?t=1783620699","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_ee3117e76f1676724a59041c3bcb8d95841feb77.1920x1080.jpg?t=1783620699","alt":"矮人军团自走棋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_6e97f579699685078c8302564a5301bdd665e9d6.1920x1080.jpg?t=1783620699","alt":"矮人军团自走棋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_80b2424cfb030b6a1760ae1784bb48ac87f5cc52.1920x1080.jpg?t=1783620699","alt":"矮人军团自走棋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_30b3879795d767eea8e02ac9389735591f22a59b.1920x1080.jpg?t=1783620699","alt":"矮人军团自走棋 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dwarves: Glory, Death and Loot",
+    "developers": [
+      "Hamma Studios"
+    ],
+    "publishers": [
+      "Sidekick Publishing",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-01-22",
+    "tags": [
+      "自走棋",
+      "动作肉鸽",
+      "角色扮演",
+      "类Rogue",
+      "角色自定义"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "战斗自动进行，真正胜负点在开战前根据敌方威胁调整矮人的阵型与站位。",
+      "dimension": "玩法",
+      "excerpt": "Battles play out automatically, so the real challenge happens before the fight begins. Choose the right formation and position for your Dwarves as you are preparing for specific enemy threats, often deciding the outcome long before the first blow is struck.",
+      "url": "https://store.steampowered.com/app/2205850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每名矮人都能通过装备塑造成前排坦克、近战输出或需要保护的强力法师。",
+      "dimension": "玩法",
+      "excerpt": "Every Dwarf can be shaped into a distinct party-member through gear and equipment. Build sturdy frontline tanks to hold the line, deadly damage dealers to tear through enemies with meele combat, or fragile but powerful mages that need protection.",
+      "url": "https://store.steampowered.com/app/2205850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每场战斗后都要在经验、装备投入和招募新成员之间选择，让队伍成长走向不同路线。",
+      "dimension": "玩法",
+      "excerpt": "After each battle, you choose how to proceed. Gain experience, invest gold into better equipment, or recruit new Dwarves to strengthen your group. Every choice pushes your run in a different direction, and not every path leads to survival.",
+      "url": "https://store.steampowered.com/app/2205850/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 280079,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 196885,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 15135,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2690524,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 289322,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 289322,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 16.999908179360773,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2551,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.317757,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "矮人军团自走棋位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_ee3117e76f1676724a59041c3bcb8d95841feb77.1920x1080.jpg?t=1783620699",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_ee3117e76f1676724a59041c3bcb8d95841feb77.1920x1080.jpg?t=1786694439",
+        "alt": "矮人军团自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_6e97f579699685078c8302564a5301bdd665e9d6.1920x1080.jpg?t=1786694439",
+        "alt": "矮人军团自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_80b2424cfb030b6a1760ae1784bb48ac87f5cc52.1920x1080.jpg?t=1786694439",
+        "alt": "矮人军团自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_30b3879795d767eea8e02ac9389735591f22a59b.1920x1080.jpg?t=1786694439",
+        "alt": "矮人军团自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_dcc1172acc341d25f9fd1f7475d3e141615a48d0.1920x1080.jpg?t=1786694439",
+        "alt": "矮人军团自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_0ba1837af34163cf156868da196b7699d5227262.1920x1080.jpg?t=1786694439",
+        "alt": "矮人军团自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_b48d6db5f00e2e5db670b6df1808bb4e2609c930.1920x1080.jpg?t=1786694439",
+        "alt": "矮人军团自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205850/ss_430fb4b324c4c4068981d77d5fbf5325c9f2dd1c.1920x1080.jpg?t=1786694439",
+        "alt": "矮人军团自走棋 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

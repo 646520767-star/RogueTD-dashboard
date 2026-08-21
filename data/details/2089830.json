@@ -1,1 +1,275 @@
-{"identity":{"original_title":"Beat Slayer","developers":["ByteRockers' Games"],"publishers":["ByteRockers' Games","Paras Games"],"release_status":"released","release_date":"2024-04-04","tags":["轻度Rogue","动作","冒险","砍杀","机器人"]},"hooks":[{"text":"每一次移动和攻击都必须踩准音乐节拍，乱按按钮会直接受到惩罚","dimension":"玩法","excerpt":"Every move you make has to match the rhythm of the soundtrack. Fail to do so and you’ll pay the price. No button mashing, no frantic inputs.","url":"https://store.steampowered.com/app/2089830/","label":"证据原文片段"},{"text":"数秒内要决定冲刺进退、积攒Drive、扩散状态或把敌人踢向墙壁和同伴","dimension":"玩法","excerpt":"Dash to engage or disengage? Attack to build up your drive bar or spread your status effects? Kick your enemies against walls or into each other? The choice is yours!","url":"https://store.steampowered.com/app/2089830/","label":"证据原文片段"},{"text":"每局由风险偏好、起始武器、所选升级与不断扩展的技能共同塑形","dimension":"玩法","excerpt":"Each run plays differently and is influenced by your playstyle and your thrill for risks, but also by your starting weapon, your chosen upgrades and your growing skill set.","url":"https://store.steampowered.com/app/2089830/","label":"证据原文片段"}],"opinions":[{"text":"音乐曲目数量有限。","dimension":"音频","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the music is great (but limited)","url":"https://steamcommunity.com/id/Yasashiimi/recommended/2089830/","label":"证据原文片段"}]},{"text":"战斗系统显得浅薄。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"the combat is shallow","url":"https://steamcommunity.com/id/Synikx/recommended/2089830?snr=1_5_9__402","label":"证据原文片段"}]},{"text":"节拍机制对实际游玩的影响过弱。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"staying on beat barely matters","url":"https://steamcommunity.com/id/Synikx/recommended/2089830?snr=1_5_9__402","label":"证据原文片段"}]},{"text":"节奏与轻度肉鸽动作的结合带来令人亢奋的战斗体验。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"offering a head-banging blend of rhythm and roguelite action that pumped us with adrenaline","url":"https://store.steampowered.com/curator/44145907-The-Last-Curator/","label":"证据原文片段"}]},{"text":"游戏循环容易让人沉迷。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Addictive game loop","url":"https://steamcommunity.com/profiles/76561197969370858/recommended/2089830/","label":"证据原文片段"}]},{"text":"操作响应灵敏，手感良好。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The gameplay is very responsive and feels good","url":"https://steamcommunity.com/id/Yasashiimi/recommended/2089830/","label":"证据原文片段"}]},{"text":"故事足以支撑游玩过程。","dimension":"剧情","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the story is enough to get you by","url":"https://steamcommunity.com/id/Yasashiimi/recommended/2089830/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":2582,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":40670,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2259,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":39281,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3451,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3451,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.756208386567498,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":125,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.8,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["音乐曲目数量有限。","战斗系统显得浅薄。","节拍机制对实际游玩的影响过弱。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_e0d6d8ca6e0c30f6815c3326f004dc5dd270069d.1920x1080.jpg?t=1763559351","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_e0d6d8ca6e0c30f6815c3326f004dc5dd270069d.1920x1080.jpg?t=1763559351","alt":"节奏战士 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_bc376612c10fb94fef94380fba9d511132beb4a9.1920x1080.jpg?t=1763559351","alt":"节奏战士 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_729575eb34cb4429b82038554940bb3f47d7c85c.1920x1080.jpg?t=1763559351","alt":"节奏战士 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_69cd6c17e7fd1440ec667b4037d224c6e967c643.1920x1080.jpg?t=1763559351","alt":"节奏战士 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Beat Slayer",
+    "developers": [
+      "ByteRockers' Games"
+    ],
+    "publishers": [
+      "ByteRockers' Games",
+      "Paras Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-04",
+    "tags": [
+      "轻度Rogue",
+      "类Rogue",
+      "动作",
+      "独立游戏",
+      "冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每一次移动和攻击都必须踩准音乐节拍，乱按按钮会直接受到惩罚",
+      "dimension": "玩法",
+      "excerpt": "Every move you make has to match the rhythm of the soundtrack. Fail to do so and you’ll pay the price. No button mashing, no frantic inputs.",
+      "url": "https://store.steampowered.com/app/2089830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "数秒内要决定冲刺进退、积攒Drive、扩散状态或把敌人踢向墙壁和同伴",
+      "dimension": "玩法",
+      "excerpt": "Dash to engage or disengage? Attack to build up your drive bar or spread your status effects? Kick your enemies against walls or into each other? The choice is yours!",
+      "url": "https://store.steampowered.com/app/2089830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每局由风险偏好、起始武器、所选升级与不断扩展的技能共同塑形",
+      "dimension": "玩法",
+      "excerpt": "Each run plays differently and is influenced by your playstyle and your thrill for risks, but also by your starting weapon, your chosen upgrades and your growing skill set.",
+      "url": "https://store.steampowered.com/app/2089830/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "音乐曲目数量有限。",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the music is great (but limited)",
+          "url": "https://steamcommunity.com/id/Yasashiimi/recommended/2089830/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗系统显得浅薄。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the combat is shallow",
+          "url": "https://steamcommunity.com/id/Synikx/recommended/2089830?snr=1_5_9__402",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "节拍机制对实际游玩的影响过弱。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "staying on beat barely matters",
+          "url": "https://steamcommunity.com/id/Synikx/recommended/2089830?snr=1_5_9__402",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "节奏与轻度肉鸽动作的结合带来令人亢奋的战斗体验。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "offering a head-banging blend of rhythm and roguelite action that pumped us with adrenaline",
+          "url": "https://store.steampowered.com/curator/44145907-The-Last-Curator/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏循环容易让人沉迷。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Addictive game loop",
+          "url": "https://steamcommunity.com/profiles/76561197969370858/recommended/2089830/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "操作响应灵敏，手感良好。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The gameplay is very responsive and feels good",
+          "url": "https://steamcommunity.com/id/Yasashiimi/recommended/2089830/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "故事足以支撑游玩过程。",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the story is enough to get you by",
+          "url": "https://steamcommunity.com/id/Yasashiimi/recommended/2089830/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2966,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 40911,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2266,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 44096,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3985,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3985,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.749740607149273,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 80,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.857143,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "音乐曲目数量有限。",
+    "战斗系统显得浅薄。",
+    "节拍机制对实际游玩的影响过弱。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "节奏战士位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_e0d6d8ca6e0c30f6815c3326f004dc5dd270069d.1920x1080.jpg?t=1763559351",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_e0d6d8ca6e0c30f6815c3326f004dc5dd270069d.1920x1080.jpg?t=1763559351",
+        "alt": "节奏战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_bc376612c10fb94fef94380fba9d511132beb4a9.1920x1080.jpg?t=1763559351",
+        "alt": "节奏战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_729575eb34cb4429b82038554940bb3f47d7c85c.1920x1080.jpg?t=1763559351",
+        "alt": "节奏战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_69cd6c17e7fd1440ec667b4037d224c6e967c643.1920x1080.jpg?t=1763559351",
+        "alt": "节奏战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_ad148d47f9c0ae19af5d7d680c6e9c0cfb7a9923.1920x1080.jpg?t=1763559351",
+        "alt": "节奏战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_4974a9016db0600b9f19b0f43c73348247bfbeb4.1920x1080.jpg?t=1763559351",
+        "alt": "节奏战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_489a277e65de4efa0340235cbb284a17658e05f4.1920x1080.jpg?t=1763559351",
+        "alt": "节奏战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089830/ss_df134ffae5e65d39170801a2abdddec69f5228c2.1920x1080.jpg?t=1763559351",
+        "alt": "节奏战士 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

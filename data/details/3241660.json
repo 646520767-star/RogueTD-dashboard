@@ -1,1 +1,304 @@
-{"identity":{"original_title":"R.E.P.O.","developers":["semiwork"],"publishers":["semiwork"],"release_status":"early_access","release_date":"2025-02-26","tags":["恐怖","在线合作","多人游戏","喜剧","合作"]},"hooks":[{"text":"最多六人合作使用物理抓取工具搬运贵重物品，连怪物自身也受重力定律影响。","dimension":"玩法","excerpt":"You and up to 5 friends can venture into terrifying environments to extract valuable objects using your physics-based grabbing tool. Even the monsters are affected by Newton's law of gravity!","url":"https://store.steampowered.com/app/3241660/","label":"证据原文片段"},{"text":"从沉重钢琴到易碎陶瓷都要靠团队谨慎运输，在怪物附近还必须判断何时保持安静。","dimension":"玩法","excerpt":"...but know when to stay quiet. Transport anything from heavy pianos to fragile ceramics and use teamwork to make sure that the precious cargo will safely reach its destination.","url":"https://store.steampowered.com/app/3241660/","label":"证据原文片段"},{"text":"成功回收所得现金可向神秘计算机智能购买机器人强化和武器，提高后续任务生还概率。","dimension":"玩法","excerpt":"Robotic enhancements increase your chances! Use your hard earned cash [SURPLUS] to purchase upgrades and weapons from your heartless [GENEROUS] creator.","url":"https://store.steampowered.com/app/3241660/","label":"证据原文片段"}],"opinions":[{"text":"可爱画风与恐怖感形成反差","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"看着很可爱的画风，实际上有点恐怖在的","url":"https://steamcommunity.com/profiles/76561199216981700/recommended/3241660/","label":"证据原文片段"}]},{"text":"缺少服务器浏览器与匹配功能","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"it lacks even the most barebones essentials such as a server browser/matchmaking","url":"https://store.steampowered.com/curator/26964680-Shitlisting-Service/","label":"证据原文片段"}]},{"text":"单人游玩缺乏乐趣","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"单人游玩缺乏乐趣","url":"https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/","label":"证据原文片段"}]},{"text":"多人资源不能共享","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"人一多资源还不能共享","url":"https://steamcommunity.com/profiles/76561199466393898/recommended/3241660/","label":"证据原文片段"}]},{"text":"裸连组队容易延迟掉线","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"裸连组队容易出现延迟掉线","url":"https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/","label":"证据原文片段"}]},{"text":"更新导致现有Mod全部失效","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"更新之后所有mod都不能用了","url":"https://steamcommunity.com/profiles/76561199206061135/recommended/3241660/","label":"证据原文片段"}]},{"text":"后期反复刷关容易倦怠","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期反复刷关卡容易产生倦怠","url":"https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/","label":"证据原文片段"}]},{"text":"多人合作游玩很有乐趣","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"好玩，爱玩","url":"https://steamcommunity.com/profiles/76561199180733397/recommended/3241660/","label":"证据原文片段"}]},{"text":"持续更新的怪物、道具和关卡保持新鲜感","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"不断更新的怪物、道具与新关卡让组队游玩始终充满新鲜感","url":"https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/","label":"证据原文片段"}]},{"text":"潜行惊悚与队友互坑的喜剧效果融合出色","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"完美融合潜行惊悚氛围与队友互相坑害的爆笑场面","url":"https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":19618809,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1657341,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":324591,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":150591223,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":22739222,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":22739222,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":18.4177792401158,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":411621,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.057048,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["缺少服务器浏览器与匹配功能","单人游玩缺乏乐趣","多人资源不能共享","技术/性能：裸连组队容易延迟掉线","更新导致现有Mod全部失效","后期反复刷关容易倦怠"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg?t=1778158882","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg?t=1778158882","alt":"R.E.P.O. 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_af7d8d6302d543d89019bad49ea853a970bb82de.1920x1080.jpg?t=1778158882","alt":"R.E.P.O. 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_a66715d57329c456d91aeb11fbd406e7d8c5dbc7.1920x1080.jpg?t=1778158882","alt":"R.E.P.O. 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_cd332c2299810a65c6aee61c04750197a919692a.1920x1080.jpg?t=1778158882","alt":"R.E.P.O. 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "R.E.P.O.",
+    "developers": [
+      "semiwork"
+    ],
+    "publishers": [
+      "semiwork"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-02-26",
+    "tags": [
+      "恐怖",
+      "在线合作",
+      "多人游戏",
+      "喜剧",
+      "合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "最多六人合作使用物理抓取工具搬运贵重物品，连怪物自身也受重力定律影响。",
+      "dimension": "玩法",
+      "excerpt": "You and up to 5 friends can venture into terrifying environments to extract valuable objects using your physics-based grabbing tool. Even the monsters are affected by Newton's law of gravity!",
+      "url": "https://store.steampowered.com/app/3241660/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从沉重钢琴到易碎陶瓷都要靠团队谨慎运输，在怪物附近还必须判断何时保持安静。",
+      "dimension": "玩法",
+      "excerpt": "...but know when to stay quiet. Transport anything from heavy pianos to fragile ceramics and use teamwork to make sure that the precious cargo will safely reach its destination.",
+      "url": "https://store.steampowered.com/app/3241660/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "成功回收所得现金可向神秘计算机智能购买机器人强化和武器，提高后续任务生还概率。",
+      "dimension": "玩法",
+      "excerpt": "Robotic enhancements increase your chances! Use your hard earned cash [SURPLUS] to purchase upgrades and weapons from your heartless [GENEROUS] creator.",
+      "url": "https://store.steampowered.com/app/3241660/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "可爱画风与恐怖感形成反差",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "看着很可爱的画风，实际上有点恐怖在的",
+          "url": "https://steamcommunity.com/profiles/76561199216981700/recommended/3241660/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少服务器浏览器与匹配功能",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it lacks even the most barebones essentials such as a server browser/matchmaking",
+          "url": "https://store.steampowered.com/curator/26964680-Shitlisting-Service/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "单人游玩缺乏乐趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "单人游玩缺乏乐趣",
+          "url": "https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多人资源不能共享",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "人一多资源还不能共享",
+          "url": "https://steamcommunity.com/profiles/76561199466393898/recommended/3241660/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "裸连组队容易延迟掉线",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "裸连组队容易出现延迟掉线",
+          "url": "https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "更新导致现有Mod全部失效",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "更新之后所有mod都不能用了",
+          "url": "https://steamcommunity.com/profiles/76561199206061135/recommended/3241660/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期反复刷关容易倦怠",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期反复刷关卡容易产生倦怠",
+          "url": "https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多人合作游玩很有乐趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "好玩，爱玩",
+          "url": "https://steamcommunity.com/profiles/76561199180733397/recommended/3241660/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "持续更新的怪物、道具和关卡保持新鲜感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "不断更新的怪物、道具与新关卡让组队游玩始终充满新鲜感",
+          "url": "https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "潜行惊悚与队友互坑的喜剧效果融合出色",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "完美融合潜行惊悚氛围与队友互相坑害的爆笑场面",
+          "url": "https://steamcommunity.com/profiles/76561199825313074/recommended/3241660/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 20008508,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1662051,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 328031,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 152035083,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 23186612,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 23186612,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 18.518599547858823,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 335839,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.034588,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "缺少服务器浏览器与匹配功能",
+    "单人游玩缺乏乐趣",
+    "多人资源不能共享",
+    "技术/性能：裸连组队容易延迟掉线",
+    "更新导致现有Mod全部失效",
+    "后期反复刷关容易倦怠"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "R.E.P.O.位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg?t=1778158882",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg?t=1778158882",
+        "alt": "R.E.P.O. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_af7d8d6302d543d89019bad49ea853a970bb82de.1920x1080.jpg?t=1778158882",
+        "alt": "R.E.P.O. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_a66715d57329c456d91aeb11fbd406e7d8c5dbc7.1920x1080.jpg?t=1778158882",
+        "alt": "R.E.P.O. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_cd332c2299810a65c6aee61c04750197a919692a.1920x1080.jpg?t=1778158882",
+        "alt": "R.E.P.O. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e4dc1bc0ada8fb7cb164b3ac37be82f51aae5627.1920x1080.jpg?t=1778158882",
+        "alt": "R.E.P.O. 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

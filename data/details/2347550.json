@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Cowboy 3030","developers":["Soy Boy Games"],"publishers":["Soy Boy Games"],"release_status":"released","release_date":"2024-12-13","tags":["动作肉鸽","弹幕射击","在线合作","多人游戏","合作"]},"hooks":[{"text":"躲狙击精准弹与Boss红色激光的3D弹幕枪战","dimension":"玩法","excerpt":"Avoid fast and precise shots from snipers, dash thru waves of red lasers from bosses. Every enemy has different attack patterns keeping you on your toes.","url":"https://store.steampowered.com/app/2347550/","label":"证据原文片段"},{"text":"英雄以左轮、电索、闪光弹或狙击套组形成差异打法","dimension":"玩法","excerpt":"Master Calix's close-range revolver, electrify multiple foes with the Electro Lasso, and blind enemies with the Flash Bang for an aggressive approach. Wield Keri's long-range marksman rifle, amplify shots with the Electro Screen, and unleash devastation from afar with the Bowling Bomb.","url":"https://store.steampowered.com/app/2347550/","label":"证据原文片段"},{"text":"每局随机生成perk进度网格塑造独特构筑","dimension":"玩法","excerpt":"Enhance your abilities, upgrade your weapon and amass perks to create powerful and unique builds for each playthrough. The progression grid randomly generates with different perks in every run, adding an exciting layer of replayability.","url":"https://store.steampowered.com/app/2347550/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1839,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":11438,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":790,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":18234,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2074,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2074,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.372750173394452,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":111,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.288288,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_8ba4a62849534c45f837d5003a9863e61373c8a7.1920x1080.jpg?t=1776966112","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_8ba4a62849534c45f837d5003a9863e61373c8a7.1920x1080.jpg?t=1776966112","alt":"牛仔3030 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_c95fef54ea860eddc973b6f05c9e3f21fb0b5f01.1920x1080.jpg?t=1776966112","alt":"牛仔3030 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_a6193849e926197e5d31a365f35ce4d4e6b0b505.1920x1080.jpg?t=1776966112","alt":"牛仔3030 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_99f01799c46e924ce3abc772c78f3fb48a070a47.1920x1080.jpg?t=1776966112","alt":"牛仔3030 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Cowboy 3030",
+    "developers": [
+      "Soy Boy Games"
+    ],
+    "publishers": [
+      "Soy Boy Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-13",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "弹幕射击",
+      "在线合作",
+      "多人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "躲狙击精准弹与Boss红色激光的3D弹幕枪战",
+      "dimension": "玩法",
+      "excerpt": "Avoid fast and precise shots from snipers, dash thru waves of red lasers from bosses. Every enemy has different attack patterns keeping you on your toes.",
+      "url": "https://store.steampowered.com/app/2347550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "英雄以左轮、电索、闪光弹或狙击套组形成差异打法",
+      "dimension": "玩法",
+      "excerpt": "Master Calix's close-range revolver, electrify multiple foes with the Electro Lasso, and blind enemies with the Flash Bang for an aggressive approach. Wield Keri's long-range marksman rifle, amplify shots with the Electro Screen, and unleash devastation from afar with the Bowling Bomb.",
+      "url": "https://store.steampowered.com/app/2347550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每局随机生成perk进度网格塑造独特构筑",
+      "dimension": "玩法",
+      "excerpt": "Enhance your abilities, upgrade your weapon and amass perks to create powerful and unique builds for each playthrough. The progression grid randomly generates with different perks in every run, adding an exciting layer of replayability.",
+      "url": "https://store.steampowered.com/app/2347550/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2097,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 11506,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 787,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 19354,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2366,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2366,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.396994885079185,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 93,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.392857,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "牛仔3030位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_8ba4a62849534c45f837d5003a9863e61373c8a7.1920x1080.jpg?t=1776966112",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_8ba4a62849534c45f837d5003a9863e61373c8a7.1920x1080.jpg?t=1776966112",
+        "alt": "牛仔3030 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_c95fef54ea860eddc973b6f05c9e3f21fb0b5f01.1920x1080.jpg?t=1776966112",
+        "alt": "牛仔3030 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_a6193849e926197e5d31a365f35ce4d4e6b0b505.1920x1080.jpg?t=1776966112",
+        "alt": "牛仔3030 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_99f01799c46e924ce3abc772c78f3fb48a070a47.1920x1080.jpg?t=1776966112",
+        "alt": "牛仔3030 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_599ba47c31bfdcc1fc1e0c7496857d07f3aa962c.1920x1080.jpg?t=1776966112",
+        "alt": "牛仔3030 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347550/ss_debaec9d1341a231185018e5618795e90bca9995.1920x1080.jpg?t=1776966112",
+        "alt": "牛仔3030 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,308 @@
-{"identity":{"original_title":"CRUEL","developers":["James Dornan"],"publishers":["James Dornan"],"release_status":"released","release_date":"2025-01-09","tags":["动作","第一人称","类Rogue","程序生成","射击"]},"hooks":[{"text":"穿越十个动态变化关卡，连建筑本身都会追逐并吞噬玩家","dimension":"玩法","excerpt":"Survive a Living Nightmare: Battle through 10 dynamic, ever-changing levels filled with bloodthirsty enemies who won’t stop until you’re dead. The building itself is your enemy and it’s trying to consume you.","url":"https://store.steampowered.com/app/2689470/","label":"证据原文片段"},{"text":"高速奔跑中收集兼具回血与货币功能的罐头，囤积后释放毁灭攻击","dimension":"玩法","excerpt":"Run, Fight, and Adapt: Speed is your only ally as you race against a constantly shifting environment. Keep an eye out for cans , which serve as both health boosts and currency for powerful upgrades. Stack them up and unleash a devastating attack when you need it most.","url":"https://store.steampowered.com/app/2689470/","label":"证据原文片段"},{"text":"用强硬电子节拍与侵略性合成器强化混乱超现实的恐怖氛围","dimension":"画风","excerpt":"Pulse-Pounding OST: Feel the adrenaline surge with a hard-hitting electronic soundtrack that keeps you on edge. The relentless beats and aggressive synths mirror the intensity of the gameplay, immersing you deeper into the chaotic, surreal world of CRUEL .","url":"https://store.steampowered.com/app/2689470/","label":"证据原文片段"}],"opinions":[{"text":"游戏视觉效果很棒。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"this game looks amazing","url":"https://steamcommunity.com/profiles/76561199490558788/recommended/2689470/","label":"证据原文片段"}]},{"text":"内容流程仅约一小时。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"a very short experience taking about an hour to finish","url":"https://youtu.be/W_NC1_avqSw","label":"证据原文片段"}]},{"text":"陷阱与敌人生成会破坏冲锋节奏。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the traps, shadow creatures, crows and monkeys just kills all momentum","url":"https://steamcommunity.com/profiles/76561199490558788/recommended/2689470/","label":"证据原文片段"}]},{"text":"高速转动镜头容易导致眩晕。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"各种高速转视角很有可能让你头晕脑胀","url":"https://steamcommunity.com/profiles/76561198164709459/recommended/2689470/","label":"证据原文片段"}]},{"text":"门后生成爆炸敌人令人恼火。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"spawning an explosive enemy on the other side of the door is lame","url":"https://steamcommunity.com/profiles/76561198215346008/recommended/2689470/","label":"证据原文片段"}]},{"text":"无尽模式后期每层过长，体验熬人。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"每一层都非常长不是说不能打只是太熬人","url":"https://steamcommunity.com/profiles/76561198164709459/recommended/2689470/","label":"证据原文片段"}]},{"text":"瞄准辅助只锁身体，实用性很差。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Aim assist is worthless. It aims for body shots only","url":"https://steamcommunity.com/profiles/76561199875380807/recommended/2689470/","label":"证据原文片段"}]},{"text":"近战武器缺乏吸引力。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游戏的近战武器就没那么出彩了","url":"https://steamcommunity.com/profiles/76561198164709459/recommended/2689470/","label":"证据原文片段"}]},{"text":"追逐火焰造成过强压力。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the fire feature makes it impossible for me to get good. It adds so much stress.","url":"https://steamcommunity.com/profiles/76561199875380807/recommended/2689470/","label":"证据原文片段"}]},{"text":"开局没有说明需要踢门。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it doesn't tell you to kick the door open","url":"https://steamcommunity.com/profiles/76561199875380807/recommended/2689470/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":61239,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":216061,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8313,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":573646,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":62660,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":62660,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.4666736399377673,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1821,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.225027,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["内容流程仅约一小时。","陷阱与敌人生成会破坏冲锋节奏。","高速转动镜头容易导致眩晕。","门后生成爆炸敌人令人恼火。","无尽模式后期每层过长，体验熬人。","瞄准辅助只锁身体，实用性很差。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_af61f71bf5583fb88820746272d4cf03a23508bd.1920x1080.jpg?t=1778986231","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_af61f71bf5583fb88820746272d4cf03a23508bd.1920x1080.jpg?t=1778986231","alt":"CRUEL 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_7fb2db7ae6fae8294be9a506ff6cf1e1daf41bb8.1920x1080.jpg?t=1778986231","alt":"CRUEL 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_982b0eb03b7d59a0fd8f84e0c818ce4ece94e75e.1920x1080.jpg?t=1778986231","alt":"CRUEL 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_15512abc9ba7b029682092f7f6b145eceb35ea42.1920x1080.jpg?t=1778986231","alt":"CRUEL 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "CRUEL",
+    "developers": [
+      "James Dornan"
+    ],
+    "publishers": [
+      "James Dornan"
+    ],
+    "release_status": "released",
+    "release_date": "2025-01-09",
+    "tags": [
+      "动作",
+      "第一人称",
+      "类Rogue",
+      "轻度Rogue",
+      "程序生成"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "穿越十个动态变化关卡，连建筑本身都会追逐并吞噬玩家",
+      "dimension": "玩法",
+      "excerpt": "Survive a Living Nightmare: Battle through 10 dynamic, ever-changing levels filled with bloodthirsty enemies who won’t stop until you’re dead. The building itself is your enemy and it’s trying to consume you.",
+      "url": "https://store.steampowered.com/app/2689470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "高速奔跑中收集兼具回血与货币功能的罐头，囤积后释放毁灭攻击",
+      "dimension": "玩法",
+      "excerpt": "Run, Fight, and Adapt: Speed is your only ally as you race against a constantly shifting environment. Keep an eye out for cans , which serve as both health boosts and currency for powerful upgrades. Stack them up and unleash a devastating attack when you need it most.",
+      "url": "https://store.steampowered.com/app/2689470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用强硬电子节拍与侵略性合成器强化混乱超现实的恐怖氛围",
+      "dimension": "画风",
+      "excerpt": "Pulse-Pounding OST: Feel the adrenaline surge with a hard-hitting electronic soundtrack that keeps you on edge. The relentless beats and aggressive synths mirror the intensity of the gameplay, immersing you deeper into the chaotic, surreal world of CRUEL .",
+      "url": "https://store.steampowered.com/app/2689470/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "游戏视觉效果很棒。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "this game looks amazing",
+          "url": "https://steamcommunity.com/profiles/76561199490558788/recommended/2689470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "内容流程仅约一小时。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a very short experience taking about an hour to finish",
+          "url": "https://youtu.be/W_NC1_avqSw",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "陷阱与敌人生成会破坏冲锋节奏。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the traps, shadow creatures, crows and monkeys just kills all momentum",
+          "url": "https://steamcommunity.com/profiles/76561199490558788/recommended/2689470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高速转动镜头容易导致眩晕。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "各种高速转视角很有可能让你头晕脑胀",
+          "url": "https://steamcommunity.com/profiles/76561198164709459/recommended/2689470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "门后生成爆炸敌人令人恼火。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "spawning an explosive enemy on the other side of the door is lame",
+          "url": "https://steamcommunity.com/profiles/76561198215346008/recommended/2689470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "无尽模式后期每层过长，体验熬人。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "每一层都非常长不是说不能打只是太熬人",
+          "url": "https://steamcommunity.com/profiles/76561198164709459/recommended/2689470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "瞄准辅助只锁身体，实用性很差。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Aim assist is worthless. It aims for body shots only",
+          "url": "https://steamcommunity.com/profiles/76561199875380807/recommended/2689470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "近战武器缺乏吸引力。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游戏的近战武器就没那么出彩了",
+          "url": "https://steamcommunity.com/profiles/76561198164709459/recommended/2689470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "追逐火焰造成过强压力。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the fire feature makes it impossible for me to get good. It adds so much stress.",
+          "url": "https://steamcommunity.com/profiles/76561199875380807/recommended/2689470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "开局没有说明需要踢门。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it doesn't tell you to kick the door open",
+          "url": "https://steamcommunity.com/profiles/76561199875380807/recommended/2689470/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 62416,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 216064,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8344,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 547567,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 63816,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 63816,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.025720684591598,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1792,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.194384,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "内容流程仅约一小时。",
+    "陷阱与敌人生成会破坏冲锋节奏。",
+    "高速转动镜头容易导致眩晕。",
+    "门后生成爆炸敌人令人恼火。",
+    "无尽模式后期每层过长，体验熬人。",
+    "瞄准辅助只锁身体，实用性很差。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "CRUEL位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_af61f71bf5583fb88820746272d4cf03a23508bd.1920x1080.jpg?t=1778986231",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_af61f71bf5583fb88820746272d4cf03a23508bd.1920x1080.jpg?t=1778986231",
+        "alt": "CRUEL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_7fb2db7ae6fae8294be9a506ff6cf1e1daf41bb8.1920x1080.jpg?t=1778986231",
+        "alt": "CRUEL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_982b0eb03b7d59a0fd8f84e0c818ce4ece94e75e.1920x1080.jpg?t=1778986231",
+        "alt": "CRUEL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_15512abc9ba7b029682092f7f6b145eceb35ea42.1920x1080.jpg?t=1778986231",
+        "alt": "CRUEL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_fea2336368e4e75e46dc31ed8654050f896130f2.1920x1080.jpg?t=1778986231",
+        "alt": "CRUEL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689470/ss_fdc1f4209c92146fc0ac6d0a901cbc0816372ebe.1920x1080.jpg?t=1778986231",
+        "alt": "CRUEL 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

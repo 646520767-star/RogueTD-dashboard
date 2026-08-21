@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Dread Dawn","developers":["Kioop"],"publishers":["Kioop"],"release_status":"released","release_date":"2024-09-30","tags":["僵尸","生存","探索","沙盒","开放世界"]},"hooks":[{"text":"扮演错过撤离的学生，与同学和幸存者守住学校等待救援","dimension":"故事","excerpt":"You play as a student left behind due to missing the evacuation convoy. Together with classmates and other survivors, you must defend the school, survive, and await rescue.","url":"https://store.steampowered.com/app/2093920/","label":"证据原文片段"},{"text":"收集材料建设并强化校园营地，防备会趁松懈入侵的尸群","dimension":"玩法","excerpt":"You need to stay in the school with the other survivors who remained in the city, defending your camp and surviving. Utilizing the various materials collected for construction can enhance your camp's defense capabilities. These zombies like to invade your camp when your attention is relaxed.","url":"https://store.steampowered.com/app/2093920/","label":"证据原文片段"},{"text":"在营地种粮养鸡维持生存，并把剩余作物与其他幸存者交易","dimension":"玩法","excerpt":"You can plant some food in the spare areas of your camp, or raise chickens to get eggs. In the absence of food sources, this is a necessary skill for ensuring survival. The surplus crops can also be used for trading with other survivors.","url":"https://store.steampowered.com/app/2093920/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":82685,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":500750,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":40004,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1086761,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":86941,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":86941,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.42756813618072,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2245,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":72,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":72.293987,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"僵尸、生存","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_71c27941c7172f57124df15d2bea3d5bc220b4f8.1920x1080.jpg?t=1756498473","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_71c27941c7172f57124df15d2bea3d5bc220b4f8.1920x1080.jpg?t=1756498473","alt":"灾变前夜 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_3db19f6ddfea2ec10345c3ce203a3e0a58b9e288.1920x1080.jpg?t=1756498473","alt":"灾变前夜 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_2f04e62cb0ac3d4510d4cefd6e2cc3f6248a1ac2.1920x1080.jpg?t=1756498473","alt":"灾变前夜 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_19f037bd8a3dcfb2dc3184ff1a469906ddedc702.1920x1080.jpg?t=1756498473","alt":"灾变前夜 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dread Dawn",
+    "developers": [
+      "Kioop"
+    ],
+    "publishers": [
+      "Kioop"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-30",
+    "tags": [
+      "僵尸",
+      "生存",
+      "探索",
+      "沙盒",
+      "开放世界"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "扮演错过撤离的学生，与同学和幸存者守住学校等待救援",
+      "dimension": "故事",
+      "excerpt": "You play as a student left behind due to missing the evacuation convoy. Together with classmates and other survivors, you must defend the school, survive, and await rescue.",
+      "url": "https://store.steampowered.com/app/2093920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集材料建设并强化校园营地，防备会趁松懈入侵的尸群",
+      "dimension": "玩法",
+      "excerpt": "You need to stay in the school with the other survivors who remained in the city, defending your camp and surviving. Utilizing the various materials collected for construction can enhance your camp's defense capabilities. These zombies like to invade your camp when your attention is relaxed.",
+      "url": "https://store.steampowered.com/app/2093920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在营地种粮养鸡维持生存，并把剩余作物与其他幸存者交易",
+      "dimension": "玩法",
+      "excerpt": "You can plant some food in the spare areas of your camp, or raise chickens to get eggs. In the absence of food sources, this is a necessary skill for ensuring survival. The surplus crops can also be used for trading with other survivors.",
+      "url": "https://store.steampowered.com/app/2093920/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 84286,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 502440,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 40031,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1090801,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 88576,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 88576,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.305469871500108,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2099,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 72,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 72.296099,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "灾变前夜位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_71c27941c7172f57124df15d2bea3d5bc220b4f8.1920x1080.jpg?t=1756498473",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_71c27941c7172f57124df15d2bea3d5bc220b4f8.1920x1080.jpg?t=1756498473",
+        "alt": "灾变前夜 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_3db19f6ddfea2ec10345c3ce203a3e0a58b9e288.1920x1080.jpg?t=1756498473",
+        "alt": "灾变前夜 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_2f04e62cb0ac3d4510d4cefd6e2cc3f6248a1ac2.1920x1080.jpg?t=1756498473",
+        "alt": "灾变前夜 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_19f037bd8a3dcfb2dc3184ff1a469906ddedc702.1920x1080.jpg?t=1756498473",
+        "alt": "灾变前夜 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_b64624ab36de33718e9ba93831707f08b2001bda.1920x1080.jpg?t=1756498473",
+        "alt": "灾变前夜 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_4b4270479a674687f0f81fcf2af94d3ab6fba58e.1920x1080.jpg?t=1756498473",
+        "alt": "灾变前夜 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_ac6f32e9016ee3547adbced2b7c93166b6c4f05c.1920x1080.jpg?t=1756498473",
+        "alt": "灾变前夜 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093920/ss_e76e2f8bf6416ad0a8da513db9c0c346deab9ef3.1920x1080.jpg?t=1756498473",
+        "alt": "灾变前夜 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

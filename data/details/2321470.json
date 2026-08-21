@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Deep Rock Galactic: Survivor","developers":["Funday Games"],"publishers":["Ghost Ship Publishing"],"release_status":"released","release_date":"2025-09-17","tags":["动作肉鸽","轻度Rogue","弹幕射击","俯视角射击","玩家对环境"]},"hooks":[{"text":"自动开火中边逃命边挖矿","dimension":"玩法","excerpt":"With the auto-shooter gameplay, you don’t worry about aiming and firing – just run and mine for your life, as you automatically blast away.","url":"https://store.steampowered.com/app/2321470/","label":"证据原文片段"},{"text":"程序洞穴与敌潮每次重组","dimension":"玩法","excerpt":"Each mission is entirely unique with its own procedural cave generation and enemy waves, just as you've come to know from Deep Rock Galactic.","url":"https://store.steampowered.com/app/2321470/","label":"证据原文片段"},{"text":"完成公司目标后限时撤离","dimension":"玩法","excerpt":"Complete the mission objectives set forth by the Company, and make it back to the Drop Pod in time to try your luck at even more deadly and lucrative encounters.","url":"https://store.steampowered.com/app/2321470/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2277153,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":832468,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":88729,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":17923543,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2343054,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2343054,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":26.99067506641478,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":47934,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.280971,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_7580f5af5c21da17f7b19b92ca6c6acf8ffb4776.1920x1080.jpg?t=1780935538","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_7580f5af5c21da17f7b19b92ca6c6acf8ffb4776.1920x1080.jpg?t=1780935538","alt":"深岩银河：幸存者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/8823cd46d53efa2bf15862c35ab511937e5cc1c6/ss_8823cd46d53efa2bf15862c35ab511937e5cc1c6.1920x1080.jpg?t=1780935538","alt":"深岩银河：幸存者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_8dc842e7bd24f6acfffc799117a1513589e02778.1920x1080.jpg?t=1780935538","alt":"深岩银河：幸存者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_abb2df34612b560519fcea9e62ef9ce0cd09d256.1920x1080.jpg?t=1780935538","alt":"深岩银河：幸存者 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Deep Rock Galactic: Survivor",
+    "developers": [
+      "Funday Games"
+    ],
+    "publishers": [
+      "Ghost Ship Publishing"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-17",
+    "tags": [
+      "动作肉鸽",
+      "动作肉鸽",
+      "动作肉鸽",
+      "轻度Rogue",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "自动开火中边逃命边挖矿",
+      "dimension": "玩法",
+      "excerpt": "With the auto-shooter gameplay, you don’t worry about aiming and firing – just run and mine for your life, as you automatically blast away.",
+      "url": "https://store.steampowered.com/app/2321470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "程序洞穴与敌潮每次重组",
+      "dimension": "玩法",
+      "excerpt": "Each mission is entirely unique with its own procedural cave generation and enemy waves, just as you've come to know from Deep Rock Galactic.",
+      "url": "https://store.steampowered.com/app/2321470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "完成公司目标后限时撤离",
+      "dimension": "玩法",
+      "excerpt": "Complete the mission objectives set forth by the Company, and make it back to the Drop Pod in time to try your luck at even more deadly and lucrative encounters.",
+      "url": "https://store.steampowered.com/app/2321470/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2283968,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 836124,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 88849,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 17941421,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2349930,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2349930,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 27.367381662543885,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 46128,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.257048,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "深岩银河：幸存者位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_7580f5af5c21da17f7b19b92ca6c6acf8ffb4776.1920x1080.jpg?t=1780935538",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_7580f5af5c21da17f7b19b92ca6c6acf8ffb4776.1920x1080.jpg?t=1780935538",
+        "alt": "深岩银河：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/8823cd46d53efa2bf15862c35ab511937e5cc1c6/ss_8823cd46d53efa2bf15862c35ab511937e5cc1c6.1920x1080.jpg?t=1780935538",
+        "alt": "深岩银河：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_8dc842e7bd24f6acfffc799117a1513589e02778.1920x1080.jpg?t=1780935538",
+        "alt": "深岩银河：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_abb2df34612b560519fcea9e62ef9ce0cd09d256.1920x1080.jpg?t=1780935538",
+        "alt": "深岩银河：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_c36f89fa1bfdc8ac2ef3a5fd4eee4e362da8614c.1920x1080.jpg?t=1780935538",
+        "alt": "深岩银河：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ed4969562fe30b76429ea11fe66de0edbb77f1da/ss_ed4969562fe30b76429ea11fe66de0edbb77f1da.1920x1080.jpg?t=1780935538",
+        "alt": "深岩银河：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_cee129fc32e71bb4182e6131bb3d12ac5a7c3fd0.1920x1080.jpg?t=1780935538",
+        "alt": "深岩银河：幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_cc4f43ee2737dd2ff19865b0acf864021c2b2309.1920x1080.jpg?t=1780935538",
+        "alt": "深岩银河：幸存者 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

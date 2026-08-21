@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Go Mecha Ball","developers":["Whale Peak Games"],"publishers":["Super Rare Originals"],"release_status":"released","release_date":"2024-01-25","tags":["清版射击","街机","类Rogue","弹幕射击","竞技场射击"]},"hooks":[{"text":"机甲步行射击与球形滚撞双形态切换","dimension":"玩法","excerpt":"Experience the dual gameplay of walking and shooting as a mech, or rolling and bumping as a ball","url":"https://store.steampowered.com/app/2008510/","label":"证据原文片段"},{"text":"坡道、弹跳器与风场组成弹球式机动场","dimension":"玩法","excerpt":"Soar above the chaos by boosting up ramps, bounce off lively bumpers, or ride the updraft from giant fans, adding a layer of dynamic movement to your chosen strategy.","url":"https://store.steampowered.com/app/2008510/","label":"证据原文片段"},{"text":"50种以上升级塑造个性化机甲战斗","dimension":"玩法","excerpt":"Enhance your mechs with a vast array of more than 50 upgrades, creating a truly personalized combat experience.","url":"https://store.steampowered.com/app/2008510/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":10407,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":55921,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2745,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":144745,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":12008,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":12008,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.008997193154626,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":457,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.43326,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"清版射击、街机","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_83cb67d9d24041f70b6d4251bbb4048f84f59dbd.1920x1080.jpg?t=1770294881","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_83cb67d9d24041f70b6d4251bbb4048f84f59dbd.1920x1080.jpg?t=1770294881","alt":"进击的机甲球 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_2036754b1407427c380369c9499844626bcd4cbe.1920x1080.jpg?t=1770294881","alt":"进击的机甲球 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_e6789d40fcd982309c9b733fa5b8effb74f6d01c.1920x1080.jpg?t=1770294881","alt":"进击的机甲球 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_986ce7844802bab3d4535ee357358559f7f166e6.1920x1080.jpg?t=1770294881","alt":"进击的机甲球 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Go Mecha Ball",
+    "developers": [
+      "Whale Peak Games"
+    ],
+    "publishers": [
+      "Super Rare Originals"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-25",
+    "tags": [
+      "清版射击",
+      "轻度Rogue",
+      "街机",
+      "类Rogue",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "机甲步行射击与球形滚撞双形态切换",
+      "dimension": "玩法",
+      "excerpt": "Experience the dual gameplay of walking and shooting as a mech, or rolling and bumping as a ball",
+      "url": "https://store.steampowered.com/app/2008510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "坡道、弹跳器与风场组成弹球式机动场",
+      "dimension": "玩法",
+      "excerpt": "Soar above the chaos by boosting up ramps, bounce off lively bumpers, or ride the updraft from giant fans, adding a layer of dynamic movement to your chosen strategy.",
+      "url": "https://store.steampowered.com/app/2008510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "50种以上升级塑造个性化机甲战斗",
+      "dimension": "玩法",
+      "excerpt": "Enhance your mechs with a vast array of more than 50 upgrades, creating a truly personalized combat experience.",
+      "url": "https://store.steampowered.com/app/2008510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 11325,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 54974,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2743,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 145377,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 13076,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 13076,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.980305464219202,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 372,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.304348,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "进击的机甲球位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_83cb67d9d24041f70b6d4251bbb4048f84f59dbd.1920x1080.jpg?t=1770294881",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_83cb67d9d24041f70b6d4251bbb4048f84f59dbd.1920x1080.jpg?t=1770294881",
+        "alt": "进击的机甲球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_2036754b1407427c380369c9499844626bcd4cbe.1920x1080.jpg?t=1770294881",
+        "alt": "进击的机甲球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_e6789d40fcd982309c9b733fa5b8effb74f6d01c.1920x1080.jpg?t=1770294881",
+        "alt": "进击的机甲球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_986ce7844802bab3d4535ee357358559f7f166e6.1920x1080.jpg?t=1770294881",
+        "alt": "进击的机甲球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_2c87b1d48bf481a5b00127c4d4f0bae583cd01e2.1920x1080.jpg?t=1770294881",
+        "alt": "进击的机甲球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_d124b03491818a95695b36498a4b2c9d0f2aa46c.1920x1080.jpg?t=1770294881",
+        "alt": "进击的机甲球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_99e1e3c943b55485b7f31ffb2aecc7c5414dca86.1920x1080.jpg?t=1770294881",
+        "alt": "进击的机甲球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008510/ss_7a7be6b4e51633687a37353154e529d5a331c052.1920x1080.jpg?t=1770294881",
+        "alt": "进击的机甲球 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Flock of Dogs","developers":["Max Clark"],"publishers":["Max Clark"],"release_status":"released","release_date":"2024-12-17","tags":["动作肉鸽","合作","本地合作","在线合作","轻度Rogue"]},"hooks":[{"text":"骑着住在飞鲸上的飞狗，与朋友穿越手绘、程序生成的苏斯式天空旅程","dimension":"画风","excerpt":"In Flock of Dogs, ride flying dogs that live on a flying whale. Together with your friends, go on a hand-drawn, procedurally-generated, Dr. Seussian, roguelike road trip through the sky.","url":"https://store.steampowered.com/app/812380/","label":"证据原文片段"},{"text":"喂养并升级狗群，以飞鲸作为移动战斗站，再下洞穴挑战巨型兽王","dimension":"玩法","excerpt":"Feed, water, and level up your dogs Pilot a flying whale that acts as your mobile battle station Descend into caves to fight boss battles against massive Cave Beasts","url":"https://store.steampowered.com/app/812380/","label":"证据原文片段"},{"text":"购买者提供免费好友席位，多个拥有者还能叠加席位组成四人队伍","dimension":"玩法","excerpt":"A Friend Slot allows one of your online friends to join you for free! Anyone can download the \"Flock of Dogs - Friend's Pass\" and then join the game of someone who purchased Flock of Dogs. One Friend Slot comes with purchase Invite any friend (and each time, it can be a different friend) Friend Slots stack, so if two people own the game and are playing together, 2 more friends can join them using the Friend's Pass to make a team of 4.","url":"https://store.steampowered.com/app/812380/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":701,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":430,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6302,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9943,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9943,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.4741148854417419,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":112,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.714286,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_ef2f0b134388e08fa5c09cc71cb0e8caf8bcb599.1920x1080.jpg?t=1736484111","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_ef2f0b134388e08fa5c09cc71cb0e8caf8bcb599.1920x1080.jpg?t=1736484111","alt":"Flock of Dogs 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_afac24d39a3cf83a25977709ea53dc57748ac599.1920x1080.jpg?t=1736484111","alt":"Flock of Dogs 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_617db250978ab289040ae75db4a7fef206467252.1920x1080.jpg?t=1736484111","alt":"Flock of Dogs 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_323bede0343161660d88fcb8d814685a07bfb30c.1920x1080.jpg?t=1736484111","alt":"Flock of Dogs 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Flock of Dogs",
+    "developers": [
+      "Max Clark"
+    ],
+    "publishers": [
+      "Max Clark"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-17",
+    "tags": [
+      "动作肉鸽",
+      "合作",
+      "本地合作",
+      "在线合作",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "骑着住在飞鲸上的飞狗，与朋友穿越手绘、程序生成的苏斯式天空旅程",
+      "dimension": "画风",
+      "excerpt": "In Flock of Dogs, ride flying dogs that live on a flying whale. Together with your friends, go on a hand-drawn, procedurally-generated, Dr. Seussian, roguelike road trip through the sky.",
+      "url": "https://store.steampowered.com/app/812380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "喂养并升级狗群，以飞鲸作为移动战斗站，再下洞穴挑战巨型兽王",
+      "dimension": "玩法",
+      "excerpt": "Feed, water, and level up your dogs Pilot a flying whale that acts as your mobile battle station Descend into caves to fight boss battles against massive Cave Beasts",
+      "url": "https://store.steampowered.com/app/812380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "购买者提供免费好友席位，多个拥有者还能叠加席位组成四人队伍",
+      "dimension": "玩法",
+      "excerpt": "A Friend Slot allows one of your online friends to join you for free! Anyone can download the \"Flock of Dogs - Friend's Pass\" and then join the game of someone who purchased Flock of Dogs. One Friend Slot comes with purchase Invite any friend (and each time, it can be a different friend) Friend Slots stack, so if two people own the game and are playing together, 2 more friends can join them using the Friend's Pass to make a team of 4.",
+      "url": "https://store.steampowered.com/app/812380/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 701,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 430,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 6302,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 9965,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 9965,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.471975503149525,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.714286,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Flock of Dogs位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_ef2f0b134388e08fa5c09cc71cb0e8caf8bcb599.1920x1080.jpg?t=1736484111",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_ef2f0b134388e08fa5c09cc71cb0e8caf8bcb599.1920x1080.jpg?t=1736484111",
+        "alt": "Flock of Dogs 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_afac24d39a3cf83a25977709ea53dc57748ac599.1920x1080.jpg?t=1736484111",
+        "alt": "Flock of Dogs 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_617db250978ab289040ae75db4a7fef206467252.1920x1080.jpg?t=1736484111",
+        "alt": "Flock of Dogs 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_323bede0343161660d88fcb8d814685a07bfb30c.1920x1080.jpg?t=1736484111",
+        "alt": "Flock of Dogs 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_6639819b37105a358468a56980379deffe6bcbfe.1920x1080.jpg?t=1736484111",
+        "alt": "Flock of Dogs 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_12344cc7c9b19f0e1f1326873e36e1982098767a.1920x1080.jpg?t=1736484111",
+        "alt": "Flock of Dogs 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_1adcfab68f13cdcd445b0635489c81b0ddf670c1.1920x1080.jpg?t=1736484111",
+        "alt": "Flock of Dogs 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812380/ss_991f96416deb4617e4f2bcff17509508e66c8384.1920x1080.jpg?t=1736484111",
+        "alt": "Flock of Dogs 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

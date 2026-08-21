@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Coal LLC","developers":["Bye Bye Ocean"],"publishers":["Bye Bye Ocean"],"release_status":"released","release_date":"2025-09-11","tags":["经营管理","轻度Rogue","类Rogue","永久死亡","二维画面"]},"hooks":[{"text":"地下资源每天刷新，必须赶在夜幕前尽可能向深处抢挖","dimension":"玩法","excerpt":"The underground world magically refreshes each day, so you must race to mine as much of it and as deeply as you can before nightfall.","url":"https://store.steampowered.com/app/3361510/","label":"证据原文片段"},{"text":"员工规模可膨胀到数十亿，并晋升为带专属加成的专业岗位","dimension":"玩法","excerpt":"Hire BILLIONS of employees. You heard that right. Hire and promote employees into specialised roles in your organisation, each type having exciting and game-changing bonuses and equipment. Grow your organisation into hundreds, thousands, millions and even billions of miners willing to go out and bring back coal for the cause.","url":"https://store.steampowered.com/app/3361510/","label":"证据原文片段"},{"text":"四种强化困难修正器按职业颁发存活徽章","dimension":"玩法","excerpt":"Challenge yourself to one of four (so far) enhanced difficulty modes and earn in-game badges for surviving with each profession.","url":"https://store.steampowered.com/app/3361510/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":117410,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":76258,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4019,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1426487,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":118331,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":118331,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":21.169137029238144,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1259,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.545599,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"经营管理、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/b4067495d7d27dcca58a5e2302d3b603e17b8106/ss_b4067495d7d27dcca58a5e2302d3b603e17b8106.1920x1080.jpg?t=1776327387","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/b4067495d7d27dcca58a5e2302d3b603e17b8106/ss_b4067495d7d27dcca58a5e2302d3b603e17b8106.1920x1080.jpg?t=1776327387","alt":"Coal LLC 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/e888d4b80e762fe681aed7d24318e88238d92acb/ss_e888d4b80e762fe681aed7d24318e88238d92acb.1920x1080.jpg?t=1776327387","alt":"Coal LLC 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/ccd46dd557cd74d269b39880eed86215df5d4d90/ss_ccd46dd557cd74d269b39880eed86215df5d4d90.1920x1080.jpg?t=1776327387","alt":"Coal LLC 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/6273b69e131ad0b10185d1f644857280feb8bc37/ss_6273b69e131ad0b10185d1f644857280feb8bc37.1920x1080.jpg?t=1776327387","alt":"Coal LLC 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Coal LLC",
+    "developers": [
+      "Bye Bye Ocean"
+    ],
+    "publishers": [
+      "Bye Bye Ocean"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-11",
+    "tags": [
+      "经营管理",
+      "轻度Rogue",
+      "休闲",
+      "经营管理",
+      "经营管理"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "地下资源每天刷新，必须赶在夜幕前尽可能向深处抢挖",
+      "dimension": "玩法",
+      "excerpt": "The underground world magically refreshes each day, so you must race to mine as much of it and as deeply as you can before nightfall.",
+      "url": "https://store.steampowered.com/app/3361510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "员工规模可膨胀到数十亿，并晋升为带专属加成的专业岗位",
+      "dimension": "玩法",
+      "excerpt": "Hire BILLIONS of employees. You heard that right. Hire and promote employees into specialised roles in your organisation, each type having exciting and game-changing bonuses and equipment. Grow your organisation into hundreds, thousands, millions and even billions of miners willing to go out and bring back coal for the cause.",
+      "url": "https://store.steampowered.com/app/3361510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四种强化困难修正器按职业颁发存活徽章",
+      "dimension": "玩法",
+      "excerpt": "Challenge yourself to one of four (so far) enhanced difficulty modes and earn in-game badges for surviving with each profession.",
+      "url": "https://store.steampowered.com/app/3361510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 122022,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 77989,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4084,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1481574,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 122938,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 122938,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 21.294437767575452,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1300,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.547529,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Coal LLC位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/b4067495d7d27dcca58a5e2302d3b603e17b8106/ss_b4067495d7d27dcca58a5e2302d3b603e17b8106.1920x1080.jpg?t=1776327387",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/b4067495d7d27dcca58a5e2302d3b603e17b8106/ss_b4067495d7d27dcca58a5e2302d3b603e17b8106.1920x1080.jpg?t=1776327387",
+        "alt": "Coal LLC 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/e888d4b80e762fe681aed7d24318e88238d92acb/ss_e888d4b80e762fe681aed7d24318e88238d92acb.1920x1080.jpg?t=1776327387",
+        "alt": "Coal LLC 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/ccd46dd557cd74d269b39880eed86215df5d4d90/ss_ccd46dd557cd74d269b39880eed86215df5d4d90.1920x1080.jpg?t=1776327387",
+        "alt": "Coal LLC 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/6273b69e131ad0b10185d1f644857280feb8bc37/ss_6273b69e131ad0b10185d1f644857280feb8bc37.1920x1080.jpg?t=1776327387",
+        "alt": "Coal LLC 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/0c2459a9087ce13df5d426196a0803f273e5e331/ss_0c2459a9087ce13df5d426196a0803f273e5e331.1920x1080.jpg?t=1776327387",
+        "alt": "Coal LLC 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/7f1f8f3fba6f7d978782c976ac069ba336a47604/ss_7f1f8f3fba6f7d978782c976ac069ba336a47604.1920x1080.jpg?t=1776327387",
+        "alt": "Coal LLC 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/10bf3320f8d4c6d19f6a8eb00d4a1405c47a5802/ss_10bf3320f8d4c6d19f6a8eb00d4a1405c47a5802.1920x1080.jpg?t=1776327387",
+        "alt": "Coal LLC 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/1bd3091650489afb150ff3fd9252010a6697648b/ss_1bd3091650489afb150ff3fd9252010a6697648b.1920x1080.jpg?t=1776327387",
+        "alt": "Coal LLC 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

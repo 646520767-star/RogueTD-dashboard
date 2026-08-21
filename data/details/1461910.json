@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Rogue Command","developers":["feneq"],"publishers":["feneq"],"release_status":"released","release_date":"2026-05-14","tags":["即时战略","科幻","程序生成","轻度Rogue","未来主义"]},"hooks":[{"text":"经典RTS每局换规则，并可降至10%时间精确下令","dimension":"玩法","excerpt":"Rogue Command is a single-player RTS that plays like the classics that defined the genre. Control your units, build your base, harvest resources, explore the map, defend positions and come up with a plan of attack . But now with every run the rules of the battlefield change and each battle is an opportunity to discover new ways to play. And when the action gets overwhelming, you can slow down time to 10% at any moment, allowing you to give orders with bullet-time precision .","url":"https://store.steampowered.com/app/1461910/","label":"证据原文片段"},{"text":"蓝图、升级与Hack共同改写军队规则","dimension":"玩法","excerpt":"Blueprints add a new building to your Engineer's construction database: Unit factories , defensive turrets , healing spires or super weapons , the nuts and bolts of your army. Upgrades modify your blueprints. Make units stronger. Or add new traits to make them part of an emerging synergy.","url":"https://store.steampowered.com/app/1461910/","label":"证据原文片段"},{"text":"日暴、雷暴与沙暴会临场改写战斗机制","dimension":"玩法","excerpt":"And conditions can suddenly shift: Sunstorms disable all shields on friend or foe. Thunderstorms extinguish fires. Sandstorms diminish the range of attacks.","url":"https://store.steampowered.com/app/1461910/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":36664,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":106758,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9544,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":539883,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":37124,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":37124,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":17.25847415402982,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":961,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.855072,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"即时战略、科幻","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/9b993da2029afbcae309c99a8de34e6cb9229f94/ss_9b993da2029afbcae309c99a8de34e6cb9229f94.1920x1080.jpg?t=1779052648","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/9b993da2029afbcae309c99a8de34e6cb9229f94/ss_9b993da2029afbcae309c99a8de34e6cb9229f94.1920x1080.jpg?t=1779052648","alt":"Rogue Command 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/28d8b6f6d9233106acc57992f6090a0691c1fa70/ss_28d8b6f6d9233106acc57992f6090a0691c1fa70.1920x1080.jpg?t=1779052648","alt":"Rogue Command 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/e4ffceb18cdc11b794171f0d24c54b6ba81d7f39/ss_e4ffceb18cdc11b794171f0d24c54b6ba81d7f39.1920x1080.jpg?t=1779052648","alt":"Rogue Command 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/9043a84d11dfcf64c043ac9b8ff337b5d81654ce/ss_9043a84d11dfcf64c043ac9b8ff337b5d81654ce.1920x1080.jpg?t=1779052648","alt":"Rogue Command 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Rogue Command",
+    "developers": [
+      "feneq"
+    ],
+    "publishers": [
+      "feneq"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-14",
+    "tags": [
+      "即时战略",
+      "即时战术",
+      "科幻",
+      "动作",
+      "程序生成"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "经典RTS每局换规则，并可降至10%时间精确下令",
+      "dimension": "玩法",
+      "excerpt": "Rogue Command is a single-player RTS that plays like the classics that defined the genre. Control your units, build your base, harvest resources, explore the map, defend positions and come up with a plan of attack . But now with every run the rules of the battlefield change and each battle is an opportunity to discover new ways to play. And when the action gets overwhelming, you can slow down time to 10% at any moment, allowing you to give orders with bullet-time precision .",
+      "url": "https://store.steampowered.com/app/1461910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "蓝图、升级与Hack共同改写军队规则",
+      "dimension": "玩法",
+      "excerpt": "Blueprints add a new building to your Engineer's construction database: Unit factories , defensive turrets , healing spires or super weapons , the nuts and bolts of your army. Upgrades modify your blueprints. Make units stronger. Or add new traits to make them part of an emerging synergy.",
+      "url": "https://store.steampowered.com/app/1461910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "日暴、雷暴与沙暴会临场改写战斗机制",
+      "dimension": "玩法",
+      "excerpt": "And conditions can suddenly shift: Sunstorms disable all shields on friend or foe. Thunderstorms extinguish fires. Sandstorms diminish the range of attacks.",
+      "url": "https://store.steampowered.com/app/1461910/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 37242,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 107391,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9661,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 562245,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 37740,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 37740,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 17.67342042967313,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 989,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.910979,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Rogue Command位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/9b993da2029afbcae309c99a8de34e6cb9229f94/ss_9b993da2029afbcae309c99a8de34e6cb9229f94.1920x1080.jpg?t=1779052648",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/9b993da2029afbcae309c99a8de34e6cb9229f94/ss_9b993da2029afbcae309c99a8de34e6cb9229f94.1920x1080.jpg?t=1779052648",
+        "alt": "Rogue Command 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/28d8b6f6d9233106acc57992f6090a0691c1fa70/ss_28d8b6f6d9233106acc57992f6090a0691c1fa70.1920x1080.jpg?t=1779052648",
+        "alt": "Rogue Command 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/e4ffceb18cdc11b794171f0d24c54b6ba81d7f39/ss_e4ffceb18cdc11b794171f0d24c54b6ba81d7f39.1920x1080.jpg?t=1779052648",
+        "alt": "Rogue Command 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/9043a84d11dfcf64c043ac9b8ff337b5d81654ce/ss_9043a84d11dfcf64c043ac9b8ff337b5d81654ce.1920x1080.jpg?t=1779052648",
+        "alt": "Rogue Command 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/ss_17a48b7ee6d2aca6f376bde83cea3780866436d5.1920x1080.jpg?t=1779052648",
+        "alt": "Rogue Command 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/ss_2723a10117acceb1eed879d639866c4d57f04119.1920x1080.jpg?t=1779052648",
+        "alt": "Rogue Command 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/ss_4c785b33a539daab6cf68843deb6f9422c9ac4ca.1920x1080.jpg?t=1779052648",
+        "alt": "Rogue Command 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461910/7af91aa28d308e00d4b1343cf45d15b393e7ffae/ss_7af91aa28d308e00d4b1343cf45d15b393e7ffae.1920x1080.jpg?t=1779052648",
+        "alt": "Rogue Command 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

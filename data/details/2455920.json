@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Mimic Logic","developers":["Nihohe Soft"],"publishers":["Nihohe Soft"],"release_status":"released","release_date":"2024-02-22","tags":["解谜","类Rogue","程序生成","奇幻","复古"]},"hooks":[{"text":"与宝箱交谈并比对它们的陈述，找出说谎的拟态怪后只开启安全宝箱；误开拟态怪会立即结束游戏","dimension":"玩法","excerpt":"Listen to what the boxes have to say, find the lying Mimics, and open up the remaining boxes to collect treasure! If you accidentally open up a Mimic, it's game over!","url":"https://store.steampowered.com/app/2455920/","label":"证据原文片段"},{"text":"从安全宝箱取得装备和道具，再把解谜收益转化为击败敌人、征服地牢的战斗能力","dimension":"玩法","excerpt":"Use the gear and items you've collected from treasure boxes to beat enemies and conquer the dungeon.","url":"https://store.steampowered.com/app/2455920/","label":"证据原文片段"},{"text":"每轮逻辑题都由程序重新生成，可反复面对新的宝箱证词组合","dimension":"玩法","excerpt":"The puzzles are procedurally generated, so you can solve them to your heart's content!","url":"https://store.steampowered.com/app/2455920/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":27618,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":25419,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1091,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":101775,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":28146,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":28146,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.299263390472094,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":559,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.857143,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"解谜、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_71684ccd9802830b614d1ce395d31ba459502101.1920x1080.jpg?t=1766096052","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_71684ccd9802830b614d1ce395d31ba459502101.1920x1080.jpg?t=1766096052","alt":"Mimic Logic 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_a55d65fff0658d5db0d128088143438cce8f2371.1920x1080.jpg?t=1766096052","alt":"Mimic Logic 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_f69bf52f1ec43303ea41c6be48e259218778a144.1920x1080.jpg?t=1766096052","alt":"Mimic Logic 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_288226c5f42a1b91ceb9d826dfc874f26cc78c21.1920x1080.jpg?t=1766096052","alt":"Mimic Logic 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Mimic Logic",
+    "developers": [
+      "Nihohe Soft"
+    ],
+    "publishers": [
+      "Nihohe Soft"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-22",
+    "tags": [
+      "解谜",
+      "类Rogue",
+      "程序生成",
+      "奇幻",
+      "复古"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "与宝箱交谈并比对它们的陈述，找出说谎的拟态怪后只开启安全宝箱；误开拟态怪会立即结束游戏",
+      "dimension": "玩法",
+      "excerpt": "Listen to what the boxes have to say, find the lying Mimics, and open up the remaining boxes to collect treasure! If you accidentally open up a Mimic, it's game over!",
+      "url": "https://store.steampowered.com/app/2455920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从安全宝箱取得装备和道具，再把解谜收益转化为击败敌人、征服地牢的战斗能力",
+      "dimension": "玩法",
+      "excerpt": "Use the gear and items you've collected from treasure boxes to beat enemies and conquer the dungeon.",
+      "url": "https://store.steampowered.com/app/2455920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮逻辑题都由程序重新生成，可反复面对新的宝箱证词组合",
+      "dimension": "玩法",
+      "excerpt": "The puzzles are procedurally generated, so you can solve them to your heart's content!",
+      "url": "https://store.steampowered.com/app/2455920/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 28963,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 25570,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1091,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 106740,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 29515,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 29515,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.298521465951943,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 547,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.864769,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Mimic Logic位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_71684ccd9802830b614d1ce395d31ba459502101.1920x1080.jpg?t=1766096052",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_71684ccd9802830b614d1ce395d31ba459502101.1920x1080.jpg?t=1766096052",
+        "alt": "Mimic Logic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_a55d65fff0658d5db0d128088143438cce8f2371.1920x1080.jpg?t=1766096052",
+        "alt": "Mimic Logic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_f69bf52f1ec43303ea41c6be48e259218778a144.1920x1080.jpg?t=1766096052",
+        "alt": "Mimic Logic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_288226c5f42a1b91ceb9d826dfc874f26cc78c21.1920x1080.jpg?t=1766096052",
+        "alt": "Mimic Logic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_16c47069c168ec797d15b5ce1b80dd6d3fd246bf.1920x1080.jpg?t=1766096052",
+        "alt": "Mimic Logic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_6a57ee01b477637169654c55938da6c74cccdd3c.1920x1080.jpg?t=1766096052",
+        "alt": "Mimic Logic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_dbccd53bd4f794214503588a4bc0573be1d2cd0e.1920x1080.jpg?t=1766096052",
+        "alt": "Mimic Logic 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Carmageddon: Rogue Shift","developers":["34BigThings srl"],"publishers":["34BigThings srl"],"release_status":"released","release_date":"2026-02-06","tags":["高难度","轻度Rogue","动作肉鸽","三维画面","类Rogue"]},"hooks":[{"text":"驾驶不只靠撞击，还能推挤、加速冲撞和侧顶，把赛车变成贴身金属格斗。","dimension":"玩法","excerpt":"Metal‑on‑metal car combat – crash, shove, boost and side‑bash rivals","url":"https://store.steampowered.com/app/1712100/","label":"证据原文片段"},{"text":"在随机路线图上规划商店落点，途中修车、换武器并安装80余种可解锁特性。","dimension":"玩法","excerpt":"Strategically plan your route so you can reach Shops. In these safe havens you can repair your car, swap weapons, or install one of the 80+ unlockable perks.","url":"https://store.steampowered.com/app/1712100/","label":"证据原文片段"},{"text":"加速冲进赛道尸潮可以劈开人海，但一旦减速被围，废土变异者会徒手拆毁车辆。","dimension":"玩法","excerpt":"Boost into the hordes of humanoid husks swarming the track, parting the waves of Wasted like a Moses on wheels! But be careful not to get stuck in the high tide: too many Wasteds will surround your car and smash it to bits with the remains of their raw hands.","url":"https://store.steampowered.com/app/1712100/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":14803,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":144886,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":10265,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":483173,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":15947,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":15947,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.862110087099996,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":810,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":64,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":64.206642,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为64.206642%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/88c6a5371fd37d1fed2aade71f7f00874a60b2b8/ss_88c6a5371fd37d1fed2aade71f7f00874a60b2b8.1920x1080.jpg?t=1784640848","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/88c6a5371fd37d1fed2aade71f7f00874a60b2b8/ss_88c6a5371fd37d1fed2aade71f7f00874a60b2b8.1920x1080.jpg?t=1784640848","alt":"Carmageddon: Rogue Shift 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/ce0c7b3ae44e1edac8da31c85f37ad2e90523d41/ss_ce0c7b3ae44e1edac8da31c85f37ad2e90523d41.1920x1080.jpg?t=1784640848","alt":"Carmageddon: Rogue Shift 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/4a6b2ff561fdf97101fea67a05955db74a737154/ss_4a6b2ff561fdf97101fea67a05955db74a737154.1920x1080.jpg?t=1784640848","alt":"Carmageddon: Rogue Shift 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/b177c00c2031158922f42eb314717c348f356dfc/ss_b177c00c2031158922f42eb314717c348f356dfc.1920x1080.jpg?t=1784640848","alt":"Carmageddon: Rogue Shift 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Carmageddon: Rogue Shift",
+    "developers": [
+      "34BigThings srl"
+    ],
+    "publishers": [
+      "34BigThings srl"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-06",
+    "tags": [
+      "高难度",
+      "轻度Rogue",
+      "轻度Rogue",
+      "角色扮演",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "驾驶不只靠撞击，还能推挤、加速冲撞和侧顶，把赛车变成贴身金属格斗。",
+      "dimension": "玩法",
+      "excerpt": "Metal‑on‑metal car combat – crash, shove, boost and side‑bash rivals",
+      "url": "https://store.steampowered.com/app/1712100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在随机路线图上规划商店落点，途中修车、换武器并安装80余种可解锁特性。",
+      "dimension": "玩法",
+      "excerpt": "Strategically plan your route so you can reach Shops. In these safe havens you can repair your car, swap weapons, or install one of the 80+ unlockable perks.",
+      "url": "https://store.steampowered.com/app/1712100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "加速冲进赛道尸潮可以劈开人海，但一旦减速被围，废土变异者会徒手拆毁车辆。",
+      "dimension": "玩法",
+      "excerpt": "Boost into the hordes of humanoid husks swarming the track, parting the waves of Wasted like a Moses on wheels! But be careful not to get stuck in the high tide: too many Wasteds will surround your car and smash it to bits with the remains of their raw hands.",
+      "url": "https://store.steampowered.com/app/1712100/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 16364,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 145745,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 10317,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 528917,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 17649,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 17649,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.48125477928971,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 741,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 64,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 64.207981,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为64.206642%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Carmageddon: Rogue Shift位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/88c6a5371fd37d1fed2aade71f7f00874a60b2b8/ss_88c6a5371fd37d1fed2aade71f7f00874a60b2b8.1920x1080.jpg?t=1784640848",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/88c6a5371fd37d1fed2aade71f7f00874a60b2b8/ss_88c6a5371fd37d1fed2aade71f7f00874a60b2b8.1920x1080.jpg?t=1784640848",
+        "alt": "Carmageddon: Rogue Shift 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/ce0c7b3ae44e1edac8da31c85f37ad2e90523d41/ss_ce0c7b3ae44e1edac8da31c85f37ad2e90523d41.1920x1080.jpg?t=1784640848",
+        "alt": "Carmageddon: Rogue Shift 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/4a6b2ff561fdf97101fea67a05955db74a737154/ss_4a6b2ff561fdf97101fea67a05955db74a737154.1920x1080.jpg?t=1784640848",
+        "alt": "Carmageddon: Rogue Shift 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/b177c00c2031158922f42eb314717c348f356dfc/ss_b177c00c2031158922f42eb314717c348f356dfc.1920x1080.jpg?t=1784640848",
+        "alt": "Carmageddon: Rogue Shift 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/a5282adb73d868960565d46441054f965b9ae249/ss_a5282adb73d868960565d46441054f965b9ae249.1920x1080.jpg?t=1784640848",
+        "alt": "Carmageddon: Rogue Shift 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/28e38fda5533cff73333be4ba9af2ea3b480bdfe/ss_28e38fda5533cff73333be4ba9af2ea3b480bdfe.1920x1080.jpg?t=1784640848",
+        "alt": "Carmageddon: Rogue Shift 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/e8a92b899776d490d859ba32ab663ba6a629d5e5/ss_e8a92b899776d490d859ba32ab663ba6a629d5e5.1920x1080.jpg?t=1784640848",
+        "alt": "Carmageddon: Rogue Shift 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712100/c8945e5031228a36d433a067ace040b2be8a1420/ss_c8945e5031228a36d433a067ace040b2be8a1420.1920x1080.jpg?t=1784640848",
+        "alt": "Carmageddon: Rogue Shift 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

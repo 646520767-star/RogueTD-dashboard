@@ -1,1 +1,174 @@
-{"identity":{"original_title":"ANIWARS: Call of the Void","developers":["Breaker Interactive"],"publishers":["Breaker Interactive"],"release_status":"early_access","release_date":"2025-11-17","tags":["抢先体验","回合制策略","类Rogue","回合制战斗","动漫风格"]},"hooks":[{"text":"每场回合制遭遇都要求同时利用角色能力、地形、占领目标和早先拾取的道具来破局","dimension":"玩法","excerpt":"Battle through difficult encounters where you must use everything at your disposal to prevail against the enemy, be it unique abilities, using the environment to your advantage, capturing objectives or finding the perfect use for the item you picked up earlier.","url":"https://store.steampowered.com/app/2269540/","label":"证据原文片段"},{"text":"Void Day后Dark Matter驱动器爆炸并撕裂大陆，三大阵营在废墟中形成","dimension":"故事","excerpt":"It all started after Void Day, a cataclysmic event where all of Vertex’s Dark Matter drives around the globe imploded creating Void Zones which swallowed cities and ripped apart continents. From the chaos three factions emerged: the Military, PUNKZ and Vertex. Each faction has its own style in both design and gameplay.","url":"https://store.steampowered.com/app/2269540/","label":"证据原文片段"},{"text":"Commander既是可操作角色也是Boss，每人拥有专属能力与对话","dimension":"玩法","excerpt":"Commanders function both as playable characters and bosses! Each Commander has their own set of abilities and unique dialogue.","url":"https://store.steampowered.com/app/2269540/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3124,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":19064,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1943,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":32851,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3304,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3304,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.746296431810595,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":180,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.888889,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、回合制策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/06bb2f5358c8829b273591828a4da3aa08188747/ss_06bb2f5358c8829b273591828a4da3aa08188747.1920x1080.jpg?t=1776344575","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/06bb2f5358c8829b273591828a4da3aa08188747/ss_06bb2f5358c8829b273591828a4da3aa08188747.1920x1080.jpg?t=1776344575","alt":"ANIWARS: Call of the Void 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/15695829165871b9c099232089cd0100d58abbc1/ss_15695829165871b9c099232089cd0100d58abbc1.1920x1080.jpg?t=1776344575","alt":"ANIWARS: Call of the Void 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/6ce4465e3c7685368fcca15d6922c6b57fb353c9/ss_6ce4465e3c7685368fcca15d6922c6b57fb353c9.1920x1080.jpg?t=1776344575","alt":"ANIWARS: Call of the Void 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/0a20e03455ae968ec7024f5bacca2205ebbf123d/ss_0a20e03455ae968ec7024f5bacca2205ebbf123d.1920x1080.jpg?t=1776344575","alt":"ANIWARS: Call of the Void 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "ANIWARS: Call of the Void",
+    "developers": [
+      "Breaker Interactive"
+    ],
+    "publishers": [
+      "Breaker Interactive"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-11-17",
+    "tags": [
+      "抢先体验",
+      "轻度Rogue",
+      "回合制战术",
+      "探索",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每场回合制遭遇都要求同时利用角色能力、地形、占领目标和早先拾取的道具来破局",
+      "dimension": "玩法",
+      "excerpt": "Battle through difficult encounters where you must use everything at your disposal to prevail against the enemy, be it unique abilities, using the environment to your advantage, capturing objectives or finding the perfect use for the item you picked up earlier.",
+      "url": "https://store.steampowered.com/app/2269540/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Void Day后Dark Matter驱动器爆炸并撕裂大陆，三大阵营在废墟中形成",
+      "dimension": "故事",
+      "excerpt": "It all started after Void Day, a cataclysmic event where all of Vertex’s Dark Matter drives around the globe imploded creating Void Zones which swallowed cities and ripped apart continents. From the chaos three factions emerged: the Military, PUNKZ and Vertex. Each faction has its own style in both design and gameplay.",
+      "url": "https://store.steampowered.com/app/2269540/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Commander既是可操作角色也是Boss，每人拥有专属能力与对话",
+      "dimension": "玩法",
+      "excerpt": "Commanders function both as playable characters and bosses! Each Commander has their own set of abilities and unique dialogue.",
+      "url": "https://store.steampowered.com/app/2269540/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4295,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1984,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 45676,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4533,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4533,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.018578086705098,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 173,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.582888,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "ANIWARS: Call of the Void位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/06bb2f5358c8829b273591828a4da3aa08188747/ss_06bb2f5358c8829b273591828a4da3aa08188747.1920x1080.jpg?t=1776344575",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/56c73981bc21bca8aa823c0106a9045474dabee5/ss_56c73981bc21bca8aa823c0106a9045474dabee5.1920x1080.jpg?t=1786612657",
+        "alt": "ANIWARS: Call of the Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/27aeff52b471215ecf1a583d407f96950d18f1b3/ss_27aeff52b471215ecf1a583d407f96950d18f1b3.1920x1080.jpg?t=1786612657",
+        "alt": "ANIWARS: Call of the Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/7e60273d5fc0a8707561ac62237f8f10e30af6a5/ss_7e60273d5fc0a8707561ac62237f8f10e30af6a5.1920x1080.jpg?t=1786612657",
+        "alt": "ANIWARS: Call of the Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/a130b3fe8912e3652fe02b00058ef189200dad80/ss_a130b3fe8912e3652fe02b00058ef189200dad80.1920x1080.jpg?t=1786612657",
+        "alt": "ANIWARS: Call of the Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/34c9262e9fe05bec17164ee94ccc0e3ca3e6fa58/ss_34c9262e9fe05bec17164ee94ccc0e3ca3e6fa58.1920x1080.jpg?t=1786612657",
+        "alt": "ANIWARS: Call of the Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/94bd74a9635c2fb2e372e8202a6798c52e85dfdc/ss_94bd74a9635c2fb2e372e8202a6798c52e85dfdc.1920x1080.jpg?t=1786612657",
+        "alt": "ANIWARS: Call of the Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269540/2b340012e5cb78a34982e4c06202867aebd75711/ss_2b340012e5cb78a34982e4c06202867aebd75711.1920x1080.jpg?t=1786612657",
+        "alt": "ANIWARS: Call of the Void 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Kitty's Last Adventure","developers":["Woum"],"publishers":["Woum"],"release_status":"released","release_date":"2025-08-27","tags":["弹幕射击","可爱","动作肉鸽","竞技场射击","俯视角射击"]},"hooks":[{"text":"猫咪会自动投掷玩具攻击，玩家只负责控制飞碟移动路线","dimension":"玩法","excerpt":"The cat automatically throws its toys at enemies; all you have to do is control its path!","url":"https://store.steampowered.com/app/2778500/","label":"证据原文片段"},{"text":"玩具武器会进化成危险形态，并按家族累积专属加成","dimension":"玩法","excerpt":"Each weapon starts as a playful toy and transforms into more impressive and dangerous forms. Each weapon you acquire is associated with one or more families, each offering distinct bonuses that amplify with every point in it.","url":"https://store.steampowered.com/app/2778500/","label":"证据原文片段"},{"text":"悲伤的主人把最后冒险写成一本书，每个世界对应一个哀伤阶段","dimension":"故事","excerpt":"The entire world unfolds within a book created by Kitty's grieving human so she can experience one last adventure. This book contains multiple worlds to explore, each representing a stage of grief.","url":"https://store.steampowered.com/app/2778500/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2123,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":6355,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":329,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7014,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2428,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2428,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.883508306908553,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":173,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.265896,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"弹幕射击、可爱","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/f246844d365efde672dd0cb58a652bef1e2a60cd/ss_f246844d365efde672dd0cb58a652bef1e2a60cd.1920x1080.jpg?t=1766071489","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/f246844d365efde672dd0cb58a652bef1e2a60cd/ss_f246844d365efde672dd0cb58a652bef1e2a60cd.1920x1080.jpg?t=1766071489","alt":"Kitty's Last Adventure 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/266b7d4200d3d877839a0ad44f800642f988d042/ss_266b7d4200d3d877839a0ad44f800642f988d042.1920x1080.jpg?t=1766071489","alt":"Kitty's Last Adventure 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/ss_321672b593c4f71388b6618718e071058612f096.1920x1080.jpg?t=1766071489","alt":"Kitty's Last Adventure 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/ss_6bebfb3e159ca3741e3fa6cecdddb67e9751784b.1920x1080.jpg?t=1766071489","alt":"Kitty's Last Adventure 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Kitty's Last Adventure",
+    "developers": [
+      "Woum"
+    ],
+    "publishers": [
+      "Woum"
+    ],
+    "release_status": "released",
+    "release_date": "2025-08-27",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "可爱",
+      "动作肉鸽",
+      "竞技场射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "猫咪会自动投掷玩具攻击，玩家只负责控制飞碟移动路线",
+      "dimension": "玩法",
+      "excerpt": "The cat automatically throws its toys at enemies; all you have to do is control its path!",
+      "url": "https://store.steampowered.com/app/2778500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "玩具武器会进化成危险形态，并按家族累积专属加成",
+      "dimension": "玩法",
+      "excerpt": "Each weapon starts as a playful toy and transforms into more impressive and dangerous forms. Each weapon you acquire is associated with one or more families, each offering distinct bonuses that amplify with every point in it.",
+      "url": "https://store.steampowered.com/app/2778500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "悲伤的主人把最后冒险写成一本书，每个世界对应一个哀伤阶段",
+      "dimension": "故事",
+      "excerpt": "The entire world unfolds within a book created by Kitty's grieving human so she can experience one last adventure. This book contains multiple worlds to explore, each representing a stage of grief.",
+      "url": "https://store.steampowered.com/app/2778500/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2059,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 6392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 330,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 6875,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2354,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2354,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.880934388552859,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 142,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 98.265896,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Kitty's Last Adventure位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/f246844d365efde672dd0cb58a652bef1e2a60cd/ss_f246844d365efde672dd0cb58a652bef1e2a60cd.1920x1080.jpg?t=1766071489",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/f246844d365efde672dd0cb58a652bef1e2a60cd/ss_f246844d365efde672dd0cb58a652bef1e2a60cd.1920x1080.jpg?t=1766071489",
+        "alt": "Kitty's Last Adventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/266b7d4200d3d877839a0ad44f800642f988d042/ss_266b7d4200d3d877839a0ad44f800642f988d042.1920x1080.jpg?t=1766071489",
+        "alt": "Kitty's Last Adventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/ss_321672b593c4f71388b6618718e071058612f096.1920x1080.jpg?t=1766071489",
+        "alt": "Kitty's Last Adventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/ss_6bebfb3e159ca3741e3fa6cecdddb67e9751784b.1920x1080.jpg?t=1766071489",
+        "alt": "Kitty's Last Adventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/5469a37e1beac85aeb035515342ead5fb0452494/ss_5469a37e1beac85aeb035515342ead5fb0452494.1920x1080.jpg?t=1766071489",
+        "alt": "Kitty's Last Adventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778500/ss_dfc843ac803291ea3d7c9f60c94a97b09b8abfec.1920x1080.jpg?t=1766071489",
+        "alt": "Kitty's Last Adventure 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

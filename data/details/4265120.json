@@ -1,1 +1,178 @@
-{"identity":{"original_title":"PlatyGuard: Swarm Slayer","developers":["ChillyRoom"],"publishers":["ChillyRoom"],"release_status":"released","release_date":"2026-05-14","tags":["动作肉鸽","轻度Rogue","砍杀","类Rogue","动作"]},"hooks":[{"text":"观察弱点后精确格挡与闪避，破防连招并用终结击收尾","dimension":"玩法","excerpt":"Spot enemy weaknesses, parry, dodge, and clash with precision. Shatter defenses, chain combos, and finish foes with decisive strikes.","url":"https://store.steampowered.com/app/4265120/","label":"证据原文片段"},{"text":"十多名Platyguard拥有剑斗、蓄力、连击或闪避射击等独立机制","dimension":"玩法","excerpt":"Over a dozen Platyguards await, each with unique mechanics: sword duels, brutal combos, charged attacks, or dodge-and-shoot styles.","url":"https://store.steampowered.com/app/4265120/","label":"证据原文片段"},{"text":"用数百技能、物品和协同召军施法，构筑极端战斗流派","dimension":"玩法","excerpt":"Experiment with hundreds of skills, items, and synergies—summon armies, cast magic, or rain lightning storms. Forge extreme builds and turn despair into triumph in a dark fantasy wasteland!","url":"https://store.steampowered.com/app/4265120/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4918,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":24149,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1268,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":56533,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5433,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5433,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.108288925850202,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":133,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":76,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.93985,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/56c33c60a121f2f301248257c764ca2d99c64d3d/ss_56c33c60a121f2f301248257c764ca2d99c64d3d.1920x1080.jpg?t=1779860980","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/56c33c60a121f2f301248257c764ca2d99c64d3d/ss_56c33c60a121f2f301248257c764ca2d99c64d3d.1920x1080.jpg?t=1779860980","alt":"绝地鸭卫 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/3835e9e6867ad4da81cc5d53b4e0254ca1a03237/ss_3835e9e6867ad4da81cc5d53b4e0254ca1a03237.1920x1080.jpg?t=1779860980","alt":"绝地鸭卫 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/3eb4dcb3f8bb5fc1b80155c97262286aecd3b2ce/ss_3eb4dcb3f8bb5fc1b80155c97262286aecd3b2ce.1920x1080.jpg?t=1779860980","alt":"绝地鸭卫 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/f8c76d3e425656c6df1acc89a4b7512b5164e8b9/ss_f8c76d3e425656c6df1acc89a4b7512b5164e8b9.1920x1080.jpg?t=1779860980","alt":"绝地鸭卫 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "PlatyGuard: Swarm Slayer",
+    "developers": [
+      "ChillyRoom"
+    ],
+    "publishers": [
+      "ChillyRoom"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-14",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "砍杀",
+      "类Rogue",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "观察弱点后精确格挡与闪避，破防连招并用终结击收尾",
+      "dimension": "玩法",
+      "excerpt": "Spot enemy weaknesses, parry, dodge, and clash with precision. Shatter defenses, chain combos, and finish foes with decisive strikes.",
+      "url": "https://store.steampowered.com/app/4265120/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十多名Platyguard拥有剑斗、蓄力、连击或闪避射击等独立机制",
+      "dimension": "玩法",
+      "excerpt": "Over a dozen Platyguards await, each with unique mechanics: sword duels, brutal combos, charged attacks, or dodge-and-shoot styles.",
+      "url": "https://store.steampowered.com/app/4265120/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用数百技能、物品和协同召军施法，构筑极端战斗流派",
+      "dimension": "玩法",
+      "excerpt": "Experiment with hundreds of skills, items, and synergies—summon armies, cast magic, or rain lightning storms. Forge extreme builds and turn despair into triumph in a dark fantasy wasteland!",
+      "url": "https://store.steampowered.com/app/4265120/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5102,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 24292,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1300,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 59570,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5631,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5631,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.297585228661411,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 116,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 75,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.373134,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "绝地鸭卫当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/56c33c60a121f2f301248257c764ca2d99c64d3d/ss_56c33c60a121f2f301248257c764ca2d99c64d3d.1920x1080.jpg?t=1779860980",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/56c33c60a121f2f301248257c764ca2d99c64d3d/ss_56c33c60a121f2f301248257c764ca2d99c64d3d.1920x1080.jpg?t=1779860980",
+        "alt": "绝地鸭卫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/3835e9e6867ad4da81cc5d53b4e0254ca1a03237/ss_3835e9e6867ad4da81cc5d53b4e0254ca1a03237.1920x1080.jpg?t=1779860980",
+        "alt": "绝地鸭卫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/3eb4dcb3f8bb5fc1b80155c97262286aecd3b2ce/ss_3eb4dcb3f8bb5fc1b80155c97262286aecd3b2ce.1920x1080.jpg?t=1779860980",
+        "alt": "绝地鸭卫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/f8c76d3e425656c6df1acc89a4b7512b5164e8b9/ss_f8c76d3e425656c6df1acc89a4b7512b5164e8b9.1920x1080.jpg?t=1779860980",
+        "alt": "绝地鸭卫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/5eaab7e1a38626a90faba4dc0f042313c133acf0/ss_5eaab7e1a38626a90faba4dc0f042313c133acf0.1920x1080.jpg?t=1779860980",
+        "alt": "绝地鸭卫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/17e5b5b440224c9e72ae569cdd36f68b961e47cd/ss_17e5b5b440224c9e72ae569cdd36f68b961e47cd.1920x1080.jpg?t=1779860980",
+        "alt": "绝地鸭卫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/9ada219d140da8bf34013d7cbbbf2178d021a6da/ss_9ada219d140da8bf34013d7cbbbf2178d021a6da.1920x1080.jpg?t=1779860980",
+        "alt": "绝地鸭卫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265120/d7b121249b90e77d28aadda2aac46a692f089260/ss_d7b121249b90e77d28aadda2aac46a692f089260.1920x1080.jpg?t=1779860980",
+        "alt": "绝地鸭卫 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Decision Legacy Collection","developers":["FlyAnvil"],"publishers":["Armor Games Studios"],"release_status":"released","release_date":"2025-01-30","tags":["动作","生存","角色扮演","僵尸","怀旧风格"]},"hooks":[{"text":"在末日中结盟、招募并训练士兵，从单纯求生推进到重建社会。","dimension":"玩法","excerpt":"Build alliances, recruit and train soldiers, and restore society from the ashes of the apocalypse. With larger maps, human allies, and an evolving zombie threat, this installment pushes you to think beyond the battlefield.","url":"https://store.steampowered.com/app/3015510/","label":"证据原文片段"},{"text":"在丧尸城市中逐街区收复领地，搜寻资源并加固据点，在蛮力与规划之间权衡。","dimension":"玩法","excerpt":"Reclaim it block by block. Navigate treacherous streets crawling with zombies, uncover hidden resources, and fortify key locations. With every district you liberate, the stakes rise, forcing you to balance brute force and careful planning.","url":"https://store.steampowered.com/app/3015510/","label":"证据原文片段"},{"text":"中世纪篇把枪战换成剑术，加入攻城器械、城堡防御与黑暗奇幻怪物。","dimension":"题材","excerpt":"Defend a kingdom overrun by mythical monsters, storm enemy fortresses, and master medieval combat in a brutal, fantasy-driven twist on the series. With siege weapons, castle defense, and a rich dark-fantasy setting, this game offers a new take on the series.","url":"https://store.steampowered.com/app/3015510/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6179,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":967,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":49161,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6675,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6675,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.201699116961471,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":179,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.446927,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、生存","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_6239e44e98e6c30daae174cedd465a5606a1ce82.1920x1080.jpg?t=1738927909","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_6239e44e98e6c30daae174cedd465a5606a1ce82.1920x1080.jpg?t=1738927909","alt":"Decision Legacy Collection 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_c8cdc5ebf7b70eb937f1827fb65ff9e964e3bdb2.1920x1080.jpg?t=1738927909","alt":"Decision Legacy Collection 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_d702bba536b597812c751649285168ab911d9b4f.1920x1080.jpg?t=1738927909","alt":"Decision Legacy Collection 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_1e1ece4e5583f068f44073171f0c46b98c231914.1920x1080.jpg?t=1738927909","alt":"Decision Legacy Collection 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Decision Legacy Collection",
+    "developers": [
+      "FlyAnvil"
+    ],
+    "publishers": [
+      "Armor Games Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2025-01-30",
+    "tags": [
+      "动作",
+      "生存",
+      "角色扮演",
+      "僵尸",
+      "怀旧风格"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "在末日中结盟、招募并训练士兵，从单纯求生推进到重建社会。",
+      "dimension": "玩法",
+      "excerpt": "Build alliances, recruit and train soldiers, and restore society from the ashes of the apocalypse. With larger maps, human allies, and an evolving zombie threat, this installment pushes you to think beyond the battlefield.",
+      "url": "https://store.steampowered.com/app/3015510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在丧尸城市中逐街区收复领地，搜寻资源并加固据点，在蛮力与规划之间权衡。",
+      "dimension": "玩法",
+      "excerpt": "Reclaim it block by block. Navigate treacherous streets crawling with zombies, uncover hidden resources, and fortify key locations. With every district you liberate, the stakes rise, forcing you to balance brute force and careful planning.",
+      "url": "https://store.steampowered.com/app/3015510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "中世纪篇把枪战换成剑术，加入攻城器械、城堡防御与黑暗奇幻怪物。",
+      "dimension": "题材",
+      "excerpt": "Defend a kingdom overrun by mythical monsters, storm enemy fortresses, and master medieval combat in a brutal, fantasy-driven twist on the series. With siege weapons, castle defense, and a rich dark-fantasy setting, this game offers a new take on the series.",
+      "url": "https://store.steampowered.com/app/3015510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7447,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 976,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 58294,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8034,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8034,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.271622531662365,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 163,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.769231,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Decision Legacy Collection位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_6239e44e98e6c30daae174cedd465a5606a1ce82.1920x1080.jpg?t=1738927909",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_6239e44e98e6c30daae174cedd465a5606a1ce82.1920x1080.jpg?t=1738927909",
+        "alt": "Decision Legacy Collection 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_c8cdc5ebf7b70eb937f1827fb65ff9e964e3bdb2.1920x1080.jpg?t=1738927909",
+        "alt": "Decision Legacy Collection 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_d702bba536b597812c751649285168ab911d9b4f.1920x1080.jpg?t=1738927909",
+        "alt": "Decision Legacy Collection 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_1e1ece4e5583f068f44073171f0c46b98c231914.1920x1080.jpg?t=1738927909",
+        "alt": "Decision Legacy Collection 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_b7757b43a379eaeb0789af0efcb617e5eaa41be1.1920x1080.jpg?t=1738927909",
+        "alt": "Decision Legacy Collection 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_a29efce63ec48fb35d34142d15ef8031df1682cc.1920x1080.jpg?t=1738927909",
+        "alt": "Decision Legacy Collection 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_c443c4aa502339e6250e95027b26ae7d1a2b1d31.1920x1080.jpg?t=1738927909",
+        "alt": "Decision Legacy Collection 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015510/ss_5df2d46cbd7a812a0edb693b4eb6ba14e5de380b.1920x1080.jpg?t=1738927909",
+        "alt": "Decision Legacy Collection 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

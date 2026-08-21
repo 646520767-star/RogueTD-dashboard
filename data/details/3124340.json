@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Demeo x Dungeons & Dragons: Battlemarked","developers":["Resolution Games"],"publishers":["Resolution Games"],"release_status":"released","release_date":"2025-11-20","tags":["在线合作","回合制战术","策略角色扮演","奇幻","轻度Rogue"]},"hooks":[{"text":"把圣武士、术士、游侠等经典D&D职业压缩成可随时开局的快速冒险","dimension":"玩法","excerpt":"From recognizable settings and classic D&D classes – like paladin, sorcerer, ranger, fighter, bard, and rogue – to fiery explosions and divine healing, Battlemarked delivers quick, pick-up-and-play action for players of every level.","url":"https://store.steampowered.com/app/3124340/","label":"证据原文片段"},{"text":"卡牌能力驱动回合战斗，每次抽牌都要重新组合技能并调整控场策略","dimension":"玩法","excerpt":"Use unique card abilities and adapt your approach in turn-based battles that reward strategic planning – combine abilities, control the battlefield, and adjust your tactics with every draw to overcome ever-changing challenges.","url":"https://store.steampowered.com/app/3124340/","label":"证据原文片段"},{"text":"最多四人协作布置陷阱和联动技能，单人时则独自指挥整支英雄小队","dimension":"玩法","excerpt":"Up to 4 players can tackle adventures together – coordinating moves, setting traps, and combining abilities for maximum impact. Teamwork isn’t optional – it’s your most powerful weapon. Prefer to go alone? You can also command your party of multiple heroes in single player mode.","url":"https://store.steampowered.com/app/3124340/","label":"证据原文片段"}],"opinions":[{"text":"元素反应特效很好看。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"元素反应的特效也做的很好看。","url":"https://steamcommunity.com/profiles/76561199011593363/recommended/3124340/","label":"证据原文片段"}]},{"text":"整体难度仍然过低。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the game is still too easy overall.","url":"https://steamcommunity.com/id/canapin/recommended/3124340/","label":"证据原文片段"}]},{"text":"地牢遭遇重复度高。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"encounters are often very repetitive (especially in dungeons)","url":"https://steamcommunity.com/profiles/76561198343268986/recommended/3124340/","label":"证据原文片段"}]},{"text":"角色创建仅是预设角色换色。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Character \"creation\" is nothing more than recolor of the premade cookie cutter toons.","url":"https://steamcommunity.com/profiles/76561198032175971/recommended/3124340/","label":"证据原文片段"}]},{"text":"任务战斗间无法保存。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Inability to save.","url":"https://steamcommunity.com/profiles/76561198032175971/recommended/3124340/","label":"证据原文片段"}]},{"text":"卡牌战斗系统过于简单。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The card-based combat system is nice but far too simplistic","url":"https://steamcommunity.com/profiles/76561198343268986/recommended/3124340/","label":"证据原文片段"}]},{"text":"单人模式只有主角色获得经验。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"单人游戏队伍里只有第一个选择的角色能够获得经验","url":"https://steamcommunity.com/profiles/76561199403100441/recommended/3124340/","label":"证据原文片段"}]},{"text":"敌人会无限重生。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Unending respawn of enemies.","url":"https://steamcommunity.com/profiles/76561198032175971/recommended/3124340/","label":"证据原文片段"}]},{"text":"随机骰子结果令人极度不满。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The RNG they made is ABSOLUTE C.R.A.P.","url":"https://steamcommunity.com/profiles/76561198032175971/recommended/3124340/","label":"证据原文片段"}]},{"text":"支线技能检定几乎没有意义。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the importance of side events (like skill tests) is practically nonexistent.","url":"https://steamcommunity.com/profiles/76561198343268986/recommended/3124340/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":58537,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":292322,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":25492,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1541259,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":63382,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":63382,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.35750888580842,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1337,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.34578,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["整体难度仍然过低。","地牢遭遇重复度高。","角色创建仅是预设角色换色。","任务战斗间无法保存。","卡牌战斗系统过于简单。","单人模式只有主角色获得经验。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/90729377e20a880a383a9df947c534108fc290b3/ss_90729377e20a880a383a9df947c534108fc290b3.1920x1080.jpg?t=1781614594","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/90729377e20a880a383a9df947c534108fc290b3/ss_90729377e20a880a383a9df947c534108fc290b3.1920x1080.jpg?t=1781614594","alt":"Demeo x Dungeons & Dragons: Battlemarked 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/3ab6ed7ceb53b881c6614784cb4d64257d2625da/ss_3ab6ed7ceb53b881c6614784cb4d64257d2625da.1920x1080.jpg?t=1781614594","alt":"Demeo x Dungeons & Dragons: Battlemarked 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/98e3dcf5df09853095b147d7a780dc78f0fec9c4/ss_98e3dcf5df09853095b147d7a780dc78f0fec9c4.1920x1080.jpg?t=1781614594","alt":"Demeo x Dungeons & Dragons: Battlemarked 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/43111a67777611188f703df23b5f66a7be8512ed/ss_43111a67777611188f703df23b5f66a7be8512ed.1920x1080.jpg?t=1781614594","alt":"Demeo x Dungeons & Dragons: Battlemarked 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Demeo x Dungeons & Dragons: Battlemarked",
+    "developers": [
+      "Resolution Games"
+    ],
+    "publishers": [
+      "Resolution Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-20",
+    "tags": [
+      "轻度Rogue",
+      "回合制战术",
+      "在线合作",
+      "类Rogue",
+      "策略角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把圣武士、术士、游侠等经典D&D职业压缩成可随时开局的快速冒险",
+      "dimension": "玩法",
+      "excerpt": "From recognizable settings and classic D&D classes – like paladin, sorcerer, ranger, fighter, bard, and rogue – to fiery explosions and divine healing, Battlemarked delivers quick, pick-up-and-play action for players of every level.",
+      "url": "https://store.steampowered.com/app/3124340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "卡牌能力驱动回合战斗，每次抽牌都要重新组合技能并调整控场策略",
+      "dimension": "玩法",
+      "excerpt": "Use unique card abilities and adapt your approach in turn-based battles that reward strategic planning – combine abilities, control the battlefield, and adjust your tactics with every draw to overcome ever-changing challenges.",
+      "url": "https://store.steampowered.com/app/3124340/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "最多四人协作布置陷阱和联动技能，单人时则独自指挥整支英雄小队",
+      "dimension": "玩法",
+      "excerpt": "Up to 4 players can tackle adventures together – coordinating moves, setting traps, and combining abilities for maximum impact. Teamwork isn’t optional – it’s your most powerful weapon. Prefer to go alone? You can also command your party of multiple heroes in single player mode.",
+      "url": "https://store.steampowered.com/app/3124340/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "元素反应特效很好看。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "元素反应的特效也做的很好看。",
+          "url": "https://steamcommunity.com/profiles/76561199011593363/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体难度仍然过低。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the game is still too easy overall.",
+          "url": "https://steamcommunity.com/id/canapin/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "地牢遭遇重复度高。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "encounters are often very repetitive (especially in dungeons)",
+          "url": "https://steamcommunity.com/profiles/76561198343268986/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色创建仅是预设角色换色。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Character \"creation\" is nothing more than recolor of the premade cookie cutter toons.",
+          "url": "https://steamcommunity.com/profiles/76561198032175971/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "任务战斗间无法保存。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Inability to save.",
+          "url": "https://steamcommunity.com/profiles/76561198032175971/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "卡牌战斗系统过于简单。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The card-based combat system is nice but far too simplistic",
+          "url": "https://steamcommunity.com/profiles/76561198343268986/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "单人模式只有主角色获得经验。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "单人游戏队伍里只有第一个选择的角色能够获得经验",
+          "url": "https://steamcommunity.com/profiles/76561199403100441/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人会无限重生。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Unending respawn of enemies.",
+          "url": "https://steamcommunity.com/profiles/76561198032175971/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "随机骰子结果令人极度不满。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The RNG they made is ABSOLUTE C.R.A.P.",
+          "url": "https://steamcommunity.com/profiles/76561198032175971/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "支线技能检定几乎没有意义。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the importance of side events (like skill tests) is practically nonexistent.",
+          "url": "https://steamcommunity.com/profiles/76561198343268986/recommended/3124340/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 60311,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 292776,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 25675,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1577640,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 65292,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 65292,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.323261876487166,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1210,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.357879,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "整体难度仍然过低。",
+    "地牢遭遇重复度高。",
+    "角色创建仅是预设角色换色。",
+    "任务战斗间无法保存。",
+    "卡牌战斗系统过于简单。",
+    "单人模式只有主角色获得经验。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Demeo x Dungeons & Dragons: Battlemarked位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/90729377e20a880a383a9df947c534108fc290b3/ss_90729377e20a880a383a9df947c534108fc290b3.1920x1080.jpg?t=1781614594",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/90729377e20a880a383a9df947c534108fc290b3/ss_90729377e20a880a383a9df947c534108fc290b3.1920x1080.jpg?t=1781614594",
+        "alt": "Demeo x Dungeons & Dragons: Battlemarked 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/3ab6ed7ceb53b881c6614784cb4d64257d2625da/ss_3ab6ed7ceb53b881c6614784cb4d64257d2625da.1920x1080.jpg?t=1781614594",
+        "alt": "Demeo x Dungeons & Dragons: Battlemarked 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/98e3dcf5df09853095b147d7a780dc78f0fec9c4/ss_98e3dcf5df09853095b147d7a780dc78f0fec9c4.1920x1080.jpg?t=1781614594",
+        "alt": "Demeo x Dungeons & Dragons: Battlemarked 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/43111a67777611188f703df23b5f66a7be8512ed/ss_43111a67777611188f703df23b5f66a7be8512ed.1920x1080.jpg?t=1781614594",
+        "alt": "Demeo x Dungeons & Dragons: Battlemarked 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/2a5a9999214a717d1806f095566a52d2f9e0df46/ss_2a5a9999214a717d1806f095566a52d2f9e0df46.1920x1080.jpg?t=1781614594",
+        "alt": "Demeo x Dungeons & Dragons: Battlemarked 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/80cc0118e5f04e30859d5f04cddacd0e87559601/ss_80cc0118e5f04e30859d5f04cddacd0e87559601.1920x1080.jpg?t=1781614594",
+        "alt": "Demeo x Dungeons & Dragons: Battlemarked 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/62053d6237c03d67decf0cefcd87f23e48135af5/ss_62053d6237c03d67decf0cefcd87f23e48135af5.1920x1080.jpg?t=1781614594",
+        "alt": "Demeo x Dungeons & Dragons: Battlemarked 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/57b6a4eb87cfb669cb1a163183801723457a8a2f/ss_57b6a4eb87cfb669cb1a163183801723457a8a2f.1920x1080.jpg?t=1781614594",
+        "alt": "Demeo x Dungeons & Dragons: Battlemarked 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

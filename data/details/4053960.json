@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Lexispell","developers":["MrEliptik"],"publishers":["MrEliptik"],"release_status":"released","release_date":"2026-05-29","tags":["策略","类Rogue","休闲","物理模拟","二维画面"]},"hooks":[{"text":"把字母物理合并成长单词，以拼写长度和升级触发来追求高分。","dimension":"玩法","excerpt":"Merge letters, spell big words, trigger upgrades, drink potions, wield wands and restore order!","url":"https://store.steampowered.com/app/4053960/","label":"证据原文片段"},{"text":"指定词语不仅计分，还会触发特殊升级并成为对付规则扭曲首领的策略资源。","dimension":"玩法","excerpt":"Choose specific words to trigger cool upgrades","url":"https://store.steampowered.com/app/4053960/","label":"证据原文片段"},{"text":"除肉鸽主模式外还提供限时冲刺、罐子谜题和每日挑战。","dimension":"玩法","excerpt":"Explore various game modes: roguelike, time rush, jar puzzle and daily challenges.","url":"https://store.steampowered.com/app/4053960/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":769,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":237,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5616,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":829,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":829,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.4409614871895746,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":29,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.548387,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/864cabd743c1e60a37af82dd32b048a9dee4ccfe/ss_864cabd743c1e60a37af82dd32b048a9dee4ccfe.1920x1080.jpg?t=1780516375","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/864cabd743c1e60a37af82dd32b048a9dee4ccfe/ss_864cabd743c1e60a37af82dd32b048a9dee4ccfe.1920x1080.jpg?t=1780516375","alt":"Lexispell 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/02c860bdfd8e8ca2d643e29f365033045e5db3a9/ss_02c860bdfd8e8ca2d643e29f365033045e5db3a9.1920x1080.jpg?t=1780516375","alt":"Lexispell 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/0333198f8ed8bafdb7b5dfbeab2e09c4eb8baa0d/ss_0333198f8ed8bafdb7b5dfbeab2e09c4eb8baa0d.1920x1080.jpg?t=1780516375","alt":"Lexispell 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/9b0589169c97ababe3a23d8015b9e142e1474806/ss_9b0589169c97ababe3a23d8015b9e142e1474806.1920x1080.jpg?t=1780516375","alt":"Lexispell 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lexispell",
+    "developers": [
+      "MrEliptik"
+    ],
+    "publishers": [
+      "MrEliptik"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-29",
+    "tags": [
+      "类Rogue",
+      "策略",
+      "塔防",
+      "类Rogue",
+      "休闲"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把字母物理合并成长单词，以拼写长度和升级触发来追求高分。",
+      "dimension": "玩法",
+      "excerpt": "Merge letters, spell big words, trigger upgrades, drink potions, wield wands and restore order!",
+      "url": "https://store.steampowered.com/app/4053960/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "指定词语不仅计分，还会触发特殊升级并成为对付规则扭曲首领的策略资源。",
+      "dimension": "玩法",
+      "excerpt": "Choose specific words to trigger cool upgrades",
+      "url": "https://store.steampowered.com/app/4053960/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "除肉鸽主模式外还提供限时冲刺、罐子谜题和每日挑战。",
+      "dimension": "玩法",
+      "excerpt": "Explore various game modes: roguelike, time rush, jar puzzle and daily challenges.",
+      "url": "https://store.steampowered.com/app/4053960/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 777,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 240,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 5842,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 866,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 866,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.5883062141947386,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 29,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.117647,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Lexispell位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/864cabd743c1e60a37af82dd32b048a9dee4ccfe/ss_864cabd743c1e60a37af82dd32b048a9dee4ccfe.1920x1080.jpg?t=1780516375",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/864cabd743c1e60a37af82dd32b048a9dee4ccfe/ss_864cabd743c1e60a37af82dd32b048a9dee4ccfe.1920x1080.jpg?t=1786813128",
+        "alt": "Lexispell 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/02c860bdfd8e8ca2d643e29f365033045e5db3a9/ss_02c860bdfd8e8ca2d643e29f365033045e5db3a9.1920x1080.jpg?t=1786813128",
+        "alt": "Lexispell 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/0333198f8ed8bafdb7b5dfbeab2e09c4eb8baa0d/ss_0333198f8ed8bafdb7b5dfbeab2e09c4eb8baa0d.1920x1080.jpg?t=1786813128",
+        "alt": "Lexispell 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/9b0589169c97ababe3a23d8015b9e142e1474806/ss_9b0589169c97ababe3a23d8015b9e142e1474806.1920x1080.jpg?t=1786813128",
+        "alt": "Lexispell 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/fd5c6717786dde411c0a52ed06aa3c8ae8a4f66a/ss_fd5c6717786dde411c0a52ed06aa3c8ae8a4f66a.1920x1080.jpg?t=1786813128",
+        "alt": "Lexispell 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/e6fc4e601d80df4f7b93a14ecafb7f51bf5c115a/ss_e6fc4e601d80df4f7b93a14ecafb7f51bf5c115a.1920x1080.jpg?t=1786813128",
+        "alt": "Lexispell 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/ac86d465d03929569a66f2295592124339b0a633/ss_ac86d465d03929569a66f2295592124339b0a633.1920x1080.jpg?t=1786813128",
+        "alt": "Lexispell 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053960/9b3a0836682de52f4d64d8bcf5021db33dd8cc6c/ss_9b3a0836682de52f4d64d8bcf5021db33dd8cc6c.1920x1080.jpg?t=1786813128",
+        "alt": "Lexispell 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

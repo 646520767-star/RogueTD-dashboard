@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Winnie's Hole","developers":["Twice Different"],"publishers":["Twice Different"],"release_status":"early_access","release_date":"2026-01-26","tags":["抢先体验","轻度Rogue","地牢探索","回合制策略","卡组构筑"]},"hooks":[{"text":"把病毒方块铺进宿主体内，在随机世界中扩散感染","dimension":"玩法","excerpt":"Explore randomly generated worlds by placing Virus blocks to spread through the body of your host. Discover new cells and make gut decisions to direct the adventure.","url":"https://store.steampowered.com/app/2319730/","label":"证据原文片段"},{"text":"每回合随机发放行动方块，在大脑棋盘拼出强力组合","dimension":"玩法","excerpt":"Each turn, your actions are dealt randomly to the Brain board. Place your block shapes strategically to activate powerful combinations.","url":"https://store.steampowered.com/app/2319730/","label":"证据原文片段"},{"text":"老派尼克动画混合格林童话，塑造粗粝恐怖喜剧","dimension":"画风","excerpt":"Holesome horror comedy with gritty art inspired by old school Nickelodeon and Brothers' Grimm fairytales.","url":"https://store.steampowered.com/app/2319730/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":13301,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":62276,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3546,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":152667,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":13986,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":13986,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.533553908550558,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":343,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.043732,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/5237934006f0e8ffec20355d787aa2605f4a24e5/ss_5237934006f0e8ffec20355d787aa2605f4a24e5.1920x1080.jpg?t=1774826686","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/5237934006f0e8ffec20355d787aa2605f4a24e5/ss_5237934006f0e8ffec20355d787aa2605f4a24e5.1920x1080.jpg?t=1774826686","alt":"Winnie's Hole 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/4e01dc133b4fd48c562267317182adb45420ae61/ss_4e01dc133b4fd48c562267317182adb45420ae61.1920x1080.jpg?t=1774826686","alt":"Winnie's Hole 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/27a3f124a97975de9f2522dd3a2db87e0e5bb4fd/ss_27a3f124a97975de9f2522dd3a2db87e0e5bb4fd.1920x1080.jpg?t=1774826686","alt":"Winnie's Hole 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/ca7843f3d97066b9053a3edc5d6515dc1250e99f/ss_ca7843f3d97066b9053a3edc5d6515dc1250e99f.1920x1080.jpg?t=1774826686","alt":"Winnie's Hole 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Winnie's Hole",
+    "developers": [
+      "Twice Different"
+    ],
+    "publishers": [
+      "Twice Different"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-01-26",
+    "tags": [
+      "抢先体验",
+      "轻度Rogue",
+      "地牢探索",
+      "回合制策略",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把病毒方块铺进宿主体内，在随机世界中扩散感染",
+      "dimension": "玩法",
+      "excerpt": "Explore randomly generated worlds by placing Virus blocks to spread through the body of your host. Discover new cells and make gut decisions to direct the adventure.",
+      "url": "https://store.steampowered.com/app/2319730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每回合随机发放行动方块，在大脑棋盘拼出强力组合",
+      "dimension": "玩法",
+      "excerpt": "Each turn, your actions are dealt randomly to the Brain board. Place your block shapes strategically to activate powerful combinations.",
+      "url": "https://store.steampowered.com/app/2319730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "老派尼克动画混合格林童话，塑造粗粝恐怖喜剧",
+      "dimension": "画风",
+      "excerpt": "Holesome horror comedy with gritty art inspired by old school Nickelodeon and Brothers' Grimm fairytales.",
+      "url": "https://store.steampowered.com/app/2319730/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 13669,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 61367,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3558,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 158517,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 14370,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 14370,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.544922291479599,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 320,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.767442,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Winnie's Hole位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/5237934006f0e8ffec20355d787aa2605f4a24e5/ss_5237934006f0e8ffec20355d787aa2605f4a24e5.1920x1080.jpg?t=1774826686",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/5237934006f0e8ffec20355d787aa2605f4a24e5/ss_5237934006f0e8ffec20355d787aa2605f4a24e5.1920x1080.jpg?t=1774826686",
+        "alt": "Winnie's Hole 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/4e01dc133b4fd48c562267317182adb45420ae61/ss_4e01dc133b4fd48c562267317182adb45420ae61.1920x1080.jpg?t=1774826686",
+        "alt": "Winnie's Hole 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/27a3f124a97975de9f2522dd3a2db87e0e5bb4fd/ss_27a3f124a97975de9f2522dd3a2db87e0e5bb4fd.1920x1080.jpg?t=1774826686",
+        "alt": "Winnie's Hole 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/ca7843f3d97066b9053a3edc5d6515dc1250e99f/ss_ca7843f3d97066b9053a3edc5d6515dc1250e99f.1920x1080.jpg?t=1774826686",
+        "alt": "Winnie's Hole 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/c713821cf0059fe6380f079718810da73e7952bd/ss_c713821cf0059fe6380f079718810da73e7952bd.1920x1080.jpg?t=1774826686",
+        "alt": "Winnie's Hole 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/8c7ed8d7c035ddc9623d0e7e8100b6a398e2b8a1/ss_8c7ed8d7c035ddc9623d0e7e8100b6a398e2b8a1.1920x1080.jpg?t=1774826686",
+        "alt": "Winnie's Hole 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2319730/c7e678314cf772dc3ca346703ce1b2400e63d3b0/ss_c7e678314cf772dc3ca346703ce1b2400e63d3b0.1920x1080.jpg?t=1774826686",
+        "alt": "Winnie's Hole 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

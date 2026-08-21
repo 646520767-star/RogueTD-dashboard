@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Idle Hero TD - Tower Defense","developers":["Swell Games LLC"],"publishers":["Swell Games LLC"],"release_status":"early_access","release_date":"2024-05-03","tags":["抢先体验","策略","塔防","自走棋","增量成长"]},"hooks":[{"text":"挂机可自动推进，但高手要靠英雄站位触发协同与特殊能力争取效率","dimension":"玩法","excerpt":"Although Idle Hero TD is an idle game that can mostly play itself (which is perfect for casual players without much time), it was also designed to be extremely strategic and rewarding for those who play actively and efficiently. The most powerful bonuses in the game revolve around optimizing the placements of your Heroes to activate their synergies and special abilities.","url":"https://store.steampowered.com/app/2897580/","label":"证据原文片段"},{"text":"48名英雄各有独立技能组，塔防成败取决于英雄组合与技能协同","dimension":"玩法","excerpt":"Unlock 48 unique heroes, all of which have different skill sets that make tower synergy crucial to success.","url":"https://store.steampowered.com/app/2897580/","label":"证据原文片段"},{"text":"PC与手机跨平台续玩，可在电脑开局后转到移动设备继续同一进度","dimension":"玩法","excerpt":"Idle Hero TD fully supports cross-play and cross-platform functionality. Start the game on your PC, then load it up on your mobile device to continue your progress while out of the house.","url":"https://store.steampowered.com/app/2897580/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":145967,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":911,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2026309,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":145967,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":145967,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":87.76524166013186,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1230,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.292584,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_64d8a722832afdd6dcba30ee08aff12d88362926.1920x1080.jpg?t=1779866779","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_64d8a722832afdd6dcba30ee08aff12d88362926.1920x1080.jpg?t=1779866779","alt":"Idle Hero TD - Tower Defense 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_3afe57807a09d96e59537f4c37cc71112432d280.1920x1080.jpg?t=1779866779","alt":"Idle Hero TD - Tower Defense 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_ca4e3326101b10e52040ab94360bf9187ea06348.1920x1080.jpg?t=1779866779","alt":"Idle Hero TD - Tower Defense 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_414295b6d8238021d880f4859a9daa2d914ddf77.1920x1080.jpg?t=1779866779","alt":"Idle Hero TD - Tower Defense 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Idle Hero TD - Tower Defense RPG",
+    "developers": [
+      "Swell Games LLC"
+    ],
+    "publishers": [
+      "Swell Games LLC"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-05-03",
+    "tags": [
+      "抢先体验",
+      "策略",
+      "塔防",
+      "轻度Rogue",
+      "增量成长"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "挂机可自动推进，但高手要靠英雄站位触发协同与特殊能力争取效率",
+      "dimension": "玩法",
+      "excerpt": "Although Idle Hero TD is an idle game that can mostly play itself (which is perfect for casual players without much time), it was also designed to be extremely strategic and rewarding for those who play actively and efficiently. The most powerful bonuses in the game revolve around optimizing the placements of your Heroes to activate their synergies and special abilities.",
+      "url": "https://store.steampowered.com/app/2897580/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "48名英雄各有独立技能组，塔防成败取决于英雄组合与技能协同",
+      "dimension": "玩法",
+      "excerpt": "Unlock 48 unique heroes, all of which have different skill sets that make tower synergy crucial to success.",
+      "url": "https://store.steampowered.com/app/2897580/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "PC与手机跨平台续玩，可在电脑开局后转到移动设备继续同一进度",
+      "dimension": "玩法",
+      "excerpt": "Idle Hero TD fully supports cross-play and cross-platform functionality. Start the game on your PC, then load it up on your mobile device to continue your progress while out of the house.",
+      "url": "https://store.steampowered.com/app/2897580/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 151804,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1278,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 935,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2045412,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 151804,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 151804,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 87.04077878356702,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1267,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.794002,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Idle Hero TD - Tower Defense位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_64d8a722832afdd6dcba30ee08aff12d88362926.1920x1080.jpg?t=1779866779",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_64d8a722832afdd6dcba30ee08aff12d88362926.1920x1080.jpg?t=1785757332",
+        "alt": "Idle Hero TD - Tower Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_3afe57807a09d96e59537f4c37cc71112432d280.1920x1080.jpg?t=1785757332",
+        "alt": "Idle Hero TD - Tower Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_ca4e3326101b10e52040ab94360bf9187ea06348.1920x1080.jpg?t=1785757332",
+        "alt": "Idle Hero TD - Tower Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_414295b6d8238021d880f4859a9daa2d914ddf77.1920x1080.jpg?t=1785757332",
+        "alt": "Idle Hero TD - Tower Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_0cb8f17efbc8a4d1c68e74e05008ed134e26810d.1920x1080.jpg?t=1785757332",
+        "alt": "Idle Hero TD - Tower Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_d1313d7553aa577edcb28527836fb2ee2a705cb8.1920x1080.jpg?t=1785757332",
+        "alt": "Idle Hero TD - Tower Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_09af32f0b1914ddf68e978f57fa4d2a16730bcbc.1920x1080.jpg?t=1785757332",
+        "alt": "Idle Hero TD - Tower Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897580/ss_946a7be4b44f8376a5d6509031b977e1b508c9e9.1920x1080.jpg?t=1785757332",
+        "alt": "Idle Hero TD - Tower Defense 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

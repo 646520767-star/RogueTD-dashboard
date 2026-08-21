@@ -1,1 +1,179 @@
-{"identity":{"original_title":"9 Kings","developers":["Sad Socket"],"publishers":["Hooded Horse","Sidekick Publishing"],"release_status":"early_access","release_date":"2025-05-23","tags":["策略","类Rogue","卡牌游戏","卡组构筑","肉鸽卡组构筑"]},"hooks":[{"text":"每位国王都有专属牌库，可按想偷的兵种宣战、按不需要的单位议和","dimension":"玩法","excerpt":"Each of the kings has a different starting deck of buildings, troops, and spells, but you can loot the rival kings who attack your lands to access cards from their unique decks. Make peace with those whose units don’t fit your playstyle, and declare war against kings with the powers and units you covet, deploying the tools acquired from your enemy to unlock countless combinations of stacking buffs and modifiers to build an invincible army.","url":"https://store.steampowered.com/app/2784470/","label":"证据原文片段"},{"text":"异步多人让你同时对抗八位国王，比拼谁的王国能存活最久","dimension":"玩法","excerpt":"Async multiplayer mode pits you against eight rival kings to see whose kingdom survives the longest.","url":"https://store.steampowered.com/app/2784470/","label":"证据原文片段"},{"text":"任务模式改写基础规则收集王冠，无尽模式则承受敌王无限轮番进攻","dimension":"玩法","excerpt":"Quest Mode introduces unique mechanics-bending challenges as you travel the known world and face off against its kings to collect their crowns for yourself. Endless Mode has you choose a king and face endless attacks from enemy kings and their most powerful warriors – how long can you survive the onslaught?","url":"https://store.steampowered.com/app/2784470/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1094901,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":701565,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":49991,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":10037940,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1160801,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1160801,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.263386613499609,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":22552,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.496789,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a4af675f7517dad079fc7ee911aa56021443471e/ss_a4af675f7517dad079fc7ee911aa56021443471e.1920x1080.jpg?t=1784303290","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a4af675f7517dad079fc7ee911aa56021443471e/ss_a4af675f7517dad079fc7ee911aa56021443471e.1920x1080.jpg?t=1784303290","alt":"九王 9 Kings 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/5702336d94fbe69df85acd0e8fc66178ac5596a2/ss_5702336d94fbe69df85acd0e8fc66178ac5596a2.1920x1080.jpg?t=1784303290","alt":"九王 9 Kings 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/61532c75356e52838cc74ba64977ba837d1f8c80/ss_61532c75356e52838cc74ba64977ba837d1f8c80.1920x1080.jpg?t=1784303290","alt":"九王 9 Kings 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/70324907375a2dae2ec16e3b2baf1c2eb8721ab5/ss_70324907375a2dae2ec16e3b2baf1c2eb8721ab5.1920x1080.jpg?t=1784303290","alt":"九王 9 Kings 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "9 Kings",
+    "developers": [
+      "Sad Socket"
+    ],
+    "publishers": [
+      "Hooded Horse",
+      "Sidekick Publishing"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-05-23",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "卡牌游戏",
+      "卡组构筑",
+      "肉鸽卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每位国王都有专属牌库，可按想偷的兵种宣战、按不需要的单位议和",
+      "dimension": "玩法",
+      "excerpt": "Each of the kings has a different starting deck of buildings, troops, and spells, but you can loot the rival kings who attack your lands to access cards from their unique decks. Make peace with those whose units don’t fit your playstyle, and declare war against kings with the powers and units you covet, deploying the tools acquired from your enemy to unlock countless combinations of stacking buffs and modifiers to build an invincible army.",
+      "url": "https://store.steampowered.com/app/2784470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "异步多人让你同时对抗八位国王，比拼谁的王国能存活最久",
+      "dimension": "玩法",
+      "excerpt": "Async multiplayer mode pits you against eight rival kings to see whose kingdom survives the longest.",
+      "url": "https://store.steampowered.com/app/2784470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "任务模式改写基础规则收集王冠，无尽模式则承受敌王无限轮番进攻",
+      "dimension": "玩法",
+      "excerpt": "Quest Mode introduces unique mechanics-bending challenges as you travel the known world and face off against its kings to collect their crowns for yourself. Endless Mode has you choose a king and face endless attacks from enemy kings and their most powerful warriors – how long can you survive the onslaught?",
+      "url": "https://store.steampowered.com/app/2784470/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1093100,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 699331,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 50244,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 9981545,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1159196,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1159196,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.911097722832304,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 20997,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.508528,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "九王 9 Kings位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a4af675f7517dad079fc7ee911aa56021443471e/ss_a4af675f7517dad079fc7ee911aa56021443471e.1920x1080.jpg?t=1784303290",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a4af675f7517dad079fc7ee911aa56021443471e/ss_a4af675f7517dad079fc7ee911aa56021443471e.1920x1080.jpg?t=1786634008",
+        "alt": "九王 9 Kings 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/5702336d94fbe69df85acd0e8fc66178ac5596a2/ss_5702336d94fbe69df85acd0e8fc66178ac5596a2.1920x1080.jpg?t=1786634008",
+        "alt": "九王 9 Kings 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/61532c75356e52838cc74ba64977ba837d1f8c80/ss_61532c75356e52838cc74ba64977ba837d1f8c80.1920x1080.jpg?t=1786634008",
+        "alt": "九王 9 Kings 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/70324907375a2dae2ec16e3b2baf1c2eb8721ab5/ss_70324907375a2dae2ec16e3b2baf1c2eb8721ab5.1920x1080.jpg?t=1786634008",
+        "alt": "九王 9 Kings 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/d217eea521c15ce3a9dcb093325f61455186e55c/ss_d217eea521c15ce3a9dcb093325f61455186e55c.1920x1080.jpg?t=1786634008",
+        "alt": "九王 9 Kings 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/8f08bcf564c6e906c9163f7508cc567e57fe7d46/ss_8f08bcf564c6e906c9163f7508cc567e57fe7d46.1920x1080.jpg?t=1786634008",
+        "alt": "九王 9 Kings 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a29c24822c8c4296d1bbcdd0480b3fcaf3150409/ss_a29c24822c8c4296d1bbcdd0480b3fcaf3150409.1920x1080.jpg?t=1786634008",
+        "alt": "九王 9 Kings 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/d87c06e7d48cd087ca7ad3de715bfee7ac9d5b27/ss_d87c06e7d48cd087ca7ad3de715bfee7ac9d5b27.1920x1080.jpg?t=1786634008",
+        "alt": "九王 9 Kings 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

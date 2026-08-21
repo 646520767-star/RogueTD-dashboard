@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Hellbrella","developers":["Icy Mountain Studios"],"publishers":["GoGo Games Interactive"],"release_status":"released","release_date":"2025-09-18","tags":["街机","轻度Rogue","高重复可玩性","动作肉鸽","像素画面"]},"hooks":[{"text":"以空中连招和持续进攻为核心的高速肉鸽砍杀","dimension":"玩法","excerpt":"A fast-paced Aerial Roguelite Hack and Slash where Insane Combos and pure aggression are all that stand between you and death.","url":"https://store.steampowered.com/app/3510060/","label":"证据原文片段"},{"text":"5 把独特雨伞搭配 60 多项升级，持续重塑战斗方式","dimension":"玩法","excerpt":"5 Unique Umbrellas to massacre enemies in different ways Over 60 Devastating Upgrades to transform your playstyle","url":"https://store.steampowered.com/app/3510060/","label":"证据原文片段"},{"text":"收集瞳孔解锁 12 类永久升级，再用血滴强化局内风格","dimension":"玩法","excerpt":"Collect Pupils to unlock 12 Types of Permanent Upgrades Use Blood Drops to intensify your playstyle and become even deadlier","url":"https://store.steampowered.com/app/3510060/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2441,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22877,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":890,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":13564,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2914,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2914,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.9766088379616975,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":220,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.832579,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"街机、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/bac09aea909591363e114afea4a7e3d7becd2bd6/ss_bac09aea909591363e114afea4a7e3d7becd2bd6.1920x1080.jpg?t=1774348589","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/bac09aea909591363e114afea4a7e3d7becd2bd6/ss_bac09aea909591363e114afea4a7e3d7becd2bd6.1920x1080.jpg?t=1774348589","alt":"Hellbrella 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/73753c3348295b3a8f177555385f6bd834bf1d3c/ss_73753c3348295b3a8f177555385f6bd834bf1d3c.1920x1080.jpg?t=1774348589","alt":"Hellbrella 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/c2c657a11d5e5bc99d276286e15ad528d24fdae2/ss_c2c657a11d5e5bc99d276286e15ad528d24fdae2.1920x1080.jpg?t=1774348589","alt":"Hellbrella 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/88cd9f49dadb4177c092879e03758fff971662b5/ss_88cd9f49dadb4177c092879e03758fff971662b5.1920x1080.jpg?t=1774348589","alt":"Hellbrella 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Hellbrella",
+    "developers": [
+      "Icy Mountain Studios"
+    ],
+    "publishers": [
+      "GoGo Games Interactive"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-18",
+    "tags": [
+      "街机",
+      "轻度Rogue",
+      "动作",
+      "高重复可玩性",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "以空中连招和持续进攻为核心的高速肉鸽砍杀",
+      "dimension": "玩法",
+      "excerpt": "A fast-paced Aerial Roguelite Hack and Slash where Insane Combos and pure aggression are all that stand between you and death.",
+      "url": "https://store.steampowered.com/app/3510060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "5 把独特雨伞搭配 60 多项升级，持续重塑战斗方式",
+      "dimension": "玩法",
+      "excerpt": "5 Unique Umbrellas to massacre enemies in different ways Over 60 Devastating Upgrades to transform your playstyle",
+      "url": "https://store.steampowered.com/app/3510060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集瞳孔解锁 12 类永久升级，再用血滴强化局内风格",
+      "dimension": "玩法",
+      "excerpt": "Collect Pupils to unlock 12 Types of Permanent Upgrades Use Blood Drops to intensify your playstyle and become even deadlier",
+      "url": "https://store.steampowered.com/app/3510060/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3286,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 21735,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 891,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 16356,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3923,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3923,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.9304728772690387,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 172,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.875,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Hellbrella位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/bac09aea909591363e114afea4a7e3d7becd2bd6/ss_bac09aea909591363e114afea4a7e3d7becd2bd6.1920x1080.jpg?t=1774348589",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/bac09aea909591363e114afea4a7e3d7becd2bd6/ss_bac09aea909591363e114afea4a7e3d7becd2bd6.1920x1080.jpg?t=1774348589",
+        "alt": "Hellbrella 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/73753c3348295b3a8f177555385f6bd834bf1d3c/ss_73753c3348295b3a8f177555385f6bd834bf1d3c.1920x1080.jpg?t=1774348589",
+        "alt": "Hellbrella 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/c2c657a11d5e5bc99d276286e15ad528d24fdae2/ss_c2c657a11d5e5bc99d276286e15ad528d24fdae2.1920x1080.jpg?t=1774348589",
+        "alt": "Hellbrella 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/88cd9f49dadb4177c092879e03758fff971662b5/ss_88cd9f49dadb4177c092879e03758fff971662b5.1920x1080.jpg?t=1774348589",
+        "alt": "Hellbrella 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/cc2e0bcc55b0f5d486fe34b2c246ddecc127d2f0/ss_cc2e0bcc55b0f5d486fe34b2c246ddecc127d2f0.1920x1080.jpg?t=1774348589",
+        "alt": "Hellbrella 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3510060/af09980a30efdb1c955375f0795995e6b8f79f37/ss_af09980a30efdb1c955375f0795995e6b8f79f37.1920x1080.jpg?t=1774348589",
+        "alt": "Hellbrella 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

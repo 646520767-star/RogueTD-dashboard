@@ -1,1 +1,318 @@
-{"identity":{"original_title":"Welcome to the Game III","developers":["Reflect Studios"],"publishers":["Reflect Studios"],"release_status":"released","release_date":"2026-07-16","tags":["模拟","解谜","恐怖","轻度Rogue","三维画面"]},"hooks":[{"text":"潜入包含52个站点的暗网，扫描网页与源码寻找能救命的隐藏拼图碎片。","dimension":"玩法","excerpt":"Browse the dark net, with access to 52 websites, and uncover hidden pieces to a puzzle that will grant you life... assuming you can find them all.","url":"https://store.steampowered.com/app/3869850/","label":"证据原文片段"},{"text":"与四名NPC竞速交易，可花钱拖慢或永久清除对手，但他们也能用同样手段反击。","dimension":"玩法","excerpt":"Chat with users (NPCs) to buy / sell goods & services. Manage when to progress yourself and when to attack those (NPCs) in the race with you. Pay up to either slow or try to remove them permanently from the competition, but remember they can do the same to you.","url":"https://store.steampowered.com/app/3869850/","label":"证据原文片段"},{"text":"遭入侵时可反黑客赚取DOS币，或升级防火墙求稳，但防守会放弃这笔收益。","dimension":"玩法","excerpt":"Successfully counter hacks to earn DOS Coin OR block intrusions with firewall upgrades, but miss out on earnings. Contend with multiple hacking minigames that will test your reaction speed, typing ability, and puzzle solving skills.","url":"https://store.steampowered.com/app/3869850/","label":"证据原文片段"}],"opinions":[{"text":"鼠标与键盘音效细节令人满足。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the mouse click sounds, keyboard noises, and everything is made so satisfying and sounds awesome","url":"https://steamcommunity.com/id/Lycosnik/recommended/3869850/","label":"证据原文片段"}]},{"text":"存在阻断进度的Bug。","dimension":"技术/性能","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"progress-blocking bugs","url":"https://vaporlens.app/app/3869850/welcome_to_the_game_iii","label":"证据原文片段"}]},{"text":"游戏在Bug严重的状态下发售。","dimension":"技术/性能","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"released in a buggy state after only brief playtesting","url":"https://www.reddit.com/r/HorrorGames/s/aAoc3YE2Es","label":"证据原文片段"}]},{"text":"游戏内网站功能损坏。","dimension":"技术/性能","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"a broken website","url":"https://vaporlens.app/app/3869850/welcome_to_the_game_iii","label":"证据原文片段"}]},{"text":"UI臃肿且存在大量拼写错误。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The UI is just so weird, typos everywhere. Very bloated","url":"https://steamcommunity.com/id/Glacierisme/recommended/3869850/","label":"证据原文片段"}]},{"text":"特定网站会造成严重卡顿。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Specific Websites lag the game to all hell","url":"https://steamcommunity.com/id/gavinator4000/recommended/3869850/","label":"证据原文片段"}]},{"text":"运动传感器会随机失效。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Motion sensors randomly break","url":"https://steamcommunity.com/id/gavinator4000/recommended/3869850/","label":"证据原文片段"}]},{"text":"玩法过度依赖随机性。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"This game is heavily based on RNG to play","url":"https://steamcommunity.com/id/Glacierisme/recommended/3869850/","label":"证据原文片段"}]},{"text":"缺少动态范围辅助设置。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Please make an accessibility setting to adjust the dynamic range of the sounds in the game.","url":"https://steamcommunity.com/id/Lycosnik/recommended/3869850/","label":"证据原文片段"}]},{"text":"游戏可能频繁软锁。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"i keep getting soft-locked","url":"https://steamcommunity.com/profiles/76561199151328467/recommended/3869850/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":14520,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":95323,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3579,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":235093,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":15037,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":15037,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.2597543023559625,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":346,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":78,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":77.696078,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["技术/性能：存在阻断进度的Bug。","技术/性能：游戏在Bug严重的状态下发售。","技术/性能：游戏内网站功能损坏。","UI臃肿且存在大量拼写错误。","技术/性能：特定网站会造成严重卡顿。","运动传感器会随机失效。","技术/性能：性能延迟明显。","技术/性能：游戏可能频繁软锁。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/91afc9fe29a8a9a0e33297691caa286145a5c2f6/ss_91afc9fe29a8a9a0e33297691caa286145a5c2f6.1920x1080.jpg?t=1784217528","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/91afc9fe29a8a9a0e33297691caa286145a5c2f6/ss_91afc9fe29a8a9a0e33297691caa286145a5c2f6.1920x1080.jpg?t=1784217528","alt":"Welcome to the Game III 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/53815d8b607aa30e3f525c0d467deda19d6d4a83/ss_53815d8b607aa30e3f525c0d467deda19d6d4a83.1920x1080.jpg?t=1784217528","alt":"Welcome to the Game III 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/c091e1e9bc24011fd6ad0a34f257cb82741fe01d/ss_c091e1e9bc24011fd6ad0a34f257cb82741fe01d.1920x1080.jpg?t=1784217528","alt":"Welcome to the Game III 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/62fa87ac16a8b0280f027c62c215e4ad821ad13b/ss_62fa87ac16a8b0280f027c62c215e4ad821ad13b.1920x1080.jpg?t=1784217528","alt":"Welcome to the Game III 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Welcome to the Game III",
+    "developers": [
+      "Reflect Studios"
+    ],
+    "publishers": [
+      "Reflect Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-16",
+    "tags": [
+      "模拟",
+      "解谜",
+      "恐怖",
+      "轻度Rogue",
+      "三维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "潜入包含52个站点的暗网，扫描网页与源码寻找能救命的隐藏拼图碎片。",
+      "dimension": "玩法",
+      "excerpt": "Browse the dark net, with access to 52 websites, and uncover hidden pieces to a puzzle that will grant you life... assuming you can find them all.",
+      "url": "https://store.steampowered.com/app/3869850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "与四名NPC竞速交易，可花钱拖慢或永久清除对手，但他们也能用同样手段反击。",
+      "dimension": "玩法",
+      "excerpt": "Chat with users (NPCs) to buy / sell goods & services. Manage when to progress yourself and when to attack those (NPCs) in the race with you. Pay up to either slow or try to remove them permanently from the competition, but remember they can do the same to you.",
+      "url": "https://store.steampowered.com/app/3869850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "遭入侵时可反黑客赚取DOS币，或升级防火墙求稳，但防守会放弃这笔收益。",
+      "dimension": "玩法",
+      "excerpt": "Successfully counter hacks to earn DOS Coin OR block intrusions with firewall upgrades, but miss out on earnings. Contend with multiple hacking minigames that will test your reaction speed, typing ability, and puzzle solving skills.",
+      "url": "https://store.steampowered.com/app/3869850/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "鼠标与键盘音效细节令人满足。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the mouse click sounds, keyboard noises, and everything is made so satisfying and sounds awesome",
+          "url": "https://steamcommunity.com/id/Lycosnik/recommended/3869850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "存在阻断进度的Bug。",
+      "dimension": "技术/性能",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "progress-blocking bugs",
+          "url": "https://vaporlens.app/app/3869850/welcome_to_the_game_iii",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏在Bug严重的状态下发售。",
+      "dimension": "技术/性能",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "released in a buggy state after only brief playtesting",
+          "url": "https://www.reddit.com/r/HorrorGames/s/aAoc3YE2Es",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏内网站功能损坏。",
+      "dimension": "技术/性能",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a broken website",
+          "url": "https://vaporlens.app/app/3869850/welcome_to_the_game_iii",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "UI臃肿且存在大量拼写错误。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The UI is just so weird, typos everywhere. Very bloated",
+          "url": "https://steamcommunity.com/id/Glacierisme/recommended/3869850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "特定网站会造成严重卡顿。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Specific Websites lag the game to all hell",
+          "url": "https://steamcommunity.com/id/gavinator4000/recommended/3869850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "运动传感器会随机失效。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Motion sensors randomly break",
+          "url": "https://steamcommunity.com/id/gavinator4000/recommended/3869850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法过度依赖随机性。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "This game is heavily based on RNG to play",
+          "url": "https://steamcommunity.com/id/Glacierisme/recommended/3869850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少动态范围辅助设置。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Please make an accessibility setting to adjust the dynamic range of the sounds in the game.",
+          "url": "https://steamcommunity.com/id/Lycosnik/recommended/3869850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏可能频繁软锁。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "i keep getting soft-locked",
+          "url": "https://steamcommunity.com/profiles/76561199151328467/recommended/3869850/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 27404,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 103559,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4137,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 455156,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 28355,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 28355,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.325285614207537,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 596,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 78,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 77.742448,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "技术/性能：存在阻断进度的Bug。",
+    "技术/性能：游戏在Bug严重的状态下发售。",
+    "技术/性能：游戏内网站功能损坏。",
+    "UI臃肿且存在大量拼写错误。",
+    "技术/性能：特定网站会造成严重卡顿。",
+    "运动传感器会随机失效。",
+    "技术/性能：性能延迟明显。",
+    "技术/性能：游戏可能频繁软锁。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Welcome to the Game III位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/91afc9fe29a8a9a0e33297691caa286145a5c2f6/ss_91afc9fe29a8a9a0e33297691caa286145a5c2f6.1920x1080.jpg?t=1784217528",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/91afc9fe29a8a9a0e33297691caa286145a5c2f6/ss_91afc9fe29a8a9a0e33297691caa286145a5c2f6.1920x1080.jpg?t=1784217528",
+        "alt": "Welcome to the Game III 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/53815d8b607aa30e3f525c0d467deda19d6d4a83/ss_53815d8b607aa30e3f525c0d467deda19d6d4a83.1920x1080.jpg?t=1784217528",
+        "alt": "Welcome to the Game III 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/c091e1e9bc24011fd6ad0a34f257cb82741fe01d/ss_c091e1e9bc24011fd6ad0a34f257cb82741fe01d.1920x1080.jpg?t=1784217528",
+        "alt": "Welcome to the Game III 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/62fa87ac16a8b0280f027c62c215e4ad821ad13b/ss_62fa87ac16a8b0280f027c62c215e4ad821ad13b.1920x1080.jpg?t=1784217528",
+        "alt": "Welcome to the Game III 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/05681e0e0242884be870f39597038ff99d28a9a8/ss_05681e0e0242884be870f39597038ff99d28a9a8.1920x1080.jpg?t=1784217528",
+        "alt": "Welcome to the Game III 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/36ae9ab47311480595b9ab7d940a9a7c9dd32b5e/ss_36ae9ab47311480595b9ab7d940a9a7c9dd32b5e.1920x1080.jpg?t=1784217528",
+        "alt": "Welcome to the Game III 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/97bbe06f62a28c889e16defd44ec493e8397c152/ss_97bbe06f62a28c889e16defd44ec493e8397c152.1920x1080.jpg?t=1784217528",
+        "alt": "Welcome to the Game III 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869850/917df92e289da5eef4c98fa5f6a598b2a23c2d1c/ss_917df92e289da5eef4c98fa5f6a598b2a23c2d1c.1920x1080.jpg?t=1784217528",
+        "alt": "Welcome to the Game III 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

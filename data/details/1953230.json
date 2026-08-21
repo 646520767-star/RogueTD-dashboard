@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Whisper Mountain Outbreak","developers":["Toge Productions"],"publishers":["Toge Productions"],"release_status":"early_access","release_date":"2025-08-11","tags":["抢先体验","在线合作","生存恐怖","等距视角","2.5D画面"]},"hooks":[{"text":"靠近才能语音沟通，还要救起倒地队友并共享稀缺物资","dimension":"玩法","excerpt":"Communicate using in-game proximity voice chat, save downed teammates, and share the scarce resources you find.","url":"https://store.steampowered.com/app/1953230/","label":"证据原文片段"},{"text":"协力找线索、拿钥匙和开门，把密室解谜直接接到诅咒逃生","dimension":"玩法","excerpt":"Work together to solve puzzles, find keys, unlock doors, and figure out a way to escape the curse.","url":"https://store.steampowered.com/app/1953230/","label":"证据原文片段"},{"text":"二维像素角色置于三维低模场景，用浓雾和狭窄房间制造窒息感","dimension":"画风","excerpt":"A lingering fog, tight rooms, limited visibility, and eerie whispers, presented in 2D pixel characters with 3D low-poly environments.","url":"https://store.steampowered.com/app/1953230/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":137975,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":293586,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":22285,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":868251,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":145347,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":145347,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.710987988697331,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2512,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.719459,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、在线合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/375cd0974ad2388be4e4a4c509c4f197b19cf676/ss_375cd0974ad2388be4e4a4c509c4f197b19cf676.1920x1080.jpg?t=1784604120","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/375cd0974ad2388be4e4a4c509c4f197b19cf676/ss_375cd0974ad2388be4e4a4c509c4f197b19cf676.1920x1080.jpg?t=1784604120","alt":"Whisper Mountain Outbreak 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/ee0fc56cf0c1b56b7bca00ddf190ce63c016e9cd/ss_ee0fc56cf0c1b56b7bca00ddf190ce63c016e9cd.1920x1080.jpg?t=1784604120","alt":"Whisper Mountain Outbreak 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/6edc17568156828b3bd9ea374e374399e56d713f/ss_6edc17568156828b3bd9ea374e374399e56d713f.1920x1080.jpg?t=1784604120","alt":"Whisper Mountain Outbreak 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/8a5e7aa78d353a635825a7e63e66eb911c232273/ss_8a5e7aa78d353a635825a7e63e66eb911c232273.1920x1080.jpg?t=1784604120","alt":"Whisper Mountain Outbreak 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Whisper Mountain Outbreak",
+    "developers": [
+      "Toge Productions"
+    ],
+    "publishers": [
+      "Toge Productions"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-08-11",
+    "tags": [
+      "抢先体验",
+      "在线合作",
+      "生存恐怖",
+      "等距视角",
+      "2.5D画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "靠近才能语音沟通，还要救起倒地队友并共享稀缺物资",
+      "dimension": "玩法",
+      "excerpt": "Communicate using in-game proximity voice chat, save downed teammates, and share the scarce resources you find.",
+      "url": "https://store.steampowered.com/app/1953230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "协力找线索、拿钥匙和开门，把密室解谜直接接到诅咒逃生",
+      "dimension": "玩法",
+      "excerpt": "Work together to solve puzzles, find keys, unlock doors, and figure out a way to escape the curse.",
+      "url": "https://store.steampowered.com/app/1953230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "二维像素角色置于三维低模场景，用浓雾和狭窄房间制造窒息感",
+      "dimension": "画风",
+      "excerpt": "A lingering fog, tight rooms, limited visibility, and eerie whispers, presented in 2D pixel characters with 3D low-poly environments.",
+      "url": "https://store.steampowered.com/app/1953230/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 142248,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 291491,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 22536,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 894163,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 150045,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 150045,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.7759480023714245,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2382,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.860248,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Whisper Mountain Outbreak位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/375cd0974ad2388be4e4a4c509c4f197b19cf676/ss_375cd0974ad2388be4e4a4c509c4f197b19cf676.1920x1080.jpg?t=1784604120",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/3defaa1cd89a336f7d97db7d74d1f34b45112227/ss_3defaa1cd89a336f7d97db7d74d1f34b45112227.1920x1080.jpg?t=1785765855",
+        "alt": "Whisper Mountain Outbreak 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/ee0fc56cf0c1b56b7bca00ddf190ce63c016e9cd/ss_ee0fc56cf0c1b56b7bca00ddf190ce63c016e9cd.1920x1080.jpg?t=1785765855",
+        "alt": "Whisper Mountain Outbreak 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/3c1e4283be072ed1648b5710057dd481fa676e9c/ss_3c1e4283be072ed1648b5710057dd481fa676e9c.1920x1080.jpg?t=1785765855",
+        "alt": "Whisper Mountain Outbreak 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/8a5e7aa78d353a635825a7e63e66eb911c232273/ss_8a5e7aa78d353a635825a7e63e66eb911c232273.1920x1080.jpg?t=1785765855",
+        "alt": "Whisper Mountain Outbreak 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/9b7d55b746aeeef6a6f1f0d3e0cbff8cad03060f/ss_9b7d55b746aeeef6a6f1f0d3e0cbff8cad03060f.1920x1080.jpg?t=1785765855",
+        "alt": "Whisper Mountain Outbreak 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/6c968fec0f7c16d0c04587ef46bf2ff0fb982da2/ss_6c968fec0f7c16d0c04587ef46bf2ff0fb982da2.1920x1080.jpg?t=1785765855",
+        "alt": "Whisper Mountain Outbreak 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/5bac9648c83fb8adc0d2c52f42a35207153c650c/ss_5bac9648c83fb8adc0d2c52f42a35207153c650c.1920x1080.jpg?t=1785765855",
+        "alt": "Whisper Mountain Outbreak 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953230/e30098d79c0a8bdee1eeea19658ce26b89a31e07/ss_e30098d79c0a8bdee1eeea19658ce26b89a31e07.1920x1080.jpg?t=1785765855",
+        "alt": "Whisper Mountain Outbreak 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

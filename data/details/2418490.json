@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Trakonius","developers":["Edvar Studio"],"publishers":["Teneke Kafalar"],"release_status":"early_access","release_date":"2026-05-29","tags":["独立游戏","动作","动作肉鸽","砍杀","轻度Rogue"]},"hooks":[{"text":"多敌围攻时必须在瞬间完成闪避与格挡，时机判断可以直接逆转竞技场战局。","dimension":"玩法","excerpt":"Of course, mastering Dodge and Parry at the right moment can dramatically change the course of battle. Just like in a real fight, your split-second decisions are crucial.","url":"https://store.steampowered.com/app/2418490/","label":"证据原文片段"},{"text":"战斗获得角斗士灵魂解锁永久力量，再把金币交给铁匠购买具有独特优势的武器护甲。","dimension":"玩法","excerpt":"With the Gladiator Spirits earned during battle, he can unlock numerous permanent powers. As he progresses, the gold he collects can be spent at the blacksmith to purchase weapons and armor with unique advantages.","url":"https://store.steampowered.com/app/2418490/","label":"证据原文片段"},{"text":"旅途中角色会触发突发事件、卖药或提出特殊挑战，每次选择都会开启新的成长机会。","dimension":"故事","excerpt":"Some will force him into unexpected events, some will sell potions, and others will offer challenges for different battles. Every choice made along the way will create new opportunities for Trakonius to grow and evolve in each run...","url":"https://store.steampowered.com/app/2418490/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5212,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":30503,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2021,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":40054,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5445,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5445,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.58875722047801,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":311,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.279743,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"独立游戏、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/3417ddff2135f5e38daa253de914ce36d5eca9ca/ss_3417ddff2135f5e38daa253de914ce36d5eca9ca.1920x1080.jpg?t=1781008728","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/3417ddff2135f5e38daa253de914ce36d5eca9ca/ss_3417ddff2135f5e38daa253de914ce36d5eca9ca.1920x1080.jpg?t=1781008728","alt":"Trakonius 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/4ccd6510d3b54872b9d02a4ed196c1e2e7d49f3e/ss_4ccd6510d3b54872b9d02a4ed196c1e2e7d49f3e.1920x1080.jpg?t=1781008728","alt":"Trakonius 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/8cd72059d7fd2d21df0ba9f97f25a29a364ec851/ss_8cd72059d7fd2d21df0ba9f97f25a29a364ec851.1920x1080.jpg?t=1781008728","alt":"Trakonius 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/81a9d3581a5a0297084569ac7e4b9d6da0c4cc26/ss_81a9d3581a5a0297084569ac7e4b9d6da0c4cc26.1920x1080.jpg?t=1781008728","alt":"Trakonius 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Trakonius",
+    "developers": [
+      "Edvar Studio"
+    ],
+    "publishers": [
+      "Teneke Kafalar"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-05-29",
+    "tags": [
+      "独立游戏",
+      "动作",
+      "动作肉鸽",
+      "砍杀",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "多敌围攻时必须在瞬间完成闪避与格挡，时机判断可以直接逆转竞技场战局。",
+      "dimension": "玩法",
+      "excerpt": "Of course, mastering Dodge and Parry at the right moment can dramatically change the course of battle. Just like in a real fight, your split-second decisions are crucial.",
+      "url": "https://store.steampowered.com/app/2418490/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗获得角斗士灵魂解锁永久力量，再把金币交给铁匠购买具有独特优势的武器护甲。",
+      "dimension": "玩法",
+      "excerpt": "With the Gladiator Spirits earned during battle, he can unlock numerous permanent powers. As he progresses, the gold he collects can be spent at the blacksmith to purchase weapons and armor with unique advantages.",
+      "url": "https://store.steampowered.com/app/2418490/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "旅途中角色会触发突发事件、卖药或提出特殊挑战，每次选择都会开启新的成长机会。",
+      "dimension": "故事",
+      "excerpt": "Some will force him into unexpected events, some will sell potions, and others will offer challenges for different battles. Every choice made along the way will create new opportunities for Trakonius to grow and evolve in each run...",
+      "url": "https://store.steampowered.com/app/2418490/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5377,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 31962,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2032,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 43107,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5614,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5614,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.600049045032499,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 296,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.544304,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Trakonius位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/3417ddff2135f5e38daa253de914ce36d5eca9ca/ss_3417ddff2135f5e38daa253de914ce36d5eca9ca.1920x1080.jpg?t=1781008728",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/3417ddff2135f5e38daa253de914ce36d5eca9ca/ss_3417ddff2135f5e38daa253de914ce36d5eca9ca.1920x1080.jpg?t=1781008728",
+        "alt": "Trakonius 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/4ccd6510d3b54872b9d02a4ed196c1e2e7d49f3e/ss_4ccd6510d3b54872b9d02a4ed196c1e2e7d49f3e.1920x1080.jpg?t=1781008728",
+        "alt": "Trakonius 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/8cd72059d7fd2d21df0ba9f97f25a29a364ec851/ss_8cd72059d7fd2d21df0ba9f97f25a29a364ec851.1920x1080.jpg?t=1781008728",
+        "alt": "Trakonius 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/81a9d3581a5a0297084569ac7e4b9d6da0c4cc26/ss_81a9d3581a5a0297084569ac7e4b9d6da0c4cc26.1920x1080.jpg?t=1781008728",
+        "alt": "Trakonius 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/a3f2b55b43ef337dd2b8cfad088616c985290c93/ss_a3f2b55b43ef337dd2b8cfad088616c985290c93.1920x1080.jpg?t=1781008728",
+        "alt": "Trakonius 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/cf7f24665425f484347fad521eef7c608365d4ab/ss_cf7f24665425f484347fad521eef7c608365d4ab.1920x1080.jpg?t=1781008728",
+        "alt": "Trakonius 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/e600d44f86756ac22df796875cab60a846bb4b42/ss_e600d44f86756ac22df796875cab60a846bb4b42.1920x1080.jpg?t=1781008728",
+        "alt": "Trakonius 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418490/55058daffac10077b64e29208c41f3fcd8ad9282/ss_55058daffac10077b64e29208c41f3fcd8ad9282.1920x1080.jpg?t=1781008728",
+        "alt": "Trakonius 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Isle of Swaps","developers":["Fuzz Force"],"publishers":["Fuzz Force"],"release_status":"released","release_date":"2024-09-27","tags":["肉鸽卡组构筑","卡组构筑","卡牌对战","回合制策略","轻度Rogue"]},"hooks":[{"text":"先用弱技能卡蓄能再打出强卡，同时围绕Critter的弱点、抗性与元素限制组队。","dimension":"玩法","excerpt":"Build up energy with weaker Skill cards and spend it to play stronger cards. With each Critter having varied stats, abilities, Weakness and Resistances, making a varied team is key.","url":"https://store.steampowered.com/app/2294160/","label":"证据原文片段"},{"text":"击败校园对手后直接与其交换卡牌，重复卡也能不限次数继续换。","dimension":"玩法","excerpt":"Build your deck by swapping with the characters you beat in battle. Got some doubles? Swap as many times as you like and are able, no limits here.","url":"https://store.steampowered.com/app/2294160/","label":"证据原文片段"},{"text":"三选地图中可冒险保留未翻牌换钱，胜利套牌则存入永久Master Binder影响后续开局。","dimension":"玩法","excerpt":"Proceed through Challenges by picking one of 3 map cards but if you're feeling brave, unflipped cards award money that can be used to buy Booster Packs. A victory in a Challenge adds the cards in your battle deck to your permanent Master Binder, letting you customise the starting Critter in future runs.","url":"https://store.steampowered.com/app/2294160/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4133,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22877,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1324,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":50537,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4520,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4520,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.904954501214485,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":147,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.836735,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_5ead1428fdfaf05a80c51c6c2c60792451aec98b.1920x1080.jpg?t=1769702086","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_5ead1428fdfaf05a80c51c6c2c60792451aec98b.1920x1080.jpg?t=1769702086","alt":"Isle of Swaps 集换岛 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_56bf1a02098beb9ff6c111d922e06c582812e205.1920x1080.jpg?t=1769702086","alt":"Isle of Swaps 集换岛 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_6d834565f4c8a44bc5538764bda59b539b96b0e1.1920x1080.jpg?t=1769702086","alt":"Isle of Swaps 集换岛 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_2eade4f064fa54c8bd972ea21a4f13941770091e.1920x1080.jpg?t=1769702086","alt":"Isle of Swaps 集换岛 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Isle of Swaps",
+    "developers": [
+      "Fuzz Force"
+    ],
+    "publishers": [
+      "Fuzz Force"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-27",
+    "tags": [
+      "轻度Rogue",
+      "肉鸽卡组构筑",
+      "卡组构筑",
+      "轻度Rogue",
+      "卡牌对战"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "先用弱技能卡蓄能再打出强卡，同时围绕Critter的弱点、抗性与元素限制组队。",
+      "dimension": "玩法",
+      "excerpt": "Build up energy with weaker Skill cards and spend it to play stronger cards. With each Critter having varied stats, abilities, Weakness and Resistances, making a varied team is key.",
+      "url": "https://store.steampowered.com/app/2294160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "击败校园对手后直接与其交换卡牌，重复卡也能不限次数继续换。",
+      "dimension": "玩法",
+      "excerpt": "Build your deck by swapping with the characters you beat in battle. Got some doubles? Swap as many times as you like and are able, no limits here.",
+      "url": "https://store.steampowered.com/app/2294160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三选地图中可冒险保留未翻牌换钱，胜利套牌则存入永久Master Binder影响后续开局。",
+      "dimension": "玩法",
+      "excerpt": "Proceed through Challenges by picking one of 3 map cards but if you're feeling brave, unflipped cards award money that can be used to buy Booster Packs. A victory in a Challenge adds the cards in your battle deck to your permanent Master Binder, letting you customise the starting Critter in future runs.",
+      "url": "https://store.steampowered.com/app/2294160/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4531,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 23013,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1326,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 54252,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4978,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4978,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.95168455645478,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 129,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.891892,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Isle of Swaps 集换岛位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_5ead1428fdfaf05a80c51c6c2c60792451aec98b.1920x1080.jpg?t=1769702086",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_5ead1428fdfaf05a80c51c6c2c60792451aec98b.1920x1080.jpg?t=1769702086",
+        "alt": "Isle of Swaps 集换岛 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_56bf1a02098beb9ff6c111d922e06c582812e205.1920x1080.jpg?t=1769702086",
+        "alt": "Isle of Swaps 集换岛 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_6d834565f4c8a44bc5538764bda59b539b96b0e1.1920x1080.jpg?t=1769702086",
+        "alt": "Isle of Swaps 集换岛 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_2eade4f064fa54c8bd972ea21a4f13941770091e.1920x1080.jpg?t=1769702086",
+        "alt": "Isle of Swaps 集换岛 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_5935cc391c81ba3de66742bdc5191495bc040f30.1920x1080.jpg?t=1769702086",
+        "alt": "Isle of Swaps 集换岛 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_8a8d3649c2c251a9137960312603f229137a124c.1920x1080.jpg?t=1769702086",
+        "alt": "Isle of Swaps 集换岛 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_e71bd0767f6f327ae85fe0b3861ba86bd837c937.1920x1080.jpg?t=1769702086",
+        "alt": "Isle of Swaps 集换岛 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294160/ss_739f6a91b001f7c65a9809582e047f256aba8a77.1920x1080.jpg?t=1769702086",
+        "alt": "Isle of Swaps 集换岛 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Cursemark","developers":["CLYDE games"],"publishers":["Mad Mushroom"],"release_status":"early_access","release_date":"2026-06-08","tags":["动作肉鸽","探索","黑暗奇幻","砍杀","像素画面"]},"hooks":[{"text":"符文会改写每一种能力，可让剑刃连锁闪电、火球分裂并在施法时喷出冰柱","dimension":"玩法","excerpt":"Define your build and playstyle with runes that change how every ability works by integrating them into your attacks, spells, wards, and ultimates. Add chain lightning to your sword and burst enemies into poison clouds. Multiply your fireball spell and erupt ice pillars from the ground when you cast it.","url":"https://store.steampowered.com/app/3219180/","label":"证据原文片段"},{"text":"世界没有地图标记或引导，寻路本身也是Build的一部分，并能发现秘密通道与捷径","dimension":"玩法","excerpt":"The Unknown Lands are vast, full of secret passages, hidden relics, and strange sights. The world unravels more and more with each run as you make new discoveries and solve riddles to unlock power and shortcuts. No map-markers, no hand-holding. Pathfinding is a part of your build as well.","url":"https://store.steampowered.com/app/3219180/","label":"证据原文片段"},{"text":"永久神龛与锻炉会扩展力量和符文槽，还能跨局升级并定向选择适合构筑的祝福","dimension":"玩法","excerpt":"Discover permanent shrines and forges that expand your power and rune slots. Upgrade them for future runs and target the blessings best suited to your build as you grow in skill and knowledge.","url":"https://store.steampowered.com/app/3219180/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":22711,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":157600,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9435,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":268706,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":24117,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":24117,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.863152500611032,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":540,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.654479,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/1a81856315587c1d40ea17773daa2d950faf0925/ss_1a81856315587c1d40ea17773daa2d950faf0925.1920x1080.jpg?t=1784087387","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/1a81856315587c1d40ea17773daa2d950faf0925/ss_1a81856315587c1d40ea17773daa2d950faf0925.1920x1080.jpg?t=1784087387","alt":"Cursemark 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/d5fb9dca0f70ca779f2ccbf1204b2d3481c3bbb4/ss_d5fb9dca0f70ca779f2ccbf1204b2d3481c3bbb4.1920x1080.jpg?t=1784087387","alt":"Cursemark 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/78259bc680a837fcfc6fd5eb5b7d74db01416e1a/ss_78259bc680a837fcfc6fd5eb5b7d74db01416e1a.1920x1080.jpg?t=1784087387","alt":"Cursemark 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/d70f3d00b18cdba067b09bb7f87ceea648e33163/ss_d70f3d00b18cdba067b09bb7f87ceea648e33163.1920x1080.jpg?t=1784087387","alt":"Cursemark 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Cursemark",
+    "developers": [
+      "CLYDE games"
+    ],
+    "publishers": [
+      "Mad Mushroom"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-08",
+    "tags": [
+      "动作肉鸽",
+      "探索",
+      "黑暗奇幻",
+      "轻度Rogue",
+      "砍杀"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "符文会改写每一种能力，可让剑刃连锁闪电、火球分裂并在施法时喷出冰柱",
+      "dimension": "玩法",
+      "excerpt": "Define your build and playstyle with runes that change how every ability works by integrating them into your attacks, spells, wards, and ultimates. Add chain lightning to your sword and burst enemies into poison clouds. Multiply your fireball spell and erupt ice pillars from the ground when you cast it.",
+      "url": "https://store.steampowered.com/app/3219180/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "世界没有地图标记或引导，寻路本身也是Build的一部分，并能发现秘密通道与捷径",
+      "dimension": "玩法",
+      "excerpt": "The Unknown Lands are vast, full of secret passages, hidden relics, and strange sights. The world unravels more and more with each run as you make new discoveries and solve riddles to unlock power and shortcuts. No map-markers, no hand-holding. Pathfinding is a part of your build as well.",
+      "url": "https://store.steampowered.com/app/3219180/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "永久神龛与锻炉会扩展力量和符文槽，还能跨局升级并定向选择适合构筑的祝福",
+      "dimension": "玩法",
+      "excerpt": "Discover permanent shrines and forges that expand your power and rune slots. Upgrade them for future runs and target the blessings best suited to your build as you grow in skill and knowledge.",
+      "url": "https://store.steampowered.com/app/3219180/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 26756,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 157256,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9817,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 326762,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 28387,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 28387,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.7749083177947735,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 548,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.644407,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Cursemark位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/1a81856315587c1d40ea17773daa2d950faf0925/ss_1a81856315587c1d40ea17773daa2d950faf0925.1920x1080.jpg?t=1784087387",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/1a81856315587c1d40ea17773daa2d950faf0925/ss_1a81856315587c1d40ea17773daa2d950faf0925.1920x1080.jpg?t=1785270377",
+        "alt": "Cursemark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/d5fb9dca0f70ca779f2ccbf1204b2d3481c3bbb4/ss_d5fb9dca0f70ca779f2ccbf1204b2d3481c3bbb4.1920x1080.jpg?t=1785270377",
+        "alt": "Cursemark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/78259bc680a837fcfc6fd5eb5b7d74db01416e1a/ss_78259bc680a837fcfc6fd5eb5b7d74db01416e1a.1920x1080.jpg?t=1785270377",
+        "alt": "Cursemark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/d70f3d00b18cdba067b09bb7f87ceea648e33163/ss_d70f3d00b18cdba067b09bb7f87ceea648e33163.1920x1080.jpg?t=1785270377",
+        "alt": "Cursemark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/5acc9708792b4712d903e28ae9ca0bdb97304fc3/ss_5acc9708792b4712d903e28ae9ca0bdb97304fc3.1920x1080.jpg?t=1785270377",
+        "alt": "Cursemark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/1343d6d0dd0ef51dadcf31aeba72986ea05a2309/ss_1343d6d0dd0ef51dadcf31aeba72986ea05a2309.1920x1080.jpg?t=1785270377",
+        "alt": "Cursemark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/208b527fffb353b2137e49c0b3e7f95c220daf69/ss_208b527fffb353b2137e49c0b3e7f95c220daf69.1920x1080.jpg?t=1785270377",
+        "alt": "Cursemark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219180/929026681b13a562ec16c29f3c232b00b482ed30/ss_929026681b13a562ec16c29f3c232b00b482ed30.1920x1080.jpg?t=1785270377",
+        "alt": "Cursemark 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

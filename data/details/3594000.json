@@ -1,1 +1,174 @@
-{"identity":{"original_title":"性感史莱姆派对（Slime Sexy Party）","developers":["HZ studio"],"publishers":["HZ studio"],"release_status":"early_access","release_date":"2025-07-23","tags":["冒险","动作肉鸽","射击","二维画面","奇幻"]},"hooks":[{"text":"触碰友军史莱姆扩张贪吃蛇式队伍","dimension":"玩法","excerpt":"In the combat gameplay of this game, players will play as the snake head. In each battle, friendly units will appear one by one. Players must touch them to have them join their team, just like in the game of Snake, making the team longer and longer.","url":"https://store.steampowered.com/app/3594000/","label":"证据原文片段"},{"text":"随机史莱姆能力重组每场队伍","dimension":"玩法","excerpt":"Each slime has its own unique ability, and all the slimes that appear are random, so the team players assemble each time is different, providing a different experience every time.","url":"https://store.steampowered.com/app/3594000/","label":"证据原文片段"},{"text":"从对话线索拼回妻子的记忆","dimension":"故事","excerpt":"In the storyline gameplay of this game, players need to carefully observe and listen, gather information from every sentence of the dialogue, piece together their wife's memories, and thus find their wife who is lost in the dream of memories.","url":"https://store.steampowered.com/app/3594000/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4218,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":114,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6042,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4256,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4256,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.7339412441264646,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":235,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":99.57265,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"冒险、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/5ce59a6e1811ab8c22a04348367b4103d3ed0d60/ss_5ce59a6e1811ab8c22a04348367b4103d3ed0d60.1920x1080.jpg?t=1753286539","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/5ce59a6e1811ab8c22a04348367b4103d3ed0d60/ss_5ce59a6e1811ab8c22a04348367b4103d3ed0d60.1920x1080.jpg?t=1753286539","alt":"性感史莱姆派对（Slime Sexy Party） 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/633b068732d5d2e235c6b9228e6fdf8b4625527a/ss_633b068732d5d2e235c6b9228e6fdf8b4625527a.1920x1080.jpg?t=1753286539","alt":"性感史莱姆派对（Slime Sexy Party） 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/c1c02b3bd0f482216a3b003278c98c5464ebfb54/ss_c1c02b3bd0f482216a3b003278c98c5464ebfb54.1920x1080.jpg?t=1753286539","alt":"性感史莱姆派对（Slime Sexy Party） 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/dcceb1b3a5ea00b7197b55730a1b1aaa4f91dcdf/ss_dcceb1b3a5ea00b7197b55730a1b1aaa4f91dcdf.1920x1080.jpg?t=1753286539","alt":"性感史莱姆派对（Slime Sexy Party） 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "性感史莱姆派对（Slime Sexy Party）",
+    "developers": [
+      "HZ studio"
+    ],
+    "publishers": [
+      "HZ studio"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-07-23",
+    "tags": [
+      "冒险",
+      "轻度Rogue",
+      "街机",
+      "动作肉鸽",
+      "塔防"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "触碰友军史莱姆扩张贪吃蛇式队伍",
+      "dimension": "玩法",
+      "excerpt": "In the combat gameplay of this game, players will play as the snake head. In each battle, friendly units will appear one by one. Players must touch them to have them join their team, just like in the game of Snake, making the team longer and longer.",
+      "url": "https://store.steampowered.com/app/3594000/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "随机史莱姆能力重组每场队伍",
+      "dimension": "玩法",
+      "excerpt": "Each slime has its own unique ability, and all the slimes that appear are random, so the team players assemble each time is different, providing a different experience every time.",
+      "url": "https://store.steampowered.com/app/3594000/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从对话线索拼回妻子的记忆",
+      "dimension": "故事",
+      "excerpt": "In the storyline gameplay of this game, players need to carefully observe and listen, gather information from every sentence of the dialogue, piece together their wife's memories, and thus find their wife who is lost in the dream of memories.",
+      "url": "https://store.steampowered.com/app/3594000/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4201,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 115,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 6021,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4239,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4239,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.7465910494287216,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 231,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 99.57265,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "性感史莱姆派对（Slime Sexy Party）位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/5ce59a6e1811ab8c22a04348367b4103d3ed0d60/ss_5ce59a6e1811ab8c22a04348367b4103d3ed0d60.1920x1080.jpg?t=1753286539",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/5ce59a6e1811ab8c22a04348367b4103d3ed0d60/ss_5ce59a6e1811ab8c22a04348367b4103d3ed0d60.1920x1080.jpg?t=1753286539",
+        "alt": "性感史莱姆派对（Slime Sexy Party） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/633b068732d5d2e235c6b9228e6fdf8b4625527a/ss_633b068732d5d2e235c6b9228e6fdf8b4625527a.1920x1080.jpg?t=1753286539",
+        "alt": "性感史莱姆派对（Slime Sexy Party） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/c1c02b3bd0f482216a3b003278c98c5464ebfb54/ss_c1c02b3bd0f482216a3b003278c98c5464ebfb54.1920x1080.jpg?t=1753286539",
+        "alt": "性感史莱姆派对（Slime Sexy Party） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/dcceb1b3a5ea00b7197b55730a1b1aaa4f91dcdf/ss_dcceb1b3a5ea00b7197b55730a1b1aaa4f91dcdf.1920x1080.jpg?t=1753286539",
+        "alt": "性感史莱姆派对（Slime Sexy Party） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/e3c39c08bd600de08dccfafadc2c01640c40fc8c/ss_e3c39c08bd600de08dccfafadc2c01640c40fc8c.1920x1080.jpg?t=1753286539",
+        "alt": "性感史莱姆派对（Slime Sexy Party） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/a03017f345127ce6470b2acc8643d1748f9e159a/ss_a03017f345127ce6470b2acc8643d1748f9e159a.1920x1080.jpg?t=1753286539",
+        "alt": "性感史莱姆派对（Slime Sexy Party） 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594000/3e2dc71ba834ac12cf2b3138a5396998a39f0fc6/ss_3e2dc71ba834ac12cf2b3138a5396998a39f0fc6.1920x1080.jpg?t=1753286539",
+        "alt": "性感史莱姆派对（Slime Sexy Party） 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

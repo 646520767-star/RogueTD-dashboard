@@ -1,1 +1,236 @@
-{"identity":{"original_title":"Frontier Legends","developers":["Neojac Entertainment Inc."],"publishers":["Neojac Entertainment Inc."],"release_status":"early_access","release_date":"2026-05-29","tags":["抢先体验","动作","冒险","角色扮演","动作角色扮演"]},"hooks":[{"text":"从小营地经营为繁荣边境聚落，招募居民并分派耕作、制作、采集与防卫工作。","dimension":"玩法","excerpt":"Start with a small camp and grow it into a thriving frontier settlement shaped by your leadership. Recruit NPC settlers and assign daily work, farming, crafting, gathering and defense, to keep your town running. Lead well and your community thrives; neglect it and the frontier will catch up.","url":"https://store.steampowered.com/app/3032150/","label":"证据原文片段"},{"text":"可在猎人、商人、建造者、匪徒与执法者之间选择生活方式，并由行为塑造边境声望。","dimension":"玩法","excerpt":"Live your Wild West fantasy your way. Become a hunter, trader, builder, bandit, lawman or something in between. Your choices shape your reputation in the frontier.","url":"https://store.steampowered.com/app/3032150/","label":"证据原文片段"},{"text":"在荒野发现、驯服并训练属性能力各异的野马，让坐骑参与旅行与生存。","dimension":"玩法","excerpt":"Discover wild horses roaming the land, then tame and train them into trusted companions. Each horse has unique attributes and abilities, making them valuable allies and key for traveling, surviving and thriving in the frontier.","url":"https://store.steampowered.com/app/3032150/","label":"证据原文片段"}],"opinions":[{"text":"商店页使用AI美术令人反感","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The unashamed use of AI artwork on the games Steam page","url":"https://steamcommunity.com/id/Dwarkarn/recommended/3032150/","label":"证据原文片段"}]},{"text":"AI可在未转身时命中玩家","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"They don't need to be looking at you to hit you.","url":"https://steamcommunity.com/id/SudzMaballz/recommended/3032150/","label":"证据原文片段"}]},{"text":"西部生存建造概念具有潜力","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"a great Wild West survival/craft/build game","url":"https://steamcommunity.com/profiles/76561198203389772/recommended/3032150/","label":"证据原文片段"}]},{"text":"即使未完成仍有玩家享受当前体验","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the game has a good concept and I still enjoyed playing.","url":"https://steamcommunity.com/profiles/76561199483149512/recommended/3032150/","label":"证据原文片段"}]},{"text":"西部生存题材很酷","dimension":"主题","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the survival/western theme is cool","url":"https://steamcommunity.com/profiles/76561199474418857/recommended/3032150/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":2178,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":33045,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4583,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":47187,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2551,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2551,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.293397554438063,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":67,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":42,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":41.791045,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["商店页使用AI美术令人反感","AI可在未转身时命中玩家","截至2026-07-24，Steam官方好评率为41.791045%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_e8b6d610fac503a153327a055453eb8a7afeb61b.1920x1080.jpg?t=1780082913","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_e8b6d610fac503a153327a055453eb8a7afeb61b.1920x1080.jpg?t=1780082913","alt":"Frontier Legends 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_80970633e6dc4f4ed14f5c34e0bd4f91a84c644f.1920x1080.jpg?t=1780082913","alt":"Frontier Legends 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_964e1de7a077b1f2bcc85fd0a5e056f28fd45d04.1920x1080.jpg?t=1780082913","alt":"Frontier Legends 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_98e725a3ccc2183935c4f3e7ba5ef2dcd9ae30b6.1920x1080.jpg?t=1780082913","alt":"Frontier Legends 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Frontier Legends",
+    "developers": [
+      "Neojac Entertainment Inc."
+    ],
+    "publishers": [
+      "Neojac Entertainment Inc."
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-05-29",
+    "tags": [
+      "抢先体验",
+      "动作",
+      "冒险",
+      "角色扮演",
+      "动作角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从小营地经营为繁荣边境聚落，招募居民并分派耕作、制作、采集与防卫工作。",
+      "dimension": "玩法",
+      "excerpt": "Start with a small camp and grow it into a thriving frontier settlement shaped by your leadership. Recruit NPC settlers and assign daily work, farming, crafting, gathering and defense, to keep your town running. Lead well and your community thrives; neglect it and the frontier will catch up.",
+      "url": "https://store.steampowered.com/app/3032150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可在猎人、商人、建造者、匪徒与执法者之间选择生活方式，并由行为塑造边境声望。",
+      "dimension": "玩法",
+      "excerpt": "Live your Wild West fantasy your way. Become a hunter, trader, builder, bandit, lawman or something in between. Your choices shape your reputation in the frontier.",
+      "url": "https://store.steampowered.com/app/3032150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在荒野发现、驯服并训练属性能力各异的野马，让坐骑参与旅行与生存。",
+      "dimension": "玩法",
+      "excerpt": "Discover wild horses roaming the land, then tame and train them into trusted companions. Each horse has unique attributes and abilities, making them valuable allies and key for traveling, surviving and thriving in the frontier.",
+      "url": "https://store.steampowered.com/app/3032150/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "商店页使用AI美术令人反感",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The unashamed use of AI artwork on the games Steam page",
+          "url": "https://steamcommunity.com/id/Dwarkarn/recommended/3032150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "AI可在未转身时命中玩家",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "They don't need to be looking at you to hit you.",
+          "url": "https://steamcommunity.com/id/SudzMaballz/recommended/3032150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "西部生存建造概念具有潜力",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a great Wild West survival/craft/build game",
+          "url": "https://steamcommunity.com/profiles/76561198203389772/recommended/3032150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "即使未完成仍有玩家享受当前体验",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the game has a good concept and I still enjoyed playing.",
+          "url": "https://steamcommunity.com/profiles/76561199483149512/recommended/3032150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "西部生存题材很酷",
+      "dimension": "主题",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the survival/western theme is cool",
+          "url": "https://steamcommunity.com/profiles/76561199474418857/recommended/3032150/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2056,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 31962,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4589,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 45908,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2418,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2418,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.6597917788758387,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 55,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 43,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 42.857143,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "商店页使用AI美术令人反感",
+    "AI可在未转身时命中玩家",
+    "截至2026-07-24，Steam官方好评率为41.791045%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Frontier Legends位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_e8b6d610fac503a153327a055453eb8a7afeb61b.1920x1080.jpg?t=1780082913",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_e8b6d610fac503a153327a055453eb8a7afeb61b.1920x1080.jpg?t=1780082913",
+        "alt": "Frontier Legends 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_80970633e6dc4f4ed14f5c34e0bd4f91a84c644f.1920x1080.jpg?t=1780082913",
+        "alt": "Frontier Legends 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_964e1de7a077b1f2bcc85fd0a5e056f28fd45d04.1920x1080.jpg?t=1780082913",
+        "alt": "Frontier Legends 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_98e725a3ccc2183935c4f3e7ba5ef2dcd9ae30b6.1920x1080.jpg?t=1780082913",
+        "alt": "Frontier Legends 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032150/ss_e16182cb9ab4b8b6dd238bd302d011a28a12299f.1920x1080.jpg?t=1780082913",
+        "alt": "Frontier Legends 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

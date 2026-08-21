@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Northend Tower Defense","developers":["Northend Games"],"publishers":["Northend Games","Gamersky Games"],"release_status":"released","release_date":"2024-09-04","tags":["塔防","独立游戏","策略","自走棋","战争"]},"hooks":[{"text":"二十多种单位、七十七项升级、四个被动和五种特技支撑大规模多线防守","dimension":"玩法","excerpt":"NETD deploys you in big battles of +20 different units, +77 unique upgrades, 4 passive powers, and 5 special abilities.","url":"https://store.steampowered.com/app/1669170/","label":"证据原文片段"},{"text":"从海滩登陆到沙漠壕沟，不同战场地形持续改写每轮部署体验","dimension":"玩法","excerpt":"From beach landings to desert trenches, Northend Tower Defense's rich level design allows players to continually gain unique gameplay experiences each round.","url":"https://store.steampowered.com/app/1669170/","label":"证据原文片段"},{"text":"僵尸模式加入新陷阱与空投，十二种四级强化可逐步电击、灼烧和爆破尸潮","dimension":"玩法","excerpt":"Deploy a variety of newly designed traps and pick up powerful airdrops, and face off against massive zombie hordes with your army. There are over 12 new powerful upgrades at your disposal. Each upgrade features 4 different levels, allowing you to shock, burn, electrify, and blow up your enemies in increasingly devastating ways.","url":"https://store.steampowered.com/app/1669170/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":98397,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":81340,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8926,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":443026,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":105743,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":132179,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.8502601426944625,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1451,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":74,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":74.017919,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"塔防、独立游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_8e16f109b39ab4e148328dd237dc4feefb7ac789.1920x1080.jpg?t=1773721040","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_8e16f109b39ab4e148328dd237dc4feefb7ac789.1920x1080.jpg?t=1773721040","alt":"诺森德塔防 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_4f10bcb5e102016016e7f1fce1271431dd385cb8.1920x1080.jpg?t=1773721040","alt":"诺森德塔防 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_d38ccf1e37559599c733a90947d13be858875a6f.1920x1080.jpg?t=1773721040","alt":"诺森德塔防 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_a28fe31dc9d376fb2d133aa3961a16d53ed42a31.1920x1080.jpg?t=1773721040","alt":"诺森德塔防 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Northend Tower Defense",
+    "developers": [
+      "Northend Games"
+    ],
+    "publishers": [
+      "Northend Games",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-04",
+    "tags": [
+      "塔防",
+      "独立游戏",
+      "策略",
+      "自走棋",
+      "战争"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "二十多种单位、七十七项升级、四个被动和五种特技支撑大规模多线防守",
+      "dimension": "玩法",
+      "excerpt": "NETD deploys you in big battles of +20 different units, +77 unique upgrades, 4 passive powers, and 5 special abilities.",
+      "url": "https://store.steampowered.com/app/1669170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从海滩登陆到沙漠壕沟，不同战场地形持续改写每轮部署体验",
+      "dimension": "玩法",
+      "excerpt": "From beach landings to desert trenches, Northend Tower Defense's rich level design allows players to continually gain unique gameplay experiences each round.",
+      "url": "https://store.steampowered.com/app/1669170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "僵尸模式加入新陷阱与空投，十二种四级强化可逐步电击、灼烧和爆破尸潮",
+      "dimension": "玩法",
+      "excerpt": "Deploy a variety of newly designed traps and pick up powerful airdrops, and face off against massive zombie hordes with your army. There are over 12 new powerful upgrades at your disposal. Each upgrade features 4 different levels, allowing you to shock, burn, electrify, and blow up your enemies in increasingly devastating ways.",
+      "url": "https://store.steampowered.com/app/1669170/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 118014,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 81822,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8943,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 540821,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 126890,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 158613,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.938174917109252,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1306,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 74,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 73.949001,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "诺森德塔防位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_8e16f109b39ab4e148328dd237dc4feefb7ac789.1920x1080.jpg?t=1773721040",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_8e16f109b39ab4e148328dd237dc4feefb7ac789.1920x1080.jpg?t=1773721040",
+        "alt": "诺森德塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_4f10bcb5e102016016e7f1fce1271431dd385cb8.1920x1080.jpg?t=1773721040",
+        "alt": "诺森德塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_d38ccf1e37559599c733a90947d13be858875a6f.1920x1080.jpg?t=1773721040",
+        "alt": "诺森德塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_a28fe31dc9d376fb2d133aa3961a16d53ed42a31.1920x1080.jpg?t=1773721040",
+        "alt": "诺森德塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_b648237c0ad77b5f467141f535da89c69fce6d28.1920x1080.jpg?t=1773721040",
+        "alt": "诺森德塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_b89799dfdd89bde8311b592d3c80f1095d46132f.1920x1080.jpg?t=1773721040",
+        "alt": "诺森德塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_dd676d3a1b98e6e076c5d4434873b323d81c1367.1920x1080.jpg?t=1773721040",
+        "alt": "诺森德塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669170/ss_5f28ee7a418cba74c2b7c3ec46d456001530d799.1920x1080.jpg?t=1773721040",
+        "alt": "诺森德塔防 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

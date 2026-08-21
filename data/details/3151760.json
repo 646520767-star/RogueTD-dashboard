@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Roboquest VR","developers":["Flat2VR Studios","RyseUp Studios"],"publishers":["Flat2VR Studios","Impact Inked"],"release_status":"released","release_date":"2025-11-20","tags":["动作","类Rogue","机器人","冒险","休闲"]},"hooks":[{"text":"用身体侧闪弹幕和等离子火力，并以冲刺、滑行、磨轨穿越峡谷与城市","dimension":"玩法","excerpt":"Feel the most kinetic combat available in a headset as you sprint, slide, and grind across scorched canyons and futuristic cities. Total Immersion: Physically weave through bullet hell, dodge incoming plasma fire with your own body, and return the favor with pinpoint precision.","url":"https://store.steampowered.com/app/3151760/","label":"证据原文片段"},{"text":"霰弹枪后坐、拉弓和近战均为实体交互，武器还需手动换弹","dimension":"玩法","excerpt":"Visceral Firepower: Feel the kick of high-powered shotguns, physically draw back a high-tension bow, or shred bots up close with razor-sharp melee weapons. Master Your Tools: Utilize interactive weapon handling and manual reloading to stay in the fight.","url":"https://store.steampowered.com/app/3151760/","label":"证据原文片段"},{"text":"动态生成敌军遭遇让关卡持续变化，机器人会适应并由巨型Boss收尾","dimension":"玩法","excerpt":"The Chaos Never Repeats Blast through levels that shift and evolve with dynamically generated enemy encounters. The bots adapt, and so must you. Discover hidden secrets, face down colossal bosses, and uncover the mysteries of a long-forgotten civilization.","url":"https://store.steampowered.com/app/3151760/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6475,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":39400,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1457,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":160814,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":8045,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":8045,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.181014883743574,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":506,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.335306,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018/ss_82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018.1920x1080.jpg?t=1776110009","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018/ss_82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018.1920x1080.jpg?t=1776110009","alt":"Roboquest VR 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_8546af5760864462a5b3630f35b93c9df3b30210.1920x1080.jpg?t=1776110009","alt":"Roboquest VR 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/b2cddc8427a5299777e9de9b2b745783ef4bad43/ss_b2cddc8427a5299777e9de9b2b745783ef4bad43.1920x1080.jpg?t=1776110009","alt":"Roboquest VR 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/28086a3be6923e44925657e44c7158c4dc9f8514/ss_28086a3be6923e44925657e44c7158c4dc9f8514.1920x1080.jpg?t=1776110009","alt":"Roboquest VR 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Roboquest VR",
+    "developers": [
+      "Flat2VR Studios",
+      "RyseUp Studios"
+    ],
+    "publishers": [
+      "Flat2VR Studios",
+      "Impact Inked"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-20",
+    "tags": [
+      "动作",
+      "动作肉鸽",
+      "类Rogue",
+      "机器人",
+      "冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用身体侧闪弹幕和等离子火力，并以冲刺、滑行、磨轨穿越峡谷与城市",
+      "dimension": "玩法",
+      "excerpt": "Feel the most kinetic combat available in a headset as you sprint, slide, and grind across scorched canyons and futuristic cities. Total Immersion: Physically weave through bullet hell, dodge incoming plasma fire with your own body, and return the favor with pinpoint precision.",
+      "url": "https://store.steampowered.com/app/3151760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "霰弹枪后坐、拉弓和近战均为实体交互，武器还需手动换弹",
+      "dimension": "玩法",
+      "excerpt": "Visceral Firepower: Feel the kick of high-powered shotguns, physically draw back a high-tension bow, or shred bots up close with razor-sharp melee weapons. Master Your Tools: Utilize interactive weapon handling and manual reloading to stay in the fight.",
+      "url": "https://store.steampowered.com/app/3151760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "动态生成敌军遭遇让关卡持续变化，机器人会适应并由巨型Boss收尾",
+      "dimension": "玩法",
+      "excerpt": "The Chaos Never Repeats Blast through levels that shift and evolve with dynamically generated enemy encounters. The bots adapt, and so must you. Discover hidden secrets, face down colossal bosses, and uncover the mysteries of a long-forgotten civilization.",
+      "url": "https://store.steampowered.com/app/3151760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7509,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 40912,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1494,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 185722,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 9366,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 9366,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.228365543945144,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 387,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.37037,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Roboquest VR位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018/ss_82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018.1920x1080.jpg?t=1776110009",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018/ss_82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018.1920x1080.jpg?t=1786216495",
+        "alt": "Roboquest VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_8546af5760864462a5b3630f35b93c9df3b30210.1920x1080.jpg?t=1786216495",
+        "alt": "Roboquest VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/b2cddc8427a5299777e9de9b2b745783ef4bad43/ss_b2cddc8427a5299777e9de9b2b745783ef4bad43.1920x1080.jpg?t=1786216495",
+        "alt": "Roboquest VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/28086a3be6923e44925657e44c7158c4dc9f8514/ss_28086a3be6923e44925657e44c7158c4dc9f8514.1920x1080.jpg?t=1786216495",
+        "alt": "Roboquest VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_dd1004d7033c851fef9c1ac7f6efa6512be1b19e.1920x1080.jpg?t=1786216495",
+        "alt": "Roboquest VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/4dbbd27ccc0dec6b411995d4abe5e5691a5d3ac0/ss_4dbbd27ccc0dec6b411995d4abe5e5691a5d3ac0.1920x1080.jpg?t=1786216495",
+        "alt": "Roboquest VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_f9c1f926373156065035fab399e714924ea66a7f.1920x1080.jpg?t=1786216495",
+        "alt": "Roboquest VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/e1b97e36513324b2ea1c4aa12badeda73db2c825/ss_e1b97e36513324b2ea1c4aa12badeda73db2c825.1920x1080.jpg?t=1786216495",
+        "alt": "Roboquest VR 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

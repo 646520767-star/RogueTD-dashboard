@@ -1,1 +1,264 @@
-{"identity":{"original_title":"Dungeon Tycoon","developers":["Lunheim Studios"],"publishers":["Goblinz Publishing","Maple Whispering Limited"],"release_status":"released","release_date":"2024-09-25","tags":["经营管理","塔防","地牢探索","策略","奇幻"]},"hooks":[{"text":"自由规划地牢布局、陷阱、雇佣怪物与宝藏位置来设计英雄旅程","dimension":"玩法","excerpt":"In Dungeon Tycoon, you have complete freedom to build and manage your own dungeon. You not only design the layout, but choose the best places for whatever traps you decide to use, which monsters you will hire to face the heroes, and what treasures await those skilled enough to claim victory.","url":"https://store.steampowered.com/app/2400770/","label":"证据原文片段"},{"text":"既要榨取英雄冒险价值，也要让他们带着收获离开以吸引回头客","dimension":"玩法","excerpt":"Dungeon Tycoon is all about capitalizing on every second of every hero's adventure in your mighty dungeon. Lure adventurers into your evil dungeon by summoning mighty foes, building huge and curious rooms, and a maze of deceptive opportunities. Watch how they perform and optimize every inch of your genius design. Ensure they don't go back empty-handed, so they keep coming back.","url":"https://store.steampowered.com/app/2400770/","label":"证据原文片段"},{"text":"观察访客行为反推布局问题，再出售药水和援助品优化体验与收入","dimension":"玩法","excerpt":"Inspect and watch your visitors to see how you can further improve your design. Sell potions and other various aids to your visitors.","url":"https://store.steampowered.com/app/2400770/","label":"证据原文片段"}],"opinions":[{"text":"后期房间增多后帧率骤降。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期房间多了之后FPS骤降","url":"https://steamcommunity.com/id/yesedemingyong/recommended/2400770/","label":"证据原文片段"}]},{"text":"敌人AI会随机停止行动","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"enemy ai suddenly stops randomly","url":"https://steamcommunity.com/id/maethen/recommended/2400770/","label":"证据原文片段"}]},{"text":"房间评分只按数量累加，让高级装饰失去意义。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"评分是按照房间累加的，你房间越多评分就越高，高级装饰物毫无作用。","url":"https://steamcommunity.com/id/yesedemingyong/recommended/2400770/","label":"证据原文片段"}]},{"text":"英雄AI行为愚蠢","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"英雄AI纯纯智障","url":"https://steamcommunity.com/id/yesedemingyong/recommended/2400770/","label":"证据原文片段"}]},{"text":"游戏整体非常有趣","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"A few bugs but it's extremely fun.","url":"https://store.steampowered.com/curator/38553778-All-about-Strategy-Games/","label":"证据原文片段"}]},{"text":"名称宣称地下城经营，但核心更像主题公园而非杀戮地牢。","dimension":"主题","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"you arent building a dungeon at all, you are building a themepark","url":"https://steamcommunity.com/id/maethen/recommended/2400770/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":129345,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":119469,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9927,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1455091,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":154886,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":154886,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.441992968606668,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1889,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":76,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.754367,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["技术/性能：后期房间增多后帧率骤降。","敌人AI会随机停止行动","房间评分只按数量累加，让高级装饰失去意义。","英雄AI行为愚蠢","名称宣称地下城经营，但核心更像主题公园而非杀戮地牢。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_ccff8e2cf5a1919b14a918064d1263782f41b7a5.1920x1080.jpg?t=1764868791","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_ccff8e2cf5a1919b14a918064d1263782f41b7a5.1920x1080.jpg?t=1764868791","alt":"地下城资本家 (Dungeon Tycoon) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_10e03aa9e6ddd0089ac90f7040a3c827358c256a.1920x1080.jpg?t=1764868791","alt":"地下城资本家 (Dungeon Tycoon) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_6a9e58ea63ed054992e09164f216641bfb041124.1920x1080.jpg?t=1764868791","alt":"地下城资本家 (Dungeon Tycoon) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_08a3c2bd7ce7f668eda558254b5c11c8eb6994ac.1920x1080.jpg?t=1764868791","alt":"地下城资本家 (Dungeon Tycoon) 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dungeon Tycoon",
+    "developers": [
+      "Lunheim Studios"
+    ],
+    "publishers": [
+      "Goblinz Publishing",
+      "Maple Whispering Limited"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-25",
+    "tags": [
+      "经营管理",
+      "塔防",
+      "地牢探索",
+      "策略",
+      "奇幻"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "自由规划地牢布局、陷阱、雇佣怪物与宝藏位置来设计英雄旅程",
+      "dimension": "玩法",
+      "excerpt": "In Dungeon Tycoon, you have complete freedom to build and manage your own dungeon. You not only design the layout, but choose the best places for whatever traps you decide to use, which monsters you will hire to face the heroes, and what treasures await those skilled enough to claim victory.",
+      "url": "https://store.steampowered.com/app/2400770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "既要榨取英雄冒险价值，也要让他们带着收获离开以吸引回头客",
+      "dimension": "玩法",
+      "excerpt": "Dungeon Tycoon is all about capitalizing on every second of every hero's adventure in your mighty dungeon. Lure adventurers into your evil dungeon by summoning mighty foes, building huge and curious rooms, and a maze of deceptive opportunities. Watch how they perform and optimize every inch of your genius design. Ensure they don't go back empty-handed, so they keep coming back.",
+      "url": "https://store.steampowered.com/app/2400770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "观察访客行为反推布局问题，再出售药水和援助品优化体验与收入",
+      "dimension": "玩法",
+      "excerpt": "Inspect and watch your visitors to see how you can further improve your design. Sell potions and other various aids to your visitors.",
+      "url": "https://store.steampowered.com/app/2400770/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "后期房间增多后帧率骤降。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期房间多了之后FPS骤降",
+          "url": "https://steamcommunity.com/id/yesedemingyong/recommended/2400770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人AI会随机停止行动",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "enemy ai suddenly stops randomly",
+          "url": "https://steamcommunity.com/id/maethen/recommended/2400770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "房间评分只按数量累加，让高级装饰失去意义。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "评分是按照房间累加的，你房间越多评分就越高，高级装饰物毫无作用。",
+          "url": "https://steamcommunity.com/id/yesedemingyong/recommended/2400770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "英雄AI行为愚蠢",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "英雄AI纯纯智障",
+          "url": "https://steamcommunity.com/id/yesedemingyong/recommended/2400770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏整体非常有趣",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "A few bugs but it's extremely fun.",
+          "url": "https://store.steampowered.com/curator/38553778-All-about-Strategy-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "名称宣称地下城经营，但核心更像主题公园而非杀戮地牢。",
+      "dimension": "主题",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "you arent building a dungeon at all, you are building a themepark",
+          "url": "https://steamcommunity.com/id/maethen/recommended/2400770/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 133951,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 121455,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9946,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1496586,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 160567,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 160567,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.288110379333567,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1460,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.730689,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "技术/性能：后期房间增多后帧率骤降。",
+    "敌人AI会随机停止行动",
+    "房间评分只按数量累加，让高级装饰失去意义。",
+    "英雄AI行为愚蠢",
+    "名称宣称地下城经营，但核心更像主题公园而非杀戮地牢。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "地下城资本家 (Dungeon Tycoon)位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_ccff8e2cf5a1919b14a918064d1263782f41b7a5.1920x1080.jpg?t=1764868791",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_ccff8e2cf5a1919b14a918064d1263782f41b7a5.1920x1080.jpg?t=1764868791",
+        "alt": "地下城资本家 (Dungeon Tycoon) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_10e03aa9e6ddd0089ac90f7040a3c827358c256a.1920x1080.jpg?t=1764868791",
+        "alt": "地下城资本家 (Dungeon Tycoon) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_6a9e58ea63ed054992e09164f216641bfb041124.1920x1080.jpg?t=1764868791",
+        "alt": "地下城资本家 (Dungeon Tycoon) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_08a3c2bd7ce7f668eda558254b5c11c8eb6994ac.1920x1080.jpg?t=1764868791",
+        "alt": "地下城资本家 (Dungeon Tycoon) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_3cd9c4314a2e57548dd171ebf06bdf7f7e080e82.1920x1080.jpg?t=1764868791",
+        "alt": "地下城资本家 (Dungeon Tycoon) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_51a8d99f2571ed0fd283ab91feaeb8ce57a88a13.1920x1080.jpg?t=1764868791",
+        "alt": "地下城资本家 (Dungeon Tycoon) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_a39f5ec67339cf92366c028e79ec2ce5d0921e8a.1920x1080.jpg?t=1764868791",
+        "alt": "地下城资本家 (Dungeon Tycoon) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400770/ss_7a843869cfc8703bf1d64b5914caad01359ab7f5.1920x1080.jpg?t=1764868791",
+        "alt": "地下城资本家 (Dungeon Tycoon) 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

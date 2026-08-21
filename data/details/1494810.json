@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Mortal Sin","developers":["Nikola Todorovic"],"publishers":["Nikola Todorovic"],"release_status":"released","release_date":"2025-08-29","tags":["第一人称","动作肉鸽","地牢探索","砍杀","角色扮演"]},"hooks":[{"text":"斩击、猛击与踢击连成高速肢解终结技","dimension":"玩法","excerpt":"Chain slashes, bashes, and kicks into devastating finishers as limbs fly and blood paints the walls. Combat thrives on momentum: move fast, hit hard, and never give your enemies a chance to breathe.","url":"https://store.steampowered.com/app/1494810/","label":"证据原文片段"},{"text":"程序地图嵌入数百手工房间与随机任务","dimension":"玩法","excerpt":"Procedurally generated levels, randomized quests, and hundreds of hand-crafted rooms make every run feel fresh. Unlock a growing roster of distinct classes, from the greatsword-wielding Berserker to the gun-toting Pirate, each with their own playstyle and wild synergies.","url":"https://store.steampowered.com/app/1494810/","label":"证据原文片段"},{"text":"图像小说式画面可切换视觉模式与调色板","dimension":"画风","excerpt":"Dive into a bold, graphic novel-inspired world that’s as stylish as it is deadly. Prefer a different look? Mortal Sin now features multiple visual modes and color palettes.","url":"https://store.steampowered.com/app/1494810/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":319640,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":795601,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":36561,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5056221,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":331404,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":386638,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.256279291430968,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":5857,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.36764,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"第一人称、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/9aa5df4c238dfd11109bb1e7fda29a3553a158e1/ss_9aa5df4c238dfd11109bb1e7fda29a3553a158e1.1920x1080.jpg?t=1782335429","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/9aa5df4c238dfd11109bb1e7fda29a3553a158e1/ss_9aa5df4c238dfd11109bb1e7fda29a3553a158e1.1920x1080.jpg?t=1782335429","alt":"Mortal Sin 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/a1e48116ed282c67d53c1c844d2e7ef0db6aa987/ss_a1e48116ed282c67d53c1c844d2e7ef0db6aa987.1920x1080.jpg?t=1782335429","alt":"Mortal Sin 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/c0243e42a2c2072b20af22471c73bf17ea001268/ss_c0243e42a2c2072b20af22471c73bf17ea001268.1920x1080.jpg?t=1782335429","alt":"Mortal Sin 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/3955db355438bcaedc27dc08f0b4c4ff523f6063/ss_3955db355438bcaedc27dc08f0b4c4ff523f6063.1920x1080.jpg?t=1782335429","alt":"Mortal Sin 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Mortal Sin",
+    "developers": [
+      "Nikola Todorovic"
+    ],
+    "publishers": [
+      "Nikola Todorovic"
+    ],
+    "release_status": "released",
+    "release_date": "2025-08-29",
+    "tags": [
+      "第一人称",
+      "动作肉鸽",
+      "地牢探索",
+      "砍杀",
+      "角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "斩击、猛击与踢击连成高速肢解终结技",
+      "dimension": "玩法",
+      "excerpt": "Chain slashes, bashes, and kicks into devastating finishers as limbs fly and blood paints the walls. Combat thrives on momentum: move fast, hit hard, and never give your enemies a chance to breathe.",
+      "url": "https://store.steampowered.com/app/1494810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "程序地图嵌入数百手工房间与随机任务",
+      "dimension": "玩法",
+      "excerpt": "Procedurally generated levels, randomized quests, and hundreds of hand-crafted rooms make every run feel fresh. Unlock a growing roster of distinct classes, from the greatsword-wielding Berserker to the gun-toting Pirate, each with their own playstyle and wild synergies.",
+      "url": "https://store.steampowered.com/app/1494810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "图像小说式画面可切换视觉模式与调色板",
+      "dimension": "画风",
+      "excerpt": "Dive into a bold, graphic novel-inspired world that’s as stylish as it is deadly. Prefer a different look? Mortal Sin now features multiple visual modes and color palettes.",
+      "url": "https://store.steampowered.com/app/1494810/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 313010,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 795204,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 36623,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 4918588,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 324854,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 378997,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.686270846659748,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 5569,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.245829,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Mortal Sin位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/9aa5df4c238dfd11109bb1e7fda29a3553a158e1/ss_9aa5df4c238dfd11109bb1e7fda29a3553a158e1.1920x1080.jpg?t=1782335429",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/9aa5df4c238dfd11109bb1e7fda29a3553a158e1/ss_9aa5df4c238dfd11109bb1e7fda29a3553a158e1.1920x1080.jpg?t=1782335429",
+        "alt": "Mortal Sin 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/a1e48116ed282c67d53c1c844d2e7ef0db6aa987/ss_a1e48116ed282c67d53c1c844d2e7ef0db6aa987.1920x1080.jpg?t=1782335429",
+        "alt": "Mortal Sin 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/c0243e42a2c2072b20af22471c73bf17ea001268/ss_c0243e42a2c2072b20af22471c73bf17ea001268.1920x1080.jpg?t=1782335429",
+        "alt": "Mortal Sin 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/3955db355438bcaedc27dc08f0b4c4ff523f6063/ss_3955db355438bcaedc27dc08f0b4c4ff523f6063.1920x1080.jpg?t=1782335429",
+        "alt": "Mortal Sin 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/dded6592a1f8a474028d940270edc1d2f8213aba/ss_dded6592a1f8a474028d940270edc1d2f8213aba.1920x1080.jpg?t=1782335429",
+        "alt": "Mortal Sin 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/50ed9b7a52bad1979cc0cf7bdeaf1206b082bbcb/ss_50ed9b7a52bad1979cc0cf7bdeaf1206b082bbcb.1920x1080.jpg?t=1782335429",
+        "alt": "Mortal Sin 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/6f97ce6b3b01c3c35e06994123b2bc06935153f5/ss_6f97ce6b3b01c3c35e06994123b2bc06935153f5.1920x1080.jpg?t=1782335429",
+        "alt": "Mortal Sin 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/ss_6d4cc2b5fcd9e9183f5b001c23d4819db0b69ecc.1920x1080.jpg?t=1782335429",
+        "alt": "Mortal Sin 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

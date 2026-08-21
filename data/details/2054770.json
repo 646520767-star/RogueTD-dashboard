@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Combo Card Clashers","developers":["Burnt Games LLC"],"publishers":["Burnt Games LLC","Erabit"],"release_status":"released","release_date":"2024-05-16","tags":["战术","肉鸽卡组构筑","卡牌对战","策略","自走棋"]},"hooks":[{"text":"每回合把一张牌加入Combo Grid，再一次性打出网格全部卡牌触发位置协同","dimension":"玩法","excerpt":"What makes the game unique and different from other deck-building games is the innovative Card Combo Grid which allows powerful card synergies to be built every turn. Each turn, you add a card to the combo grid and play all cards in grid. Experiment with the different card synergies and grid placement to unlock powerful effects.","url":"https://store.steampowered.com/app/2054770/","label":"证据原文片段"},{"text":"战后可与怪物交朋友并招入队伍，用其特殊能力补足下场战斗","dimension":"玩法","excerpt":"Other than recruiting mercenaries in stores, you could also befriend monsters after combat to become your allies! Their special abilities could just be that trick up your sleeve to win the next fight.","url":"https://store.steampowered.com/app/2054770/","label":"证据原文片段"},{"text":"为不同英雄调整属性并手工制作起始牌组，再叠加等级、装备、遗物与技能路线","dimension":"玩法","excerpt":"The main game offers three heroes, each with their own unique style and strength. Customize the attributes of each hero and craft their starting deck to maximize their abilities. You can also level up, equip gear, find relics and learn skills to open up new roads to progression.","url":"https://store.steampowered.com/app/2054770/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3123,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":17793,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1226,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":26790,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3765,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3765,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.7639559451989095,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":119,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.672269,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"战术、肉鸽卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_fccd3072017c6033a3b59f79809807b57d2b62de.1920x1080.jpg?t=1728973245","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_fccd3072017c6033a3b59f79809807b57d2b62de.1920x1080.jpg?t=1728973245","alt":"卡牌连击：对决 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_bf687e1c7b882b614aed061af7eb42a199ac38fd.1920x1080.jpg?t=1728973245","alt":"卡牌连击：对决 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_28f6492347e8e862c762ae1fd59372c92e29420f.1920x1080.jpg?t=1728973245","alt":"卡牌连击：对决 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_ddd4a73c7336c7141d15eb27d9680201426d3702.1920x1080.jpg?t=1728973245","alt":"卡牌连击：对决 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Combo Card Clashers",
+    "developers": [
+      "Burnt Games LLC"
+    ],
+    "publishers": [
+      "Burnt Games LLC",
+      "Erabit"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-16",
+    "tags": [
+      "战术",
+      "肉鸽卡组构筑",
+      "卡牌对战",
+      "策略",
+      "自走棋"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每回合把一张牌加入Combo Grid，再一次性打出网格全部卡牌触发位置协同",
+      "dimension": "玩法",
+      "excerpt": "What makes the game unique and different from other deck-building games is the innovative Card Combo Grid which allows powerful card synergies to be built every turn. Each turn, you add a card to the combo grid and play all cards in grid. Experiment with the different card synergies and grid placement to unlock powerful effects.",
+      "url": "https://store.steampowered.com/app/2054770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战后可与怪物交朋友并招入队伍，用其特殊能力补足下场战斗",
+      "dimension": "玩法",
+      "excerpt": "Other than recruiting mercenaries in stores, you could also befriend monsters after combat to become your allies! Their special abilities could just be that trick up your sleeve to win the next fight.",
+      "url": "https://store.steampowered.com/app/2054770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "为不同英雄调整属性并手工制作起始牌组，再叠加等级、装备、遗物与技能路线",
+      "dimension": "玩法",
+      "excerpt": "The main game offers three heroes, each with their own unique style and strength. Customize the attributes of each hero and craft their starting deck to maximize their abilities. You can also level up, equip gear, find relics and learn skills to open up new roads to progression.",
+      "url": "https://store.steampowered.com/app/2054770/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3511,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1224,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 29627,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4226,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4226,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.766113196773966,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 91,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "卡牌连击：对决当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_fccd3072017c6033a3b59f79809807b57d2b62de.1920x1080.jpg?t=1728973245",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_fccd3072017c6033a3b59f79809807b57d2b62de.1920x1080.jpg?t=1728973245",
+        "alt": "卡牌连击：对决 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_bf687e1c7b882b614aed061af7eb42a199ac38fd.1920x1080.jpg?t=1728973245",
+        "alt": "卡牌连击：对决 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_28f6492347e8e862c762ae1fd59372c92e29420f.1920x1080.jpg?t=1728973245",
+        "alt": "卡牌连击：对决 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_ddd4a73c7336c7141d15eb27d9680201426d3702.1920x1080.jpg?t=1728973245",
+        "alt": "卡牌连击：对决 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_c7055f06732cbdc84ccc1ac53a8ddc67b4fc0bf4.1920x1080.jpg?t=1728973245",
+        "alt": "卡牌连击：对决 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_50fb153966d184c74932bc015874b09f553363a1.1920x1080.jpg?t=1728973245",
+        "alt": "卡牌连击：对决 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_37914d38b6e5c0382f29ded6e83d6eefd6c13387.1920x1080.jpg?t=1728973245",
+        "alt": "卡牌连击：对决 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054770/ss_7af32beaf4549bddaaeb84e8c3ad841ecae95dfe.1920x1080.jpg?t=1728973245",
+        "alt": "卡牌连击：对决 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

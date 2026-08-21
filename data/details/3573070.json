@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Toy Smash Kaboom!","developers":["Free Particle"],"publishers":["Free Particle","Paleo","XD"],"release_status":"released","release_date":"2025-12-03","tags":["自走棋","玩家对战","多人游戏","肉鸽卡组构筑","动漫风格"]},"hooks":[{"text":"桌面上的每个玩具槽位都是构筑决策，要组合稀有单位并调整阵形释放完整Build潜力","dimension":"玩法","excerpt":"Master the art of toy arrangement on your tabletop! Every toy slot is a strategic decision. Plan your layout, combine rare units, and arrange them wisely to unlock your build’s full potential!","url":"https://store.steampowered.com/app/3573070/","label":"证据原文片段"},{"text":"四百多种策略玩具覆盖百种召唤物、五十多种陷阱与职业能力、二百五十多件魔法装备","dimension":"玩法","excerpt":"Craft your own tactical system from over 400 strategic toys! 100+ summons to clash in tabletop battles 50+ traps and class abilities to outsmart your opponents and shift momentum 250+ magic items and weapons to power up your strategy and unleash devastating combos","url":"https://store.steampowered.com/app/3573070/","label":"证据原文片段"},{"text":"可把Steam好友变成全副武装的Game Buddy，自定义武器和属性后编入玩具军团","dimension":"玩法","excerpt":"Transform your Steam friends into fully armed \"Game Buddy\", customize them with all kinds of weapons and attributes, then rally them into your toy army to charge into battle for friendship!","url":"https://store.steampowered.com/app/3573070/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":34182,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":55923,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3201,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":370139,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":39756,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":39756,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":16.075281660030427,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":674,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.795252,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"自走棋、玩家对战","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/4ead423b6325333d7997a5c2311362f6265625a3/ss_4ead423b6325333d7997a5c2311362f6265625a3.1920x1080.jpg?t=1784282568","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/4ead423b6325333d7997a5c2311362f6265625a3/ss_4ead423b6325333d7997a5c2311362f6265625a3.1920x1080.jpg?t=1784282568","alt":"咔砰！玩具乱斗屋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/de77f311aadd191c324144401b7c1ee892243540/ss_de77f311aadd191c324144401b7c1ee892243540.1920x1080.jpg?t=1784282568","alt":"咔砰！玩具乱斗屋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/98c1f7d025d5b7c95519e40e18ff76d1179e9f72/ss_98c1f7d025d5b7c95519e40e18ff76d1179e9f72.1920x1080.jpg?t=1784282568","alt":"咔砰！玩具乱斗屋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/7d0118bf39460407317a183cca2be5cbd461b47c/ss_7d0118bf39460407317a183cca2be5cbd461b47c.1920x1080.jpg?t=1784282568","alt":"咔砰！玩具乱斗屋 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Toy Smash Kaboom!",
+    "developers": [
+      "Free Particle"
+    ],
+    "publishers": [
+      "Free Particle",
+      "Paleo",
+      "XD"
+    ],
+    "release_status": "released",
+    "release_date": "2025-12-03",
+    "tags": [
+      "自走棋",
+      "玩家对战",
+      "多人游戏",
+      "策略",
+      "肉鸽卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "桌面上的每个玩具槽位都是构筑决策，要组合稀有单位并调整阵形释放完整Build潜力",
+      "dimension": "玩法",
+      "excerpt": "Master the art of toy arrangement on your tabletop! Every toy slot is a strategic decision. Plan your layout, combine rare units, and arrange them wisely to unlock your build’s full potential!",
+      "url": "https://store.steampowered.com/app/3573070/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四百多种策略玩具覆盖百种召唤物、五十多种陷阱与职业能力、二百五十多件魔法装备",
+      "dimension": "玩法",
+      "excerpt": "Craft your own tactical system from over 400 strategic toys! 100+ summons to clash in tabletop battles 50+ traps and class abilities to outsmart your opponents and shift momentum 250+ magic items and weapons to power up your strategy and unleash devastating combos",
+      "url": "https://store.steampowered.com/app/3573070/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可把Steam好友变成全副武装的Game Buddy，自定义武器和属性后编入玩具军团",
+      "dimension": "玩法",
+      "excerpt": "Transform your Steam friends into fully armed \"Game Buddy\", customize them with all kinds of weapons and attributes, then rally them into your toy army to charge into battle for friendship!",
+      "url": "https://store.steampowered.com/app/3573070/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 34017,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 52419,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3205,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 376097,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 39517,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 39517,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 17.16907293757312,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 544,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.597938,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "咔砰！玩具乱斗屋位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/4ead423b6325333d7997a5c2311362f6265625a3/ss_4ead423b6325333d7997a5c2311362f6265625a3.1920x1080.jpg?t=1784282568",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/4ead423b6325333d7997a5c2311362f6265625a3/ss_4ead423b6325333d7997a5c2311362f6265625a3.1920x1080.jpg?t=1784282568",
+        "alt": "咔砰！玩具乱斗屋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/de77f311aadd191c324144401b7c1ee892243540/ss_de77f311aadd191c324144401b7c1ee892243540.1920x1080.jpg?t=1784282568",
+        "alt": "咔砰！玩具乱斗屋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/98c1f7d025d5b7c95519e40e18ff76d1179e9f72/ss_98c1f7d025d5b7c95519e40e18ff76d1179e9f72.1920x1080.jpg?t=1784282568",
+        "alt": "咔砰！玩具乱斗屋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/7d0118bf39460407317a183cca2be5cbd461b47c/ss_7d0118bf39460407317a183cca2be5cbd461b47c.1920x1080.jpg?t=1784282568",
+        "alt": "咔砰！玩具乱斗屋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/17144da2ac484abcedb19914215393602d7b89fe/ss_17144da2ac484abcedb19914215393602d7b89fe.1920x1080.jpg?t=1784282568",
+        "alt": "咔砰！玩具乱斗屋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/ad75f0966de608840cac466ac61c80e248f39ffc/ss_ad75f0966de608840cac466ac61c80e248f39ffc.1920x1080.jpg?t=1784282568",
+        "alt": "咔砰！玩具乱斗屋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/e7820c364fea433f11fffdfcede62261e2fdb7db/ss_e7820c364fea433f11fffdfcede62261e2fdb7db.1920x1080.jpg?t=1784282568",
+        "alt": "咔砰！玩具乱斗屋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573070/dcdf93d3c6276fdaf870a0b3c0a8c9fa38c80d40/ss_dcdf93d3c6276fdaf870a0b3c0a8c9fa38c80d40.1920x1080.jpg?t=1784282568",
+        "alt": "咔砰！玩具乱斗屋 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

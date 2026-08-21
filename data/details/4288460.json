@@ -1,1 +1,316 @@
-{"identity":{"original_title":"DO NOT FEED THE VIRUS","developers":["NimbleGames"],"publishers":["NimbleGames"],"release_status":"released","release_date":"2026-05-14","tags":["增量成长","休闲","资源管理","策略","轻度Rogue"]},"hooks":[{"text":"鼠标光标始终处于行动中心，主动摧毁、收集并在每局持续变强","dimension":"玩法","excerpt":"Your cursor stays at the center of the action as you actively destroy, collect, and grow stronger every run.","url":"https://store.steampowered.com/app/4288460/","label":"证据原文片段"},{"text":"升级可组合连锁闪电、环绕球、爆炸、光束、治疗与连锁反应","dimension":"玩法","excerpt":"Unlock upgrades that transform your build with chain lightning, orbiting orbs, explosions, beams, healing effects, and powerful chain reactions.","url":"https://store.steampowered.com/app/4288460/","label":"证据原文片段"},{"text":"生成助手与产出生物质的Minicore，维护网络加速整体成长","dimension":"玩法","excerpt":"Spawn helper units, grow biomass-producing Minicores, and maintain your evolving network to accelerate your progression.","url":"https://store.steampowered.com/app/4288460/","label":"证据原文片段"}],"opinions":[{"text":"简单玩法仍营造出有效氛围","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"the atmosphere is surprisingly effective for such a simple game","url":"https://store.steampowered.com/curator/46062711-CriticalHit-Reviews/","label":"证据原文片段"}]},{"text":"每阶段强制重置破坏乐趣","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"you are being forced to reset everytime the moment the \"fun\" begin","url":"https://steamcommunity.com/id/EliranTheThird/recommended/4288460/","label":"证据原文片段"}]},{"text":"需要持续主动照看关卡且不好玩","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"requires a lot of active babysitting to play levels and that's not fun","url":"https://steamcommunity.com/profiles/76561198123715440/recommended/4288460/","label":"证据原文片段"}]},{"text":"完整游戏流程过短","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"overall the game was too short in my opinion","url":"https://steamcommunity.com/profiles/76561198102776887/recommended/4288460/","label":"证据原文片段"}]},{"text":"最终机制刚融合时游戏就结束","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Just when all the mechanics came together in the end at the final level, it felt like it ended too soon.","url":"https://steamcommunity.com/profiles/76561198102776887/recommended/4288460/","label":"证据原文片段"}]},{"text":"升级速度慢且多数缺乏意义","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Upgrades are super slow and mostly meaningless","url":"https://steamcommunity.com/id/EliranTheThird/recommended/4288460/","label":"证据原文片段"}]},{"text":"每阶段不同机制学习体验很好","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the different mechanics on each stage feel great to learn","url":"https://steamcommunity.com/id/t3mp0ralflux/recommended/4288460/","label":"证据原文片段"}]},{"text":"作为增量游戏玩法有变化","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The gameplay was decent and varied for an incremental game","url":"https://steamcommunity.com/profiles/76561198102776887/recommended/4288460/","label":"证据原文片段"}]},{"text":"升级树难度节奏恰当","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the upgrade tree doesn't feel too easy or hard to progress through","url":"https://steamcommunity.com/id/t3mp0ralflux/recommended/4288460/","label":"证据原文片段"}]},{"text":"病毒成长前提有趣","dimension":"主题","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"a neat premise","url":"https://steamcommunity.com/id/cracatoa/recommended/4288460/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":5781,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":313,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":32897,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6057,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6057,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.143691042394047,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":77,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":62,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":62.337662,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["每阶段强制重置破坏乐趣","需要持续主动照看关卡且不好玩","完整游戏流程过短","最终机制刚融合时游戏就结束","升级速度慢且多数缺乏意义","截至2026-07-24，Steam官方好评率为62.337662%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/47bb0f28642a6b9580d964ec085b70f832952954/ss_47bb0f28642a6b9580d964ec085b70f832952954.1920x1080.jpg?t=1782407205","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/47bb0f28642a6b9580d964ec085b70f832952954/ss_47bb0f28642a6b9580d964ec085b70f832952954.1920x1080.jpg?t=1782407205","alt":"DO NOT FEED THE VIRUS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/7d7809b062a0669925a5aa2530ad96ba366fa590/ss_7d7809b062a0669925a5aa2530ad96ba366fa590.1920x1080.jpg?t=1782407205","alt":"DO NOT FEED THE VIRUS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/4abf4077b9353d14ac13a1382599eb2d9b8d5db7/ss_4abf4077b9353d14ac13a1382599eb2d9b8d5db7.1920x1080.jpg?t=1782407205","alt":"DO NOT FEED THE VIRUS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/84d7ed022e1745a16d941f2a7a0fb56d58aecc83/ss_84d7ed022e1745a16d941f2a7a0fb56d58aecc83.1920x1080.jpg?t=1782407205","alt":"DO NOT FEED THE VIRUS 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "DO NOT FEED THE VIRUS",
+    "developers": [
+      "NimbleGames"
+    ],
+    "publishers": [
+      "NimbleGames"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-14",
+    "tags": [
+      "增量成长",
+      "休闲",
+      "资源管理",
+      "策略",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "鼠标光标始终处于行动中心，主动摧毁、收集并在每局持续变强",
+      "dimension": "玩法",
+      "excerpt": "Your cursor stays at the center of the action as you actively destroy, collect, and grow stronger every run.",
+      "url": "https://store.steampowered.com/app/4288460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "升级可组合连锁闪电、环绕球、爆炸、光束、治疗与连锁反应",
+      "dimension": "玩法",
+      "excerpt": "Unlock upgrades that transform your build with chain lightning, orbiting orbs, explosions, beams, healing effects, and powerful chain reactions.",
+      "url": "https://store.steampowered.com/app/4288460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "生成助手与产出生物质的Minicore，维护网络加速整体成长",
+      "dimension": "玩法",
+      "excerpt": "Spawn helper units, grow biomass-producing Minicores, and maintain your evolving network to accelerate your progression.",
+      "url": "https://store.steampowered.com/app/4288460/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "简单玩法仍营造出有效氛围",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the atmosphere is surprisingly effective for such a simple game",
+          "url": "https://store.steampowered.com/curator/46062711-CriticalHit-Reviews/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "每阶段强制重置破坏乐趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "you are being forced to reset everytime the moment the \"fun\" begin",
+          "url": "https://steamcommunity.com/id/EliranTheThird/recommended/4288460/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "需要持续主动照看关卡且不好玩",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "requires a lot of active babysitting to play levels and that's not fun",
+          "url": "https://steamcommunity.com/profiles/76561198123715440/recommended/4288460/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "完整游戏流程过短",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "overall the game was too short in my opinion",
+          "url": "https://steamcommunity.com/profiles/76561198102776887/recommended/4288460/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "最终机制刚融合时游戏就结束",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Just when all the mechanics came together in the end at the final level, it felt like it ended too soon.",
+          "url": "https://steamcommunity.com/profiles/76561198102776887/recommended/4288460/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "升级速度慢且多数缺乏意义",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Upgrades are super slow and mostly meaningless",
+          "url": "https://steamcommunity.com/id/EliranTheThird/recommended/4288460/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "每阶段不同机制学习体验很好",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the different mechanics on each stage feel great to learn",
+          "url": "https://steamcommunity.com/id/t3mp0ralflux/recommended/4288460/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "作为增量游戏玩法有变化",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The gameplay was decent and varied for an incremental game",
+          "url": "https://steamcommunity.com/profiles/76561198102776887/recommended/4288460/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "升级树难度节奏恰当",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the upgrade tree doesn't feel too easy or hard to progress through",
+          "url": "https://steamcommunity.com/id/t3mp0ralflux/recommended/4288460/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "病毒成长前提有趣",
+      "dimension": "主题",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a neat premise",
+          "url": "https://steamcommunity.com/id/cracatoa/recommended/4288460/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6298,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 315,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 36138,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 6582,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 6582,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.1860641449762825,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 76,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 63,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 62.962963,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "每阶段强制重置破坏乐趣",
+    "需要持续主动照看关卡且不好玩",
+    "完整游戏流程过短",
+    "最终机制刚融合时游戏就结束",
+    "升级速度慢且多数缺乏意义",
+    "截至2026-07-24，Steam官方好评率为62.337662%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "DO NOT FEED THE VIRUS当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/47bb0f28642a6b9580d964ec085b70f832952954/ss_47bb0f28642a6b9580d964ec085b70f832952954.1920x1080.jpg?t=1782407205",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/47bb0f28642a6b9580d964ec085b70f832952954/ss_47bb0f28642a6b9580d964ec085b70f832952954.1920x1080.jpg?t=1782407205",
+        "alt": "DO NOT FEED THE VIRUS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/7d7809b062a0669925a5aa2530ad96ba366fa590/ss_7d7809b062a0669925a5aa2530ad96ba366fa590.1920x1080.jpg?t=1782407205",
+        "alt": "DO NOT FEED THE VIRUS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/4abf4077b9353d14ac13a1382599eb2d9b8d5db7/ss_4abf4077b9353d14ac13a1382599eb2d9b8d5db7.1920x1080.jpg?t=1782407205",
+        "alt": "DO NOT FEED THE VIRUS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/84d7ed022e1745a16d941f2a7a0fb56d58aecc83/ss_84d7ed022e1745a16d941f2a7a0fb56d58aecc83.1920x1080.jpg?t=1782407205",
+        "alt": "DO NOT FEED THE VIRUS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/0a6f461d6f9064e61fcbf32b1068a314db1fc89a/ss_0a6f461d6f9064e61fcbf32b1068a314db1fc89a.1920x1080.jpg?t=1782407205",
+        "alt": "DO NOT FEED THE VIRUS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/ac325db406bc7477f4b027a9b17634abd5b2a295/ss_ac325db406bc7477f4b027a9b17634abd5b2a295.1920x1080.jpg?t=1782407205",
+        "alt": "DO NOT FEED THE VIRUS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/7ff832aaae7b16453d5bd3cdd7c8c263ff36a30b/ss_7ff832aaae7b16453d5bd3cdd7c8c263ff36a30b.1920x1080.jpg?t=1782407205",
+        "alt": "DO NOT FEED THE VIRUS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288460/d10692d95baa25283090c19183fc263a0a6aca00/ss_d10692d95baa25283090c19183fc263a0a6aca00.1920x1080.jpg?t=1782407205",
+        "alt": "DO NOT FEED THE VIRUS 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

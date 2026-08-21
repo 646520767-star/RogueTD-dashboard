@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Heroes of Hammerwatch II","developers":["Crackshell"],"publishers":["Team17"],"release_status":"released","release_date":"2025-01-14","tags":["角色扮演","动作肉鸽","动作角色扮演","地牢探索","动作"]},"hooks":[{"text":"远征归来升级城镇、附魔装备并持续塑造角色打法","dimension":"玩法","excerpt":"Return from your expeditions to upgrade your town, enchant gear, and unlock new upgrades for your character. Build a thriving hub to support your adventures and shape your play style in countless ways.","url":"https://store.steampowered.com/app/619820/","label":"证据原文片段"},{"text":"7个职业各含3条专精路线，逐步解锁新能力与被动","dimension":"玩法","excerpt":"7 Unique Classes: Start as a Warrior, Paladin, Ranger, or Wizard, and unlock the Rogue, Warlock, and Sorcerer through gameplay. Each class offers 3 specializations, introducing new abilities and passives.","url":"https://store.steampowered.com/app/619820/","label":"证据原文片段"},{"text":"最多4人在线合作挑战黑暗城堡","dimension":"玩法","excerpt":"Team Up: Enjoy online multiplayer with up to 4 players—tackle the Dark Citadel together!","url":"https://store.steampowered.com/app/619820/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":588773,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":430837,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":37648,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7640399,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":636473,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":636473,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":18.0830757933599,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":6342,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.603215,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_8cc36fd72d3ae0b93e70ecf41b06446d5d4183b1.1920x1080.jpg?t=1784803515","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_8cc36fd72d3ae0b93e70ecf41b06446d5d4183b1.1920x1080.jpg?t=1784803515","alt":"Heroes of Hammerwatch II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_1b81e1011e0cdc2de0752c76ed696076c501c432.1920x1080.jpg?t=1784803515","alt":"Heroes of Hammerwatch II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_8570e9fd7db5c2e91955df2e5686668794d84223.1920x1080.jpg?t=1784803515","alt":"Heroes of Hammerwatch II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/3e1d3190d3588b141d61d8f7219c96d80a0ab28c/ss_3e1d3190d3588b141d61d8f7219c96d80a0ab28c.1920x1080.jpg?t=1784803515","alt":"Heroes of Hammerwatch II 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Heroes of Hammerwatch II",
+    "developers": [
+      "Crackshell"
+    ],
+    "publishers": [
+      "Team17"
+    ],
+    "release_status": "released",
+    "release_date": "2025-01-14",
+    "tags": [
+      "角色扮演",
+      "动作肉鸽",
+      "动作角色扮演",
+      "地牢探索",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "远征归来升级城镇、附魔装备并持续塑造角色打法",
+      "dimension": "玩法",
+      "excerpt": "Return from your expeditions to upgrade your town, enchant gear, and unlock new upgrades for your character. Build a thriving hub to support your adventures and shape your play style in countless ways.",
+      "url": "https://store.steampowered.com/app/619820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "7个职业各含3条专精路线，逐步解锁新能力与被动",
+      "dimension": "玩法",
+      "excerpt": "7 Unique Classes: Start as a Warrior, Paladin, Ranger, or Wizard, and unlock the Rogue, Warlock, and Sorcerer through gameplay. Each class offers 3 specializations, introducing new abilities and passives.",
+      "url": "https://store.steampowered.com/app/619820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "最多4人在线合作挑战黑暗城堡",
+      "dimension": "玩法",
+      "excerpt": "Team Up: Enjoy online multiplayer with up to 4 players—tackle the Dark Citadel together!",
+      "url": "https://store.steampowered.com/app/619820/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 604734,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 428277,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 37938,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 7689392,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 654923,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 654923,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 18.152879673537598,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 5751,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.472153,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Heroes of Hammerwatch II位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_8cc36fd72d3ae0b93e70ecf41b06446d5d4183b1.1920x1080.jpg?t=1784803515",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_8cc36fd72d3ae0b93e70ecf41b06446d5d4183b1.1920x1080.jpg?t=1785259537",
+        "alt": "Heroes of Hammerwatch II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_1b81e1011e0cdc2de0752c76ed696076c501c432.1920x1080.jpg?t=1785259537",
+        "alt": "Heroes of Hammerwatch II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_8570e9fd7db5c2e91955df2e5686668794d84223.1920x1080.jpg?t=1785259537",
+        "alt": "Heroes of Hammerwatch II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/3e1d3190d3588b141d61d8f7219c96d80a0ab28c/ss_3e1d3190d3588b141d61d8f7219c96d80a0ab28c.1920x1080.jpg?t=1785259537",
+        "alt": "Heroes of Hammerwatch II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_c9c6b734e61e375b568a8692f6a7ca278fce5d29.1920x1080.jpg?t=1785259537",
+        "alt": "Heroes of Hammerwatch II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/5e7029d3e2d29a0163ab3a80c456073b68882f93/ss_5e7029d3e2d29a0163ab3a80c456073b68882f93.1920x1080.jpg?t=1785259537",
+        "alt": "Heroes of Hammerwatch II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619820/ss_393d0c1c405e44e69a7095c87d2c9f94e189c058.1920x1080.jpg?t=1785259537",
+        "alt": "Heroes of Hammerwatch II 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

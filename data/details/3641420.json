@@ -1,1 +1,270 @@
-{"identity":{"original_title":"Magecraft: Spellbuilding","developers":["Violet Grimoire"],"publishers":["Violet Grimoire"],"release_status":"released","release_date":"2025-09-12","tags":["肉鸽卡组构筑","卡牌游戏","卡牌对战","轻度Rogue","卡组构筑"]},"hooks":[{"text":"把五十多种符文组合成自制法术卡，可同时加入伤害、减益、增益与召唤盟友等效果","dimension":"玩法","excerpt":"Combine over 50 Sigils - with effects that deal damage, inflict debuffs, grant buffs, summon allies, and more - to craft custom spell cards for your deck.","url":"https://store.steampowered.com/app/3641420/","label":"证据原文片段"},{"text":"面对敌方攻击时既可先摧毁攻击保护自己，也可选择硬吃伤害换取直接打击敌人的爆发机会","dimension":"玩法","excerpt":"Take on enemy attacks, destroying them to keep yourself safe from harm - or take the hit and attack enemies directly to do as much damage as possible.","url":"https://store.steampowered.com/app/3641420/","label":"证据原文片段"},{"text":"独立深渊模式随机分配角色和初始牌组，并将死亡改成彻底从头开启新一轮","dimension":"玩法","excerpt":"The Abyss is a separate mode with randomized characters and starting decks, where unlike the main game, dying means starting a new run from the very beginning.","url":"https://store.steampowered.com/app/3641420/","label":"证据原文片段"}],"opinions":[{"text":"音乐与音效质量受到满分评价。","dimension":"音频","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the music and sounds absolutly 10/10","url":"https://steamcommunity.com/profiles/76561198009949087/recommended/3641420/","label":"证据原文片段"}]},{"text":"地下城流程中无法保存退出。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it would be appreciated to be able to save and quit mid-dungeon run.","url":"https://steamcommunity.com/id/bwixie/recommended/3641420/","label":"证据原文片段"}]},{"text":"首次战斗初期较难理解。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The first battle was kind of confusing at first","url":"https://steamcommunity.com/profiles/76561198964186141/recommended/3641420/","label":"证据原文片段"}]},{"text":"制作专属法术的想法受到喜欢。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I like the idea that you make your own spells.","url":"https://steamcommunity.com/profiles/76561198964186141/recommended/3641420/","label":"证据原文片段"}]},{"text":"高难推进缓慢但回报感强。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"it s hard and progress is slow but rewarding","url":"https://steamcommunity.com/profiles/76561198009949087/recommended/3641420/","label":"证据原文片段"}]},{"text":"自定义法术和牌组具有大量深度。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Lots of depth to making custom spells and custom decks","url":"https://steamcommunity.com/id/bwixie/recommended/3641420/","label":"证据原文片段"}]},{"text":"背景故事内容不足。","dimension":"剧情","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Only thing I was a little bummed about was lore... gimmie more lore","url":"https://steamcommunity.com/profiles/76561199788664048/recommended/3641420/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":4845,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":207,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4845,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4845,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.6405258120993,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":132,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.727273,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["地下城流程中无法保存退出。","首次战斗初期较难理解。","背景故事内容不足。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/199f0a1aaaa434293c99a823113a255bbd337ffb/ss_199f0a1aaaa434293c99a823113a255bbd337ffb.1920x1080.jpg?t=1757677874","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/199f0a1aaaa434293c99a823113a255bbd337ffb/ss_199f0a1aaaa434293c99a823113a255bbd337ffb.1920x1080.jpg?t=1757677874","alt":"Magecraft: Spellbuilding 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/c28464ca3f3371f8330439d42cf337ce72fb8ed4/ss_c28464ca3f3371f8330439d42cf337ce72fb8ed4.1920x1080.jpg?t=1757677874","alt":"Magecraft: Spellbuilding 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/4d50f1acf15778d220a022038ed02615b2263a0b/ss_4d50f1acf15778d220a022038ed02615b2263a0b.1920x1080.jpg?t=1757677874","alt":"Magecraft: Spellbuilding 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/2576e2cc45cb9644cd68bfb0a5ea5f57685165bd/ss_2576e2cc45cb9644cd68bfb0a5ea5f57685165bd.1920x1080.jpg?t=1757677874","alt":"Magecraft: Spellbuilding 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Magecraft: Spellbuilding",
+    "developers": [
+      "Violet Grimoire"
+    ],
+    "publishers": [
+      "Violet Grimoire"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-12",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡牌游戏",
+      "卡牌对战",
+      "轻度Rogue",
+      "卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把五十多种符文组合成自制法术卡，可同时加入伤害、减益、增益与召唤盟友等效果",
+      "dimension": "玩法",
+      "excerpt": "Combine over 50 Sigils - with effects that deal damage, inflict debuffs, grant buffs, summon allies, and more - to craft custom spell cards for your deck.",
+      "url": "https://store.steampowered.com/app/3641420/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "面对敌方攻击时既可先摧毁攻击保护自己，也可选择硬吃伤害换取直接打击敌人的爆发机会",
+      "dimension": "玩法",
+      "excerpt": "Take on enemy attacks, destroying them to keep yourself safe from harm - or take the hit and attack enemies directly to do as much damage as possible.",
+      "url": "https://store.steampowered.com/app/3641420/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "独立深渊模式随机分配角色和初始牌组，并将死亡改成彻底从头开启新一轮",
+      "dimension": "玩法",
+      "excerpt": "The Abyss is a separate mode with randomized characters and starting decks, where unlike the main game, dying means starting a new run from the very beginning.",
+      "url": "https://store.steampowered.com/app/3641420/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "音乐与音效质量受到满分评价。",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the music and sounds absolutly 10/10",
+          "url": "https://steamcommunity.com/profiles/76561198009949087/recommended/3641420/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "地下城流程中无法保存退出。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it would be appreciated to be able to save and quit mid-dungeon run.",
+          "url": "https://steamcommunity.com/id/bwixie/recommended/3641420/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "首次战斗初期较难理解。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The first battle was kind of confusing at first",
+          "url": "https://steamcommunity.com/profiles/76561198964186141/recommended/3641420/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "制作专属法术的想法受到喜欢。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I like the idea that you make your own spells.",
+          "url": "https://steamcommunity.com/profiles/76561198964186141/recommended/3641420/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高难推进缓慢但回报感强。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it s hard and progress is slow but rewarding",
+          "url": "https://steamcommunity.com/profiles/76561198009949087/recommended/3641420/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "自定义法术和牌组具有大量深度。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Lots of depth to making custom spells and custom decks",
+          "url": "https://steamcommunity.com/id/bwixie/recommended/3641420/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "背景故事内容不足。",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Only thing I was a little bummed about was lore... gimmie more lore",
+          "url": "https://steamcommunity.com/profiles/76561199788664048/recommended/3641420/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5028,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1279,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 210,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5028,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5028,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.118037162300217,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 139,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.826087,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "地下城流程中无法保存退出。",
+    "首次战斗初期较难理解。",
+    "背景故事内容不足。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Magecraft: Spellbuilding位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/199f0a1aaaa434293c99a823113a255bbd337ffb/ss_199f0a1aaaa434293c99a823113a255bbd337ffb.1920x1080.jpg?t=1757677874",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/199f0a1aaaa434293c99a823113a255bbd337ffb/ss_199f0a1aaaa434293c99a823113a255bbd337ffb.1920x1080.jpg?t=1757677874",
+        "alt": "Magecraft: Spellbuilding 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/c28464ca3f3371f8330439d42cf337ce72fb8ed4/ss_c28464ca3f3371f8330439d42cf337ce72fb8ed4.1920x1080.jpg?t=1757677874",
+        "alt": "Magecraft: Spellbuilding 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/4d50f1acf15778d220a022038ed02615b2263a0b/ss_4d50f1acf15778d220a022038ed02615b2263a0b.1920x1080.jpg?t=1757677874",
+        "alt": "Magecraft: Spellbuilding 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/2576e2cc45cb9644cd68bfb0a5ea5f57685165bd/ss_2576e2cc45cb9644cd68bfb0a5ea5f57685165bd.1920x1080.jpg?t=1757677874",
+        "alt": "Magecraft: Spellbuilding 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/ac754a0d9392eb39ffed6ca49f354015ddd99452/ss_ac754a0d9392eb39ffed6ca49f354015ddd99452.1920x1080.jpg?t=1757677874",
+        "alt": "Magecraft: Spellbuilding 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/c27a9f61583e389db8e6bd5c94be5ab096990fc9/ss_c27a9f61583e389db8e6bd5c94be5ab096990fc9.1920x1080.jpg?t=1757677874",
+        "alt": "Magecraft: Spellbuilding 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641420/722e1cd72f45245217342073f5bb571ea0a46572/ss_722e1cd72f45245217342073f5bb571ea0a46572.1920x1080.jpg?t=1757677874",
+        "alt": "Magecraft: Spellbuilding 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

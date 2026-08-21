@@ -1,1 +1,314 @@
-{"identity":{"original_title":"Skewer Squad","developers":["Fake Owls"],"publishers":["HARRISONWORLD CO.,LTD"],"release_status":"released","release_date":"2026-02-01","tags":["弹幕射击","轻度Rogue","塔防","类Rogue","动作肉鸽"]},"hooks":[{"text":"烤串就是防御塔，可拖放上场并射击、弹射、溅射甚至把敌人推出场外","dimension":"玩法","excerpt":"Drag, drop, and watch your tasty skewers jump into battle. Shoot, bounce, and splash. You can even boop enemies right off the field.","url":"https://store.steampowered.com/app/3926160/","label":"证据原文片段"},{"text":"20多名烧烤大师各带独特天赋，每人都能成为一种流派核心","dimension":"玩法","excerpt":"20+ Grillmasters, each with unique talents Every Grillmaster can become the core of a different playstyle, letting you craft your own exclusive skewer squad!","url":"https://store.steampowered.com/app/3926160/","label":"证据原文片段"},{"text":"40多种食材效果与100多种随机调味料叠加，让每局烤串队伍重新组合","dimension":"玩法","excerpt":"40+ tasty and powerful foods Whether they split, bounce, or knock enemies back, combine these effects to master your signature playstyle! 100+ powerful seasonings and items spawn randomly, adding constant depth to your playstyle and making every run a brand new experience!","url":"https://store.steampowered.com/app/3926160/","label":"证据原文片段"}],"opinions":[{"text":"可爱有趣的画风增强重玩意愿","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"可爱的画风又加强了耐玩的效果","url":"https://steamcommunity.com/id/TioPlato40/recommended/3926160/","label":"证据原文片段"}]},{"text":"结算确认需使用鼠标","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"打完一盘永远会跳出一个对话框让你不得不从椅子上坐起来去拿一下鼠标","url":"https://steamcommunity.com/profiles/76561199077097120/recommended/3926160/","label":"证据原文片段"}]},{"text":"操作方式不够舒适","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"操作方式有点不舒服，只能一行一行控制。","url":"https://steamcommunity.com/id/yxy4863/recommended/3926160/","label":"证据原文片段"}]},{"text":"后期需要持续操作而难以放松","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"玩到后期也需要你不停的去动","url":"https://steamcommunity.com/profiles/76561199077097120/recommended/3926160/","label":"证据原文片段"}]},{"text":"最终Boss时间限制过短","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"You have maybe 20 seconds to take done the boss before you lose.","url":"https://steamcommunity.com/profiles/76561197982543417/recommended/3926160/","label":"证据原文片段"}]},{"text":"拖拽烤串操作反馈令人满足","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Drag-and-drop skewers feel satisfying","url":"https://store.steampowered.com/curator/45013120-Kitty-Cat-Reviews/","label":"证据原文片段"}]},{"text":"快速思考能得到充分奖励","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"rewards you a lot for fast thinking.","url":"https://store.steampowered.com/curator/35512837-I-DO-MY-BEST/","label":"证据原文片段"}]},{"text":"攻防工具种类丰富","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"great variety of both defensive and offensive tools.","url":"https://store.steampowered.com/curator/44870240-What-does-the-Fox-plays/","label":"证据原文片段"}]},{"text":"三根烤串分别操作带来强参与感","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"having to operate 3 skewers separately makes for very involving gameplay","url":"https://steamcommunity.com/id/magerama/recommended/3926160/","label":"证据原文片段"}]},{"text":"烤串防守题材新颖且有吸引力","dimension":"主题","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"新颖的题材非常吸引人","url":"https://steamcommunity.com/id/TioPlato40/recommended/3926160/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":18021,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27962,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1180,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":82790,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":20385,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":20385,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.717254595982663,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":483,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.248963,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["结算确认需使用鼠标","操作方式不够舒适","后期需要持续操作而难以放松","最终Boss时间限制过短"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/28a7593d4ce2de98b5c2a4c18027545c7271bdc7/ss_28a7593d4ce2de98b5c2a4c18027545c7271bdc7.1920x1080.jpg?t=1781683993","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/28a7593d4ce2de98b5c2a4c18027545c7271bdc7/ss_28a7593d4ce2de98b5c2a4c18027545c7271bdc7.1920x1080.jpg?t=1781683993","alt":"别拽了！烤串师傅 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/54b7bee185ffb332d0ea6765f6f6f809e5cdfbaf/ss_54b7bee185ffb332d0ea6765f6f6f809e5cdfbaf.1920x1080.jpg?t=1781683993","alt":"别拽了！烤串师傅 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/d68e4ca0974aca07711e710beaa8d895921535b6/ss_d68e4ca0974aca07711e710beaa8d895921535b6.1920x1080.jpg?t=1781683993","alt":"别拽了！烤串师傅 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/9ebf968189af8527116a69939c8859df818d49af/ss_9ebf968189af8527116a69939c8859df818d49af.1920x1080.jpg?t=1781683993","alt":"别拽了！烤串师傅 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Skewer Squad",
+    "developers": [
+      "Fake Owls"
+    ],
+    "publishers": [
+      "HARRISONWORLD CO.,LTD"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-01",
+    "tags": [
+      "弹幕射击",
+      "轻度Rogue",
+      "塔防",
+      "类Rogue",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "烤串就是防御塔，可拖放上场并射击、弹射、溅射甚至把敌人推出场外",
+      "dimension": "玩法",
+      "excerpt": "Drag, drop, and watch your tasty skewers jump into battle. Shoot, bounce, and splash. You can even boop enemies right off the field.",
+      "url": "https://store.steampowered.com/app/3926160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "20多名烧烤大师各带独特天赋，每人都能成为一种流派核心",
+      "dimension": "玩法",
+      "excerpt": "20+ Grillmasters, each with unique talents Every Grillmaster can become the core of a different playstyle, letting you craft your own exclusive skewer squad!",
+      "url": "https://store.steampowered.com/app/3926160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "40多种食材效果与100多种随机调味料叠加，让每局烤串队伍重新组合",
+      "dimension": "玩法",
+      "excerpt": "40+ tasty and powerful foods Whether they split, bounce, or knock enemies back, combine these effects to master your signature playstyle! 100+ powerful seasonings and items spawn randomly, adding constant depth to your playstyle and making every run a brand new experience!",
+      "url": "https://store.steampowered.com/app/3926160/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "可爱有趣的画风增强重玩意愿",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "可爱的画风又加强了耐玩的效果",
+          "url": "https://steamcommunity.com/id/TioPlato40/recommended/3926160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "结算确认需使用鼠标",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "打完一盘永远会跳出一个对话框让你不得不从椅子上坐起来去拿一下鼠标",
+          "url": "https://steamcommunity.com/profiles/76561199077097120/recommended/3926160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "操作方式不够舒适",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "操作方式有点不舒服，只能一行一行控制。",
+          "url": "https://steamcommunity.com/id/yxy4863/recommended/3926160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期需要持续操作而难以放松",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "玩到后期也需要你不停的去动",
+          "url": "https://steamcommunity.com/profiles/76561199077097120/recommended/3926160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "最终Boss时间限制过短",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "You have maybe 20 seconds to take done the boss before you lose.",
+          "url": "https://steamcommunity.com/profiles/76561197982543417/recommended/3926160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "拖拽烤串操作反馈令人满足",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Drag-and-drop skewers feel satisfying",
+          "url": "https://store.steampowered.com/curator/45013120-Kitty-Cat-Reviews/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "快速思考能得到充分奖励",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "rewards you a lot for fast thinking.",
+          "url": "https://store.steampowered.com/curator/35512837-I-DO-MY-BEST/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "攻防工具种类丰富",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "great variety of both defensive and offensive tools.",
+          "url": "https://store.steampowered.com/curator/44870240-What-does-the-Fox-plays/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "三根烤串分别操作带来强参与感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "having to operate 3 skewers separately makes for very involving gameplay",
+          "url": "https://steamcommunity.com/id/magerama/recommended/3926160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "烤串防守题材新颖且有吸引力",
+      "dimension": "主题",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "新颖的题材非常吸引人",
+          "url": "https://steamcommunity.com/id/TioPlato40/recommended/3926160/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 18194,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 29406,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1189,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 83477,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 20547,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 20547,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.296950952251683,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 404,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.47619,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "结算确认需使用鼠标",
+    "操作方式不够舒适",
+    "后期需要持续操作而难以放松",
+    "最终Boss时间限制过短"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "别拽了！烤串师傅位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/28a7593d4ce2de98b5c2a4c18027545c7271bdc7/ss_28a7593d4ce2de98b5c2a4c18027545c7271bdc7.1920x1080.jpg?t=1781683993",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/28a7593d4ce2de98b5c2a4c18027545c7271bdc7/ss_28a7593d4ce2de98b5c2a4c18027545c7271bdc7.1920x1080.jpg?t=1781683993",
+        "alt": "别拽了！烤串师傅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/54b7bee185ffb332d0ea6765f6f6f809e5cdfbaf/ss_54b7bee185ffb332d0ea6765f6f6f809e5cdfbaf.1920x1080.jpg?t=1781683993",
+        "alt": "别拽了！烤串师傅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/d68e4ca0974aca07711e710beaa8d895921535b6/ss_d68e4ca0974aca07711e710beaa8d895921535b6.1920x1080.jpg?t=1781683993",
+        "alt": "别拽了！烤串师傅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/9ebf968189af8527116a69939c8859df818d49af/ss_9ebf968189af8527116a69939c8859df818d49af.1920x1080.jpg?t=1781683993",
+        "alt": "别拽了！烤串师傅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/38d31ad0e80ae04eb58cb9dcede9918d8a1e4047/ss_38d31ad0e80ae04eb58cb9dcede9918d8a1e4047.1920x1080.jpg?t=1781683993",
+        "alt": "别拽了！烤串师傅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/300d4cd4615ce9ce1e296630bb032d8dbc661a54/ss_300d4cd4615ce9ce1e296630bb032d8dbc661a54.1920x1080.jpg?t=1781683993",
+        "alt": "别拽了！烤串师傅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/4e7b9f100e7797ae98765a7ca197a3ba307ac3d5/ss_4e7b9f100e7797ae98765a7ca197a3ba307ac3d5.1920x1080.jpg?t=1781683993",
+        "alt": "别拽了！烤串师傅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926160/5e31d5e3f5c13b112bdb8746ae7d45eeaab8fa5f/ss_5e31d5e3f5c13b112bdb8746ae7d45eeaab8fa5f.1920x1080.jpg?t=1781683993",
+        "alt": "别拽了！烤串师傅 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

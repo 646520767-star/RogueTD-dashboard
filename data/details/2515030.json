@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Dark Lord","developers":["Undead Fox"],"publishers":["LTG Studio"],"release_status":"released","release_date":"2024-08-15","tags":["模拟","单人游戏","卡牌游戏","类Rogue","剧情丰富"]},"hooks":[{"text":"统治核心是在军事力量与政治阴谋间保持平衡，同时防范顾问暗中背叛。","dimension":"玩法","excerpt":"Find the delicate balance between military might and cunning political intrigues, as not all battles are won with strength. Skillfully manage your advisors to solidify your rule, but beware, as they may engage in their own treacherous game behind your back.","url":"https://store.steampowered.com/app/2515030/","label":"证据原文片段"},{"text":"社区故事模式既能游玩其他玩家创作的传说，也能用编辑器制作并分享自己的冒险。","dimension":"故事","excerpt":"The cherry on top? Community Stories Mode, where you can dive into the tales crafted by other players, as well as compose and share your own adventures using a convenient editor.","url":"https://store.steampowered.com/app/2515030/","label":"证据原文片段"},{"text":"手绘画面以阴郁王国、层叠阴影和细节场景强化黑暗统治叙事。","dimension":"画风","excerpt":"The hand-crafted visuals of the game plunge you deep into the ambiance of a brooding kingdom. Every detail, every shadow speaks of a world built with care and passion, ensuring a visually captivating journey intertwined with riveting narratives.","url":"https://store.steampowered.com/app/2515030/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":50318,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":19064,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1558,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":59,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":50318,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":50318,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.0722913103847587,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":190,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.947368,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"模拟、单人游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_d4cfac921b04f48c2a276f027ebb2b6508311775.1920x1080.jpg?t=1747307341","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_d4cfac921b04f48c2a276f027ebb2b6508311775.1920x1080.jpg?t=1747307341","alt":"Dark Lord 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_7fea32737155b191d48361b50176215a4ee53e61.1920x1080.jpg?t=1747307341","alt":"Dark Lord 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_c2c5d7b354c5a0d1c3a97d04adfbe78992988ba7.1920x1080.jpg?t=1747307341","alt":"Dark Lord 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_09b274cf5ccc680b24d282c32d4ffc5075409053.1920x1080.jpg?t=1747307341","alt":"Dark Lord 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dark Lord",
+    "developers": [
+      "Undead Fox"
+    ],
+    "publishers": [
+      "LTG Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-15",
+    "tags": [
+      "模拟",
+      "单人游戏",
+      "卡牌游戏",
+      "轻度Rogue",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "统治核心是在军事力量与政治阴谋间保持平衡，同时防范顾问暗中背叛。",
+      "dimension": "玩法",
+      "excerpt": "Find the delicate balance between military might and cunning political intrigues, as not all battles are won with strength. Skillfully manage your advisors to solidify your rule, but beware, as they may engage in their own treacherous game behind your back.",
+      "url": "https://store.steampowered.com/app/2515030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "社区故事模式既能游玩其他玩家创作的传说，也能用编辑器制作并分享自己的冒险。",
+      "dimension": "故事",
+      "excerpt": "The cherry on top? Community Stories Mode, where you can dive into the tales crafted by other players, as well as compose and share your own adventures using a convenient editor.",
+      "url": "https://store.steampowered.com/app/2515030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "手绘画面以阴郁王国、层叠阴影和细节场景强化黑暗统治叙事。",
+      "dimension": "画风",
+      "excerpt": "The hand-crafted visuals of the game plunge you deep into the ambiance of a brooding kingdom. Every detail, every shadow speaks of a world built with care and passion, ensuring a visually captivating journey intertwined with riveting narratives.",
+      "url": "https://store.steampowered.com/app/2515030/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 50376,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 19177,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 291,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 50376,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 50376,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.07285034496932,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 190,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.947368,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Dark Lord位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_d4cfac921b04f48c2a276f027ebb2b6508311775.1920x1080.jpg?t=1747307341",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_d4cfac921b04f48c2a276f027ebb2b6508311775.1920x1080.jpg?t=1747307341",
+        "alt": "Dark Lord 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_7fea32737155b191d48361b50176215a4ee53e61.1920x1080.jpg?t=1747307341",
+        "alt": "Dark Lord 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_c2c5d7b354c5a0d1c3a97d04adfbe78992988ba7.1920x1080.jpg?t=1747307341",
+        "alt": "Dark Lord 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_09b274cf5ccc680b24d282c32d4ffc5075409053.1920x1080.jpg?t=1747307341",
+        "alt": "Dark Lord 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_01cfa8eb5b42c9c183ba62f180bf29a2b56caadd.1920x1080.jpg?t=1747307341",
+        "alt": "Dark Lord 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_1d8f52642ca9ac336f180854ac18c646c3ac1fc3.1920x1080.jpg?t=1747307341",
+        "alt": "Dark Lord 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_57d4de117b2b4054a5be677375306314c8cc7b74.1920x1080.jpg?t=1747307341",
+        "alt": "Dark Lord 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515030/ss_cf011bdba56f61d6769cd5e132f494e84ea0220b.1920x1080.jpg?t=1747307341",
+        "alt": "Dark Lord 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

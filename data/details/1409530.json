@@ -1,1 +1,288 @@
-{"identity":{"original_title":"Neophyte","developers":["Regal Pigeon"],"publishers":["Regal Pigeon"],"release_status":"released","release_date":"2026-05-15","tags":["动作肉鸽","动作","街机","轻度Rogue","魔法"]},"hooks":[{"text":"战斗间可重排法术栏，从贴身奥术旋刃切换到远距离阳光射线","dimension":"玩法","excerpt":"Learn new spells and equip them to your spell bar between combat to suit your playstyle . Get up close and personal with whirling blades of arcane energy or harness an intense beam of sunlight to destroy your enemies from afar.","url":"https://store.steampowered.com/app/1409530/","label":"证据原文片段"},{"text":"法术、徽记和属性加成必须组合成协同构筑，搭配正确与否直接决定生死","dimension":"玩法","excerpt":"Choosing the right combination of spells, emblems, and stat bonuses for your build will be the difference between victory and death.","url":"https://store.steampowered.com/app/1409530/","label":"证据原文片段"},{"text":"二十二种法术、七十多枚徽记与十二类可升级属性组成三层成长池","dimension":"玩法","excerpt":"22 unique spells 70+ unique emblems 12 upgradable stat types to bolster your offense, defense, and utility","url":"https://store.steampowered.com/app/1409530/","label":"证据原文片段"}],"opinions":[{"text":"混乱战斗中仍保持可读性","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the game remains readable even in the more hectic Roguelike moments","url":"https://steamcommunity.com/profiles/76561198044341391/recommended/1409530/","label":"证据原文片段"}]},{"text":"敌人设计可爱且清晰","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"their designs are all cute and clear","url":"https://steamcommunity.com/profiles/76561198044341391/recommended/1409530/","label":"证据原文片段"}]},{"text":"不同流程缺少变化","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"Lacks variety in runs.","url":"https://store.steampowered.com/curator/45647497-Games-That-Deserve-Your-Time/","label":"证据原文片段"}]},{"text":"组合与协同效果令人满足","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"satisfying combos and synergies","url":"https://store.steampowered.com/curator/43434756-BigSimplePlays/","label":"证据原文片段"}]},{"text":"抢先体验阶段完成度很高","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"very well polished for EA","url":"https://www.youtube.com/watch?v=rtf-xE4sxxs","label":"证据原文片段"}]},{"text":"不同法术与被动技能带来扎实街机体验","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"a solid arcade style game you can pick up and play with lots of different spells and passives.","url":"https://steamcommunity.com/profiles/76561198165745314/recommended/1409530/","label":"证据原文片段"}]},{"text":"法术与符文协同能形成有趣组合","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"interesting upgrades and synergies between spells and passive runes","url":"https://steamcommunity.com/profiles/76561198044341391/recommended/1409530/","label":"证据原文片段"}]},{"text":"技能多样且富有创意","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The skills are varied and creative","url":"https://steamcommunity.com/profiles/76561198044341391/recommended/1409530/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":48587,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":17793,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1935,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":133740,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":49670,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":55879,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.434896165923478,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":674,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.356083,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["不同流程缺少变化","生命周期：长期没有更新却转为正式版","生命周期：开发者已停止继续开发","生命周期：游戏内容尚未完成"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_7bee64999831496123f9945eb5c6848d131e9e9a.1920x1080.jpg?t=1778834404","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_7bee64999831496123f9945eb5c6848d131e9e9a.1920x1080.jpg?t=1778834404","alt":"Neophyte 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_a770a29b9dd74c2b5a38932dfeaa0ab8b86ca0dc.1920x1080.jpg?t=1778834404","alt":"Neophyte 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_2791a8d1592a4bb465c96020f9f4e4729fa9304f.1920x1080.jpg?t=1778834404","alt":"Neophyte 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_916778d26d42cc5a8373229a9666e3b9b4d3f489.1920x1080.jpg?t=1778834404","alt":"Neophyte 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Neophyte",
+    "developers": [
+      "Regal Pigeon"
+    ],
+    "publishers": [
+      "Regal Pigeon"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-15",
+    "tags": [
+      "动作肉鸽",
+      "动作",
+      "街机",
+      "轻度Rogue",
+      "魔法"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "战斗间可重排法术栏，从贴身奥术旋刃切换到远距离阳光射线",
+      "dimension": "玩法",
+      "excerpt": "Learn new spells and equip them to your spell bar between combat to suit your playstyle . Get up close and personal with whirling blades of arcane energy or harness an intense beam of sunlight to destroy your enemies from afar.",
+      "url": "https://store.steampowered.com/app/1409530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "法术、徽记和属性加成必须组合成协同构筑，搭配正确与否直接决定生死",
+      "dimension": "玩法",
+      "excerpt": "Choosing the right combination of spells, emblems, and stat bonuses for your build will be the difference between victory and death.",
+      "url": "https://store.steampowered.com/app/1409530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "二十二种法术、七十多枚徽记与十二类可升级属性组成三层成长池",
+      "dimension": "玩法",
+      "excerpt": "22 unique spells 70+ unique emblems 12 upgradable stat types to bolster your offense, defense, and utility",
+      "url": "https://store.steampowered.com/app/1409530/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "混乱战斗中仍保持可读性",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the game remains readable even in the more hectic Roguelike moments",
+          "url": "https://steamcommunity.com/profiles/76561198044341391/recommended/1409530/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人设计可爱且清晰",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "their designs are all cute and clear",
+          "url": "https://steamcommunity.com/profiles/76561198044341391/recommended/1409530/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "不同流程缺少变化",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Lacks variety in runs.",
+          "url": "https://store.steampowered.com/curator/45647497-Games-That-Deserve-Your-Time/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "组合与协同效果令人满足",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "satisfying combos and synergies",
+          "url": "https://store.steampowered.com/curator/43434756-BigSimplePlays/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "抢先体验阶段完成度很高",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "very well polished for EA",
+          "url": "https://www.youtube.com/watch?v=rtf-xE4sxxs",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "不同法术与被动技能带来扎实街机体验",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a solid arcade style game you can pick up and play with lots of different spells and passives.",
+          "url": "https://steamcommunity.com/profiles/76561198165745314/recommended/1409530/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "法术与符文协同能形成有趣组合",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "interesting upgrades and synergies between spells and passive runes",
+          "url": "https://steamcommunity.com/profiles/76561198044341391/recommended/1409530/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "技能多样且富有创意",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The skills are varied and creative",
+          "url": "https://steamcommunity.com/profiles/76561198044341391/recommended/1409530/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 51496,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17898,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1946,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 141795,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 52637,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 59217,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.421063973704795,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 657,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.412979,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "不同流程缺少变化",
+    "生命周期：长期没有更新却转为正式版",
+    "生命周期：开发者已停止继续开发",
+    "生命周期：游戏内容尚未完成"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Neophyte位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_7bee64999831496123f9945eb5c6848d131e9e9a.1920x1080.jpg?t=1778834404",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_7bee64999831496123f9945eb5c6848d131e9e9a.1920x1080.jpg?t=1778834404",
+        "alt": "Neophyte 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_a770a29b9dd74c2b5a38932dfeaa0ab8b86ca0dc.1920x1080.jpg?t=1778834404",
+        "alt": "Neophyte 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_2791a8d1592a4bb465c96020f9f4e4729fa9304f.1920x1080.jpg?t=1778834404",
+        "alt": "Neophyte 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_916778d26d42cc5a8373229a9666e3b9b4d3f489.1920x1080.jpg?t=1778834404",
+        "alt": "Neophyte 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_1a0dc4a40e777ea22a86d8637413fe794b790efa.1920x1080.jpg?t=1778834404",
+        "alt": "Neophyte 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_f047a1017e12e0be5fd629679a1bf5c2bc4786f0.1920x1080.jpg?t=1778834404",
+        "alt": "Neophyte 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_139e23f209c312263af78d0a02176560aa5135d0.1920x1080.jpg?t=1778834404",
+        "alt": "Neophyte 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409530/ss_2db248782d7b418fe324ce215b50f638e8a3017d.1920x1080.jpg?t=1778834404",
+        "alt": "Neophyte 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

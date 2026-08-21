@@ -1,1 +1,178 @@
-{"identity":{"original_title":"The Ember Guardian","developers":["Ratbit Games"],"publishers":["Slug Disco"],"release_status":"released","release_date":"2026-04-17","tags":["塔防","极简风格","建造","射击","策略"]},"hooks":[{"text":"白天营地经营包括制作弹药、精炼资源、扩建防线，并把工人分配到狩猎、搜刮或守卫岗位。","dimension":"玩法","excerpt":"Your camp is your last line of defense. Craft ammunition , refine resources , and expand your camp to strengthen your defenses. Manage your workers by assigning them to hunt, scavenge, or guard. Unlock merchants to buy new skills and traps, or use the watchtower for intel on the approaching waves.","url":"https://store.steampowered.com/app/3570060/","label":"证据原文片段"},{"text":"夜幕降临后敌群会从火光四周涌来，玩家需要改装枪械、解锁特性并释放能力守住最后火种。","dimension":"玩法","excerpt":"When night falls, they come. Hordes of relentless creatures, drawn to the light of your fire, rushing in from all sides. Armed with an arsenal of unique weapons, you must hold the line. Modify your guns , unlock perks , unleash devastating abilities , because if the fire dies… so do you.","url":"https://store.steampowered.com/app/3570060/","label":"证据原文片段"},{"text":"外出搜刮前要权衡武器与弹药，而时间是最关键资源；若不能在夜幕前返回，营地可能只剩灰烬。","dimension":"玩法","excerpt":"Every expedition demands careful preparation - weapon selection and ammunition supplies play a crucial role in determining whether you'll succeed or fail... Above all, time is your most precious resource. Make sure to return to camp before nightfall, or risk having to rebuild the ashes that are left.","url":"https://store.steampowered.com/app/3570060/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":11009,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":52110,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4689,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":171534,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":11335,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":11335,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.939173175023296,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":268,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.222222,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"塔防、极简风格","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/7df4dcd69300c5b788b0169e6e8ccb8517fda717/ss_7df4dcd69300c5b788b0169e6e8ccb8517fda717.1920x1080.jpg?t=1784637852","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/7df4dcd69300c5b788b0169e6e8ccb8517fda717/ss_7df4dcd69300c5b788b0169e6e8ccb8517fda717.1920x1080.jpg?t=1784637852","alt":"余火守护者 The Ember Guardian 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/671922dba7765c15604d83a3f039c695a37bcc1c/ss_671922dba7765c15604d83a3f039c695a37bcc1c.1920x1080.jpg?t=1784637852","alt":"余火守护者 The Ember Guardian 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/d99863cb38698f56ca4d2730263c5ebb04b8ec71/ss_d99863cb38698f56ca4d2730263c5ebb04b8ec71.1920x1080.jpg?t=1784637852","alt":"余火守护者 The Ember Guardian 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/83137ccb7f176775825c29ec5f7173f31e730b22/ss_83137ccb7f176775825c29ec5f7173f31e730b22.1920x1080.jpg?t=1784637852","alt":"余火守护者 The Ember Guardian 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Ember Guardian",
+    "developers": [
+      "Ratbit Games"
+    ],
+    "publishers": [
+      "Slug Disco"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-17",
+    "tags": [
+      "塔防",
+      "极简风格",
+      "建造",
+      "轻度Rogue",
+      "塔防"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "白天营地经营包括制作弹药、精炼资源、扩建防线，并把工人分配到狩猎、搜刮或守卫岗位。",
+      "dimension": "玩法",
+      "excerpt": "Your camp is your last line of defense. Craft ammunition , refine resources , and expand your camp to strengthen your defenses. Manage your workers by assigning them to hunt, scavenge, or guard. Unlock merchants to buy new skills and traps, or use the watchtower for intel on the approaching waves.",
+      "url": "https://store.steampowered.com/app/3570060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "夜幕降临后敌群会从火光四周涌来，玩家需要改装枪械、解锁特性并释放能力守住最后火种。",
+      "dimension": "玩法",
+      "excerpt": "When night falls, they come. Hordes of relentless creatures, drawn to the light of your fire, rushing in from all sides. Armed with an arsenal of unique weapons, you must hold the line. Modify your guns , unlock perks , unleash devastating abilities , because if the fire dies… so do you.",
+      "url": "https://store.steampowered.com/app/3570060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "外出搜刮前要权衡武器与弹药，而时间是最关键资源；若不能在夜幕前返回，营地可能只剩灰烬。",
+      "dimension": "玩法",
+      "excerpt": "Every expedition demands careful preparation - weapon selection and ammunition supplies play a crucial role in determining whether you'll succeed or fail... Above all, time is your most precious resource. Make sure to return to camp before nightfall, or risk having to rebuild the ashes that are left.",
+      "url": "https://store.steampowered.com/app/3570060/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 11791,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 53697,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4806,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 185617,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 12216,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 12216,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.44771262696973,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 268,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.038869,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "余火守护者 The Ember Guardian位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/7df4dcd69300c5b788b0169e6e8ccb8517fda717/ss_7df4dcd69300c5b788b0169e6e8ccb8517fda717.1920x1080.jpg?t=1784637852",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/7df4dcd69300c5b788b0169e6e8ccb8517fda717/ss_7df4dcd69300c5b788b0169e6e8ccb8517fda717.1920x1080.jpg?t=1786698858",
+        "alt": "余火守护者 The Ember Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/671922dba7765c15604d83a3f039c695a37bcc1c/ss_671922dba7765c15604d83a3f039c695a37bcc1c.1920x1080.jpg?t=1786698858",
+        "alt": "余火守护者 The Ember Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/d99863cb38698f56ca4d2730263c5ebb04b8ec71/ss_d99863cb38698f56ca4d2730263c5ebb04b8ec71.1920x1080.jpg?t=1786698858",
+        "alt": "余火守护者 The Ember Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/83137ccb7f176775825c29ec5f7173f31e730b22/ss_83137ccb7f176775825c29ec5f7173f31e730b22.1920x1080.jpg?t=1786698858",
+        "alt": "余火守护者 The Ember Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/44ba36beb236ec6291a4527b2051b014c5c2f73a/ss_44ba36beb236ec6291a4527b2051b014c5c2f73a.1920x1080.jpg?t=1786698858",
+        "alt": "余火守护者 The Ember Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/206f5f9c72a81f68b8693ecfe595d1f25f72e7fe/ss_206f5f9c72a81f68b8693ecfe595d1f25f72e7fe.1920x1080.jpg?t=1786698858",
+        "alt": "余火守护者 The Ember Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/510b1a480ab6a926d1e6625e71d841a233dd24a7/ss_510b1a480ab6a926d1e6625e71d841a233dd24a7.1920x1080.jpg?t=1786698858",
+        "alt": "余火守护者 The Ember Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570060/41a15f856dd159d70a47e5614271dd7be815b9d6/ss_41a15f856dd159d70a47e5614271dd7be815b9d6.1920x1080.jpg?t=1786698858",
+        "alt": "余火守护者 The Ember Guardian 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

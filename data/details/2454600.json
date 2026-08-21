@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Ironsand","developers":["Renderise"],"publishers":["Renderise"],"release_status":"coming_soon","release_date":"2026-08-20","tags":["轻度Rogue","在线合作","合作","类Rogue","多人游戏"]},"hooks":[{"text":"四人分别承担进攻、防御与支援职责，用角色能力协同适应持续变化的战场压力。","dimension":"玩法","excerpt":"4-Player Co-op Assemble a squad of distinct combat roles and push through relentless enemy waves together. Combine offensive, defensive, and support abilities to create powerful team synergies and adapt to any battlefield challenge","url":"https://store.steampowered.com/app/2454600/","label":"证据原文片段"},{"text":"每台泰坦拥有独特武器与攻击模式，炮塔、导弹齐射、脉冲和重炮要求精确构筑与团队配合。","dimension":"玩法","excerpt":"Each Titan is a lethal war machine with unique weaponry and combat patterns. Turrets, missile barrages, pulse attacks, and devastating heavy artillery will demand perfectly tuned builds, seamless coordination, and smart tactics from your team","url":"https://store.steampowered.com/app/2454600/","label":"证据原文片段"},{"text":"摧毁建筑、桥梁与掩体来改造战场，也可能在队友脚下意外制造灾难。","dimension":"玩法","excerpt":"Level buildings, collapse bridges, blast through cover, and use environmental destruction to your advantage - or trigger disasters right beneath your allies' feet","url":"https://store.steampowered.com/app/2454600/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":null,"unit":"份","state":"not_applicable","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":28911,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1553,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":null,"unit":"USD","state":"not_applicable","date":"2026-07-23"},{"id":"players","label":"玩家数","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":null,"unit":"小时","state":"not_applicable","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":null,"unit":"条","state":"not_applicable","date":"2026-07-23"},{"id":"score","label":"评分","value":null,"unit":"分","state":"not_applicable","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":null,"unit":"%","state":"not_applicable","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"持续跟踪","target":"发售日期、愿望单、关注人数与首批官方评论","reason":"产品位于受期待新品池，发售前指标与发行节点是当前最可执行的观察对象。","trigger":"正式发售，或愿望单、关注、评论状态出现同口径新快照。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/acedea396916b2a1b255c0c6c3617588beebbdff/ss_acedea396916b2a1b255c0c6c3617588beebbdff.1920x1080.jpg?t=1784670175","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/acedea396916b2a1b255c0c6c3617588beebbdff/ss_acedea396916b2a1b255c0c6c3617588beebbdff.1920x1080.jpg?t=1784670175","alt":"Ironsand 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/279c66681f4718a83590d51f6ed498119de61d2f/ss_279c66681f4718a83590d51f6ed498119de61d2f.1920x1080.jpg?t=1784670175","alt":"Ironsand 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/48b8cc7330e0d239c0ff8c902249db7de0d76d45/ss_48b8cc7330e0d239c0ff8c902249db7de0d76d45.1920x1080.jpg?t=1784670175","alt":"Ironsand 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/2b27ea034b8986397a72642bee957574979cb3ad/ss_2b27ea034b8986397a72642bee957574979cb3ad.1920x1080.jpg?t=1784670175","alt":"Ironsand 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Ironsand",
+    "developers": [
+      "Renderise"
+    ],
+    "publishers": [
+      "Renderise"
+    ],
+    "release_status": "coming_soon",
+    "release_date": "2026-08-20",
+    "tags": [
+      "动作肉鸽",
+      "在线合作",
+      "多人游戏",
+      "轻度Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "四人分别承担进攻、防御与支援职责，用角色能力协同适应持续变化的战场压力。",
+      "dimension": "玩法",
+      "excerpt": "4-Player Co-op Assemble a squad of distinct combat roles and push through relentless enemy waves together. Combine offensive, defensive, and support abilities to create powerful team synergies and adapt to any battlefield challenge",
+      "url": "https://store.steampowered.com/app/2454600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每台泰坦拥有独特武器与攻击模式，炮塔、导弹齐射、脉冲和重炮要求精确构筑与团队配合。",
+      "dimension": "玩法",
+      "excerpt": "Each Titan is a lethal war machine with unique weaponry and combat patterns. Turrets, missile barrages, pulse attacks, and devastating heavy artillery will demand perfectly tuned builds, seamless coordination, and smart tactics from your team",
+      "url": "https://store.steampowered.com/app/2454600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "摧毁建筑、桥梁与掩体来改造战场，也可能在队友脚下意外制造灾难。",
+      "dimension": "玩法",
+      "excerpt": "Level buildings, collapse bridges, blast through cover, and use environmental destruction to your advantage - or trigger disasters right beneath your allies' feet",
+      "url": "https://store.steampowered.com/app/2454600/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 0,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 34711,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1833,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 0,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 0,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 0,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 0,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 0,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": null,
+      "unit": "%",
+      "state": "unavailable",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "持续跟踪",
+      "target": "发售日期、愿望单与关注人数",
+      "reason": "Ironsand位于受期待新品池。",
+      "trigger": "发售或关键指标显著变化时更新。",
+      "priority": "高"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/acedea396916b2a1b255c0c6c3617588beebbdff/ss_acedea396916b2a1b255c0c6c3617588beebbdff.1920x1080.jpg?t=1784670175",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/acedea396916b2a1b255c0c6c3617588beebbdff/ss_acedea396916b2a1b255c0c6c3617588beebbdff.1920x1080.jpg?t=1786878867",
+        "alt": "Ironsand 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/279c66681f4718a83590d51f6ed498119de61d2f/ss_279c66681f4718a83590d51f6ed498119de61d2f.1920x1080.jpg?t=1786878867",
+        "alt": "Ironsand 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/48b8cc7330e0d239c0ff8c902249db7de0d76d45/ss_48b8cc7330e0d239c0ff8c902249db7de0d76d45.1920x1080.jpg?t=1786878867",
+        "alt": "Ironsand 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/2b27ea034b8986397a72642bee957574979cb3ad/ss_2b27ea034b8986397a72642bee957574979cb3ad.1920x1080.jpg?t=1786878867",
+        "alt": "Ironsand 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/fb5dad9237dcddf52abbabbd78d951c89e9827f4/ss_fb5dad9237dcddf52abbabbd78d951c89e9827f4.1920x1080.jpg?t=1786878867",
+        "alt": "Ironsand 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/df1c745cc45607b9b4d1ad194c4692e58337b5bb/ss_df1c745cc45607b9b4d1ad194c4692e58337b5bb.1920x1080.jpg?t=1786878867",
+        "alt": "Ironsand 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/b46b61104fdf7434ff05116d7e807b3b08ee36e5/ss_b46b61104fdf7434ff05116d7e807b3b08ee36e5.1920x1080.jpg?t=1786878867",
+        "alt": "Ironsand 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454600/afc5f284786b1f32ec7c0bd4d8bf91bdf481e141/ss_afc5f284786b1f32ec7c0bd4d8bf91bdf481e141.1920x1080.jpg?t=1786878867",
+        "alt": "Ironsand 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

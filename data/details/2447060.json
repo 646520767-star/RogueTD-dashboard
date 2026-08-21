@@ -1,1 +1,309 @@
-{"identity":{"original_title":"Monster Tiles TD: Tower Wars","developers":["Swell Games LLC"],"publishers":["Swell Games LLC"],"release_status":"released","release_date":"2024-02-11","tags":["休闲","策略","塔防","动作肉鸽","自走棋"]},"hooks":[{"text":"每波获得随机地块并旋转铺设敌人路线","dimension":"玩法","excerpt":"Monster Tiles TD features a unique tower defense mechanic where you manually rotate and place a randomly generated tile after each wave to control the enemy path.","url":"https://store.steampowered.com/app/2447060/","label":"证据原文片段"},{"text":"三十五种怪物塔可进化并触发站位协同","dimension":"玩法","excerpt":"Over 35 monster tower types to build, each with unique skills and synergies. Evolve monsters to greater forms for powerful stat and skill bonuses.","url":"https://store.steampowered.com/app/2447060/","label":"证据原文片段"}],"opinions":[{"text":"在线模式具有付费取胜问题。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"the online gamemode is pay to win","url":"https://store.steampowered.com/curator/44911430-Cheap-Games-for-Rich-Memories/","label":"证据原文片段"}]},{"text":"成长与付费系统鼓励通过消费缓解刷取。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a progression system that feels built to encourage mtx purchases to mitigate the grind.","url":"https://steamcommunity.com/id/danielOut/recommended/2447060/","label":"证据原文片段"}]},{"text":"多个页面持续展示现金商店广告。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"There is a cash shop ad on nearly every page in the game.","url":"https://steamcommunity.com/profiles/76561198157723986/recommended/2447060/","label":"证据原文片段"}]},{"text":"基础塔类型同质化严重。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"There are like 40 towers but they are really just 4 towers some of which have higher stats.","url":"https://steamcommunity.com/profiles/76561198157723986/recommended/2447060/","label":"证据原文片段"}]},{"text":"缺少中途存档功能","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"why on earth is there no way to save the game?","url":"https://steamcommunity.com/id/mitorahgames/recommended/2447060/","label":"证据原文片段"}]},{"text":"刷取会逐渐变得乏味","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"10 for the grind to become unfun.","url":"https://steamcommunity.com/profiles/76561198157723986/recommended/2447060/","label":"证据原文片段"}]},{"text":"塔防玩法兼具乐趣和深度。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"An enjoyable and depth tower defence game.","url":"https://store.steampowered.com/curator/10182253-FREE-GAMES-FOR-YOU/","label":"证据原文片段"}]},{"text":"基础玩法扎实且免费内容具有乐趣。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Solid gameplay, plenty of fun to be had for free.","url":"https://steamcommunity.com/profiles/76561198007714729/recommended/2447060/","label":"证据原文片段"}]},{"text":"部分模式统一起点的设计很好。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"having some of the game modes put all players at an even starting point is a great choice","url":"https://steamcommunity.com/id/danielOut/recommended/2447060/","label":"证据原文片段"}]},{"text":"核心游戏很好玩。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"游戏很好玩","url":"https://steamcommunity.com/profiles/76561198393796932/recommended/2447060/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":22743,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":784,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":33201,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":22743,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":22743,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":36.31814224240423,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":500,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.164329,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["在线模式具有付费取胜问题。","成长与付费系统鼓励通过消费缓解刷取。","多个页面持续展示现金商店广告。","基础塔类型同质化严重。","缺少中途存档功能","刷取会逐渐变得乏味"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_36b2f906f6d398af86f38d2e929895c1e72a2a0a.1920x1080.jpg?t=1707638414","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_36b2f906f6d398af86f38d2e929895c1e72a2a0a.1920x1080.jpg?t=1707638414","alt":"Monster Tiles TD: Tower Wars 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_39ab100cdaf49cf73127528870d0cf50a7b4121f.1920x1080.jpg?t=1707638414","alt":"Monster Tiles TD: Tower Wars 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_3c1f70cf297ab562b75cf1ac1c405cc626cb9787.1920x1080.jpg?t=1707638414","alt":"Monster Tiles TD: Tower Wars 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_99a36146025ea6e8cb5c8a88171266e205924db7.1920x1080.jpg?t=1707638414","alt":"Monster Tiles TD: Tower Wars 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Monster Tiles TD: Tower Wars",
+    "developers": [
+      "Swell Games LLC"
+    ],
+    "publishers": [
+      "Swell Games LLC"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-11",
+    "tags": [
+      "休闲",
+      "策略",
+      "塔防",
+      "动作肉鸽",
+      "自走棋"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每波获得随机地块并旋转铺设敌人路线",
+      "dimension": "玩法",
+      "excerpt": "Monster Tiles TD features a unique tower defense mechanic where you manually rotate and place a randomly generated tile after each wave to control the enemy path.",
+      "url": "https://store.steampowered.com/app/2447060/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三十五种怪物塔可进化并触发站位协同",
+      "dimension": "玩法",
+      "excerpt": "Over 35 monster tower types to build, each with unique skills and synergies. Evolve monsters to greater forms for powerful stat and skill bonuses.",
+      "url": "https://store.steampowered.com/app/2447060/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "在线模式具有付费取胜问题。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the online gamemode is pay to win",
+          "url": "https://store.steampowered.com/curator/44911430-Cheap-Games-for-Rich-Memories/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成长与付费系统鼓励通过消费缓解刷取。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a progression system that feels built to encourage mtx purchases to mitigate the grind.",
+          "url": "https://steamcommunity.com/id/danielOut/recommended/2447060/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多个页面持续展示现金商店广告。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "There is a cash shop ad on nearly every page in the game.",
+          "url": "https://steamcommunity.com/profiles/76561198157723986/recommended/2447060/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "基础塔类型同质化严重。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "There are like 40 towers but they are really just 4 towers some of which have higher stats.",
+          "url": "https://steamcommunity.com/profiles/76561198157723986/recommended/2447060/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少中途存档功能",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "why on earth is there no way to save the game?",
+          "url": "https://steamcommunity.com/id/mitorahgames/recommended/2447060/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "刷取会逐渐变得乏味",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "10 for the grind to become unfun.",
+          "url": "https://steamcommunity.com/profiles/76561198157723986/recommended/2447060/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "塔防玩法兼具乐趣和深度。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "An enjoyable and depth tower defence game.",
+          "url": "https://store.steampowered.com/curator/10182253-FREE-GAMES-FOR-YOU/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "基础玩法扎实且免费内容具有乐趣。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Solid gameplay, plenty of fun to be had for free.",
+          "url": "https://steamcommunity.com/profiles/76561198007714729/recommended/2447060/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分模式统一起点的设计很好。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "having some of the game modes put all players at an even starting point is a great choice",
+          "url": "https://steamcommunity.com/id/danielOut/recommended/2447060/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心游戏很好玩。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "游戏很好玩",
+          "url": "https://steamcommunity.com/profiles/76561198393796932/recommended/2447060/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 22749,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3835,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 786,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 68164,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 22749,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 22749,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 36.946269975407304,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 506,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.178218,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "在线模式具有付费取胜问题。",
+    "成长与付费系统鼓励通过消费缓解刷取。",
+    "多个页面持续展示现金商店广告。",
+    "基础塔类型同质化严重。",
+    "缺少中途存档功能",
+    "刷取会逐渐变得乏味"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Monster Tiles TD: Tower Wars位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_36b2f906f6d398af86f38d2e929895c1e72a2a0a.1920x1080.jpg?t=1707638414",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_36b2f906f6d398af86f38d2e929895c1e72a2a0a.1920x1080.jpg?t=1707638414",
+        "alt": "Monster Tiles TD: Tower Wars 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_39ab100cdaf49cf73127528870d0cf50a7b4121f.1920x1080.jpg?t=1707638414",
+        "alt": "Monster Tiles TD: Tower Wars 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_3c1f70cf297ab562b75cf1ac1c405cc626cb9787.1920x1080.jpg?t=1707638414",
+        "alt": "Monster Tiles TD: Tower Wars 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_99a36146025ea6e8cb5c8a88171266e205924db7.1920x1080.jpg?t=1707638414",
+        "alt": "Monster Tiles TD: Tower Wars 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_0680e8b541c2301418fc9657eefbec88b0d07e8c.1920x1080.jpg?t=1707638414",
+        "alt": "Monster Tiles TD: Tower Wars 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_cc33d4ae081a4f5864533dc5a3a47c684ad0f1d4.1920x1080.jpg?t=1707638414",
+        "alt": "Monster Tiles TD: Tower Wars 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_1c110099289c39c2e986b536a47e6b1f0e97800f.1920x1080.jpg?t=1707638414",
+        "alt": "Monster Tiles TD: Tower Wars 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447060/ss_b2fcb9e8ccfbef9e46f44aed82ecd39f59041813.1920x1080.jpg?t=1707638414",
+        "alt": "Monster Tiles TD: Tower Wars 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

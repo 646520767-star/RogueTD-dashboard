@@ -1,1 +1,317 @@
-{"identity":{"original_title":"Machick 2","developers":["DeadPixel"],"publishers":["DeadPixel"],"release_status":"released","release_date":"2025-09-10","tags":["类Rogue","动作肉鸽","弹幕射击","生存","轻度Rogue"]},"hooks":[{"text":"融合进化后的魔法，制造疯狂且不可预期的技能组合","dimension":"玩法","excerpt":"Take your magic beyond the absurd by fusing them to create insane and unexpected combos.","url":"https://store.steampowered.com/app/3449040/","label":"证据原文片段"},{"text":"平行宇宙饰品同时改造玩法、奖励与魔法鸡外观","dimension":"玩法","excerpt":"They change your playstyle, grant unexpected bonuses, twist reality — and above all, make your chicken look absolutely stylish.","url":"https://store.steampowered.com/app/3449040/","label":"证据原文片段"},{"text":"集齐神圣遗物碎片后，在战场释放鸡神力量清剿蛙群","dimension":"玩法","excerpt":"Once complete, bring them to the battlefield to channel this ancient power and unleash the chicken gods’ energy to obliterate frogs mercilessly.","url":"https://store.steampowered.com/app/3449040/","label":"证据原文片段"}],"opinions":[{"text":"画面配置需求低，低配电脑也能运行","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the graphics mean my potato PC can play it","url":"https://steamcommunity.com/profiles/76561198038468252/recommended/3449040/","label":"证据原文片段"}]},{"text":"局外成长很快耗尽","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Metaprogression runs out quickly","url":"https://steamcommunity.com/id/W_74/recommended/3449040/","label":"证据原文片段"}]},{"text":"无尽模式早期已有Bug","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a little buggy and poorly optimised even when early into endless","url":"https://steamcommunity.com/id/W_74/recommended/3449040/","label":"证据原文片段"}]},{"text":"无尽模式早期优化较差","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a little buggy and poorly optimised even when early into endless","url":"https://steamcommunity.com/id/W_74/recommended/3449040/","label":"证据原文片段"}]},{"text":"部分进化只放大或增量，缺乏趣味","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"好几个技能进化只是变得更大或者数量变多了，没意思","url":"https://steamcommunity.com/profiles/76561198197637273/recommended/3449040/","label":"证据原文片段"}]},{"text":"武器升级过程漫长且缺乏意义","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"中间还要经过一段很长时间没啥意义的升级","url":"https://steamcommunity.com/profiles/76561198261230757/recommended/3449040/","label":"证据原文片段"}]},{"text":"存在持续音效无法停止的Bug","dimension":"音频","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a sound that won't stop unless you close and reopen the game","url":"https://steamcommunity.com/profiles/76561198048679015/recommended/3449040/","label":"证据原文片段"}]},{"text":"武器升级缺少期待感","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"武器的升级也让人没有一点期待感","url":"https://steamcommunity.com/profiles/76561198261230757/recommended/3449040/","label":"证据原文片段"}]},{"text":"部分角色存在Bug且无法正常工作","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"some characters are buged and don't work as intended","url":"https://steamcommunity.com/profiles/76561198048679015/recommended/3449040/","label":"证据原文片段"}]},{"text":"刷取过程枯燥无聊","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"刷起来真的很枯燥无聊","url":"https://steamcommunity.com/profiles/76561198261230757/recommended/3449040/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":26279,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":19065,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1396,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":141679,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":28328,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":28328,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.445165273362202,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":658,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.513678,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["局外成长很快耗尽","技术/性能：无尽模式早期已有Bug","技术/性能：无尽模式早期优化较差","部分进化只放大或增量，缺乏趣味","武器升级过程漫长且缺乏意义","存在持续音效无法停止的Bug","技术/性能：部分角色存在Bug且无法正常工作"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/f4d4ea3017ac4420c94472d1a2c87527debebab6/ss_f4d4ea3017ac4420c94472d1a2c87527debebab6.1920x1080.jpg?t=1782149609","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/f4d4ea3017ac4420c94472d1a2c87527debebab6/ss_f4d4ea3017ac4420c94472d1a2c87527debebab6.1920x1080.jpg?t=1782149609","alt":"魔鸡马奇克 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/2a1284726453cb9491bbf2a8ec5a89a92595b1d7/ss_2a1284726453cb9491bbf2a8ec5a89a92595b1d7.1920x1080.jpg?t=1782149609","alt":"魔鸡马奇克 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/54e18cb9322e4edf8a7354592d1a33b41ba5afa8/ss_54e18cb9322e4edf8a7354592d1a33b41ba5afa8.1920x1080.jpg?t=1782149609","alt":"魔鸡马奇克 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/c839bacfc26de435ae60a966df1d66853e2858a2/ss_c839bacfc26de435ae60a966df1d66853e2858a2.1920x1080.jpg?t=1782149609","alt":"魔鸡马奇克 2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Machick 2",
+    "developers": [
+      "DeadPixel"
+    ],
+    "publishers": [
+      "DeadPixel"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-10",
+    "tags": [
+      "动作肉鸽",
+      "类Rogue",
+      "动作肉鸽",
+      "弹幕射击",
+      "生存"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "融合进化后的魔法，制造疯狂且不可预期的技能组合",
+      "dimension": "玩法",
+      "excerpt": "Take your magic beyond the absurd by fusing them to create insane and unexpected combos.",
+      "url": "https://store.steampowered.com/app/3449040/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "平行宇宙饰品同时改造玩法、奖励与魔法鸡外观",
+      "dimension": "玩法",
+      "excerpt": "They change your playstyle, grant unexpected bonuses, twist reality — and above all, make your chicken look absolutely stylish.",
+      "url": "https://store.steampowered.com/app/3449040/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "集齐神圣遗物碎片后，在战场释放鸡神力量清剿蛙群",
+      "dimension": "玩法",
+      "excerpt": "Once complete, bring them to the battlefield to channel this ancient power and unleash the chicken gods’ energy to obliterate frogs mercilessly.",
+      "url": "https://store.steampowered.com/app/3449040/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "画面配置需求低，低配电脑也能运行",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the graphics mean my potato PC can play it",
+          "url": "https://steamcommunity.com/profiles/76561198038468252/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局外成长很快耗尽",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Metaprogression runs out quickly",
+          "url": "https://steamcommunity.com/id/W_74/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "无尽模式早期已有Bug",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a little buggy and poorly optimised even when early into endless",
+          "url": "https://steamcommunity.com/id/W_74/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "无尽模式早期优化较差",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a little buggy and poorly optimised even when early into endless",
+          "url": "https://steamcommunity.com/id/W_74/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分进化只放大或增量，缺乏趣味",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "好几个技能进化只是变得更大或者数量变多了，没意思",
+          "url": "https://steamcommunity.com/profiles/76561198197637273/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器升级过程漫长且缺乏意义",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "中间还要经过一段很长时间没啥意义的升级",
+          "url": "https://steamcommunity.com/profiles/76561198261230757/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "存在持续音效无法停止的Bug",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a sound that won't stop unless you close and reopen the game",
+          "url": "https://steamcommunity.com/profiles/76561198048679015/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器升级缺少期待感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "武器的升级也让人没有一点期待感",
+          "url": "https://steamcommunity.com/profiles/76561198261230757/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分角色存在Bug且无法正常工作",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "some characters are buged and don't work as intended",
+          "url": "https://steamcommunity.com/profiles/76561198048679015/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "刷取过程枯燥无聊",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "刷起来真的很枯燥无聊",
+          "url": "https://steamcommunity.com/profiles/76561198261230757/recommended/3449040/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 26645,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 19178,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1401,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 146413,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 28713,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 28713,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.524095769831881,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 593,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.577039,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "局外成长很快耗尽",
+    "技术/性能：无尽模式早期已有Bug",
+    "技术/性能：无尽模式早期优化较差",
+    "部分进化只放大或增量，缺乏趣味",
+    "武器升级过程漫长且缺乏意义",
+    "存在持续音效无法停止的Bug",
+    "技术/性能：部分角色存在Bug且无法正常工作"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "魔鸡马奇克 2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/f4d4ea3017ac4420c94472d1a2c87527debebab6/ss_f4d4ea3017ac4420c94472d1a2c87527debebab6.1920x1080.jpg?t=1782149609",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/f4d4ea3017ac4420c94472d1a2c87527debebab6/ss_f4d4ea3017ac4420c94472d1a2c87527debebab6.1920x1080.jpg?t=1782149609",
+        "alt": "魔鸡马奇克 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/2a1284726453cb9491bbf2a8ec5a89a92595b1d7/ss_2a1284726453cb9491bbf2a8ec5a89a92595b1d7.1920x1080.jpg?t=1782149609",
+        "alt": "魔鸡马奇克 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/54e18cb9322e4edf8a7354592d1a33b41ba5afa8/ss_54e18cb9322e4edf8a7354592d1a33b41ba5afa8.1920x1080.jpg?t=1782149609",
+        "alt": "魔鸡马奇克 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/c839bacfc26de435ae60a966df1d66853e2858a2/ss_c839bacfc26de435ae60a966df1d66853e2858a2.1920x1080.jpg?t=1782149609",
+        "alt": "魔鸡马奇克 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/547d604b9d1411592e36bf8d7b347f4a9a02ed8d/ss_547d604b9d1411592e36bf8d7b347f4a9a02ed8d.1920x1080.jpg?t=1782149609",
+        "alt": "魔鸡马奇克 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/b86930b11be87d69d824b889110df4065b4e7d18/ss_b86930b11be87d69d824b889110df4065b4e7d18.1920x1080.jpg?t=1782149609",
+        "alt": "魔鸡马奇克 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/cbfc249ed7e8223de747ed12c25c2dc875f591e7/ss_cbfc249ed7e8223de747ed12c25c2dc875f591e7.1920x1080.jpg?t=1782149609",
+        "alt": "魔鸡马奇克 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449040/c4b84711dd90e4c2501f47c80c6a4918e4a6e376/ss_c4b84711dd90e4c2501f47c80c6a4918e4a6e376.1920x1080.jpg?t=1782149609",
+        "alt": "魔鸡马奇克 2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

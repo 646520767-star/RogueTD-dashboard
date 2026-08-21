@@ -1,1 +1,179 @@
-{"identity":{"original_title":"The Last Flame: Prologue","developers":["Hotloop"],"publishers":["Hotloop","Surefire.Games"],"release_status":"released","release_date":"2024-01-08","tags":["策略","自走棋","类Rogue","冒险","战术"]},"hooks":[{"text":"把英雄、装备、遗物与出身四层系统叠成协同构筑","dimension":"玩法","excerpt":"Combine heroes, items, relics and origins together to create amazing builds!","url":"https://store.steampowered.com/app/2517810/","label":"证据原文片段"},{"text":"自动战斗之间仍要管资源、选路线、调站位并规划下一场战斗","dimension":"玩法","excerpt":"In between the automated combats, you will have to cleverly guide your heroes through the adventure by making the smart decisions! Manage your resources, choose the optimal path in the map, make powerful builds, and strategically position and plan the combat phase!","url":"https://store.steampowered.com/app/2517810/","label":"证据原文片段"},{"text":"在无尽模式把构筑推到极限，挑战尽可能高的楼层","dimension":"玩法","excerpt":"Push your builds to their limit in the endless mode, a mode where you try to reach the highest floor!","url":"https://store.steampowered.com/app/2517810/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":34108,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":15251,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1685,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":34108,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":34108,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.040592581391288,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":333,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.186186,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、自走棋","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_c705fae6482e4fdd008327ea363c3935c929c8e9.1920x1080.jpg?t=1736444515","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_c705fae6482e4fdd008327ea363c3935c929c8e9.1920x1080.jpg?t=1736444515","alt":"将熄之焰：序章 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_ca5e63b724fcda6601c6e75178f69437023ac1ff.1920x1080.jpg?t=1736444515","alt":"将熄之焰：序章 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_8c9ff5593d2591baaa9761cf29dd112d1c076165.1920x1080.jpg?t=1736444515","alt":"将熄之焰：序章 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_299d1663aa82879c99d4f3aacf4cf4ab0128e19d.1920x1080.jpg?t=1736444515","alt":"将熄之焰：序章 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Last Flame: Prologue",
+    "developers": [
+      "Hotloop"
+    ],
+    "publishers": [
+      "Hotloop",
+      "Surefire.Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-08",
+    "tags": [
+      "策略",
+      "自走棋",
+      "类Rogue",
+      "冒险",
+      "战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把英雄、装备、遗物与出身四层系统叠成协同构筑",
+      "dimension": "玩法",
+      "excerpt": "Combine heroes, items, relics and origins together to create amazing builds!",
+      "url": "https://store.steampowered.com/app/2517810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "自动战斗之间仍要管资源、选路线、调站位并规划下一场战斗",
+      "dimension": "玩法",
+      "excerpt": "In between the automated combats, you will have to cleverly guide your heroes through the adventure by making the smart decisions! Manage your resources, choose the optimal path in the map, make powerful builds, and strategically position and plan the combat phase!",
+      "url": "https://store.steampowered.com/app/2517810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在无尽模式把构筑推到极限，挑战尽可能高的楼层",
+      "dimension": "玩法",
+      "excerpt": "Push your builds to their limit in the endless mode, a mode where you try to reach the highest floor!",
+      "url": "https://store.steampowered.com/app/2517810/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 40042,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 15342,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1686,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 40042,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 40042,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.3591715668393385,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 333,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.186186,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "将熄之焰：序章位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_c705fae6482e4fdd008327ea363c3935c929c8e9.1920x1080.jpg?t=1736444515",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_c705fae6482e4fdd008327ea363c3935c929c8e9.1920x1080.jpg?t=1736444515",
+        "alt": "将熄之焰：序章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_ca5e63b724fcda6601c6e75178f69437023ac1ff.1920x1080.jpg?t=1736444515",
+        "alt": "将熄之焰：序章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_8c9ff5593d2591baaa9761cf29dd112d1c076165.1920x1080.jpg?t=1736444515",
+        "alt": "将熄之焰：序章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_299d1663aa82879c99d4f3aacf4cf4ab0128e19d.1920x1080.jpg?t=1736444515",
+        "alt": "将熄之焰：序章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_a4c2516ea0a47760f1142f8fbee8eb31f2f27987.1920x1080.jpg?t=1736444515",
+        "alt": "将熄之焰：序章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_4ac2abf9b30275ea829d9689912af73efa31983f.1920x1080.jpg?t=1736444515",
+        "alt": "将熄之焰：序章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_b4fa1bdb44553581dd902ec924db726b437a56b2.1920x1080.jpg?t=1736444515",
+        "alt": "将熄之焰：序章 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517810/ss_4b5bf33cd70be81588b579cae21a399b17a27b9e.1920x1080.jpg?t=1736444515",
+        "alt": "将熄之焰：序章 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

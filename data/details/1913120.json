@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Tears of Metal","developers":["Paper Cult"],"publishers":["Paper Cult"],"release_status":"early_access","release_date":"2026-07-22","tags":["抢先体验","砍杀","动作肉鸽","中世纪","合作"]},"hooks":[{"text":"单人或四人合作率领苏格兰军团，在45个手工战场中收复岛屿","dimension":"玩法","excerpt":"Reconquer your island with your friends or by yourself through over 45 handcrafted environments with endless opportunities for unique scenarios and objectives.","url":"https://store.steampowered.com/app/1913120/","label":"证据原文片段"},{"text":"战役升级可与百余件神器叠加，让多名英雄形成不同爆发构筑","dimension":"玩法","excerpt":"Obtain powerful upgrades and combine them with over a hundred artifacts to create distinctive and devastating builds. Choose from multiple unique playable heroes and unleash increasingly explosive and lethal attacks directly from the frontlines.","url":"https://store.steampowered.com/app/1913120/","label":"证据原文片段"},{"text":"军团士兵会跨战役获得永久技能，可持续招募、升级并并肩作战","dimension":"玩法","excerpt":"Your soldiers gain permanent skills between campaigns. Recruit, upgrade and fight alongside them as they become essential assets in your upcoming battles.","url":"https://store.steampowered.com/app/1913120/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":0,"unit":"份","state":"zero","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":589557,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":29845,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":0,"unit":"人","state":"zero","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":0,"unit":"人","state":"zero","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0,"unit":"小时","state":"zero","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":0,"unit":"条","state":"zero","date":"2026-07-23"},{"id":"score","label":"评分","value":0,"unit":"分","state":"zero","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.265306,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、砍杀","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/b37dd451c8a669e49d5e16cce4b7913ac3e07a65/ss_b37dd451c8a669e49d5e16cce4b7913ac3e07a65.1920x1080.jpg?t=1784731614","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/b37dd451c8a669e49d5e16cce4b7913ac3e07a65/ss_b37dd451c8a669e49d5e16cce4b7913ac3e07a65.1920x1080.jpg?t=1784731614","alt":"Tears of Metal 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/7278f92efd80038efc2c73e837f3cf21a7f5100c/ss_7278f92efd80038efc2c73e837f3cf21a7f5100c.1920x1080.jpg?t=1784731614","alt":"Tears of Metal 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/847f75ed888256c7586469cc81a143740b79f2b9/ss_847f75ed888256c7586469cc81a143740b79f2b9.1920x1080.jpg?t=1784731614","alt":"Tears of Metal 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/02354160bd1d7979adc13de909f3d61252c37523/ss_02354160bd1d7979adc13de909f3d61252c37523.1920x1080.jpg?t=1784731614","alt":"Tears of Metal 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Tears of Metal",
+    "developers": [
+      "Paper Cult"
+    ],
+    "publishers": [
+      "Paper Cult"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-07-22",
+    "tags": [
+      "抢先体验",
+      "动作肉鸽",
+      "砍杀",
+      "砍杀",
+      "中世纪"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "单人或四人合作率领苏格兰军团，在45个手工战场中收复岛屿",
+      "dimension": "玩法",
+      "excerpt": "Reconquer your island with your friends or by yourself through over 45 handcrafted environments with endless opportunities for unique scenarios and objectives.",
+      "url": "https://store.steampowered.com/app/1913120/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战役升级可与百余件神器叠加，让多名英雄形成不同爆发构筑",
+      "dimension": "玩法",
+      "excerpt": "Obtain powerful upgrades and combine them with over a hundred artifacts to create distinctive and devastating builds. Choose from multiple unique playable heroes and unleash increasingly explosive and lethal attacks directly from the frontlines.",
+      "url": "https://store.steampowered.com/app/1913120/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "军团士兵会跨战役获得永久技能，可持续招募、升级并并肩作战",
+      "dimension": "玩法",
+      "excerpt": "Your soldiers gain permanent skills between campaigns. Recruit, upgrade and fight alongside them as they become essential assets in your upcoming battles.",
+      "url": "https://store.steampowered.com/app/1913120/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 161219,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 860410,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 46147,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3295633,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 168477,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 168477,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.226745059785403,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2150,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.720486,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Tears of Metal位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/b37dd451c8a669e49d5e16cce4b7913ac3e07a65/ss_b37dd451c8a669e49d5e16cce4b7913ac3e07a65.1920x1080.jpg?t=1784731614",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/b37dd451c8a669e49d5e16cce4b7913ac3e07a65/ss_b37dd451c8a669e49d5e16cce4b7913ac3e07a65.1920x1080.jpg?t=1786394122",
+        "alt": "Tears of Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/7278f92efd80038efc2c73e837f3cf21a7f5100c/ss_7278f92efd80038efc2c73e837f3cf21a7f5100c.1920x1080.jpg?t=1786394122",
+        "alt": "Tears of Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/847f75ed888256c7586469cc81a143740b79f2b9/ss_847f75ed888256c7586469cc81a143740b79f2b9.1920x1080.jpg?t=1786394122",
+        "alt": "Tears of Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/02354160bd1d7979adc13de909f3d61252c37523/ss_02354160bd1d7979adc13de909f3d61252c37523.1920x1080.jpg?t=1786394122",
+        "alt": "Tears of Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/b06ae94ecbd900f74c3ee1a49d56707ba53b482e/ss_b06ae94ecbd900f74c3ee1a49d56707ba53b482e.1920x1080.jpg?t=1786394122",
+        "alt": "Tears of Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/21ce63b8ef2154a0e46b168bfa6c862370d85291/ss_21ce63b8ef2154a0e46b168bfa6c862370d85291.1920x1080.jpg?t=1786394122",
+        "alt": "Tears of Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/949c23c1bc4de3605881996f57acef69398a2066/ss_949c23c1bc4de3605881996f57acef69398a2066.1920x1080.jpg?t=1786394122",
+        "alt": "Tears of Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/8d1115089319c44e91783e9e80d46129f6260c28/ss_8d1115089319c44e91783e9e80d46129f6260c28.1920x1080.jpg?t=1786394122",
+        "alt": "Tears of Metal 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

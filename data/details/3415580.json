@@ -1,1 +1,166 @@
-{"identity":{"original_title":"Death Ring: Second Impact","developers":["Rouge Mecha"],"publishers":["Rouge Mecha"],"release_status":"early_access","release_date":"2025-07-11","tags":["回合制战术","轻度Rogue","回合制策略","类Rogue","角色自定义"]},"hooks":[{"text":"机甲装备方案对应独立攻击方式，特定组合解锁协同技能","dimension":"玩法","excerpt":"Each loadout offers a unique combat style and method of attack. Certain combinations even unlock Synergy Skills .","url":"https://store.steampowered.com/app/3415580/","label":"证据原文片段"},{"text":"数百模块自由装配，早期成长模块还能影响全队机甲","dimension":"玩法","excerpt":"Pick from hundreds of unique modules and assemble them to forge a combat style that’s truly your own. Whether it's ruthless firebringer, agile striker, or combat engineer, the way you fight is defined by how you assemble. What if you're lucky enough to find a growth-type module in early game and slot it into your command panel which affects all the mechs...","url":"https://store.steampowered.com/app/3415580/","label":"证据原文片段"},{"text":"斩首、撤离、防守与采矿任务会改变城市命运","dimension":"故事","excerpt":"Complete missions such as decapitation, evacuation, defense, and mining to earn rewards that can change the fate of cities.","url":"https://store.steampowered.com/app/3415580/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3976,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":50839,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3745,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":65599,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4217,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4217,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.389825446836063,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":172,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.924855,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"回合制战术、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/2638f442379b75e26b7b9062ba9367afa5fb5390/ss_2638f442379b75e26b7b9062ba9367afa5fb5390.1920x1080.jpg?t=1758777222","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/2638f442379b75e26b7b9062ba9367afa5fb5390/ss_2638f442379b75e26b7b9062ba9367afa5fb5390.1920x1080.jpg?t=1758777222","alt":"死环：二次冲击 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/4799590e2e05cb35ee82f09f7aaa82ed23ea533e/ss_4799590e2e05cb35ee82f09f7aaa82ed23ea533e.1920x1080.jpg?t=1758777222","alt":"死环：二次冲击 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/612101fd62f6e1e504365736fc9be5ba78e3ea68/ss_612101fd62f6e1e504365736fc9be5ba78e3ea68.1920x1080.jpg?t=1758777222","alt":"死环：二次冲击 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/196555bcdb67fbb3f4ba4bfb1d895cdb39eef9d5/ss_196555bcdb67fbb3f4ba4bfb1d895cdb39eef9d5.1920x1080.jpg?t=1758777222","alt":"死环：二次冲击 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Death Ring: Second Impact",
+    "developers": [
+      "Rouge Mecha"
+    ],
+    "publishers": [
+      "Rouge Mecha"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-07-11",
+    "tags": [
+      "回合制战术",
+      "塔防",
+      "轻度Rogue",
+      "回合制策略",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "机甲装备方案对应独立攻击方式，特定组合解锁协同技能",
+      "dimension": "玩法",
+      "excerpt": "Each loadout offers a unique combat style and method of attack. Certain combinations even unlock Synergy Skills .",
+      "url": "https://store.steampowered.com/app/3415580/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "数百模块自由装配，早期成长模块还能影响全队机甲",
+      "dimension": "玩法",
+      "excerpt": "Pick from hundreds of unique modules and assemble them to forge a combat style that’s truly your own. Whether it's ruthless firebringer, agile striker, or combat engineer, the way you fight is defined by how you assemble. What if you're lucky enough to find a growth-type module in early game and slot it into your command panel which affects all the mechs...",
+      "url": "https://store.steampowered.com/app/3415580/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "斩首、撤离、防守与采矿任务会改变城市命运",
+      "dimension": "故事",
+      "excerpt": "Complete missions such as decapitation, evacuation, defense, and mining to earn rewards that can change the fate of cities.",
+      "url": "https://store.steampowered.com/app/3415580/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4136,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 51140,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3755,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 69329,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4383,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4383,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.515514437612304,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 160,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.45977,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "死环：二次冲击位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/2638f442379b75e26b7b9062ba9367afa5fb5390/ss_2638f442379b75e26b7b9062ba9367afa5fb5390.1920x1080.jpg?t=1758777222",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/2638f442379b75e26b7b9062ba9367afa5fb5390/ss_2638f442379b75e26b7b9062ba9367afa5fb5390.1920x1080.jpg?t=1758777222",
+        "alt": "死环：二次冲击 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/4799590e2e05cb35ee82f09f7aaa82ed23ea533e/ss_4799590e2e05cb35ee82f09f7aaa82ed23ea533e.1920x1080.jpg?t=1758777222",
+        "alt": "死环：二次冲击 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/612101fd62f6e1e504365736fc9be5ba78e3ea68/ss_612101fd62f6e1e504365736fc9be5ba78e3ea68.1920x1080.jpg?t=1758777222",
+        "alt": "死环：二次冲击 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/196555bcdb67fbb3f4ba4bfb1d895cdb39eef9d5/ss_196555bcdb67fbb3f4ba4bfb1d895cdb39eef9d5.1920x1080.jpg?t=1758777222",
+        "alt": "死环：二次冲击 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415580/ss_484f1f5640070a6dbf6b320bb1a6bf4460c73b85.1920x1080.jpg?t=1758777222",
+        "alt": "死环：二次冲击 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

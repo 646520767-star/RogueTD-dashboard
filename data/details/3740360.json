@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Lia: Hacking Destiny","developers":["Orube Game Studio"],"publishers":["Orube Game Studio","GoGo Games Interactive"],"release_status":"released","release_date":"2025-11-13","tags":["动作","角色扮演","平台跳跃","类Rogue","动作肉鸽"]},"hooks":[{"text":"可在狙击枪加武士刀的精准组合与火箭筒混战之间切换整套战斗节奏","dimension":"玩法","excerpt":"Set your combat pace by cycling through a colossal arsenal of devastating weapons. Go for a sniper and a katana for deadly precision… or embrace chaos with a bazooka in hand.","url":"https://store.steampowered.com/app/3740360/","label":"证据原文片段"},{"text":"工业设施逐区配置更强且怪诞的专属敌人与Boss，从机器人妈妈到机械恐龙","dimension":"玩法","excerpt":"Raid distinct industrial facilities, each with enemies and bosses that grow increasingly challenging and… unique. An overprotective robot mom who mistakes love for mass destruction? We’ve got it. A Segway-riding robot trying to play mall cop? Also, yes. A ravenous robotic dinosaur in a post-apocalyptic zoo? Absolutely.","url":"https://store.steampowered.com/app/3740360/","label":"证据原文片段"},{"text":"解救被算法束缚的猫咪即可获得一支猫军团，对抗广告与垃圾信息统治","dimension":"题材","excerpt":"Stop the robots from monetizing hypnotic cat videos. Free the fluffballs from the algorithm’s chains and earn the lifelong loyalty of an entire feline army.","url":"https://store.steampowered.com/app/3740360/","label":"证据原文片段"}],"opinions":[{"text":"像素美术风格鲜明","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"stylish piexelated art-style","url":"https://store.steampowered.com/curator/32826090-Gaming-Grandma/","label":"证据原文片段"}]},{"text":"局外成长需要大量刷取","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"局外肝的一批","url":"https://steamcommunity.com/id/xrkgame/recommended/3740360/","label":"证据原文片段"}]},{"text":"后期重复速通容易乏味","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期速通两三次就会开始乏味了","url":"https://steamcommunity.com/id/1368941592/recommended/3740360/","label":"证据原文片段"}]},{"text":"最终成就需要过度刷取","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"最后一个成就太难刷了","url":"https://steamcommunity.com/id/1368941592/recommended/3740360/","label":"证据原文片段"}]},{"text":"肉鸽构筑在局内难以成型","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"局内难以成型","url":"https://steamcommunity.com/id/xrkgame/recommended/3740360/","label":"证据原文片段"}]},{"text":"黑客与战斗的结合持续带来紧张感","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The blend of hacking and combat keeps me on my toes.","url":"https://store.steampowered.com/curator/33372336-ALL_BEST_GAMES/","label":"证据原文片段"}]},{"text":"操作紧致且战斗愉快","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"tight control and enjoyable combat","url":"https://store.steampowered.com/curator/32826090-Gaming-Grandma/","label":"证据原文片段"}]},{"text":"解锁新武器令人上瘾","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Unlocking new weapons is addictive","url":"https://store.steampowered.com/curator/33372336-ALL_BEST_GAMES/","label":"证据原文片段"}]},{"text":"战斗动画反馈很好","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the combat animations feel so good.","url":"https://steamcommunity.com/id/VascoMoreira98/recommended/3740360/","label":"证据原文片段"}]},{"text":"整体手感令人满足","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"It feels so satisfying to play","url":"https://steamcommunity.com/id/VascoMoreira98/recommended/3740360/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1468,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":29232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":746,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":14695,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2056,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2056,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.634623345699647,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":147,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.278912,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["局外成长需要大量刷取","后期重复速通容易乏味","最终成就需要过度刷取","肉鸽构筑在局内难以成型","剧情过浅且深度不足"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/b45e0299678b5cc9277ca1b2f45ef24266320c58/ss_b45e0299678b5cc9277ca1b2f45ef24266320c58.1920x1080.jpg?t=1782136938","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/b45e0299678b5cc9277ca1b2f45ef24266320c58/ss_b45e0299678b5cc9277ca1b2f45ef24266320c58.1920x1080.jpg?t=1782136938","alt":"Lia: Hacking Destiny 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/dfc4aa78dd4099d10856bbfcf15519fc38cdb6cc/ss_dfc4aa78dd4099d10856bbfcf15519fc38cdb6cc.1920x1080.jpg?t=1782136938","alt":"Lia: Hacking Destiny 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/31975fe5f835fbf3ccfe5b23aa489c966e7e36b1/ss_31975fe5f835fbf3ccfe5b23aa489c966e7e36b1.1920x1080.jpg?t=1782136938","alt":"Lia: Hacking Destiny 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/f33bed31f3875b0a14ada97193639b41ff518dae/ss_f33bed31f3875b0a14ada97193639b41ff518dae.1920x1080.jpg?t=1782136938","alt":"Lia: Hacking Destiny 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lia: Hacking Destiny",
+    "developers": [
+      "Orube Game Studio"
+    ],
+    "publishers": [
+      "Orube Game Studio",
+      "GoGo Games Interactive"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-13",
+    "tags": [
+      "动作",
+      "角色扮演",
+      "平台跳跃",
+      "类Rogue",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "可在狙击枪加武士刀的精准组合与火箭筒混战之间切换整套战斗节奏",
+      "dimension": "玩法",
+      "excerpt": "Set your combat pace by cycling through a colossal arsenal of devastating weapons. Go for a sniper and a katana for deadly precision… or embrace chaos with a bazooka in hand.",
+      "url": "https://store.steampowered.com/app/3740360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "工业设施逐区配置更强且怪诞的专属敌人与Boss，从机器人妈妈到机械恐龙",
+      "dimension": "玩法",
+      "excerpt": "Raid distinct industrial facilities, each with enemies and bosses that grow increasingly challenging and… unique. An overprotective robot mom who mistakes love for mass destruction? We’ve got it. A Segway-riding robot trying to play mall cop? Also, yes. A ravenous robotic dinosaur in a post-apocalyptic zoo? Absolutely.",
+      "url": "https://store.steampowered.com/app/3740360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "解救被算法束缚的猫咪即可获得一支猫军团，对抗广告与垃圾信息统治",
+      "dimension": "题材",
+      "excerpt": "Stop the robots from monetizing hypnotic cat videos. Free the fluffballs from the algorithm’s chains and earn the lifelong loyalty of an entire feline army.",
+      "url": "https://store.steampowered.com/app/3740360/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "像素美术风格鲜明",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "stylish piexelated art-style",
+          "url": "https://store.steampowered.com/curator/32826090-Gaming-Grandma/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局外成长需要大量刷取",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "局外肝的一批",
+          "url": "https://steamcommunity.com/id/xrkgame/recommended/3740360/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期重复速通容易乏味",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期速通两三次就会开始乏味了",
+          "url": "https://steamcommunity.com/id/1368941592/recommended/3740360/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "最终成就需要过度刷取",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "最后一个成就太难刷了",
+          "url": "https://steamcommunity.com/id/1368941592/recommended/3740360/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "肉鸽构筑在局内难以成型",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "局内难以成型",
+          "url": "https://steamcommunity.com/id/xrkgame/recommended/3740360/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "黑客与战斗的结合持续带来紧张感",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The blend of hacking and combat keeps me on my toes.",
+          "url": "https://store.steampowered.com/curator/33372336-ALL_BEST_GAMES/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "操作紧致且战斗愉快",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "tight control and enjoyable combat",
+          "url": "https://store.steampowered.com/curator/32826090-Gaming-Grandma/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "解锁新武器令人上瘾",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Unlocking new weapons is addictive",
+          "url": "https://store.steampowered.com/curator/33372336-ALL_BEST_GAMES/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗动画反馈很好",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the combat animations feel so good.",
+          "url": "https://steamcommunity.com/id/VascoMoreira98/recommended/3740360/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体手感令人满足",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "It feels so satisfying to play",
+          "url": "https://steamcommunity.com/id/VascoMoreira98/recommended/3740360/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1647,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 29406,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 756,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 13887,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2303,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2303,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.6555853191736585,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 89,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.333333,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "局外成长需要大量刷取",
+    "后期重复速通容易乏味",
+    "最终成就需要过度刷取",
+    "肉鸽构筑在局内难以成型",
+    "剧情过浅且深度不足"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Lia: Hacking Destiny位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/b45e0299678b5cc9277ca1b2f45ef24266320c58/ss_b45e0299678b5cc9277ca1b2f45ef24266320c58.1920x1080.jpg?t=1782136938",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/b45e0299678b5cc9277ca1b2f45ef24266320c58/ss_b45e0299678b5cc9277ca1b2f45ef24266320c58.1920x1080.jpg?t=1782136938",
+        "alt": "Lia: Hacking Destiny 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/dfc4aa78dd4099d10856bbfcf15519fc38cdb6cc/ss_dfc4aa78dd4099d10856bbfcf15519fc38cdb6cc.1920x1080.jpg?t=1782136938",
+        "alt": "Lia: Hacking Destiny 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/31975fe5f835fbf3ccfe5b23aa489c966e7e36b1/ss_31975fe5f835fbf3ccfe5b23aa489c966e7e36b1.1920x1080.jpg?t=1782136938",
+        "alt": "Lia: Hacking Destiny 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/f33bed31f3875b0a14ada97193639b41ff518dae/ss_f33bed31f3875b0a14ada97193639b41ff518dae.1920x1080.jpg?t=1782136938",
+        "alt": "Lia: Hacking Destiny 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/5531fa523f83ffda0f12328519a32cb16a5ffda4/ss_5531fa523f83ffda0f12328519a32cb16a5ffda4.1920x1080.jpg?t=1782136938",
+        "alt": "Lia: Hacking Destiny 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/a010020240a966c74a01e2f7c36057a2811356a2/ss_a010020240a966c74a01e2f7c36057a2811356a2.1920x1080.jpg?t=1782136938",
+        "alt": "Lia: Hacking Destiny 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/d7d4fe571a8617f61658487df335c0f864633b3b/ss_d7d4fe571a8617f61658487df335c0f864633b3b.1920x1080.jpg?t=1782136938",
+        "alt": "Lia: Hacking Destiny 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/095786640aafc4452833501758dcfad9f1188a7f/ss_095786640aafc4452833501758dcfad9f1188a7f.1920x1080.jpg?t=1782136938",
+        "alt": "Lia: Hacking Destiny 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

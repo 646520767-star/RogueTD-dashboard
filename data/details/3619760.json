@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Yoiyami Biscuit","developers":["tripper_room","以絵会友(ikaikaiyuu)"],"publishers":["Mediascape Co., Ltd."],"release_status":"early_access","release_date":"2025-10-26","tags":["动作","动作肉鸽","弹幕射击","二维画面","可爱"]},"hooks":[{"text":"零食既是会升级的弹幕武器，也能被露米娅吃掉以获得永久强化和被动攻击。","dimension":"玩法","excerpt":"All the different snacks have different upsides and downsides, and will level up and grow stronger as you battle with them! Rumia can also eat snacks to grow stronger permanently, additionally gaining that snack as a passive attack!","url":"https://store.steampowered.com/app/3619760/","label":"证据原文片段"},{"text":"百余件道具涵盖属性提升、挡弹伙伴和复制效果，并强调与现有道具及零食联动。","dimension":"玩法","excerpt":"There are items that simply raise your stats, ones that summon battle partners that block bullets, and even ones that treat other items like you have two of them...!? There's a whole variety pack of items to choose from, but don't forget to pick ones that synergize with your other items... and your snacks too, of course!","url":"https://store.steampowered.com/app/3619760/","label":"证据原文片段"},{"text":"“饼干硬度”允许随时调高或调低难度，胜利后还会逐步解锁更高挑战。","dimension":"玩法","excerpt":"Change the game's Biscuit Hardness to make things easier or harder! You'll unlock harder and harder difficulties as you keep winning runs. But don't worry — you can always make things easier if you feel like the game is too difficult!","url":"https://store.steampowered.com/app/3619760/","label":"证据原文片段"}],"opinions":[{"text":"美术风格表现不错","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"art style are pretty good","url":"https://steamcommunity.com/id/Hoshino88/recommended/3619760/","label":"证据原文片段"}]},{"text":"武器之间几乎没有平衡","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"几乎是一点平衡没有做就端上来了","url":"https://steamcommunity.com/profiles/76561199404055279/recommended/3619760/","label":"证据原文片段"}]},{"text":"该问题导致后期体验不舒服","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"导致后期会玩的很不舒服","url":"https://steamcommunity.com/profiles/76561198856865803/recommended/3619760/","label":"证据原文片段"}]},{"text":"系统管理过度复杂","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"this game comes with excessive management.","url":"https://steamcommunity.com/profiles/76561198999871738/recommended/3619760/","label":"证据原文片段"}]},{"text":"后期弹幕与特效混杂到难以辨认","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"武器特效和子弹根本看不起啥是啥哪是哪","url":"https://steamcommunity.com/id/saikaidose/recommended/3619760/","label":"证据原文片段"}]},{"text":"第三章战斗卡顿严重","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"c3每一次战斗都卡的要死","url":"https://steamcommunity.com/profiles/76561199404055279/recommended/3619760/","label":"证据原文片段"}]},{"text":"主副枪转换设定很不错","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"主副枪的设定很不错","url":"https://steamcommunity.com/id/saikaidose/recommended/3619760/","label":"证据原文片段"}]},{"text":"玩法需要做出大量有影响的决策","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"it feels rather deep with a lot of decisions to be made","url":"https://steamcommunity.com/id/Hoshino88/recommended/3619760/","label":"证据原文片段"}]},{"text":"较高难度要求玩家思考","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"it's pretty tough and demands you to think","url":"https://steamcommunity.com/id/Hoshino88/recommended/3619760/","label":"证据原文片段"}]},{"text":"Boss弹幕设计不错","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"boss的弹设还不错","url":"https://steamcommunity.com/profiles/76561198856865803/recommended/3619760/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":2074,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":256,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":10317,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2098,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2098,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.65840519329029,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":121,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.081967,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["武器之间几乎没有平衡","该问题导致后期体验不舒服","系统管理过度复杂","后期弹幕与特效混杂到难以辨认","技术/性能：第三章战斗卡顿严重"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/7d26c16a63941075554f38f038ec160942f08e02/ss_7d26c16a63941075554f38f038ec160942f08e02.1920x1080.jpg?t=1761490817","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/7d26c16a63941075554f38f038ec160942f08e02/ss_7d26c16a63941075554f38f038ec160942f08e02.1920x1080.jpg?t=1761490817","alt":"Yoiyami Biscuit 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/8fb4d5ef3fe8834493bd73af08a7781985b48a09/ss_8fb4d5ef3fe8834493bd73af08a7781985b48a09.1920x1080.jpg?t=1761490817","alt":"Yoiyami Biscuit 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/66a9218b4cc203f31e6b6f6c19c78760a1185b36/ss_66a9218b4cc203f31e6b6f6c19c78760a1185b36.1920x1080.jpg?t=1761490817","alt":"Yoiyami Biscuit 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/8b57899d8e6d2eb291ebb49ac5221e186fa093d6/ss_8b57899d8e6d2eb291ebb49ac5221e186fa093d6.1920x1080.jpg?t=1761490817","alt":"Yoiyami Biscuit 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Yoiyami Biscuit",
+    "developers": [
+      "tripper_room",
+      "以絵会友(ikaikaiyuu)"
+    ],
+    "publishers": [
+      "Mediascape Co., Ltd."
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-10-26",
+    "tags": [
+      "动作",
+      "动作肉鸽",
+      "轻度Rogue",
+      "弹幕射击",
+      "二维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "零食既是会升级的弹幕武器，也能被露米娅吃掉以获得永久强化和被动攻击。",
+      "dimension": "玩法",
+      "excerpt": "All the different snacks have different upsides and downsides, and will level up and grow stronger as you battle with them! Rumia can also eat snacks to grow stronger permanently, additionally gaining that snack as a passive attack!",
+      "url": "https://store.steampowered.com/app/3619760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "百余件道具涵盖属性提升、挡弹伙伴和复制效果，并强调与现有道具及零食联动。",
+      "dimension": "玩法",
+      "excerpt": "There are items that simply raise your stats, ones that summon battle partners that block bullets, and even ones that treat other items like you have two of them...!? There's a whole variety pack of items to choose from, but don't forget to pick ones that synergize with your other items... and your snacks too, of course!",
+      "url": "https://store.steampowered.com/app/3619760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "“饼干硬度”允许随时调高或调低难度，胜利后还会逐步解锁更高挑战。",
+      "dimension": "玩法",
+      "excerpt": "Change the game's Biscuit Hardness to make things easier or harder! You'll unlock harder and harder difficulties as you keep winning runs. But don't worry — you can always make things easier if you feel like the game is too difficult!",
+      "url": "https://store.steampowered.com/app/3619760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "美术风格表现不错",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "art style are pretty good",
+          "url": "https://steamcommunity.com/id/Hoshino88/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器之间几乎没有平衡",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "几乎是一点平衡没有做就端上来了",
+          "url": "https://steamcommunity.com/profiles/76561199404055279/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "该问题导致后期体验不舒服",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "导致后期会玩的很不舒服",
+          "url": "https://steamcommunity.com/profiles/76561198856865803/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "系统管理过度复杂",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "this game comes with excessive management.",
+          "url": "https://steamcommunity.com/profiles/76561198999871738/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期弹幕与特效混杂到难以辨认",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "武器特效和子弹根本看不起啥是啥哪是哪",
+          "url": "https://steamcommunity.com/id/saikaidose/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "第三章战斗卡顿严重",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "c3每一次战斗都卡的要死",
+          "url": "https://steamcommunity.com/profiles/76561199404055279/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "主副枪转换设定很不错",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "主副枪的设定很不错",
+          "url": "https://steamcommunity.com/id/saikaidose/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法需要做出大量有影响的决策",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it feels rather deep with a lot of decisions to be made",
+          "url": "https://steamcommunity.com/id/Hoshino88/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "较高难度要求玩家思考",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it's pretty tough and demands you to think",
+          "url": "https://steamcommunity.com/id/Hoshino88/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boss弹幕设计不错",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "boss的弹设还不错",
+          "url": "https://steamcommunity.com/profiles/76561198856865803/recommended/3619760/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2452,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 260,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 11781,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2480,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2480,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.62642258182353,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 120,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.081967,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "武器之间几乎没有平衡",
+    "该问题导致后期体验不舒服",
+    "系统管理过度复杂",
+    "后期弹幕与特效混杂到难以辨认",
+    "技术/性能：第三章战斗卡顿严重"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Yoiyami Biscuit位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/7d26c16a63941075554f38f038ec160942f08e02/ss_7d26c16a63941075554f38f038ec160942f08e02.1920x1080.jpg?t=1761490817",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/7d26c16a63941075554f38f038ec160942f08e02/ss_7d26c16a63941075554f38f038ec160942f08e02.1920x1080.jpg?t=1761490817",
+        "alt": "Yoiyami Biscuit 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/8fb4d5ef3fe8834493bd73af08a7781985b48a09/ss_8fb4d5ef3fe8834493bd73af08a7781985b48a09.1920x1080.jpg?t=1761490817",
+        "alt": "Yoiyami Biscuit 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/66a9218b4cc203f31e6b6f6c19c78760a1185b36/ss_66a9218b4cc203f31e6b6f6c19c78760a1185b36.1920x1080.jpg?t=1761490817",
+        "alt": "Yoiyami Biscuit 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/8b57899d8e6d2eb291ebb49ac5221e186fa093d6/ss_8b57899d8e6d2eb291ebb49ac5221e186fa093d6.1920x1080.jpg?t=1761490817",
+        "alt": "Yoiyami Biscuit 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/af08eb3a9b2b6275d862d5f8968353ae18d0d3fc/ss_af08eb3a9b2b6275d862d5f8968353ae18d0d3fc.1920x1080.jpg?t=1761490817",
+        "alt": "Yoiyami Biscuit 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/fc3dbbebfe0a8d5492ff50618605ba56c39adc3e/ss_fc3dbbebfe0a8d5492ff50618605ba56c39adc3e.1920x1080.jpg?t=1761490817",
+        "alt": "Yoiyami Biscuit 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/1e93ea11c9ff4b210f90c69754fc7650ebb8d1ee/ss_1e93ea11c9ff4b210f90c69754fc7650ebb8d1ee.1920x1080.jpg?t=1761490817",
+        "alt": "Yoiyami Biscuit 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619760/c737b3cd72fdcc4c9a06aac0e331c1af1131336d/ss_c737b3cd72fdcc4c9a06aac0e331c1af1131336d.1920x1080.jpg?t=1761490817",
+        "alt": "Yoiyami Biscuit 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

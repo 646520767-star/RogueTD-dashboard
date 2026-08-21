@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Rift Wizard 3","developers":["Dylan White","Khoops","Jacob Martinez"],"publishers":["Dylan White"],"release_status":"early_access","release_date":"2026-06-23","tags":["角色扮演","策略","地牢探索","回合制策略","类Rogue"]},"hooks":[{"text":"开放构筑允许随时购买任意法术或升级，每局自由试验组合","dimension":"玩法","excerpt":"Rift Wizard uses an open build system, and allows the player to buy any spell or spell upgrade at any time. This gives the player massive flexibility, allowing them to test out new ideas each run.","url":"https://store.steampowered.com/app/4366330/","label":"证据原文片段"},{"text":"传送门让玩家选择关卡、起点与资源分配，自主决定所受挑战","dimension":"玩法","excerpt":"Rift Wizard's unique portal system means the player always has agency over what challenges they face. You choose which levels to visit, where to start, and how to spend your resources.","url":"https://store.steampowered.com/app/4366330/","label":"证据原文片段"},{"text":"收集宇宙遗迹材料合成魔法装备，稀有材料会改变成品效果","dimension":"玩法","excerpt":"New to Rift Wizard 3 is a deep and strategic crafting system. You will find a vast assortment of crafting components strewn across the ruins of the universe, which can be combined to form powerful magical artifacts giving passive buffs to the wizard. The player must make difficult choices about how to allocate their limited and diverse magical resources, with rare crafting ingredients even having unique impacts on the crafted item.","url":"https://store.steampowered.com/app/4366330/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6794,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":34317,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1641,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":99055,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6915,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6915,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":15.778782442044243,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":201,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.23301,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/171802f26e6429f1476fcd7a211991676725ea26/ss_171802f26e6429f1476fcd7a211991676725ea26.1920x1080.jpg?t=1782214712","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/171802f26e6429f1476fcd7a211991676725ea26/ss_171802f26e6429f1476fcd7a211991676725ea26.1920x1080.jpg?t=1782214712","alt":"Rift Wizard 3 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/828e3d5c39acf1f14941627529c2f36377450f26/ss_828e3d5c39acf1f14941627529c2f36377450f26.1920x1080.jpg?t=1782214712","alt":"Rift Wizard 3 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/3504bacec5070e2cead3c265f30cda2535560bb4/ss_3504bacec5070e2cead3c265f30cda2535560bb4.1920x1080.jpg?t=1782214712","alt":"Rift Wizard 3 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/3134cd5ccd64497e036b43e76889f4b7d80b8e75/ss_3134cd5ccd64497e036b43e76889f4b7d80b8e75.1920x1080.jpg?t=1782214712","alt":"Rift Wizard 3 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Rift Wizard 3",
+    "developers": [
+      "Dylan White",
+      "Khoops",
+      "Jacob Martinez"
+    ],
+    "publishers": [
+      "Dylan White"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-23",
+    "tags": [
+      "地牢探索",
+      "角色扮演",
+      "策略",
+      "地牢探索",
+      "回合制策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "开放构筑允许随时购买任意法术或升级，每局自由试验组合",
+      "dimension": "玩法",
+      "excerpt": "Rift Wizard uses an open build system, and allows the player to buy any spell or spell upgrade at any time. This gives the player massive flexibility, allowing them to test out new ideas each run.",
+      "url": "https://store.steampowered.com/app/4366330/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "传送门让玩家选择关卡、起点与资源分配，自主决定所受挑战",
+      "dimension": "玩法",
+      "excerpt": "Rift Wizard's unique portal system means the player always has agency over what challenges they face. You choose which levels to visit, where to start, and how to spend your resources.",
+      "url": "https://store.steampowered.com/app/4366330/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集宇宙遗迹材料合成魔法装备，稀有材料会改变成品效果",
+      "dimension": "玩法",
+      "excerpt": "New to Rift Wizard 3 is a deep and strategic crafting system. You will find a vast assortment of crafting components strewn across the ruins of the universe, which can be combined to form powerful magical artifacts giving passive buffs to the wizard. The player must make difficult choices about how to allocate their limited and diverse magical resources, with rare crafting ingredients even having unique impacts on the crafted item.",
+      "url": "https://store.steampowered.com/app/4366330/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 8753,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 43470,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1798,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 132639,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8898,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8898,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 21.516050739778276,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 251,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.534884,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Rift Wizard 3位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/171802f26e6429f1476fcd7a211991676725ea26/ss_171802f26e6429f1476fcd7a211991676725ea26.1920x1080.jpg?t=1782214712",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/171802f26e6429f1476fcd7a211991676725ea26/ss_171802f26e6429f1476fcd7a211991676725ea26.1920x1080.jpg?t=1782214712",
+        "alt": "Rift Wizard 3 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/828e3d5c39acf1f14941627529c2f36377450f26/ss_828e3d5c39acf1f14941627529c2f36377450f26.1920x1080.jpg?t=1782214712",
+        "alt": "Rift Wizard 3 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/3504bacec5070e2cead3c265f30cda2535560bb4/ss_3504bacec5070e2cead3c265f30cda2535560bb4.1920x1080.jpg?t=1782214712",
+        "alt": "Rift Wizard 3 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/3134cd5ccd64497e036b43e76889f4b7d80b8e75/ss_3134cd5ccd64497e036b43e76889f4b7d80b8e75.1920x1080.jpg?t=1782214712",
+        "alt": "Rift Wizard 3 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/bc28f2a2244b1bae37611bb0260d158292247fa5/ss_bc28f2a2244b1bae37611bb0260d158292247fa5.1920x1080.jpg?t=1782214712",
+        "alt": "Rift Wizard 3 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/162ba18ea5363692947ba0bcae808a120da3ac21/ss_162ba18ea5363692947ba0bcae808a120da3ac21.1920x1080.jpg?t=1782214712",
+        "alt": "Rift Wizard 3 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/644e31ef8c3e771f30d46ab7f76bf5d6e05ca4a2/ss_644e31ef8c3e771f30d46ab7f76bf5d6e05ca4a2.1920x1080.jpg?t=1782214712",
+        "alt": "Rift Wizard 3 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/e39171d9939ab3e380d898c7521af1384a334dc0/ss_e39171d9939ab3e380d898c7521af1384a334dc0.1920x1080.jpg?t=1782214712",
+        "alt": "Rift Wizard 3 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Siegeturtle","developers":["YYZ Studio"],"publishers":["Pretty Soon"],"release_status":"released","release_date":"2025-11-10","tags":["增量成长","自走棋","策略","休闲","类Rogue"]},"hooks":[{"text":"海豚、独角兽与海豹伙伴各自提供独特队伍能力","dimension":"玩法","excerpt":"Unlock Companions! Recruit dolphins, unicorns, seals and more! Each grants a unique ability to your party.","url":"https://store.steampowered.com/app/3959050/","label":"证据原文片段"},{"text":"战斗间隙钓鱼，可卖鱼换金币或保留被动加成","dimension":"玩法","excerpt":"Fish for Power Send your turtle out to fish between battles. Sell your catch for gold, or keep them for passive stat bonuses. Upgrade your imaginary fishing rod to reel in even rarer finds.","url":"https://store.steampowered.com/app/3959050/","label":"证据原文片段"},{"text":"主动重置归乡旅程，以飞升换取永久强化","dimension":"玩法","excerpt":"Ascend and Evolve When the time is right, reset your journey in a surge of new power. Each ascension grants permanent upgrades to make your turtle faster and stronger than before!","url":"https://store.steampowered.com/app/3959050/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":9198,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":7626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":406,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":35672,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9601,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9601,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":150.54604116715566,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":250,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.649402,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"增量成长、自走棋","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/f10410ff6d5dc40aedc45c30095637828ffb8bc5/ss_f10410ff6d5dc40aedc45c30095637828ffb8bc5.1920x1080.jpg?t=1770728138","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/f10410ff6d5dc40aedc45c30095637828ffb8bc5/ss_f10410ff6d5dc40aedc45c30095637828ffb8bc5.1920x1080.jpg?t=1770728138","alt":"Siegeturtle 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/3ba2116c852106ba6dfe2bf4b133533225fa4ada/ss_3ba2116c852106ba6dfe2bf4b133533225fa4ada.1920x1080.jpg?t=1770728138","alt":"Siegeturtle 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/ea3d56e0180e6c277164b9dc5eb7ac121b41d3d5/ss_ea3d56e0180e6c277164b9dc5eb7ac121b41d3d5.1920x1080.jpg?t=1770728138","alt":"Siegeturtle 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/38b227549cabd022fa7592fe8c1c9d379049653a/ss_38b227549cabd022fa7592fe8c1c9d379049653a.1920x1080.jpg?t=1770728138","alt":"Siegeturtle 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Siegeturtle",
+    "developers": [
+      "YYZ Studio"
+    ],
+    "publishers": [
+      "Pretty Soon"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-10",
+    "tags": [
+      "增量成长",
+      "自走棋",
+      "轻度Rogue",
+      "策略",
+      "休闲"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "海豚、独角兽与海豹伙伴各自提供独特队伍能力",
+      "dimension": "玩法",
+      "excerpt": "Unlock Companions! Recruit dolphins, unicorns, seals and more! Each grants a unique ability to your party.",
+      "url": "https://store.steampowered.com/app/3959050/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗间隙钓鱼，可卖鱼换金币或保留被动加成",
+      "dimension": "玩法",
+      "excerpt": "Fish for Power Send your turtle out to fish between battles. Sell your catch for gold, or keep them for passive stat bonuses. Upgrade your imaginary fishing rod to reel in even rarer finds.",
+      "url": "https://store.steampowered.com/app/3959050/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "主动重置归乡旅程，以飞升换取永久强化",
+      "dimension": "玩法",
+      "excerpt": "Ascend and Evolve When the time is right, reset your journey in a surge of new power. Each ascension grants permanent upgrades to make your turtle faster and stronger than before!",
+      "url": "https://store.steampowered.com/app/3959050/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 11868,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 7671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 413,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 43539,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 12369,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 12369,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 155.2237450845379,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 244,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.258687,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Siegeturtle位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/f10410ff6d5dc40aedc45c30095637828ffb8bc5/ss_f10410ff6d5dc40aedc45c30095637828ffb8bc5.1920x1080.jpg?t=1770728138",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/f10410ff6d5dc40aedc45c30095637828ffb8bc5/ss_f10410ff6d5dc40aedc45c30095637828ffb8bc5.1920x1080.jpg?t=1770728138",
+        "alt": "Siegeturtle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/3ba2116c852106ba6dfe2bf4b133533225fa4ada/ss_3ba2116c852106ba6dfe2bf4b133533225fa4ada.1920x1080.jpg?t=1770728138",
+        "alt": "Siegeturtle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/ea3d56e0180e6c277164b9dc5eb7ac121b41d3d5/ss_ea3d56e0180e6c277164b9dc5eb7ac121b41d3d5.1920x1080.jpg?t=1770728138",
+        "alt": "Siegeturtle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/38b227549cabd022fa7592fe8c1c9d379049653a/ss_38b227549cabd022fa7592fe8c1c9d379049653a.1920x1080.jpg?t=1770728138",
+        "alt": "Siegeturtle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/7f29c666bbce4a021f63a1ee6f8201356855c319/ss_7f29c666bbce4a021f63a1ee6f8201356855c319.1920x1080.jpg?t=1770728138",
+        "alt": "Siegeturtle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/43ca34562507fd5305daecc67be02a601a9b7c40/ss_43ca34562507fd5305daecc67be02a601a9b7c40.1920x1080.jpg?t=1770728138",
+        "alt": "Siegeturtle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/47c44625a96e2c8646dc1efb14d3137eee70490b/ss_47c44625a96e2c8646dc1efb14d3137eee70490b.1920x1080.jpg?t=1770728138",
+        "alt": "Siegeturtle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/6311b160368f9984d372c80ec132dfbf53964b18/ss_6311b160368f9984d372c80ec132dfbf53964b18.1920x1080.jpg?t=1770728138",
+        "alt": "Siegeturtle 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

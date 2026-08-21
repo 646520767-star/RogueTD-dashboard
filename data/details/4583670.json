@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Floppy-Ear Chaos","developers":["SCRAPIEDEE S.R.L."],"publishers":["SCRAPIEDEE S.R.L."],"release_status":"released","release_date":"2026-05-05","tags":["独立游戏","动作肉鸽","动作","类Rogue","弹幕射击"]},"hooks":[{"text":"随机强化叠加荒诞能力形成每局Build","dimension":"玩法","excerpt":"Roguelike Progression: Each run is different—choose between random upgrades, stack crazy abilities, and create unique builds every time you play.","url":"https://store.steampowered.com/app/4583670/","label":"证据原文片段"},{"text":"旋转兔耳与爆炸胡萝卜式夸张招式","dimension":"玩法","excerpt":"Absurd Weapons & Skills: Use ridiculous abilities like spinning ear attacks, explosive carrots, and powerful charge strikes to wipe out enemies in style.","url":"https://store.steampowered.com/app/4583670/","label":"证据原文片段"},{"text":"敌群波次持续提速增强迫使适应","dimension":"玩法","excerpt":"Dynamic Enemy Waves: Face growing hordes of enemies that become faster and stronger, forcing you to adapt and survive as long as possible.","url":"https://store.steampowered.com/app/4583670/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1000,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":468,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":39,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5634,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1015,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1015,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.095982642960011,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":47,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"独立游戏、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/4842623271becff4dbda2750291d4a795eca8fa6/ss_4842623271becff4dbda2750291d4a795eca8fa6.1920x1080.jpg?t=1777993256","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/4842623271becff4dbda2750291d4a795eca8fa6/ss_4842623271becff4dbda2750291d4a795eca8fa6.1920x1080.jpg?t=1777993256","alt":"Floppy-Ear Chaos 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/67cc228395716d942b887fe388130a8feba612df/ss_67cc228395716d942b887fe388130a8feba612df.1920x1080.jpg?t=1777993256","alt":"Floppy-Ear Chaos 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/f8052f633223a74f7fb2a249b92c446c1ddc53dd/ss_f8052f633223a74f7fb2a249b92c446c1ddc53dd.1920x1080.jpg?t=1777993256","alt":"Floppy-Ear Chaos 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/b04252daa00f96f4b8e4e63aa4910fd20b26f718/ss_b04252daa00f96f4b8e4e63aa4910fd20b26f718.1920x1080.jpg?t=1777993256","alt":"Floppy-Ear Chaos 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Floppy-Ear Chaos",
+    "developers": [
+      "SCRAPIEDEE S.R.L."
+    ],
+    "publishers": [
+      "SCRAPIEDEE S.R.L."
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-05",
+    "tags": [
+      "独立游戏",
+      "动作肉鸽",
+      "动作",
+      "类Rogue",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "随机强化叠加荒诞能力形成每局Build",
+      "dimension": "玩法",
+      "excerpt": "Roguelike Progression: Each run is different—choose between random upgrades, stack crazy abilities, and create unique builds every time you play.",
+      "url": "https://store.steampowered.com/app/4583670/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "旋转兔耳与爆炸胡萝卜式夸张招式",
+      "dimension": "玩法",
+      "excerpt": "Absurd Weapons & Skills: Use ridiculous abilities like spinning ear attacks, explosive carrots, and powerful charge strikes to wipe out enemies in style.",
+      "url": "https://store.steampowered.com/app/4583670/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "敌群波次持续提速增强迫使适应",
+      "dimension": "玩法",
+      "excerpt": "Dynamic Enemy Waves: Face growing hordes of enemies that become faster and stronger, forcing you to adapt and survive as long as possible.",
+      "url": "https://store.steampowered.com/app/4583670/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1000,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 480,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 40,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 5666,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1015,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1015,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.095982642960011,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 46,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "Floppy-Ear Chaos当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/4842623271becff4dbda2750291d4a795eca8fa6/ss_4842623271becff4dbda2750291d4a795eca8fa6.1920x1080.jpg?t=1777993256",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/4842623271becff4dbda2750291d4a795eca8fa6/ss_4842623271becff4dbda2750291d4a795eca8fa6.1920x1080.jpg?t=1777993256",
+        "alt": "Floppy-Ear Chaos 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/67cc228395716d942b887fe388130a8feba612df/ss_67cc228395716d942b887fe388130a8feba612df.1920x1080.jpg?t=1777993256",
+        "alt": "Floppy-Ear Chaos 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/f8052f633223a74f7fb2a249b92c446c1ddc53dd/ss_f8052f633223a74f7fb2a249b92c446c1ddc53dd.1920x1080.jpg?t=1777993256",
+        "alt": "Floppy-Ear Chaos 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/b04252daa00f96f4b8e4e63aa4910fd20b26f718/ss_b04252daa00f96f4b8e4e63aa4910fd20b26f718.1920x1080.jpg?t=1777993256",
+        "alt": "Floppy-Ear Chaos 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/612540c4ec4269213ebc02e6936c0f454a0cb186/ss_612540c4ec4269213ebc02e6936c0f454a0cb186.1920x1080.jpg?t=1777993256",
+        "alt": "Floppy-Ear Chaos 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/94baaa9d7c2dfa2ea87df6e2ddd2c285db28b61e/ss_94baaa9d7c2dfa2ea87df6e2ddd2c285db28b61e.1920x1080.jpg?t=1777993256",
+        "alt": "Floppy-Ear Chaos 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/18f015d05d4f9d7569ecd4c5f68210b5fcb354ba/ss_18f015d05d4f9d7569ecd4c5f68210b5fcb354ba.1920x1080.jpg?t=1777993256",
+        "alt": "Floppy-Ear Chaos 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583670/286ba558b0982d291f2ba53568e5d819730706a1/ss_286ba558b0982d291f2ba53568e5d819730706a1.1920x1080.jpg?t=1777993256",
+        "alt": "Floppy-Ear Chaos 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

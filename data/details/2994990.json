@@ -1,1 +1,302 @@
-{"identity":{"original_title":"Wool at the Gates","developers":["Okay Creature"],"publishers":["Okay Creature"],"release_status":"released","release_date":"2026-06-10","tags":["塔防","策略","极简风格","中世纪","动作"]},"hooks":[{"text":"有限建造槽中布置并升级塔楼、城墙、兵营和经济建筑，每个位置都影响防线完整性。","dimension":"玩法","excerpt":"Base Building: Construct and upgrade towers, walls, barracks, and economy structures to strengthen your defenses. Limited build slots mean every choice matters.","url":"https://store.steampowered.com/app/2994990/","label":"证据原文片段"},{"text":"建筑类型可触发自动战斗式职业协同，并叠加人类、兽人和精灵的专属阵营强化。","dimension":"玩法","excerpt":"Class Synergies: Combine building types to unlock powerful auto-battler-inspired class bonuses and define your playstyle. Faction Perks: Choose between Human, Orc, and Elf structures to unlock unique faction-specific upgrades and strategies.","url":"https://store.steampowered.com/app/2994990/","label":"证据原文片段"},{"text":"玩家不只负责建城，还会亲自以英雄身份和军队并肩作战，用技能与站位守住战线。","dimension":"玩法","excerpt":"Real-Time Combat: Fight alongside your army as a powerful hero, using abilities and positioning to hold the line during chaotic battles.","url":"https://store.steampowered.com/app/2994990/","label":"证据原文片段"}],"opinions":[{"text":"可爱且漂亮的视觉受到肯定。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Cute, engaging and simply beautiful","url":"https://store.steampowered.com/curator/44870240-What-does-the-Fox-plays/","label":"证据原文片段"}]},{"text":"美术比同类作品更讨喜。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"i liked the art here better than Thronefall.","url":"https://steamcommunity.com/id/-Aralyn-/recommended/2994990/","label":"证据原文片段"}]},{"text":"严重漏洞会阻止购买建筑和英雄释放技能。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"无法购买建筑、战斗时英雄无法使用技能的BUG","url":"https://steamcommunity.com/profiles/76561198101703278/recommended/2994990/","label":"证据原文片段"}]},{"text":"当前内容量非常少。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"theres barely any content","url":"https://steamcommunity.com/id/-Aralyn-/recommended/2994990/","label":"证据原文片段"}]},{"text":"高难精英会轻易摧毁英雄和城墙。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"英雄扛不住，你的城墙和纸一样。","url":"https://steamcommunity.com/profiles/76561198832980635/recommended/2994990/","label":"证据原文片段"}]},{"text":"高难开始依赖刷怪运气。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"野性+3就开始靠运气了","url":"https://steamcommunity.com/profiles/76561198832980635/recommended/2994990/","label":"证据原文片段"}]},{"text":"单局流程过长，失误一波可能毁掉整局。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"单局过长的流程，你只要失误一波","url":"https://steamcommunity.com/profiles/76561198832980635/recommended/2994990/","label":"证据原文片段"}]},{"text":"难度很高但仍让玩家愿意继续挑战。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I love it, it's hard as hell tho. I'm going to keep at it!","url":"https://steamcommunity.com/id/premier69/recommended/2994990/","label":"证据原文片段"}]},{"text":"不同阵营增加了额外参与度。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"an added level of engagement through the use of different factions.","url":"https://steamcommunity.com/profiles/76561199123327910/recommended/2994990/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":3950,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":11439,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1239,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":22602,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4066,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4066,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.722636633961358,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":98,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.857143,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["技术/性能：严重漏洞会阻止购买建筑和英雄释放技能。","当前内容量非常少。","高难精英会轻易摧毁英雄和城墙。","高难开始依赖刷怪运气。","单局流程过长，失误一波可能毁掉整局。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/abf1c6306126f28bc484d3353569ad4d047a1c52/ss_abf1c6306126f28bc484d3353569ad4d047a1c52.1920x1080.jpg?t=1781290544","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/abf1c6306126f28bc484d3353569ad4d047a1c52/ss_abf1c6306126f28bc484d3353569ad4d047a1c52.1920x1080.jpg?t=1781290544","alt":"Wool at the Gates 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/923be17740b71f446e09244ed0951fcbb6928fdf/ss_923be17740b71f446e09244ed0951fcbb6928fdf.1920x1080.jpg?t=1781290544","alt":"Wool at the Gates 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/8d76c764d555145174605778ebdd5dcc889409ff/ss_8d76c764d555145174605778ebdd5dcc889409ff.1920x1080.jpg?t=1781290544","alt":"Wool at the Gates 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/d24c27d34467b591dda875e68e6f0e2b5b83b740/ss_d24c27d34467b591dda875e68e6f0e2b5b83b740.1920x1080.jpg?t=1781290544","alt":"Wool at the Gates 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Wool at the Gates",
+    "developers": [
+      "Okay Creature"
+    ],
+    "publishers": [
+      "Okay Creature"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-10",
+    "tags": [
+      "塔防",
+      "策略",
+      "塔防",
+      "极简风格",
+      "中世纪"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "有限建造槽中布置并升级塔楼、城墙、兵营和经济建筑，每个位置都影响防线完整性。",
+      "dimension": "玩法",
+      "excerpt": "Base Building: Construct and upgrade towers, walls, barracks, and economy structures to strengthen your defenses. Limited build slots mean every choice matters.",
+      "url": "https://store.steampowered.com/app/2994990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "建筑类型可触发自动战斗式职业协同，并叠加人类、兽人和精灵的专属阵营强化。",
+      "dimension": "玩法",
+      "excerpt": "Class Synergies: Combine building types to unlock powerful auto-battler-inspired class bonuses and define your playstyle. Faction Perks: Choose between Human, Orc, and Elf structures to unlock unique faction-specific upgrades and strategies.",
+      "url": "https://store.steampowered.com/app/2994990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "玩家不只负责建城，还会亲自以英雄身份和军队并肩作战，用技能与站位守住战线。",
+      "dimension": "玩法",
+      "excerpt": "Real-Time Combat: Fight alongside your army as a powerful hero, using abilities and positioning to hold the line during chaotic battles.",
+      "url": "https://store.steampowered.com/app/2994990/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "可爱且漂亮的视觉受到肯定。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Cute, engaging and simply beautiful",
+          "url": "https://store.steampowered.com/curator/44870240-What-does-the-Fox-plays/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "美术比同类作品更讨喜。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "i liked the art here better than Thronefall.",
+          "url": "https://steamcommunity.com/id/-Aralyn-/recommended/2994990/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "严重漏洞会阻止购买建筑和英雄释放技能。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "无法购买建筑、战斗时英雄无法使用技能的BUG",
+          "url": "https://steamcommunity.com/profiles/76561198101703278/recommended/2994990/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "当前内容量非常少。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "theres barely any content",
+          "url": "https://steamcommunity.com/id/-Aralyn-/recommended/2994990/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高难精英会轻易摧毁英雄和城墙。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "英雄扛不住，你的城墙和纸一样。",
+          "url": "https://steamcommunity.com/profiles/76561198832980635/recommended/2994990/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高难开始依赖刷怪运气。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "野性+3就开始靠运气了",
+          "url": "https://steamcommunity.com/profiles/76561198832980635/recommended/2994990/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "单局流程过长，失误一波可能毁掉整局。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "单局过长的流程，你只要失误一波",
+          "url": "https://steamcommunity.com/profiles/76561198832980635/recommended/2994990/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "难度很高但仍让玩家愿意继续挑战。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I love it, it's hard as hell tho. I'm going to keep at it!",
+          "url": "https://steamcommunity.com/id/premier69/recommended/2994990/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "不同阵营增加了额外参与度。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "an added level of engagement through the use of different factions.",
+          "url": "https://steamcommunity.com/profiles/76561199123327910/recommended/2994990/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5539,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 11506,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1271,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 32709,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5698,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5698,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.72216353709294,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 96,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.079208,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "技术/性能：严重漏洞会阻止购买建筑和英雄释放技能。",
+    "当前内容量非常少。",
+    "高难精英会轻易摧毁英雄和城墙。",
+    "高难开始依赖刷怪运气。",
+    "单局流程过长，失误一波可能毁掉整局。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Wool at the Gates位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/abf1c6306126f28bc484d3353569ad4d047a1c52/ss_abf1c6306126f28bc484d3353569ad4d047a1c52.1920x1080.jpg?t=1781290544",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/abf1c6306126f28bc484d3353569ad4d047a1c52/ss_abf1c6306126f28bc484d3353569ad4d047a1c52.1920x1080.jpg?t=1781290544",
+        "alt": "Wool at the Gates 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/923be17740b71f446e09244ed0951fcbb6928fdf/ss_923be17740b71f446e09244ed0951fcbb6928fdf.1920x1080.jpg?t=1781290544",
+        "alt": "Wool at the Gates 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/8d76c764d555145174605778ebdd5dcc889409ff/ss_8d76c764d555145174605778ebdd5dcc889409ff.1920x1080.jpg?t=1781290544",
+        "alt": "Wool at the Gates 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/d24c27d34467b591dda875e68e6f0e2b5b83b740/ss_d24c27d34467b591dda875e68e6f0e2b5b83b740.1920x1080.jpg?t=1781290544",
+        "alt": "Wool at the Gates 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/f719b6e7c35a47241902003e7f943f98605588fd/ss_f719b6e7c35a47241902003e7f943f98605588fd.1920x1080.jpg?t=1781290544",
+        "alt": "Wool at the Gates 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/a0e4f3e811ece4f98cd70921fb841f421f2e3774/ss_a0e4f3e811ece4f98cd70921fb841f421f2e3774.1920x1080.jpg?t=1781290544",
+        "alt": "Wool at the Gates 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/96ceceed603d9759c3c829193fe846e40c41c358/ss_96ceceed603d9759c3c829193fe846e40c41c358.1920x1080.jpg?t=1781290544",
+        "alt": "Wool at the Gates 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994990/dce7e0c21a86f0119751055b92781da587677c6d/ss_dce7e0c21a86f0119751055b92781da587677c6d.1920x1080.jpg?t=1781290544",
+        "alt": "Wool at the Gates 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

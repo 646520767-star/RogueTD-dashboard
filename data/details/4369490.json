@@ -1,1 +1,168 @@
-{"identity":{"original_title":"Soulbound: Online","developers":["SpiderWare"],"publishers":["SpiderWare"],"release_status":"early_access","release_date":"2026-07-21","tags":["轻度Rogue","地牢探索","在线合作","动作肉鸽","像素画面"]},"hooks":[{"text":"世界分为千人共享大地图与独立地牢，地牢每层重排遭遇、危险和战利品","dimension":"玩法","excerpt":"Soulbound splits its world in two: a shared overworld full of quests and adventure, and brutal instanced dungeons that never play the same way twice. Every floor reshuffles encounters, hazards, and loot and every room unlocks new relics that warp your abilities in ways you didn't plan for.","url":"https://store.steampowered.com/app/4369490/","label":"证据原文片段"},{"text":"十余种能力沿分支遗物形成100余种组合，可把火球变连锁闪电或让战锤范围伤害吸血","dimension":"玩法","excerpt":"100+ Ability and Relic Combos To Build Out Enter the dungeon and pick from 10+ abilities that create unique class builds with branching relic paths. Stack a chain-lightning relic on your mage's Pyrosphere and watch mobs evaporate. Layer life-steal onto a berserker's hammer and turn your AoE into a heal for your party. Every relic run offers new synergies you've never tried, and the best builds are the ones nobody planned.","url":"https://store.steampowered.com/app/4369490/","label":"证据原文片段"},{"text":"种田、烹饪、采集与采矿都会反哺地牢，提供体力、装备材料和职业武器工作站","dimension":"玩法","excerpt":"Every life skill feeds back into your progression with cooking restoring stamina, gathering unlocking crafting materials for gear and buffs and mining unlocking crafting stations to build the weapons that defines your class.","url":"https://store.steampowered.com/app/4369490/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6075,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":170312,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":10579,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":69655,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6159,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6159,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0,"unit":"小时","state":"zero","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":205,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":48,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":56.507937,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为56.507937%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/30717ff79c750d9501dd6cf16f27bf73e2d20855/ss_30717ff79c750d9501dd6cf16f27bf73e2d20855.1920x1080.jpg?t=1784815256","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/30717ff79c750d9501dd6cf16f27bf73e2d20855/ss_30717ff79c750d9501dd6cf16f27bf73e2d20855.1920x1080.jpg?t=1784815256","alt":"Soulbound: Online 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/92a07fc2d824ec2648ab80e3801f7e42398905cb/ss_92a07fc2d824ec2648ab80e3801f7e42398905cb.1920x1080.jpg?t=1784815256","alt":"Soulbound: Online 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/b10a79eb19dd2f96a3a381574db5a6d549d73b45/ss_b10a79eb19dd2f96a3a381574db5a6d549d73b45.1920x1080.jpg?t=1784815256","alt":"Soulbound: Online 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/af0422c8be01dedfb1b5cbf4de47bef7ab18d935/ss_af0422c8be01dedfb1b5cbf4de47bef7ab18d935.1920x1080.jpg?t=1784815256","alt":"Soulbound: Online 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Soulbound: Online",
+    "developers": [
+      "SpiderWare"
+    ],
+    "publishers": [
+      "SpiderWare"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-07-21",
+    "tags": [
+      "类Rogue",
+      "轻度Rogue",
+      "动作肉鸽",
+      "地牢探索",
+      "在线合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "世界分为千人共享大地图与独立地牢，地牢每层重排遭遇、危险和战利品",
+      "dimension": "玩法",
+      "excerpt": "Soulbound splits its world in two: a shared overworld full of quests and adventure, and brutal instanced dungeons that never play the same way twice. Every floor reshuffles encounters, hazards, and loot and every room unlocks new relics that warp your abilities in ways you didn't plan for.",
+      "url": "https://store.steampowered.com/app/4369490/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十余种能力沿分支遗物形成100余种组合，可把火球变连锁闪电或让战锤范围伤害吸血",
+      "dimension": "玩法",
+      "excerpt": "100+ Ability and Relic Combos To Build Out Enter the dungeon and pick from 10+ abilities that create unique class builds with branching relic paths. Stack a chain-lightning relic on your mage's Pyrosphere and watch mobs evaporate. Layer life-steal onto a berserker's hammer and turn your AoE into a heal for your party. Every relic run offers new synergies you've never tried, and the best builds are the ones nobody planned.",
+      "url": "https://store.steampowered.com/app/4369490/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "种田、烹饪、采集与采矿都会反哺地牢，提供体力、装备材料和职业武器工作站",
+      "dimension": "玩法",
+      "excerpt": "Every life skill feeds back into your progression with cooking restoring stamina, gathering unlocking crafting materials for gear and buffs and mining unlocking crafting stations to build the weapons that defines your class.",
+      "url": "https://store.steampowered.com/app/4369490/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 10886,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 154701,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11232,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 127775,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 11185,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 11185,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 17.01272439025275,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 478,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 57,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 56.8,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为56.507937%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Soulbound: Online位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/30717ff79c750d9501dd6cf16f27bf73e2d20855/ss_30717ff79c750d9501dd6cf16f27bf73e2d20855.1920x1080.jpg?t=1784815256",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/30717ff79c750d9501dd6cf16f27bf73e2d20855/ss_30717ff79c750d9501dd6cf16f27bf73e2d20855.1920x1080.jpg?t=1784815256",
+        "alt": "Soulbound: Online 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/92a07fc2d824ec2648ab80e3801f7e42398905cb/ss_92a07fc2d824ec2648ab80e3801f7e42398905cb.1920x1080.jpg?t=1784815256",
+        "alt": "Soulbound: Online 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/b10a79eb19dd2f96a3a381574db5a6d549d73b45/ss_b10a79eb19dd2f96a3a381574db5a6d549d73b45.1920x1080.jpg?t=1784815256",
+        "alt": "Soulbound: Online 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/af0422c8be01dedfb1b5cbf4de47bef7ab18d935/ss_af0422c8be01dedfb1b5cbf4de47bef7ab18d935.1920x1080.jpg?t=1784815256",
+        "alt": "Soulbound: Online 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/0b62ce42d2ac530396760db3598d768b81acc24a/ss_0b62ce42d2ac530396760db3598d768b81acc24a.1920x1080.jpg?t=1784815256",
+        "alt": "Soulbound: Online 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

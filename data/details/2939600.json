@@ -1,1 +1,194 @@
-{"identity":{"original_title":"Tower Networking Inc.","developers":["Pocosia Studios"],"publishers":["Pocosia Studios"],"release_status":"early_access","release_date":"2025-07-30","tags":["抢先体验","模拟","在线合作","策略","经营管理"]},"hooks":[{"text":"亲手把网线插进交换机路由与竖井","dimension":"玩法","excerpt":"Physically connect your clients to your networks by patching cables into switches, routers and data risers.","url":"https://store.steampowered.com/app/2939600/","label":"证据原文片段"},{"text":"预算超支被开除客户投诉即结束","dimension":"玩法","excerpt":"Your board of directors have a strict policy where you must never go over-budget or face termination from your role . Additionally, some of your clients have service level agreements (SLA) and you must ensure their internet connection (and the services they need) stays up. If any of them files a complaint, then its game-over! .","url":"https://store.steampowered.com/app/2939600/","label":"证据原文片段"},{"text":"用命令行追踪设备安装服务排查故障","dimension":"玩法","excerpt":"Trace connectivity between equipment, scan for devices, install server applications and troubleshoot your network issues all using the good-ole terminal console.","url":"https://store.steampowered.com/app/2939600/","label":"证据原文片段"}],"opinions":[{"text":"网络系统深度低于数通模拟器预期。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"实际这里连动态路由都没有","url":"https://steamcommunity.com/profiles/76561198403108901/recommended/2939600/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":14815,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":57193,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3897,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":255763,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":15187,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":15187,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.146488483524871,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":315,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.555556,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["网络系统深度低于数通模拟器预期。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/2d462013f503ad77b7c3993d18d143557949fbd7/ss_2d462013f503ad77b7c3993d18d143557949fbd7.1920x1080.jpg?t=1782650003","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/2d462013f503ad77b7c3993d18d143557949fbd7/ss_2d462013f503ad77b7c3993d18d143557949fbd7.1920x1080.jpg?t=1782650003","alt":"Tower Networking Inc. 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/1c7f2cb52489f1b7206fda0ff67c3dd063eb3e5d/ss_1c7f2cb52489f1b7206fda0ff67c3dd063eb3e5d.1920x1080.jpg?t=1782650003","alt":"Tower Networking Inc. 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/d61abdb7f0d53a9f579fca60ad073cc331304379/ss_d61abdb7f0d53a9f579fca60ad073cc331304379.1920x1080.jpg?t=1782650003","alt":"Tower Networking Inc. 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/7f45c3a6f59f10e84a90b3e47c1f0960772bde85/ss_7f45c3a6f59f10e84a90b3e47c1f0960772bde85.1920x1080.jpg?t=1782650003","alt":"Tower Networking Inc. 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Tower Networking Inc.",
+    "developers": [
+      "Pocosia Studios"
+    ],
+    "publishers": [
+      "Pocosia Studios"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-07-30",
+    "tags": [
+      "抢先体验",
+      "策略",
+      "模拟",
+      "在线合作",
+      "动作角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "亲手把网线插进交换机路由与竖井",
+      "dimension": "玩法",
+      "excerpt": "Physically connect your clients to your networks by patching cables into switches, routers and data risers.",
+      "url": "https://store.steampowered.com/app/2939600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "预算超支被开除客户投诉即结束",
+      "dimension": "玩法",
+      "excerpt": "Your board of directors have a strict policy where you must never go over-budget or face termination from your role . Additionally, some of your clients have service level agreements (SLA) and you must ensure their internet connection (and the services they need) stays up. If any of them files a complaint, then its game-over! .",
+      "url": "https://store.steampowered.com/app/2939600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用命令行追踪设备安装服务排查故障",
+      "dimension": "玩法",
+      "excerpt": "Trace connectivity between equipment, scan for devices, install server applications and troubleshoot your network issues all using the good-ole terminal console.",
+      "url": "https://store.steampowered.com/app/2939600/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "网络系统深度低于数通模拟器预期。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "实际这里连动态路由都没有",
+          "url": "https://steamcommunity.com/profiles/76561198403108901/recommended/2939600/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 17756,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 57532,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3939,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 311780,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 18190,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 18190,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.36633087488261,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 312,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.665635,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "网络系统深度低于数通模拟器预期。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Tower Networking Inc.位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/2d462013f503ad77b7c3993d18d143557949fbd7/ss_2d462013f503ad77b7c3993d18d143557949fbd7.1920x1080.jpg?t=1782650003",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/2d462013f503ad77b7c3993d18d143557949fbd7/ss_2d462013f503ad77b7c3993d18d143557949fbd7.1920x1080.jpg?t=1785167319",
+        "alt": "Tower Networking Inc. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/1c7f2cb52489f1b7206fda0ff67c3dd063eb3e5d/ss_1c7f2cb52489f1b7206fda0ff67c3dd063eb3e5d.1920x1080.jpg?t=1785167319",
+        "alt": "Tower Networking Inc. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/d61abdb7f0d53a9f579fca60ad073cc331304379/ss_d61abdb7f0d53a9f579fca60ad073cc331304379.1920x1080.jpg?t=1785167319",
+        "alt": "Tower Networking Inc. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/7f45c3a6f59f10e84a90b3e47c1f0960772bde85/ss_7f45c3a6f59f10e84a90b3e47c1f0960772bde85.1920x1080.jpg?t=1785167319",
+        "alt": "Tower Networking Inc. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/c7fd13a7c2eedb3258f74f57c5d3c97a2adfad34/ss_c7fd13a7c2eedb3258f74f57c5d3c97a2adfad34.1920x1080.jpg?t=1785167319",
+        "alt": "Tower Networking Inc. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/767eb8f526616c39b6f667b1bb6c4feb2bacade1/ss_767eb8f526616c39b6f667b1bb6c4feb2bacade1.1920x1080.jpg?t=1785167319",
+        "alt": "Tower Networking Inc. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/b2e1222284c44cdbfa0930836b838c400e0139da/ss_b2e1222284c44cdbfa0930836b838c400e0139da.1920x1080.jpg?t=1785167319",
+        "alt": "Tower Networking Inc. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939600/ss_6ab8162ca20c9222916c1749c751278a81ce7e67.1920x1080.jpg?t=1785167319",
+        "alt": "Tower Networking Inc. 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

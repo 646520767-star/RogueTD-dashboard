@@ -1,1 +1,166 @@
-{"identity":{"original_title":"Sinner Maker","developers":["Pantokrator"],"publishers":["Metro Team"],"release_status":"early_access","release_date":"2026-06-05","tags":["抢先体验","模拟","角色自定义","沙盒","单人游戏"]},"hooks":[{"text":"自定义任意角色，观察整座罪人社会结盟与反目","dimension":"玩法","excerpt":"It allows you to make any character you want, talk to them, feed them, have a relationship with them, and it's not limited to one, you can simulate a whole society of sinners, which will have their own problems and relaionships","url":"https://store.steampowered.com/app/4610100/","label":"证据原文片段"},{"text":"可爱画风包裹深层宗教主题","dimension":"画风","excerpt":"The game blends a cute and charming aesthetic with deep religious themes.","url":"https://store.steampowered.com/app/4610100/","label":"证据原文片段"},{"text":"末日后经营社区撑过33天，争取升入天堂","dimension":"题材","excerpt":"God grants you one final chance: if you can survive and build a thriving community, you may be spared. Endure for 33 days, and you will ascend to Heaven.","url":"https://store.steampowered.com/app/4610100/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":11496,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":33046,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2552,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":99946,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":11876,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":11876,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.139511280215077,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":394,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.452261,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/a74963d611bea156b9157432fc4c405c78a1a566/ss_a74963d611bea156b9157432fc4c405c78a1a566.1920x1080.jpg?t=1783112116","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/a74963d611bea156b9157432fc4c405c78a1a566/ss_a74963d611bea156b9157432fc4c405c78a1a566.1920x1080.jpg?t=1783112116","alt":"Sinner Maker 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/8442fedd3f4dbd23ad72c4d895ae013007c624f0/ss_8442fedd3f4dbd23ad72c4d895ae013007c624f0.1920x1080.jpg?t=1783112116","alt":"Sinner Maker 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/0abb6d6f531645570ba5a93afc622689d6edd725/ss_0abb6d6f531645570ba5a93afc622689d6edd725.1920x1080.jpg?t=1783112116","alt":"Sinner Maker 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/eb3f19324b6695ead47a9cd783217348fe9b352d/ss_eb3f19324b6695ead47a9cd783217348fe9b352d.1920x1080.jpg?t=1783112116","alt":"Sinner Maker 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Sinner Maker",
+    "developers": [
+      "Pantokrator"
+    ],
+    "publishers": [
+      "Metro Team"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-05",
+    "tags": [
+      "抢先体验",
+      "模拟",
+      "模拟",
+      "基地建设",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "自定义任意角色，观察整座罪人社会结盟与反目",
+      "dimension": "玩法",
+      "excerpt": "It allows you to make any character you want, talk to them, feed them, have a relationship with them, and it's not limited to one, you can simulate a whole society of sinners, which will have their own problems and relaionships",
+      "url": "https://store.steampowered.com/app/4610100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可爱画风包裹深层宗教主题",
+      "dimension": "画风",
+      "excerpt": "The game blends a cute and charming aesthetic with deep religious themes.",
+      "url": "https://store.steampowered.com/app/4610100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "末日后经营社区撑过33天，争取升入天堂",
+      "dimension": "题材",
+      "excerpt": "God grants you one final chance: if you can survive and build a thriving community, you may be spared. Endure for 33 days, and you will ascend to Heaven.",
+      "url": "https://store.steampowered.com/app/4610100/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 13891,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 35799,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2787,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 120768,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 14359,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 14359,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.018135026989407,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 430,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.189427,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Sinner Maker位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/a74963d611bea156b9157432fc4c405c78a1a566/ss_a74963d611bea156b9157432fc4c405c78a1a566.1920x1080.jpg?t=1783112116",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/a74963d611bea156b9157432fc4c405c78a1a566/ss_a74963d611bea156b9157432fc4c405c78a1a566.1920x1080.jpg?t=1783112116",
+        "alt": "Sinner Maker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/8442fedd3f4dbd23ad72c4d895ae013007c624f0/ss_8442fedd3f4dbd23ad72c4d895ae013007c624f0.1920x1080.jpg?t=1783112116",
+        "alt": "Sinner Maker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/0abb6d6f531645570ba5a93afc622689d6edd725/ss_0abb6d6f531645570ba5a93afc622689d6edd725.1920x1080.jpg?t=1783112116",
+        "alt": "Sinner Maker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/eb3f19324b6695ead47a9cd783217348fe9b352d/ss_eb3f19324b6695ead47a9cd783217348fe9b352d.1920x1080.jpg?t=1783112116",
+        "alt": "Sinner Maker 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610100/f2e59311260731540a170bfd3b2c4902b2357d54/ss_f2e59311260731540a170bfd3b2c4902b2357d54.1920x1080.jpg?t=1783112116",
+        "alt": "Sinner Maker 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

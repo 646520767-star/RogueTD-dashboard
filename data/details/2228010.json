@@ -1,1 +1,166 @@
-{"identity":{"original_title":"Right and Down and Dice","developers":["mc2games"],"publishers":["mc2games"],"release_status":"released","release_date":"2024-01-23","tags":["肉鸽卡组构筑","卡牌对战","轻度Rogue","卡组构筑","卡牌游戏"]},"hooks":[{"text":"每回合唯一的移动决策只有向右或向下，用极简方向约束塑造卡牌地牢路线选择。","dimension":"玩法","excerpt":"On each turn, the only decision you can make is to go right or down!","url":"https://store.steampowered.com/app/2228010/","label":"证据原文片段"},{"text":"掷出的骰子既可放到敌人身上造成击杀，也可嵌入技能触发额外骰子或治疗等效果。","dimension":"玩法","excerpt":"In the player turn, roll the dice and place them on the enemies to defeat them! You can also place the dice in your skills to obtain different effects, like rolling more dice or healing yourself.","url":"https://store.steampowered.com/app/2228010/","label":"证据原文片段"},{"text":"六名英雄、百余件遗物和三十个各带新规则的地牢共同扩展跑局，另有随机条件的每日模式。","dimension":"玩法","excerpt":"Unlock 6 heroes with different starting artifacts and skills to create your custom run! More than 100 artifacts with a wide variety of effects that you can unlock with every game you play! 30 different dungeons. Each one adds a new rule to the game and will increase its difficulty! Daily Mode with randomly generated conditions!","url":"https://store.steampowered.com/app/2228010/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4044,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":11438,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":882,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":34160,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4839,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4839,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.109599173751246,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":115,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.608696,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、卡牌对战","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_56c7517fb2c230bae0c463bfef9f73afad61c2b5.1920x1080.jpg?t=1706165932","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_56c7517fb2c230bae0c463bfef9f73afad61c2b5.1920x1080.jpg?t=1706165932","alt":"Right and Down and Dice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_0c2866374f71cd074943846c2fbf485677625064.1920x1080.jpg?t=1706165932","alt":"Right and Down and Dice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_1ae0cc108307ced24fb29f3ebc711d8ee97e6e9c.1920x1080.jpg?t=1706165932","alt":"Right and Down and Dice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_b2a87dbc230344a34f11fbe04465ec990b2c9925.1920x1080.jpg?t=1706165932","alt":"Right and Down and Dice 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Right and Down and Dice",
+    "developers": [
+      "mc2games"
+    ],
+    "publishers": [
+      "mc2games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-23",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡牌对战",
+      "轻度Rogue",
+      "卡组构筑",
+      "卡牌游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每回合唯一的移动决策只有向右或向下，用极简方向约束塑造卡牌地牢路线选择。",
+      "dimension": "玩法",
+      "excerpt": "On each turn, the only decision you can make is to go right or down!",
+      "url": "https://store.steampowered.com/app/2228010/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "掷出的骰子既可放到敌人身上造成击杀，也可嵌入技能触发额外骰子或治疗等效果。",
+      "dimension": "玩法",
+      "excerpt": "In the player turn, roll the dice and place them on the enemies to defeat them! You can also place the dice in your skills to obtain different effects, like rolling more dice or healing yourself.",
+      "url": "https://store.steampowered.com/app/2228010/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "六名英雄、百余件遗物和三十个各带新规则的地牢共同扩展跑局，另有随机条件的每日模式。",
+      "dimension": "玩法",
+      "excerpt": "Unlock 6 heroes with different starting artifacts and skills to create your custom run! More than 100 artifacts with a wide variety of effects that you can unlock with every game you play! 30 different dungeons. Each one adds a new rule to the game and will increase its difficulty! Daily Mode with randomly generated conditions!",
+      "url": "https://store.steampowered.com/app/2228010/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4749,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 11506,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 883,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 38797,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5704,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5704,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.277637570457744,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 89,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.905983,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Right and Down and Dice位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_56c7517fb2c230bae0c463bfef9f73afad61c2b5.1920x1080.jpg?t=1706165932",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_56c7517fb2c230bae0c463bfef9f73afad61c2b5.1920x1080.jpg?t=1706165932",
+        "alt": "Right and Down and Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_0c2866374f71cd074943846c2fbf485677625064.1920x1080.jpg?t=1706165932",
+        "alt": "Right and Down and Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_1ae0cc108307ced24fb29f3ebc711d8ee97e6e9c.1920x1080.jpg?t=1706165932",
+        "alt": "Right and Down and Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_b2a87dbc230344a34f11fbe04465ec990b2c9925.1920x1080.jpg?t=1706165932",
+        "alt": "Right and Down and Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228010/ss_ad68424f5cc8f06cca68149c42a7c8c2e0e3c01f.1920x1080.jpg?t=1706165932",
+        "alt": "Right and Down and Dice 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

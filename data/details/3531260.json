@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Superhero Simulator","developers":["mightyraccoon! Studios"],"publishers":["mightyraccoon! Studios"],"release_status":"early_access","release_date":"2025-09-15","tags":["抢先体验","探索","轻度Rogue","沙盒","街机"]},"hooks":[{"text":"巡街阻止抢劫、救市民，每次英雄行动都解锁新能力","dimension":"玩法","excerpt":"Stop robberies, rescue civilians, and fight crime your way. Every heroic act unlocks new abilities - become the hero Goldpine needs!","url":"https://store.steampowered.com/app/3531260/","label":"证据原文片段"},{"text":"超级英雄也要开出租、翻汉堡，拿工资付食物与装备账单","dimension":"玩法","excerpt":"Being a hero doesn’t pay the bills—so you’ll need a job to survive. Drive a taxi, flip burgers, or find other ways to earn money Every \"Gollar\" counts, whether it’s for food, or upgrading your gear. Balance your heroic duties with everyday struggles.","url":"https://store.steampowered.com/app/3531260/","label":"证据原文片段"},{"text":"健康、卫生、精神状态与声望都要维持，忽视任何一项都会加难","dimension":"玩法","excerpt":"Manage your health, hygiene, mental state, and respect to stay at your best. Neglect them, and your journey becomes harder.","url":"https://store.steampowered.com/app/3531260/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":35712,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":72445,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8904,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":285141,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":38531,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":38531,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.9769537147110863,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":928,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":75,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":74.946237,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/ss_78fe63bb73a9bda5169fb559c52f16aea4c52375.1920x1080.jpg?t=1784570055","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/ss_78fe63bb73a9bda5169fb559c52f16aea4c52375.1920x1080.jpg?t=1784570055","alt":"Superhero Simulator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/51a7d031ad479d9810a7c20f8804dd48ea3bae7e/ss_51a7d031ad479d9810a7c20f8804dd48ea3bae7e.1920x1080.jpg?t=1784570055","alt":"Superhero Simulator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/02dc7fd3b59a9b56da06cb5180f9a602e9c31c4a/ss_02dc7fd3b59a9b56da06cb5180f9a602e9c31c4a.1920x1080.jpg?t=1784570055","alt":"Superhero Simulator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/ss_7e840b0998868be59f18d6b24c96044401599386.1920x1080.jpg?t=1784570055","alt":"Superhero Simulator 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Superhero Simulator",
+    "developers": [
+      "mightyraccoon! Studios"
+    ],
+    "publishers": [
+      "mightyraccoon! Studios"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-09-15",
+    "tags": [
+      "抢先体验",
+      "轻度Rogue",
+      "探索",
+      "像素画面",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "巡街阻止抢劫、救市民，每次英雄行动都解锁新能力",
+      "dimension": "玩法",
+      "excerpt": "Stop robberies, rescue civilians, and fight crime your way. Every heroic act unlocks new abilities - become the hero Goldpine needs!",
+      "url": "https://store.steampowered.com/app/3531260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "超级英雄也要开出租、翻汉堡，拿工资付食物与装备账单",
+      "dimension": "玩法",
+      "excerpt": "Being a hero doesn’t pay the bills—so you’ll need a job to survive. Drive a taxi, flip burgers, or find other ways to earn money Every \"Gollar\" counts, whether it’s for food, or upgrading your gear. Balance your heroic duties with everyday struggles.",
+      "url": "https://store.steampowered.com/app/3531260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "健康、卫生、精神状态与声望都要维持，忽视任何一项都会加难",
+      "dimension": "玩法",
+      "excerpt": "Manage your health, hygiene, mental state, and respect to stay at your best. Neglect them, and your journey becomes harder.",
+      "url": "https://store.steampowered.com/app/3531260/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 37422,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 71596,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8925,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 274317,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 40348,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 40348,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.0111103749991806,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 848,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 75,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 74.735729,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Superhero Simulator位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/ss_78fe63bb73a9bda5169fb559c52f16aea4c52375.1920x1080.jpg?t=1784570055",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/ss_78fe63bb73a9bda5169fb559c52f16aea4c52375.1920x1080.jpg?t=1784570055",
+        "alt": "Superhero Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/51a7d031ad479d9810a7c20f8804dd48ea3bae7e/ss_51a7d031ad479d9810a7c20f8804dd48ea3bae7e.1920x1080.jpg?t=1784570055",
+        "alt": "Superhero Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/02dc7fd3b59a9b56da06cb5180f9a602e9c31c4a/ss_02dc7fd3b59a9b56da06cb5180f9a602e9c31c4a.1920x1080.jpg?t=1784570055",
+        "alt": "Superhero Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/ss_7e840b0998868be59f18d6b24c96044401599386.1920x1080.jpg?t=1784570055",
+        "alt": "Superhero Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/ss_175382627bd86333b11534f5cc193506dabc3fd2.1920x1080.jpg?t=1784570055",
+        "alt": "Superhero Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/57bdd33214bf673748505c4999bc52db1cd26d3e/ss_57bdd33214bf673748505c4999bc52db1cd26d3e.1920x1080.jpg?t=1784570055",
+        "alt": "Superhero Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/61b837ebafcdce07b84cb4040a1032cecf84c7c7/ss_61b837ebafcdce07b84cb4040a1032cecf84c7c7.1920x1080.jpg?t=1784570055",
+        "alt": "Superhero Simulator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531260/40a8a23aca6cb2c6d67bdcb49f9ee7239bc8f6f6/ss_40a8a23aca6cb2c6d67bdcb49f9ee7239bc8f6f6.1920x1080.jpg?t=1784570055",
+        "alt": "Superhero Simulator 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

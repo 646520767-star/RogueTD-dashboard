@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Flash Doll","developers":["Game Star"],"publishers":["Game Star"],"release_status":"released","release_date":"2025-02-14","tags":["动作肉鸽","自走棋","玩家对战","角色自定义","策略"]},"hooks":[{"text":"自定义潮玩娃娃的动作组后投入自动战斗，物理碰撞会把对手真实地撞飞","dimension":"玩法","excerpt":"Not only can you design personalized dolls, but you can also experience realistic physical collision effects in battle, sending your enemies flying. Customize the move sets for each doll and become the champion of the arena.","url":"https://store.steampowered.com/app/3328720/","label":"证据原文片段"},{"text":"积累积分开启盲盒，随机获得角色、武器和服装，并有机会抽出隐藏异色版本","dimension":"玩法","excerpt":"After earning a certain amount of points, you can open blind boxes to receive characters, weapons, and outfits, with a chance to get hidden variants.","url":"https://store.steampowered.com/app/3328720/","label":"证据原文片段"},{"text":"技能芯片可编排娃娃出招顺序，组合连击、控制效果和残局反杀套路","dimension":"玩法","excerpt":"Customize the order of moves with different types of skill chips. You can unleash amazing combos, control effects, and even pull off a comeback to finish off your opponent!","url":"https://store.steampowered.com/app/3328720/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":90328,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":59736,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3547,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":491779,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":100017,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":100017,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.511731613926506,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":990,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.414141,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、自走棋","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_1348061fadfbbf83fef3b0f7a9d6ffdf91ea3c13.1920x1080.jpg?t=1755135319","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_1348061fadfbbf83fef3b0f7a9d6ffdf91ea3c13.1920x1080.jpg?t=1755135319","alt":"闪光公仔 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_0ece9aee33f5e8381de2e840d80545bd1f14fc40.1920x1080.jpg?t=1755135319","alt":"闪光公仔 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_7f8a0edab99a7511458d755f268b44a96511a52a.1920x1080.jpg?t=1755135319","alt":"闪光公仔 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_663607c4ed631eee47e74830df2fccbcc43e0eca.1920x1080.jpg?t=1755135319","alt":"闪光公仔 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Flash Doll",
+    "developers": [
+      "Game Star"
+    ],
+    "publishers": [
+      "Game Star"
+    ],
+    "release_status": "released",
+    "release_date": "2025-02-14",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "轻度Rogue",
+      "自走棋",
+      "玩家对战"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "自定义潮玩娃娃的动作组后投入自动战斗，物理碰撞会把对手真实地撞飞",
+      "dimension": "玩法",
+      "excerpt": "Not only can you design personalized dolls, but you can also experience realistic physical collision effects in battle, sending your enemies flying. Customize the move sets for each doll and become the champion of the arena.",
+      "url": "https://store.steampowered.com/app/3328720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "积累积分开启盲盒，随机获得角色、武器和服装，并有机会抽出隐藏异色版本",
+      "dimension": "玩法",
+      "excerpt": "After earning a certain amount of points, you can open blind boxes to receive characters, weapons, and outfits, with a chance to get hidden variants.",
+      "url": "https://store.steampowered.com/app/3328720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "技能芯片可编排娃娃出招顺序，组合连击、控制效果和残局反杀套路",
+      "dimension": "玩法",
+      "excerpt": "Customize the order of moves with different types of skill chips. You can unleash amazing combos, control effects, and even pull off a comeback to finish off your opponent!",
+      "url": "https://store.steampowered.com/app/3328720/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 91532,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 58811,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3558,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 495721,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 101317,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 101317,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.490214503417907,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 856,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.470292,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "闪光公仔位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_1348061fadfbbf83fef3b0f7a9d6ffdf91ea3c13.1920x1080.jpg?t=1755135319",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_1348061fadfbbf83fef3b0f7a9d6ffdf91ea3c13.1920x1080.jpg?t=1755135319",
+        "alt": "闪光公仔 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_0ece9aee33f5e8381de2e840d80545bd1f14fc40.1920x1080.jpg?t=1755135319",
+        "alt": "闪光公仔 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_7f8a0edab99a7511458d755f268b44a96511a52a.1920x1080.jpg?t=1755135319",
+        "alt": "闪光公仔 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_663607c4ed631eee47e74830df2fccbcc43e0eca.1920x1080.jpg?t=1755135319",
+        "alt": "闪光公仔 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_7d24cf86a0fc224bcdd85400b2b18e0647dddd0f.1920x1080.jpg?t=1755135319",
+        "alt": "闪光公仔 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_d7cf1e3960dbe1a4eb51861d312fa13a8dd43dc5.1920x1080.jpg?t=1755135319",
+        "alt": "闪光公仔 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_09a246ecaaf0d8c1bcfb4695f9a9a996bb9cab13.1920x1080.jpg?t=1755135319",
+        "alt": "闪光公仔 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328720/ss_90c2eb475fe7a7a0871089ffb251c1af7e1eb264.1920x1080.jpg?t=1755135319",
+        "alt": "闪光公仔 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

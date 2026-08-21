@@ -1,1 +1,218 @@
-{"identity":{"original_title":"Wind Runners","developers":["Ludic Studios"],"publishers":["Twin Sails Interactive"],"release_status":"coming_soon","release_date":"2026-09-23","tags":["飞行","动作肉鸽","弹幕射击","清版射击","轻度Rogue"]},"hooks":[{"text":"高速空战要求翻滚与冲刺穿过交汇弹幕，再以精确操作挑战神祇般的巨型Boss","dimension":"玩法","excerpt":"Engage in high-precision bullet-hell dogfighting: dash and roll through converging fire, unleash your firepower against relentless enemy waves, and face towering, God-like boss battles that push every run to its limit.","url":"https://store.steampowered.com/app/1101370/","label":"证据原文片段"},{"text":"三名驾驶员各有打法，玩家还要选择袭击补给线、要塞或被压迫世界，以具体行动扩大战争反抗","dimension":"玩法","excerpt":"Choose one of three Wind Runners, each with a distinct playstyle, and decide where to strike: disrupt enemy supply lines, destroy key fortresses, and free oppressed worlds. Each successful strike weakens the dominion, liberates a world and fuels the uprising!","url":"https://store.steampowered.com/app/1101370/","label":"证据原文片段"},{"text":"每次突袭收集的资源都会永久升级飞船、在母舰集结新盟友，并把失败转化为反抗军势力成长","dimension":"玩法","excerpt":"When a raid ends, gathered resources permanently upgrade your ship, rally new allies in your Mothership, and empower the resistance, turning defeat into momentum and bringing the resistance closer to victory.","url":"https://store.steampowered.com/app/1101370/","label":"证据原文片段"}],"opinions":[{"text":"强劲音乐强化空战体验","dimension":"音频","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"kickass music blasts through your speakers","url":"https://store.steampowered.com/curator/35101992-RaginRamen-Indie-Recommendations/","label":"证据原文片段"}]},{"text":"视觉观感非常出色","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"it looks superb","url":"https://store.steampowered.com/curator/45526457-Qwarky-remarks/","label":"证据原文片段"}]},{"text":"空战呈现出爆发力与速度感","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Let the inner speed demon loose in an explosive rogue like.","url":"https://store.steampowered.com/curator/35101992-RaginRamen-Indie-Recommendations/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":null,"unit":"份","state":"not_applicable","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":93884,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5272,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":null,"unit":"USD","state":"not_applicable","date":"2026-07-23"},{"id":"players","label":"玩家数","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":null,"unit":"人","state":"not_applicable","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":null,"unit":"小时","state":"not_applicable","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":null,"unit":"条","state":"not_applicable","date":"2026-07-23"},{"id":"score","label":"评分","value":null,"unit":"分","state":"not_applicable","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":null,"unit":"%","state":"not_applicable","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"持续跟踪","target":"发售日期、愿望单、关注人数与首批官方评论","reason":"产品位于受期待新品池，发售前指标与发行节点是当前最可执行的观察对象。","trigger":"正式发售，或愿望单、关注、评论状态出现同口径新快照。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/b7bd317ab7260eb2d1bb1b1badd2df41ac86ddf4/ss_b7bd317ab7260eb2d1bb1b1badd2df41ac86ddf4.1920x1080.jpg?t=1780948912","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/b7bd317ab7260eb2d1bb1b1badd2df41ac86ddf4/ss_b7bd317ab7260eb2d1bb1b1badd2df41ac86ddf4.1920x1080.jpg?t=1780948912","alt":"Wind Runners 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/89ba8de897d75b084cc694b6f6a3c0d3a5ade5b1/ss_89ba8de897d75b084cc694b6f6a3c0d3a5ade5b1.1920x1080.jpg?t=1780948912","alt":"Wind Runners 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/270eb1e1cd87587e3105dbbf7d11d1f16f7986da/ss_270eb1e1cd87587e3105dbbf7d11d1f16f7986da.1920x1080.jpg?t=1780948912","alt":"Wind Runners 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/ba5f1a96831d856735a9a0c6480c02a27d5af3d6/ss_ba5f1a96831d856735a9a0c6480c02a27d5af3d6.1920x1080.jpg?t=1780948912","alt":"Wind Runners 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Wind Runners",
+    "developers": [
+      "Ludic Studios"
+    ],
+    "publishers": [
+      "Twin Sails Interactive"
+    ],
+    "release_status": "coming_soon",
+    "release_date": "2026-09-23",
+    "tags": [
+      "飞行",
+      "动作肉鸽",
+      "弹幕射击",
+      "清版射击",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "高速空战要求翻滚与冲刺穿过交汇弹幕，再以精确操作挑战神祇般的巨型Boss",
+      "dimension": "玩法",
+      "excerpt": "Engage in high-precision bullet-hell dogfighting: dash and roll through converging fire, unleash your firepower against relentless enemy waves, and face towering, God-like boss battles that push every run to its limit.",
+      "url": "https://store.steampowered.com/app/1101370/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三名驾驶员各有打法，玩家还要选择袭击补给线、要塞或被压迫世界，以具体行动扩大战争反抗",
+      "dimension": "玩法",
+      "excerpt": "Choose one of three Wind Runners, each with a distinct playstyle, and decide where to strike: disrupt enemy supply lines, destroy key fortresses, and free oppressed worlds. Each successful strike weakens the dominion, liberates a world and fuels the uprising!",
+      "url": "https://store.steampowered.com/app/1101370/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次突袭收集的资源都会永久升级飞船、在母舰集结新盟友，并把失败转化为反抗军势力成长",
+      "dimension": "玩法",
+      "excerpt": "When a raid ends, gathered resources permanently upgrade your ship, rally new allies in your Mothership, and empower the resistance, turning defeat into momentum and bringing the resistance closer to victory.",
+      "url": "https://store.steampowered.com/app/1101370/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "强劲音乐强化空战体验",
+      "dimension": "音频",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "kickass music blasts through your speakers",
+          "url": "https://store.steampowered.com/curator/35101992-RaginRamen-Indie-Recommendations/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "视觉观感非常出色",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it looks superb",
+          "url": "https://store.steampowered.com/curator/45526457-Qwarky-remarks/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "空战呈现出爆发力与速度感",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Let the inner speed demon loose in an explosive rogue like.",
+          "url": "https://store.steampowered.com/curator/35101992-RaginRamen-Indie-Recommendations/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 0,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 96936,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5377,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 0,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 0,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 0,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 0,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 0,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": null,
+      "unit": "%",
+      "state": "unavailable",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "持续跟踪",
+      "target": "发售日期、愿望单与关注人数",
+      "reason": "Wind Runners位于受期待新品池。",
+      "trigger": "发售或关键指标显著变化时更新。",
+      "priority": "高"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/b7bd317ab7260eb2d1bb1b1badd2df41ac86ddf4/ss_b7bd317ab7260eb2d1bb1b1badd2df41ac86ddf4.1920x1080.jpg?t=1780948912",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/b7bd317ab7260eb2d1bb1b1badd2df41ac86ddf4/ss_b7bd317ab7260eb2d1bb1b1badd2df41ac86ddf4.1920x1080.jpg?t=1780948912",
+        "alt": "Wind Runners 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/89ba8de897d75b084cc694b6f6a3c0d3a5ade5b1/ss_89ba8de897d75b084cc694b6f6a3c0d3a5ade5b1.1920x1080.jpg?t=1780948912",
+        "alt": "Wind Runners 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/270eb1e1cd87587e3105dbbf7d11d1f16f7986da/ss_270eb1e1cd87587e3105dbbf7d11d1f16f7986da.1920x1080.jpg?t=1780948912",
+        "alt": "Wind Runners 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/ba5f1a96831d856735a9a0c6480c02a27d5af3d6/ss_ba5f1a96831d856735a9a0c6480c02a27d5af3d6.1920x1080.jpg?t=1780948912",
+        "alt": "Wind Runners 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/b69d4aaf8bcae58f746b37a08045c7994b5d3484/ss_b69d4aaf8bcae58f746b37a08045c7994b5d3484.1920x1080.jpg?t=1780948912",
+        "alt": "Wind Runners 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/a24a47e4c7b5df9bcc9dafb9bb85f63c3af9238b/ss_a24a47e4c7b5df9bcc9dafb9bb85f63c3af9238b.1920x1080.jpg?t=1780948912",
+        "alt": "Wind Runners 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/d3b60b6ee8018e007433930e31d41e25146a2af2/ss_d3b60b6ee8018e007433930e31d41e25146a2af2.1920x1080.jpg?t=1780948912",
+        "alt": "Wind Runners 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101370/52bd076ec0632a6f2f77e6d3906ddeb07138c35a/ss_52bd076ec0632a6f2f77e6d3906ddeb07138c35a.1920x1080.jpg?t=1780948912",
+        "alt": "Wind Runners 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

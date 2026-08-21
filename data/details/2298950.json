@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Flying Tank","developers":["Hexage"],"publishers":["Hexage"],"release_status":"released","release_date":"2024-12-06","tags":["本地合作","合作","弹幕射击","手绘风格","动漫风格"]},"hooks":[{"text":"驾驶飞行坦克完成二十四项任务，对抗三大阵营","dimension":"玩法","excerpt":"Embark on 24 missions, populated with three distinct factions and unique adversaries.","url":"https://store.steampowered.com/app/2298950/","label":"证据原文片段"},{"text":"从经典火力到疯狂武装，自由搭配枪械与炸弹","dimension":"玩法","excerpt":"Customize your FLT with a variety of Weapons and Bombs, ranging from classic to insane.","url":"https://store.steampowered.com/app/2298950/","label":"证据原文片段"},{"text":"子弹时间、超载和攻防无人机组成三十多项升级","dimension":"玩法","excerpt":"Use powerful Specials including Bullet-Time and Overdrive, attack and repair Drones, and 30+ other Upgrades.","url":"https://store.steampowered.com/app/2298950/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1729,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":692,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":11513,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1863,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1863,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.50266955010795,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":107,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.037037,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"本地合作、合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_64409216462e76b522f5fa5c470cb30242c52472.1920x1080.jpg?t=1736934983","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_64409216462e76b522f5fa5c470cb30242c52472.1920x1080.jpg?t=1736934983","alt":"Flying Tank 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_c287ecc2dfb101edc841b626b72a27478021ab6f.1920x1080.jpg?t=1736934983","alt":"Flying Tank 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_357d871c4795745d4abf674454b2f29ea9b5b43b.1920x1080.jpg?t=1736934983","alt":"Flying Tank 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_637b5c4e19d1d76c8ecda502272ceefe243aa19f.1920x1080.jpg?t=1736934983","alt":"Flying Tank 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Flying Tank",
+    "developers": [
+      "Hexage"
+    ],
+    "publishers": [
+      "Hexage"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-06",
+    "tags": [
+      "二维平台跳跃",
+      "本地合作",
+      "合作",
+      "弹幕射击",
+      "手绘风格"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "驾驶飞行坦克完成二十四项任务，对抗三大阵营",
+      "dimension": "玩法",
+      "excerpt": "Embark on 24 missions, populated with three distinct factions and unique adversaries.",
+      "url": "https://store.steampowered.com/app/2298950/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从经典火力到疯狂武装，自由搭配枪械与炸弹",
+      "dimension": "玩法",
+      "excerpt": "Customize your FLT with a variety of Weapons and Bombs, ranging from classic to insane.",
+      "url": "https://store.steampowered.com/app/2298950/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "子弹时间、超载和攻防无人机组成三十多项升级",
+      "dimension": "玩法",
+      "excerpt": "Use powerful Specials including Bullet-Time and Overdrive, attack and repair Drones, and 30+ other Upgrades.",
+      "url": "https://store.steampowered.com/app/2298950/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "Nice weapon variety and fun animations.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Nice weapon variety and fun animations.",
+          "url": "https://steamcommunity.com/id/robotpirateninja/recommended/2298950/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "[b][i]It's a sci-fi side-scrolling shooter with beautiful visuals, unique enemy designs, classic gameplay and very smooth, responsive controls.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "[b][i]It's a sci-fi side-scrolling shooter with beautiful visuals, unique enemy designs, classic gameplay and very smooth, responsive controls.",
+          "url": "https://steamcommunity.com/profiles/76561198272374716/recommended/2298950/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Took 20 seconds to download, has a fantastic soundtrack, really clean visuals, and an addictive gameplay loop.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Took 20 seconds to download, has a fantastic soundtrack, really clean visuals, and an addictive gameplay loop.",
+          "url": "https://steamcommunity.com/profiles/76561198349604548/recommended/2298950/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Great art style and sound scoring to go with it.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Great art style and sound scoring to go with it.",
+          "url": "https://steamcommunity.com/profiles/76561198092539081/recommended/2298950/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Just a wonderful shoot 'em up in the best genre traditions, which will drag you away from the very beginning, thanks to its captivating gameplay and cool visuals.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Just a wonderful shoot 'em up in the best genre traditions, which will drag you away from the very beginning, thanks to its captivating gameplay and cool visuals.",
+          "url": "https://store.steampowered.com/curator/42708084-Potato-Coalition/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "There is an Alien invasion and you have to retake earth, nice plot mostly on the end part, sound and visuals with some interesting ship features 8.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "There is an Alien invasion and you have to retake earth, nice plot mostly on the end part, sound and visuals with some interesting ship features 8.",
+          "url": "https://store.steampowered.com/curator/38624426-Hidden-Gems-Review/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "🎮 GAMEPLAY: 8/10 | 🎨 GRAPHICS: 8/10 | 🔊 AUDIO: 7/10 | 📚 STORY: 8/10 | Except for the weird death-penalty, Flying Tank belongs amongst the best titles that shoot 'em' up genre can offer.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "🎮 GAMEPLAY: 8/10 | 🎨 GRAPHICS: 8/10 | 🔊 AUDIO: 7/10 | 📚 STORY: 8/10 | Except for the weird death-penalty, Flying Tank belongs amongst the best titles that shoot 'em' up genre can offer.",
+          "url": "https://store.steampowered.com/curator/32069458-Nova-Global/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Smooth controls, great variety in your ship selection and enemy roster, and beautiful 2D visuals, simply everything you need to have a good time.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Smooth controls, great variety in your ship selection and enemy roster, and beautiful 2D visuals, simply everything you need to have a good time.",
+          "url": "https://store.steampowered.com/curator/44080519-Enlightened-Gamers/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1795,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 694,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 11857,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1933,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1933,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.363425484799771,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 97,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.037037,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Flying Tank位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_64409216462e76b522f5fa5c470cb30242c52472.1920x1080.jpg?t=1736934983",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_64409216462e76b522f5fa5c470cb30242c52472.1920x1080.jpg?t=1736934983",
+        "alt": "Flying Tank 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_c287ecc2dfb101edc841b626b72a27478021ab6f.1920x1080.jpg?t=1736934983",
+        "alt": "Flying Tank 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_357d871c4795745d4abf674454b2f29ea9b5b43b.1920x1080.jpg?t=1736934983",
+        "alt": "Flying Tank 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_637b5c4e19d1d76c8ecda502272ceefe243aa19f.1920x1080.jpg?t=1736934983",
+        "alt": "Flying Tank 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_b5c3a301e9ce8d397235e374286be8bc17d36998.1920x1080.jpg?t=1736934983",
+        "alt": "Flying Tank 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_83c2389d89ebaa8b7feba417f258024182a987e9.1920x1080.jpg?t=1736934983",
+        "alt": "Flying Tank 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_828b6a8f5b9e999dfd117c8b3a02cf244229a211.1920x1080.jpg?t=1736934983",
+        "alt": "Flying Tank 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2298950/ss_9cd63fdcab404ef06fee6b363569a6745cac1d3b.1920x1080.jpg?t=1736934983",
+        "alt": "Flying Tank 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

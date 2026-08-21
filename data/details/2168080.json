@@ -1,1 +1,166 @@
-{"identity":{"original_title":"Abyss Manager Idle","developers":["D4 Laboratory"],"publishers":["D4 Laboratory"],"release_status":"released","release_date":"2026-01-26","tags":["策略","休闲","模拟","塔防","免费游玩"]},"hooks":[{"text":"给不同角色分配工作，形成深渊据点的自动化岗位体系。","dimension":"玩法","excerpt":"players need to assign jobs to various characters","url":"https://store.steampowered.com/app/2168080/","label":"证据原文片段"},{"text":"收集资源并招募、训练角色，逐步强化闲置塔防阵容。","dimension":"玩法","excerpt":"collect resources, recruit and train characters","url":"https://store.steampowered.com/app/2168080/","label":"证据原文片段"},{"text":"向下挖掘更多楼层会逐步解锁新的经营与防御机制。","dimension":"玩法","excerpt":"excavate more floors to unlock further mechanics.","url":"https://store.steampowered.com/app/2168080/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":11654,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1235,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":196,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":11654,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":11654,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0,"unit":"小时","state":"zero","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":222,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.38009,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、休闲","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/479bb72cb4a4fc5a8de16b17a835ace16369d72d/ss_479bb72cb4a4fc5a8de16b17a835ace16369d72d.1920x1080.jpg?t=1773290333","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/479bb72cb4a4fc5a8de16b17a835ace16369d72d/ss_479bb72cb4a4fc5a8de16b17a835ace16369d72d.1920x1080.jpg?t=1773290333","alt":"深渊经理 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/4deb21b7309308ac22ca4828331b06e9c5348844/ss_4deb21b7309308ac22ca4828331b06e9c5348844.1920x1080.jpg?t=1773290333","alt":"深渊经理 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/6da437a524149c5f8186fde482c4275ac491a51a/ss_6da437a524149c5f8186fde482c4275ac491a51a.1920x1080.jpg?t=1773290333","alt":"深渊经理 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/769c3c0e02436d3a842318dcadda70b418557a39/ss_769c3c0e02436d3a842318dcadda70b418557a39.1920x1080.jpg?t=1773290333","alt":"深渊经理 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Abyss Manager Idle",
+    "developers": [
+      "D4 Laboratory"
+    ],
+    "publishers": [
+      "D4 Laboratory"
+    ],
+    "release_status": "released",
+    "release_date": "2026-01-26",
+    "tags": [
+      "策略",
+      "休闲",
+      "轻度Rogue",
+      "模拟",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "给不同角色分配工作，形成深渊据点的自动化岗位体系。",
+      "dimension": "玩法",
+      "excerpt": "players need to assign jobs to various characters",
+      "url": "https://store.steampowered.com/app/2168080/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集资源并招募、训练角色，逐步强化闲置塔防阵容。",
+      "dimension": "玩法",
+      "excerpt": "collect resources, recruit and train characters",
+      "url": "https://store.steampowered.com/app/2168080/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "向下挖掘更多楼层会逐步解锁新的经营与防御机制。",
+      "dimension": "玩法",
+      "excerpt": "excavate more floors to unlock further mechanics.",
+      "url": "https://store.steampowered.com/app/2168080/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 18377,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1235,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 202,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 18377,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 18377,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.6564626542284102,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 241,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.26556,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "深渊经理位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/479bb72cb4a4fc5a8de16b17a835ace16369d72d/ss_479bb72cb4a4fc5a8de16b17a835ace16369d72d.1920x1080.jpg?t=1773290333",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/479bb72cb4a4fc5a8de16b17a835ace16369d72d/ss_479bb72cb4a4fc5a8de16b17a835ace16369d72d.1920x1080.jpg?t=1773290333",
+        "alt": "深渊经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/4deb21b7309308ac22ca4828331b06e9c5348844/ss_4deb21b7309308ac22ca4828331b06e9c5348844.1920x1080.jpg?t=1773290333",
+        "alt": "深渊经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/6da437a524149c5f8186fde482c4275ac491a51a/ss_6da437a524149c5f8186fde482c4275ac491a51a.1920x1080.jpg?t=1773290333",
+        "alt": "深渊经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/769c3c0e02436d3a842318dcadda70b418557a39/ss_769c3c0e02436d3a842318dcadda70b418557a39.1920x1080.jpg?t=1773290333",
+        "alt": "深渊经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168080/1a5dd310a5374f106c3530d2cb354adaee62abab/ss_1a5dd310a5374f106c3530d2cb354adaee62abab.1920x1080.jpg?t=1773290333",
+        "alt": "深渊经理 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

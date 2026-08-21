@@ -1,1 +1,178 @@
-{"identity":{"original_title":"The Great Rebellion","developers":["Kvltgames"],"publishers":["AIP"],"release_status":"released","release_date":"2024-02-01","tags":["类Rogue","刷宝","弹幕射击","赛博朋克","二维画面"]},"hooks":[{"text":"十六位像素赛博关卡配六十余把武器","dimension":"玩法","excerpt":"Fight through randomly generated levels in glorious 16bit-style retro pixel art and listen to an awesome dynamic soundtrack while you blast away robots using one of 60+ weapons.","url":"https://store.steampowered.com/app/2732820/","label":"证据原文片段"},{"text":"解锁盟友与欧洲英雄之魂赋予能力","dimension":"玩法","excerpt":"Upgrade your character, find items, unlock allies that will help you and find the spirits of European heroes that will give you special powers.","url":"https://store.steampowered.com/app/2732820/","label":"证据原文片段"},{"text":"在人无所有的企业欧洲掀起反叛","dimension":"故事","excerpt":"Immerse yourself in the dystopian Europe of the year 20XX, where the Lucis Lux Mega-Corporation owns everything and the people own nothing. You play the role of Human 10.28, a man who decides he had enough.","url":"https://store.steampowered.com/app/2732820/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":7957,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":25419,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2757,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":117686,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":8290,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":8290,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.397371946192912,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":576,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.527778,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、刷宝","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_8cff9f7113c7a103ad6fa3a79e06cba5f9b90c66.1920x1080.jpg?t=1734710743","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_8cff9f7113c7a103ad6fa3a79e06cba5f9b90c66.1920x1080.jpg?t=1734710743","alt":"The Great Rebellion 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_843638fdd40b59bc4a61e6f58fe4cea3d6f367e4.1920x1080.jpg?t=1734710743","alt":"The Great Rebellion 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_42686b0ca00c51e0d34e611b785518113b5ab39c.1920x1080.jpg?t=1734710743","alt":"The Great Rebellion 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_fb474ab911e4274efbc717c01ffcdd3894485e7d.1920x1080.jpg?t=1734710743","alt":"The Great Rebellion 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Great Rebellion",
+    "developers": [
+      "Kvltgames"
+    ],
+    "publishers": [
+      "AIP"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-01",
+    "tags": [
+      "类Rogue",
+      "刷宝",
+      "弹幕射击",
+      "赛博朋克",
+      "二维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "十六位像素赛博关卡配六十余把武器",
+      "dimension": "玩法",
+      "excerpt": "Fight through randomly generated levels in glorious 16bit-style retro pixel art and listen to an awesome dynamic soundtrack while you blast away robots using one of 60+ weapons.",
+      "url": "https://store.steampowered.com/app/2732820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "解锁盟友与欧洲英雄之魂赋予能力",
+      "dimension": "玩法",
+      "excerpt": "Upgrade your character, find items, unlock allies that will help you and find the spirits of European heroes that will give you special powers.",
+      "url": "https://store.steampowered.com/app/2732820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在人无所有的企业欧洲掀起反叛",
+      "dimension": "故事",
+      "excerpt": "Immerse yourself in the dystopian Europe of the year 20XX, where the Lucis Lux Mega-Corporation owns everything and the people own nothing. You play the role of Human 10.28, a man who decides he had enough.",
+      "url": "https://store.steampowered.com/app/2732820/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 9356,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 25570,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2765,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 127509,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 9769,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 9769,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.34552500954708,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 545,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.373057,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "The Great Rebellion位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_8cff9f7113c7a103ad6fa3a79e06cba5f9b90c66.1920x1080.jpg?t=1734710743",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_8cff9f7113c7a103ad6fa3a79e06cba5f9b90c66.1920x1080.jpg?t=1734710743",
+        "alt": "The Great Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_843638fdd40b59bc4a61e6f58fe4cea3d6f367e4.1920x1080.jpg?t=1734710743",
+        "alt": "The Great Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_42686b0ca00c51e0d34e611b785518113b5ab39c.1920x1080.jpg?t=1734710743",
+        "alt": "The Great Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_fb474ab911e4274efbc717c01ffcdd3894485e7d.1920x1080.jpg?t=1734710743",
+        "alt": "The Great Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_db6060d89534f1ebb2e2fca6c72289d0d74553bf.1920x1080.jpg?t=1734710743",
+        "alt": "The Great Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_bfc62d3b46d0ba5c3bec37432f5a51a6f85a33ef.1920x1080.jpg?t=1734710743",
+        "alt": "The Great Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_7de74bff437b1d9ada55549a9f5d4f85aa61a464.1920x1080.jpg?t=1734710743",
+        "alt": "The Great Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732820/ss_7a83650bb23d858193ebdddc363748517b0edd25.1920x1080.jpg?t=1734710743",
+        "alt": "The Great Rebellion 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

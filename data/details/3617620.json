@@ -1,1 +1,178 @@
-{"identity":{"original_title":"My Card Is Better Than Your Card!","developers":["Utu Studios"],"publishers":["Utu Studios"],"release_status":"early_access","release_date":"2025-10-06","tags":["类Rogue","卡牌游戏","卡组构筑","策略","肉鸽卡组构筑"]},"hooks":[{"text":"把不同效果的贴纸自由贴上卡牌，亲手制作整套牌组","dimension":"玩法","excerpt":"Create your own cards with a colorful catalogue of stickers combining their effects.","url":"https://store.steampowered.com/app/3617620/","label":"证据原文片段"},{"text":"在酷炫度拔河对战中积累优势，并用FEVER倍率关键翻盘","dimension":"玩法","excerpt":"It’s time for a tug-of-war of coolness! Play your cards right to gain favor over your rivals and leave them in awe of your creations! Make use of the FEVER multiplier to turn the tide at the right moment!","url":"https://store.steampowered.com/app/3617620/","label":"证据原文片段"},{"text":"卡战间穿插寻宝、自动贩卖机、抓娃娃与邻里故事事件","dimension":"玩法","excerpt":"Between card battles you can take part in all sorts of activities to spice up your deck. Dig for hidden prizes in Treasure Hunts! Try your luck at the Vending Machine for that perfect super shiny sticker! Get to know your friends around the neighborhood in Story Events! Grab some new toys at the Claw Machine!","url":"https://store.steampowered.com/app/3617620/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":29137,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":105491,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":373139,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":30528,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":30528,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.924716855703236,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1213,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.069193,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、卡牌游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/c6b21174d6b17991df390aee42e1375fbda9c134/ss_c6b21174d6b17991df390aee42e1375fbda9c134.1920x1080.jpg?t=1783424439","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/c6b21174d6b17991df390aee42e1375fbda9c134/ss_c6b21174d6b17991df390aee42e1375fbda9c134.1920x1080.jpg?t=1783424439","alt":"我的牌更好！ 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/d10a1dd0133de013bc7f87ae52087ad9aa78e855/ss_d10a1dd0133de013bc7f87ae52087ad9aa78e855.1920x1080.jpg?t=1783424439","alt":"我的牌更好！ 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/4ad24b9e37ede4031c6110dfa3404233921c25c4/ss_4ad24b9e37ede4031c6110dfa3404233921c25c4.1920x1080.jpg?t=1783424439","alt":"我的牌更好！ 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/a14f25b31ca8b3a836189f079d62a197fcc89f66/ss_a14f25b31ca8b3a836189f079d62a197fcc89f66.1920x1080.jpg?t=1783424439","alt":"我的牌更好！ 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "My Card Is Better Than Your Card!",
+    "developers": [
+      "Utu Studios"
+    ],
+    "publishers": [
+      "Utu Studios"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-10-06",
+    "tags": [
+      "类Rogue",
+      "卡牌游戏",
+      "卡组构筑",
+      "类Rogue",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把不同效果的贴纸自由贴上卡牌，亲手制作整套牌组",
+      "dimension": "玩法",
+      "excerpt": "Create your own cards with a colorful catalogue of stickers combining their effects.",
+      "url": "https://store.steampowered.com/app/3617620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在酷炫度拔河对战中积累优势，并用FEVER倍率关键翻盘",
+      "dimension": "玩法",
+      "excerpt": "It’s time for a tug-of-war of coolness! Play your cards right to gain favor over your rivals and leave them in awe of your creations! Make use of the FEVER multiplier to turn the tide at the right moment!",
+      "url": "https://store.steampowered.com/app/3617620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "卡战间穿插寻宝、自动贩卖机、抓娃娃与邻里故事事件",
+      "dimension": "玩法",
+      "excerpt": "Between card battles you can take part in all sorts of activities to spice up your deck. Dig for hidden prizes in Treasure Hunts! Try your luck at the Vending Machine for that perfect super shiny sticker! Get to know your friends around the neighborhood in Story Events! Grab some new toys at the Claw Machine!",
+      "url": "https://store.steampowered.com/app/3617620/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 30239,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 104838,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5327,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 383353,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 31688,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 31688,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.624791869672537,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1159,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.363929,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "我的牌更好！位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/c6b21174d6b17991df390aee42e1375fbda9c134/ss_c6b21174d6b17991df390aee42e1375fbda9c134.1920x1080.jpg?t=1783424439",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/c6b21174d6b17991df390aee42e1375fbda9c134/ss_c6b21174d6b17991df390aee42e1375fbda9c134.1920x1080.jpg?t=1786534013",
+        "alt": "我的牌更好！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/d10a1dd0133de013bc7f87ae52087ad9aa78e855/ss_d10a1dd0133de013bc7f87ae52087ad9aa78e855.1920x1080.jpg?t=1786534013",
+        "alt": "我的牌更好！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/4ad24b9e37ede4031c6110dfa3404233921c25c4/ss_4ad24b9e37ede4031c6110dfa3404233921c25c4.1920x1080.jpg?t=1786534013",
+        "alt": "我的牌更好！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/a14f25b31ca8b3a836189f079d62a197fcc89f66/ss_a14f25b31ca8b3a836189f079d62a197fcc89f66.1920x1080.jpg?t=1786534013",
+        "alt": "我的牌更好！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/230e98950c57e6e5ee6457ed69d5d644d40babfd/ss_230e98950c57e6e5ee6457ed69d5d644d40babfd.1920x1080.jpg?t=1786534013",
+        "alt": "我的牌更好！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/ba65d41b0ddb766033e9b152f3c57472ef9ea837/ss_ba65d41b0ddb766033e9b152f3c57472ef9ea837.1920x1080.jpg?t=1786534013",
+        "alt": "我的牌更好！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/4e553ff9b67177520c3f6ff6a1d5976b994390ab/ss_4e553ff9b67177520c3f6ff6a1d5976b994390ab.1920x1080.jpg?t=1786534013",
+        "alt": "我的牌更好！ 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617620/0351d6905ce11d7ed0cec086378d0fa2f29430a2/ss_0351d6905ce11d7ed0cec086378d0fa2f29430a2.1920x1080.jpg?t=1786534013",
+        "alt": "我的牌更好！ 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

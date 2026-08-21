@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Rack and Slay","developers":["Ludokultur"],"publishers":["2 Left Thumbs"],"release_status":"released","release_date":"2024-05-27","tags":["类Rogue","地牢探索","轻度Rogue","策略","二维画面"]},"hooks":[{"text":"玩家本身就是台球，用物理击球把怪物球撞入球洞或关卡陷阱","dimension":"玩法","excerpt":"The roguelike dungeon crawler where you're a billiard ball! Push monster balls into holes or traps in randomly generated levels.","url":"https://store.steampowered.com/app/2311990/","label":"证据原文片段"},{"text":"关卡之间从一百多件可无限叠加的物品中选取，通过重复效果制造失衡Build","dimension":"玩法","excerpt":"Between levels, draft from a wide variety of 100+ items with game-changing effects (all of which are stackable) to find combos, build synergies and refine your playstyle !","url":"https://store.steampowered.com/app/2311990/","label":"证据原文片段"},{"text":"可选择二十至三十分钟的十层完整地牢、半层数高战利品Delve或单层随机装备突袭","dimension":"玩法","excerpt":"Play a full 10-level dungeon crawl in 20-30 minutes , or choose the condensed Delve Mode with half the levels but extra loot, or tackle a single-level raid with random items.","url":"https://store.steampowered.com/app/2311990/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":39872,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":33045,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2177,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":194528,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":44604,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":44604,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.5338790775570015,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":607,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.7743,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、地牢探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_1c17b9a9532529e546a1e3c4c2fec7966b560c92.1920x1080.jpg?t=1776355523","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_1c17b9a9532529e546a1e3c4c2fec7966b560c92.1920x1080.jpg?t=1776355523","alt":"杀戮台球 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_4f8ee6a896b660eb5ea42bf1abadd327dd55c946.1920x1080.jpg?t=1776355523","alt":"杀戮台球 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_f389dcf6c25fc49a1c3f76b2a0be75f123bf33e8.1920x1080.jpg?t=1776355523","alt":"杀戮台球 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_b0357a80a6822175efca1fb6b760454e69e1ec2c.1920x1080.jpg?t=1776355523","alt":"杀戮台球 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Rack and Slay",
+    "developers": [
+      "Ludokultur"
+    ],
+    "publishers": [
+      "2 Left Thumbs"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-27",
+    "tags": [
+      "类Rogue",
+      "街机",
+      "地牢探索",
+      "轻度Rogue",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "玩家本身就是台球，用物理击球把怪物球撞入球洞或关卡陷阱",
+      "dimension": "玩法",
+      "excerpt": "The roguelike dungeon crawler where you're a billiard ball! Push monster balls into holes or traps in randomly generated levels.",
+      "url": "https://store.steampowered.com/app/2311990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "关卡之间从一百多件可无限叠加的物品中选取，通过重复效果制造失衡Build",
+      "dimension": "玩法",
+      "excerpt": "Between levels, draft from a wide variety of 100+ items with game-changing effects (all of which are stackable) to find combos, build synergies and refine your playstyle !",
+      "url": "https://store.steampowered.com/app/2311990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可选择二十至三十分钟的十层完整地牢、半层数高战利品Delve或单层随机装备突袭",
+      "dimension": "玩法",
+      "excerpt": "Play a full 10-level dungeon crawl in 20-30 minutes , or choose the condensed Delve Mode with half the levels but extra loot, or tackle a single-level raid with random items.",
+      "url": "https://store.steampowered.com/app/2311990/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 41017,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 33240,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2181,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 196846,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 45927,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 45927,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.5929258975230476,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 516,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.640394,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "杀戮台球位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_1c17b9a9532529e546a1e3c4c2fec7966b560c92.1920x1080.jpg?t=1776355523",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_1c17b9a9532529e546a1e3c4c2fec7966b560c92.1920x1080.jpg?t=1776355523",
+        "alt": "杀戮台球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_4f8ee6a896b660eb5ea42bf1abadd327dd55c946.1920x1080.jpg?t=1776355523",
+        "alt": "杀戮台球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_f389dcf6c25fc49a1c3f76b2a0be75f123bf33e8.1920x1080.jpg?t=1776355523",
+        "alt": "杀戮台球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_b0357a80a6822175efca1fb6b760454e69e1ec2c.1920x1080.jpg?t=1776355523",
+        "alt": "杀戮台球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_4ab11bd81c3f85e61ca91cb7422b9cbb9f84bf98.1920x1080.jpg?t=1776355523",
+        "alt": "杀戮台球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_b6a4d25d64a57950ea938424d2508cde0604383f.1920x1080.jpg?t=1776355523",
+        "alt": "杀戮台球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_4e9dcaf652e15c26b29083dfb5b8525a67525776.1920x1080.jpg?t=1776355523",
+        "alt": "杀戮台球 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311990/ss_6a5efb564cfa91ae6f9853792fc35bd4cb74afa1.1920x1080.jpg?t=1776355523",
+        "alt": "杀戮台球 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

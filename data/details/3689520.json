@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Bioprototype","developers":["Emprom Game"],"publishers":["Emprom Game"],"release_status":"released","release_date":"2025-05-19","tags":["弹幕射击","轻度Rogue","卡组构筑","像素画面","类Rogue"]},"hooks":[{"text":"用可视化编程自行设定技能触发逻辑","dimension":"玩法","excerpt":"• Set your own skill trigger logics","url":"https://store.steampowered.com/app/3689520/","label":"证据原文片段"},{"text":"收集80种以上功能器官，拼出大量连锁组合","dimension":"玩法","excerpt":"• 80+ organs with different functions — Unlock unlimited combos universe","url":"https://store.steampowered.com/app/3689520/","label":"证据原文片段"},{"text":"24名角色各带不同技能，形成差异化开局与构筑方向","dimension":"玩法","excerpt":"• 24 unique characters with different skills","url":"https://store.steampowered.com/app/3689520/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":16101,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":16523,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2388,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":58934,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":202401,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":202401,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.9887154737362103,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1463,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.081911,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"弹幕射击、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/76c9c75c04673eac5442f903e19a809aa7c8d754/ss_76c9c75c04673eac5442f903e19a809aa7c8d754.1920x1080.jpg?t=1769062576","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/76c9c75c04673eac5442f903e19a809aa7c8d754/ss_76c9c75c04673eac5442f903e19a809aa7c8d754.1920x1080.jpg?t=1769062576","alt":"原点计划 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/85e75a2a5fcc17fa396468926e60e2623cf2e393/ss_85e75a2a5fcc17fa396468926e60e2623cf2e393.1920x1080.jpg?t=1769062576","alt":"原点计划 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/46f2784ea699fd14640dc8daaef90acf7b2491b1/ss_46f2784ea699fd14640dc8daaef90acf7b2491b1.1920x1080.jpg?t=1769062576","alt":"原点计划 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/9566be8fe4598fc9628c08089ad6c82a8587ea5b/ss_9566be8fe4598fc9628c08089ad6c82a8587ea5b.1920x1080.jpg?t=1769062576","alt":"原点计划 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Bioprototype",
+    "developers": [
+      "Emprom Game"
+    ],
+    "publishers": [
+      "Emprom Game"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-19",
+    "tags": [
+      "弹幕射击",
+      "动作角色扮演",
+      "轻度Rogue",
+      "卡组构筑",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用可视化编程自行设定技能触发逻辑",
+      "dimension": "玩法",
+      "excerpt": "• Set your own skill trigger logics",
+      "url": "https://store.steampowered.com/app/3689520/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集80种以上功能器官，拼出大量连锁组合",
+      "dimension": "玩法",
+      "excerpt": "• 80+ organs with different functions — Unlock unlimited combos universe",
+      "url": "https://store.steampowered.com/app/3689520/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "24名角色各带不同技能，形成差异化开局与构筑方向",
+      "dimension": "玩法",
+      "excerpt": "• 24 unique characters with different skills",
+      "url": "https://store.steampowered.com/app/3689520/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 16451,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 16621,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2391,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 56996,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 202710,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 202710,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.046718538650842,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 47,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.948579,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "原点计划位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/76c9c75c04673eac5442f903e19a809aa7c8d754/ss_76c9c75c04673eac5442f903e19a809aa7c8d754.1920x1080.jpg?t=1769062576",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/76c9c75c04673eac5442f903e19a809aa7c8d754/ss_76c9c75c04673eac5442f903e19a809aa7c8d754.1920x1080.jpg?t=1769062576",
+        "alt": "原点计划 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/85e75a2a5fcc17fa396468926e60e2623cf2e393/ss_85e75a2a5fcc17fa396468926e60e2623cf2e393.1920x1080.jpg?t=1769062576",
+        "alt": "原点计划 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/46f2784ea699fd14640dc8daaef90acf7b2491b1/ss_46f2784ea699fd14640dc8daaef90acf7b2491b1.1920x1080.jpg?t=1769062576",
+        "alt": "原点计划 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/9566be8fe4598fc9628c08089ad6c82a8587ea5b/ss_9566be8fe4598fc9628c08089ad6c82a8587ea5b.1920x1080.jpg?t=1769062576",
+        "alt": "原点计划 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/cbac4ca0b06c38fe41cf4bb64e57b55c3741c83f/ss_cbac4ca0b06c38fe41cf4bb64e57b55c3741c83f.1920x1080.jpg?t=1769062576",
+        "alt": "原点计划 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/b795351a90565f5826152ef1ab6cf540d77a1937/ss_b795351a90565f5826152ef1ab6cf540d77a1937.1920x1080.jpg?t=1769062576",
+        "alt": "原点计划 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/74166b91e2aacd53fd1f780c284961a498a2b721/ss_74166b91e2aacd53fd1f780c284961a498a2b721.1920x1080.jpg?t=1769062576",
+        "alt": "原点计划 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/b6fd9f6ecd4a7f445280c58085050d57dbe2b8f6/ss_b6fd9f6ecd4a7f445280c58085050d57dbe2b8f6.1920x1080.jpg?t=1769062576",
+        "alt": "原点计划 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

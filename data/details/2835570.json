@@ -1,1 +1,303 @@
-{"identity":{"original_title":"Buckshot Roulette","developers":["Mike Klubnika"],"publishers":["CRITICAL REFLEX"],"release_status":"released","release_date":"2024-04-04","tags":["多人游戏","黑暗风格","恐怖","第一人称","策略"]},"hooks":[{"text":"四人桌把霰弹枪轮盘变成谈判场，玩家可以讨价还价、求饶和背叛直到只剩赢家。","dimension":"玩法","excerpt":"Shoot Your Friends Take a seat at the new 4-way multiplayer table. Bargain. Beg. Betray. Become the ultimate victor. Walk away rich.","url":"https://store.steampowered.com/app/2835570/","label":"证据原文片段"},{"text":"标准流程约十五到二十分钟，要在三轮中与庄家对赌并争取带走奖金。","dimension":"玩法","excerpt":"Literally Mindblowing Gameplay 15 to 20-minute intense playtime. Enter the arena, go three rounds against The Dealer, and walk away with the prize. Or don't.","url":"https://store.steampowered.com/app/2835570/","label":"证据原文片段"},{"text":"Double or Nothing模式允许继续押上已有成果，把存活时间变成不断加码的风险。","dimension":"玩法","excerpt":"Double or Nothing Press your luck in the new Double or Nothing mode. How long can you last?","url":"https://store.steampowered.com/app/2835570/","label":"证据原文片段"}],"opinions":[{"text":"整体氛围是游戏表现最好的部分","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"做的最好的我觉得是氛围","url":"https://steamcommunity.com/id/yanushi_aki/recommended/2835570/","label":"证据原文片段"}]},{"text":"起搏器触发的Techno段落很爽","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"起搏器那一下techno很爽","url":"https://steamcommunity.com/id/yanushi_aki/recommended/2835570/","label":"证据原文片段"}]},{"text":"道具质量过度决定胜率","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"发放的道具质量至少决定了你8成的胜率","url":"https://steamcommunity.com/profiles/76561199237054169/recommended/2835570/","label":"证据原文片段"}]},{"text":"手机提示与实际子弹可能相反","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"实际子弹跟手机上提示的是相反的","url":"https://steamcommunity.com/id/yanushi_aki/recommended/2835570/","label":"证据原文片段"}]},{"text":"AI困境时疑似动态更换子弹，破坏公平性","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"当AI对手陷入困境的时候，玩家举枪甚至是扣下扳机的一瞬间，子弹类型会有概率被更换","url":"https://steamcommunity.com/profiles/76561198993125672/recommended/2835570/","label":"证据原文片段"}]},{"text":"道具分配良莠不齐，可能造成单方面虐杀","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"有时候发放的道具质量之差，大哥发放的道具质量之好，甚至到了被大哥一套带走","url":"https://steamcommunity.com/profiles/76561199237054169/recommended/2835570/","label":"证据原文片段"}]},{"text":"无道具时无脑对射成为唯一最优解","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"无脑对射就是唯一最优解","url":"https://steamcommunity.com/id/Swampew/recommended/2835570/","label":"证据原文片段"}]},{"text":"熟悉机制后迅速沦为枯燥的看脸玩法","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"迅速沦为枯燥乏味的纯看脸赌运气","url":"https://steamcommunity.com/id/Swampew/recommended/2835570/","label":"证据原文片段"}]},{"text":"模式和内容过少，整体寿命很短","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游戏只有教程和无尽两个模式，整体寿命大约2h","url":"https://steamcommunity.com/id/Swampew/recommended/2835570/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":7919955,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":776557,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":80942,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":16803072,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":8690150,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":8690150,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.3102410156607167,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":122587,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.218107,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["道具质量过度决定胜率","手机提示与实际子弹可能相反","AI困境时疑似动态更换子弹，破坏公平性","道具分配良莠不齐，可能造成单方面虐杀","无道具时无脑对射成为唯一最优解","熟悉机制后迅速沦为枯燥的看脸玩法"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_c9c2df013e1c2d1b97f2c5cce57c22c24efd5178.1920x1080.jpg?t=1783085442","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_c9c2df013e1c2d1b97f2c5cce57c22c24efd5178.1920x1080.jpg?t=1783085442","alt":"恶魔轮盘 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_aa132ad8e9bfc79d9ff5bd60e89e7f2d69af1d84.1920x1080.jpg?t=1783085442","alt":"恶魔轮盘 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_3ef4fc68827fa9ba6a713f314925c6d5d7a05d16.1920x1080.jpg?t=1783085442","alt":"恶魔轮盘 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_3644e6813bba9e87add09ad5e7b150bb9283a850.1920x1080.jpg?t=1783085442","alt":"恶魔轮盘 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Buckshot Roulette",
+    "developers": [
+      "Mike Klubnika"
+    ],
+    "publishers": [
+      "CRITICAL REFLEX"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-04",
+    "tags": [
+      "多人游戏",
+      "黑暗风格",
+      "轻度Rogue",
+      "恐怖",
+      "第一人称"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "四人桌把霰弹枪轮盘变成谈判场，玩家可以讨价还价、求饶和背叛直到只剩赢家。",
+      "dimension": "玩法",
+      "excerpt": "Shoot Your Friends Take a seat at the new 4-way multiplayer table. Bargain. Beg. Betray. Become the ultimate victor. Walk away rich.",
+      "url": "https://store.steampowered.com/app/2835570/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "标准流程约十五到二十分钟，要在三轮中与庄家对赌并争取带走奖金。",
+      "dimension": "玩法",
+      "excerpt": "Literally Mindblowing Gameplay 15 to 20-minute intense playtime. Enter the arena, go three rounds against The Dealer, and walk away with the prize. Or don't.",
+      "url": "https://store.steampowered.com/app/2835570/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Double or Nothing模式允许继续押上已有成果，把存活时间变成不断加码的风险。",
+      "dimension": "玩法",
+      "excerpt": "Double or Nothing Press your luck in the new Double or Nothing mode. How long can you last?",
+      "url": "https://store.steampowered.com/app/2835570/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "整体氛围是游戏表现最好的部分",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "做的最好的我觉得是氛围",
+          "url": "https://steamcommunity.com/id/yanushi_aki/recommended/2835570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "起搏器触发的Techno段落很爽",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "起搏器那一下techno很爽",
+          "url": "https://steamcommunity.com/id/yanushi_aki/recommended/2835570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "道具质量过度决定胜率",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "发放的道具质量至少决定了你8成的胜率",
+          "url": "https://steamcommunity.com/profiles/76561199237054169/recommended/2835570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "手机提示与实际子弹可能相反",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "实际子弹跟手机上提示的是相反的",
+          "url": "https://steamcommunity.com/id/yanushi_aki/recommended/2835570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "AI困境时疑似动态更换子弹，破坏公平性",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "当AI对手陷入困境的时候，玩家举枪甚至是扣下扳机的一瞬间，子弹类型会有概率被更换",
+          "url": "https://steamcommunity.com/profiles/76561198993125672/recommended/2835570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "道具分配良莠不齐，可能造成单方面虐杀",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "有时候发放的道具质量之差，大哥发放的道具质量之好，甚至到了被大哥一套带走",
+          "url": "https://steamcommunity.com/profiles/76561199237054169/recommended/2835570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "无道具时无脑对射成为唯一最优解",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "无脑对射就是唯一最优解",
+          "url": "https://steamcommunity.com/id/Swampew/recommended/2835570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "熟悉机制后迅速沦为枯燥的看脸玩法",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "迅速沦为枯燥乏味的纯看脸赌运气",
+          "url": "https://steamcommunity.com/id/Swampew/recommended/2835570/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "模式和内容过少，整体寿命很短",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游戏只有教程和无尽两个模式，整体寿命大约2h",
+          "url": "https://steamcommunity.com/id/Swampew/recommended/2835570/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 8069498,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 779876,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 81666,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 16971439,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8855446,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8855446,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.3007769420347457,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 108168,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.183309,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "道具质量过度决定胜率",
+    "手机提示与实际子弹可能相反",
+    "AI困境时疑似动态更换子弹，破坏公平性",
+    "道具分配良莠不齐，可能造成单方面虐杀",
+    "无道具时无脑对射成为唯一最优解",
+    "熟悉机制后迅速沦为枯燥的看脸玩法"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "恶魔轮盘位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_c9c2df013e1c2d1b97f2c5cce57c22c24efd5178.1920x1080.jpg?t=1783085442",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_c9c2df013e1c2d1b97f2c5cce57c22c24efd5178.1920x1080.jpg?t=1783085442",
+        "alt": "恶魔轮盘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_aa132ad8e9bfc79d9ff5bd60e89e7f2d69af1d84.1920x1080.jpg?t=1783085442",
+        "alt": "恶魔轮盘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_3ef4fc68827fa9ba6a713f314925c6d5d7a05d16.1920x1080.jpg?t=1783085442",
+        "alt": "恶魔轮盘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_3644e6813bba9e87add09ad5e7b150bb9283a850.1920x1080.jpg?t=1783085442",
+        "alt": "恶魔轮盘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_a1b2abfd4ca49b2d5982dbc5a5a9f2af905897fd.1920x1080.jpg?t=1783085442",
+        "alt": "恶魔轮盘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_d2a1e047a3e3834ca6a7583241c360afc67d0680.1920x1080.jpg?t=1783085442",
+        "alt": "恶魔轮盘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_787ccbb3af136c3fc60b3997d80f9fefe27a0bc2.1920x1080.jpg?t=1783085442",
+        "alt": "恶魔轮盘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/ss_002b57a42931b77edc27c37cb4764e40bb481681.1920x1080.jpg?t=1783085442",
+        "alt": "恶魔轮盘 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

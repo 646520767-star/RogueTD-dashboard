@@ -1,1 +1,318 @@
-{"identity":{"original_title":"The Gate Must Stand","developers":["Senmu Studio"],"publishers":["Gamersky Games","Yogscast Games"],"release_status":"released","release_date":"2026-06-18","tags":["动作肉鸽","砍杀","弹幕射击","即时战术","轻度Rogue"]},"hooks":[{"text":"先布置追随者再亲自并肩作战，让英雄和防线互相掩护","dimension":"玩法","excerpt":"Strategically place your followers, then fight alongside them as you cover each other, repel enemies, and combine your strength to unleash chaos across the field.","url":"https://store.steampowered.com/app/3975750/","label":"证据原文片段"},{"text":"盟友阵亡后可以复活重整，但城门一旦被毁整局立即结束","dimension":"玩法","excerpt":"your allies can revive and regroup after death, but the city gate’s demise is final.","url":"https://store.steampowered.com/app/3975750/","label":"证据原文片段"},{"text":"用恶魔Boss遗物把追随者进化为终极形态，逆转不断升级的攻势","dimension":"玩法","excerpt":"Each hard-won mystic relic can be used to evolve your followers into their ultimate forms, turning the tides of battle against ever-growing threats.","url":"https://store.steampowered.com/app/3975750/","label":"证据原文片段"}],"opinions":[{"text":"界面显得粗糙且操作笨拙","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The UI is also extremly clanky","url":"https://steamcommunity.com/id/sdfrog/recommended/3975750/","label":"证据原文片段"}]},{"text":"战斗视觉表现令人满意","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"satisfying combat visuals","url":"https://vaporlens.app/app/3975750/the_gate_must_stand","label":"证据原文片段"}]},{"text":"敌人攻击栅栏而不走预留缺口，使塔防策略失效","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"怪物并不会绕过栅栏走我留好的缺口，而是会尝试攻击栅栏，这让塔防策略荡然无存","url":"https://steamcommunity.com/profiles/76561198134605407/recommended/3975750/","label":"证据原文片段"}]},{"text":"高难度缺少有效策略解法","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Very repetitive game loop, and incredibly difficult at higher difficulties with no good strategies to get around it.","url":"https://steamcommunity.com/profiles/76561198047411409/recommended/3975750/","label":"证据原文片段"}]},{"text":"跨地图后主角成长重置，使前期推进缺少意义","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"三张地图打下来敌人在成长，主角每次直接回到解放前，所以前几张图打完的意义在哪","url":"https://steamcommunity.com/profiles/76561198100966718/recommended/3975750/","label":"证据原文片段"}]},{"text":"敌人有时会卡住不动","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Enemies get sometimes stuck on things and never move","url":"https://steamcommunity.com/id/sdfrog/recommended/3975750/","label":"证据原文片段"}]},{"text":"解锁越多会让构筑池更杂、成型更困难","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"解锁越多越杂，全解锁后成型难度大了一半","url":"https://steamcommunity.com/profiles/76561199867726475/recommended/3975750/","label":"证据原文片段"}]},{"text":"角色复活后缺少无敌保护，容易再次被秒杀","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"角色起来就秒，没有复活无敌保护","url":"https://steamcommunity.com/profiles/76561198100966718/recommended/3975750/","label":"证据原文片段"}]},{"text":"成型后会出现卡顿和掉帧","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"成型后却开始卡顿掉帧起来了","url":"https://steamcommunity.com/profiles/76561199867726475/recommended/3975750/","label":"证据原文片段"}]},{"text":"未获得主动技能时仍会出现无效的主动技能词条","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"没有抽到主动技能之前竟然能刷到主动技能加攻速、减CD的词条","url":"https://steamcommunity.com/profiles/76561198100966718/recommended/3975750/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":10026,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":24149,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1272,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":63645,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":10264,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":10264,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.476438271707242,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":181,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.662983,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["界面显得粗糙且操作笨拙","敌人攻击栅栏而不走预留缺口，使塔防策略失效","高难度缺少有效策略解法","跨地图后主角成长重置，使前期推进缺少意义","技术/性能：敌人有时会卡住不动","解锁越多会让构筑池更杂、成型更困难","技术/性能：成型后会出现卡顿和掉帧"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28/ss_8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28.1920x1080.jpg?t=1783315915","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28/ss_8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28.1920x1080.jpg?t=1783315915","alt":"城门血战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/11a4acd6c880ec4aeaf6d414335526ada5e53876/ss_11a4acd6c880ec4aeaf6d414335526ada5e53876.1920x1080.jpg?t=1783315915","alt":"城门血战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/a025e28951e9fb01fc33fe8af5259d5e53301dc2/ss_a025e28951e9fb01fc33fe8af5259d5e53301dc2.1920x1080.jpg?t=1783315915","alt":"城门血战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/d0a4143a39173d1b1975600da46283407c39f110/ss_d0a4143a39173d1b1975600da46283407c39f110.1920x1080.jpg?t=1783315915","alt":"城门血战 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Gate Must Stand",
+    "developers": [
+      "Senmu Studio"
+    ],
+    "publishers": [
+      "Gamersky Games",
+      "Yogscast Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-18",
+    "tags": [
+      "动作肉鸽",
+      "砍杀",
+      "弹幕射击",
+      "即时战术",
+      "塔防"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "先布置追随者再亲自并肩作战，让英雄和防线互相掩护",
+      "dimension": "玩法",
+      "excerpt": "Strategically place your followers, then fight alongside them as you cover each other, repel enemies, and combine your strength to unleash chaos across the field.",
+      "url": "https://store.steampowered.com/app/3975750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "盟友阵亡后可以复活重整，但城门一旦被毁整局立即结束",
+      "dimension": "玩法",
+      "excerpt": "your allies can revive and regroup after death, but the city gate’s demise is final.",
+      "url": "https://store.steampowered.com/app/3975750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用恶魔Boss遗物把追随者进化为终极形态，逆转不断升级的攻势",
+      "dimension": "玩法",
+      "excerpt": "Each hard-won mystic relic can be used to evolve your followers into their ultimate forms, turning the tides of battle against ever-growing threats.",
+      "url": "https://store.steampowered.com/app/3975750/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "界面显得粗糙且操作笨拙",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The UI is also extremly clanky",
+          "url": "https://steamcommunity.com/id/sdfrog/recommended/3975750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗视觉表现令人满意",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "satisfying combat visuals",
+          "url": "https://vaporlens.app/app/3975750/the_gate_must_stand",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人攻击栅栏而不走预留缺口，使塔防策略失效",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "怪物并不会绕过栅栏走我留好的缺口，而是会尝试攻击栅栏，这让塔防策略荡然无存",
+          "url": "https://steamcommunity.com/profiles/76561198134605407/recommended/3975750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高难度缺少有效策略解法",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Very repetitive game loop, and incredibly difficult at higher difficulties with no good strategies to get around it.",
+          "url": "https://steamcommunity.com/profiles/76561198047411409/recommended/3975750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "跨地图后主角成长重置，使前期推进缺少意义",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "三张地图打下来敌人在成长，主角每次直接回到解放前，所以前几张图打完的意义在哪",
+          "url": "https://steamcommunity.com/profiles/76561198100966718/recommended/3975750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人有时会卡住不动",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Enemies get sometimes stuck on things and never move",
+          "url": "https://steamcommunity.com/id/sdfrog/recommended/3975750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "解锁越多会让构筑池更杂、成型更困难",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "解锁越多越杂，全解锁后成型难度大了一半",
+          "url": "https://steamcommunity.com/profiles/76561199867726475/recommended/3975750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色复活后缺少无敌保护，容易再次被秒杀",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "角色起来就秒，没有复活无敌保护",
+          "url": "https://steamcommunity.com/profiles/76561198100966718/recommended/3975750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成型后会出现卡顿和掉帧",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "成型后却开始卡顿掉帧起来了",
+          "url": "https://steamcommunity.com/profiles/76561199867726475/recommended/3975750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "未获得主动技能时仍会出现无效的主动技能词条",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "没有抽到主动技能之前竟然能刷到主动技能加攻速、减CD的词条",
+          "url": "https://steamcommunity.com/profiles/76561198100966718/recommended/3975750/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 12017,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 21729,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1366,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 79765,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 12349,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 12349,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.310014695760083,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 200,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 79,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 79.52381,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "界面显得粗糙且操作笨拙",
+    "敌人攻击栅栏而不走预留缺口，使塔防策略失效",
+    "高难度缺少有效策略解法",
+    "跨地图后主角成长重置，使前期推进缺少意义",
+    "技术/性能：敌人有时会卡住不动",
+    "解锁越多会让构筑池更杂、成型更困难",
+    "技术/性能：成型后会出现卡顿和掉帧"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "城门血战位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28/ss_8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28.1920x1080.jpg?t=1783315915",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28/ss_8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28.1920x1080.jpg?t=1786527630",
+        "alt": "城门血战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/11a4acd6c880ec4aeaf6d414335526ada5e53876/ss_11a4acd6c880ec4aeaf6d414335526ada5e53876.1920x1080.jpg?t=1786527630",
+        "alt": "城门血战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/a025e28951e9fb01fc33fe8af5259d5e53301dc2/ss_a025e28951e9fb01fc33fe8af5259d5e53301dc2.1920x1080.jpg?t=1786527630",
+        "alt": "城门血战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/d0a4143a39173d1b1975600da46283407c39f110/ss_d0a4143a39173d1b1975600da46283407c39f110.1920x1080.jpg?t=1786527630",
+        "alt": "城门血战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/52c62240e56ed1c239598a848b391c1f797c5544/ss_52c62240e56ed1c239598a848b391c1f797c5544.1920x1080.jpg?t=1786527630",
+        "alt": "城门血战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/dd24fc5e36b6cd94c9b79542504c691454de8018/ss_dd24fc5e36b6cd94c9b79542504c691454de8018.1920x1080.jpg?t=1786527630",
+        "alt": "城门血战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/2670e5d8d7a5d53f710c813f61870f6537bfd1c2/ss_2670e5d8d7a5d53f710c813f61870f6537bfd1c2.1920x1080.jpg?t=1786527630",
+        "alt": "城门血战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/06b286130fbaebc8a505898ee59d90459a963a80/ss_06b286130fbaebc8a505898ee59d90459a963a80.1920x1080.jpg?t=1786527630",
+        "alt": "城门血战 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Trackline Express","developers":["Bubblebird Studio"],"publishers":["Bubblebird Studio"],"release_status":"released","release_date":"2024-04-18","tags":["动作肉鸽","休闲","生存","高难度","策略"]},"hooks":[{"text":"建造一列穿越沙漠的小火车，在驶向车站时保护乘客免受袭击和野火。","dimension":"玩法","excerpt":"Trackline Express is a train builder where you need to reach the stations while keeping your passenger safe from attacks and wildfires.","url":"https://store.steampowered.com/app/2343920/","label":"证据原文片段"},{"text":"采集木石矿煤并通过蓝图加工为建筑和装备，持续扩充列车生产与防御能力。","dimension":"玩法","excerpt":"Gather wood, rocks, ores, coal, and then transform them into various resources to create new buildings and equipment using blueprints that you unlock along the way.","url":"https://store.steampowered.com/app/2343920/","label":"证据原文片段"},{"text":"每日挑战提供全体玩家共享的新随机地图，用于反复挑战和好友比较。","dimension":"玩法","excerpt":"Every day, a new randomly generated map will be available for everyone, so you can challenge yourself and your friends!","url":"https://store.steampowered.com/app/2343920/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6705,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":43212,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2526,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":67742,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.132303110241565,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":145,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.986301,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、休闲","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_ed5673a6d8876ef58bf517a49f035e40e28158d5.1920x1080.jpg?t=1777038879","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_ed5673a6d8876ef58bf517a49f035e40e28158d5.1920x1080.jpg?t=1777038879","alt":"特快小火车 Trackline Express 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_704bb570f097a2b1b5134646cd1d9068d7bc9fc9.1920x1080.jpg?t=1777038879","alt":"特快小火车 Trackline Express 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_cf0714d8bc90955408ae15b13c15e9ffd7923033.1920x1080.jpg?t=1777038879","alt":"特快小火车 Trackline Express 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_3c2b49b543fbcb4be6646589f6dbda998deb4380.1920x1080.jpg?t=1777038879","alt":"特快小火车 Trackline Express 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Trackline Express",
+    "developers": [
+      "Bubblebird Studio"
+    ],
+    "publishers": [
+      "Bubblebird Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-18",
+    "tags": [
+      "动作肉鸽",
+      "卡组构筑",
+      "休闲",
+      "生存",
+      "高难度"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "建造一列穿越沙漠的小火车，在驶向车站时保护乘客免受袭击和野火。",
+      "dimension": "玩法",
+      "excerpt": "Trackline Express is a train builder where you need to reach the stations while keeping your passenger safe from attacks and wildfires.",
+      "url": "https://store.steampowered.com/app/2343920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "采集木石矿煤并通过蓝图加工为建筑和装备，持续扩充列车生产与防御能力。",
+      "dimension": "玩法",
+      "excerpt": "Gather wood, rocks, ores, coal, and then transform them into various resources to create new buildings and equipment using blueprints that you unlock along the way.",
+      "url": "https://store.steampowered.com/app/2343920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每日挑战提供全体玩家共享的新随机地图，用于反复挑战和好友比较。",
+      "dimension": "玩法",
+      "excerpt": "Every day, a new randomly generated map will be available for everyone, so you can challenge yourself and your friends!",
+      "url": "https://store.steampowered.com/app/2343920/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7952,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 43468,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2530,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 75993,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 9027,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 9027,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.096546358858381,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 122,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.07483,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "特快小火车 Trackline Express位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_ed5673a6d8876ef58bf517a49f035e40e28158d5.1920x1080.jpg?t=1777038879",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_ed5673a6d8876ef58bf517a49f035e40e28158d5.1920x1080.jpg?t=1777038879",
+        "alt": "特快小火车 Trackline Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_704bb570f097a2b1b5134646cd1d9068d7bc9fc9.1920x1080.jpg?t=1777038879",
+        "alt": "特快小火车 Trackline Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_cf0714d8bc90955408ae15b13c15e9ffd7923033.1920x1080.jpg?t=1777038879",
+        "alt": "特快小火车 Trackline Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_3c2b49b543fbcb4be6646589f6dbda998deb4380.1920x1080.jpg?t=1777038879",
+        "alt": "特快小火车 Trackline Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_0f65fbbd4cf4f44e755d10c5cf94d1e615db630b.1920x1080.jpg?t=1777038879",
+        "alt": "特快小火车 Trackline Express 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343920/ss_73564a1a6a19f89eeeaf7ef6d0368f0022def188.1920x1080.jpg?t=1777038879",
+        "alt": "特快小火车 Trackline Express 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

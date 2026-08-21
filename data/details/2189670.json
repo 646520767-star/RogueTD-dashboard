@@ -1,1 +1,174 @@
-{"identity":{"original_title":"The Black Pool","developers":["Smug Marmot Studios"],"publishers":["Smug Marmot Studios"],"release_status":"released","release_date":"2024-06-19","tags":["动作肉鸽","轻度Rogue","合作","类Rogue","玩家对环境"]},"hooks":[{"text":"每次回家之旅都会重排异世界顺序、能力供给和升级选择，形成数百万种组合","dimension":"玩法","excerpt":"This procedural sequence of worlds, offerings of abilities, and upgrades, yields a highly replayable roguelike sequence which ensures that every session is completely unique. There are millions of possibilities. Committing to decisions and improvising an effective build is core to the game.","url":"https://store.steampowered.com/app/2189670/","label":"证据原文片段"},{"text":"合作能力可重定向友方攻击、放大队友法术，并协调眩晕与增益产生真实联动","dimension":"玩法","excerpt":"Redirect friendly attacks, amplify each other's spells, coordinate stuns and buffs, and much more. In The Black Pool, co-op play is more than simply playing the game together— you are rewarded for actually working together to be successful.","url":"https://store.steampowered.com/app/2189670/","label":"证据原文片段"},{"text":"每次尝试都会解锁跨局永久强化，既提高基础实力也开放新的玩法路线","dimension":"玩法","excerpt":"In addition, you unlock permanent enhancements that persist across playthrough attempts which make you stronger, and also enable varied play styles.","url":"https://store.steampowered.com/app/2189670/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3001,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":19064,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1388,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":36543,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3309,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3309,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.770134620387574,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":128,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.15625,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_3c92916d2d0d6a2f346d6e02bb73c169cdbbdd34.1920x1080.jpg?t=1756790364","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_3c92916d2d0d6a2f346d6e02bb73c169cdbbdd34.1920x1080.jpg?t=1756790364","alt":"The Black Pool 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_b11d6aa8ef95fdd17b58807706a55dbbf533ec18.1920x1080.jpg?t=1756790364","alt":"The Black Pool 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_99b9e21bcf324cb2941bf00dbd8eea3b66823a38.1920x1080.jpg?t=1756790364","alt":"The Black Pool 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_bd70f6b9d387601cdcedf64830a5b05fcfbadfc5.1920x1080.jpg?t=1756790364","alt":"The Black Pool 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Black Pool",
+    "developers": [
+      "Smug Marmot Studios"
+    ],
+    "publishers": [
+      "Smug Marmot Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2024-06-19",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "合作",
+      "类Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每次回家之旅都会重排异世界顺序、能力供给和升级选择，形成数百万种组合",
+      "dimension": "玩法",
+      "excerpt": "This procedural sequence of worlds, offerings of abilities, and upgrades, yields a highly replayable roguelike sequence which ensures that every session is completely unique. There are millions of possibilities. Committing to decisions and improvising an effective build is core to the game.",
+      "url": "https://store.steampowered.com/app/2189670/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "合作能力可重定向友方攻击、放大队友法术，并协调眩晕与增益产生真实联动",
+      "dimension": "玩法",
+      "excerpt": "Redirect friendly attacks, amplify each other's spells, coordinate stuns and buffs, and much more. In The Black Pool, co-op play is more than simply playing the game together— you are rewarded for actually working together to be successful.",
+      "url": "https://store.steampowered.com/app/2189670/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次尝试都会解锁跨局永久强化，既提高基础实力也开放新的玩法路线",
+      "dimension": "玩法",
+      "excerpt": "In addition, you unlock permanent enhancements that persist across playthrough attempts which make you stronger, and also enable varied play styles.",
+      "url": "https://store.steampowered.com/app/2189670/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4167,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 19177,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1387,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 48092,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4594,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4594,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.613309209315608,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 111,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.15625,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "The Black Pool位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_3c92916d2d0d6a2f346d6e02bb73c169cdbbdd34.1920x1080.jpg?t=1756790364",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_3c92916d2d0d6a2f346d6e02bb73c169cdbbdd34.1920x1080.jpg?t=1756790364",
+        "alt": "The Black Pool 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_b11d6aa8ef95fdd17b58807706a55dbbf533ec18.1920x1080.jpg?t=1756790364",
+        "alt": "The Black Pool 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_99b9e21bcf324cb2941bf00dbd8eea3b66823a38.1920x1080.jpg?t=1756790364",
+        "alt": "The Black Pool 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_bd70f6b9d387601cdcedf64830a5b05fcfbadfc5.1920x1080.jpg?t=1756790364",
+        "alt": "The Black Pool 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_9c4aad9367c5b7086bf664b6d78313ba1843bbea.1920x1080.jpg?t=1756790364",
+        "alt": "The Black Pool 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_52f937bff77541a90680263cf7aa188222a7b6af.1920x1080.jpg?t=1756790364",
+        "alt": "The Black Pool 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189670/ss_be92498dbee89dcfebcdaf4588b90ec974b1bdf4.1920x1080.jpg?t=1756790364",
+        "alt": "The Black Pool 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

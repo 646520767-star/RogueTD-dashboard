@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "original_title": "Bills Must Be Paid",
+    "developers": [
+      "Rike Games"
+    ],
+    "publishers": [
+      "Rike Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-29",
+    "tags": [
+      "增量成长",
+      "经营管理",
+      "轻度Rogue",
+      "策略",
+      "休闲放松"
+    ]
+  },
+  "hooks": [],
+  "opinions": [
+    {
+      "text": "在增量这种一路爽的玩法中加入幸运房东玩法，不得不说算个败笔。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "在增量这种一路爽的玩法中加入幸运房东玩法，不得不说算个败笔。",
+          "url": "https://steamcommunity.com/profiles/76561198308073510/recommended/4421010/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "甜品级的增量小游戏，就这个敲钱罐爽，要是后续可以更新其他玩法就好了",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "甜品级的增量小游戏，就这个敲钱罐爽，要是后续可以更新其他玩法就好了",
+          "url": "https://steamcommunity.com/profiles/76561199122673447/recommended/4421010/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "增量+砸罐子，虽有局外成长也能在三轮以内通关，爽！",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "增量+砸罐子，虽有局外成长也能在三轮以内通关，爽！",
+          "url": "https://steamcommunity.com/profiles/76561198402411075/recommended/4421010/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "带有微量肉鸽元素的增量游戏，操作简单，只需要敲罐子，但是爽感非常足，数不尽的钱币和宝石从罐子里喷涌而出，伴随着存钱罐破碎的清脆响声，简直是视听盛宴，作者太懂增量游戏的爽点了",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "带有微量肉鸽元素的增量游戏，操作简单，只需要敲罐子，但是爽感非常足，数不尽的钱币和宝石从罐子里喷涌而出，伴随着存钱罐破碎的清脆响声，简直是视听盛宴，作者太懂增量游戏的爽点了",
+          "url": "https://steamcommunity.com/profiles/76561198833928700/recommended/4421010/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A charming incremental experience with rewarding progression and a goofy premise that never takes itself too seriously.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A charming incremental experience with rewarding progression and a goofy premise that never takes itself too seriously.",
+          "url": "https://store.steampowered.com/curator/45452122-What%25E2%2580%2599s-the-Score/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Play Bills Must Be Paid, an exciting and engaging game with immersive graphics and gameplay challenges.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Play Bills Must Be Paid, an exciting and engaging game with immersive graphics and gameplay challenges.",
+          "url": "https://store.steampowered.com/curator/44961819-Free-Game-Demo-under-1GB/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Amazing metaprogression and great gameplay loop but it's too short I did the 100 % achivemements in 5 hours so I cry because I end it too soon 9.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Amazing metaprogression and great gameplay loop but it's too short I did the 100 % achivemements in 5 hours so I cry because I end it too soon 9.",
+          "url": "https://store.steampowered.com/curator/38624426-Hidden-Gems-Review/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Combined with well-balanced roguelite progression, it's a short but satisfying experience.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Combined with well-balanced roguelite progression, it's a short but satisfying experience.",
+          "url": "https://store.steampowered.com/curator/36212671-TarYosh%2528T.T.%2529-Review%255BENG%255D/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 374633,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 145751,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4636,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1587351,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 380347,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 380347,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.356085111320027,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 7022,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.988115,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Bills Must Be Paid位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/03bff9601fc4f1796f799317b010f19170b1397d/ss_03bff9601fc4f1796f799317b010f19170b1397d.1920x1080.jpg?t=1784628463",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/03bff9601fc4f1796f799317b010f19170b1397d/ss_03bff9601fc4f1796f799317b010f19170b1397d.1920x1080.jpg?t=1786871377",
+        "alt": "Bills Must Be Paid 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/bb92fbe8896068515360753e515ba10e869b0e00/ss_bb92fbe8896068515360753e515ba10e869b0e00.1920x1080.jpg?t=1786871377",
+        "alt": "Bills Must Be Paid 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/8e1baa6b9a856fb7d39b6cc7ee702fa8197e3382/ss_8e1baa6b9a856fb7d39b6cc7ee702fa8197e3382.1920x1080.jpg?t=1786871377",
+        "alt": "Bills Must Be Paid 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/c13ad0a0b94ea950544e939fbd6a0df36415eea7/ss_c13ad0a0b94ea950544e939fbd6a0df36415eea7.1920x1080.jpg?t=1786871377",
+        "alt": "Bills Must Be Paid 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/448fda974521a079626102b7df213e1a4e366c3c/ss_448fda974521a079626102b7df213e1a4e366c3c.1920x1080.jpg?t=1786871377",
+        "alt": "Bills Must Be Paid 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/d93be0a0d4523b190570e770f1c808e3e23373b3/ss_d93be0a0d4523b190570e770f1c808e3e23373b3.1920x1080.jpg?t=1786871377",
+        "alt": "Bills Must Be Paid 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/f3c2831aa6c62d9544b0b6932cc95b6d3bc27b5d/ss_f3c2831aa6c62d9544b0b6932cc95b6d3bc27b5d.1920x1080.jpg?t=1786871377",
+        "alt": "Bills Must Be Paid 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/4c6a5d77abdad4dee0df97df2fd2d3211d311486/ss_4c6a5d77abdad4dee0df97df2fd2d3211d311486.1920x1080.jpg?t=1786871377",
+        "alt": "Bills Must Be Paid 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

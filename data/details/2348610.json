@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Slime 3K: Rise Against Despot","developers":["Konfa Games"],"publishers":["tinyBuild"],"release_status":"released","release_date":"2024-10-31","tags":["动作肉鸽","弹幕射击","轻度Rogue","卡组构筑","类Rogue"]},"hooks":[{"text":"把AutoChess式商店与TCG牌组构筑加入Survivor公式","dimension":"玩法","excerpt":"By introducing a shop straight out of AutoChess and some TCG deckbuilding mechanics to the familiar formula, we created what we've dubbed our perfect abomination: Slime 3K.","url":"https://store.steampowered.com/app/2348610/","label":"证据原文片段"},{"text":"解锁、升级并混搭武器与特质卡，为每轮组出独立血洗载荷","dimension":"玩法","excerpt":"DECKBUILDING MEETS MEATGRINDING Slime 3K adds strategic depth and more creative experimentation to the survivor-like formula by introducing a deep deckbuilding system. Unlock, upgrade, mix and match your cards to stock up an impressive arsenal of zany weapons and traits. Create the perfect bloodbath loadout for each run!","url":"https://store.steampowered.com/app/2348610/","label":"证据原文片段"},{"text":"敌人每分钟变强，玩家可用电击、酸液、AK-47、僵尸或爆炸西瓜同步升级清场","dimension":"玩法","excerpt":"SURVIVE THE ONSLAUGHT Your enemies get stronger every minute, and so should you! Explore tons of fun approaches to good ol' annihilation — electrocute everyone, throw acid on the floor, mow down puny humans with an AK-47, summon zombies, or throw explosive watermelons!","url":"https://store.steampowered.com/app/2348610/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":137299,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":99134,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6397,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":496544,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":144791,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":144791,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.146458253422975,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1691,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":79.834418,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_8fcfd2262199bce0af3be308693cc25111070dc7.1920x1080.jpg?t=1781544012","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_8fcfd2262199bce0af3be308693cc25111070dc7.1920x1080.jpg?t=1781544012","alt":"Slime 3K: Rise Against Despot 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_88c9cb18ad45f79d2d54da1880aa1febbcc445cd.1920x1080.jpg?t=1781544012","alt":"Slime 3K: Rise Against Despot 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_1c7223b44643cd0670e6079f7b9e93af5a67092b.1920x1080.jpg?t=1781544012","alt":"Slime 3K: Rise Against Despot 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_9308279a5d3c7350799518d4bd7cb10c132daeb8.1920x1080.jpg?t=1781544012","alt":"Slime 3K: Rise Against Despot 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Slime 3K: Rise Against Despot",
+    "developers": [
+      "Konfa Games"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-31",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "轻度Rogue",
+      "卡组构筑",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把AutoChess式商店与TCG牌组构筑加入Survivor公式",
+      "dimension": "玩法",
+      "excerpt": "By introducing a shop straight out of AutoChess and some TCG deckbuilding mechanics to the familiar formula, we created what we've dubbed our perfect abomination: Slime 3K.",
+      "url": "https://store.steampowered.com/app/2348610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "解锁、升级并混搭武器与特质卡，为每轮组出独立血洗载荷",
+      "dimension": "玩法",
+      "excerpt": "DECKBUILDING MEETS MEATGRINDING Slime 3K adds strategic depth and more creative experimentation to the survivor-like formula by introducing a deep deckbuilding system. Unlock, upgrade, mix and match your cards to stock up an impressive arsenal of zany weapons and traits. Create the perfect bloodbath loadout for each run!",
+      "url": "https://store.steampowered.com/app/2348610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "敌人每分钟变强，玩家可用电击、酸液、AK-47、僵尸或爆炸西瓜同步升级清场",
+      "dimension": "玩法",
+      "excerpt": "SURVIVE THE ONSLAUGHT Your enemies get stronger every minute, and so should you! Explore tons of fun approaches to good ol' annihilation — electrocute everyone, throw acid on the floor, mow down puny humans with an AK-47, summon zombies, or throw explosive watermelons!",
+      "url": "https://store.steampowered.com/app/2348610/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 142867,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 98443,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6403,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 479193,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 150726,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 150726,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.125268098140218,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1578,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 79.706745,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Slime 3K: Rise Against Despot位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_8fcfd2262199bce0af3be308693cc25111070dc7.1920x1080.jpg?t=1781544012",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_8fcfd2262199bce0af3be308693cc25111070dc7.1920x1080.jpg?t=1781544012",
+        "alt": "Slime 3K: Rise Against Despot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_88c9cb18ad45f79d2d54da1880aa1febbcc445cd.1920x1080.jpg?t=1781544012",
+        "alt": "Slime 3K: Rise Against Despot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_1c7223b44643cd0670e6079f7b9e93af5a67092b.1920x1080.jpg?t=1781544012",
+        "alt": "Slime 3K: Rise Against Despot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_9308279a5d3c7350799518d4bd7cb10c132daeb8.1920x1080.jpg?t=1781544012",
+        "alt": "Slime 3K: Rise Against Despot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_4fa578fc6a7616f28f0f25d2f79e21aa9ef2f1d0.1920x1080.jpg?t=1781544012",
+        "alt": "Slime 3K: Rise Against Despot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_460825c2543143e149decb29d461bc2def6d9ae4.1920x1080.jpg?t=1781544012",
+        "alt": "Slime 3K: Rise Against Despot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_6963e85f12ed454d1e3b9402650b9747e612b61f.1920x1080.jpg?t=1781544012",
+        "alt": "Slime 3K: Rise Against Despot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348610/ss_7e754a0ec3a413216759f9747eb195dded244e08.1920x1080.jpg?t=1781544012",
+        "alt": "Slime 3K: Rise Against Despot 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

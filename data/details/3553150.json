@@ -1,1 +1,316 @@
-{"identity":{"original_title":"The Cascadier","developers":["Enchanted Arcade"],"publishers":["Enchanted Arcade"],"release_status":"early_access","release_date":"2026-06-06","tags":["抢先体验","肉鸽卡组构筑","街机","解谜","策略"]},"hooks":[{"text":"把元素能力充入硬币后投入不断演化的弹珠机柜，用物理碰撞触发爆炸连锁。","dimension":"玩法","excerpt":"Charge coins with elemental abilities, drop them into evolving pinball-style cabinets, and trigger explosive chain reactions.","url":"https://store.steampowered.com/app/3553150/","label":"证据原文片段"},{"text":"每轮赚取 tickets 解锁机台内 Trinket，并在技能树中永久升级后叠加成跨局构筑。","dimension":"玩法","excerpt":"Earn tickets with every run to unlock Trinkets hidden across the machines. Each one grants elemental-infused bonuses you can upgrade permanently through a skill tree, ensuring long-term progression. Stack multiple Trinkets to forge stronger builds and push toward the final machine where Fortuna, the Goddess of Fortune, awaits.","url":"https://store.steampowered.com/app/3553150/","label":"证据原文片段"},{"text":"首枚硬币会随取回次数获得经验并永久进化，每轮结束前必须把它从机台赢回来。","dimension":"玩法","excerpt":"The very first coin Fortuna gives you is unlike any other. It gains experience each time you win it back out of the machine , permanently unlocking new powers as it grows. This coin journeys through every cabinet, evolving with you across runs. To level it up, you’ll need to win it back before each round ends —a risky challenge that makes every playthrough feel fresh.","url":"https://store.steampowered.com/app/3553150/","label":"证据原文片段"}],"opinions":[{"text":"循环音乐令人印象深刻","dimension":"音频","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"looping (earworm worthy) music","url":"https://steamcommunity.com/id/kidneyattic/recommended/3553150/","label":"证据原文片段"}]},{"text":"独特而克制的美术风格受到喜欢","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"a unique but not overbearing art style","url":"https://steamcommunity.com/id/kidneyattic/recommended/3553150/","label":"证据原文片段"}]},{"text":"画面是游戏最受肯定的部分","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The graphics are probably the best part I think.","url":"https://steamcommunity.com/id/PlayerDeer/recommended/3553150/","label":"证据原文片段"}]},{"text":"硬币容易卡住，导致玩家只能继续投币","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Coins get stuck everywhere and you can literally do nothing but drop more.","url":"https://steamcommunity.com/id/lysinlol/recommended/3553150/","label":"证据原文片段"}]},{"text":"升级推进速度偏慢","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Progress on upgrades is fairly slow","url":"https://steamcommunity.com/id/kidneyattic/recommended/3553150/","label":"证据原文片段"}]},{"text":"Euphoria期间硬币会卡在侧边槽中","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a bug where the coins get stuck in the side chutes during Euphoria","url":"https://steamcommunity.com/profiles/76561198122934453/recommended/3553150/","label":"证据原文片段"}]},{"text":"教程初始目标要求不合理","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the tutorial starts off at needing 600 points to progress with 25 coins","url":"https://steamcommunity.com/id/lysinlol/recommended/3553150/","label":"证据原文片段"}]},{"text":"第二台机器的难度偏高","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"I do think the 2nd machine is a bit hard","url":"https://steamcommunity.com/profiles/76561198122934453/recommended/3553150/","label":"证据原文片段"}]},{"text":"完美对齐牌组后触发的连锁效果非常畅快","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"When you finally align your deck perfectly, the resulting cascade is glorious.","url":"https://store.steampowered.com/curator/44996858-Democracy-Brothers/","label":"证据原文片段"}]},{"text":"元素协同能制造狂野的清屏效果","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Mixing fireballs with windy blasts creates some truly wild screen-clearing effects.","url":"https://store.steampowered.com/curator/45006237-Magnum-Opus-Dreamers/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":102,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":86,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":870,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":157,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":157,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.238882446413877,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":8,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":75,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["技术/性能：硬币容易卡住，导致玩家只能继续投币","升级推进速度偏慢","技术/性能：Euphoria期间硬币会卡在侧边槽中","教程初始目标要求不合理","第二台机器的难度偏高","截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/ded83ca6a365f6bd4333960cc0cffd53e40ab446/ss_ded83ca6a365f6bd4333960cc0cffd53e40ab446.1920x1080.jpg?t=1780772400","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/ded83ca6a365f6bd4333960cc0cffd53e40ab446/ss_ded83ca6a365f6bd4333960cc0cffd53e40ab446.1920x1080.jpg?t=1780772400","alt":"The Cascadier 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/ca40cbea5492ece6893f203fa63bf6ff4eb44046/ss_ca40cbea5492ece6893f203fa63bf6ff4eb44046.1920x1080.jpg?t=1780772400","alt":"The Cascadier 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/ff8ce34a0e7d45fd563e9c190a30505f075ab3df/ss_ff8ce34a0e7d45fd563e9c190a30505f075ab3df.1920x1080.jpg?t=1780772400","alt":"The Cascadier 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/c74640bec3142d96b70a2589ee3c31cbdc913a96/ss_c74640bec3142d96b70a2589ee3c31cbdc913a96.1920x1080.jpg?t=1780772400","alt":"The Cascadier 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Cascadier",
+    "developers": [
+      "Enchanted Arcade"
+    ],
+    "publishers": [
+      "Enchanted Arcade"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-06",
+    "tags": [
+      "抢先体验",
+      "肉鸽卡组构筑",
+      "街机",
+      "解谜",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把元素能力充入硬币后投入不断演化的弹珠机柜，用物理碰撞触发爆炸连锁。",
+      "dimension": "玩法",
+      "excerpt": "Charge coins with elemental abilities, drop them into evolving pinball-style cabinets, and trigger explosive chain reactions.",
+      "url": "https://store.steampowered.com/app/3553150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮赚取 tickets 解锁机台内 Trinket，并在技能树中永久升级后叠加成跨局构筑。",
+      "dimension": "玩法",
+      "excerpt": "Earn tickets with every run to unlock Trinkets hidden across the machines. Each one grants elemental-infused bonuses you can upgrade permanently through a skill tree, ensuring long-term progression. Stack multiple Trinkets to forge stronger builds and push toward the final machine where Fortuna, the Goddess of Fortune, awaits.",
+      "url": "https://store.steampowered.com/app/3553150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "首枚硬币会随取回次数获得经验并永久进化，每轮结束前必须把它从机台赢回来。",
+      "dimension": "玩法",
+      "excerpt": "The very first coin Fortuna gives you is unlike any other. It gains experience each time you win it back out of the machine , permanently unlocking new powers as it grows. This coin journeys through every cabinet, evolving with you across runs. To level it up, you’ll need to win it back before each round ends —a risky challenge that makes every playthrough feel fresh.",
+      "url": "https://store.steampowered.com/app/3553150/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "循环音乐令人印象深刻",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "looping (earworm worthy) music",
+          "url": "https://steamcommunity.com/id/kidneyattic/recommended/3553150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "独特而克制的美术风格受到喜欢",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a unique but not overbearing art style",
+          "url": "https://steamcommunity.com/id/kidneyattic/recommended/3553150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "画面是游戏最受肯定的部分",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The graphics are probably the best part I think.",
+          "url": "https://steamcommunity.com/id/PlayerDeer/recommended/3553150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "硬币容易卡住，导致玩家只能继续投币",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Coins get stuck everywhere and you can literally do nothing but drop more.",
+          "url": "https://steamcommunity.com/id/lysinlol/recommended/3553150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "升级推进速度偏慢",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Progress on upgrades is fairly slow",
+          "url": "https://steamcommunity.com/id/kidneyattic/recommended/3553150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Euphoria期间硬币会卡在侧边槽中",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a bug where the coins get stuck in the side chutes during Euphoria",
+          "url": "https://steamcommunity.com/profiles/76561198122934453/recommended/3553150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "教程初始目标要求不合理",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the tutorial starts off at needing 600 points to progress with 25 coins",
+          "url": "https://steamcommunity.com/id/lysinlol/recommended/3553150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "第二台机器的难度偏高",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "I do think the 2nd machine is a bit hard",
+          "url": "https://steamcommunity.com/profiles/76561198122934453/recommended/3553150/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "完美对齐牌组后触发的连锁效果非常畅快",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "When you finally align your deck perfectly, the resulting cascade is glorious.",
+          "url": "https://store.steampowered.com/curator/44996858-Democracy-Brothers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "元素协同能制造狂野的清屏效果",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Mixing fireballs with windy blasts creates some truly wild screen-clearing effects.",
+          "url": "https://store.steampowered.com/curator/45006237-Magnum-Opus-Dreamers/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 101,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 87,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 856,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 155,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 155,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.2388824464138772,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 4,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 75,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "技术/性能：硬币容易卡住，导致玩家只能继续投币",
+    "升级推进速度偏慢",
+    "技术/性能：Euphoria期间硬币会卡在侧边槽中",
+    "教程初始目标要求不合理",
+    "第二台机器的难度偏高",
+    "截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "The Cascadier位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/ded83ca6a365f6bd4333960cc0cffd53e40ab446/ss_ded83ca6a365f6bd4333960cc0cffd53e40ab446.1920x1080.jpg?t=1780772400",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/ded83ca6a365f6bd4333960cc0cffd53e40ab446/ss_ded83ca6a365f6bd4333960cc0cffd53e40ab446.1920x1080.jpg?t=1780772400",
+        "alt": "The Cascadier 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/ca40cbea5492ece6893f203fa63bf6ff4eb44046/ss_ca40cbea5492ece6893f203fa63bf6ff4eb44046.1920x1080.jpg?t=1780772400",
+        "alt": "The Cascadier 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/ff8ce34a0e7d45fd563e9c190a30505f075ab3df/ss_ff8ce34a0e7d45fd563e9c190a30505f075ab3df.1920x1080.jpg?t=1780772400",
+        "alt": "The Cascadier 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/c74640bec3142d96b70a2589ee3c31cbdc913a96/ss_c74640bec3142d96b70a2589ee3c31cbdc913a96.1920x1080.jpg?t=1780772400",
+        "alt": "The Cascadier 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/5eda6ef51ac8407fd5eab2ab160e943d231ef82e/ss_5eda6ef51ac8407fd5eab2ab160e943d231ef82e.1920x1080.jpg?t=1780772400",
+        "alt": "The Cascadier 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/fadaadfd2c2946501db382b4ebb4141100f51b13/ss_fadaadfd2c2946501db382b4ebb4141100f51b13.1920x1080.jpg?t=1780772400",
+        "alt": "The Cascadier 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/bd29f51d29056568b3980f94965cfc6d905956e2/ss_bd29f51d29056568b3980f94965cfc6d905956e2.1920x1080.jpg?t=1780772400",
+        "alt": "The Cascadier 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553150/4a48eaab88927a27ba46a5eb4cf353465e360135/ss_4a48eaab88927a27ba46a5eb4cf353465e360135.1920x1080.jpg?t=1780772400",
+        "alt": "The Cascadier 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

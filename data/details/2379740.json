@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Wizardry Variants Daphne","developers":["Drecom Co., Ltd."],"publishers":["Drecom Co., Ltd."],"release_status":"released","release_date":"2025-03-05","tags":["角色扮演","地牢探索","三维画面","探索","黑暗风格"]},"hooks":[{"text":"职业与种族组合塑造独特冒险队友","dimension":"玩法","excerpt":"Experience an adventure of your very own with unique allies based on combinations of classes and races.","url":"https://store.steampowered.com/app/2379740/","label":"证据原文片段"},{"text":"高难迷宫以致命陷阱和强敌施压","dimension":"玩法","excerpt":"Perilous traps and mighty foes await in the dungeon. Take on a high difficulty that only Wizardry can offer.","url":"https://store.steampowered.com/app/2379740/","label":"证据原文片段"},{"text":"失踪国王令百年深渊吞噬世界","dimension":"故事","excerpt":"Inheriting the power to seal the Abyss over generations, kings have continued to protect the kingdom from its curse. But now, the king has vanished, and the world is being consumed by death, moment by moment.","url":"https://store.steampowered.com/app/2379740/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":207775,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27961,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7863,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":10329253,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":207775,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":207775,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":42.90868078415165,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3675,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":57,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":56.952381,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为56.952381%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/03ab75854a7e08cfb841b8267205c91b01975300/ss_03ab75854a7e08cfb841b8267205c91b01975300.1920x1080.jpg?t=1772694401","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/03ab75854a7e08cfb841b8267205c91b01975300/ss_03ab75854a7e08cfb841b8267205c91b01975300.1920x1080.jpg?t=1772694401","alt":"Wizardry Variants Daphne 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/945faa41d3d8eab5160db1f007b9f9e48371451f/ss_945faa41d3d8eab5160db1f007b9f9e48371451f.1920x1080.jpg?t=1772694401","alt":"Wizardry Variants Daphne 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/bf95423d4d63d9cb7f52d6b861597f240c7763a8/ss_bf95423d4d63d9cb7f52d6b861597f240c7763a8.1920x1080.jpg?t=1772694401","alt":"Wizardry Variants Daphne 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/86c09bbad8bd6749c1f5010a4d16ba815f58d442/ss_86c09bbad8bd6749c1f5010a4d16ba815f58d442.1920x1080.jpg?t=1772694401","alt":"Wizardry Variants Daphne 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Wizardry Variants Daphne",
+    "developers": [
+      "Drecom Co., Ltd."
+    ],
+    "publishers": [
+      "Drecom Co., Ltd."
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-05",
+    "tags": [
+      "角色扮演",
+      "地牢探索",
+      "类Rogue",
+      "三维画面",
+      "探索"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "职业与种族组合塑造独特冒险队友",
+      "dimension": "玩法",
+      "excerpt": "Experience an adventure of your very own with unique allies based on combinations of classes and races.",
+      "url": "https://store.steampowered.com/app/2379740/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "高难迷宫以致命陷阱和强敌施压",
+      "dimension": "玩法",
+      "excerpt": "Perilous traps and mighty foes await in the dungeon. Take on a high difficulty that only Wizardry can offer.",
+      "url": "https://store.steampowered.com/app/2379740/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "失踪国王令百年深渊吞噬世界",
+      "dimension": "故事",
+      "excerpt": "Inheriting the power to seal the Abyss over generations, kings have continued to protect the kingdom from its curse. But now, the king has vanished, and the world is being consumed by death, moment by moment.",
+      "url": "https://store.steampowered.com/app/2379740/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 224573,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 29405,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7992,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 10681582,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 224573,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 224573,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 41.48008904144371,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3771,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 57,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 57.082228,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为56.952381%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Wizardry Variants Daphne位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/03ab75854a7e08cfb841b8267205c91b01975300/ss_03ab75854a7e08cfb841b8267205c91b01975300.1920x1080.jpg?t=1772694401",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/03ab75854a7e08cfb841b8267205c91b01975300/ss_03ab75854a7e08cfb841b8267205c91b01975300.1920x1080.jpg?t=1772694401",
+        "alt": "Wizardry Variants Daphne 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/945faa41d3d8eab5160db1f007b9f9e48371451f/ss_945faa41d3d8eab5160db1f007b9f9e48371451f.1920x1080.jpg?t=1772694401",
+        "alt": "Wizardry Variants Daphne 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/bf95423d4d63d9cb7f52d6b861597f240c7763a8/ss_bf95423d4d63d9cb7f52d6b861597f240c7763a8.1920x1080.jpg?t=1772694401",
+        "alt": "Wizardry Variants Daphne 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/86c09bbad8bd6749c1f5010a4d16ba815f58d442/ss_86c09bbad8bd6749c1f5010a4d16ba815f58d442.1920x1080.jpg?t=1772694401",
+        "alt": "Wizardry Variants Daphne 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/2e7e300706b14cf3b24e7a5714a7f22bea797222/ss_2e7e300706b14cf3b24e7a5714a7f22bea797222.1920x1080.jpg?t=1772694401",
+        "alt": "Wizardry Variants Daphne 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/ss_84e0d7a901e4a6ab685a6800ffe2fe678703a6cb.1920x1080.jpg?t=1772694401",
+        "alt": "Wizardry Variants Daphne 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/7380f1becae4221318a0b99496cc189889222b65/ss_7380f1becae4221318a0b99496cc189889222b65.1920x1080.jpg?t=1772694401",
+        "alt": "Wizardry Variants Daphne 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379740/7fbfbaf997c4fc4043b29c653eb94d1e8b5afdf7/ss_7fbfbaf997c4fc4043b29c653eb94d1e8b5afdf7.1920x1080.jpg?t=1772694401",
+        "alt": "Wizardry Variants Daphne 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

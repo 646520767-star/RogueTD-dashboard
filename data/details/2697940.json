@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Ascend to ZERO","developers":["Flyway Games, Inc."],"publishers":["Flyway Games, Inc.","KRAFTON, Inc."],"release_status":"released","release_date":"2026-07-13","tags":["轻度Rogue","动作肉鸽","弹幕射击","砍杀","永久死亡"]},"hooks":[{"text":"主动冻结时间，把整个战场节奏变成自己的武器","dimension":"玩法","excerpt":"Ascend to ZERO is a time-bending action-roguelike where you can use your unique ability to freeze time and fight your way to the top.","url":"https://store.steampowered.com/app/2697940/","label":"证据原文片段"},{"text":"技能、芯片、能力、属性和武器共同扩张时间化身的军械库","dimension":"玩法","excerpt":"Unlock a variety of skills, chips and abilities to become a force to be reckoned with! Increase your stats, enhance your awesome weapons, and upgrade your massive arsenal of gear to be the ultimate avatar of time!","url":"https://store.steampowered.com/app/2697940/","label":"证据原文片段"},{"text":"可走玻璃大炮剑士或高速远程射手两种鲜明方向","dimension":"玩法","excerpt":"Want to be a glass-cannon swordsman? Slice and dice through your obstacles! Range is the name of your game? Lock and load as you zip around your enemies!","url":"https://store.steampowered.com/app/2697940/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":47856,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":160140,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7595,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":359939,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":51720,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":51720,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.572842423352154,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":684,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.164835,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/48bba650b0faeacd40de93d8b31a9ccd08112d18/ss_48bba650b0faeacd40de93d8b31a9ccd08112d18.1920x1080.jpg?t=1784801185","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/48bba650b0faeacd40de93d8b31a9ccd08112d18/ss_48bba650b0faeacd40de93d8b31a9ccd08112d18.1920x1080.jpg?t=1784801185","alt":"零秒 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/403fcea149dab9495d0c049bf966514adb673dce/ss_403fcea149dab9495d0c049bf966514adb673dce.1920x1080.jpg?t=1784801185","alt":"零秒 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/7c762d546ecab1275b881f1e3fee241f7bf52d00/ss_7c762d546ecab1275b881f1e3fee241f7bf52d00.1920x1080.jpg?t=1784801185","alt":"零秒 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/0b787921441c0d572818ab39f84ffbc7a0e7452b/ss_0b787921441c0d572818ab39f84ffbc7a0e7452b.1920x1080.jpg?t=1784801185","alt":"零秒 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Ascend to ZERO",
+    "developers": [
+      "Flyway Games, Inc."
+    ],
+    "publishers": [
+      "Flyway Games, Inc.",
+      "KRAFTON, Inc."
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-13",
+    "tags": [
+      "轻度Rogue",
+      "动作肉鸽",
+      "弹幕射击",
+      "砍杀",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "主动冻结时间，把整个战场节奏变成自己的武器",
+      "dimension": "玩法",
+      "excerpt": "Ascend to ZERO is a time-bending action-roguelike where you can use your unique ability to freeze time and fight your way to the top.",
+      "url": "https://store.steampowered.com/app/2697940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "技能、芯片、能力、属性和武器共同扩张时间化身的军械库",
+      "dimension": "玩法",
+      "excerpt": "Unlock a variety of skills, chips and abilities to become a force to be reckoned with! Increase your stats, enhance your awesome weapons, and upgrade your massive arsenal of gear to be the ultimate avatar of time!",
+      "url": "https://store.steampowered.com/app/2697940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可走玻璃大炮剑士或高速远程射手两种鲜明方向",
+      "dimension": "玩法",
+      "excerpt": "Want to be a glass-cannon swordsman? Slice and dice through your obstacles! Range is the name of your game? Lock and load as you zip around your enemies!",
+      "url": "https://store.steampowered.com/app/2697940/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 47087,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 175152,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8156,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 372161,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 50627,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 50627,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.509940547816932,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 820,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.789704,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "零秒位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/48bba650b0faeacd40de93d8b31a9ccd08112d18/ss_48bba650b0faeacd40de93d8b31a9ccd08112d18.1920x1080.jpg?t=1784801185",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/48bba650b0faeacd40de93d8b31a9ccd08112d18/ss_48bba650b0faeacd40de93d8b31a9ccd08112d18.1920x1080.jpg?t=1785750643",
+        "alt": "零秒 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/403fcea149dab9495d0c049bf966514adb673dce/ss_403fcea149dab9495d0c049bf966514adb673dce.1920x1080.jpg?t=1785750643",
+        "alt": "零秒 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/7c762d546ecab1275b881f1e3fee241f7bf52d00/ss_7c762d546ecab1275b881f1e3fee241f7bf52d00.1920x1080.jpg?t=1785750643",
+        "alt": "零秒 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/0b787921441c0d572818ab39f84ffbc7a0e7452b/ss_0b787921441c0d572818ab39f84ffbc7a0e7452b.1920x1080.jpg?t=1785750643",
+        "alt": "零秒 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/77297919030a29b4c99b810aef0b20025e974f95/ss_77297919030a29b4c99b810aef0b20025e974f95.1920x1080.jpg?t=1785750643",
+        "alt": "零秒 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/2e93f206c73ff548223c33aa5849c7608a2205d9/ss_2e93f206c73ff548223c33aa5849c7608a2205d9.1920x1080.jpg?t=1785750643",
+        "alt": "零秒 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/be61be4d660d44db45cc07b27789fa553883eebf/ss_be61be4d660d44db45cc07b27789fa553883eebf.1920x1080.jpg?t=1785750643",
+        "alt": "零秒 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/f082d0d9c2541698ff98d28a3c54c918e2af2b09/ss_f082d0d9c2541698ff98d28a3c54c918e2af2b09.1920x1080.jpg?t=1785750643",
+        "alt": "零秒 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

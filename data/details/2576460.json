@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Angelstruck","developers":["Feral Paw"],"publishers":["Feral Paw"],"release_status":"released","release_date":"2024-07-05","tags":["动作肉鸽","弹幕射击","清版射击","轻度Rogue","射击"]},"hooks":[{"text":"局内选择Perk并继续升级为附带新能力的强化版","dimension":"玩法","excerpt":"CHOOSE WISELY AND ELEVATE YOUR ABILITIES In each run, strategic choices await as you accumulate experience and select perks to enhance your prowess. Elevate these perks to unlock augmented versions, granting you additional abilities that turn the tide of battle in your favor.","url":"https://store.steampowered.com/app/2576460/","label":"证据原文片段"},{"text":"两项满级兼容Perk可融合成全新毁灭能力","dimension":"玩法","excerpt":"UNEARTH DEVASTATING ABILITIES THROUGH SYNERGY Delve into the art of synergy by combining two compatible, max-powered perks. Witness the birth of awe-inspiring new abilities that wreak havoc on your opponents, showcasing your mastery of the celestial battlefield.","url":"https://store.steampowered.com/app/2576460/","label":"证据原文片段"},{"text":"每局表现换取Credits永久解锁能力与新武器","dimension":"玩法","excerpt":"REAP REWARDS, FORGE DESTINY With each run, your performance reaps its rewards in the form of credits. These valuable credits can be strategically employed to unlock permanent abilities and procure new weapons, arming you for future encounters.","url":"https://store.steampowered.com/app/2576460/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1865,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":439,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7345,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2077,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2077,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.940192457341132,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":137,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.890511,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_2181f6d0972a428b06f7b61d09ae2d46eb47c726.1920x1080.jpg?t=1772970920","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_2181f6d0972a428b06f7b61d09ae2d46eb47c726.1920x1080.jpg?t=1772970920","alt":"Angelstruck 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_0c19a4bc402dabd1eb64d92a398c9e6aad8417e9.1920x1080.jpg?t=1772970920","alt":"Angelstruck 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_3c2de2f6855139b4a73265ce311505e41f2f3c95.1920x1080.jpg?t=1772970920","alt":"Angelstruck 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_863b959e13de0be61c4026432a12b753454d17e7.1920x1080.jpg?t=1772970920","alt":"Angelstruck 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Angelstruck",
+    "developers": [
+      "Feral Paw"
+    ],
+    "publishers": [
+      "Feral Paw"
+    ],
+    "release_status": "released",
+    "release_date": "2024-07-05",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "清版射击",
+      "轻度Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "局内选择Perk并继续升级为附带新能力的强化版",
+      "dimension": "玩法",
+      "excerpt": "CHOOSE WISELY AND ELEVATE YOUR ABILITIES In each run, strategic choices await as you accumulate experience and select perks to enhance your prowess. Elevate these perks to unlock augmented versions, granting you additional abilities that turn the tide of battle in your favor.",
+      "url": "https://store.steampowered.com/app/2576460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "两项满级兼容Perk可融合成全新毁灭能力",
+      "dimension": "玩法",
+      "excerpt": "UNEARTH DEVASTATING ABILITIES THROUGH SYNERGY Delve into the art of synergy by combining two compatible, max-powered perks. Witness the birth of awe-inspiring new abilities that wreak havoc on your opponents, showcasing your mastery of the celestial battlefield.",
+      "url": "https://store.steampowered.com/app/2576460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每局表现换取Credits永久解锁能力与新武器",
+      "dimension": "玩法",
+      "excerpt": "REAP REWARDS, FORGE DESTINY With each run, your performance reaps its rewards in the form of credits. These valuable credits can be strategically employed to unlock permanent abilities and procure new weapons, arming you for future encounters.",
+      "url": "https://store.steampowered.com/app/2576460/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1990,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 440,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 7990,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2217,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2217,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.942701866465661,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 117,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.890511,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Angelstruck位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_2181f6d0972a428b06f7b61d09ae2d46eb47c726.1920x1080.jpg?t=1772970920",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_2181f6d0972a428b06f7b61d09ae2d46eb47c726.1920x1080.jpg?t=1772970920",
+        "alt": "Angelstruck 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_0c19a4bc402dabd1eb64d92a398c9e6aad8417e9.1920x1080.jpg?t=1772970920",
+        "alt": "Angelstruck 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_3c2de2f6855139b4a73265ce311505e41f2f3c95.1920x1080.jpg?t=1772970920",
+        "alt": "Angelstruck 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_863b959e13de0be61c4026432a12b753454d17e7.1920x1080.jpg?t=1772970920",
+        "alt": "Angelstruck 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_228f92fece562a530d83bfe7afe4386659c2def0.1920x1080.jpg?t=1772970920",
+        "alt": "Angelstruck 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_4d804712183327c12d6d2041eb0404647947dd40.1920x1080.jpg?t=1772970920",
+        "alt": "Angelstruck 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_48f2c5aae58960847a15e7aeadddb1bebe2f874c.1920x1080.jpg?t=1772970920",
+        "alt": "Angelstruck 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576460/ss_b7dc99c1f70dd7a1618e823267261d3439efa1dd.1920x1080.jpg?t=1772970920",
+        "alt": "Angelstruck 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

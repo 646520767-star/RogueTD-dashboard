@@ -1,1 +1,346 @@
-{"identity":{"original_title":"Rogue: Genesia","developers":["Ouadi Huard"],"publishers":["Ouadi Huard","Gamersky Games"],"release_status":"released","release_date":"2025-03-07","tags":["弹幕射击","动作肉鸽","轻度Rogue","街机","玩家对环境"]},"hooks":[{"text":"同屏可出现数百名敌人，以高密度持续围攻构成核心生存压力。","dimension":"玩法","excerpt":"Fend against vast enemy forces, reaching hundreds of foes on screen at any given time","url":"https://store.steampowered.com/app/2067920/","label":"证据原文片段"},{"text":"三百多种被动升级与五十多种武器共同构成大规模跑局构筑池。","dimension":"玩法","excerpt":"Make your build from more than 300+ passive upgrades and 50+ weapons.","url":"https://store.steampowered.com/app/2067920/","label":"证据原文片段"},{"text":"路线选择允许主动挑战强敌或前往商店休整，让玩家决定Rog每段冒险的风险节奏。","dimension":"玩法","excerpt":"You can choose which path Rog takes. Feel brave enough to take on a powerful foe, or would you prefer to rest at the shop? The choice is yours!","url":"https://store.steampowered.com/app/2067920/","label":"证据原文片段"}],"opinions":[{"text":"视觉特效容易诱发不适","dimension":"画风","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"the epilepsy inducing visuals","url":"https://steamcommunity.com/id/Ascate/recommended/2067920/","label":"证据原文片段"}]},{"text":"2.5D画面很吸睛","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Eye-catching 2.5D graphics","url":"https://store.steampowered.com/curator/42824375-Bullet-Heaven-Enthusiast/","label":"证据原文片段"}]},{"text":"高难度解锁需要大量刷取","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"The grind to play higher difficulties","url":"https://steamcommunity.com/id/Ascate/recommended/2067920/","label":"证据原文片段"}]},{"text":"玩法缺少足够实质内容","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"lacks that substance I am looking for","url":"https://youtu.be/vLDJCpjxicY","label":"证据原文片段"}]},{"text":"中文排版挤压导致道具技能描述难以阅读","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"字挤到一块看不清楚，导致很多道具技能看不清楚描述。","url":"https://steamcommunity.com/profiles/76561199068682892/recommended/2067920/","label":"证据原文片段"}]},{"text":"难度设计在过易与拖沓之间失衡","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"You have a game that's either WAY easy or way \"hard\".","url":"https://steamcommunity.com/profiles/76561198871561486/recommended/2067920/","label":"证据原文片段"}]},{"text":"测试版更新会反复清除存档与成就","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"更新一次清理一次我的存档，我的成就每次都要重新打","url":"https://steamcommunity.com/profiles/76561199207486002/recommended/2067920/","label":"证据原文片段"}]},{"text":"后期内容重复且失去爽感","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"一点爽感都没有，都是重复的内容","url":"https://steamcommunity.com/profiles/76561198992953139/recommended/2067920/","label":"证据原文片段"}]},{"text":"力量越来越依赖局外成长而非局内选择","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"more and more of your power coming from metaprogression rather than in-run choices.","url":"https://steamcommunity.com/profiles/76561198164903974/recommended/2067920/","label":"证据原文片段"}]},{"text":"装备系统过度复杂","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Said equipment system is an overcomplicated mess","url":"https://steamcommunity.com/profiles/76561198164903974/recommended/2067920/","label":"证据原文片段"}]},{"text":"后期特效会让帧率降至约10帧","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"武器特效一上来4060卡得只剩10帧","url":"https://steamcommunity.com/profiles/76561199526062366/recommended/2067920/","label":"证据原文片段"}]},{"text":"缺少完整手柄支持","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"no full joystick integration.","url":"https://steamcommunity.com/profiles/76561198871561486/recommended/2067920/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":508492,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":245291,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":18814,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3653311,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":528584,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":649586,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":23.708080651296104,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":8508,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.777726,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["视觉特效容易诱发不适","高难度解锁需要大量刷取","玩法缺少足够实质内容","中文排版挤压导致道具技能描述难以阅读","难度设计在过易与拖沓之间失衡","技术/性能：测试版更新会反复清除存档与成就","技术/性能：优化表现很差","技术/性能：后期特效会让帧率降至约10帧","技术/性能：缺少完整手柄支持"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/80b8630d97a4b905c8b0206d7404a724495ff273/ss_80b8630d97a4b905c8b0206d7404a724495ff273.1920x1080.jpg?t=1784258624","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/80b8630d97a4b905c8b0206d7404a724495ff273/ss_80b8630d97a4b905c8b0206d7404a724495ff273.1920x1080.jpg?t=1784258624","alt":"罗格：救世传说 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/4f57fa5c64bfc0d71e1a2ab4d4f3bb7779d05e42/ss_4f57fa5c64bfc0d71e1a2ab4d4f3bb7779d05e42.1920x1080.jpg?t=1784258624","alt":"罗格：救世传说 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ss_c852a41af5208577f76a6e01d129ccd77d452f17.1920x1080.jpg?t=1784258624","alt":"罗格：救世传说 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/6aed6ac451818bc55725d755d1624cd4974ca863/ss_6aed6ac451818bc55725d755d1624cd4974ca863.1920x1080.jpg?t=1784258624","alt":"罗格：救世传说 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Rogue: Genesia",
+    "developers": [
+      "Ouadi Huard"
+    ],
+    "publishers": [
+      "Ouadi Huard",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-07",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "动作肉鸽",
+      "轻度Rogue",
+      "街机"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "同屏可出现数百名敌人，以高密度持续围攻构成核心生存压力。",
+      "dimension": "玩法",
+      "excerpt": "Fend against vast enemy forces, reaching hundreds of foes on screen at any given time",
+      "url": "https://store.steampowered.com/app/2067920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三百多种被动升级与五十多种武器共同构成大规模跑局构筑池。",
+      "dimension": "玩法",
+      "excerpt": "Make your build from more than 300+ passive upgrades and 50+ weapons.",
+      "url": "https://store.steampowered.com/app/2067920/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "路线选择允许主动挑战强敌或前往商店休整，让玩家决定Rog每段冒险的风险节奏。",
+      "dimension": "玩法",
+      "excerpt": "You can choose which path Rog takes. Feel brave enough to take on a powerful foe, or would you prefer to rest at the shop? The choice is yours!",
+      "url": "https://store.steampowered.com/app/2067920/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "视觉特效容易诱发不适",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the epilepsy inducing visuals",
+          "url": "https://steamcommunity.com/id/Ascate/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "2.5D画面很吸睛",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Eye-catching 2.5D graphics",
+          "url": "https://store.steampowered.com/curator/42824375-Bullet-Heaven-Enthusiast/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高难度解锁需要大量刷取",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The grind to play higher difficulties",
+          "url": "https://steamcommunity.com/id/Ascate/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法缺少足够实质内容",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "lacks that substance I am looking for",
+          "url": "https://youtu.be/vLDJCpjxicY",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "中文排版挤压导致道具技能描述难以阅读",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "字挤到一块看不清楚，导致很多道具技能看不清楚描述。",
+          "url": "https://steamcommunity.com/profiles/76561199068682892/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "难度设计在过易与拖沓之间失衡",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "You have a game that's either WAY easy or way \"hard\".",
+          "url": "https://steamcommunity.com/profiles/76561198871561486/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "测试版更新会反复清除存档与成就",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "更新一次清理一次我的存档，我的成就每次都要重新打",
+          "url": "https://steamcommunity.com/profiles/76561199207486002/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期内容重复且失去爽感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "一点爽感都没有，都是重复的内容",
+          "url": "https://steamcommunity.com/profiles/76561198992953139/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "力量越来越依赖局外成长而非局内选择",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "more and more of your power coming from metaprogression rather than in-run choices.",
+          "url": "https://steamcommunity.com/profiles/76561198164903974/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "装备系统过度复杂",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Said equipment system is an overcomplicated mess",
+          "url": "https://steamcommunity.com/profiles/76561198164903974/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期特效会让帧率降至约10帧",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "武器特效一上来4060卡得只剩10帧",
+          "url": "https://steamcommunity.com/profiles/76561199526062366/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少完整手柄支持",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "no full joystick integration.",
+          "url": "https://steamcommunity.com/profiles/76561198871561486/recommended/2067920/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 524187,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 245467,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 18829,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3763279,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 544858,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 669584,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 23.15370419379919,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 8080,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.765449,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "视觉特效容易诱发不适",
+    "高难度解锁需要大量刷取",
+    "玩法缺少足够实质内容",
+    "中文排版挤压导致道具技能描述难以阅读",
+    "难度设计在过易与拖沓之间失衡",
+    "技术/性能：测试版更新会反复清除存档与成就",
+    "技术/性能：优化表现很差",
+    "技术/性能：后期特效会让帧率降至约10帧",
+    "技术/性能：缺少完整手柄支持"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "罗格：救世传说位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/80b8630d97a4b905c8b0206d7404a724495ff273/ss_80b8630d97a4b905c8b0206d7404a724495ff273.1920x1080.jpg?t=1784258624",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/80b8630d97a4b905c8b0206d7404a724495ff273/ss_80b8630d97a4b905c8b0206d7404a724495ff273.1920x1080.jpg?t=1786455327",
+        "alt": "罗格：救世传说 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/4f57fa5c64bfc0d71e1a2ab4d4f3bb7779d05e42/ss_4f57fa5c64bfc0d71e1a2ab4d4f3bb7779d05e42.1920x1080.jpg?t=1786455327",
+        "alt": "罗格：救世传说 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ss_c852a41af5208577f76a6e01d129ccd77d452f17.1920x1080.jpg?t=1786455327",
+        "alt": "罗格：救世传说 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/6aed6ac451818bc55725d755d1624cd4974ca863/ss_6aed6ac451818bc55725d755d1624cd4974ca863.1920x1080.jpg?t=1786455327",
+        "alt": "罗格：救世传说 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ss_dc2891926508cd9c02d4a1b122ceacf0d2b3797e.1920x1080.jpg?t=1786455327",
+        "alt": "罗格：救世传说 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/4c2ea3fca3eb2fff396718fcc3721b3acf688805/ss_4c2ea3fca3eb2fff396718fcc3721b3acf688805.1920x1080.jpg?t=1786455327",
+        "alt": "罗格：救世传说 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/308590992551553c444b8d30297717aacf66e8b0/ss_308590992551553c444b8d30297717aacf66e8b0.1920x1080.jpg?t=1786455327",
+        "alt": "罗格：救世传说 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ss_2a6c4259b2f4756fe9bb675737da3feaaec5003f.1920x1080.jpg?t=1786455327",
+        "alt": "罗格：救世传说 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

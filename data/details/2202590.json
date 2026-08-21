@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Shape Shifter: Formations","developers":["Castec Studios"],"publishers":["Castec Studios"],"release_status":"released","release_date":"2025-05-27","tags":["动作肉鸽","竞技场射击","弹幕射击","本地合作","轻度Rogue"]},"hooks":[{"text":"二十种舰船拥有主动与被动能力，并能搭配自选武器；每艘船和每件武器还各有独立技能树。","dimension":"玩法","excerpt":"Choose from a wide variety of ships each with their own unique active and passive abilities, ranging from shocking tesla towers and a burning laser, to clones that mirror your attacks or the ability to slow time around you. Pick the ship the suits your play style and outfit it with a weapon of your choice. Every ship and weapon has it's own unique skill tree, allowing you to alter and improve the way they play via changing abilities/passives and gaining new ones.","url":"https://store.steampowered.com/app/2202590/","label":"证据原文片段"},{"text":"击杀经验可换取无限叠加升级，既能堆叠状态效果，也能召唤携带武器的构造体军团。","dimension":"玩法","excerpt":"Gain experience by killing enemies to improve your ship with infinitely stacking upgrades that allow you to tailor your build as you play. Inflict a barrage of status effects on your enemies, or summon a swarm of constructs with their own weaponry.","url":"https://store.steampowered.com/app/2202590/","label":"证据原文片段"},{"text":"细粒度难度修改器可让墙壁带电或给敌人附加元素，高难度还会解锁强化Boss变体与额外奖励。","dimension":"玩法","excerpt":"Customize your own difficulty with many modifiers from electrifying the walls, to giving enemies elemental infusions. Higher difficulties can unlock prime boss variants for an even greater challenge and further rewards.","url":"https://store.steampowered.com/app/2202590/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":9313,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1021,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":58374,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9409,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9409,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":28.84779579359594,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":273,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.575092,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、竞技场射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/6944156655fd1694eb1aac390f3989d6bffcaf55/ss_6944156655fd1694eb1aac390f3989d6bffcaf55.1920x1080.jpg?t=1779215099","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/6944156655fd1694eb1aac390f3989d6bffcaf55/ss_6944156655fd1694eb1aac390f3989d6bffcaf55.1920x1080.jpg?t=1779215099","alt":"Shape Shifter: Formations 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/600f0c5accb5142a7f72acc5f80e62d2202d7aac/ss_600f0c5accb5142a7f72acc5f80e62d2202d7aac.1920x1080.jpg?t=1779215099","alt":"Shape Shifter: Formations 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/3536a5433325289138a79f7a4aff61c2a51fbc0a/ss_3536a5433325289138a79f7a4aff61c2a51fbc0a.1920x1080.jpg?t=1779215099","alt":"Shape Shifter: Formations 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/4db323eab07a54bd5447a5da86c13e167d73b502/ss_4db323eab07a54bd5447a5da86c13e167d73b502.1920x1080.jpg?t=1779215099","alt":"Shape Shifter: Formations 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Shape Shifter: Formations",
+    "developers": [
+      "Castec Studios"
+    ],
+    "publishers": [
+      "Castec Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-27",
+    "tags": [
+      "动作肉鸽",
+      "竞技场射击",
+      "弹幕射击",
+      "动作肉鸽",
+      "本地合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "二十种舰船拥有主动与被动能力，并能搭配自选武器；每艘船和每件武器还各有独立技能树。",
+      "dimension": "玩法",
+      "excerpt": "Choose from a wide variety of ships each with their own unique active and passive abilities, ranging from shocking tesla towers and a burning laser, to clones that mirror your attacks or the ability to slow time around you. Pick the ship the suits your play style and outfit it with a weapon of your choice. Every ship and weapon has it's own unique skill tree, allowing you to alter and improve the way they play via changing abilities/passives and gaining new ones.",
+      "url": "https://store.steampowered.com/app/2202590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "击杀经验可换取无限叠加升级，既能堆叠状态效果，也能召唤携带武器的构造体军团。",
+      "dimension": "玩法",
+      "excerpt": "Gain experience by killing enemies to improve your ship with infinitely stacking upgrades that allow you to tailor your build as you play. Inflict a barrage of status effects on your enemies, or summon a swarm of constructs with their own weaponry.",
+      "url": "https://store.steampowered.com/app/2202590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "细粒度难度修改器可让墙壁带电或给敌人附加元素，高难度还会解锁强化Boss变体与额外奖励。",
+      "dimension": "玩法",
+      "excerpt": "Customize your own difficulty with many modifiers from electrifying the walls, to giving enemies elemental infusions. Higher difficulties can unlock prime boss variants for an even greater challenge and further rewards.",
+      "url": "https://store.steampowered.com/app/2202590/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 11037,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1019,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 69666,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 11151,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 11151,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 28.777670509370402,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 270,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.605839,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Shape Shifter: Formations位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/6944156655fd1694eb1aac390f3989d6bffcaf55/ss_6944156655fd1694eb1aac390f3989d6bffcaf55.1920x1080.jpg?t=1779215099",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/6944156655fd1694eb1aac390f3989d6bffcaf55/ss_6944156655fd1694eb1aac390f3989d6bffcaf55.1920x1080.jpg?t=1785901166",
+        "alt": "Shape Shifter: Formations 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/600f0c5accb5142a7f72acc5f80e62d2202d7aac/ss_600f0c5accb5142a7f72acc5f80e62d2202d7aac.1920x1080.jpg?t=1785901166",
+        "alt": "Shape Shifter: Formations 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/3536a5433325289138a79f7a4aff61c2a51fbc0a/ss_3536a5433325289138a79f7a4aff61c2a51fbc0a.1920x1080.jpg?t=1785901166",
+        "alt": "Shape Shifter: Formations 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/4db323eab07a54bd5447a5da86c13e167d73b502/ss_4db323eab07a54bd5447a5da86c13e167d73b502.1920x1080.jpg?t=1785901166",
+        "alt": "Shape Shifter: Formations 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/3878d30145e2c5843df83ad4a556291402dceb17/ss_3878d30145e2c5843df83ad4a556291402dceb17.1920x1080.jpg?t=1785901166",
+        "alt": "Shape Shifter: Formations 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/7836b3d53b835c9eb03f52a1a36c6650825b2923/ss_7836b3d53b835c9eb03f52a1a36c6650825b2923.1920x1080.jpg?t=1785901166",
+        "alt": "Shape Shifter: Formations 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/004b01afae232f7e8a1c7812148a1f6b9d2f8383/ss_004b01afae232f7e8a1c7812148a1f6b9d2f8383.1920x1080.jpg?t=1785901166",
+        "alt": "Shape Shifter: Formations 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202590/d815bd28addba3256ec2224942510f98ad774144/ss_d815bd28addba3256ec2224942510f98ad774144.1920x1080.jpg?t=1785901166",
+        "alt": "Shape Shifter: Formations 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

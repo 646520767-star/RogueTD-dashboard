@@ -1,1 +1,309 @@
-{"identity":{"original_title":"Minimalist Tower Defense","developers":["Happy213"],"publishers":["Happy213"],"release_status":"released","release_date":"2024-01-25","tags":["塔防","策略","即时战术","俯视角","二维画面"]},"hooks":[{"text":"天黑前采集资源并完成防线部署","dimension":"玩法","excerpt":"Gather resources and establish your defenses before darkness falls, Then... Face countless enemies in their masses.","url":"https://store.steampowered.com/app/2617400/","label":"证据原文片段"},{"text":"数千敌军围攻直到黎明才算胜利","dimension":"玩法","excerpt":"Epic Scale with Thousands of Enemies Brace yourself for massive battles against swarms of foes that will test your defenses to the limit. Endure the Long Night Until Dawn Hold the line through the darkest hours, persevering until the first rays of sunlight signal victory.","url":"https://store.steampowered.com/app/2617400/","label":"证据原文片段"}],"opinions":[{"text":"极简视觉风格表现出色。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"excellent visual style","url":"https://store.steampowered.com/curator/41885393-Happy-Gaming/","label":"证据原文片段"}]},{"text":"前期节奏无聊且需要重复多次。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Early game is very boring and we have to play it 10s of times","url":"https://steamcommunity.com/id/PSEMO/recommended/2617400/","label":"证据原文片段"}]},{"text":"经济建设完全依赖固定套路","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"经济建设完全是固定套路。","url":"https://steamcommunity.com/id/zero1000505/recommended/2617400/","label":"证据原文片段"}]},{"text":"整体游戏速度慢到难以忍受。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The game is just unbearably slow, REALLY slow.","url":"https://steamcommunity.com/id/DevilSurvivor/recommended/2617400/","label":"证据原文片段"}]},{"text":"限制日光塔等级的挑战方式令人难受。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"卡日光塔等级是真难受","url":"https://steamcommunity.com/profiles/76561199368799482/recommended/2617400/","label":"证据原文片段"}]},{"text":"缺少敌人路径预览。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"no way to tell which path the enemy is going to take before seeing it yourself first","url":"https://steamcommunity.com/id/DevilSurvivor/recommended/2617400/","label":"证据原文片段"}]},{"text":"大量防御塔实用性不足。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"way too many useless towers","url":"https://steamcommunity.com/id/DevilSurvivor/recommended/2617400/","label":"证据原文片段"}]},{"text":"防御塔放置冷却阻止玩家应对突然的大波敌人。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"I hate that tower placement has a cooldown.","url":"https://steamcommunity.com/id/retrific/recommended/2617400/","label":"证据原文片段"}]},{"text":"英文文本难以阅读。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"This english is barely readable.","url":"https://steamcommunity.com/id/retrific/recommended/2617400/","label":"证据原文片段"}]},{"text":"缺少批量选中与批量操作功能。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"这个游戏很需要批量操作，然而没有。","url":"https://steamcommunity.com/id/zero1000505/recommended/2617400/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":97828,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":52109,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4250,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":301384,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":99098,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":99098,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.781220499635083,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1802,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.72808,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["前期节奏无聊且需要重复多次。","经济建设完全依赖固定套路","整体游戏速度慢到难以忍受。","限制日光塔等级的挑战方式令人难受。","缺少敌人路径预览。","大量防御塔实用性不足。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_f907cb53896359450981230f2753aaf92f4e9e5c.1920x1080.jpg?t=1725817486","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_f907cb53896359450981230f2753aaf92f4e9e5c.1920x1080.jpg?t=1725817486","alt":"极简塔防 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_5d4dadd2e410ea0eaf2f16f8934aaa6740ddc4e0.1920x1080.jpg?t=1725817486","alt":"极简塔防 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_0e55724efdb014deb6d2edd3292f76e2ce2ac100.1920x1080.jpg?t=1725817486","alt":"极简塔防 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_9b148f21eba68e42016a9ebd324692186cdad57c.1920x1080.jpg?t=1725817486","alt":"极简塔防 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Minimalist Tower Defense",
+    "developers": [
+      "Happy213"
+    ],
+    "publishers": [
+      "Happy213"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-25",
+    "tags": [
+      "塔防",
+      "策略",
+      "即时战术",
+      "俯视角",
+      "二维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "天黑前采集资源并完成防线部署",
+      "dimension": "玩法",
+      "excerpt": "Gather resources and establish your defenses before darkness falls, Then... Face countless enemies in their masses.",
+      "url": "https://store.steampowered.com/app/2617400/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "数千敌军围攻直到黎明才算胜利",
+      "dimension": "玩法",
+      "excerpt": "Epic Scale with Thousands of Enemies Brace yourself for massive battles against swarms of foes that will test your defenses to the limit. Endure the Long Night Until Dawn Hold the line through the darkest hours, persevering until the first rays of sunlight signal victory.",
+      "url": "https://store.steampowered.com/app/2617400/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "极简视觉风格表现出色。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "excellent visual style",
+          "url": "https://store.steampowered.com/curator/41885393-Happy-Gaming/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "前期节奏无聊且需要重复多次。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Early game is very boring and we have to play it 10s of times",
+          "url": "https://steamcommunity.com/id/PSEMO/recommended/2617400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "经济建设完全依赖固定套路",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "经济建设完全是固定套路。",
+          "url": "https://steamcommunity.com/id/zero1000505/recommended/2617400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体游戏速度慢到难以忍受。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The game is just unbearably slow, REALLY slow.",
+          "url": "https://steamcommunity.com/id/DevilSurvivor/recommended/2617400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "限制日光塔等级的挑战方式令人难受。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "卡日光塔等级是真难受",
+          "url": "https://steamcommunity.com/profiles/76561199368799482/recommended/2617400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少敌人路径预览。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "no way to tell which path the enemy is going to take before seeing it yourself first",
+          "url": "https://steamcommunity.com/id/DevilSurvivor/recommended/2617400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大量防御塔实用性不足。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "way too many useless towers",
+          "url": "https://steamcommunity.com/id/DevilSurvivor/recommended/2617400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "防御塔放置冷却阻止玩家应对突然的大波敌人。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "I hate that tower placement has a cooldown.",
+          "url": "https://steamcommunity.com/id/retrific/recommended/2617400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "英文文本难以阅读。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "This english is barely readable.",
+          "url": "https://steamcommunity.com/id/retrific/recommended/2617400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少批量选中与批量操作功能。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "这个游戏很需要批量操作，然而没有。",
+          "url": "https://steamcommunity.com/id/zero1000505/recommended/2617400/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 106625,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 54975,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4384,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 330426,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 107946,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 107946,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.56674303019491,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1798,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.817239,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "前期节奏无聊且需要重复多次。",
+    "经济建设完全依赖固定套路",
+    "整体游戏速度慢到难以忍受。",
+    "限制日光塔等级的挑战方式令人难受。",
+    "缺少敌人路径预览。",
+    "大量防御塔实用性不足。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "极简塔防位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_f907cb53896359450981230f2753aaf92f4e9e5c.1920x1080.jpg?t=1725817486",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_f907cb53896359450981230f2753aaf92f4e9e5c.1920x1080.jpg?t=1725817486",
+        "alt": "极简塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_5d4dadd2e410ea0eaf2f16f8934aaa6740ddc4e0.1920x1080.jpg?t=1725817486",
+        "alt": "极简塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_0e55724efdb014deb6d2edd3292f76e2ce2ac100.1920x1080.jpg?t=1725817486",
+        "alt": "极简塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_9b148f21eba68e42016a9ebd324692186cdad57c.1920x1080.jpg?t=1725817486",
+        "alt": "极简塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_1dffc409a79dfd4a9eaa672164a02b821a2d8e26.1920x1080.jpg?t=1725817486",
+        "alt": "极简塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_d4f4b69af9d8b473757007e9f0592ed88f5322ab.1920x1080.jpg?t=1725817486",
+        "alt": "极简塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_36d093faa5f8394dded96add577b3c735b6d6c9b.1920x1080.jpg?t=1725817486",
+        "alt": "极简塔防 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617400/ss_e24ed279ce3aee5e30fd60e74a2fa064ec4134c6.1920x1080.jpg?t=1725817486",
+        "alt": "极简塔防 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

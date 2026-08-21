@@ -1,1 +1,169 @@
-{"identity":{"original_title":"Plants vs. Zombies™: Replanted","developers":["PopCap Games","The Lost Pixels"],"publishers":["Electronic Arts"],"release_status":"released","release_date":"2025-10-23","tags":["塔防","僵尸","本地合作","复古","休闲"]},"hooks":[{"text":"经典植物大战僵尸以放大高清图形完整重制庭院攻防","dimension":"画风","excerpt":"Experience the game that started it all, now remastered with upscaled HD graphics and packed with new secrets to uncover.","url":"https://store.steampowered.com/app/3654560/","label":"证据原文片段"},{"text":"重制版在经典庭院关卡上加入新关卡与新的玩法转折","dimension":"玩法","excerpt":"Revisit the epic backyard standoffs you remember, this time with new levels, fresh twists, and 15 years of never-before-seen franchise history at your fingertips.","url":"https://store.steampowered.com/app/3654560/","label":"证据原文片段"},{"text":"游戏内收录十五年从未公开的系列历史与可探索秘密","dimension":"故事","excerpt":"Revisit the epic backyard standoffs you remember, this time with new levels, fresh twists, and 15 years of never-before-seen franchise history at your fingertips.","url":"https://store.steampowered.com/app/3654560/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":228220,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":336808,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":26546,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3395065,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":238524,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":238524,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.397457362079441,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":6984,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":65,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":65.395056,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为65.395056%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/c91b72b9b68246a609e8e8eae208cff42d24ebaa/ss_c91b72b9b68246a609e8e8eae208cff42d24ebaa.1920x1080.jpg?t=1763401327","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/c91b72b9b68246a609e8e8eae208cff42d24ebaa/ss_c91b72b9b68246a609e8e8eae208cff42d24ebaa.1920x1080.jpg?t=1763401327","alt":"植物大战僵尸™：重植版 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/01cb3a736faab7db3b0049c4f44f219c149be678/ss_01cb3a736faab7db3b0049c4f44f219c149be678.1920x1080.jpg?t=1763401327","alt":"植物大战僵尸™：重植版 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/a93fc3c20ad60320734eadb2b5821d7e0429587f/ss_a93fc3c20ad60320734eadb2b5821d7e0429587f.1920x1080.jpg?t=1763401327","alt":"植物大战僵尸™：重植版 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/4b1c782b3dd53bf98b06001a1027a0468049854c/ss_4b1c782b3dd53bf98b06001a1027a0468049854c.1920x1080.jpg?t=1763401327","alt":"植物大战僵尸™：重植版 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Plants vs. Zombies™: Replanted",
+    "developers": [
+      "PopCap Games",
+      "The Lost Pixels"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "release_status": "released",
+    "release_date": "2025-10-23",
+    "tags": [
+      "塔防",
+      "多人游戏",
+      "僵尸",
+      "本地合作",
+      "复古"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "经典植物大战僵尸以放大高清图形完整重制庭院攻防",
+      "dimension": "画风",
+      "excerpt": "Experience the game that started it all, now remastered with upscaled HD graphics and packed with new secrets to uncover.",
+      "url": "https://store.steampowered.com/app/3654560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "重制版在经典庭院关卡上加入新关卡与新的玩法转折",
+      "dimension": "玩法",
+      "excerpt": "Revisit the epic backyard standoffs you remember, this time with new levels, fresh twists, and 15 years of never-before-seen franchise history at your fingertips.",
+      "url": "https://store.steampowered.com/app/3654560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "游戏内收录十五年从未公开的系列历史与可探索秘密",
+      "dimension": "故事",
+      "excerpt": "Revisit the epic backyard standoffs you remember, this time with new levels, fresh twists, and 15 years of never-before-seen franchise history at your fingertips.",
+      "url": "https://store.steampowered.com/app/3654560/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 241509,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 345197,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 26981,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3476510,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 252491,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 252491,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.9145828313418,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 6732,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 66,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 65.752471,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为65.395056%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "植物大战僵尸™：重植版位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/c91b72b9b68246a609e8e8eae208cff42d24ebaa/ss_c91b72b9b68246a609e8e8eae208cff42d24ebaa.1920x1080.jpg?t=1763401327",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/c91b72b9b68246a609e8e8eae208cff42d24ebaa/ss_c91b72b9b68246a609e8e8eae208cff42d24ebaa.1920x1080.jpg?t=1763401327",
+        "alt": "植物大战僵尸™：重植版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/01cb3a736faab7db3b0049c4f44f219c149be678/ss_01cb3a736faab7db3b0049c4f44f219c149be678.1920x1080.jpg?t=1763401327",
+        "alt": "植物大战僵尸™：重植版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/a93fc3c20ad60320734eadb2b5821d7e0429587f/ss_a93fc3c20ad60320734eadb2b5821d7e0429587f.1920x1080.jpg?t=1763401327",
+        "alt": "植物大战僵尸™：重植版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/4b1c782b3dd53bf98b06001a1027a0468049854c/ss_4b1c782b3dd53bf98b06001a1027a0468049854c.1920x1080.jpg?t=1763401327",
+        "alt": "植物大战僵尸™：重植版 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/37f055a991ab29b79a99ede0d4f46155e5e1dd3e/ss_37f055a991ab29b79a99ede0d4f46155e5e1dd3e.1920x1080.jpg?t=1763401327",
+        "alt": "植物大战僵尸™：重植版 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

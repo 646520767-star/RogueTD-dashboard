@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Valor of Man","developers":["Legacy Forge"],"publishers":["Numskull Games"],"release_status":"released","release_date":"2026-03-19","tags":["轻度Rogue","黑暗奇幻","回合制战术","角色扮演","地牢探索"]},"hooks":[{"text":"从十二种职业组建四人队，并用职业变体调整开局配置","dimension":"玩法","excerpt":"Build your party of four champions from 12 classic fantasy hero classes, each with distinct roles and playstyles. Unlock new class variants and loadout to customize your team before embarking on the adventure ahead.","url":"https://store.steampowered.com/app/2699280/","label":"证据原文片段"},{"text":"有限行动点配合敌方反应动作，考验出手时机","dimension":"玩法","excerpt":"With limited action points each turn, you must carefully deploy hero skills and items to create powerful synergies. Find the right moment to strike and unleash devastating blows on enemies while exploiting their reactive actions.","url":"https://store.steampowered.com/app/2699280/","label":"证据原文片段"},{"text":"混沌模式自定义规则，精通系统记录通关过的每种构筑","dimension":"玩法","excerpt":"Newly added to the game is the sandbox-esque Chaos Mode with customizable modifiers for the ultimate challenge and reward, and the new Mastery System recording each and every build option you have successfully beat a run with.","url":"https://store.steampowered.com/app/2699280/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4830,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":31774,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2783,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":70462,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4957,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4957,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.195337338295626,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":164,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.243902,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、黑暗奇幻","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/d4f1a9c67bb1eff7113861503fbff9bbfaa7e9c1/ss_d4f1a9c67bb1eff7113861503fbff9bbfaa7e9c1.1920x1080.jpg?t=1778586063","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/d4f1a9c67bb1eff7113861503fbff9bbfaa7e9c1/ss_d4f1a9c67bb1eff7113861503fbff9bbfaa7e9c1.1920x1080.jpg?t=1778586063","alt":"Valor of Man 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/338eeaf1c992ebf0c524c40606ebbf2f9771531e/ss_338eeaf1c992ebf0c524c40606ebbf2f9771531e.1920x1080.jpg?t=1778586063","alt":"Valor of Man 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/22352ab836a9e2511e9f7f3c1d7b121272075931/ss_22352ab836a9e2511e9f7f3c1d7b121272075931.1920x1080.jpg?t=1778586063","alt":"Valor of Man 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/2d77c6921468840ec0c56b0d53ba39aa372b3826/ss_2d77c6921468840ec0c56b0d53ba39aa372b3826.1920x1080.jpg?t=1778586063","alt":"Valor of Man 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Valor of Man",
+    "developers": [
+      "Legacy Forge"
+    ],
+    "publishers": [
+      "Numskull Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-03-19",
+    "tags": [
+      "轻度Rogue",
+      "轻度Rogue",
+      "黑暗奇幻",
+      "回合制战术",
+      "角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从十二种职业组建四人队，并用职业变体调整开局配置",
+      "dimension": "玩法",
+      "excerpt": "Build your party of four champions from 12 classic fantasy hero classes, each with distinct roles and playstyles. Unlock new class variants and loadout to customize your team before embarking on the adventure ahead.",
+      "url": "https://store.steampowered.com/app/2699280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "有限行动点配合敌方反应动作，考验出手时机",
+      "dimension": "玩法",
+      "excerpt": "With limited action points each turn, you must carefully deploy hero skills and items to create powerful synergies. Find the right moment to strike and unleash devastating blows on enemies while exploiting their reactive actions.",
+      "url": "https://store.steampowered.com/app/2699280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "混沌模式自定义规则，精通系统记录通关过的每种构筑",
+      "dimension": "玩法",
+      "excerpt": "Newly added to the game is the sandbox-esque Chaos Mode with customizable modifiers for the ultimate challenge and reward, and the new Mastery System recording each and every build option you have successfully beat a run with.",
+      "url": "https://store.steampowered.com/app/2699280/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5681,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 29405,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2811,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 82837,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5823,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5823,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.482570422043828,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 167,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.595376,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Valor of Man位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/d4f1a9c67bb1eff7113861503fbff9bbfaa7e9c1/ss_d4f1a9c67bb1eff7113861503fbff9bbfaa7e9c1.1920x1080.jpg?t=1778586063",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/d4f1a9c67bb1eff7113861503fbff9bbfaa7e9c1/ss_d4f1a9c67bb1eff7113861503fbff9bbfaa7e9c1.1920x1080.jpg?t=1778586063",
+        "alt": "Valor of Man 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/338eeaf1c992ebf0c524c40606ebbf2f9771531e/ss_338eeaf1c992ebf0c524c40606ebbf2f9771531e.1920x1080.jpg?t=1778586063",
+        "alt": "Valor of Man 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/22352ab836a9e2511e9f7f3c1d7b121272075931/ss_22352ab836a9e2511e9f7f3c1d7b121272075931.1920x1080.jpg?t=1778586063",
+        "alt": "Valor of Man 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/2d77c6921468840ec0c56b0d53ba39aa372b3826/ss_2d77c6921468840ec0c56b0d53ba39aa372b3826.1920x1080.jpg?t=1778586063",
+        "alt": "Valor of Man 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/095ee6c36029ede973e2e057c9f3fa36777d2e9f/ss_095ee6c36029ede973e2e057c9f3fa36777d2e9f.1920x1080.jpg?t=1778586063",
+        "alt": "Valor of Man 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/fbccbf49e91341b607dc6c67eb45534fd7c0628f/ss_fbccbf49e91341b607dc6c67eb45534fd7c0628f.1920x1080.jpg?t=1778586063",
+        "alt": "Valor of Man 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/16e52c43c858552d0d164ca53cefdf2ea627deb5/ss_16e52c43c858552d0d164ca53cefdf2ea627deb5.1920x1080.jpg?t=1778586063",
+        "alt": "Valor of Man 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699280/5a6a4cf908af1520ed45f42fdfc183047945927b/ss_5a6a4cf908af1520ed45f42fdfc183047945927b.1920x1080.jpg?t=1778586063",
+        "alt": "Valor of Man 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"SULFUR","developers":["Perfect Random"],"publishers":["Perfect Random"],"release_status":"early_access","release_date":"2024-10-28","tags":["抢先体验","轻度Rogue","风格化","高难度","地牢探索"]},"hooks":[{"text":"组合武器、装备、工具与附魔塑造不同战斗风格","dimension":"玩法","excerpt":"Create unique builds by combining weapons, gear, tools, and enchantments to suit your playstyle. Whether you’re a gun-blazing risk-taker or a careful strategist, the choice is yours.","url":"https://store.steampowered.com/app/2124120/","label":"证据原文片段"},{"text":"失败会损失带入装备，没带的装备又无法临场使用","dimension":"玩法","excerpt":"Every decision counts: the gear you bring may be lost if you fail, and the equipment you leave behind won't be there when you need it most. Risk and reward are tightly intertwined in every choice you make.","url":"https://store.steampowered.com/app/2124120/","label":"证据原文片段"},{"text":"怪异生物的态度与警告提供世界真相线索","dimension":"故事","excerpt":"On your adventure you encounter strange creatures in unexpected places—pay attention to their warnings. Whether they despise, admire, or ignore you, your path is yours to forge. Stay alert; these encounters may offer insights, but ultimately, it’s up to you to push forward and find the answers you seek.","url":"https://store.steampowered.com/app/2124120/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":487443,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":636741,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":37342,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":8233943,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":512321,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":512321,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":19.105918506802578,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":9500,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.335009,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_264c35daa8e599f8c1b91d987e6b097ce16c964a.1920x1080.jpg?t=1784306208","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_264c35daa8e599f8c1b91d987e6b097ce16c964a.1920x1080.jpg?t=1784306208","alt":"火湖 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_6a4189c456f0f3aa02348d7fe3fb15a3502a4eed.1920x1080.jpg?t=1784306208","alt":"火湖 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_41f47179be05032e00866adc8997554116d45fdf.1920x1080.jpg?t=1784306208","alt":"火湖 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_bb72c1f48a82fb9af0ac80cb1c6fbac73d98b26e.1920x1080.jpg?t=1784306208","alt":"火湖 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "SULFUR",
+    "developers": [
+      "Perfect Random"
+    ],
+    "publishers": [
+      "Perfect Random"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-10-28",
+    "tags": [
+      "抢先体验",
+      "类Rogue",
+      "风格化",
+      "轻度Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "组合武器、装备、工具与附魔塑造不同战斗风格",
+      "dimension": "玩法",
+      "excerpt": "Create unique builds by combining weapons, gear, tools, and enchantments to suit your playstyle. Whether you’re a gun-blazing risk-taker or a careful strategist, the choice is yours.",
+      "url": "https://store.steampowered.com/app/2124120/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "失败会损失带入装备，没带的装备又无法临场使用",
+      "dimension": "玩法",
+      "excerpt": "Every decision counts: the gear you bring may be lost if you fail, and the equipment you leave behind won't be there when you need it most. Risk and reward are tightly intertwined in every choice you make.",
+      "url": "https://store.steampowered.com/app/2124120/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "怪异生物的态度与警告提供世界真相线索",
+      "dimension": "故事",
+      "excerpt": "On your adventure you encounter strange creatures in unexpected places—pay attention to their warnings. Whether they despise, admire, or ignore you, your path is yours to forge. Stay alert; these encounters may offer insights, but ultimately, it’s up to you to push forward and find the answers you seek.",
+      "url": "https://store.steampowered.com/app/2124120/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 510607,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 649464,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 37832,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 8501847,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 536556,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 536556,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 19.29824827088838,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 9176,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.439222,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "火湖位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_264c35daa8e599f8c1b91d987e6b097ce16c964a.1920x1080.jpg?t=1784306208",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_264c35daa8e599f8c1b91d987e6b097ce16c964a.1920x1080.jpg?t=1786707794",
+        "alt": "火湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_6a4189c456f0f3aa02348d7fe3fb15a3502a4eed.1920x1080.jpg?t=1786707794",
+        "alt": "火湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_41f47179be05032e00866adc8997554116d45fdf.1920x1080.jpg?t=1786707794",
+        "alt": "火湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_bb72c1f48a82fb9af0ac80cb1c6fbac73d98b26e.1920x1080.jpg?t=1786707794",
+        "alt": "火湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_3a001bb940be5e3f59ada04744096de2368df9b3.1920x1080.jpg?t=1786707794",
+        "alt": "火湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_208624ffe32ade066590946b133d9bc291537622.1920x1080.jpg?t=1786707794",
+        "alt": "火湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_b6de0fe1cab7fcaaff720ec5b56ee40ef33a7ae7.1920x1080.jpg?t=1786707794",
+        "alt": "火湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_500f612bdd32446a99d25fcacff65503ca766635.1920x1080.jpg?t=1786707794",
+        "alt": "火湖 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

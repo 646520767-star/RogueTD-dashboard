@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Pizza Hero","developers":["Astro Hound"],"publishers":["Astro Hound"],"release_status":"released","release_date":"2024-06-27","tags":["动作","休闲","类Rogue","动作肉鸽","竞技场射击"]},"hooks":[{"text":"辣香肠投手雷，蓝纹奶酪制造伤害圈","dimension":"玩法","excerpt":"The toppings you select affect your abilities. For example, pepperoni throws grenades while blue cheese creates a pungent perimeter.","url":"https://store.steampowered.com/app/2202770/","label":"证据原文片段"},{"text":"自动旋转开火还能锁定坦克、伤害或支援敌人","dimension":"玩法","excerpt":"Auto rotate/firing controls (with option to focus different enemy types - Tank, Damage and Support)","url":"https://store.steampowered.com/app/2202770/","label":"证据原文片段"},{"text":"随机关卡与强化让每次闯关重新组合","dimension":"玩法","excerpt":"With randomly generated levels and power-ups, no two playthroughs are ever the same.","url":"https://store.steampowered.com/app/2202770/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":10851,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":998,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":14410,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":70117,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":70117,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":191.4354466796523,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":981,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.602446,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、休闲","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_0c52ce07942d6bdce2112f52fb7daf075682a6d4.1920x1080.jpg?t=1748629950","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_0c52ce07942d6bdce2112f52fb7daf075682a6d4.1920x1080.jpg?t=1748629950","alt":"Pizza Hero 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_a7f880b146e2dff1c37ab1522e4c3127bfcea695.1920x1080.jpg?t=1748629950","alt":"Pizza Hero 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_4d316d08ca828833cd7fc8391aff2bf89419ade3.1920x1080.jpg?t=1748629950","alt":"Pizza Hero 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_673a78913fd11fcbacf0262ba97d717f1e77df3a.1920x1080.jpg?t=1748629950","alt":"Pizza Hero 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pizza Hero",
+    "developers": [
+      "Astro Hound"
+    ],
+    "publishers": [
+      "Astro Hound"
+    ],
+    "release_status": "released",
+    "release_date": "2024-06-27",
+    "tags": [
+      "动作",
+      "休闲",
+      "类Rogue",
+      "动作肉鸽",
+      "竞技场射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "辣香肠投手雷，蓝纹奶酪制造伤害圈",
+      "dimension": "玩法",
+      "excerpt": "The toppings you select affect your abilities. For example, pepperoni throws grenades while blue cheese creates a pungent perimeter.",
+      "url": "https://store.steampowered.com/app/2202770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "自动旋转开火还能锁定坦克、伤害或支援敌人",
+      "dimension": "玩法",
+      "excerpt": "Auto rotate/firing controls (with option to focus different enemy types - Tank, Damage and Support)",
+      "url": "https://store.steampowered.com/app/2202770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "随机关卡与强化让每次闯关重新组合",
+      "dimension": "玩法",
+      "excerpt": "With randomly generated levels and power-ups, no two playthroughs are ever the same.",
+      "url": "https://store.steampowered.com/app/2202770/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 10851,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3835,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 998,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 11318,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 70121,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 70121,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 191.4009940697271,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 31,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.613035,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Pizza Hero位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_0c52ce07942d6bdce2112f52fb7daf075682a6d4.1920x1080.jpg?t=1748629950",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_0c52ce07942d6bdce2112f52fb7daf075682a6d4.1920x1080.jpg?t=1748629950",
+        "alt": "Pizza Hero 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_a7f880b146e2dff1c37ab1522e4c3127bfcea695.1920x1080.jpg?t=1748629950",
+        "alt": "Pizza Hero 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_4d316d08ca828833cd7fc8391aff2bf89419ade3.1920x1080.jpg?t=1748629950",
+        "alt": "Pizza Hero 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_673a78913fd11fcbacf0262ba97d717f1e77df3a.1920x1080.jpg?t=1748629950",
+        "alt": "Pizza Hero 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_f353dd1298af11e96472580c4e2487d982ce02f8.1920x1080.jpg?t=1748629950",
+        "alt": "Pizza Hero 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_bfc89276648adeb80a72cbd96b8432ae0edee633.1920x1080.jpg?t=1748629950",
+        "alt": "Pizza Hero 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/ss_c719ae1f56a141e15d8a640e979e8518b862427d.1920x1080.jpg?t=1748629950",
+        "alt": "Pizza Hero 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

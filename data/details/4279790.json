@@ -1,1 +1,287 @@
-{"identity":{"original_title":"RAZE","developers":["RAZE CLUB"],"publishers":["RAZE CLUB"],"release_status":"early_access","release_date":"2026-06-23","tags":["抢先体验","独立游戏","类Rogue","动作肉鸽","弹幕射击"]},"hooks":[{"text":"海量敌潮配合荒诞武器持续扩张火力","dimension":"玩法","excerpt":"Thousands — or even hundreds of thousands of defeated enemies in a single match, taken down by all kinds of methods: from a good old shotgun to complete absurdity like dual miniguns and lasers shooting from your eyes.","url":"https://store.steampowered.com/app/4279790/","label":"证据原文片段"},{"text":"角色枪械与三类武器在局内同步成长","dimension":"玩法","excerpt":"Throughout the match, you upgrade not only your Shadow Cat Warrior and their ShadowGun, but also gain access to an entire arsenal of magical, melee, and firearms that will help you give the darkness a worthy fight.","url":"https://store.steampowered.com/app/4279790/","label":"证据原文片段"},{"text":"死亡后继续解锁物品并重组下局","dimension":"玩法","excerpt":"Die and be reborn — because every match will unlock more and more new items and artifacts, all accompanied by random generation, making every run truly unique.","url":"https://store.steampowered.com/app/4279790/","label":"证据原文片段"}],"opinions":[{"text":"独立游戏画面表现出乎意料地好。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"the graphics are surprisingly good for an indie title.","url":"https://store.steampowered.com/curator/38771580-Escape-to-Game/","label":"证据原文片段"}]},{"text":"学习曲线有时较陡。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"the learning curve can be steep at times.","url":"https://store.steampowered.com/curator/34478148-EU-GAMES-REVIEW/","label":"证据原文片段"}]},{"text":"大量物品使新手初期很难进入状态。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"This game is not for beginners—it can be tough to get into at first due to the large number of items.","url":"https://steamcommunity.com/profiles/76561199159258106/recommended/4279790/","label":"证据原文片段"}]},{"text":"游戏开局阶段可能略显无聊。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"In the beginning, the game might feel a bit boring.","url":"https://steamcommunity.com/profiles/76561199159258106/recommended/4279790/","label":"证据原文片段"}]},{"text":"策略与动作的结合让人感到新鲜。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"a compelling mix of strategy and action that I found refreshing.","url":"https://store.steampowered.com/curator/40046710-BrainSimulator/","label":"证据原文片段"}]},{"text":"战斗手感令人满足。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The combat feels satisfying","url":"https://store.steampowered.com/curator/33372336-ALL_BEST_GAMES/","label":"证据原文片段"}]},{"text":"关卡设计周到，每次遭遇都具备独特挑战和回报。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The level design is well thought out, making each encounter uniquely challenging and rewarding.","url":"https://store.steampowered.com/curator/40046710-BrainSimulator/","label":"证据原文片段"}]},{"text":"故事能够持续吸引玩家。","dimension":"剧情","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"the storyline kept me engaged throughout the experience.","url":"https://store.steampowered.com/curator/33372336-ALL_BEST_GAMES/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":369,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":888,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":74,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1670,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":721,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":721,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.193260987165127,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":33,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.142857,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["学习曲线有时较陡。","大量物品使新手初期很难进入状态。","游戏开局阶段可能略显无聊。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/1f7619e0555c50892747092c577c93a30a33fd20/ss_1f7619e0555c50892747092c577c93a30a33fd20.1920x1080.jpg?t=1784065274","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/1f7619e0555c50892747092c577c93a30a33fd20/ss_1f7619e0555c50892747092c577c93a30a33fd20.1920x1080.jpg?t=1784065274","alt":"RAZE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/87362898030e73f737e7b9ec7647c397c0c85de4/ss_87362898030e73f737e7b9ec7647c397c0c85de4.1920x1080.jpg?t=1784065274","alt":"RAZE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/49fd9818f6e1d606a0bb59a2beaa9d00879d7a6b/ss_49fd9818f6e1d606a0bb59a2beaa9d00879d7a6b.1920x1080.jpg?t=1784065274","alt":"RAZE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/888bfc3db866ac79dfeca7c7b9eaf453b26bc9c3/ss_888bfc3db866ac79dfeca7c7b9eaf453b26bc9c3.1920x1080.jpg?t=1784065274","alt":"RAZE 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "RAZE",
+    "developers": [
+      "RAZE CLUB"
+    ],
+    "publishers": [
+      "RAZE CLUB"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-23",
+    "tags": [
+      "抢先体验",
+      "独立游戏",
+      "类Rogue",
+      "动作肉鸽",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "海量敌潮配合荒诞武器持续扩张火力",
+      "dimension": "玩法",
+      "excerpt": "Thousands — or even hundreds of thousands of defeated enemies in a single match, taken down by all kinds of methods: from a good old shotgun to complete absurdity like dual miniguns and lasers shooting from your eyes.",
+      "url": "https://store.steampowered.com/app/4279790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "角色枪械与三类武器在局内同步成长",
+      "dimension": "玩法",
+      "excerpt": "Throughout the match, you upgrade not only your Shadow Cat Warrior and their ShadowGun, but also gain access to an entire arsenal of magical, melee, and firearms that will help you give the darkness a worthy fight.",
+      "url": "https://store.steampowered.com/app/4279790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "死亡后继续解锁物品并重组下局",
+      "dimension": "玩法",
+      "excerpt": "Die and be reborn — because every match will unlock more and more new items and artifacts, all accompanied by random generation, making every run truly unique.",
+      "url": "https://store.steampowered.com/app/4279790/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "独立游戏画面表现出乎意料地好。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the graphics are surprisingly good for an indie title.",
+          "url": "https://store.steampowered.com/curator/38771580-Escape-to-Game/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "学习曲线有时较陡。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the learning curve can be steep at times.",
+          "url": "https://store.steampowered.com/curator/34478148-EU-GAMES-REVIEW/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大量物品使新手初期很难进入状态。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "This game is not for beginners—it can be tough to get into at first due to the large number of items.",
+          "url": "https://steamcommunity.com/profiles/76561199159258106/recommended/4279790/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏开局阶段可能略显无聊。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "In the beginning, the game might feel a bit boring.",
+          "url": "https://steamcommunity.com/profiles/76561199159258106/recommended/4279790/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "策略与动作的结合让人感到新鲜。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a compelling mix of strategy and action that I found refreshing.",
+          "url": "https://store.steampowered.com/curator/40046710-BrainSimulator/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗手感令人满足。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The combat feels satisfying",
+          "url": "https://store.steampowered.com/curator/33372336-ALL_BEST_GAMES/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "关卡设计周到，每次遭遇都具备独特挑战和回报。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The level design is well thought out, making each encounter uniquely challenging and rewarding.",
+          "url": "https://store.steampowered.com/curator/40046710-BrainSimulator/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "故事能够持续吸引玩家。",
+      "dimension": "剧情",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the storyline kept me engaged throughout the experience.",
+          "url": "https://store.steampowered.com/curator/33372336-ALL_BEST_GAMES/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 363,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1044,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 87,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2017,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 705,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 705,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.895726140049254,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 12,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.435897,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "学习曲线有时较陡。",
+    "大量物品使新手初期很难进入状态。",
+    "游戏开局阶段可能略显无聊。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "RAZE位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/1f7619e0555c50892747092c577c93a30a33fd20/ss_1f7619e0555c50892747092c577c93a30a33fd20.1920x1080.jpg?t=1784065274",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/c31ef47cab43e8cda46127ee7c64c8d54fc6f463/ss_c31ef47cab43e8cda46127ee7c64c8d54fc6f463.1920x1080.jpg?t=1786278842",
+        "alt": "RAZE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/ab54291ac5c475ee6d352d6a21e6045505eb8b92/ss_ab54291ac5c475ee6d352d6a21e6045505eb8b92.1920x1080.jpg?t=1786278842",
+        "alt": "RAZE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/d0069a89491cf7f2206c9c0877496f30e11c8297/ss_d0069a89491cf7f2206c9c0877496f30e11c8297.1920x1080.jpg?t=1786278842",
+        "alt": "RAZE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/376436b3debd8a453b962e85fb2cbd0bff3b2016/ss_376436b3debd8a453b962e85fb2cbd0bff3b2016.1920x1080.jpg?t=1786278842",
+        "alt": "RAZE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/17dd5af9d874b4f22d05f29ac80f7b9f8fa41332/ss_17dd5af9d874b4f22d05f29ac80f7b9f8fa41332.1920x1080.jpg?t=1786278842",
+        "alt": "RAZE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/b9c4157ac1912ef7112c5e34881ba7bc3dd977a5/ss_b9c4157ac1912ef7112c5e34881ba7bc3dd977a5.1920x1080.jpg?t=1786278842",
+        "alt": "RAZE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/6c047a2b1fc749d66f2c8e54834391d140276b2f/ss_6c047a2b1fc749d66f2c8e54834391d140276b2f.1920x1080.jpg?t=1786278842",
+        "alt": "RAZE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279790/9338b411b4590b9442973ccf884d0e189759747e/ss_9338b411b4590b9442973ccf884d0e189759747e.1920x1080.jpg?t=1786278842",
+        "alt": "RAZE 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

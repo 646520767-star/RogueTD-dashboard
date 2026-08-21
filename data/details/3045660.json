@@ -1,1 +1,178 @@
-{"identity":{"original_title":"东方醉游稽传~Touhou Drunken Rebellion","developers":["落羽社"],"publishers":["落羽社"],"release_status":"released","release_date":"2025-11-19","tags":["动作肉鸽","动作","类Rogue","像素画面","冒险"]},"hooks":[{"text":"弱小妖怪以酒吧为据点成立改革组织，发起自下而上的幻想乡叛乱","dimension":"故事","excerpt":"They form the Youkai Reform Organization , using a lively youkai bar as their base of operations, recruiting like-minded allies from far and wide. In this glorious rebellion from below, they swear to reclaim the justice that belongs to them!","url":"https://store.steampowered.com/app/3045660/","label":"证据原文片段"},{"text":"不同弹幕各有战术用途，可装配到武器上重组火力模式","dimension":"玩法","excerpt":"Every type of danmaku has its own unique purpose. Equip them onto your weapons and unleash your frepower in the most spectacular way possible!","url":"https://store.steampowered.com/app/3045660/","label":"证据原文片段"},{"text":"根据战况搭配酒类被动、角色特性和弹幕，喝出强力联动","dimension":"玩法","excerpt":"The game features a wide variety of drinks, each providing diferent passive efects. Choosing the right drinks, character passives, and danmaku for each situation is one of the keys to becoming truly powerful.","url":"https://store.steampowered.com/app/3045660/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2192,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":487,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":16108,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2738,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2738,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.195927971538439,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":144,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.724138,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/23518467d0a3f0519b71d916f74eb0765cfdb5ff/ss_23518467d0a3f0519b71d916f74eb0765cfdb5ff.1920x1080.jpg?t=1781075695","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/23518467d0a3f0519b71d916f74eb0765cfdb5ff/ss_23518467d0a3f0519b71d916f74eb0765cfdb5ff.1920x1080.jpg?t=1781075695","alt":"东方醉游稽传~Touhou Drunken Rebellion 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/8af97f0ff9ff36bd2989d7c05f7214b41537acc5/ss_8af97f0ff9ff36bd2989d7c05f7214b41537acc5.1920x1080.jpg?t=1781075695","alt":"东方醉游稽传~Touhou Drunken Rebellion 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/0873949bbf340951fb129b35bf85628b8ab41ae0/ss_0873949bbf340951fb129b35bf85628b8ab41ae0.1920x1080.jpg?t=1781075695","alt":"东方醉游稽传~Touhou Drunken Rebellion 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/5d249220ac6975f2fcfa35f1682025ba970f7c62/ss_5d249220ac6975f2fcfa35f1682025ba970f7c62.1920x1080.jpg?t=1781075695","alt":"东方醉游稽传~Touhou Drunken Rebellion 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "东方醉游稽传~Touhou Drunken Rebellion",
+    "developers": [
+      "落羽社"
+    ],
+    "publishers": [
+      "落羽社"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-19",
+    "tags": [
+      "动作肉鸽",
+      "动作",
+      "类Rogue",
+      "像素画面",
+      "冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "弱小妖怪以酒吧为据点成立改革组织，发起自下而上的幻想乡叛乱",
+      "dimension": "故事",
+      "excerpt": "They form the Youkai Reform Organization , using a lively youkai bar as their base of operations, recruiting like-minded allies from far and wide. In this glorious rebellion from below, they swear to reclaim the justice that belongs to them!",
+      "url": "https://store.steampowered.com/app/3045660/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不同弹幕各有战术用途，可装配到武器上重组火力模式",
+      "dimension": "玩法",
+      "excerpt": "Every type of danmaku has its own unique purpose. Equip them onto your weapons and unleash your frepower in the most spectacular way possible!",
+      "url": "https://store.steampowered.com/app/3045660/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "根据战况搭配酒类被动、角色特性和弹幕，喝出强力联动",
+      "dimension": "玩法",
+      "excerpt": "The game features a wide variety of drinks, each providing diferent passive efects. Choosing the right drinks, character passives, and danmaku for each situation is one of the keys to becoming truly powerful.",
+      "url": "https://store.steampowered.com/app/3045660/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2480,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 493,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 17801,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3100,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3100,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.2360679265424555,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 105,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.156463,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "东方醉游稽传~Touhou Drunken Rebellion位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/23518467d0a3f0519b71d916f74eb0765cfdb5ff/ss_23518467d0a3f0519b71d916f74eb0765cfdb5ff.1920x1080.jpg?t=1781075695",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/23518467d0a3f0519b71d916f74eb0765cfdb5ff/ss_23518467d0a3f0519b71d916f74eb0765cfdb5ff.1920x1080.jpg?t=1781075695",
+        "alt": "东方醉游稽传~Touhou Drunken Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/8af97f0ff9ff36bd2989d7c05f7214b41537acc5/ss_8af97f0ff9ff36bd2989d7c05f7214b41537acc5.1920x1080.jpg?t=1781075695",
+        "alt": "东方醉游稽传~Touhou Drunken Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/0873949bbf340951fb129b35bf85628b8ab41ae0/ss_0873949bbf340951fb129b35bf85628b8ab41ae0.1920x1080.jpg?t=1781075695",
+        "alt": "东方醉游稽传~Touhou Drunken Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/5d249220ac6975f2fcfa35f1682025ba970f7c62/ss_5d249220ac6975f2fcfa35f1682025ba970f7c62.1920x1080.jpg?t=1781075695",
+        "alt": "东方醉游稽传~Touhou Drunken Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/3b8870c810899939b0c506cd9e9061d76d9e0f22/ss_3b8870c810899939b0c506cd9e9061d76d9e0f22.1920x1080.jpg?t=1781075695",
+        "alt": "东方醉游稽传~Touhou Drunken Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/0ce97a3b8d62260f20e81ee3b2c1f5b9c4b9af9f/ss_0ce97a3b8d62260f20e81ee3b2c1f5b9c4b9af9f.1920x1080.jpg?t=1781075695",
+        "alt": "东方醉游稽传~Touhou Drunken Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/d105f27975434d6143624b6d2db526689389a26f/ss_d105f27975434d6143624b6d2db526689389a26f.1920x1080.jpg?t=1781075695",
+        "alt": "东方醉游稽传~Touhou Drunken Rebellion 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045660/74f828cd8d474470f85ebd8805f0ff9c47165b24/ss_74f828cd8d474470f85ebd8805f0ff9c47165b24.1920x1080.jpg?t=1781075695",
+        "alt": "东方醉游稽传~Touhou Drunken Rebellion 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

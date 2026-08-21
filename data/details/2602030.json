@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Entropy Survivors","developers":["Moving Pieces Interactive"],"publishers":["First Break Labs"],"release_status":"released","release_date":"2024-12-04","tags":["动作肉鸽","合作","砍杀","弹幕射击","轻度Rogue"]},"hooks":[{"text":"同时控制持剑机甲与神枪手太空青蛙，在反向弹幕战中让两个角色共同作战。","dimension":"玩法","excerpt":"A sword-wielding mech. A sharpshooting space frog. Control both characters simultaneously against the forces of Entropy in this reverse bullet hell roguelike.","url":"https://store.steampowered.com/app/2602030/","label":"证据原文片段"},{"text":"支持单人或在线合作，队友可围绕协同构筑并肩作战，也可竞争最高分。","dimension":"玩法","excerpt":"Play by yourself, or bring your friends along for a genre-bending online co-op experience! Become best buddies with synergetic builds or prove yourself champion in the contest for high score.","url":"https://store.steampowered.com/app/2602030/","label":"证据原文片段"},{"text":"空枪可直接掷向敌人，长矛能串烧目标，还有武装垃圾车和蜂群枪等荒诞武器。","dimension":"玩法","excerpt":"Is your shotgun out of ammo? Throw it at your enemies! Feeling hungry? Use your spear as a shish-kabob. Unlock dozens of customizable options to power up and create your own playstyle. From weaponized garbage trucks to a gun that shoots bees, Entropy Survivors is overflowing with unique weapons, abilities, and upgrades that’ll make you ask “What?”","url":"https://store.steampowered.com/app/2602030/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":61316,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":48296,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4398,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":348179,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":68002,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":68002,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.4954679435895155,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":534,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.71161,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_f0bc5c2215efb606ba50aaed2c55d37991b3c214.1920x1080.jpg?t=1768937525","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_f0bc5c2215efb606ba50aaed2c55d37991b3c214.1920x1080.jpg?t=1768937525","alt":"Entropy Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_f9e5b836346cbf5b2f4216f12b87def125ab2665.1920x1080.jpg?t=1768937525","alt":"Entropy Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_5782af3299339374a6dda97b7e7c633eb3f83dd3.1920x1080.jpg?t=1768937525","alt":"Entropy Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_263bb8224695fb9d4ba319cda77e2c8b459610ef.1920x1080.jpg?t=1768937525","alt":"Entropy Survivors 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Entropy Survivors",
+    "developers": [
+      "Moving Pieces Interactive"
+    ],
+    "publishers": [
+      "First Break Labs"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-04",
+    "tags": [
+      "动作肉鸽",
+      "动作肉鸽",
+      "合作",
+      "砍杀",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "同时控制持剑机甲与神枪手太空青蛙，在反向弹幕战中让两个角色共同作战。",
+      "dimension": "玩法",
+      "excerpt": "A sword-wielding mech. A sharpshooting space frog. Control both characters simultaneously against the forces of Entropy in this reverse bullet hell roguelike.",
+      "url": "https://store.steampowered.com/app/2602030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "支持单人或在线合作，队友可围绕协同构筑并肩作战，也可竞争最高分。",
+      "dimension": "玩法",
+      "excerpt": "Play by yourself, or bring your friends along for a genre-bending online co-op experience! Become best buddies with synergetic builds or prove yourself champion in the contest for high score.",
+      "url": "https://store.steampowered.com/app/2602030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "空枪可直接掷向敌人，长矛能串烧目标，还有武装垃圾车和蜂群枪等荒诞武器。",
+      "dimension": "玩法",
+      "excerpt": "Is your shotgun out of ammo? Throw it at your enemies! Feeling hungry? Use your spear as a shish-kabob. Unlock dozens of customizable options to power up and create your own playstyle. From weaponized garbage trucks to a gun that shoots bees, Entropy Survivors is overflowing with unique weapons, abilities, and upgrades that’ll make you ask “What?”",
+      "url": "https://store.steampowered.com/app/2602030/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 64273,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 46025,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4411,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 355211,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 71664,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 71664,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.196442815974217,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 463,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.662983,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Entropy Survivors位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_f0bc5c2215efb606ba50aaed2c55d37991b3c214.1920x1080.jpg?t=1768937525",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_f0bc5c2215efb606ba50aaed2c55d37991b3c214.1920x1080.jpg?t=1768937525",
+        "alt": "Entropy Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_f9e5b836346cbf5b2f4216f12b87def125ab2665.1920x1080.jpg?t=1768937525",
+        "alt": "Entropy Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_5782af3299339374a6dda97b7e7c633eb3f83dd3.1920x1080.jpg?t=1768937525",
+        "alt": "Entropy Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_263bb8224695fb9d4ba319cda77e2c8b459610ef.1920x1080.jpg?t=1768937525",
+        "alt": "Entropy Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_860f543b4e99d5421e6097e609f68fa187e4ad1c.1920x1080.jpg?t=1768937525",
+        "alt": "Entropy Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_087711de5c92be0d4b45e681e5489055ac742d04.1920x1080.jpg?t=1768937525",
+        "alt": "Entropy Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_c17dfdc08076b931f87e2967d974cdae1c55b1b0.1920x1080.jpg?t=1768937525",
+        "alt": "Entropy Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2602030/ss_8887b80cab876c7b3f05f54f252a3390ed9724d7.1920x1080.jpg?t=1768937525",
+        "alt": "Entropy Survivors 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

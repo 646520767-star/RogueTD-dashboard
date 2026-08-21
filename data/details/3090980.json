@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Dungeon Tycoon: Prologue","developers":["Lunheim Studios"],"publishers":["Lunheim Studios"],"release_status":"released","release_date":"2024-07-29","tags":["塔防","地牢探索","经营管理","奇幻","高重复可玩性"]},"hooks":[{"text":"同时规划地牢布局、陷阱位置、雇佣怪物和宝藏诱饵，为来访英雄设计完整冒险路线","dimension":"玩法","excerpt":"You not only design the layout, but choose the best places for whatever traps you decide to use, which monsters you will hire to face the heroes, and what treasures await those skilled enough to claim victory.","url":"https://store.steampowered.com/app/3090980/","label":"证据原文片段"},{"text":"观察英雄访客的实际行为来迭代地牢设计，并向他们出售药水等辅助品获取经营收益","dimension":"玩法","excerpt":"Inspect and watch your visitors to see how you can further improve your design. Sell potions and other various aids to your visitors.","url":"https://store.steampowered.com/app/3090980/","label":"证据原文片段"},{"text":"召唤并升级守关生物，同时通过研究持续解锁新的地牢改造方式","dimension":"玩法","excerpt":"Summon and upgrade powerful creatures to challenge heroes in their pursuit to find the treasures that lay within the dungeon. Research new stuff to unlock new ways of improving your dungeon.","url":"https://store.steampowered.com/app/3090980/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":30861,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":6355,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1739,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":30861,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":30861,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.2792983852704014,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":371,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.495957,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"塔防、地牢探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_7ca2069f493a505ff2c856b64584c28095044452.1920x1080.jpg?t=1729324066","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_7ca2069f493a505ff2c856b64584c28095044452.1920x1080.jpg?t=1729324066","alt":"Dungeon Tycoon: Prologue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_5fd511244ea18d797b27d9f9fec126231284523d.1920x1080.jpg?t=1729324066","alt":"Dungeon Tycoon: Prologue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_fd67da7dd7cf4300f1974450fb424872377849d6.1920x1080.jpg?t=1729324066","alt":"Dungeon Tycoon: Prologue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_95a6ada3ae7f657659d1701f9c22353580119f31.1920x1080.jpg?t=1729324066","alt":"Dungeon Tycoon: Prologue 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dungeon Tycoon: Prologue",
+    "developers": [
+      "Lunheim Studios"
+    ],
+    "publishers": [
+      "Lunheim Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2024-07-29",
+    "tags": [
+      "塔防",
+      "地牢探索",
+      "经营管理",
+      "经营管理",
+      "奇幻"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "同时规划地牢布局、陷阱位置、雇佣怪物和宝藏诱饵，为来访英雄设计完整冒险路线",
+      "dimension": "玩法",
+      "excerpt": "You not only design the layout, but choose the best places for whatever traps you decide to use, which monsters you will hire to face the heroes, and what treasures await those skilled enough to claim victory.",
+      "url": "https://store.steampowered.com/app/3090980/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "观察英雄访客的实际行为来迭代地牢设计，并向他们出售药水等辅助品获取经营收益",
+      "dimension": "玩法",
+      "excerpt": "Inspect and watch your visitors to see how you can further improve your design. Sell potions and other various aids to your visitors.",
+      "url": "https://store.steampowered.com/app/3090980/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "召唤并升级守关生物，同时通过研究持续解锁新的地牢改造方式",
+      "dimension": "玩法",
+      "excerpt": "Summon and upgrade powerful creatures to challenge heroes in their pursuit to find the treasures that lay within the dungeon. Research new stuff to unlock new ways of improving your dungeon.",
+      "url": "https://store.steampowered.com/app/3090980/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 30972,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 6392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1739,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 30972,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 30972,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.275040988169112,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 372,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.505376,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Dungeon Tycoon: Prologue位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_7ca2069f493a505ff2c856b64584c28095044452.1920x1080.jpg?t=1729324066",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_7ca2069f493a505ff2c856b64584c28095044452.1920x1080.jpg?t=1729324066",
+        "alt": "Dungeon Tycoon: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_5fd511244ea18d797b27d9f9fec126231284523d.1920x1080.jpg?t=1729324066",
+        "alt": "Dungeon Tycoon: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_fd67da7dd7cf4300f1974450fb424872377849d6.1920x1080.jpg?t=1729324066",
+        "alt": "Dungeon Tycoon: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_95a6ada3ae7f657659d1701f9c22353580119f31.1920x1080.jpg?t=1729324066",
+        "alt": "Dungeon Tycoon: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_44e3043b48e442c84a9555150b66fb9f8dcb6d07.1920x1080.jpg?t=1729324066",
+        "alt": "Dungeon Tycoon: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_92b0107da3a6b2bf3645e3cb1a81bfe95790aa1c.1920x1080.jpg?t=1729324066",
+        "alt": "Dungeon Tycoon: Prologue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090980/ss_1b001e197094a15223f38ee13f28dc0cbefb4f87.1920x1080.jpg?t=1729324066",
+        "alt": "Dungeon Tycoon: Prologue 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,159 @@
-{"identity":{"original_title":"Little Immortal Cultivator","developers":["YiHuan Game"],"publishers":["YiHuan Game"],"release_status":"released","release_date":"2026-07-02","tags":["肉鸽卡组构筑","卡牌对战","卡牌游戏","类Rogue","策略"]},"hooks":[{"text":"新手修士在封魔塔中战斗、修炼与突破，踏上成仙之路","dimension":"题材","excerpt":"Here, you'll play as a novice cultivator entering the world of cultivation, constantly fighting, training, and breaking through in the mysterious \"Demon-Sealing Tower\" to embark on the path to immortality!","url":"https://store.steampowered.com/app/3871550/","label":"证据原文片段"},{"text":"剑、法、魔三类核心流派可混搭炼丹、锻造、商人等辅助路线","dimension":"玩法","excerpt":"You can choose mainstream builds such as sword cultivator, magic cultivator, and demon cultivator as your core build direction, combined with various support builds like alchemy, immortal enlightenment, immortality, blacksmithing, and merchant, creating ever-changing deck strategies.","url":"https://store.steampowered.com/app/3871550/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":237,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":153,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1548,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":588,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":588,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.137855838402644,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":34,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.058824,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、卡牌对战","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/e0b1e0764c591cd685dcefcec1891da4df51ec6d/ss_e0b1e0764c591cd685dcefcec1891da4df51ec6d.1920x1080.jpg?t=1783054694","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/e0b1e0764c591cd685dcefcec1891da4df51ec6d/ss_e0b1e0764c591cd685dcefcec1891da4df51ec6d.1920x1080.jpg?t=1783054694","alt":"小小修仙者 Little Immortal Cultivator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/8edffe68572584a2edccab89ee4caafa992f7b33/ss_8edffe68572584a2edccab89ee4caafa992f7b33.1920x1080.jpg?t=1783054694","alt":"小小修仙者 Little Immortal Cultivator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/126578e287eb63a4d7bc5e4900b54ee4368bed85/ss_126578e287eb63a4d7bc5e4900b54ee4368bed85.1920x1080.jpg?t=1783054694","alt":"小小修仙者 Little Immortal Cultivator 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/31725ac519109310690519678810e4c6aa30c12a/ss_31725ac519109310690519678810e4c6aa30c12a.1920x1080.jpg?t=1783054694","alt":"小小修仙者 Little Immortal Cultivator 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Little Immortal Cultivator",
+    "developers": [
+      "YiHuan Game"
+    ],
+    "publishers": [
+      "YiHuan Game"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-02",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡牌对战",
+      "卡牌对战",
+      "类Rogue",
+      "卡牌游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "新手修士在封魔塔中战斗、修炼与突破，踏上成仙之路",
+      "dimension": "题材",
+      "excerpt": "Here, you'll play as a novice cultivator entering the world of cultivation, constantly fighting, training, and breaking through in the mysterious \"Demon-Sealing Tower\" to embark on the path to immortality!",
+      "url": "https://store.steampowered.com/app/3871550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "剑、法、魔三类核心流派可混搭炼丹、锻造、商人等辅助路线",
+      "dimension": "玩法",
+      "excerpt": "You can choose mainstream builds such as sword cultivator, magic cultivator, and demon cultivator as your core build direction, combined with various support builds like alchemy, immortal enlightenment, immortality, blacksmithing, and merchant, creating ever-changing deck strategies.",
+      "url": "https://store.steampowered.com/app/3871550/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 234,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 156,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1347,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 582,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 582,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.169892105870538,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 5,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.058824,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "小小修仙者 Little Immortal Cultivator位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/e0b1e0764c591cd685dcefcec1891da4df51ec6d/ss_e0b1e0764c591cd685dcefcec1891da4df51ec6d.1920x1080.jpg?t=1783054694",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/e0b1e0764c591cd685dcefcec1891da4df51ec6d/ss_e0b1e0764c591cd685dcefcec1891da4df51ec6d.1920x1080.jpg?t=1783054694",
+        "alt": "小小修仙者 Little Immortal Cultivator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/8edffe68572584a2edccab89ee4caafa992f7b33/ss_8edffe68572584a2edccab89ee4caafa992f7b33.1920x1080.jpg?t=1783054694",
+        "alt": "小小修仙者 Little Immortal Cultivator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/126578e287eb63a4d7bc5e4900b54ee4368bed85/ss_126578e287eb63a4d7bc5e4900b54ee4368bed85.1920x1080.jpg?t=1783054694",
+        "alt": "小小修仙者 Little Immortal Cultivator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/31725ac519109310690519678810e4c6aa30c12a/ss_31725ac519109310690519678810e4c6aa30c12a.1920x1080.jpg?t=1783054694",
+        "alt": "小小修仙者 Little Immortal Cultivator 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/7970b7b34ee2ffe8c147f6f2cb5fbcf822e71800/ss_7970b7b34ee2ffe8c147f6f2cb5fbcf822e71800.1920x1080.jpg?t=1783054694",
+        "alt": "小小修仙者 Little Immortal Cultivator 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Frontline Crisis","developers":["BCQT"],"publishers":["Gamersky Games"],"release_status":"released","release_date":"2024-08-14","tags":["塔防","俯视角射击","即时战略","策略","像素画面"]},"hooks":[{"text":"全局只直接操控一台机甲，却同时承担射击、采集、建造与召唤","dimension":"玩法","excerpt":"Here, you control just one mech. It can walk, shoot, kill insects, gather resources, build, and summon.","url":"https://store.steampowered.com/app/3139620/","label":"证据原文片段"},{"text":"开战前可不限节奏布置防线，进入战斗后再亲自执行火力计划","dimension":"玩法","excerpt":"Pre-Battle Phase: Strategize and set up your defenses at your own pace. Combat Phase: Execute your strategy and unleash your firepower.","url":"https://store.steampowered.com/app/3139620/","label":"证据原文片段"},{"text":"本地双人把战场拆成地面与空中，两名玩家分别负责互补兵种","dimension":"玩法","excerpt":"Plus, you can team up with a friend to fight off relentless alien swarms! One player handles ground forces, the other takes to the skies, complementing each other.","url":"https://store.steampowered.com/app/3139620/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":26950,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":38129,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2554,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":96495,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":29556,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":29556,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.306348997461298,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":389,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.660668,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"塔防、俯视角射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_3fc1ce8e2539ccb2ba13237528df7ea8bcb0f28f.1920x1080.jpg?t=1784202747","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_3fc1ce8e2539ccb2ba13237528df7ea8bcb0f28f.1920x1080.jpg?t=1784202747","alt":"战线危机 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_dc4d19df15feea2934d2a49b574a696c6403ac7c.1920x1080.jpg?t=1784202747","alt":"战线危机 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_29124d094ffc4827e64c9e509c15c07a76e23a4b.1920x1080.jpg?t=1784202747","alt":"战线危机 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_cc9831fb368183eded64f47f4ed17ec32bc03116.1920x1080.jpg?t=1784202747","alt":"战线危机 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Frontline Crisis",
+    "developers": [
+      "BCQT"
+    ],
+    "publishers": [
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-14",
+    "tags": [
+      "塔防",
+      "俯视角射击",
+      "即时战略",
+      "策略",
+      "像素画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "全局只直接操控一台机甲，却同时承担射击、采集、建造与召唤",
+      "dimension": "玩法",
+      "excerpt": "Here, you control just one mech. It can walk, shoot, kill insects, gather resources, build, and summon.",
+      "url": "https://store.steampowered.com/app/3139620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "开战前可不限节奏布置防线，进入战斗后再亲自执行火力计划",
+      "dimension": "玩法",
+      "excerpt": "Pre-Battle Phase: Strategize and set up your defenses at your own pace. Combat Phase: Execute your strategy and unleash your firepower.",
+      "url": "https://store.steampowered.com/app/3139620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "本地双人把战场拆成地面与空中，两名玩家分别负责互补兵种",
+      "dimension": "玩法",
+      "excerpt": "Plus, you can team up with a friend to fight off relentless alien swarms! One player handles ground forces, the other takes to the skies, complementing each other.",
+      "url": "https://store.steampowered.com/app/3139620/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 28711,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 38355,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2552,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 92783,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 31457,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 31457,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.3064188635728797,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 344,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.531807,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "战线危机位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_3fc1ce8e2539ccb2ba13237528df7ea8bcb0f28f.1920x1080.jpg?t=1784202747",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_3fc1ce8e2539ccb2ba13237528df7ea8bcb0f28f.1920x1080.jpg?t=1786970348",
+        "alt": "战线危机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_dc4d19df15feea2934d2a49b574a696c6403ac7c.1920x1080.jpg?t=1786970348",
+        "alt": "战线危机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_29124d094ffc4827e64c9e509c15c07a76e23a4b.1920x1080.jpg?t=1786970348",
+        "alt": "战线危机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_cc9831fb368183eded64f47f4ed17ec32bc03116.1920x1080.jpg?t=1786970348",
+        "alt": "战线危机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_b4c7dcb55faa690e02c712fb34f9fbd5b7fea5f9.1920x1080.jpg?t=1786970348",
+        "alt": "战线危机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_217ad9246a2c6a955229727255a6f09e50d0f391.1920x1080.jpg?t=1786970348",
+        "alt": "战线危机 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139620/ss_4997035d0ec019a75cfa1deebf089dc76505c860.1920x1080.jpg?t=1786970348",
+        "alt": "战线危机 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

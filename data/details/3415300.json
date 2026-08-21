@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Supercat Survivors","developers":["Happy Universe Studios"],"publishers":["Happy Universe Studios"],"release_status":"released","release_date":"2026-02-10","tags":["动作肉鸽","弹幕射击","动作","卡组构筑","类Rogue"]},"hooks":[{"text":"选择主猫与副猫融合并继承双方全部特性，可形成一千多种组合","dimension":"玩法","excerpt":"Fusion Mode : Select a primary and a secondary Supercat to fuse. The fused Supercat inherits all traits of both, with over 1,000 combinations for ever-changing combat, growth, and strategy!","url":"https://store.steampowered.com/app/3415300/","label":"证据原文片段"},{"text":"生存模式先用十波抢装备再比最终时长，无尽模式需打通经典二十波解锁","dimension":"玩法","excerpt":"Survival Mode : Collect weapons and items quickly through 10 waves. Compete to see whose build strategy lets them survive longer in the final survival stage! Endless Mode : The fight to save Meow Star never ends! Unlock it after clearing 20 waves in Classic Mode to push your Supercat’s combat limits!","url":"https://store.steampowered.com/app/3415300/","label":"证据原文片段"},{"text":"三十五只猫、一百九十件道具与四十五把武器围绕长短板构建协同","dimension":"玩法","excerpt":"35+ unique Supercats, 190+ items, and 45+ weapons offer endless Roguelike combinations. Each Supercat has strengths and weaknesses—mastering synergies and growth paths is key!","url":"https://store.steampowered.com/app/3415300/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3661,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":378,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":22113,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4304,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4304,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.529750898768669,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":178,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.146067,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/3d0a01716c70dff0088ae2981878f61250ba20df/ss_3d0a01716c70dff0088ae2981878f61250ba20df.1920x1080.jpg?t=1781772897","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/3d0a01716c70dff0088ae2981878f61250ba20df/ss_3d0a01716c70dff0088ae2981878f61250ba20df.1920x1080.jpg?t=1781772897","alt":"超级猫幸存者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/3a33040b7473eba08cd8d635eef6d73334bdb8c8/ss_3a33040b7473eba08cd8d635eef6d73334bdb8c8.1920x1080.jpg?t=1781772897","alt":"超级猫幸存者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/cd5be6e49f341212891fc86e7f5f561c38fb7bd0/ss_cd5be6e49f341212891fc86e7f5f561c38fb7bd0.1920x1080.jpg?t=1781772897","alt":"超级猫幸存者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/bff32f1bae48b00780253315fdb9116dcdb65bf4/ss_bff32f1bae48b00780253315fdb9116dcdb65bf4.1920x1080.jpg?t=1781772897","alt":"超级猫幸存者 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Supercat Survivors",
+    "developers": [
+      "Happy Universe Studios"
+    ],
+    "publishers": [
+      "Happy Universe Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-10",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "动作",
+      "卡组构筑",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "选择主猫与副猫融合并继承双方全部特性，可形成一千多种组合",
+      "dimension": "玩法",
+      "excerpt": "Fusion Mode : Select a primary and a secondary Supercat to fuse. The fused Supercat inherits all traits of both, with over 1,000 combinations for ever-changing combat, growth, and strategy!",
+      "url": "https://store.steampowered.com/app/3415300/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "生存模式先用十波抢装备再比最终时长，无尽模式需打通经典二十波解锁",
+      "dimension": "玩法",
+      "excerpt": "Survival Mode : Collect weapons and items quickly through 10 waves. Compete to see whose build strategy lets them survive longer in the final survival stage! Endless Mode : The fight to save Meow Star never ends! Unlock it after clearing 20 waves in Classic Mode to push your Supercat’s combat limits!",
+      "url": "https://store.steampowered.com/app/3415300/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三十五只猫、一百九十件道具与四十五把武器围绕长短板构建协同",
+      "dimension": "玩法",
+      "excerpt": "35+ unique Supercats, 190+ items, and 45+ weapons offer endless Roguelike combinations. Each Supercat has strengths and weaknesses—mastering synergies and growth paths is key!",
+      "url": "https://store.steampowered.com/app/3415300/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3803,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 391,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 22071,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4483,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4483,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.476236511987927,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 141,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.333333,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "超级猫幸存者位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/3d0a01716c70dff0088ae2981878f61250ba20df/ss_3d0a01716c70dff0088ae2981878f61250ba20df.1920x1080.jpg?t=1781772897",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/3d0a01716c70dff0088ae2981878f61250ba20df/ss_3d0a01716c70dff0088ae2981878f61250ba20df.1920x1080.jpg?t=1781772897",
+        "alt": "超级猫幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/3a33040b7473eba08cd8d635eef6d73334bdb8c8/ss_3a33040b7473eba08cd8d635eef6d73334bdb8c8.1920x1080.jpg?t=1781772897",
+        "alt": "超级猫幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/cd5be6e49f341212891fc86e7f5f561c38fb7bd0/ss_cd5be6e49f341212891fc86e7f5f561c38fb7bd0.1920x1080.jpg?t=1781772897",
+        "alt": "超级猫幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/bff32f1bae48b00780253315fdb9116dcdb65bf4/ss_bff32f1bae48b00780253315fdb9116dcdb65bf4.1920x1080.jpg?t=1781772897",
+        "alt": "超级猫幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/1b379ed09fc96a9b53158ad0d50b61fb9a36fa38/ss_1b379ed09fc96a9b53158ad0d50b61fb9a36fa38.1920x1080.jpg?t=1781772897",
+        "alt": "超级猫幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/59341bfde1330981578ebc3ab0b5c7cb30818bfd/ss_59341bfde1330981578ebc3ab0b5c7cb30818bfd.1920x1080.jpg?t=1781772897",
+        "alt": "超级猫幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/a07c7512535ae6d4d26a8e8fb4e9149a65380584/ss_a07c7512535ae6d4d26a8e8fb4e9149a65380584.1920x1080.jpg?t=1781772897",
+        "alt": "超级猫幸存者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415300/801d1c81aaf1c1ca4431e1acd5f9e57c64112d34/ss_801d1c81aaf1c1ca4431e1acd5f9e57c64112d34.1920x1080.jpg?t=1781772897",
+        "alt": "超级猫幸存者 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

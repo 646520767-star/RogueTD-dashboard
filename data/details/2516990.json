@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Gunner-chan!","developers":["kido"],"publishers":["kido"],"release_status":"released","release_date":"2025-05-30","tags":["动作","动作肉鸽","俯视角射击","女性主角","2.5D画面"]},"hooks":[{"text":"枪械没有换弹或补充弹药机制，武器耗尽后仍可用光束刀进行近身战。","dimension":"玩法","excerpt":"There is no reloading or refilling ammunition. Even if you don't have a gun, you can utilize a beam knife for close quarter combat.","url":"https://store.steampowered.com/app/2516990/","label":"证据原文片段"},{"text":"射程内武器自动锁定敌人，冲刺期间无敌，可把冲刺时机用于穿越弹幕。","dimension":"玩法","excerpt":"Unlike twin-stick shooters, your weapon automatically aims at the enemy when within range. You're invincible while dashing. Use this to dodge enemy bullets.","url":"https://store.steampowered.com/app/2516990/","label":"证据原文片段"},{"text":"简单与普通模式保留解锁成长，专家模式则完全取消继承，只检验玩家操作。","dimension":"玩法","excerpt":"There are unlockable elements that can be carried over in easy and normal game modes. In expert mode, there are no carry over elements at all. Use only your skills as a player to break your enemies.","url":"https://store.steampowered.com/app/2516990/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8667,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":40670,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2015,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":72791,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9372,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9372,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.3067446047389635,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":242,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.14876,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/c76a434cb32120ad0eb227d1f39ef40c2f1983fe/ss_c76a434cb32120ad0eb227d1f39ef40c2f1983fe.1920x1080.jpg?t=1759477198","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/c76a434cb32120ad0eb227d1f39ef40c2f1983fe/ss_c76a434cb32120ad0eb227d1f39ef40c2f1983fe.1920x1080.jpg?t=1759477198","alt":"Gunner-chan! 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/b2d2ad832fecaff514822c68bd339a524e5bf7ea/ss_b2d2ad832fecaff514822c68bd339a524e5bf7ea.1920x1080.jpg?t=1759477198","alt":"Gunner-chan! 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/b3f1e7dc066e8f23b5343b0f3226842922bdffc9/ss_b3f1e7dc066e8f23b5343b0f3226842922bdffc9.1920x1080.jpg?t=1759477198","alt":"Gunner-chan! 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/90bf0da0d1e362213db298075a9a72b7a8a40406/ss_90bf0da0d1e362213db298075a9a72b7a8a40406.1920x1080.jpg?t=1759477198","alt":"Gunner-chan! 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Gunner-chan!",
+    "developers": [
+      "kido"
+    ],
+    "publishers": [
+      "kido"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-30",
+    "tags": [
+      "动作",
+      "动作肉鸽",
+      "俯视角射击",
+      "女性主角",
+      "2.5D画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "枪械没有换弹或补充弹药机制，武器耗尽后仍可用光束刀进行近身战。",
+      "dimension": "玩法",
+      "excerpt": "There is no reloading or refilling ammunition. Even if you don't have a gun, you can utilize a beam knife for close quarter combat.",
+      "url": "https://store.steampowered.com/app/2516990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "射程内武器自动锁定敌人，冲刺期间无敌，可把冲刺时机用于穿越弹幕。",
+      "dimension": "玩法",
+      "excerpt": "Unlike twin-stick shooters, your weapon automatically aims at the enemy when within range. You're invincible while dashing. Use this to dodge enemy bullets.",
+      "url": "https://store.steampowered.com/app/2516990/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "简单与普通模式保留解锁成长，专家模式则完全取消继承，只检验玩家操作。",
+      "dimension": "玩法",
+      "excerpt": "There are unlockable elements that can be carried over in easy and normal game modes. In expert mode, there are no carry over elements at all. Use only your skills as a player to break your enemies.",
+      "url": "https://store.steampowered.com/app/2516990/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 9561,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 39633,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2015,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 79266,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10328,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10328,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.237863053855362,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 219,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.836735,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Gunner-chan!位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/c76a434cb32120ad0eb227d1f39ef40c2f1983fe/ss_c76a434cb32120ad0eb227d1f39ef40c2f1983fe.1920x1080.jpg?t=1759477198",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/c76a434cb32120ad0eb227d1f39ef40c2f1983fe/ss_c76a434cb32120ad0eb227d1f39ef40c2f1983fe.1920x1080.jpg?t=1759477198",
+        "alt": "Gunner-chan! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/b2d2ad832fecaff514822c68bd339a524e5bf7ea/ss_b2d2ad832fecaff514822c68bd339a524e5bf7ea.1920x1080.jpg?t=1759477198",
+        "alt": "Gunner-chan! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/b3f1e7dc066e8f23b5343b0f3226842922bdffc9/ss_b3f1e7dc066e8f23b5343b0f3226842922bdffc9.1920x1080.jpg?t=1759477198",
+        "alt": "Gunner-chan! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/90bf0da0d1e362213db298075a9a72b7a8a40406/ss_90bf0da0d1e362213db298075a9a72b7a8a40406.1920x1080.jpg?t=1759477198",
+        "alt": "Gunner-chan! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/1fcec941e5a5f2e18b0a05b00486d7188a831417/ss_1fcec941e5a5f2e18b0a05b00486d7188a831417.1920x1080.jpg?t=1759477198",
+        "alt": "Gunner-chan! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/4f49ef5abdd738e29ea10e580f86c78965b01aa5/ss_4f49ef5abdd738e29ea10e580f86c78965b01aa5.1920x1080.jpg?t=1759477198",
+        "alt": "Gunner-chan! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/527241c99eebe77e531238af04e87192f4b122e7/ss_527241c99eebe77e531238af04e87192f4b122e7.1920x1080.jpg?t=1759477198",
+        "alt": "Gunner-chan! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2516990/b6eed7c5824d453ef58e439fced25c4f8cd0b16f/ss_b6eed7c5824d453ef58e439fced25c4f8cd0b16f.1920x1080.jpg?t=1759477198",
+        "alt": "Gunner-chan! 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Into the Restless Ruins","developers":["Ant Workshop Ltd"],"publishers":["Wales Interactive"],"release_status":"released","release_date":"2025-05-15","tags":["动作肉鸽","肉鸽卡组构筑","地牢探索","轻度Rogue","自走棋"]},"hooks":[{"text":"先用房间与走廊卡亲手扩建迷宫，再自动闯过自己造出的地牢","dimension":"玩法","excerpt":"Use your deck of cards, representing rooms and corridors, to grow the labyrinth of the ruins. Then auto-battle your way through them, harvesting as much Glimour as you can from the cursed residents before darkness overcomes your torch.","url":"https://store.steampowered.com/app/2877770/","label":"证据原文片段"},{"text":"把篝火、图书馆与传送门按位置组合，触发房间之间的战略协同","dimension":"玩法","excerpt":"Strategic Room Synergies: Place rooms like campfires, libraries, and portals strategically to unlock powerful effects and adapt your approach to every challenge.","url":"https://store.steampowered.com/app/2877770/","label":"证据原文片段"},{"text":"以苏格兰民俗中的女巫、精灵和丰收少女构建遗迹世界，并可用盖尔语游玩","dimension":"题材","excerpt":"Rooted in Scottish Folklore : Explore a world inspired by Celtic legends, from witches and faeries to the eerie Maiden and her connection to the Harvests, with the option to immerse yourself in the experience by playing in Scottish Gaelic.","url":"https://store.steampowered.com/app/2877770/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6929,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":39400,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2474,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":79312,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7908,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7908,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.101114458544309,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":130,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.384615,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、肉鸽卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_d764551655fc4284b720fbe396a2dddc550de850.1920x1080.jpg?t=1780399510","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_d764551655fc4284b720fbe396a2dddc550de850.1920x1080.jpg?t=1780399510","alt":"Into the Restless Ruins 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_7d7fa5b3096f6ea4cec20ff5a00efaafadd72475.1920x1080.jpg?t=1780399510","alt":"Into the Restless Ruins 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_97e11cd096ef24b3c39d1cf414f38d33372ad877.1920x1080.jpg?t=1780399510","alt":"Into the Restless Ruins 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_9fd56b966d1d503c3825e5c777bf4c2fba2ff954.1920x1080.jpg?t=1780399510","alt":"Into the Restless Ruins 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Into the Restless Ruins",
+    "developers": [
+      "Ant Workshop Ltd"
+    ],
+    "publishers": [
+      "Wales Interactive"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-15",
+    "tags": [
+      "动作肉鸽",
+      "肉鸽卡组构筑",
+      "地牢探索",
+      "轻度Rogue",
+      "自走棋"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "先用房间与走廊卡亲手扩建迷宫，再自动闯过自己造出的地牢",
+      "dimension": "玩法",
+      "excerpt": "Use your deck of cards, representing rooms and corridors, to grow the labyrinth of the ruins. Then auto-battle your way through them, harvesting as much Glimour as you can from the cursed residents before darkness overcomes your torch.",
+      "url": "https://store.steampowered.com/app/2877770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把篝火、图书馆与传送门按位置组合，触发房间之间的战略协同",
+      "dimension": "玩法",
+      "excerpt": "Strategic Room Synergies: Place rooms like campfires, libraries, and portals strategically to unlock powerful effects and adapt your approach to every challenge.",
+      "url": "https://store.steampowered.com/app/2877770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "以苏格兰民俗中的女巫、精灵和丰收少女构建遗迹世界，并可用盖尔语游玩",
+      "dimension": "题材",
+      "excerpt": "Rooted in Scottish Folklore : Explore a world inspired by Celtic legends, from witches and faeries to the eerie Maiden and her connection to the Harvests, with the option to immerse yourself in the experience by playing in Scottish Gaelic.",
+      "url": "https://store.steampowered.com/app/2877770/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7590,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 39633,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2476,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 82127,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8654,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8654,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.110195831592092,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 108,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.496183,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Into the Restless Ruins位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_d764551655fc4284b720fbe396a2dddc550de850.1920x1080.jpg?t=1780399510",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_d764551655fc4284b720fbe396a2dddc550de850.1920x1080.jpg?t=1780399510",
+        "alt": "Into the Restless Ruins 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_7d7fa5b3096f6ea4cec20ff5a00efaafadd72475.1920x1080.jpg?t=1780399510",
+        "alt": "Into the Restless Ruins 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_97e11cd096ef24b3c39d1cf414f38d33372ad877.1920x1080.jpg?t=1780399510",
+        "alt": "Into the Restless Ruins 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_9fd56b966d1d503c3825e5c777bf4c2fba2ff954.1920x1080.jpg?t=1780399510",
+        "alt": "Into the Restless Ruins 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_4a503763557ffcbd9ddba1ce1f50f2564397b261.1920x1080.jpg?t=1780399510",
+        "alt": "Into the Restless Ruins 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_1fca8cbdca317412ce1351e86f4c5a973de2d52d.1920x1080.jpg?t=1780399510",
+        "alt": "Into the Restless Ruins 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_e13b31825efe06a5082570e5605e229a58527633.1920x1080.jpg?t=1780399510",
+        "alt": "Into the Restless Ruins 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877770/ss_47b7ce70ece0ff45c2fd39947f6353d68f41cea6.1920x1080.jpg?t=1780399510",
+        "alt": "Into the Restless Ruins 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Void Miner – Incremental Asteroids Roguelite","developers":["RyanJakob"],"publishers":["RyanJakob"],"release_status":"released","release_date":"2025-11-16","tags":["增量成长","轻度Rogue","弹幕射击","街机","策略"]},"hooks":[{"text":"一边驾驶飞船躲避轰击，一边管理自动炮塔清理无尽小行星带","dimension":"玩法","excerpt":"Void Miner is a retro-inspired roguelite asteroid shooter where you pilot a space ship and manage an automated tower to destroy endless fields of chaos.","url":"https://store.steampowered.com/app/3772240/","label":"证据原文片段"},{"text":"采掘小行星、回收资源并升级飞船，形成持续递增的采矿火力循环","dimension":"玩法","excerpt":"Void Miner is a incremental roguelite bullet hell that is about mining asteroids, collecting resources and upgrading your ship to blast through waves of asteroid belts.","url":"https://store.steampowered.com/app/3772240/","label":"证据原文片段"},{"text":"从简易飞船起步探索升级树，最终把整片小行星带变成清场目标","dimension":"玩法","excerpt":"Start with a simple ship, picking off as many asteroids as you can. Explore the upgrade tree. Lay waste to the entire asteroid belt.","url":"https://store.steampowered.com/app/3772240/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":32080,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":17794,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1252,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":143088,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":32826,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":32826,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.0969015149822288,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":647,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.230769,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"增量成长、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/a6402a6e3c9ca1b252b6e43043dda984822d6ef8/ss_a6402a6e3c9ca1b252b6e43043dda984822d6ef8.1920x1080.jpg?t=1775687928","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/a6402a6e3c9ca1b252b6e43043dda984822d6ef8/ss_a6402a6e3c9ca1b252b6e43043dda984822d6ef8.1920x1080.jpg?t=1775687928","alt":"Void Miner – Incremental Asteroids Roguelite 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/a68d27724a5104e40a6c604e0f10c3dddbb447bb/ss_a68d27724a5104e40a6c604e0f10c3dddbb447bb.1920x1080.jpg?t=1775687928","alt":"Void Miner – Incremental Asteroids Roguelite 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/b26f785724c85dd90d8991a999867d2dbc6ee0b3/ss_b26f785724c85dd90d8991a999867d2dbc6ee0b3.1920x1080.jpg?t=1775687928","alt":"Void Miner – Incremental Asteroids Roguelite 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/cee5bfaa4fc585a020edc10975261e2896e2c442/ss_cee5bfaa4fc585a020edc10975261e2896e2c442.1920x1080.jpg?t=1775687928","alt":"Void Miner – Incremental Asteroids Roguelite 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Void Miner – Incremental Asteroids Roguelite",
+    "developers": [
+      "RyanJakob"
+    ],
+    "publishers": [
+      "RyanJakob"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-16",
+    "tags": [
+      "增量成长",
+      "轻度Rogue",
+      "弹幕射击",
+      "街机",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "一边驾驶飞船躲避轰击，一边管理自动炮塔清理无尽小行星带",
+      "dimension": "玩法",
+      "excerpt": "Void Miner is a retro-inspired roguelite asteroid shooter where you pilot a space ship and manage an automated tower to destroy endless fields of chaos.",
+      "url": "https://store.steampowered.com/app/3772240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "采掘小行星、回收资源并升级飞船，形成持续递增的采矿火力循环",
+      "dimension": "玩法",
+      "excerpt": "Void Miner is a incremental roguelite bullet hell that is about mining asteroids, collecting resources and upgrading your ship to blast through waves of asteroid belts.",
+      "url": "https://store.steampowered.com/app/3772240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从简易飞船起步探索升级树，最终把整片小行星带变成清场目标",
+      "dimension": "玩法",
+      "excerpt": "Start with a simple ship, picking off as many asteroids as you can. Explore the upgrade tree. Lay waste to the entire asteroid belt.",
+      "url": "https://store.steampowered.com/app/3772240/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 33840,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1265,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 152853,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 34684,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 34684,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.1251287902938896,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 639,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.383686,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Void Miner – Incremental Asteroids Roguelite位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/a6402a6e3c9ca1b252b6e43043dda984822d6ef8/ss_a6402a6e3c9ca1b252b6e43043dda984822d6ef8.1920x1080.jpg?t=1775687928",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/a6402a6e3c9ca1b252b6e43043dda984822d6ef8/ss_a6402a6e3c9ca1b252b6e43043dda984822d6ef8.1920x1080.jpg?t=1775687928",
+        "alt": "Void Miner – Incremental Asteroids Roguelite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/a68d27724a5104e40a6c604e0f10c3dddbb447bb/ss_a68d27724a5104e40a6c604e0f10c3dddbb447bb.1920x1080.jpg?t=1775687928",
+        "alt": "Void Miner – Incremental Asteroids Roguelite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/b26f785724c85dd90d8991a999867d2dbc6ee0b3/ss_b26f785724c85dd90d8991a999867d2dbc6ee0b3.1920x1080.jpg?t=1775687928",
+        "alt": "Void Miner – Incremental Asteroids Roguelite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/cee5bfaa4fc585a020edc10975261e2896e2c442/ss_cee5bfaa4fc585a020edc10975261e2896e2c442.1920x1080.jpg?t=1775687928",
+        "alt": "Void Miner – Incremental Asteroids Roguelite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/95a78db4a62f78d8ed86ef9e780cab1d6d22c544/ss_95a78db4a62f78d8ed86ef9e780cab1d6d22c544.1920x1080.jpg?t=1775687928",
+        "alt": "Void Miner – Incremental Asteroids Roguelite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772240/bf82bbe0ca914b09c5bb1396a3bd82e0e663dfbf/ss_bf82bbe0ca914b09c5bb1396a3bd82e0e663dfbf.1920x1080.jpg?t=1775687928",
+        "alt": "Void Miner – Incremental Asteroids Roguelite 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

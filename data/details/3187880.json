@@ -1,1 +1,166 @@
-{"identity":{"original_title":"The Fable: Manga Build Roguelike","developers":["MONO ENTERTAINMENT"],"publishers":["Kodansha"],"release_status":"released","release_date":"2025-11-05","tags":["策略","类Rogue","回合制策略","卡组构筑","轻度Rogue"]},"hooks":[{"text":"收集漫画分镜并把它们排进页面，分镜摆放顺序直接生成当回合行动序列。","dimension":"玩法","excerpt":"Collect manga “panels” and arrange them on a page to fight! Each turn, you receive new panels. Placing them on the page creates your action sequence. Place panels according to the situation, build the ultimate page, and defeat your enemies!","url":"https://store.steampowered.com/app/3187880/","label":"证据原文片段"},{"text":"战斗受伤会在页面留下无法放置分镜的破洞，必须在回合限制内绕开版面损伤完成击杀。","dimension":"玩法","excerpt":"Damage during battles is represented as holes in the page. You cannot place panels in areas where there are holes. Carefully evaluate each situation and defeat all enemies within the turn limit!","url":"https://store.steampowered.com/app/3187880/","label":"证据原文片段"},{"text":"三名角色分别以枪械近战、机动作战、陷阱与子弹形成差异化解题风格。","dimension":"玩法","excerpt":"Experience three unique characters, each with their own style: Akira – A genius hitman who masters gunfire and melee. Yoko – Akira’s partner who uses mobile attacks to outsmart enemies. Suzuki – A cold-blooded assassin who uses traps and bullets to defeat enemies.","url":"https://store.steampowered.com/app/3187880/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6156,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":45755,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1827,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":46488,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6266,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6266,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.309959974652817,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":240,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.050209,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/991c8a9ed559012de2ea7c79cf60e4f0be0f2866/ss_991c8a9ed559012de2ea7c79cf60e4f0be0f2866.1920x1080.jpg?t=1782883581","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/991c8a9ed559012de2ea7c79cf60e4f0be0f2866/ss_991c8a9ed559012de2ea7c79cf60e4f0be0f2866.1920x1080.jpg?t=1782883581","alt":"The Fable: Manga Build Roguelike 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/7596f48979853c260170b482af9a58e1d2c497a3/ss_7596f48979853c260170b482af9a58e1d2c497a3.1920x1080.jpg?t=1782883581","alt":"The Fable: Manga Build Roguelike 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/3d95d4cbde9c5610fc8832a77e9d1e40d19b70e4/ss_3d95d4cbde9c5610fc8832a77e9d1e40d19b70e4.1920x1080.jpg?t=1782883581","alt":"The Fable: Manga Build Roguelike 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/fd643e60d8a22cfbef6dc86106d1127b90650914/ss_fd643e60d8a22cfbef6dc86106d1127b90650914.1920x1080.jpg?t=1782883581","alt":"The Fable: Manga Build Roguelike 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Fable: Manga Build Roguelike",
+    "developers": [
+      "MONO ENTERTAINMENT"
+    ],
+    "publishers": [
+      "Kodansha"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-05",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "回合制策略",
+      "卡组构筑",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "收集漫画分镜并把它们排进页面，分镜摆放顺序直接生成当回合行动序列。",
+      "dimension": "玩法",
+      "excerpt": "Collect manga “panels” and arrange them on a page to fight! Each turn, you receive new panels. Placing them on the page creates your action sequence. Place panels according to the situation, build the ultimate page, and defeat your enemies!",
+      "url": "https://store.steampowered.com/app/3187880/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗受伤会在页面留下无法放置分镜的破洞，必须在回合限制内绕开版面损伤完成击杀。",
+      "dimension": "玩法",
+      "excerpt": "Damage during battles is represented as holes in the page. You cannot place panels in areas where there are holes. Carefully evaluate each situation and defeat all enemies within the turn limit!",
+      "url": "https://store.steampowered.com/app/3187880/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三名角色分别以枪械近战、机动作战、陷阱与子弹形成差异化解题风格。",
+      "dimension": "玩法",
+      "excerpt": "Experience three unique characters, each with their own style: Akira – A genius hitman who masters gunfire and melee. Yoko – Akira’s partner who uses mobile attacks to outsmart enemies. Suzuki – A cold-blooded assassin who uses traps and bullets to defeat enemies.",
+      "url": "https://store.steampowered.com/app/3187880/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6683,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 47304,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1829,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 50018,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 6802,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 6802,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.32112225253436,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 235,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.116183,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "The Fable: Manga Build Roguelike位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/991c8a9ed559012de2ea7c79cf60e4f0be0f2866/ss_991c8a9ed559012de2ea7c79cf60e4f0be0f2866.1920x1080.jpg?t=1782883581",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/991c8a9ed559012de2ea7c79cf60e4f0be0f2866/ss_991c8a9ed559012de2ea7c79cf60e4f0be0f2866.1920x1080.jpg?t=1782883581",
+        "alt": "The Fable: Manga Build Roguelike 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/7596f48979853c260170b482af9a58e1d2c497a3/ss_7596f48979853c260170b482af9a58e1d2c497a3.1920x1080.jpg?t=1782883581",
+        "alt": "The Fable: Manga Build Roguelike 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/3d95d4cbde9c5610fc8832a77e9d1e40d19b70e4/ss_3d95d4cbde9c5610fc8832a77e9d1e40d19b70e4.1920x1080.jpg?t=1782883581",
+        "alt": "The Fable: Manga Build Roguelike 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/fd643e60d8a22cfbef6dc86106d1127b90650914/ss_fd643e60d8a22cfbef6dc86106d1127b90650914.1920x1080.jpg?t=1782883581",
+        "alt": "The Fable: Manga Build Roguelike 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187880/274e12036175b720bdc0429d1f46a1dee1b425f1/ss_274e12036175b720bdc0429d1f46a1dee1b425f1.1920x1080.jpg?t=1782883581",
+        "alt": "The Fable: Manga Build Roguelike 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

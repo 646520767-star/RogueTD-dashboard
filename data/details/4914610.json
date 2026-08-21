@@ -1,0 +1,257 @@
+{
+  "identity": {
+    "original_title": "Dear Magical Girls",
+    "developers": [
+      "GIGABlock Studio"
+    ],
+    "publishers": [
+      "Jungle Game Lab"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-31",
+    "tags": [
+      "策略",
+      "塔防",
+      "即时战略",
+      "即时战术",
+      "二维画面"
+    ]
+  },
+  "hooks": [],
+  "opinions": [
+    {
+      "text": "The gameplay was super fun and unique, the magical girl theme remains one of my favorites!",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The gameplay was super fun and unique, the magical girl theme remains one of my favorites!",
+          "url": "https://steamcommunity.com/id/MikuandNeru/recommended/4914610/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "蛮新颖，齿轮好用（带那个吸附的配件然后多升级攻速） 不过流程短，剧情简陋 好玩是确实的 像素风，喜欢 免费我无疑是兴奋的😋",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "蛮新颖，齿轮好用（带那个吸附的配件然后多升级攻速） 不过流程短，剧情简陋 好玩是确实的 像素风，喜欢 免费我无疑是兴奋的😋",
+          "url": "https://steamcommunity.com/profiles/76561198683555061/recommended/4914610/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "故事很简洁，玩法还算有趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "故事很简洁，玩法还算有趣",
+          "url": "https://steamcommunity.com/profiles/76561199559177137/recommended/4914610/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "[h1]一款有趣的游戏[/h1] 内容短小，但是世界观有点意思，不过剧情挺短的，从头过到尾大概只要1小时，挺简单的，但是我觉得战斗有点难；",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "[h1]一款有趣的游戏[/h1] 内容短小，但是世界观有点意思，不过剧情挺短的，从头过到尾大概只要1小时，挺简单的，但是我觉得战斗有点难；",
+          "url": "https://steamcommunity.com/profiles/76561199849908161/recommended/4914610/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The game has a unique concept and interesting dialogue, yet the combat mechanics felt lacking.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The game has a unique concept and interesting dialogue, yet the combat mechanics felt lacking.",
+          "url": "https://store.steampowered.com/curator/40046664-GamesManiac24/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A creative defense game with a unique barrier-shaping mechanic and a touching magical girl story.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A creative defense game with a unique barrier-shaping mechanic and a touching magical girl story.",
+          "url": "https://store.steampowered.com/curator/45451249-GamersPulse/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Dear Magical Girls offers an interesting blend of storytelling and strategy but can feel repetitive after a while.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Dear Magical Girls offers an interesting blend of storytelling and strategy but can feel repetitive after a while.",
+          "url": "https://store.steampowered.com/curator/40046710-BrainSimulator/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The challenging battles required me to think critically and adapt my tactics, which added depth to the gameplay.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The challenging battles required me to think critically and adapt my tactics, which added depth to the gameplay.",
+          "url": "https://store.steampowered.com/curator/34478148-EU-GAMES-REVIEW/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6854,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 7671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 648,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 6854,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 6854,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.2014666922651276,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 205,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 98.113208,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Dear Magical Girls位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914610/dc593f5ff65c91d4c533e7adcc441898b787e0fa/ss_dc593f5ff65c91d4c533e7adcc441898b787e0fa.1920x1080.jpg?t=1785481212",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914610/dc593f5ff65c91d4c533e7adcc441898b787e0fa/ss_dc593f5ff65c91d4c533e7adcc441898b787e0fa.1920x1080.jpg?t=1785481212",
+        "alt": "Dear Magical Girls 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914610/7239819f3f9e20cf8dc99642482ebba01dbc4d57/ss_7239819f3f9e20cf8dc99642482ebba01dbc4d57.1920x1080.jpg?t=1785481212",
+        "alt": "Dear Magical Girls 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914610/f33e81dc1b8fc3ba8d517899d285996d03c628c1/ss_f33e81dc1b8fc3ba8d517899d285996d03c628c1.1920x1080.jpg?t=1785481212",
+        "alt": "Dear Magical Girls 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914610/ad178a05d4e6f51e158e5c9e54f6553b2d4c254b/ss_ad178a05d4e6f51e158e5c9e54f6553b2d4c254b.1920x1080.jpg?t=1785481212",
+        "alt": "Dear Magical Girls 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914610/6036bd647ab9af75ea0f541129051fb2d0841365/ss_6036bd647ab9af75ea0f541129051fb2d0841365.1920x1080.jpg?t=1785481212",
+        "alt": "Dear Magical Girls 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914610/8db562aaf6be7a6cfc669f096b88c692abb73f40/ss_8db562aaf6be7a6cfc669f096b88c692abb73f40.1920x1080.jpg?t=1785481212",
+        "alt": "Dear Magical Girls 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914610/7a57b5ee9a016c622f3210adc8d61e5fc08c92c9/ss_7a57b5ee9a016c622f3210adc8d61e5fc08c92c9.1920x1080.jpg?t=1785481212",
+        "alt": "Dear Magical Girls 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

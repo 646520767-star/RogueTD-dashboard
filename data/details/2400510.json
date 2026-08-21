@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Dungeons & Degenerate Gamblers","developers":["Purple Moss Collectors"],"publishers":["Yogscast Games"],"release_status":"released","release_date":"2024-08-08","tags":["肉鸽卡组构筑","类Rogue","策略","卡牌游戏","卡组构筑"]},"hooks":[{"text":"四种花色分别承担治疗、防护、商店货币与额外伤害功能","dimension":"玩法","excerpt":"Pick a suit: hearts for healing, spades to offer you some protection, diamonds for more currency for shop purchases, or clubs for extra damage.","url":"https://store.steampowered.com/app/2400510/","label":"证据原文片段"},{"text":"牌组不只收录A与人头牌，还能塞入塔罗、名片、生日卡和通行证","dimension":"玩法","excerpt":"Pick up more aces and face cards, or fill your deck with tarot cards, business cards, birthday cards, hall passes and more!","url":"https://store.steampowered.com/app/2400510/","label":"证据原文片段"},{"text":"完成轮次解锁新初始牌组，反复向上或向下穿越酒馆获得全新打法","dimension":"玩法","excerpt":"Ascend or descend through the tavern over and over by unlocking new starter decks when you complete runs for entirely new ways to play","url":"https://store.steampowered.com/app/2400510/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":279045,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":364761,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":15214,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3151709,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":314702,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":314702,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.424065800202813,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3435,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.722934,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_000fd64f92c7c52c50902cdc81446466133b81a8.1920x1080.jpg?t=1778602826","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_000fd64f92c7c52c50902cdc81446466133b81a8.1920x1080.jpg?t=1778602826","alt":"再来一张 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/82783cd142dbc1ac5f957c7aa6c6c528d84e0e9d/ss_82783cd142dbc1ac5f957c7aa6c6c528d84e0e9d.1920x1080.jpg?t=1778602826","alt":"再来一张 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_69613299c2ea67a5c31345a349aea686cb86827d.1920x1080.jpg?t=1778602826","alt":"再来一张 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_3342e43db410dc3c6479a322dd9fa5c8d7c8150c.1920x1080.jpg?t=1778602826","alt":"再来一张 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dungeons & Degenerate Gamblers",
+    "developers": [
+      "Purple Moss Collectors"
+    ],
+    "publishers": [
+      "Yogscast Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-08",
+    "tags": [
+      "肉鸽卡组构筑",
+      "类Rogue",
+      "策略",
+      "卡牌游戏",
+      "卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "四种花色分别承担治疗、防护、商店货币与额外伤害功能",
+      "dimension": "玩法",
+      "excerpt": "Pick a suit: hearts for healing, spades to offer you some protection, diamonds for more currency for shop purchases, or clubs for extra damage.",
+      "url": "https://store.steampowered.com/app/2400510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "牌组不只收录A与人头牌，还能塞入塔罗、名片、生日卡和通行证",
+      "dimension": "玩法",
+      "excerpt": "Pick up more aces and face cards, or fill your deck with tarot cards, business cards, birthday cards, hall passes and more!",
+      "url": "https://store.steampowered.com/app/2400510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "完成轮次解锁新初始牌组，反复向上或向下穿越酒馆获得全新打法",
+      "dimension": "玩法",
+      "excerpt": "Ascend or descend through the tavern over and over by unlocking new starter decks when you complete runs for entirely new ways to play",
+      "url": "https://store.steampowered.com/app/2400510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 289113,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 389936,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 15578,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3194743,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 325560,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 325560,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.463653114384788,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2952,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.807845,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "再来一张位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_000fd64f92c7c52c50902cdc81446466133b81a8.1920x1080.jpg?t=1778602826",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_000fd64f92c7c52c50902cdc81446466133b81a8.1920x1080.jpg?t=1785879501",
+        "alt": "再来一张 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/82783cd142dbc1ac5f957c7aa6c6c528d84e0e9d/ss_82783cd142dbc1ac5f957c7aa6c6c528d84e0e9d.1920x1080.jpg?t=1785879501",
+        "alt": "再来一张 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/fba11c6a166c510d7eaf0757551d382c5dc9cd88/ss_fba11c6a166c510d7eaf0757551d382c5dc9cd88.1920x1080.jpg?t=1785879501",
+        "alt": "再来一张 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_69613299c2ea67a5c31345a349aea686cb86827d.1920x1080.jpg?t=1785879501",
+        "alt": "再来一张 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_3342e43db410dc3c6479a322dd9fa5c8d7c8150c.1920x1080.jpg?t=1785879501",
+        "alt": "再来一张 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_361a9efebb5e055efc292c17e0a5f03e92c36d11.1920x1080.jpg?t=1785879501",
+        "alt": "再来一张 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_3dd142c67133020713b056686adc6b27e57f0a69.1920x1080.jpg?t=1785879501",
+        "alt": "再来一张 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400510/ss_d96770e3e8b68a7bc4c60de8eef3714c50f5b182.1920x1080.jpg?t=1785879501",
+        "alt": "再来一张 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Mighty Meow","developers":["JamieDev"],"publishers":["JamieDev"],"release_status":"released","release_date":"2026-05-28","tags":["休闲","动作角色扮演","像素画面","轻度Rogue","角色扮演"]},"hooks":[{"text":"冲刺本身就是近战攻击，还能混合主动技能，在机器人群中用时机扭转战局。","dimension":"玩法","excerpt":"Turn each dash into a punchy close range attacks or mix in special skills to defeat as many enemies as possible. The right skill at the right moment could turn the tide of battle!","url":"https://store.steampowered.com/app/3262100/","label":"证据原文片段"},{"text":"地下实验室里救出的每只动物都会成为聚落新伙伴，帮助扩张基地并挑战更强威胁。","dimension":"玩法","excerpt":"Rescue adorable animals trapped in underground labs. Each victory brings a new furry ally to your settlement, helping you grow stronger and expand your base to take on even greater threats.","url":"https://store.steampowered.com/app/3262100/","label":"证据原文片段"},{"text":"动物伙伴各有采石、搬运等生产能力，并会随等级带来新配方，把救援转化为装备制造链。","dimension":"玩法","excerpt":"Every rescued animal has a unique ability that shapes your strategy. Stone gathering hedgehogs, item transporting sugar gliders, and many more friends help you collect resources and craft powerful gear while you are off fighting in the dungeons.","url":"https://store.steampowered.com/app/3262100/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":268,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":237,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2121,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":302,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":302,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.9325213388325921,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":19,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"],"actions":[{"label":"原型验证","target":"休闲、动作角色扮演","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/bcf42554bd7719b23edd6ad34d8a4a5aa0948488/ss_bcf42554bd7719b23edd6ad34d8a4a5aa0948488.1920x1080.jpg?t=1780016484","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/bcf42554bd7719b23edd6ad34d8a4a5aa0948488/ss_bcf42554bd7719b23edd6ad34d8a4a5aa0948488.1920x1080.jpg?t=1780016484","alt":"Mighty Meow 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/a99e9ad00115ac50fe3703bffa5659181f61fe12/ss_a99e9ad00115ac50fe3703bffa5659181f61fe12.1920x1080.jpg?t=1780016484","alt":"Mighty Meow 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/b4fc19c89c5ee06942e6856b16261ae70ec25beb/ss_b4fc19c89c5ee06942e6856b16261ae70ec25beb.1920x1080.jpg?t=1780016484","alt":"Mighty Meow 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/966fc0db5a79cd41136295831188f2ee89cf1fe9/ss_966fc0db5a79cd41136295831188f2ee89cf1fe9.1920x1080.jpg?t=1780016484","alt":"Mighty Meow 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Mighty Meow",
+    "developers": [
+      "JamieDev"
+    ],
+    "publishers": [
+      "JamieDev"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-28",
+    "tags": [
+      "休闲",
+      "动作角色扮演",
+      "像素画面",
+      "轻度Rogue",
+      "角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "冲刺本身就是近战攻击，还能混合主动技能，在机器人群中用时机扭转战局。",
+      "dimension": "玩法",
+      "excerpt": "Turn each dash into a punchy close range attacks or mix in special skills to defeat as many enemies as possible. The right skill at the right moment could turn the tide of battle!",
+      "url": "https://store.steampowered.com/app/3262100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "地下实验室里救出的每只动物都会成为聚落新伙伴，帮助扩张基地并挑战更强威胁。",
+      "dimension": "玩法",
+      "excerpt": "Rescue adorable animals trapped in underground labs. Each victory brings a new furry ally to your settlement, helping you grow stronger and expand your base to take on even greater threats.",
+      "url": "https://store.steampowered.com/app/3262100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "动物伙伴各有采石、搬运等生产能力，并会随等级带来新配方，把救援转化为装备制造链。",
+      "dimension": "玩法",
+      "excerpt": "Every rescued animal has a unique ability that shapes your strategy. Stone gathering hedgehogs, item transporting sugar gliders, and many more friends help you collect resources and craft powerful gear while you are off fighting in the dungeons.",
+      "url": "https://store.steampowered.com/app/3262100/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 390,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 239,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2466,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 434,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 434,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.0192951578467153,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 18,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Mighty Meow位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/bcf42554bd7719b23edd6ad34d8a4a5aa0948488/ss_bcf42554bd7719b23edd6ad34d8a4a5aa0948488.1920x1080.jpg?t=1780016484",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/bcf42554bd7719b23edd6ad34d8a4a5aa0948488/ss_bcf42554bd7719b23edd6ad34d8a4a5aa0948488.1920x1080.jpg?t=1780016484",
+        "alt": "Mighty Meow 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/a99e9ad00115ac50fe3703bffa5659181f61fe12/ss_a99e9ad00115ac50fe3703bffa5659181f61fe12.1920x1080.jpg?t=1780016484",
+        "alt": "Mighty Meow 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/b4fc19c89c5ee06942e6856b16261ae70ec25beb/ss_b4fc19c89c5ee06942e6856b16261ae70ec25beb.1920x1080.jpg?t=1780016484",
+        "alt": "Mighty Meow 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/966fc0db5a79cd41136295831188f2ee89cf1fe9/ss_966fc0db5a79cd41136295831188f2ee89cf1fe9.1920x1080.jpg?t=1780016484",
+        "alt": "Mighty Meow 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/ec1348daf060c9525a4fe911649eaebe29a35a16/ss_ec1348daf060c9525a4fe911649eaebe29a35a16.1920x1080.jpg?t=1780016484",
+        "alt": "Mighty Meow 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/6f5947a466c528c835fe7a7f7e61b9cb54b30511/ss_6f5947a466c528c835fe7a7f7e61b9cb54b30511.1920x1080.jpg?t=1780016484",
+        "alt": "Mighty Meow 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/9cc461195333964991dab1f692145f8b6287dc5b/ss_9cc461195333964991dab1f692145f8b6287dc5b.1920x1080.jpg?t=1780016484",
+        "alt": "Mighty Meow 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262100/ad45430b32a6e183d6883573d527e36a5cfccb1e/ss_ad45430b32a6e183d6883573d527e36a5cfccb1e.1920x1080.jpg?t=1780016484",
+        "alt": "Mighty Meow 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

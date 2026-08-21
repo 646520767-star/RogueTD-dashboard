@@ -1,1 +1,166 @@
-{"identity":{"original_title":"Orb Tower","developers":["Pierre Vandermaesen"],"publishers":["VANDERMAESEN GAMES"],"release_status":"released","release_date":"2025-03-10","tags":["动作","休闲","街机","动作肉鸽","轻度Rogue"]},"hooks":[{"text":"把经典泡泡配对改造成肉鸽爬塔，清关、收集金币并尽可能攀到塔顶。","dimension":"玩法","excerpt":"Play the classic bubble matching gameplay with tons of new items and challenges! Equip your mage, clear as many levels as possible, collect coins and reach the top of the tower!","url":"https://store.steampowered.com/app/3496500/","label":"证据原文片段"},{"text":"包含300多个手工关卡、15件特效道具、8个魔法学派与5名首领。","dimension":"玩法","excerpt":"300+ hand crafted levels ! 15 items with special effects ! 8 different magic schools for unique challenges ! 5 cruel bosses !","url":"https://store.steampowered.com/app/3496500/","label":"证据原文片段"},{"text":"采用温馨像素画面与抓耳芯片音乐营造怀旧街机氛围。","dimension":"画风","excerpt":"Lovely pixel art and catchy chiptune audio","url":"https://store.steampowered.com/app/3496500/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3298,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":248,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":4426,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3345,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3345,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.062284868173245,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":199,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.979899,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、休闲","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_18105dd6a8008d52c0347622c680b0aa1d5db03b.1920x1080.jpg?t=1741596212","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_18105dd6a8008d52c0347622c680b0aa1d5db03b.1920x1080.jpg?t=1741596212","alt":"Orb Tower 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_8f34e95fafe338b41d8a0885833accbc3108b609.1920x1080.jpg?t=1741596212","alt":"Orb Tower 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_918c71aac7d5d5647df6243c8055b37e2cd1fe61.1920x1080.jpg?t=1741596212","alt":"Orb Tower 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_06aa5f7ada84de3026c1b3a0ab483e066b8a4ca2.1920x1080.jpg?t=1741596212","alt":"Orb Tower 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Orb Tower",
+    "developers": [
+      "Pierre Vandermaesen"
+    ],
+    "publishers": [
+      "VANDERMAESEN GAMES"
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-10",
+    "tags": [
+      "动作",
+      "休闲",
+      "街机",
+      "动作肉鸽",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把经典泡泡配对改造成肉鸽爬塔，清关、收集金币并尽可能攀到塔顶。",
+      "dimension": "玩法",
+      "excerpt": "Play the classic bubble matching gameplay with tons of new items and challenges! Equip your mage, clear as many levels as possible, collect coins and reach the top of the tower!",
+      "url": "https://store.steampowered.com/app/3496500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "包含300多个手工关卡、15件特效道具、8个魔法学派与5名首领。",
+      "dimension": "玩法",
+      "excerpt": "300+ hand crafted levels ! 15 items with special effects ! 8 different magic schools for unique challenges ! 5 cruel bosses !",
+      "url": "https://store.steampowered.com/app/3496500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "采用温馨像素画面与抓耳芯片音乐营造怀旧街机氛围。",
+      "dimension": "画风",
+      "excerpt": "Lovely pixel art and catchy chiptune audio",
+      "url": "https://store.steampowered.com/app/3496500/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3874,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 250,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 5085,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3930,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3930,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.0435507154158015,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 195,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.979899,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Orb Tower位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_18105dd6a8008d52c0347622c680b0aa1d5db03b.1920x1080.jpg?t=1741596212",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_18105dd6a8008d52c0347622c680b0aa1d5db03b.1920x1080.jpg?t=1741596212",
+        "alt": "Orb Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_8f34e95fafe338b41d8a0885833accbc3108b609.1920x1080.jpg?t=1741596212",
+        "alt": "Orb Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_918c71aac7d5d5647df6243c8055b37e2cd1fe61.1920x1080.jpg?t=1741596212",
+        "alt": "Orb Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_06aa5f7ada84de3026c1b3a0ab483e066b8a4ca2.1920x1080.jpg?t=1741596212",
+        "alt": "Orb Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496500/ss_8e28d750d502e186de81235c81fd45d5a9c934de.1920x1080.jpg?t=1741596212",
+        "alt": "Orb Tower 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

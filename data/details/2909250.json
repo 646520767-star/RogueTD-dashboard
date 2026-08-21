@@ -1,1 +1,164 @@
-{"identity":{"original_title":"Extreme Climbing","developers":["HFRK"],"publishers":["HFRK"],"release_status":"released","release_date":"2024-06-05","tags":["休闲","冒险","模拟","动作冒险","动作肉鸽"]},"hooks":[{"text":"徒手攀爬埃菲尔铁塔、自由女神像、东京晴空塔、迪拜塔、金字塔等世界地标","dimension":"玩法","excerpt":"Unarmed climbing of world famous buildings: Eiffel Tower, Statue of Liberty, Tokyo Sky Tree Tower, Dubai Tower, Pyramid, Guangzhou Tower, Oriental Pearl TV Tower Tower, CCTV Tower, etc.","url":"https://store.steampowered.com/app/2909250/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2421,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":294,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":9041,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2727,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2727,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.36789396844089,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":306,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.833876,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲、冒险","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_795ff51537780fa72f9f8bd79c167a32c61ec202.1920x1080.jpg?t=1732144260","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_795ff51537780fa72f9f8bd79c167a32c61ec202.1920x1080.jpg?t=1732144260","alt":"极限攀登 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_6cd62bc9e6308a7d00f81f7bc6f25c13ab111c3f.1920x1080.jpg?t=1732144260","alt":"极限攀登 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_7406cdd3bca31bafcf05a685213ba3b420958593.1920x1080.jpg?t=1732144260","alt":"极限攀登 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_81abbdc146f427678206cf75a2d354da04df041c.1920x1080.jpg?t=1732144260","alt":"极限攀登 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Extreme Climbing",
+    "developers": [
+      "HFRK"
+    ],
+    "publishers": [
+      "HFRK"
+    ],
+    "release_status": "released",
+    "release_date": "2024-06-05",
+    "tags": [
+      "休闲",
+      "策略",
+      "冒险",
+      "模拟",
+      "动作冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "徒手攀爬埃菲尔铁塔、自由女神像、东京晴空塔、迪拜塔、金字塔等世界地标",
+      "dimension": "玩法",
+      "excerpt": "Unarmed climbing of world famous buildings: Eiffel Tower, Statue of Liberty, Tokyo Sky Tree Tower, Dubai Tower, Pyramid, Guangzhou Tower, Oriental Pearl TV Tower Tower, CCTV Tower, etc.",
+      "url": "https://store.steampowered.com/app/2909250/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2640,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3835,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 295,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 10194,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2965,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2965,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.3486582769365012,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 264,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.971246,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "极限攀登位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_795ff51537780fa72f9f8bd79c167a32c61ec202.1920x1080.jpg?t=1732144260",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_795ff51537780fa72f9f8bd79c167a32c61ec202.1920x1080.jpg?t=1732144260",
+        "alt": "极限攀登 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_6cd62bc9e6308a7d00f81f7bc6f25c13ab111c3f.1920x1080.jpg?t=1732144260",
+        "alt": "极限攀登 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_7406cdd3bca31bafcf05a685213ba3b420958593.1920x1080.jpg?t=1732144260",
+        "alt": "极限攀登 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_81abbdc146f427678206cf75a2d354da04df041c.1920x1080.jpg?t=1732144260",
+        "alt": "极限攀登 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_812934f65af12c3aae6f4f65422b14563cd2a6f7.1920x1080.jpg?t=1732144260",
+        "alt": "极限攀登 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_fe9ba2ac810a8ac7ed9ada5c61e4339e125101bc.1920x1080.jpg?t=1732144260",
+        "alt": "极限攀登 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_8ce327f3b82c08f78fc183eabace3ddebb60c81b.1920x1080.jpg?t=1732144260",
+        "alt": "极限攀登 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909250/ss_3452847d2dc6c9779b7ff7a62c5e3db5709c8e38.1920x1080.jpg?t=1732144260",
+        "alt": "极限攀登 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,205 @@
-{"identity":{"original_title":"Project: AHNO's Ark","developers":["PHOSEPO"],"publishers":["2P Games","PHOSEPO"],"release_status":"released","release_date":"2024-09-19","tags":["角色扮演","轻度Rogue","回合制战术","策略角色扮演","回合制战斗"]},"hooks":[{"text":"用棋子、障碍和召唤物完成包围即可瞬杀敌棋，连 Boss 也适用。","dimension":"玩法","excerpt":"Surround your opponent with pieces, obstacles, and summons to instantly eliminate enemy pieces, including bosses.","url":"https://store.steampowered.com/app/1631670/","label":"证据原文片段"},{"text":"把战棋 RPG、围棋式思考与 Roguelite 随机事件结合到末日互毁生存局中。","dimension":"玩法","excerpt":"This game merges elements of tactical RPG, Go, and introduces Roguelite features. Players will need to make decisions among numerous random events and capability divergences, trying to survive in an apocalyptic game of mutual destruction.","url":"https://store.steampowered.com/app/1631670/","label":"证据原文片段"},{"text":"玩家作为部族领袖，一边保护族人，一边追查女神实验室死亡游戏的真相。","dimension":"故事","excerpt":"Players take on the role of a tribe's leader, who must protect their people while also unraveling the truth behind this deadly game...","url":"https://store.steampowered.com/app/1631670/","label":"证据原文片段"}],"opinions":[{"text":"难度过低且过程无聊。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"没有任何难度而且十分无聊","url":"https://steamcommunity.com/profiles/76561198245311474/recommended/1631670/","label":"证据原文片段"}]},{"text":"剧情缺乏吸引力。","dimension":"剧情","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"这种剧情没有任何吸引力","url":"https://steamcommunity.com/profiles/76561198245311474/recommended/1631670/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1797,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":24148,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1694,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":18022,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2051,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2051,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.209630225828775,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":147,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.877551,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["难度过低且过程无聊。","剧情缺乏吸引力。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_b413c96e5fc20f8b5353e8764d0c83f25b0ef1ab.1920x1080.jpg?t=1777042470","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_b413c96e5fc20f8b5353e8764d0c83f25b0ef1ab.1920x1080.jpg?t=1777042470","alt":"倒转方舟 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_f74e71e69caad4582792928e6c67f15dba599c03.1920x1080.jpg?t=1777042470","alt":"倒转方舟 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_d6889d5b90e8adb28a081033c042752d7f34f5b4.1920x1080.jpg?t=1777042470","alt":"倒转方舟 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_8c109c1c3692b39536eb72444abc7393b24b7649.1920x1080.jpg?t=1777042470","alt":"倒转方舟 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Project: AHNO's Ark",
+    "developers": [
+      "PHOSEPO"
+    ],
+    "publishers": [
+      "2P Games",
+      "PHOSEPO"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-19",
+    "tags": [
+      "弹幕射击",
+      "轻度Rogue",
+      "角色扮演",
+      "类Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用棋子、障碍和召唤物完成包围即可瞬杀敌棋，连 Boss 也适用。",
+      "dimension": "玩法",
+      "excerpt": "Surround your opponent with pieces, obstacles, and summons to instantly eliminate enemy pieces, including bosses.",
+      "url": "https://store.steampowered.com/app/1631670/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把战棋 RPG、围棋式思考与 Roguelite 随机事件结合到末日互毁生存局中。",
+      "dimension": "玩法",
+      "excerpt": "This game merges elements of tactical RPG, Go, and introduces Roguelite features. Players will need to make decisions among numerous random events and capability divergences, trying to survive in an apocalyptic game of mutual destruction.",
+      "url": "https://store.steampowered.com/app/1631670/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "玩家作为部族领袖，一边保护族人，一边追查女神实验室死亡游戏的真相。",
+      "dimension": "故事",
+      "excerpt": "Players take on the role of a tribe's leader, who must protect their people while also unraveling the truth behind this deadly game...",
+      "url": "https://store.steampowered.com/app/1631670/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "难度过低且过程无聊。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "没有任何难度而且十分无聊",
+          "url": "https://steamcommunity.com/profiles/76561198245311474/recommended/1631670/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "剧情缺乏吸引力。",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "这种剧情没有任何吸引力",
+          "url": "https://steamcommunity.com/profiles/76561198245311474/recommended/1631670/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1833,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 24291,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1695,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 18245,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2092,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2092,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.211627241774719,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 121,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.877551,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "难度过低且过程无聊。",
+    "剧情缺乏吸引力。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "倒转方舟位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_b413c96e5fc20f8b5353e8764d0c83f25b0ef1ab.1920x1080.jpg?t=1777042470",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_b413c96e5fc20f8b5353e8764d0c83f25b0ef1ab.1920x1080.jpg?t=1777042470",
+        "alt": "倒转方舟 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_f74e71e69caad4582792928e6c67f15dba599c03.1920x1080.jpg?t=1777042470",
+        "alt": "倒转方舟 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_d6889d5b90e8adb28a081033c042752d7f34f5b4.1920x1080.jpg?t=1777042470",
+        "alt": "倒转方舟 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_8c109c1c3692b39536eb72444abc7393b24b7649.1920x1080.jpg?t=1777042470",
+        "alt": "倒转方舟 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_c2ffbb13ad89e8a173923e538cd9437b39c43713.1920x1080.jpg?t=1777042470",
+        "alt": "倒转方舟 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_1458c1a27aee5b467f4f7ea3623bb20b8438245b.1920x1080.jpg?t=1777042470",
+        "alt": "倒转方舟 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_72a62e53db1a2b8fade94f924b360c7bd0741d8c.1920x1080.jpg?t=1777042470",
+        "alt": "倒转方舟 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

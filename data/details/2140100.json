@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Whisker Squadron: Survivor","developers":["Flippfly LLC"],"publishers":["Flippfly LLC"],"release_status":"released","release_date":"2025-02-21","tags":["动作肉鸽","弹幕射击","清版射击","飞行","轻度Rogue"]},"hooks":[{"text":"三幕旅程铺在动态银河地图上，玩家沿途作出战术路线选择，把飞船逐步调校成猎杀机器人的专用战舰。","dimension":"玩法","excerpt":"Chart a course through a dynamic galaxy map across 3 acts, making tactical choices along the way to turn your ship into a finely tuned bot-killing machine.","url":"https://store.steampowered.com/app/2140100/","label":"证据原文片段"},{"text":"每次跑局结束都能用收益购买永久飞船升级和解锁武器，让后续挑战持续积累战力。","dimension":"玩法","excerpt":"After each run, spend your earnings on permanent ship upgrades and unlockable weapons.","url":"https://store.steampowered.com/app/2140100/","label":"证据原文片段"},{"text":"随机跑局不仅推进与机器人群的空战，也会逐步认识配音猫咪机组，并揭开队长Gigi的神秘身世。","dimension":"故事","excerpt":"getting to know your crewmates, and learning more about the mysterious origins of Whisker Squadron’s leader, Gigi.","url":"https://store.steampowered.com/app/2140100/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":26085,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":109301,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6619,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":319640,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":28642,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":28642,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.272449613436081,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":549,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":78,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":78.324226,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_f1fc039c8db938f24ef4b9519623adbc4139705f.1920x1080.jpg?t=1740154399","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_f1fc039c8db938f24ef4b9519623adbc4139705f.1920x1080.jpg?t=1740154399","alt":"Whisker Squadron: Survivor 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_c571a4b4cd565b75b8ce6ee43b74f5805ea0087c.1920x1080.jpg?t=1740154399","alt":"Whisker Squadron: Survivor 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_9a5382e75cb78976bb23673934e7ce368b743f8c.1920x1080.jpg?t=1740154399","alt":"Whisker Squadron: Survivor 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_3e247b65c15f899c53ac6b0df6fb89a652cd89b5.1920x1080.jpg?t=1740154399","alt":"Whisker Squadron: Survivor 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Whisker Squadron: Survivor",
+    "developers": [
+      "Flippfly LLC"
+    ],
+    "publishers": [
+      "Flippfly LLC"
+    ],
+    "release_status": "released",
+    "release_date": "2025-02-21",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "弹幕射击",
+      "清版射击",
+      "飞行"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "三幕旅程铺在动态银河地图上，玩家沿途作出战术路线选择，把飞船逐步调校成猎杀机器人的专用战舰。",
+      "dimension": "玩法",
+      "excerpt": "Chart a course through a dynamic galaxy map across 3 acts, making tactical choices along the way to turn your ship into a finely tuned bot-killing machine.",
+      "url": "https://store.steampowered.com/app/2140100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次跑局结束都能用收益购买永久飞船升级和解锁武器，让后续挑战持续积累战力。",
+      "dimension": "玩法",
+      "excerpt": "After each run, spend your earnings on permanent ship upgrades and unlockable weapons.",
+      "url": "https://store.steampowered.com/app/2140100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "随机跑局不仅推进与机器人群的空战，也会逐步认识配音猫咪机组，并揭开队长Gigi的神秘身世。",
+      "dimension": "故事",
+      "excerpt": "getting to know your crewmates, and learning more about the mysterious origins of Whisker Squadron’s leader, Gigi.",
+      "url": "https://store.steampowered.com/app/2140100/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 27262,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 108670,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6642,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 336906,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 29960,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 29960,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.262242190385548,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 481,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 78,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 78.07971,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Whisker Squadron: Survivor位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_f1fc039c8db938f24ef4b9519623adbc4139705f.1920x1080.jpg?t=1740154399",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_f1fc039c8db938f24ef4b9519623adbc4139705f.1920x1080.jpg?t=1740154399",
+        "alt": "Whisker Squadron: Survivor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_c571a4b4cd565b75b8ce6ee43b74f5805ea0087c.1920x1080.jpg?t=1740154399",
+        "alt": "Whisker Squadron: Survivor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_9a5382e75cb78976bb23673934e7ce368b743f8c.1920x1080.jpg?t=1740154399",
+        "alt": "Whisker Squadron: Survivor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_3e247b65c15f899c53ac6b0df6fb89a652cd89b5.1920x1080.jpg?t=1740154399",
+        "alt": "Whisker Squadron: Survivor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_afe2ed6f15146517992643837c59e8948c97ca99.1920x1080.jpg?t=1740154399",
+        "alt": "Whisker Squadron: Survivor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_b3cb8f26c1620916ab96f17a58520cf737e3a4ec.1920x1080.jpg?t=1740154399",
+        "alt": "Whisker Squadron: Survivor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_0429771d4176350c066043cf3a42215ab5b948fc.1920x1080.jpg?t=1740154399",
+        "alt": "Whisker Squadron: Survivor 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140100/ss_c5af7ad03e9b8b6792ad229ed1fbd7c5d7a8da30.1920x1080.jpg?t=1740154399",
+        "alt": "Whisker Squadron: Survivor 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

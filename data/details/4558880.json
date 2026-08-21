@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Joey's Nightmare II","developers":["A* Studio"],"publishers":["STUDIO ARM PRIVATE LIMITED"],"release_status":"early_access","release_date":"2026-07-13","tags":["抢先体验","策略","肉鸽卡组构筑","回合制战术","卡组构筑"]},"hooks":[{"text":"Joey刚学会“Key”一词后，白天见到的人会在梦里变成Monkey、Donkey和Turkey等押韵怪物","dimension":"故事","excerpt":"Recently, he learned a new word: “Key.” Now, everyone he sees during the day transforms into strange “Key” monsters in his dreams — Monkey, Donkey, Turkey…","url":"https://store.steampowered.com/app/4558880/","label":"证据原文片段"},{"text":"击败梦魇怪物会留下神秘祝福与力量，并推动胆小的Joey逐渐变勇敢","dimension":"故事","excerpt":"Each time Joey defeats one of these bizarre nightmare creatures, they leave behind mysterious blessings and powers, helping him grow braver as he descends deeper into the darkness of his dreams.","url":"https://store.steampowered.com/app/4558880/","label":"证据原文片段"},{"text":"四百六十余张卡牌分布在三职业和七种牌组原型中，并跨越十二张梦魇地图","dimension":"玩法","excerpt":"🃏 460+ cards ⚔️ 3 unique classes 🔥 7 deck archetypes 🗺️ 12 nightmare maps","url":"https://store.steampowered.com/app/4558880/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":760,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1658,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5465,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":844,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":844,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.337376543560603,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":28,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.285714,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/c274d3ce7671be2fe039ee39d114702db354e733/ss_c274d3ce7671be2fe039ee39d114702db354e733.1920x1080.jpg?t=1784005699","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/c274d3ce7671be2fe039ee39d114702db354e733/ss_c274d3ce7671be2fe039ee39d114702db354e733.1920x1080.jpg?t=1784005699","alt":"Joey's Nightmare II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/d23f8fd4b9d07c41795f226f30be746bb99f0c15/ss_d23f8fd4b9d07c41795f226f30be746bb99f0c15.1920x1080.jpg?t=1784005699","alt":"Joey's Nightmare II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/898c1dd9a07a70557dc898f7fcc3c58b058c29f5/ss_898c1dd9a07a70557dc898f7fcc3c58b058c29f5.1920x1080.jpg?t=1784005699","alt":"Joey's Nightmare II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/7bf7d43ccf651e9aee7b404de79b373710c0edd4/ss_7bf7d43ccf651e9aee7b404de79b373710c0edd4.1920x1080.jpg?t=1784005699","alt":"Joey's Nightmare II 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Joey's Nightmare II",
+    "developers": [
+      "A* Studio"
+    ],
+    "publishers": [
+      "STUDIO ARM PRIVATE LIMITED"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-07-13",
+    "tags": [
+      "抢先体验",
+      "策略",
+      "肉鸽卡组构筑",
+      "回合制战术",
+      "卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "Joey刚学会“Key”一词后，白天见到的人会在梦里变成Monkey、Donkey和Turkey等押韵怪物",
+      "dimension": "故事",
+      "excerpt": "Recently, he learned a new word: “Key.” Now, everyone he sees during the day transforms into strange “Key” monsters in his dreams — Monkey, Donkey, Turkey…",
+      "url": "https://store.steampowered.com/app/4558880/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "击败梦魇怪物会留下神秘祝福与力量，并推动胆小的Joey逐渐变勇敢",
+      "dimension": "故事",
+      "excerpt": "Each time Joey defeats one of these bizarre nightmare creatures, they leave behind mysterious blessings and powers, helping him grow braver as he descends deeper into the darkness of his dreams.",
+      "url": "https://store.steampowered.com/app/4558880/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四百六十余张卡牌分布在三职业和七种牌组原型中，并跨越十二张梦魇地图",
+      "dimension": "玩法",
+      "excerpt": "🃏 460+ cards ⚔️ 3 unique classes 🔥 7 deck archetypes 🗺️ 12 nightmare maps",
+      "url": "https://store.steampowered.com/app/4558880/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 819,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1651,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 5889,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 916,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 916,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.8730294415127675,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 28,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.848485,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Joey's Nightmare II位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/c274d3ce7671be2fe039ee39d114702db354e733/ss_c274d3ce7671be2fe039ee39d114702db354e733.1920x1080.jpg?t=1784005699",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/c274d3ce7671be2fe039ee39d114702db354e733/ss_c274d3ce7671be2fe039ee39d114702db354e733.1920x1080.jpg?t=1784005699",
+        "alt": "Joey's Nightmare II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/d23f8fd4b9d07c41795f226f30be746bb99f0c15/ss_d23f8fd4b9d07c41795f226f30be746bb99f0c15.1920x1080.jpg?t=1784005699",
+        "alt": "Joey's Nightmare II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/898c1dd9a07a70557dc898f7fcc3c58b058c29f5/ss_898c1dd9a07a70557dc898f7fcc3c58b058c29f5.1920x1080.jpg?t=1784005699",
+        "alt": "Joey's Nightmare II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/7bf7d43ccf651e9aee7b404de79b373710c0edd4/ss_7bf7d43ccf651e9aee7b404de79b373710c0edd4.1920x1080.jpg?t=1784005699",
+        "alt": "Joey's Nightmare II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/e42d0bf475fe530dff7d2f489d366115e7436a59/ss_e42d0bf475fe530dff7d2f489d366115e7436a59.1920x1080.jpg?t=1784005699",
+        "alt": "Joey's Nightmare II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/ce709af3b14df19d66376de1e960dec1b79181c5/ss_ce709af3b14df19d66376de1e960dec1b79181c5.1920x1080.jpg?t=1784005699",
+        "alt": "Joey's Nightmare II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/d0d46e7dc97ae11fdf21e39569cd780b89c3a5a6/ss_d0d46e7dc97ae11fdf21e39569cd780b89c3a5a6.1920x1080.jpg?t=1784005699",
+        "alt": "Joey's Nightmare II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558880/a1c58ae334ea0f9dda956fac1b8abf41bab9387e/ss_a1c58ae334ea0f9dda956fac1b8abf41bab9387e.1920x1080.jpg?t=1784005699",
+        "alt": "Joey's Nightmare II 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Touhou Blooming Soul","developers":["二色幽紫蝶"],"publishers":["二色幽紫蝶"],"release_status":"early_access","release_date":"2026-01-30","tags":["抢先体验","冒险","动作","角色扮演","动作冒险"]},"hooks":[{"text":"战斗中自由切换喜怒哀乐，属性、能力与打法会随情绪彻底改变","dimension":"玩法","excerpt":"Kokoro possesses four core emotions: Joy, Anger, Sorrow and Happiness, which she can freely swap between during battle. Switching emotions completely changes your attributes, abilities and fighting style!","url":"https://store.steampowered.com/app/1970030/","label":"证据原文片段"},{"text":"凑齐3、6或10件同情绪装备即可激活跨流派生效的套装强化","dimension":"玩法","excerpt":"Furthermore, collecting 3, 6 or 10 items belonging to the same emotion will activate a powerful set effect! Activating a set effect powers up your character across the board, meaning you can reap its benefits regardless of your playstyle!","url":"https://store.steampowered.com/app/1970030/","label":"证据原文片段"},{"text":"跟随无法表达情感的面具付丧神，在旧日战斗中寻找自己的感情","dimension":"故事","excerpt":"This is a game about loneliness, self-discovery, and peering into others' intense emotions. Kokoro is a mask tsukumogami with many bottled up emotions, yet she cannot express these emotions herself.","url":"https://store.steampowered.com/app/1970030/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":51815,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":104217,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6402,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":201494,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":61639,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":61639,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.983638749760964,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1098,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.363636,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、冒险","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/ss_3cc1f8b999a18593f72bbef94a01696f53cd6ab4.1920x1080.jpg?t=1782391411","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/ss_3cc1f8b999a18593f72bbef94a01696f53cd6ab4.1920x1080.jpg?t=1782391411","alt":"东方华心传Touhou Blooming Soul 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/54cd796f6f51dbbea6e8aa797de3e7ab2a431a16/ss_54cd796f6f51dbbea6e8aa797de3e7ab2a431a16.1920x1080.jpg?t=1782391411","alt":"东方华心传Touhou Blooming Soul 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/98230fb864f33fe8d765a0c6e89897447817be59/ss_98230fb864f33fe8d765a0c6e89897447817be59.1920x1080.jpg?t=1782391411","alt":"东方华心传Touhou Blooming Soul 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/73b33a297eefc847a72402dee497ef4dcb251ff3/ss_73b33a297eefc847a72402dee497ef4dcb251ff3.1920x1080.jpg?t=1782391411","alt":"东方华心传Touhou Blooming Soul 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Touhou Blooming Soul",
+    "developers": [
+      "二色幽紫蝶"
+    ],
+    "publishers": [
+      "二色幽紫蝶"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-01-30",
+    "tags": [
+      "抢先体验",
+      "冒险",
+      "动作",
+      "角色扮演",
+      "动作冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "战斗中自由切换喜怒哀乐，属性、能力与打法会随情绪彻底改变",
+      "dimension": "玩法",
+      "excerpt": "Kokoro possesses four core emotions: Joy, Anger, Sorrow and Happiness, which she can freely swap between during battle. Switching emotions completely changes your attributes, abilities and fighting style!",
+      "url": "https://store.steampowered.com/app/1970030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "凑齐3、6或10件同情绪装备即可激活跨流派生效的套装强化",
+      "dimension": "玩法",
+      "excerpt": "Furthermore, collecting 3, 6 or 10 items belonging to the same emotion will activate a powerful set effect! Activating a set effect powers up your character across the board, meaning you can reap its benefits regardless of your playstyle!",
+      "url": "https://store.steampowered.com/app/1970030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "跟随无法表达情感的面具付丧神，在旧日战斗中寻找自己的感情",
+      "dimension": "故事",
+      "excerpt": "This is a game about loneliness, self-discovery, and peering into others' intense emotions. Kokoro is a mask tsukumogami with many bottled up emotions, yet she cannot express these emotions herself.",
+      "url": "https://store.steampowered.com/app/1970030/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 54230,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 107392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6555,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 214617,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 64314,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 64314,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.016932668789658,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 873,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.536412,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "东方华心传Touhou Blooming Soul位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/ss_3cc1f8b999a18593f72bbef94a01696f53cd6ab4.1920x1080.jpg?t=1782391411",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/ss_3cc1f8b999a18593f72bbef94a01696f53cd6ab4.1920x1080.jpg?t=1782391411",
+        "alt": "东方华心传Touhou Blooming Soul 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/54cd796f6f51dbbea6e8aa797de3e7ab2a431a16/ss_54cd796f6f51dbbea6e8aa797de3e7ab2a431a16.1920x1080.jpg?t=1782391411",
+        "alt": "东方华心传Touhou Blooming Soul 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/98230fb864f33fe8d765a0c6e89897447817be59/ss_98230fb864f33fe8d765a0c6e89897447817be59.1920x1080.jpg?t=1782391411",
+        "alt": "东方华心传Touhou Blooming Soul 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/73b33a297eefc847a72402dee497ef4dcb251ff3/ss_73b33a297eefc847a72402dee497ef4dcb251ff3.1920x1080.jpg?t=1782391411",
+        "alt": "东方华心传Touhou Blooming Soul 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/b9ea99fbc9dc64b20280bcccc5f4deb2e179cc0a/ss_b9ea99fbc9dc64b20280bcccc5f4deb2e179cc0a.1920x1080.jpg?t=1782391411",
+        "alt": "东方华心传Touhou Blooming Soul 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/53883353da8b25159cd42439ab8f7b491213f32e/ss_53883353da8b25159cd42439ab8f7b491213f32e.1920x1080.jpg?t=1782391411",
+        "alt": "东方华心传Touhou Blooming Soul 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/d42c94c190adeaa8409bf380eb4032b6c9def309/ss_d42c94c190adeaa8409bf380eb4032b6c9def309.1920x1080.jpg?t=1782391411",
+        "alt": "东方华心传Touhou Blooming Soul 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970030/dbe2ddf9f5149c7f692d16459eea4e9c471b2f6f/ss_dbe2ddf9f5149c7f692d16459eea4e9c471b2f6f.1920x1080.jpg?t=1782391411",
+        "alt": "东方华心传Touhou Blooming Soul 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

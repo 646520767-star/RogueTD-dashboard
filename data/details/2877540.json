@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Heretical","developers":["Three Swords Studio"],"publishers":["Ultimate Games S.A.","Ultimate Publishing"],"release_status":"early_access","release_date":"2024-10-30","tags":["抢先体验","动作肉鸽","轻度Rogue","高重复可玩性","动作角色扮演"]},"hooks":[{"text":"失败会转化为永久技能与独特武器","dimension":"玩法","excerpt":"Should you fail, use that as a lesson for the next encounter, as well as an opportunity to help your hero permanently unlock powerful skills and unique weapons.","url":"https://store.steampowered.com/app/2877540/","label":"证据原文片段"},{"text":"主属性、Perk、物品和技能共同塑造角色构筑","dimension":"玩法","excerpt":"The variety of the character’s main stats, additional perks, collected items, and acquired skills brings endless customization options.","url":"https://store.steampowered.com/app/2877540/","label":"证据原文片段"},{"text":"预言卡成就会直接解锁新机制、技能和物品","dimension":"玩法","excerpt":"Prophecy Cards: An achievement system, allowing the player to unlock new game mechanics, skills, and items.","url":"https://store.steampowered.com/app/2877540/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":39967,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":88967,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8478,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":405098,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":42927,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":42927,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.37746374896347,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":995,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.025126,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_f18e83104536104a44470f8bd72323536e0f8bbb.1920x1080.jpg?t=1765199842","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_f18e83104536104a44470f8bd72323536e0f8bbb.1920x1080.jpg?t=1765199842","alt":"异端者 (Heretical) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_371be54eebc8f41dd1f994d10d14118291dde581.1920x1080.jpg?t=1765199842","alt":"异端者 (Heretical) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_bc2c5881fea6a804a0b19ab69d366cb8032c816a.1920x1080.jpg?t=1765199842","alt":"异端者 (Heretical) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_c59171ffee3001aa2b56d9fba5a9fa995effae9f.1920x1080.jpg?t=1765199842","alt":"异端者 (Heretical) 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Heretical",
+    "developers": [
+      "Three Swords Studio"
+    ],
+    "publishers": [
+      "Ultimate Games S.A.",
+      "Ultimate Publishing"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-10-30",
+    "tags": [
+      "抢先体验",
+      "动作肉鸽",
+      "轻度Rogue",
+      "高重复可玩性",
+      "动作角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "失败会转化为永久技能与独特武器",
+      "dimension": "玩法",
+      "excerpt": "Should you fail, use that as a lesson for the next encounter, as well as an opportunity to help your hero permanently unlock powerful skills and unique weapons.",
+      "url": "https://store.steampowered.com/app/2877540/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "主属性、Perk、物品和技能共同塑造角色构筑",
+      "dimension": "玩法",
+      "excerpt": "The variety of the character’s main stats, additional perks, collected items, and acquired skills brings endless customization options.",
+      "url": "https://store.steampowered.com/app/2877540/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "预言卡成就会直接解锁新机制、技能和物品",
+      "dimension": "玩法",
+      "excerpt": "Prophecy Cards: An achievement system, allowing the player to unlock new game mechanics, skills, and items.",
+      "url": "https://store.steampowered.com/app/2877540/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 41135,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 92052,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8532,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 419966,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 44212,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 44212,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.783385646182126,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 906,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.019841,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "异端者 (Heretical)位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_f18e83104536104a44470f8bd72323536e0f8bbb.1920x1080.jpg?t=1765199842",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_f18e83104536104a44470f8bd72323536e0f8bbb.1920x1080.jpg?t=1765199842",
+        "alt": "异端者 (Heretical) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_371be54eebc8f41dd1f994d10d14118291dde581.1920x1080.jpg?t=1765199842",
+        "alt": "异端者 (Heretical) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_bc2c5881fea6a804a0b19ab69d366cb8032c816a.1920x1080.jpg?t=1765199842",
+        "alt": "异端者 (Heretical) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_c59171ffee3001aa2b56d9fba5a9fa995effae9f.1920x1080.jpg?t=1765199842",
+        "alt": "异端者 (Heretical) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_eeef1ccf55919183161a06659825997cb550a192.1920x1080.jpg?t=1765199842",
+        "alt": "异端者 (Heretical) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_f7a7e86a49d9edf215b99357e19db7873e98a6be.1920x1080.jpg?t=1765199842",
+        "alt": "异端者 (Heretical) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_66e9ae4349ebedc507e241f3f92bcd8647f17d54.1920x1080.jpg?t=1765199842",
+        "alt": "异端者 (Heretical) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877540/ss_861b131b352c50afa22bee9d20be720d8570d00c.1920x1080.jpg?t=1765199842",
+        "alt": "异端者 (Heretical) 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

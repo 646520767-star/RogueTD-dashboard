@@ -1,1 +1,244 @@
-{"identity":{"original_title":"Morbid Metal","developers":["SCREEN JUICE"],"publishers":["Ubisoft"],"release_status":"early_access","release_date":"2026-04-08","tags":["抢先体验","动作肉鸽","砍杀","第三人称","单人游戏"]},"hooks":[{"text":"战斗中一键无缝切换三名英雄，把各自技能串成连续连招","dimension":"玩法","excerpt":"At the press of a button, seamlessly shapeshift mid‑combat between Flux, Ekku, and Vekta — each with unique abilities, playstyles, and special attacks. Chain attacks and master dozens of combos to turn every run into a seamless, lethal choreography.","url":"https://store.steampowered.com/app/1866130/","label":"证据原文片段"},{"text":"每条路线都以强调时机、适应力与稳定操作的电影化首领战收束","dimension":"玩法","excerpt":"Each path you take culminates in epic boss encounters where timing, adaptability, and composure are critical to survival.","url":"https://store.steampowered.com/app/1866130/","label":"证据原文片段"},{"text":"每轮重塑角色与构筑，长期成长外还能用恶魔交易和试炼换高风险奖励","dimension":"玩法","excerpt":"Evolve your characters and refine your build each run, so every attempt feels fresh and challenging. Lasting meta‑progression keeps every run meaningful. Risk powerful Devil’s Bargains or tackle Operator’s Trials for high‑stakes rewards!","url":"https://store.steampowered.com/app/1866130/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":75146,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":660886,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":38226,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":985532,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":80468,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":80468,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.6098703386940416,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1524,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.318271,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/e731cfe3f825756e0be451abad5a98371a1f6df5/ss_e731cfe3f825756e0be451abad5a98371a1f6df5.1920x1080.jpg?t=1782810773","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/e731cfe3f825756e0be451abad5a98371a1f6df5/ss_e731cfe3f825756e0be451abad5a98371a1f6df5.1920x1080.jpg?t=1782810773","alt":"Morbid Metal 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/af6bac63c6cc3eef630332c244ea829f48cc02aa/ss_af6bac63c6cc3eef630332c244ea829f48cc02aa.1920x1080.jpg?t=1782810773","alt":"Morbid Metal 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/9219a5343a25e9202af1f1aa43ffac69c064a2a7/ss_9219a5343a25e9202af1f1aa43ffac69c064a2a7.1920x1080.jpg?t=1782810773","alt":"Morbid Metal 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/7b19fb6f66dc2a7a084b6bfcc8afffea6a5911e1/ss_7b19fb6f66dc2a7a084b6bfcc8afffea6a5911e1.1920x1080.jpg?t=1782810773","alt":"Morbid Metal 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Morbid Metal",
+    "developers": [
+      "SCREEN JUICE"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-04-08",
+    "tags": [
+      "抢先体验",
+      "动作肉鸽",
+      "砍杀",
+      "第三人称",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "战斗中一键无缝切换三名英雄，把各自技能串成连续连招",
+      "dimension": "玩法",
+      "excerpt": "At the press of a button, seamlessly shapeshift mid‑combat between Flux, Ekku, and Vekta — each with unique abilities, playstyles, and special attacks. Chain attacks and master dozens of combos to turn every run into a seamless, lethal choreography.",
+      "url": "https://store.steampowered.com/app/1866130/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每条路线都以强调时机、适应力与稳定操作的电影化首领战收束",
+      "dimension": "玩法",
+      "excerpt": "Each path you take culminates in epic boss encounters where timing, adaptability, and composure are critical to survival.",
+      "url": "https://store.steampowered.com/app/1866130/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮重塑角色与构筑，长期成长外还能用恶魔交易和试炼换高风险奖励",
+      "dimension": "玩法",
+      "excerpt": "Evolve your characters and refine your build each run, so every attempt feels fresh and challenging. Lasting meta‑progression keeps every run meaningful. Risk powerful Devil’s Bargains or tackle Operator’s Trials for high‑stakes rewards!",
+      "url": "https://store.steampowered.com/app/1866130/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "目前EA版（抢先体验）给我的感受就是优缺点都非常明显，爽快的战斗和优质的画面在动作肉鸽里绝对是第一梯队的水准，但局内构筑、局外养成都做的不尽人意。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "目前EA版（抢先体验）给我的感受就是优缺点都非常明显，爽快的战斗和优质的画面在动作肉鸽里绝对是第一梯队的水准，但局内构筑、局外养成都做的不尽人意。",
+          "url": "https://steamcommunity.com/profiles/76561198800719980/recommended/1866130/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "总体的游玩体验还是很不错的，是个人比较喜欢的画风，剧情的话我没看懂（感觉也没多少剧情的接入吧）。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "总体的游玩体验还是很不错的，是个人比较喜欢的画风，剧情的话我没看懂（感觉也没多少剧情的接入吧）。",
+          "url": "https://steamcommunity.com/profiles/76561198695762602/recommended/1866130/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "画风很漂亮，手感还可以，但不建议现在入。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "画风很漂亮，手感还可以，但不建议现在入。",
+          "url": "https://steamcommunity.com/profiles/76561199110647530/recommended/1866130/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "亮眼美术 爽快连招 无感肉鸽 煞笔寻物",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "亮眼美术 爽快连招 无感肉鸽 煞笔寻物",
+          "url": "https://steamcommunity.com/id/04172011/recommended/1866130/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Fast, addictive combat and sleek visuals make this a blast, but janky camera angles, frame drops, and unpolished optimization hold it back from true greatness.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "信息提供",
+      "excerpts": [
+        {
+          "excerpt": "Fast, addictive combat and sleek visuals make this a blast, but janky camera angles, frame drops, and unpolished optimization hold it back from true greatness.",
+          "url": "https://store.steampowered.com/curator/45497815-VaporLens/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 83569,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 678867,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 39713,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1080573,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 89264,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 89264,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.744349389062716,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1496,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.374319,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Morbid Metal位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/e731cfe3f825756e0be451abad5a98371a1f6df5/ss_e731cfe3f825756e0be451abad5a98371a1f6df5.1920x1080.jpg?t=1782810773",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/e731cfe3f825756e0be451abad5a98371a1f6df5/ss_e731cfe3f825756e0be451abad5a98371a1f6df5.1920x1080.jpg?t=1786540193",
+        "alt": "Morbid Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/af6bac63c6cc3eef630332c244ea829f48cc02aa/ss_af6bac63c6cc3eef630332c244ea829f48cc02aa.1920x1080.jpg?t=1786540193",
+        "alt": "Morbid Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/9219a5343a25e9202af1f1aa43ffac69c064a2a7/ss_9219a5343a25e9202af1f1aa43ffac69c064a2a7.1920x1080.jpg?t=1786540193",
+        "alt": "Morbid Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/7b19fb6f66dc2a7a084b6bfcc8afffea6a5911e1/ss_7b19fb6f66dc2a7a084b6bfcc8afffea6a5911e1.1920x1080.jpg?t=1786540193",
+        "alt": "Morbid Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/1a84d5f18d37d19827b05af964147aadc208b3a8/ss_1a84d5f18d37d19827b05af964147aadc208b3a8.1920x1080.jpg?t=1786540193",
+        "alt": "Morbid Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/a25a890012d74bff90bb104a3bf3a3318d6c6a8c/ss_a25a890012d74bff90bb104a3bf3a3318d6c6a8c.1920x1080.jpg?t=1786540193",
+        "alt": "Morbid Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/8dfe8fb1b153848eaf10e084c8e05720086614d3/ss_8dfe8fb1b153848eaf10e084c8e05720086614d3.1920x1080.jpg?t=1786540193",
+        "alt": "Morbid Metal 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/c189e3374f01749f5c080cbac1181fe813a1262b/ss_c189e3374f01749f5c080cbac1181fe813a1262b.1920x1080.jpg?t=1786540193",
+        "alt": "Morbid Metal 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

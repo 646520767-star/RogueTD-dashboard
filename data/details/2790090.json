@@ -1,1 +1,315 @@
-{"identity":{"original_title":"Sirocco","developers":["Lunchbox Entertainment Inc."],"publishers":["Lunchbox Entertainment Inc."],"release_status":"early_access","release_date":"2025-05-02","tags":["抢先体验","策略","玩家对战","动作肉鸽","弹幕射击"]},"hooks":[{"text":"取消固定职责与硬克制，并允许比赛中途更换能力即时重组战术","dimension":"玩法","excerpt":"Ditch the roles, hard counters and last hits in Sirocco. Rally your team as you swap abilities mid-match, load up auto-firing weapons , and craft strategies on the fly.","url":"https://store.steampowered.com/app/2790090/","label":"证据原文片段"},{"text":"自动开火与经济系统把重点从补刀NPC转向团战和站位","dimension":"玩法","excerpt":"Sirocco utilizes an auto-fire mechanic and economic system that promotes team fighting and positioning over last hitting NPCs.","url":"https://store.steampowered.com/app/2790090/","label":"证据原文片段"},{"text":"团队经济确保无论个人战绩10比0还是0比10，每名队友仍对胜利关键","dimension":"玩法","excerpt":"In Sirocco, teams win, not individuals, so whether you are 10-0 or 0-10, our economic system ensures all your friends are critical to achieving victory.","url":"https://store.steampowered.com/app/2790090/","label":"证据原文片段"}],"opinions":[{"text":"声音设计强化张力、冲击与临场感","dimension":"音频","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The sound design helps build tension, deliver impact, and make each moment feel alive on the water.","url":"https://steamcommunity.com/id/Darroweve/recommended/2790090/","label":"证据原文片段"}]},{"text":"舰船设计各具个性。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the boat designs? Just awesome.","url":"https://steamcommunity.com/id/Darroweve/recommended/2790090/","label":"证据原文片段"}]},{"text":"同类武器不能重复使用","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"武器只能2个，同样的武器还不能用，技能比武器强","url":"https://steamcommunity.com/id/249009092/recommended/2790090/","label":"证据原文片段"}]},{"text":"中程武器偏弱，远程武器主导战斗","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Mid-range weapons feel particularly underpowered—right now, the combat meta is dominated by long-range weapons.","url":"https://steamcommunity.com/profiles/76561198013535636/recommended/2790090/","label":"证据原文片段"}]},{"text":"匹配等待至少五分钟","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"一匹配就5分钟起步，还没有亚洲服务器。","url":"https://steamcommunity.com/id/yjfuy/recommended/2790090/","label":"证据原文片段"}]},{"text":"友方与敌方技能难以区分","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it's hard to tell the difference between teammate and enemy abilities","url":"https://steamcommunity.com/id/Darroweve/recommended/2790090/","label":"证据原文片段"}]},{"text":"高分段排队时间可能较长","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Queue times, especially at higher MMR, can get long.","url":"https://steamcommunity.com/id/Darroweve/recommended/2790090/","label":"证据原文片段"}]},{"text":"可探索的玩法风格很多","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Lots of fun playstyles to explore","url":"https://store.steampowered.com/curator/34183438-JabberJon%2527s-Hideout/","label":"证据原文片段"}]},{"text":"不同舰船身份明确，覆盖刺客、坦克、辅助和远程等玩法。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"each with a clear identity and purpose — from assassin-style boats to tanky frontliners, supportive builds, long-range snipers, and close-combat bruisers.","url":"https://steamcommunity.com/id/Darroweve/recommended/2790090/","label":"证据原文片段"}]},{"text":"游戏容易让玩家长时间沉浸投入","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I've sat and played all day without realizing it.","url":"https://steamcommunity.com/profiles/76561198041321203/recommended/2790090/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":41133,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":20335,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2527,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":17731,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":41133,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":41133,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.121963741458945,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":769,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":76,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.552666,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["同类武器不能重复使用","中程武器偏弱，远程武器主导战斗","技术/性能：匹配等待至少五分钟","友方与敌方技能难以区分","高分段排队时间可能较长"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_b981a83c0f879cd10904e1dc593469ed75908f29.1920x1080.jpg?t=1770067372","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_b981a83c0f879cd10904e1dc593469ed75908f29.1920x1080.jpg?t=1770067372","alt":"Sirocco 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_a3c1faadc6bec2f7fc2775461ec5bb1ec61d365a.1920x1080.jpg?t=1770067372","alt":"Sirocco 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_1086a64ae8d0b5a6e3a462e29c60bfb79d1ffc44.1920x1080.jpg?t=1770067372","alt":"Sirocco 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_3c847fae41e4e3fd3736f7a1f251e7e4391ba3b0.1920x1080.jpg?t=1770067372","alt":"Sirocco 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Sirocco",
+    "developers": [
+      "Lunchbox Entertainment Inc."
+    ],
+    "publishers": [
+      "Lunchbox Entertainment Inc."
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-05-02",
+    "tags": [
+      "抢先体验",
+      "策略",
+      "玩家对战",
+      "策略",
+      "玩家对战"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "取消固定职责与硬克制，并允许比赛中途更换能力即时重组战术",
+      "dimension": "玩法",
+      "excerpt": "Ditch the roles, hard counters and last hits in Sirocco. Rally your team as you swap abilities mid-match, load up auto-firing weapons , and craft strategies on the fly.",
+      "url": "https://store.steampowered.com/app/2790090/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "自动开火与经济系统把重点从补刀NPC转向团战和站位",
+      "dimension": "玩法",
+      "excerpt": "Sirocco utilizes an auto-fire mechanic and economic system that promotes team fighting and positioning over last hitting NPCs.",
+      "url": "https://store.steampowered.com/app/2790090/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "团队经济确保无论个人战绩10比0还是0比10，每名队友仍对胜利关键",
+      "dimension": "玩法",
+      "excerpt": "In Sirocco, teams win, not individuals, so whether you are 10-0 or 0-10, our economic system ensures all your friends are critical to achieving victory.",
+      "url": "https://store.steampowered.com/app/2790090/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "声音设计强化张力、冲击与临场感",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The sound design helps build tension, deliver impact, and make each moment feel alive on the water.",
+          "url": "https://steamcommunity.com/id/Darroweve/recommended/2790090/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "舰船设计各具个性。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the boat designs? Just awesome.",
+          "url": "https://steamcommunity.com/id/Darroweve/recommended/2790090/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "同类武器不能重复使用",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "武器只能2个，同样的武器还不能用，技能比武器强",
+          "url": "https://steamcommunity.com/id/249009092/recommended/2790090/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "中程武器偏弱，远程武器主导战斗",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Mid-range weapons feel particularly underpowered—right now, the combat meta is dominated by long-range weapons.",
+          "url": "https://steamcommunity.com/profiles/76561198013535636/recommended/2790090/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "匹配等待至少五分钟",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "一匹配就5分钟起步，还没有亚洲服务器。",
+          "url": "https://steamcommunity.com/id/yjfuy/recommended/2790090/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "友方与敌方技能难以区分",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it's hard to tell the difference between teammate and enemy abilities",
+          "url": "https://steamcommunity.com/id/Darroweve/recommended/2790090/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高分段排队时间可能较长",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Queue times, especially at higher MMR, can get long.",
+          "url": "https://steamcommunity.com/id/Darroweve/recommended/2790090/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "可探索的玩法风格很多",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Lots of fun playstyles to explore",
+          "url": "https://store.steampowered.com/curator/34183438-JabberJon%2527s-Hideout/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "不同舰船身份明确，覆盖刺客、坦克、辅助和远程等玩法。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "each with a clear identity and purpose — from assassin-style boats to tanky frontliners, supportive builds, long-range snipers, and close-combat bruisers.",
+          "url": "https://steamcommunity.com/id/Darroweve/recommended/2790090/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏容易让玩家长时间沉浸投入",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I've sat and played all day without realizing it.",
+          "url": "https://steamcommunity.com/profiles/76561198041321203/recommended/2790090/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 41099,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 20456,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2529,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 24100,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 41099,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 41099,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.16663153038897,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 768,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.651042,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "同类武器不能重复使用",
+    "中程武器偏弱，远程武器主导战斗",
+    "技术/性能：匹配等待至少五分钟",
+    "友方与敌方技能难以区分",
+    "高分段排队时间可能较长"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Sirocco位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_b981a83c0f879cd10904e1dc593469ed75908f29.1920x1080.jpg?t=1770067372",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_b981a83c0f879cd10904e1dc593469ed75908f29.1920x1080.jpg?t=1770067372",
+        "alt": "Sirocco 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_a3c1faadc6bec2f7fc2775461ec5bb1ec61d365a.1920x1080.jpg?t=1770067372",
+        "alt": "Sirocco 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_1086a64ae8d0b5a6e3a462e29c60bfb79d1ffc44.1920x1080.jpg?t=1770067372",
+        "alt": "Sirocco 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_3c847fae41e4e3fd3736f7a1f251e7e4391ba3b0.1920x1080.jpg?t=1770067372",
+        "alt": "Sirocco 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_87f69dbb05e7df94948819c2d3ebb60f1b6935fa.1920x1080.jpg?t=1770067372",
+        "alt": "Sirocco 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_a4cc90c21fc1397e0f71b67e5985e30d3dc80e59.1920x1080.jpg?t=1770067372",
+        "alt": "Sirocco 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_077312d7c70ddafd1d1a8ad6c4fd86da9d0c48a3.1920x1080.jpg?t=1770067372",
+        "alt": "Sirocco 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790090/ss_cbea1c4839d951b5b6da715fdb0f2f5c355549a7.1920x1080.jpg?t=1770067372",
+        "alt": "Sirocco 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

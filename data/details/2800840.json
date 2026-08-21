@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Gunbot Diplomacy","developers":["Sleepy Sentry"],"publishers":["GrabTheGames","Gamersky Games"],"release_status":"released","release_date":"2025-05-13","tags":["弹幕射击","类Rogue","高重复可玩性","轻度Rogue","竞技场射击"]},"hooks":[{"text":"在六边形升级网格上，用20多种基础武器和25类强化件拼装枪械","dimension":"玩法","excerpt":"Mix and match from over 20 base weapons and customize them using 25+ types of augments and boosters to suit your build on a unique hexagonal upgrade grid !","url":"https://store.steampowered.com/app/2800840/","label":"证据原文片段"},{"text":"从80多种核心模块中选择并确定机器人构筑方向","dimension":"玩法","excerpt":"Choose from more than 80 build-defining modules - it's not like messing with Gunbot AI lead to the downfall of all human civilization or anything!","url":"https://store.steampowered.com/app/2800840/","label":"证据原文片段"},{"text":"可让机器人自动瞄准，也能指定部分武器手动控制","dimension":"玩法","excerpt":"Let your gunbot's automated targeting systems handle the firing - or select which weapons you want to manually aim for optimal control!","url":"https://store.steampowered.com/app/2800840/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8901,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":24148,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1620,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":33907,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":11252,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":11252,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.427344075258603,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":258,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.821705,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"弹幕射击、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_aabc1e57a8fce8356601f7638f30223213d30ac3.1920x1080.jpg?t=1784217024","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_aabc1e57a8fce8356601f7638f30223213d30ac3.1920x1080.jpg?t=1784217024","alt":"炮舰外交 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_81ad80e1791ac7c5d22b9a679515c7bd9f65754b.1920x1080.jpg?t=1784217024","alt":"炮舰外交 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/86c5aa8c057adcda9afaa33b8462053a141b2979/ss_86c5aa8c057adcda9afaa33b8462053a141b2979.1920x1080.jpg?t=1784217024","alt":"炮舰外交 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_a40f8249aa99280d21538b8fcb73c65d416fd937.1920x1080.jpg?t=1784217024","alt":"炮舰外交 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Gunbot Diplomacy",
+    "developers": [
+      "Sleepy Sentry"
+    ],
+    "publishers": [
+      "GrabTheGames",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-13",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "类Rogue",
+      "高重复可玩性",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "在六边形升级网格上，用20多种基础武器和25类强化件拼装枪械",
+      "dimension": "玩法",
+      "excerpt": "Mix and match from over 20 base weapons and customize them using 25+ types of augments and boosters to suit your build on a unique hexagonal upgrade grid !",
+      "url": "https://store.steampowered.com/app/2800840/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从80多种核心模块中选择并确定机器人构筑方向",
+      "dimension": "玩法",
+      "excerpt": "Choose from more than 80 build-defining modules - it's not like messing with Gunbot AI lead to the downfall of all human civilization or anything!",
+      "url": "https://store.steampowered.com/app/2800840/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可让机器人自动瞄准，也能指定部分武器手动控制",
+      "dimension": "玩法",
+      "excerpt": "Let your gunbot's automated targeting systems handle the firing - or select which weapons you want to manually aim for optimal control!",
+      "url": "https://store.steampowered.com/app/2800840/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 9521,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 24291,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1619,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 34768,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 12085,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 12085,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.45593665442294,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 184,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.363636,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "炮舰外交位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_aabc1e57a8fce8356601f7638f30223213d30ac3.1920x1080.jpg?t=1784217024",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_aabc1e57a8fce8356601f7638f30223213d30ac3.1920x1080.jpg?t=1786725321",
+        "alt": "炮舰外交 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_81ad80e1791ac7c5d22b9a679515c7bd9f65754b.1920x1080.jpg?t=1786725321",
+        "alt": "炮舰外交 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/86c5aa8c057adcda9afaa33b8462053a141b2979/ss_86c5aa8c057adcda9afaa33b8462053a141b2979.1920x1080.jpg?t=1786725321",
+        "alt": "炮舰外交 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_a40f8249aa99280d21538b8fcb73c65d416fd937.1920x1080.jpg?t=1786725321",
+        "alt": "炮舰外交 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_1950911ce0f96d3b6c1272ac0f509f296eb89f3c.1920x1080.jpg?t=1786725321",
+        "alt": "炮舰外交 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_1aaa14797260704e3c0138d118be46bf093a9c9a.1920x1080.jpg?t=1786725321",
+        "alt": "炮舰外交 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_59c90990ed00fafb8f9b616e8a8c0a78872c169f.1920x1080.jpg?t=1786725321",
+        "alt": "炮舰外交 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800840/ss_a3add9614bf48392464a670bf256f483968cacae.1920x1080.jpg?t=1786725321",
+        "alt": "炮舰外交 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

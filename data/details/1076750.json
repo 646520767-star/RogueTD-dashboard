@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Dream Engines: Nomad Cities","developers":["Suncrash"],"publishers":["Suncrash","Gamirror Games"],"release_status":"released","release_date":"2024-05-09","tags":["生存","沙盒","程序生成","角色扮演","策略"]},"hooks":[{"text":"梦疫会随停留时间不断增强，守不住时可带着整座城市直接起飞撤离。","dimension":"玩法","excerpt":"Fortify your city and defend it against raids for as long as you can. But even the ancients were unable to withstand the Dream Plagues forever - the longer you stay, the stronger they become. Unlike the ancients, however, you are able to grab your entire city and just fly away when things become too rough.","url":"https://store.steampowered.com/app/1076750/","label":"证据原文片段"},{"text":"飞城面积有限，必须权衡永久扩建与注定留在旧地图的一次性基础设施。","dimension":"玩法","excerpt":"Your city’s area is limited. You’ll have to balance between expensive long-term upgrades to expand your city, and building disposable infrastructure that will be left behind . Carefully choose which buildings you take with you and which you can live without - at least for a while.","url":"https://store.steampowered.com/app/1076750/","label":"证据原文片段"},{"text":"离开城市后直接操控可升级的蒸汽机器人，以实时动作探索荒野并适配个人打法。","dimension":"玩法","excerpt":"To explore your surroundings, you directly control a unique Steam-Bot in real time action . You will upgrade, equip and customize that Steam-Bot to your preferred play style.","url":"https://store.steampowered.com/app/1076750/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":30134,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":177928,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":26492,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":575366,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":32787,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":49180,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":22.50349881642663,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":623,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":73,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":73.033708,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"生存、沙盒","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_e1b93c9450de9bc2f9653d571c640678de9f992b.1920x1080.jpg?t=1755866668","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_e1b93c9450de9bc2f9653d571c640678de9f992b.1920x1080.jpg?t=1755866668","alt":"梦幻引擎：游牧城市 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_aaf53609c0211f45ddd255b93bca07bcedbac4de.1920x1080.jpg?t=1755866668","alt":"梦幻引擎：游牧城市 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_276b964b56314dde4ab972301953ba0d0cbd190c.1920x1080.jpg?t=1755866668","alt":"梦幻引擎：游牧城市 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_8d67c5fe10ab2f267636459127191a4076c36efa.1920x1080.jpg?t=1755866668","alt":"梦幻引擎：游牧城市 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dream Engines: Nomad Cities",
+    "developers": [
+      "Suncrash"
+    ],
+    "publishers": [
+      "Suncrash",
+      "Gamirror Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-09",
+    "tags": [
+      "塔防",
+      "生存",
+      "塔防",
+      "沙盒",
+      "程序生成"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "梦疫会随停留时间不断增强，守不住时可带着整座城市直接起飞撤离。",
+      "dimension": "玩法",
+      "excerpt": "Fortify your city and defend it against raids for as long as you can. But even the ancients were unable to withstand the Dream Plagues forever - the longer you stay, the stronger they become. Unlike the ancients, however, you are able to grab your entire city and just fly away when things become too rough.",
+      "url": "https://store.steampowered.com/app/1076750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "飞城面积有限，必须权衡永久扩建与注定留在旧地图的一次性基础设施。",
+      "dimension": "玩法",
+      "excerpt": "Your city’s area is limited. You’ll have to balance between expensive long-term upgrades to expand your city, and building disposable infrastructure that will be left behind . Carefully choose which buildings you take with you and which you can live without - at least for a while.",
+      "url": "https://store.steampowered.com/app/1076750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "离开城市后直接操控可升级的蒸汽机器人，以实时动作探索荒野并适配个人打法。",
+      "dimension": "玩法",
+      "excerpt": "To explore your surroundings, you directly control a unique Steam-Bot in real time action . You will upgrade, equip and customize that Steam-Bot to your preferred play style.",
+      "url": "https://store.steampowered.com/app/1076750/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 35991,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 178983,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 26474,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 683783,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 39159,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 58738,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 23.27001170127452,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 551,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 73,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 73.033708,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "梦幻引擎：游牧城市位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_e1b93c9450de9bc2f9653d571c640678de9f992b.1920x1080.jpg?t=1755866668",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_e1b93c9450de9bc2f9653d571c640678de9f992b.1920x1080.jpg?t=1755866668",
+        "alt": "梦幻引擎：游牧城市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_aaf53609c0211f45ddd255b93bca07bcedbac4de.1920x1080.jpg?t=1755866668",
+        "alt": "梦幻引擎：游牧城市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_276b964b56314dde4ab972301953ba0d0cbd190c.1920x1080.jpg?t=1755866668",
+        "alt": "梦幻引擎：游牧城市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_8d67c5fe10ab2f267636459127191a4076c36efa.1920x1080.jpg?t=1755866668",
+        "alt": "梦幻引擎：游牧城市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_7c8e734f5d39de394fb0ddeb98c702cf5a3cdd8c.1920x1080.jpg?t=1755866668",
+        "alt": "梦幻引擎：游牧城市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_fc76aa2d930ff206c411042d8f33d5318a2005c2.1920x1080.jpg?t=1755866668",
+        "alt": "梦幻引擎：游牧城市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_b601f4ca2620653ad9ea2d89617ad16eb2d7eb69.1920x1080.jpg?t=1755866668",
+        "alt": "梦幻引擎：游牧城市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076750/ss_dee0e8c5c65b8ecc9f1cb3435287a13107624cdf.1920x1080.jpg?t=1755866668",
+        "alt": "梦幻引擎：游牧城市 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

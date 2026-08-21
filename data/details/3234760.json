@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Orange Roulette","developers":["Mikey Houser"],"publishers":["Loserville Express"],"release_status":"released","release_date":"2024-10-07","tags":["动作","模拟","策略","生存","永久死亡"]},"hooks":[{"text":"被困监狱地狱的橙子被迫参加致命游戏，只为争取被运往更安全的市场","dimension":"故事","excerpt":"Trapped in a prison hell, a desperate orange will play a deadly game in the hopes of getting shipped to safer markets.","url":"https://store.steampowered.com/app/3234760/","label":"证据原文片段"},{"text":"香蕉枪拥有六个膛室，但成熟时只会在其中一个随机膛室长出爆炸种荚","dimension":"玩法","excerpt":"The Banana Gun has six chambers. A single seed pod forms in a single chamber as the Banana Gun ripens.","url":"https://store.steampowered.com/app/3234760/","label":"证据原文片段"},{"text":"成熟香蕉枪会自行转轮击发，玩家也能手动扣动，但需剥开枪口避免回火","dimension":"玩法","excerpt":"When it has reached full development, under a bright sun, the Banana Gun begins to 'trigger' itself, cycling its cylinder counterclockwise until it reaches the random chamber the explosive seed pod is in. When that happens, seeds and banana fruit expel at high velocity, and can be deadly if you are in range. You can also pull their 'trigger' yourself with the same effect. If you intend to use the Banana Gun in this fashion, it is recommended to peel back the end of the 'muzzle' slightly, to prevent a backfire.","url":"https://store.steampowered.com/app/3234760/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1945,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":12710,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":356,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":4546,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2048,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2048,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.074088001593329,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":140,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.714286,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_49138ba8d1bcdbf283fee80cfa1ca871d6ada2cd.1920x1080.jpg?t=1784311173","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_49138ba8d1bcdbf283fee80cfa1ca871d6ada2cd.1920x1080.jpg?t=1784311173","alt":"Orange Roulette 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_bd4d518d487ac86406cdf885a528344ab75d1ed2.1920x1080.jpg?t=1784311173","alt":"Orange Roulette 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_06a600700346b37ab16c2cdd599c2ca6888bddc7.1920x1080.jpg?t=1784311173","alt":"Orange Roulette 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_56ecd6eb7ba348463f7f62b9f4dcf1d84756f40e.1920x1080.jpg?t=1784311173","alt":"Orange Roulette 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Orange Roulette",
+    "developers": [
+      "Mikey Houser"
+    ],
+    "publishers": [
+      "Loserville Express"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-07",
+    "tags": [
+      "动作",
+      "模拟",
+      "策略",
+      "生存",
+      "永久死亡"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "被困监狱地狱的橙子被迫参加致命游戏，只为争取被运往更安全的市场",
+      "dimension": "故事",
+      "excerpt": "Trapped in a prison hell, a desperate orange will play a deadly game in the hopes of getting shipped to safer markets.",
+      "url": "https://store.steampowered.com/app/3234760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "香蕉枪拥有六个膛室，但成熟时只会在其中一个随机膛室长出爆炸种荚",
+      "dimension": "玩法",
+      "excerpt": "The Banana Gun has six chambers. A single seed pod forms in a single chamber as the Banana Gun ripens.",
+      "url": "https://store.steampowered.com/app/3234760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "成熟香蕉枪会自行转轮击发，玩家也能手动扣动，但需剥开枪口避免回火",
+      "dimension": "玩法",
+      "excerpt": "When it has reached full development, under a bright sun, the Banana Gun begins to 'trigger' itself, cycling its cylinder counterclockwise until it reaches the random chamber the explosive seed pod is in. When that happens, seeds and banana fruit expel at high velocity, and can be deadly if you are in range. You can also pull their 'trigger' yourself with the same effect. If you intend to use the Banana Gun in this fashion, it is recommended to peel back the end of the 'muzzle' slightly, to prevent a backfire.",
+      "url": "https://store.steampowered.com/app/3234760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3082,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 12785,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 365,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 7525,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3243,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3243,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.283529799388571,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 131,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.744681,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Orange Roulette位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_49138ba8d1bcdbf283fee80cfa1ca871d6ada2cd.1920x1080.jpg?t=1784311173",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_49138ba8d1bcdbf283fee80cfa1ca871d6ada2cd.1920x1080.jpg?t=1784311173",
+        "alt": "Orange Roulette 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_bd4d518d487ac86406cdf885a528344ab75d1ed2.1920x1080.jpg?t=1784311173",
+        "alt": "Orange Roulette 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_06a600700346b37ab16c2cdd599c2ca6888bddc7.1920x1080.jpg?t=1784311173",
+        "alt": "Orange Roulette 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_56ecd6eb7ba348463f7f62b9f4dcf1d84756f40e.1920x1080.jpg?t=1784311173",
+        "alt": "Orange Roulette 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_31a55f44580d12bc10c4046e5796618ea4563505.1920x1080.jpg?t=1784311173",
+        "alt": "Orange Roulette 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_6ca93a8f6a1cdb2f54bb7b5b9d6fa1ad3fe2916f.1920x1080.jpg?t=1784311173",
+        "alt": "Orange Roulette 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234760/ss_8f1d59c5e1eb25d718ac8e9ba9e2c5f96d8e236c.1920x1080.jpg?t=1784311173",
+        "alt": "Orange Roulette 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

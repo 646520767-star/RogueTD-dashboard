@@ -1,1 +1,179 @@
-{"identity":{"original_title":"ODDCORE","developers":["ODDCORP"],"publishers":["Scarecrow Arts","Korgi Digital"],"release_status":"early_access","release_date":"2026-01-07","tags":["抢先体验","类Rogue","竞技场射击","复古","清版射击"]},"hooks":[{"text":"每次生命最多只剩五分钟，所有路线和风险选择都围绕死亡倒计时展开","dimension":"玩法","excerpt":"Gamble every second with never more than 5 minutes until your DEATH","url":"https://store.steampowered.com/app/2896260/","label":"证据原文片段"},{"text":"导入自己的音乐后，系统会按音频文件生成带随机属性的卡带，让播放列表直接成为构筑组件","dimension":"玩法","excerpt":"13 soundtrack cassettes , each capable of changing your run. Not enough? Import your own music and the game will generate a custom cassette with randomized stats based on the file. Your playlist is now a build mechanic.","url":"https://store.steampowered.com/app/2896260/","label":"证据原文片段"},{"text":"13种武器、10件专用工具与140余可叠加物品，配套百余变体、35种实体和12场首领战","dimension":"玩法","excerpt":"13 unique weapons + 10 specialized gadgets 140+ stackable items 100+ variants to explore and purge through 35+ entities with their unique personalities and mechanics 12 boss battles","url":"https://store.steampowered.com/app/2896260/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":31122,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":68632,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3855,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":256006,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":31971,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":31971,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.970920598337282,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1055,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.691871,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/918e251b573e9c48106a035e9f022bc302b996e5/ss_918e251b573e9c48106a035e9f022bc302b996e5.1920x1080.jpg?t=1783365299","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/918e251b573e9c48106a035e9f022bc302b996e5/ss_918e251b573e9c48106a035e9f022bc302b996e5.1920x1080.jpg?t=1783365299","alt":"ODDCORE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/75783633282147feb644bf5802e760a28624cce4/ss_75783633282147feb644bf5802e760a28624cce4.1920x1080.jpg?t=1783365299","alt":"ODDCORE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/55190dde4a97fa00065d81811f1bb9aff2f64259/ss_55190dde4a97fa00065d81811f1bb9aff2f64259.1920x1080.jpg?t=1783365299","alt":"ODDCORE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/580432edcfaffcec3945f9677f681916b123a4e7/ss_580432edcfaffcec3945f9677f681916b123a4e7.1920x1080.jpg?t=1783365299","alt":"ODDCORE 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "ODDCORE",
+    "developers": [
+      "ODDCORP"
+    ],
+    "publishers": [
+      "Scarecrow Arts",
+      "Korgi Digital"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-01-07",
+    "tags": [
+      "抢先体验",
+      "类Rogue",
+      "竞技场射击",
+      "轻度Rogue",
+      "复古"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每次生命最多只剩五分钟，所有路线和风险选择都围绕死亡倒计时展开",
+      "dimension": "玩法",
+      "excerpt": "Gamble every second with never more than 5 minutes until your DEATH",
+      "url": "https://store.steampowered.com/app/2896260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "导入自己的音乐后，系统会按音频文件生成带随机属性的卡带，让播放列表直接成为构筑组件",
+      "dimension": "玩法",
+      "excerpt": "13 soundtrack cassettes , each capable of changing your run. Not enough? Import your own music and the game will generate a custom cassette with randomized stats based on the file. Your playlist is now a build mechanic.",
+      "url": "https://store.steampowered.com/app/2896260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "13种武器、10件专用工具与140余可叠加物品，配套百余变体、35种实体和12场首领战",
+      "dimension": "玩法",
+      "excerpt": "13 unique weapons + 10 specialized gadgets 140+ stackable items 100+ variants to explore and purge through 35+ entities with their unique personalities and mechanics 12 boss battles",
+      "url": "https://store.steampowered.com/app/2896260/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 32924,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 69039,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3913,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 259679,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 33856,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 33856,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.005550182842348,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1051,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.800731,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "ODDCORE位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/918e251b573e9c48106a035e9f022bc302b996e5/ss_918e251b573e9c48106a035e9f022bc302b996e5.1920x1080.jpg?t=1783365299",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/918e251b573e9c48106a035e9f022bc302b996e5/ss_918e251b573e9c48106a035e9f022bc302b996e5.1920x1080.jpg?t=1783365299",
+        "alt": "ODDCORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/75783633282147feb644bf5802e760a28624cce4/ss_75783633282147feb644bf5802e760a28624cce4.1920x1080.jpg?t=1783365299",
+        "alt": "ODDCORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/55190dde4a97fa00065d81811f1bb9aff2f64259/ss_55190dde4a97fa00065d81811f1bb9aff2f64259.1920x1080.jpg?t=1783365299",
+        "alt": "ODDCORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/580432edcfaffcec3945f9677f681916b123a4e7/ss_580432edcfaffcec3945f9677f681916b123a4e7.1920x1080.jpg?t=1783365299",
+        "alt": "ODDCORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/987d5ecd8a614052429df00e46ecf6c8f875e950/ss_987d5ecd8a614052429df00e46ecf6c8f875e950.1920x1080.jpg?t=1783365299",
+        "alt": "ODDCORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/17e459f22cef275be2fcd11860f92dfda22af561/ss_17e459f22cef275be2fcd11860f92dfda22af561.1920x1080.jpg?t=1783365299",
+        "alt": "ODDCORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/2e67497944c05d339eebb7568d159cf34d22e742/ss_2e67497944c05d339eebb7568d159cf34d22e742.1920x1080.jpg?t=1783365299",
+        "alt": "ODDCORE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2896260/3d9a89bec738517075a7a936ef85545291597b31/ss_3d9a89bec738517075a7a936ef85545291597b31.1920x1080.jpg?t=1783365299",
+        "alt": "ODDCORE 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

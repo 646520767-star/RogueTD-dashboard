@@ -1,1 +1,172 @@
-{"identity":{"original_title":"What'Sub","developers":["Khaos Games","Nordic Softworks","Future Punch"],"publishers":["Khaos Games"],"release_status":"early_access","release_date":"2026-05-14","tags":["抢先体验","多人游戏","程序生成","冒险","在线合作"]},"hooks":[{"text":"潜得越深，沉船宝藏越多，但危险更晚显现且撤离难度同步上升","dimension":"玩法","excerpt":"Navigate caverns, wrecks, and treacherous terrain. Visibility is limited. Hazards appear late. The deeper you go, the more long-lost treasure waits and the harder it gets to leave.","url":"https://store.steampowered.com/app/4269100/","label":"证据原文片段"},{"text":"带战利品返航即可保留全部收获、升级与进度，溺亡则失去本次带入的一切","dimension":"玩法","excerpt":"Make it back to the surface with your haul and keep everything: loot, upgrades, progress. Drown down there and lose everything you brought in.","url":"https://store.steampowered.com/app/4269100/","label":"证据原文片段"},{"text":"潜艇会随机发生破舱、熄火等故障，船员必须修补、敲打并重启系统继续航行","dimension":"玩法","excerpt":"The sub breaks down constantly, at the worst possible moment, for the least forgivable reason. Hull breaches, a stalled engine; the list of things that can go wrong is longer than the list of things working correctly. Patch it, smack it, restart it, and keep moving. It's not much, but it's all you've got.","url":"https://store.steampowered.com/app/4269100/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1033,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8897,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":962,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6204,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1206,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1206,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.028007743800723,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":44,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":70,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":70.454545,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、多人游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/bcf2a1c8827b9a4f8f29ed63065237e3a2fe147b/ss_bcf2a1c8827b9a4f8f29ed63065237e3a2fe147b.1920x1080.jpg?t=1779725663","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/bcf2a1c8827b9a4f8f29ed63065237e3a2fe147b/ss_bcf2a1c8827b9a4f8f29ed63065237e3a2fe147b.1920x1080.jpg?t=1779725663","alt":"What'Sub 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/59b716c57183c1c8d2857bae027187b8b22fd6c5/ss_59b716c57183c1c8d2857bae027187b8b22fd6c5.1920x1080.jpg?t=1779725663","alt":"What'Sub 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/5d85404b2454af7920ef4a7f61e037dd0fcc409e/ss_5d85404b2454af7920ef4a7f61e037dd0fcc409e.1920x1080.jpg?t=1779725663","alt":"What'Sub 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/0e9bac7d47c4aa1d2ae659fb35ffcb7333d52ab6/ss_0e9bac7d47c4aa1d2ae659fb35ffcb7333d52ab6.1920x1080.jpg?t=1779725663","alt":"What'Sub 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "What'Sub",
+    "developers": [
+      "Khaos Games",
+      "Nordic Softworks",
+      "Future Punch"
+    ],
+    "publishers": [
+      "Khaos Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-05-14",
+    "tags": [
+      "抢先体验",
+      "多人游戏",
+      "程序生成",
+      "冒险",
+      "在线合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "潜得越深，沉船宝藏越多，但危险更晚显现且撤离难度同步上升",
+      "dimension": "玩法",
+      "excerpt": "Navigate caverns, wrecks, and treacherous terrain. Visibility is limited. Hazards appear late. The deeper you go, the more long-lost treasure waits and the harder it gets to leave.",
+      "url": "https://store.steampowered.com/app/4269100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "带战利品返航即可保留全部收获、升级与进度，溺亡则失去本次带入的一切",
+      "dimension": "玩法",
+      "excerpt": "Make it back to the surface with your haul and keep everything: loot, upgrades, progress. Drown down there and lose everything you brought in.",
+      "url": "https://store.steampowered.com/app/4269100/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "潜艇会随机发生破舱、熄火等故障，船员必须修补、敲打并重启系统继续航行",
+      "dimension": "玩法",
+      "excerpt": "The sub breaks down constantly, at the worst possible moment, for the least forgivable reason. Hull breaches, a stalled engine; the list of things that can go wrong is longer than the list of things working correctly. Patch it, smack it, restart it, and keep moving. It's not much, but it's all you've got.",
+      "url": "https://store.steampowered.com/app/4269100/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1289,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 8950,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 977,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 7872,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1493,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1493,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.0253329442527472,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 37,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 67,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 67.391304,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "What'Sub当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/bcf2a1c8827b9a4f8f29ed63065237e3a2fe147b/ss_bcf2a1c8827b9a4f8f29ed63065237e3a2fe147b.1920x1080.jpg?t=1779725663",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/bcf2a1c8827b9a4f8f29ed63065237e3a2fe147b/ss_bcf2a1c8827b9a4f8f29ed63065237e3a2fe147b.1920x1080.jpg?t=1779725663",
+        "alt": "What'Sub 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/59b716c57183c1c8d2857bae027187b8b22fd6c5/ss_59b716c57183c1c8d2857bae027187b8b22fd6c5.1920x1080.jpg?t=1779725663",
+        "alt": "What'Sub 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/5d85404b2454af7920ef4a7f61e037dd0fcc409e/ss_5d85404b2454af7920ef4a7f61e037dd0fcc409e.1920x1080.jpg?t=1779725663",
+        "alt": "What'Sub 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/0e9bac7d47c4aa1d2ae659fb35ffcb7333d52ab6/ss_0e9bac7d47c4aa1d2ae659fb35ffcb7333d52ab6.1920x1080.jpg?t=1779725663",
+        "alt": "What'Sub 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/079abf646d6970ff9ecfb1a37a270ed890719679/ss_079abf646d6970ff9ecfb1a37a270ed890719679.1920x1080.jpg?t=1779725663",
+        "alt": "What'Sub 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269100/399da7b822a572297465a72034ac863ec95e8d1f/ss_399da7b822a572297465a72034ac863ec95e8d1f.1920x1080.jpg?t=1779725663",
+        "alt": "What'Sub 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,314 @@
-{"identity":{"original_title":"Endless Dark","developers":["Little Light Studios, LLC"],"publishers":["Little Light Studios, LLC"],"release_status":"released","release_date":"2024-12-18","tags":["剧情丰富","轻度Rogue","氛围感","极简风格","模拟"]},"hooks":[{"text":"整艘殖民船没有敌人或NPC，只有系统故障、漫长孤独与不断腐烂的机器理智","dimension":"题材","excerpt":"No combat, enemies, or NPCs await you - only a myriad of system failures and the decay of your own sanity as you whittle away the decades in isolation.","url":"https://store.steampowered.com/app/2290890/","label":"证据原文片段"},{"text":"危机循环会同时展示三场灾难，其中两场是谎言，必须判断唯一真正威胁并提前准备","dimension":"玩法","excerpt":"Three impending crises, promising grievous and irreparable damage, will be shown to you. Use your intuition, born of your intimate awareness of your vessel, to discern which two crises are lies, and which one is the true threat!","url":"https://store.steampowered.com/app/2290890/","label":"证据原文片段"},{"text":"三十五万字事件由动态Director施压，细小胜负都会被记录并在后续轮回帮助或纠缠玩家","dimension":"故事","excerpt":"With over 350,000 words of events, spread over dozens of dilemmas, and a finely tuned Director that applies just the right amount of pressure, Endless Dark is designed to never present the same situation twice. Fight and overcome, or struggle and succumb, the next time will always be different - especially due to your own actions. Your tiniest victories and littlest defeats alike are recorded and remembered. They will remain in subsequent games, to help or haunt you.","url":"https://store.steampowered.com/app/2290890/","label":"证据原文片段"}],"opinions":[{"text":"简单画面准确服务氛围","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Graphics are fairly simple but on point.","url":"https://steamcommunity.com/id/volchonokilli/recommended/2290890/","label":"证据原文片段"}]},{"text":"新版画面表现出色","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the new graphics look great","url":"https://steamcommunity.com/id/serialnamechanger/recommended/2290890/","label":"证据原文片段"}]},{"text":"完全缺少无障碍选项","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"No accessibility options at all.","url":"https://store.steampowered.com/curator/26801495-Visually-Impaired-Players/","label":"证据原文片段"}]},{"text":"恐怖体验没有产生紧张感","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"nothing was even remotely scary or evoked any tension.","url":"https://steamcommunity.com/profiles/76561198037708205/recommended/2290890/","label":"证据原文片段"}]},{"text":"游戏体验压力极强","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"one of the most stressful games I've ever tried out.","url":"https://steamcommunity.com/profiles/76561198071927434/recommended/2290890/","label":"证据原文片段"}]},{"text":"资源管理给予玩家足够掌控感","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Resource management with just enough control to give you agency over your outcomes","url":"https://steamcommunity.com/id/circlmastr/recommended/2290890/","label":"证据原文片段"}]},{"text":"机制不复杂，能专注沉浸","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Mechanics are not complicated, and allow to focus on the immersion.","url":"https://steamcommunity.com/id/volchonokilli/recommended/2290890/","label":"证据原文片段"}]},{"text":"游戏体验紧张但很有趣","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"very stressful, but very fun.","url":"https://steamcommunity.com/id/serialnamechanger/recommended/2290890/","label":"证据原文片段"}]},{"text":"剧情未能让玩家投入","dimension":"剧情","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"I wasn't invested in what actually happened","url":"https://steamcommunity.com/profiles/76561198037708205/recommended/2290890/","label":"证据原文片段"}]},{"text":"文本写作不错且适合角色扮演","dimension":"剧情","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"A nicely written game that is suitable for role-playing.","url":"https://steamcommunity.com/id/volchonokilli/recommended/2290890/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":2754,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":11438,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1054,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":19414,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2854,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2854,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.968371226550732,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":120,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":99,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":99.166667,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["完全缺少无障碍选项","恐怖体验没有产生紧张感","游戏体验压力极强","剧情未能让玩家投入"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/ee78ce6c72992cc866e9b37aeecc602cf3ea47ed/ss_ee78ce6c72992cc866e9b37aeecc602cf3ea47ed.1920x1080.jpg?t=1777239876","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/ee78ce6c72992cc866e9b37aeecc602cf3ea47ed/ss_ee78ce6c72992cc866e9b37aeecc602cf3ea47ed.1920x1080.jpg?t=1777239876","alt":"Endless Dark 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/2c2629e506a5cfe20961591d6a637e9305168485/ss_2c2629e506a5cfe20961591d6a637e9305168485.1920x1080.jpg?t=1777239876","alt":"Endless Dark 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/815459304ccbc6995f43b05db8b00ae70d159db8/ss_815459304ccbc6995f43b05db8b00ae70d159db8.1920x1080.jpg?t=1777239876","alt":"Endless Dark 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/e90d28ab8097d7f7c20ae9b50b5c75e3818de19a/ss_e90d28ab8097d7f7c20ae9b50b5c75e3818de19a.1920x1080.jpg?t=1777239876","alt":"Endless Dark 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Endless Dark",
+    "developers": [
+      "Little Light Studios, LLC"
+    ],
+    "publishers": [
+      "Little Light Studios, LLC"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-18",
+    "tags": [
+      "恐怖",
+      "剧情丰富",
+      "轻度Rogue",
+      "氛围感",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "整艘殖民船没有敌人或NPC，只有系统故障、漫长孤独与不断腐烂的机器理智",
+      "dimension": "题材",
+      "excerpt": "No combat, enemies, or NPCs await you - only a myriad of system failures and the decay of your own sanity as you whittle away the decades in isolation.",
+      "url": "https://store.steampowered.com/app/2290890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "危机循环会同时展示三场灾难，其中两场是谎言，必须判断唯一真正威胁并提前准备",
+      "dimension": "玩法",
+      "excerpt": "Three impending crises, promising grievous and irreparable damage, will be shown to you. Use your intuition, born of your intimate awareness of your vessel, to discern which two crises are lies, and which one is the true threat!",
+      "url": "https://store.steampowered.com/app/2290890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三十五万字事件由动态Director施压，细小胜负都会被记录并在后续轮回帮助或纠缠玩家",
+      "dimension": "故事",
+      "excerpt": "With over 350,000 words of events, spread over dozens of dilemmas, and a finely tuned Director that applies just the right amount of pressure, Endless Dark is designed to never present the same situation twice. Fight and overcome, or struggle and succumb, the next time will always be different - especially due to your own actions. Your tiniest victories and littlest defeats alike are recorded and remembered. They will remain in subsequent games, to help or haunt you.",
+      "url": "https://store.steampowered.com/app/2290890/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "简单画面准确服务氛围",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Graphics are fairly simple but on point.",
+          "url": "https://steamcommunity.com/id/volchonokilli/recommended/2290890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "新版画面表现出色",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the new graphics look great",
+          "url": "https://steamcommunity.com/id/serialnamechanger/recommended/2290890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "完全缺少无障碍选项",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "No accessibility options at all.",
+          "url": "https://store.steampowered.com/curator/26801495-Visually-Impaired-Players/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "恐怖体验没有产生紧张感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "nothing was even remotely scary or evoked any tension.",
+          "url": "https://steamcommunity.com/profiles/76561198037708205/recommended/2290890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏体验压力极强",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "one of the most stressful games I've ever tried out.",
+          "url": "https://steamcommunity.com/profiles/76561198071927434/recommended/2290890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "资源管理给予玩家足够掌控感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Resource management with just enough control to give you agency over your outcomes",
+          "url": "https://steamcommunity.com/id/circlmastr/recommended/2290890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "机制不复杂，能专注沉浸",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Mechanics are not complicated, and allow to focus on the immersion.",
+          "url": "https://steamcommunity.com/id/volchonokilli/recommended/2290890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏体验紧张但很有趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "very stressful, but very fun.",
+          "url": "https://steamcommunity.com/id/serialnamechanger/recommended/2290890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "剧情未能让玩家投入",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "I wasn't invested in what actually happened",
+          "url": "https://steamcommunity.com/profiles/76561198037708205/recommended/2290890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "文本写作不错且适合角色扮演",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "A nicely written game that is suitable for role-playing.",
+          "url": "https://steamcommunity.com/id/volchonokilli/recommended/2290890/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4602,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 11506,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1058,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 32060,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4767,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4767,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.0636947407702,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 115,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 99,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 99.173554,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "完全缺少无障碍选项",
+    "恐怖体验没有产生紧张感",
+    "游戏体验压力极强",
+    "剧情未能让玩家投入"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Endless Dark位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/ee78ce6c72992cc866e9b37aeecc602cf3ea47ed/ss_ee78ce6c72992cc866e9b37aeecc602cf3ea47ed.1920x1080.jpg?t=1777239876",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/ee78ce6c72992cc866e9b37aeecc602cf3ea47ed/ss_ee78ce6c72992cc866e9b37aeecc602cf3ea47ed.1920x1080.jpg?t=1777239876",
+        "alt": "Endless Dark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/2c2629e506a5cfe20961591d6a637e9305168485/ss_2c2629e506a5cfe20961591d6a637e9305168485.1920x1080.jpg?t=1777239876",
+        "alt": "Endless Dark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/815459304ccbc6995f43b05db8b00ae70d159db8/ss_815459304ccbc6995f43b05db8b00ae70d159db8.1920x1080.jpg?t=1777239876",
+        "alt": "Endless Dark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/e90d28ab8097d7f7c20ae9b50b5c75e3818de19a/ss_e90d28ab8097d7f7c20ae9b50b5c75e3818de19a.1920x1080.jpg?t=1777239876",
+        "alt": "Endless Dark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/35ffa7e2b28c2fb0929b104e9e7cb394fe7bd0ea/ss_35ffa7e2b28c2fb0929b104e9e7cb394fe7bd0ea.1920x1080.jpg?t=1777239876",
+        "alt": "Endless Dark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/0ec6c178e87fb3f24e4e12a91cf52f63342b906b/ss_0ec6c178e87fb3f24e4e12a91cf52f63342b906b.1920x1080.jpg?t=1777239876",
+        "alt": "Endless Dark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/ff8b391e6be3e59fbec834a667d54920f8a32409/ss_ff8b391e6be3e59fbec834a667d54920f8a32409.1920x1080.jpg?t=1777239876",
+        "alt": "Endless Dark 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290890/170e5e07c96aa190f68fccf3d73de04e7ec43eec/ss_170e5e07c96aa190f68fccf3d73de04e7ec43eec.1920x1080.jpg?t=1777239876",
+        "alt": "Endless Dark 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,276 @@
-{"identity":{"original_title":"Diplomacy is Not an Option","developers":["Door 407"],"publishers":["Door 407"],"release_status":"released","release_date":"2024-10-04","tags":["资源管理","中世纪","僵尸","基地建设","高难度"]},"hooks":[{"text":"程序生成地图上超过2.5万名敌人同时冲击城堡，逼迫城建与军团协同","dimension":"玩法","excerpt":"Over 25 THOUSAND of them will storm your castle on procedurally generated maps. To survive, you must build fortifications, raise armies, master engineering, economy, and even magic (the active pause spell included).","url":"https://store.steampowered.com/app/1272320/","label":"证据原文片段"},{"text":"箭矢与投石均进行物理模拟，射线会被自家城墙挡住，必须预留视野和撤退通道","dimension":"玩法","excerpt":"Every arrow, catapult stone and enemy launched skywards is physically modeled, making for a tactile and coherent battlefield. Just make sure your troops have towers to shoot from and clear lines of sight, or you might find your best-laid plans embarrassingly blunted by your own fortifications. Consider your gates, your lines of advancement and retreat.","url":"https://store.steampowered.com/app/1272320/","label":"证据原文片段"},{"text":"农业不足会让士兵饿死，尸体不掩埋会引发瘟疫，感染者还必须及时治疗","dimension":"玩法","excerpt":"Engage in agriculture and farming, or food can become scarce, and your soldiers can starve on the battlefield. Build houses, bury fallen soldiers and peasants to prevent plague, and treat the infected when death comes knocking.","url":"https://store.steampowered.com/app/1272320/","label":"证据原文片段"}],"opinions":[{"text":"城墙强度过低，削弱建城防守玩法。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"城墙太弱导致与其造城墙不如直接造兵升本","url":"https://steamcommunity.com/profiles/76561198254108866/recommended/1272320/","label":"证据原文片段"}]},{"text":"缺少明确敌袭路线指引。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"缺少敌袭路线指引","url":"https://steamcommunity.com/id/stfhjerry/recommended/1272320/","label":"证据原文片段"}]},{"text":"关卡流程依赖背板且重复。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游戏就变得要背板，流程化，很没意思。","url":"https://steamcommunity.com/profiles/76561198310827984/recommended/1272320/","label":"证据原文片段"}]},{"text":"玩家成长速度跟不上逐波增强的敌袭。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"玩家的成长跟不上游戏内难度的提升","url":"https://steamcommunity.com/id/stfhjerry/recommended/1272320/","label":"证据原文片段"}]},{"text":"防守成功缺乏奖励，失误惩罚过重。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"防住没奖励失误有惩罚","url":"https://steamcommunity.com/id/stfhjerry/recommended/1272320/","label":"证据原文片段"}]},{"text":"策略深度足够，同时容易快速上手。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Deep enough to be strategic, simple enough to jump in fast.","url":"https://store.steampowered.com/curator/43939488-Gamer-Detective/","label":"证据原文片段"}]},{"text":"轻量RTS结合经营建设的核心体验有趣。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"游戏本身还是很有意思的，轻量RTS玩法加上一点经营建设的东西","url":"https://steamcommunity.com/id/stfhjerry/recommended/1272320/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":931873,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":800683,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":92887,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":14524138,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1031731,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1175216,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.866523720081078,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":12353,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.603365,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["城墙强度过低，削弱建城防守玩法。","缺少明确敌袭路线指引。","关卡流程依赖背板且重复。","玩家成长速度跟不上逐波增强的敌袭。","防守成功缺乏奖励，失误惩罚过重。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_130202d236ae61cd22ad32a04f95fa5f22a7b5f5.1920x1080.jpg?t=1783620563","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_130202d236ae61cd22ad32a04f95fa5f22a7b5f5.1920x1080.jpg?t=1783620563","alt":"要战便战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_8445452856adbc856f2ee9d1a4c5c36c1f04cbf9.1920x1080.jpg?t=1783620563","alt":"要战便战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_8d231931caf3a5a3c13b9912c6329834a71f5341.1920x1080.jpg?t=1783620563","alt":"要战便战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_e3e07e47b58c9cd7732e4a705e8b7d3d9d48509c.1920x1080.jpg?t=1783620563","alt":"要战便战 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Diplomacy is Not an Option",
+    "developers": [
+      "Door 407"
+    ],
+    "publishers": [
+      "Door 407"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-04",
+    "tags": [
+      "资源管理",
+      "中世纪",
+      "单人游戏",
+      "僵尸",
+      "基地建设"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "程序生成地图上超过2.5万名敌人同时冲击城堡，逼迫城建与军团协同",
+      "dimension": "玩法",
+      "excerpt": "Over 25 THOUSAND of them will storm your castle on procedurally generated maps. To survive, you must build fortifications, raise armies, master engineering, economy, and even magic (the active pause spell included).",
+      "url": "https://store.steampowered.com/app/1272320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "箭矢与投石均进行物理模拟，射线会被自家城墙挡住，必须预留视野和撤退通道",
+      "dimension": "玩法",
+      "excerpt": "Every arrow, catapult stone and enemy launched skywards is physically modeled, making for a tactile and coherent battlefield. Just make sure your troops have towers to shoot from and clear lines of sight, or you might find your best-laid plans embarrassingly blunted by your own fortifications. Consider your gates, your lines of advancement and retreat.",
+      "url": "https://store.steampowered.com/app/1272320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "农业不足会让士兵饿死，尸体不掩埋会引发瘟疫，感染者还必须及时治疗",
+      "dimension": "玩法",
+      "excerpt": "Engage in agriculture and farming, or food can become scarce, and your soldiers can starve on the battlefield. Build houses, bury fallen soldiers and peasants to prevent plague, and treat the infected when death comes knocking.",
+      "url": "https://store.steampowered.com/app/1272320/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "城墙强度过低，削弱建城防守玩法。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "城墙太弱导致与其造城墙不如直接造兵升本",
+          "url": "https://steamcommunity.com/profiles/76561198254108866/recommended/1272320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少明确敌袭路线指引。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "缺少敌袭路线指引",
+          "url": "https://steamcommunity.com/id/stfhjerry/recommended/1272320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "关卡流程依赖背板且重复。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游戏就变得要背板，流程化，很没意思。",
+          "url": "https://steamcommunity.com/profiles/76561198310827984/recommended/1272320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩家成长速度跟不上逐波增强的敌袭。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "玩家的成长跟不上游戏内难度的提升",
+          "url": "https://steamcommunity.com/id/stfhjerry/recommended/1272320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "防守成功缺乏奖励，失误惩罚过重。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "防住没奖励失误有惩罚",
+          "url": "https://steamcommunity.com/id/stfhjerry/recommended/1272320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "策略深度足够，同时容易快速上手。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Deep enough to be strategic, simple enough to jump in fast.",
+          "url": "https://store.steampowered.com/curator/43939488-Gamer-Detective/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "轻量RTS结合经营建设的核心体验有趣。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "游戏本身还是很有意思的，轻量RTS玩法加上一点经营建设的东西",
+          "url": "https://steamcommunity.com/id/stfhjerry/recommended/1272320/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 935187,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 801594,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 93120,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 14545956,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1035581,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1179602,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 15.112160268200423,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 10743,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.614682,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "城墙强度过低，削弱建城防守玩法。",
+    "缺少明确敌袭路线指引。",
+    "关卡流程依赖背板且重复。",
+    "玩家成长速度跟不上逐波增强的敌袭。",
+    "防守成功缺乏奖励，失误惩罚过重。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "要战便战位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_130202d236ae61cd22ad32a04f95fa5f22a7b5f5.1920x1080.jpg?t=1783620563",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_130202d236ae61cd22ad32a04f95fa5f22a7b5f5.1920x1080.jpg?t=1786613594",
+        "alt": "要战便战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_8445452856adbc856f2ee9d1a4c5c36c1f04cbf9.1920x1080.jpg?t=1786613594",
+        "alt": "要战便战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_8d231931caf3a5a3c13b9912c6329834a71f5341.1920x1080.jpg?t=1786613594",
+        "alt": "要战便战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_e3e07e47b58c9cd7732e4a705e8b7d3d9d48509c.1920x1080.jpg?t=1786613594",
+        "alt": "要战便战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_9870f59e1ffaaadc78ca9a9a5eb8ba6416cf11ff.1920x1080.jpg?t=1786613594",
+        "alt": "要战便战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/862e4f3a76539e7437e03ba441d9161f1a854cc4/ss_862e4f3a76539e7437e03ba441d9161f1a854cc4.1920x1080.jpg?t=1786613594",
+        "alt": "要战便战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_a265d0b7a0095de9fac831978fed37ac1d6beb9e.1920x1080.jpg?t=1786613594",
+        "alt": "要战便战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/ss_287c59516b1bdb13c8c44427b8eee522c27bace2.1920x1080.jpg?t=1786613594",
+        "alt": "要战便战 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

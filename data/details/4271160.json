@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Zero Stress King: Idle Defense","developers":["Pauloondra"],"publishers":["Pauloondra"],"release_status":"released","release_date":"2026-03-30","tags":["增量成长","休闲","策略","二维画面","像素画面"]},"hooks":[{"text":"敌军永远会掉进城墙前的熔岩河，根本无法触碰防线","dimension":"玩法","excerpt":"But they can’t reach you. There is a river of lava at the end. Every enemy falls into it. Every time.","url":"https://store.steampowered.com/app/4271160/","label":"证据原文片段"},{"text":"征服地图本身就是技能树，用版图推进承载成长选择","dimension":"玩法","excerpt":"Your conquest map is your skill tree","url":"https://store.steampowered.com/app/4271160/","label":"证据原文片段"},{"text":"没有失败、压力与重开关卡，只看数值持续上涨","dimension":"玩法","excerpt":"Zero stress gameplay. No losing. No pressure. No \"restart the level\" moments.","url":"https://store.steampowered.com/app/4271160/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":132972,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":52110,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2281,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":521721,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":134399,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":134399,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.647988814795692,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1516,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.450723,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"增量成长、休闲","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/18e58e2ad5399b224784b0152701a97450eb70a4/ss_18e58e2ad5399b224784b0152701a97450eb70a4.1920x1080.jpg?t=1784536504","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/18e58e2ad5399b224784b0152701a97450eb70a4/ss_18e58e2ad5399b224784b0152701a97450eb70a4.1920x1080.jpg?t=1784536504","alt":"Zero Stress King: Idle Defense 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/6cb85a394ee1140016bdac425dafe0e15555957a/ss_6cb85a394ee1140016bdac425dafe0e15555957a.1920x1080.jpg?t=1784536504","alt":"Zero Stress King: Idle Defense 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/80f608ea0e7eb9d3f27a4f50b1ed12a5526ef8ee/ss_80f608ea0e7eb9d3f27a4f50b1ed12a5526ef8ee.1920x1080.jpg?t=1784536504","alt":"Zero Stress King: Idle Defense 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/f543eb090cdfd68285c46c8c1c49457c4fa11272/ss_f543eb090cdfd68285c46c8c1c49457c4fa11272.1920x1080.jpg?t=1784536504","alt":"Zero Stress King: Idle Defense 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Zero Stress King: Idle Defense",
+    "developers": [
+      "Pauloondra"
+    ],
+    "publishers": [
+      "Pauloondra"
+    ],
+    "release_status": "released",
+    "release_date": "2026-03-30",
+    "tags": [
+      "增量成长",
+      "轻度Rogue",
+      "休闲",
+      "策略",
+      "二维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "敌军永远会掉进城墙前的熔岩河，根本无法触碰防线",
+      "dimension": "玩法",
+      "excerpt": "But they can’t reach you. There is a river of lava at the end. Every enemy falls into it. Every time.",
+      "url": "https://store.steampowered.com/app/4271160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "征服地图本身就是技能树，用版图推进承载成长选择",
+      "dimension": "玩法",
+      "excerpt": "Your conquest map is your skill tree",
+      "url": "https://store.steampowered.com/app/4271160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "没有失败、压力与重开关卡，只看数值持续上涨",
+      "dimension": "玩法",
+      "excerpt": "Zero stress gameplay. No losing. No pressure. No \"restart the level\" moments.",
+      "url": "https://store.steampowered.com/app/4271160/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 145664,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 54976,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2398,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 568630,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 147204,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 147204,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.698468239019714,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1581,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.330037,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Zero Stress King: Idle Defense位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/18e58e2ad5399b224784b0152701a97450eb70a4/ss_18e58e2ad5399b224784b0152701a97450eb70a4.1920x1080.jpg?t=1784536504",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/18e58e2ad5399b224784b0152701a97450eb70a4/ss_18e58e2ad5399b224784b0152701a97450eb70a4.1920x1080.jpg?t=1786533791",
+        "alt": "Zero Stress King: Idle Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/6cb85a394ee1140016bdac425dafe0e15555957a/ss_6cb85a394ee1140016bdac425dafe0e15555957a.1920x1080.jpg?t=1786533791",
+        "alt": "Zero Stress King: Idle Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/80f608ea0e7eb9d3f27a4f50b1ed12a5526ef8ee/ss_80f608ea0e7eb9d3f27a4f50b1ed12a5526ef8ee.1920x1080.jpg?t=1786533791",
+        "alt": "Zero Stress King: Idle Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/f543eb090cdfd68285c46c8c1c49457c4fa11272/ss_f543eb090cdfd68285c46c8c1c49457c4fa11272.1920x1080.jpg?t=1786533791",
+        "alt": "Zero Stress King: Idle Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/b9c27ec6beb54014fa10654d056b2e208fe9dd79/ss_b9c27ec6beb54014fa10654d056b2e208fe9dd79.1920x1080.jpg?t=1786533791",
+        "alt": "Zero Stress King: Idle Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/5b82c3b15e47d02f9246b0c14cd4936752c82e40/ss_5b82c3b15e47d02f9246b0c14cd4936752c82e40.1920x1080.jpg?t=1786533791",
+        "alt": "Zero Stress King: Idle Defense 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/fed0ba78f32efb53b00c0b73fef53eb69c1dde2f/ss_fed0ba78f32efb53b00c0b73fef53eb69c1dde2f.1920x1080.jpg?t=1786533791",
+        "alt": "Zero Stress King: Idle Defense 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

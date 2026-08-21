@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Shadow Corridor 2 雨ノ四葩","developers":["Space Onigiri Game LLC"],"publishers":["Space Onigiri Game LLC"],"release_status":"released","release_date":"2024-03-29","tags":["恐怖","程序生成","潜行","类Rogue","卡组构筑"]},"hooks":[{"text":"随机暗廊每局重组且没有唯一解法","dimension":"玩法","excerpt":"The massive corridors change with each play. There's no one right way to progress. Make your way to the goal while carefully dealing with ever-changing circumstances!","url":"https://store.steampowered.com/app/2310700/","label":"证据原文片段"},{"text":"歌牌特效自由组合塑造潜行生存流派","dimension":"玩法","excerpt":"Collect Karuta cards that produce all kinds of special effects! Find your own favorite combination and create your very own playstyle!","url":"https://store.steampowered.com/app/2310700/","label":"证据原文片段"},{"text":"无需前作知识即可进入时雨的死亡故事","dimension":"故事","excerpt":"Discover the story of the girl Shigure in this title. She thought to end her own life and embrace the sweet release of death. However... You can enjoy the new story without any knowledge of the previous title.","url":"https://store.steampowered.com/app/2310700/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":26639,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":30503,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2984,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":397253,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":28462,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":28462,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":35.506405710934544,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":929,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.051668,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"恐怖、程序生成","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_d89bdb51c517f0d0b232f06f529e1d41b7a725b4.1920x1080.jpg?t=1755246293","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_d89bdb51c517f0d0b232f06f529e1d41b7a725b4.1920x1080.jpg?t=1755246293","alt":"Shadow Corridor 2 雨ノ四葩 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_0a9608737cac6ba136fc6e169a4f237962ca662c.1920x1080.jpg?t=1755246293","alt":"Shadow Corridor 2 雨ノ四葩 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_eff4c0c50128a1597757341453cf7c885abb5057.1920x1080.jpg?t=1755246293","alt":"Shadow Corridor 2 雨ノ四葩 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_a8677eb705bebd263a309f18888fe4e3ab634d0b.1920x1080.jpg?t=1755246293","alt":"Shadow Corridor 2 雨ノ四葩 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Shadow Corridor 2 雨ノ四葩",
+    "developers": [
+      "Space Onigiri Game LLC"
+    ],
+    "publishers": [
+      "Space Onigiri Game LLC"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-29",
+    "tags": [
+      "恐怖",
+      "程序生成",
+      "潜行",
+      "类Rogue",
+      "恐怖"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "随机暗廊每局重组且没有唯一解法",
+      "dimension": "玩法",
+      "excerpt": "The massive corridors change with each play. There's no one right way to progress. Make your way to the goal while carefully dealing with ever-changing circumstances!",
+      "url": "https://store.steampowered.com/app/2310700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "歌牌特效自由组合塑造潜行生存流派",
+      "dimension": "玩法",
+      "excerpt": "Collect Karuta cards that produce all kinds of special effects! Find your own favorite combination and create your very own playstyle!",
+      "url": "https://store.steampowered.com/app/2310700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "无需前作知识即可进入时雨的死亡故事",
+      "dimension": "故事",
+      "excerpt": "Discover the story of the girl Shigure in this title. She thought to end her own life and embrace the sweet release of death. However... You can enjoy the new story without any knowledge of the previous title.",
+      "url": "https://store.steampowered.com/app/2310700/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 28527,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 30683,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2988,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 431299,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 30468,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 30468,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 35.3918216246708,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 849,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.901499,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Shadow Corridor 2 雨ノ四葩位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_d89bdb51c517f0d0b232f06f529e1d41b7a725b4.1920x1080.jpg?t=1755246293",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_d89bdb51c517f0d0b232f06f529e1d41b7a725b4.1920x1080.jpg?t=1755246293",
+        "alt": "Shadow Corridor 2 雨ノ四葩 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_0a9608737cac6ba136fc6e169a4f237962ca662c.1920x1080.jpg?t=1755246293",
+        "alt": "Shadow Corridor 2 雨ノ四葩 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_eff4c0c50128a1597757341453cf7c885abb5057.1920x1080.jpg?t=1755246293",
+        "alt": "Shadow Corridor 2 雨ノ四葩 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_a8677eb705bebd263a309f18888fe4e3ab634d0b.1920x1080.jpg?t=1755246293",
+        "alt": "Shadow Corridor 2 雨ノ四葩 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_60d0365447a5af9bfe909f28506a139dd8854fa8.1920x1080.jpg?t=1755246293",
+        "alt": "Shadow Corridor 2 雨ノ四葩 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/ss_8440b18624e9dbd8975c45d5fb72e4e2e430cccc.1920x1080.jpg?t=1755246293",
+        "alt": "Shadow Corridor 2 雨ノ四葩 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

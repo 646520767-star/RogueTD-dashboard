@@ -1,1 +1,179 @@
-{"identity":{"original_title":"SCAD","developers":["NAISU"],"publishers":["NAISU","Gamersky Games"],"release_status":"early_access","release_date":"2026-05-28","tags":["抢先体验","清版射击","动作肉鸽","俯视角射击","射击"]},"hooks":[{"text":"围绕悬浮载具制作武器、购买新车、招募乘员并叠加永久强化与升级卡。","dimension":"玩法","excerpt":"Craft weapons for your hovercraft Buy new hovercrafts Buy permanent upgrades Hire crew members to operate Fine-tune your hovercraft during expeditions Select random power cards each time you level up","url":"https://store.steampowered.com/app/2854620/","label":"证据原文片段"},{"text":"在数百个半程序生成的小关卡中完成不同目标并迎战尸潮与首领。","dimension":"玩法","excerpt":"During your expeditions, you can expect to run into various zombie-like creatures, including many boss fights in hundreds of semi-procedurally generated mini-levels which you have to complete different objectives to proceed.","url":"https://store.steampowered.com/app/2854620/","label":"证据原文片段"},{"text":"恶意企业实验引发末日，文明残余退守加固的废料场聚落。","dimension":"故事","excerpt":"Following a catastrophic event caused by a malicious corporation's experiments, the remnants of civilization survive in fortified junkyard enclaves.","url":"https://store.steampowered.com/app/2854620/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1398,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":17793,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":809,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":8132,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.153415718200229,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":58,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.758621,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、清版射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/d312e445404f1f91efd0e3a0f7144d160797ec7c/ss_d312e445404f1f91efd0e3a0f7144d160797ec7c.1920x1080.jpg?t=1784387281","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/d312e445404f1f91efd0e3a0f7144d160797ec7c/ss_d312e445404f1f91efd0e3a0f7144d160797ec7c.1920x1080.jpg?t=1784387281","alt":"SCAD 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/60a70f086d4d299bbc7888f6ad05b43ca2dbdcee/ss_60a70f086d4d299bbc7888f6ad05b43ca2dbdcee.1920x1080.jpg?t=1784387281","alt":"SCAD 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/ea51d3bf59599b94e77d4470f4e3c4a9ab3f889f/ss_ea51d3bf59599b94e77d4470f4e3c4a9ab3f889f.1920x1080.jpg?t=1784387281","alt":"SCAD 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/bde058fe7c2aabc456520130d31c4050c5b72228/ss_bde058fe7c2aabc456520130d31c4050c5b72228.1920x1080.jpg?t=1784387281","alt":"SCAD 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "SCAD",
+    "developers": [
+      "NAISU"
+    ],
+    "publishers": [
+      "NAISU",
+      "Gamersky Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-05-28",
+    "tags": [
+      "抢先体验",
+      "清版射击",
+      "动作肉鸽",
+      "动作肉鸽",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "围绕悬浮载具制作武器、购买新车、招募乘员并叠加永久强化与升级卡。",
+      "dimension": "玩法",
+      "excerpt": "Craft weapons for your hovercraft Buy new hovercrafts Buy permanent upgrades Hire crew members to operate Fine-tune your hovercraft during expeditions Select random power cards each time you level up",
+      "url": "https://store.steampowered.com/app/2854620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在数百个半程序生成的小关卡中完成不同目标并迎战尸潮与首领。",
+      "dimension": "玩法",
+      "excerpt": "During your expeditions, you can expect to run into various zombie-like creatures, including many boss fights in hundreds of semi-procedurally generated mini-levels which you have to complete different objectives to proceed.",
+      "url": "https://store.steampowered.com/app/2854620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "恶意企业实验引发末日，文明残余退守加固的废料场聚落。",
+      "dimension": "故事",
+      "excerpt": "Following a catastrophic event caused by a malicious corporation's experiments, the remnants of civilization survive in fortified junkyard enclaves.",
+      "url": "https://store.steampowered.com/app/2854620/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1566,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 824,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 9315,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2022,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2022,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.2256745011662176,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 40,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.355932,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "SCAD位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/d312e445404f1f91efd0e3a0f7144d160797ec7c/ss_d312e445404f1f91efd0e3a0f7144d160797ec7c.1920x1080.jpg?t=1784387281",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/d312e445404f1f91efd0e3a0f7144d160797ec7c/ss_d312e445404f1f91efd0e3a0f7144d160797ec7c.1920x1080.jpg?t=1784387281",
+        "alt": "SCAD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/60a70f086d4d299bbc7888f6ad05b43ca2dbdcee/ss_60a70f086d4d299bbc7888f6ad05b43ca2dbdcee.1920x1080.jpg?t=1784387281",
+        "alt": "SCAD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/ea51d3bf59599b94e77d4470f4e3c4a9ab3f889f/ss_ea51d3bf59599b94e77d4470f4e3c4a9ab3f889f.1920x1080.jpg?t=1784387281",
+        "alt": "SCAD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/bde058fe7c2aabc456520130d31c4050c5b72228/ss_bde058fe7c2aabc456520130d31c4050c5b72228.1920x1080.jpg?t=1784387281",
+        "alt": "SCAD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/152b770ccd3191edaf87f620d4c735d441710006/ss_152b770ccd3191edaf87f620d4c735d441710006.1920x1080.jpg?t=1784387281",
+        "alt": "SCAD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/36ccbcb2345f8dbaada29fe01172493f1cf4f173/ss_36ccbcb2345f8dbaada29fe01172493f1cf4f173.1920x1080.jpg?t=1784387281",
+        "alt": "SCAD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/2025b8a9e3c95a6a8fc73a13f341a1bd92ca13a3/ss_2025b8a9e3c95a6a8fc73a13f341a1bd92ca13a3.1920x1080.jpg?t=1784387281",
+        "alt": "SCAD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2854620/56cf21e3bf31a03b5e855479e455cc7048f71a43/ss_56cf21e3bf31a03b5e855479e455cc7048f71a43.1920x1080.jpg?t=1784387281",
+        "alt": "SCAD 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

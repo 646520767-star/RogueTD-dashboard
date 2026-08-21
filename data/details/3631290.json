@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Slots & Daggers","developers":["Friedemann"],"publishers":["Future Friends Games"],"release_status":"released","release_date":"2025-10-24","tags":["策略","休闲","类Rogue","黑暗奇幻","轻度Rogue"]},"hooks":[{"text":"把老虎机旋转与幻想RPG、经典Roguelike战斗压缩进一款复古小游戏","dimension":"玩法","excerpt":"The result is SLOTS & DAGGERS, a strange little blend of slot machine and fantasy RPG.","url":"https://store.steampowered.com/app/3631290/","label":"证据原文片段"},{"text":"主线设计为四至八小时的短篇战役，强调小型、集中与快速反馈","dimension":"玩法","excerpt":"4-8 hour campaign","url":"https://store.steampowered.com/app/3631290/","label":"证据原文片段"},{"text":"Egg Arena提供面向高分挑战者的独立模式，并以复古视觉和脆响嘻哈鼓机塑造氛围","dimension":"画风","excerpt":"Crude drawings of strange little guys Retro visuals Crunchy hip hop drum machines ‘Egg arena’ high score mode for the truly determined","url":"https://store.steampowered.com/app/3631290/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":288092,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":261821,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11824,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1688089,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":292652,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":292652,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.9231763697776563,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":7323,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.232343,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、休闲","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e2a3734711219afb2cfd1da514d96cd2e6ee872b/ss_e2a3734711219afb2cfd1da514d96cd2e6ee872b.1920x1080.jpg?t=1780064257","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e2a3734711219afb2cfd1da514d96cd2e6ee872b/ss_e2a3734711219afb2cfd1da514d96cd2e6ee872b.1920x1080.jpg?t=1780064257","alt":"Slots & Daggers 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/0e7c3a493791162188306c23ceee3792434f6fc0/ss_0e7c3a493791162188306c23ceee3792434f6fc0.1920x1080.jpg?t=1780064257","alt":"Slots & Daggers 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/36459dd67faae971ff811e06233b0b34f5b41649/ss_36459dd67faae971ff811e06233b0b34f5b41649.1920x1080.jpg?t=1780064257","alt":"Slots & Daggers 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/2d51abe6d342f2bff86b2889398ed52416da26e6/ss_2d51abe6d342f2bff86b2889398ed52416da26e6.1920x1080.jpg?t=1780064257","alt":"Slots & Daggers 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Slots & Daggers",
+    "developers": [
+      "Friedemann"
+    ],
+    "publishers": [
+      "Future Friends Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-10-24",
+    "tags": [
+      "策略",
+      "休闲",
+      "类Rogue",
+      "黑暗奇幻",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把老虎机旋转与幻想RPG、经典Roguelike战斗压缩进一款复古小游戏",
+      "dimension": "玩法",
+      "excerpt": "The result is SLOTS & DAGGERS, a strange little blend of slot machine and fantasy RPG.",
+      "url": "https://store.steampowered.com/app/3631290/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "主线设计为四至八小时的短篇战役，强调小型、集中与快速反馈",
+      "dimension": "玩法",
+      "excerpt": "4-8 hour campaign",
+      "url": "https://store.steampowered.com/app/3631290/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Egg Arena提供面向高分挑战者的独立模式，并以复古视觉和脆响嘻哈鼓机塑造氛围",
+      "dimension": "画风",
+      "excerpt": "Crude drawings of strange little guys Retro visuals Crunchy hip hop drum machines ‘Egg arena’ high score mode for the truly determined",
+      "url": "https://store.steampowered.com/app/3631290/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 294534,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 263373,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11879,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1723308,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 299199,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 299199,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.906500542018483,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 7286,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.180746,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Slots & Daggers位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e2a3734711219afb2cfd1da514d96cd2e6ee872b/ss_e2a3734711219afb2cfd1da514d96cd2e6ee872b.1920x1080.jpg?t=1780064257",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e2a3734711219afb2cfd1da514d96cd2e6ee872b/ss_e2a3734711219afb2cfd1da514d96cd2e6ee872b.1920x1080.jpg?t=1780064257",
+        "alt": "Slots & Daggers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/0e7c3a493791162188306c23ceee3792434f6fc0/ss_0e7c3a493791162188306c23ceee3792434f6fc0.1920x1080.jpg?t=1780064257",
+        "alt": "Slots & Daggers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/36459dd67faae971ff811e06233b0b34f5b41649/ss_36459dd67faae971ff811e06233b0b34f5b41649.1920x1080.jpg?t=1780064257",
+        "alt": "Slots & Daggers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/2d51abe6d342f2bff86b2889398ed52416da26e6/ss_2d51abe6d342f2bff86b2889398ed52416da26e6.1920x1080.jpg?t=1780064257",
+        "alt": "Slots & Daggers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/8d0caaaba111c29a914bdd173f6be5f605e0c5ea/ss_8d0caaaba111c29a914bdd173f6be5f605e0c5ea.1920x1080.jpg?t=1780064257",
+        "alt": "Slots & Daggers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/4e0621ca2ccefebf45bae8ec0c78919f60981e88/ss_4e0621ca2ccefebf45bae8ec0c78919f60981e88.1920x1080.jpg?t=1780064257",
+        "alt": "Slots & Daggers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/a3f0b02f4078775e5b9fb6dd2915db1b76278fdc/ss_a3f0b02f4078775e5b9fb6dd2915db1b76278fdc.1920x1080.jpg?t=1780064257",
+        "alt": "Slots & Daggers 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

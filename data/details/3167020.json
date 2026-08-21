@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Escape From Duckov","developers":["Team Soda"],"publishers":["bilibili"],"release_status":"released","release_date":"2025-10-16","tags":["冒险","动作","俯视角射击","射击","探索"]},"hooks":[{"text":"五张大型地图的战利品、敌人和天气都会变化，每次突袭必须及时撤离，否则可能失去全部收获。","dimension":"玩法","excerpt":"Vast Maps, Random Adventures Across five unique maps, ever-changing loot, elusive enemies, and shifting weather ensure no two expeditions are the same. Every raid is a surprise, offering a unique experience each time. But don't forget to extract in time, or you might lose everything...","url":"https://store.steampowered.com/app/3167020/","label":"证据原文片段"},{"text":"搜出的药品、装备和收藏品可带回出售，收益用于升级基地；不起眼的废料还能在工作台加工成有价值物品。","dimension":"玩法","excerpt":"Scavenge and Thrive Scour the maps for valuables—meds, gear, rare collectibles. You never know what you'll uncover! Bring them back, sell for profit, and use your earnings to upgrade your Base and grow stronger. Think it's all junk at first glance? With the right touch at your workbench, scrap can become treasure.","url":"https://store.steampowered.com/app/3167020/","label":"证据原文片段"},{"text":"超过50种武器覆盖枪械与木棍，可选择近战、远程、正面交锋或伏击，并用扩展模组系统打造专属武器。","dimension":"玩法","excerpt":"Mod Your Weapons, Fight Your Way Choose from over 50 weapons, ranging from top-tier firearms to a common wooden stick. Go loud in close combat, pick off enemies from a distance, challenge them head-on, or set up an ambush. And with an extensive mod system, you can build your ultimate weapon.","url":"https://store.steampowered.com/app/3167020/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4492574,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1410772,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":128227,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":52226072,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5214206,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5214206,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":23.957151436670785,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":103520,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.468889,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"冒险、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_f89c284a734b7307df490813df82d4f85a981299.1920x1080.jpg?t=1783321966","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_f89c284a734b7307df490813df82d4f85a981299.1920x1080.jpg?t=1783321966","alt":"逃离鸭科夫 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_ffb859764420f62c612287f011361749a06b6432.1920x1080.jpg?t=1783321966","alt":"逃离鸭科夫 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_b822619832ab8d2337b7e31a77c4311a5d168a97.1920x1080.jpg?t=1783321966","alt":"逃离鸭科夫 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_0f96530f53f858cbaf4de595cb1a95ec6d016b26.1920x1080.jpg?t=1783321966","alt":"逃离鸭科夫 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Escape From Duckov",
+    "developers": [
+      "Team Soda"
+    ],
+    "publishers": [
+      "bilibili"
+    ],
+    "release_status": "released",
+    "release_date": "2025-10-16",
+    "tags": [
+      "冒险",
+      "动作",
+      "轻度Rogue",
+      "俯视角射击",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "五张大型地图的战利品、敌人和天气都会变化，每次突袭必须及时撤离，否则可能失去全部收获。",
+      "dimension": "玩法",
+      "excerpt": "Vast Maps, Random Adventures Across five unique maps, ever-changing loot, elusive enemies, and shifting weather ensure no two expeditions are the same. Every raid is a surprise, offering a unique experience each time. But don't forget to extract in time, or you might lose everything...",
+      "url": "https://store.steampowered.com/app/3167020/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "搜出的药品、装备和收藏品可带回出售，收益用于升级基地；不起眼的废料还能在工作台加工成有价值物品。",
+      "dimension": "玩法",
+      "excerpt": "Scavenge and Thrive Scour the maps for valuables—meds, gear, rare collectibles. You never know what you'll uncover! Bring them back, sell for profit, and use your earnings to upgrade your Base and grow stronger. Think it's all junk at first glance? With the right touch at your workbench, scrap can become treasure.",
+      "url": "https://store.steampowered.com/app/3167020/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "超过50种武器覆盖枪械与木棍，可选择近战、远程、正面交锋或伏击，并用扩展模组系统打造专属武器。",
+      "dimension": "玩法",
+      "excerpt": "Mod Your Weapons, Fight Your Way Choose from over 50 weapons, ranging from top-tier firearms to a common wooden stick. Go loud in close combat, pick off enemies from a distance, challenge them head-on, or set up an ambush. And with an extensive mod system, you can build your ultimate weapon.",
+      "url": "https://store.steampowered.com/app/3167020/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4499138,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1407628,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 128691,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 52294024,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5220529,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5220529,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 24.377867600309074,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 83384,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.497161,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "逃离鸭科夫位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_f89c284a734b7307df490813df82d4f85a981299.1920x1080.jpg?t=1783321966",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_f89c284a734b7307df490813df82d4f85a981299.1920x1080.jpg?t=1783321966",
+        "alt": "逃离鸭科夫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_ffb859764420f62c612287f011361749a06b6432.1920x1080.jpg?t=1783321966",
+        "alt": "逃离鸭科夫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_b822619832ab8d2337b7e31a77c4311a5d168a97.1920x1080.jpg?t=1783321966",
+        "alt": "逃离鸭科夫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_0f96530f53f858cbaf4de595cb1a95ec6d016b26.1920x1080.jpg?t=1783321966",
+        "alt": "逃离鸭科夫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_67e534105478e4fe28ef84043f4a5db5ebb8bda5.1920x1080.jpg?t=1783321966",
+        "alt": "逃离鸭科夫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_da9e3ec33fdae7d02e4a2482321cf5376aafd6ee.1920x1080.jpg?t=1783321966",
+        "alt": "逃离鸭科夫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_915c641c0efd97c7bbf0fef8fda2e67d7302a4c7.1920x1080.jpg?t=1783321966",
+        "alt": "逃离鸭科夫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_1fb04be631e3a74388048ccc9edd3fc647b65fe3.1920x1080.jpg?t=1783321966",
+        "alt": "逃离鸭科夫 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

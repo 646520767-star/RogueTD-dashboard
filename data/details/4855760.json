@@ -1,1 +1,181 @@
-{"identity":{"original_title":"Tung Tung Tung Survival","developers":["Zenok Studios","Chud Circle Games"],"publishers":["Chud Circle Games"],"release_status":"released","release_date":"2026-07-16","tags":["动作","探索","动作肉鸽","恐怖","第一人称"]},"hooks":[{"text":"猎手会追踪断枝、踢石与呼吸等每一种声响","dimension":"玩法","excerpt":"Little Sahur Island is his domain, and every sound you make, every snapped branch, every kicked stone, every panicked breath, is an invitation.","url":"https://store.steampowered.com/app/4855760/","label":"证据原文片段"},{"text":"搜遍全岛收集船只零件并修船逃生","dimension":"玩法","excerpt":"Scavenge to survive. Hunt down scattered boat parts across the entire island. Every component brings you one step closer to freedom, if you can reach it.","url":"https://store.steampowered.com/app/4855760/","label":"证据原文片段"},{"text":"一平方公里开放孤岛包含密集生态、隐藏建筑与秘密","dimension":"题材","excerpt":"Explore a fully realized 1km × 1km open environment with dense biomes, hidden structures, and secrets that reward the brave and punish the reckless.","url":"https://store.steampowered.com/app/4855760/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5786,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":12710,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":606,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6196,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0.7687727224646291,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":302,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":68,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":67.575758,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为67.575758%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/aaa6d8a04fe57dd017709f153260a504638d71ca/ss_aaa6d8a04fe57dd017709f153260a504638d71ca.1920x1080.jpg?t=1784215854","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/aaa6d8a04fe57dd017709f153260a504638d71ca/ss_aaa6d8a04fe57dd017709f153260a504638d71ca.1920x1080.jpg?t=1784215854","alt":"Tung Tung Tung Survival 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/c63cfcc10d777bedf17787e8053d5e4fb60ca593/ss_c63cfcc10d777bedf17787e8053d5e4fb60ca593.1920x1080.jpg?t=1784215854","alt":"Tung Tung Tung Survival 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/5ff7d936fceec616ddacf276b267c0544915e308/ss_5ff7d936fceec616ddacf276b267c0544915e308.1920x1080.jpg?t=1784215854","alt":"Tung Tung Tung Survival 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/6b3d36dc41d74949411f8cd0a0c37c702ba10f24/ss_6b3d36dc41d74949411f8cd0a0c37c702ba10f24.1920x1080.jpg?t=1784215854","alt":"Tung Tung Tung Survival 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Tung Tung Tung Survival",
+    "developers": [
+      "Zenok Studios",
+      "Chud Circle Games"
+    ],
+    "publishers": [
+      "Chud Circle Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-16",
+    "tags": [
+      "动作",
+      "塔防",
+      "动作",
+      "刷宝",
+      "恐怖"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "猎手会追踪断枝、踢石与呼吸等每一种声响",
+      "dimension": "玩法",
+      "excerpt": "Little Sahur Island is his domain, and every sound you make, every snapped branch, every kicked stone, every panicked breath, is an invitation.",
+      "url": "https://store.steampowered.com/app/4855760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "搜遍全岛收集船只零件并修船逃生",
+      "dimension": "玩法",
+      "excerpt": "Scavenge to survive. Hunt down scattered boat parts across the entire island. Every component brings you one step closer to freedom, if you can reach it.",
+      "url": "https://store.steampowered.com/app/4855760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "一平方公里开放孤岛包含密集生态、隐藏建筑与秘密",
+      "dimension": "题材",
+      "excerpt": "Explore a fully realized 1km × 1km open environment with dense biomes, hidden structures, and secrets that reward the brave and punish the reckless.",
+      "url": "https://store.steampowered.com/app/4855760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7154,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 15342,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 655,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 8328,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8585,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8585,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.0780521738982127,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 320,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 65,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 65.566038,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为67.575758%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Tung Tung Tung Survival位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/aaa6d8a04fe57dd017709f153260a504638d71ca/ss_aaa6d8a04fe57dd017709f153260a504638d71ca.1920x1080.jpg?t=1784215854",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/aaa6d8a04fe57dd017709f153260a504638d71ca/ss_aaa6d8a04fe57dd017709f153260a504638d71ca.1920x1080.jpg?t=1784215854",
+        "alt": "Tung Tung Tung Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/c63cfcc10d777bedf17787e8053d5e4fb60ca593/ss_c63cfcc10d777bedf17787e8053d5e4fb60ca593.1920x1080.jpg?t=1784215854",
+        "alt": "Tung Tung Tung Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/5ff7d936fceec616ddacf276b267c0544915e308/ss_5ff7d936fceec616ddacf276b267c0544915e308.1920x1080.jpg?t=1784215854",
+        "alt": "Tung Tung Tung Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/6b3d36dc41d74949411f8cd0a0c37c702ba10f24/ss_6b3d36dc41d74949411f8cd0a0c37c702ba10f24.1920x1080.jpg?t=1784215854",
+        "alt": "Tung Tung Tung Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/20de51235663bbbd199a96d16e4ee77246025384/ss_20de51235663bbbd199a96d16e4ee77246025384.1920x1080.jpg?t=1784215854",
+        "alt": "Tung Tung Tung Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/3e60cf5fdeeb3c914da6ad7533850c88defc6c99/ss_3e60cf5fdeeb3c914da6ad7533850c88defc6c99.1920x1080.jpg?t=1784215854",
+        "alt": "Tung Tung Tung Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/e0ed93d34f102606c103f28ab0d8550cf23864d6/ss_e0ed93d34f102606c103f28ab0d8550cf23864d6.1920x1080.jpg?t=1784215854",
+        "alt": "Tung Tung Tung Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855760/6ba48818814014d4895449e0f8e8a0ff0097aeba/ss_6ba48818814014d4895449e0f8e8a0ff0097aeba.1920x1080.jpg?t=1784215854",
+        "alt": "Tung Tung Tung Survival 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

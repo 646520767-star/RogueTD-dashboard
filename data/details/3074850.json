@@ -1,1 +1,317 @@
-{"identity":{"original_title":"Utawarerumono: ZAN 2","developers":["AQUAPLUS"],"publishers":["DMM GAMES","Shiravune"],"release_status":"released","release_date":"2026-04-01","tags":["角色扮演","砍杀","动作肉鸽","日式角色扮演","动作角色扮演"]},"hooks":[{"text":"二十余角色混编挑战五十余剧情任务","dimension":"玩法","excerpt":"Mix and match flashy combat techniques, gameplay-altering equippables, and evolvable abilities. Create an unstoppable team from the 20+ playable characters to blast through 50+ story missions and more in this action-packed adventure.","url":"https://store.steampowered.com/app/3074850/","label":"证据原文片段"},{"text":"新增全语音场景扩写角色与世界","dimension":"故事","excerpt":"The primary story mode follows the plot of Utawarerumono: Mask of Truth , including many new, fully-voiced scenes original to Utawarerumono: ZAN 2 that expand the breadth of the world and the depth of the characters!","url":"https://store.steampowered.com/app/3074850/","label":"证据原文片段"},{"text":"据点内互动推进剧情并强化角色功能","dimension":"玩法","excerpt":"Meanwhile, the new base system allows you to explore Oshtor's estate in Ennakamuy, where you can interact with your companions, progress the story, strengthen your characters, and more. You can even upgrade the base's functionality using points obtained in the course of gameplay!","url":"https://store.steampowered.com/app/3074850/","label":"证据原文片段"}],"opinions":[{"text":"过场动画相比前作明显更好","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"much better cutscenes","url":"https://steamcommunity.com/id/minneyar/recommended/3074850/","label":"证据原文片段"}]},{"text":"碰瓷技能打断输出节奏","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"这个游戏的碰瓷技能纯属影响输出节奏","url":"https://steamcommunity.com/profiles/76561198883387495/recommended/3074850/","label":"证据原文片段"}]},{"text":"敌人消失Bug会阻止通关","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"敌人会突然消失 导致我无法通关","url":"https://steamcommunity.com/profiles/76561199439853719/recommended/3074850/","label":"证据原文片段"}]},{"text":"技能与增益系统臃肿","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Skill/buff mechanics do feel a bit bloated","url":"https://steamcommunity.com/profiles/76561198252500190/recommended/3074850/","label":"证据原文片段"}]},{"text":"锁定系统手感很差","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"锁定系统不行 很难受","url":"https://steamcommunity.com/profiles/76561199439853719/recommended/3074850/","label":"证据原文片段"}]},{"text":"技能与增益升级过慢","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Skill/buff mechanics do feel a bit bloated and slow to upgrade","url":"https://steamcommunity.com/profiles/76561198252500190/recommended/3074850/","label":"证据原文片段"}]},{"text":"操作相比前作更流畅","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the controls are feel more fluid then the first game","url":"https://steamcommunity.com/profiles/76561198252500190/recommended/3074850/","label":"证据原文片段"}]},{"text":"玩法相比前作复杂度明显提升","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"more complex gameplay","url":"https://steamcommunity.com/id/minneyar/recommended/3074850/","label":"证据原文片段"}]},{"text":"战斗玩法本身很有趣","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the gameplay itself is pretty fun","url":"https://steamcommunity.com/id/baddestofmen/recommended/3074850/","label":"证据原文片段"}]},{"text":"单位自定义令人喜欢","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I like how much you can customise units.","url":"https://steamcommunity.com/profiles/76561198009922047/recommended/3074850/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":3217,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":52110,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3008,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":101476,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3870,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3870,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.750754089986362,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":112,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.610619,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["碰瓷技能打断输出节奏","技术/性能：敌人消失Bug会阻止通关","技能与增益系统臃肿","锁定系统手感很差","技能与增益升级过慢","新增剧情内容太少"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/0f4ea58a3998b574ef5e02439a2af05d62278698/ss_0f4ea58a3998b574ef5e02439a2af05d62278698.1920x1080.jpg?t=1782997753","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/0f4ea58a3998b574ef5e02439a2af05d62278698/ss_0f4ea58a3998b574ef5e02439a2af05d62278698.1920x1080.jpg?t=1782997753","alt":"Utawarerumono: ZAN 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/f828834993cb32717ebe2f542cb9a7ec5f5e6586/ss_f828834993cb32717ebe2f542cb9a7ec5f5e6586.1920x1080.jpg?t=1782997753","alt":"Utawarerumono: ZAN 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/cb246da9edeb0c12c1220a165478c6e8824cbdc3/ss_cb246da9edeb0c12c1220a165478c6e8824cbdc3.1920x1080.jpg?t=1782997753","alt":"Utawarerumono: ZAN 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/40872a12d200d5efa0119f91ce1ee2019d5a7290/ss_40872a12d200d5efa0119f91ce1ee2019d5a7290.1920x1080.jpg?t=1782997753","alt":"Utawarerumono: ZAN 2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Utawarerumono: ZAN 2",
+    "developers": [
+      "AQUAPLUS"
+    ],
+    "publishers": [
+      "DMM GAMES",
+      "Shiravune"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-01",
+    "tags": [
+      "角色扮演",
+      "砍杀",
+      "砍杀",
+      "动作肉鸽",
+      "日式角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "二十余角色混编挑战五十余剧情任务",
+      "dimension": "玩法",
+      "excerpt": "Mix and match flashy combat techniques, gameplay-altering equippables, and evolvable abilities. Create an unstoppable team from the 20+ playable characters to blast through 50+ story missions and more in this action-packed adventure.",
+      "url": "https://store.steampowered.com/app/3074850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "新增全语音场景扩写角色与世界",
+      "dimension": "故事",
+      "excerpt": "The primary story mode follows the plot of Utawarerumono: Mask of Truth , including many new, fully-voiced scenes original to Utawarerumono: ZAN 2 that expand the breadth of the world and the depth of the characters!",
+      "url": "https://store.steampowered.com/app/3074850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "据点内互动推进剧情并强化角色功能",
+      "dimension": "玩法",
+      "excerpt": "Meanwhile, the new base system allows you to explore Oshtor's estate in Ennakamuy, where you can interact with your companions, progress the story, strengthen your characters, and more. You can even upgrade the base's functionality using points obtained in the course of gameplay!",
+      "url": "https://store.steampowered.com/app/3074850/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "过场动画相比前作明显更好",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "much better cutscenes",
+          "url": "https://steamcommunity.com/id/minneyar/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "碰瓷技能打断输出节奏",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "这个游戏的碰瓷技能纯属影响输出节奏",
+          "url": "https://steamcommunity.com/profiles/76561198883387495/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人消失Bug会阻止通关",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "敌人会突然消失 导致我无法通关",
+          "url": "https://steamcommunity.com/profiles/76561199439853719/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "技能与增益系统臃肿",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Skill/buff mechanics do feel a bit bloated",
+          "url": "https://steamcommunity.com/profiles/76561198252500190/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "锁定系统手感很差",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "锁定系统不行 很难受",
+          "url": "https://steamcommunity.com/profiles/76561199439853719/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "技能与增益升级过慢",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Skill/buff mechanics do feel a bit bloated and slow to upgrade",
+          "url": "https://steamcommunity.com/profiles/76561198252500190/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "操作相比前作更流畅",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the controls are feel more fluid then the first game",
+          "url": "https://steamcommunity.com/profiles/76561198252500190/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法相比前作复杂度明显提升",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "more complex gameplay",
+          "url": "https://steamcommunity.com/id/minneyar/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗玩法本身很有趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the gameplay itself is pretty fun",
+          "url": "https://steamcommunity.com/id/baddestofmen/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "单位自定义令人喜欢",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I like how much you can customise units.",
+          "url": "https://steamcommunity.com/profiles/76561198009922047/recommended/3074850/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3398,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 52418,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3019,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 108354,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4073,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4073,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.11835247341005,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 87,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.719298,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "碰瓷技能打断输出节奏",
+    "技术/性能：敌人消失Bug会阻止通关",
+    "技能与增益系统臃肿",
+    "锁定系统手感很差",
+    "技能与增益升级过慢",
+    "新增剧情内容太少"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Utawarerumono: ZAN 2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/0f4ea58a3998b574ef5e02439a2af05d62278698/ss_0f4ea58a3998b574ef5e02439a2af05d62278698.1920x1080.jpg?t=1782997753",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/0f4ea58a3998b574ef5e02439a2af05d62278698/ss_0f4ea58a3998b574ef5e02439a2af05d62278698.1920x1080.jpg?t=1782997753",
+        "alt": "Utawarerumono: ZAN 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/f828834993cb32717ebe2f542cb9a7ec5f5e6586/ss_f828834993cb32717ebe2f542cb9a7ec5f5e6586.1920x1080.jpg?t=1782997753",
+        "alt": "Utawarerumono: ZAN 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/cb246da9edeb0c12c1220a165478c6e8824cbdc3/ss_cb246da9edeb0c12c1220a165478c6e8824cbdc3.1920x1080.jpg?t=1782997753",
+        "alt": "Utawarerumono: ZAN 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/40872a12d200d5efa0119f91ce1ee2019d5a7290/ss_40872a12d200d5efa0119f91ce1ee2019d5a7290.1920x1080.jpg?t=1782997753",
+        "alt": "Utawarerumono: ZAN 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/280f4a552f3ad20a7d447945db32211530d0e575/ss_280f4a552f3ad20a7d447945db32211530d0e575.1920x1080.jpg?t=1782997753",
+        "alt": "Utawarerumono: ZAN 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/3ea1a3ac58afaebc4402df95bffb8cefb79fd3f9/ss_3ea1a3ac58afaebc4402df95bffb8cefb79fd3f9.1920x1080.jpg?t=1782997753",
+        "alt": "Utawarerumono: ZAN 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/2dae262341064ab1d7e0f12303f44ca0920dbf00/ss_2dae262341064ab1d7e0f12303f44ca0920dbf00.1920x1080.jpg?t=1782997753",
+        "alt": "Utawarerumono: ZAN 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3074850/93f25a69bea81ceb43787d12268eb38fedabbb54/ss_93f25a69bea81ceb43787d12268eb38fedabbb54.1920x1080.jpg?t=1782997753",
+        "alt": "Utawarerumono: ZAN 2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

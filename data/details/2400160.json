@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Glyphica: Typing Survival","developers":["aliasBLACK"],"publishers":["aliasBLACK","Squeaky Wheel"],"release_status":"early_access","release_date":"2024-10-09","tags":["抢先体验","动作肉鸽","竞技场射击","弹幕射击","俯视角射击"]},"hooks":[{"text":"输入敌人头顶单词完成击杀，不同词敌会逼近、射弹或蓄力开火","dimension":"玩法","excerpt":"Not Your Ordinary Typing Test Type the word above an enemy to finish them off. Challenge your focus and speed as bigger waves and wicked words try to slow you down and take you out. These wily words also have a few tricks up their sleeves. Deterministic drones will simply edge closer towards you, but egregious enemies like Swarmers will fire their little bullets at you, while Shooters charge up to unleash hell on you.","url":"https://store.steampowered.com/app/2400160/","label":"证据原文片段"},{"text":"可用Oscillator和Sentry覆盖区域，也能把主武器极限进化成字母刺客","dimension":"玩法","excerpt":"Kit Out; Don’t Keysmash Furiously fast fingers will never be enough! Upgrade your arsenal with unlockable weapons and loot that can help you make quick work of each wave of words. Each build is uniquely yours. Set up your Oscillator and Sentry to take care of a large swathe of territory while you pick off the stragglers, or minmax your main weapon to evolve into an alphabet assassinator? The choice is yours!","url":"https://store.steampowered.com/app/2400160/","label":"证据原文片段"},{"text":"每项Trial终点由Boss把守，通关后解锁让敌人更强的Omen挑战","dimension":"玩法","excerpt":"(Hot)Swap your Strategies in Formidable Boss Fights There are multiple trials for you to overcome, and a boss guarding the end of each trial. Defeating the trials unlock challenging Omens that make your enemies even more formidable.","url":"https://store.steampowered.com/app/2400160/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":190853,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":238938,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11422,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1257441,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":194544,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":194544,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.979315898251528,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2472,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.905416,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/ss_cdd249dc74d96291c52d4baadad2f829f6a42c67.1920x1080.jpg?t=1780924945","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/ss_cdd249dc74d96291c52d4baadad2f829f6a42c67.1920x1080.jpg?t=1780924945","alt":"指尖疾速：打字狂潮 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/11568e537b48acdf5e9400ffd2807bf83330e270/ss_11568e537b48acdf5e9400ffd2807bf83330e270.1920x1080.jpg?t=1780924945","alt":"指尖疾速：打字狂潮 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/4728cffd3bb0d76f8e6cd4af397322aa4044822b/ss_4728cffd3bb0d76f8e6cd4af397322aa4044822b.1920x1080.jpg?t=1780924945","alt":"指尖疾速：打字狂潮 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/64bb78b30dad459f5f50303ccfd3e929fdb6aeec/ss_64bb78b30dad459f5f50303ccfd3e929fdb6aeec.1920x1080.jpg?t=1780924945","alt":"指尖疾速：打字狂潮 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Glyphica: Typing Survival",
+    "developers": [
+      "aliasBLACK"
+    ],
+    "publishers": [
+      "aliasBLACK",
+      "Squeaky Wheel"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-10-09",
+    "tags": [
+      "抢先体验",
+      "轻度Rogue",
+      "动作肉鸽",
+      "竞技场射击",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "输入敌人头顶单词完成击杀，不同词敌会逼近、射弹或蓄力开火",
+      "dimension": "玩法",
+      "excerpt": "Not Your Ordinary Typing Test Type the word above an enemy to finish them off. Challenge your focus and speed as bigger waves and wicked words try to slow you down and take you out. These wily words also have a few tricks up their sleeves. Deterministic drones will simply edge closer towards you, but egregious enemies like Swarmers will fire their little bullets at you, while Shooters charge up to unleash hell on you.",
+      "url": "https://store.steampowered.com/app/2400160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可用Oscillator和Sentry覆盖区域，也能把主武器极限进化成字母刺客",
+      "dimension": "玩法",
+      "excerpt": "Kit Out; Don’t Keysmash Furiously fast fingers will never be enough! Upgrade your arsenal with unlockable weapons and loot that can help you make quick work of each wave of words. Each build is uniquely yours. Set up your Oscillator and Sentry to take care of a large swathe of territory while you pick off the stragglers, or minmax your main weapon to evolve into an alphabet assassinator? The choice is yours!",
+      "url": "https://store.steampowered.com/app/2400160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每项Trial终点由Boss把守，通关后解锁让敌人更强的Omen挑战",
+      "dimension": "玩法",
+      "excerpt": "(Hot)Swap your Strategies in Formidable Boss Fights There are multiple trials for you to overcome, and a boss guarding the end of each trial. Defeating the trials unlock challenging Omens that make your enemies even more formidable.",
+      "url": "https://store.steampowered.com/app/2400160/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 196192,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 237797,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11478,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1316068,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 199996,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 199996,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.987335212305646,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2435,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.865576,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "指尖疾速：打字狂潮位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/ss_cdd249dc74d96291c52d4baadad2f829f6a42c67.1920x1080.jpg?t=1780924945",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/ss_cdd249dc74d96291c52d4baadad2f829f6a42c67.1920x1080.jpg?t=1786711899",
+        "alt": "指尖疾速：打字狂潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/11568e537b48acdf5e9400ffd2807bf83330e270/ss_11568e537b48acdf5e9400ffd2807bf83330e270.1920x1080.jpg?t=1786711899",
+        "alt": "指尖疾速：打字狂潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/4728cffd3bb0d76f8e6cd4af397322aa4044822b/ss_4728cffd3bb0d76f8e6cd4af397322aa4044822b.1920x1080.jpg?t=1786711899",
+        "alt": "指尖疾速：打字狂潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/64bb78b30dad459f5f50303ccfd3e929fdb6aeec/ss_64bb78b30dad459f5f50303ccfd3e929fdb6aeec.1920x1080.jpg?t=1786711899",
+        "alt": "指尖疾速：打字狂潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/63e0a8450129cdabe762d18e870130d95dc30695/ss_63e0a8450129cdabe762d18e870130d95dc30695.1920x1080.jpg?t=1786711899",
+        "alt": "指尖疾速：打字狂潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/acf0a058f137e79e053f0d79cad9833f516729f4/ss_acf0a058f137e79e053f0d79cad9833f516729f4.1920x1080.jpg?t=1786711899",
+        "alt": "指尖疾速：打字狂潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/eb8f26a84693a14a9a885c2bcb79ec0a80fd93bd/ss_eb8f26a84693a14a9a885c2bcb79ec0a80fd93bd.1920x1080.jpg?t=1786711899",
+        "alt": "指尖疾速：打字狂潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400160/ff234ba8d787ab277684a56e766b86f69ec7a18b/ss_ff234ba8d787ab277684a56e766b86f69ec7a18b.1920x1080.jpg?t=1786711899",
+        "alt": "指尖疾速：打字狂潮 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

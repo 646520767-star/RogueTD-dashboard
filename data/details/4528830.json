@@ -1,1 +1,168 @@
-{"identity":{"original_title":"DONG WU: ODYSSEY","developers":["Ogopogo"],"publishers":["SapStaR Games"],"release_status":"released","release_date":"2026-05-20","tags":["角色扮演","回合制策略","策略角色扮演","类Rogue","轻度Rogue"]},"hooks":[{"text":"组建四人传奇兽队伍，在九国继承战争中争夺王座","dimension":"故事","excerpt":"You will form a 4-person party and fight a battle of succession to claim the throne.","url":"https://store.steampowered.com/app/4528830/","label":"证据原文片段"},{"text":"瘴气持续侵蚀仅有一次的生命，在战斗、逃离、超越与腐化间抉择","dimension":"玩法","excerpt":"You only live once. So as Dong Wu. As Miasma builds up, you will fade away. Fight or flee? Transcend or corrupt? It's all on a whim.","url":"https://store.steampowered.com/app/4528830/","label":"证据原文片段"},{"text":"迎战 40 多种机制各异敌人与 20 多名高难首领","dimension":"玩法","excerpt":"You'll fight against 40+ enemies of different mechanism and 20+ challenging bosses. Each enemy has their own mechanism.","url":"https://store.steampowered.com/app/4528830/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":691,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":324,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3374,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":730,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":730,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.134654815746744,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":26,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":69,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":66.666667,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为66.666667%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/efd31c878db9275b28db1b3c84cbd9209305d677/ss_efd31c878db9275b28db1b3c84cbd9209305d677.1920x1080.jpg?t=1784726797","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/efd31c878db9275b28db1b3c84cbd9209305d677/ss_efd31c878db9275b28db1b3c84cbd9209305d677.1920x1080.jpg?t=1784726797","alt":"安尼姆的无尽旅途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/3ed0a5ace9ac0c062888a49b92e27da1af48a821/ss_3ed0a5ace9ac0c062888a49b92e27da1af48a821.1920x1080.jpg?t=1784726797","alt":"安尼姆的无尽旅途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/44b747b87f972ea5c5afe8308443c1aacbb1affa/ss_44b747b87f972ea5c5afe8308443c1aacbb1affa.1920x1080.jpg?t=1784726797","alt":"安尼姆的无尽旅途 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/3fd8da49e9483634c61cba9f97a5d84c521d3fa0/ss_3fd8da49e9483634c61cba9f97a5d84c521d3fa0.1920x1080.jpg?t=1784726797","alt":"安尼姆的无尽旅途 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "DONG WU: ODYSSEY",
+    "developers": [
+      "Ogopogo"
+    ],
+    "publishers": [
+      "SapStaR Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-20",
+    "tags": [
+      "角色扮演",
+      "回合制策略",
+      "策略角色扮演",
+      "类Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "组建四人传奇兽队伍，在九国继承战争中争夺王座",
+      "dimension": "故事",
+      "excerpt": "You will form a 4-person party and fight a battle of succession to claim the throne.",
+      "url": "https://store.steampowered.com/app/4528830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "瘴气持续侵蚀仅有一次的生命，在战斗、逃离、超越与腐化间抉择",
+      "dimension": "玩法",
+      "excerpt": "You only live once. So as Dong Wu. As Miasma builds up, you will fade away. Fight or flee? Transcend or corrupt? It's all on a whim.",
+      "url": "https://store.steampowered.com/app/4528830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "迎战 40 多种机制各异敌人与 20 多名高难首领",
+      "dimension": "玩法",
+      "excerpt": "You'll fight against 40+ enemies of different mechanism and 20+ challenging bosses. Each enemy has their own mechanism.",
+      "url": "https://store.steampowered.com/app/4528830/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 724,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 334,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3569,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 763,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 763,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.001627406741014,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 25,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 67,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 66.666667,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为66.666667%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "安尼姆的无尽旅途位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/efd31c878db9275b28db1b3c84cbd9209305d677/ss_efd31c878db9275b28db1b3c84cbd9209305d677.1920x1080.jpg?t=1784726797",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/efd31c878db9275b28db1b3c84cbd9209305d677/ss_efd31c878db9275b28db1b3c84cbd9209305d677.1920x1080.jpg?t=1784726797",
+        "alt": "安尼姆的无尽旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/3ed0a5ace9ac0c062888a49b92e27da1af48a821/ss_3ed0a5ace9ac0c062888a49b92e27da1af48a821.1920x1080.jpg?t=1784726797",
+        "alt": "安尼姆的无尽旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/44b747b87f972ea5c5afe8308443c1aacbb1affa/ss_44b747b87f972ea5c5afe8308443c1aacbb1affa.1920x1080.jpg?t=1784726797",
+        "alt": "安尼姆的无尽旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/3fd8da49e9483634c61cba9f97a5d84c521d3fa0/ss_3fd8da49e9483634c61cba9f97a5d84c521d3fa0.1920x1080.jpg?t=1784726797",
+        "alt": "安尼姆的无尽旅途 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/d04e62108c4cdd1d3148328a0ddd9e2275fb827d/ss_d04e62108c4cdd1d3148328a0ddd9e2275fb827d.1920x1080.jpg?t=1784726797",
+        "alt": "安尼姆的无尽旅途 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

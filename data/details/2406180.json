@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Knights Within","developers":["Indecision Labs"],"publishers":["Indecision Labs"],"release_status":"early_access","release_date":"2024-05-15","tags":["抢先体验","动作肉鸽","砍杀","高重复可玩性","高难度"]},"hooks":[{"text":"任务推进会同时给玩家与敌人随机强化，存活越久双方能力越疯狂。","dimension":"玩法","excerpt":"Progressing through a mission grants randomized modifiers for both you and your enemies. The longer you survive, the crazier the powers get, keeping each run fresh and unique.","url":"https://store.steampowered.com/app/2406180/","label":"证据原文片段"},{"text":"为武器与护甲装配模组，自由拼出自己的职业而非锁定预设兵种。","dimension":"玩法","excerpt":"Create your own class by equipping gear mods for your various weapons and armor to enhance your preferred playstyle.","url":"https://store.steampowered.com/app/2406180/","label":"证据原文片段"},{"text":"移动始终由玩家掌控，剑与枪也随时可用，让近战和射击无需切换姿态。","dimension":"玩法","excerpt":"Free-form combat: maintain control of your movement while always having access to your sword and firearm","url":"https://store.steampowered.com/app/2406180/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":7972,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":39399,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3488,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":104493,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":8981,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":8981,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.352020203024081,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":293,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.547945,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_5ba2ccb7a0af55075690cfc62f854ca7ac790a43.1920x1080.jpg?t=1762586622","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_5ba2ccb7a0af55075690cfc62f854ca7ac790a43.1920x1080.jpg?t=1762586622","alt":"Knights Within 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_7efc3a0249dd7bbb8458f52d75bb501a85a56763.1920x1080.jpg?t=1762586622","alt":"Knights Within 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_9b3a9f9363d173287b0a6cd5b74b33e97f8f6d5c.1920x1080.jpg?t=1762586622","alt":"Knights Within 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/b4c2125107b8b4fb17aec59f52f57da6f4796978/ss_b4c2125107b8b4fb17aec59f52f57da6f4796978.1920x1080.jpg?t=1762586622","alt":"Knights Within 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Knights Within",
+    "developers": [
+      "Indecision Labs"
+    ],
+    "publishers": [
+      "Indecision Labs"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-05-15",
+    "tags": [
+      "抢先体验",
+      "动作肉鸽",
+      "砍杀",
+      "轻度Rogue",
+      "高重复可玩性"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "任务推进会同时给玩家与敌人随机强化，存活越久双方能力越疯狂。",
+      "dimension": "玩法",
+      "excerpt": "Progressing through a mission grants randomized modifiers for both you and your enemies. The longer you survive, the crazier the powers get, keeping each run fresh and unique.",
+      "url": "https://store.steampowered.com/app/2406180/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "为武器与护甲装配模组，自由拼出自己的职业而非锁定预设兵种。",
+      "dimension": "玩法",
+      "excerpt": "Create your own class by equipping gear mods for your various weapons and armor to enhance your preferred playstyle.",
+      "url": "https://store.steampowered.com/app/2406180/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "移动始终由玩家掌控，剑与枪也随时可用，让近战和射击无需切换姿态。",
+      "dimension": "玩法",
+      "excerpt": "Free-form combat: maintain control of your movement while always having access to your sword and firearm",
+      "url": "https://store.steampowered.com/app/2406180/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "I'm impressed by the quality of the gameplay at early access release, and judging by the pre-existing reviews and dev notes, I know this will grow into an amazing game.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "I'm impressed by the quality of the gameplay at early access release, and judging by the pre-existing reviews and dev notes, I know this will grow into an amazing game.",
+          "url": "https://steamcommunity.com/id/MiscErisHere/recommended/2406180/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Sword's great too, feels \"weighty\" in combat.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Sword's great too, feels \"weighty\" in combat.",
+          "url": "https://steamcommunity.com/profiles/76561198088018820/recommended/2406180/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Mechanics and combat are great.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Mechanics and combat are great.",
+          "url": "https://steamcommunity.com/profiles/76561198171056997/recommended/2406180/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "I love the progression system and I don't ever wanna stop grinding for cosmetics with my friends :) EDIT: Please add some more voice options, maybe even a girl bodytype for my girl gamers.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "I love the progression system and I don't ever wanna stop grinding for cosmetics with my friends :) EDIT: Please add some more voice options, maybe even a girl bodytype for my girl gamers.",
+          "url": "https://steamcommunity.com/id/Kianfox/recommended/2406180/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Fluid melee and Gunplay, Beautiful maps and just a whole lot of fun for a duo-4 player session!",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Fluid melee and Gunplay, Beautiful maps and just a whole lot of fun for a duo-4 player session!",
+          "url": "https://store.steampowered.com/curator/44569153-Bratski%2527s-FPS-Corner/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A great co-op horde shooting experience that will bring the chaos and intensity!",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A great co-op horde shooting experience that will bring the chaos and intensity!",
+          "url": "https://store.steampowered.com/curator/44867044-GudShiz/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Knights Within - amazing works by a single dev (or small dev team) with great gameplay concept and execution.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Knights Within - amazing works by a single dev (or small dev team) with great gameplay concept and execution.",
+          "url": "https://store.steampowered.com/curator/45006237-Magnum-Opus-Dreamers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Knights Within got decent amount of variability in it's combat encounters and certainly a fun one to experience.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Knights Within got decent amount of variability in it's combat encounters and certainly a fun one to experience.",
+          "url": "https://store.steampowered.com/curator/33970940-Cheating-Is-Bad-Mmmkaayy/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 9218,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 39633,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3494,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 117900,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10356,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10356,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.381918679078949,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 247,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.56314,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Knights Within位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_5ba2ccb7a0af55075690cfc62f854ca7ac790a43.1920x1080.jpg?t=1762586622",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_5ba2ccb7a0af55075690cfc62f854ca7ac790a43.1920x1080.jpg?t=1762586622",
+        "alt": "Knights Within 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_7efc3a0249dd7bbb8458f52d75bb501a85a56763.1920x1080.jpg?t=1762586622",
+        "alt": "Knights Within 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_9b3a9f9363d173287b0a6cd5b74b33e97f8f6d5c.1920x1080.jpg?t=1762586622",
+        "alt": "Knights Within 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/b4c2125107b8b4fb17aec59f52f57da6f4796978/ss_b4c2125107b8b4fb17aec59f52f57da6f4796978.1920x1080.jpg?t=1762586622",
+        "alt": "Knights Within 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_40148b8c7277ffe5723102392bf648e92505d8d8.1920x1080.jpg?t=1762586622",
+        "alt": "Knights Within 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_fd38b6a32f3e7f8516f4b78ce5df3b418d439438.1920x1080.jpg?t=1762586622",
+        "alt": "Knights Within 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_224f827a3e3d2d4e64ce84ab69578d4f0526dcfe.1920x1080.jpg?t=1762586622",
+        "alt": "Knights Within 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406180/ss_781c3402119c783e66d2e4c57c6fe148623f0758.1920x1080.jpg?t=1762586622",
+        "alt": "Knights Within 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

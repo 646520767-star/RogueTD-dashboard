@@ -1,1 +1,248 @@
-{"identity":{"original_title":"Tangy TD","developers":["Cakez"],"publishers":["Cakez"],"release_status":"released","release_date":"2026-03-09","tags":["塔防","策略","动作","单人游戏","类Rogue"]},"hooks":[{"text":"女巫可移动职业塔，并给塔装备、合成物品来获得主动能力和独特构筑","dimension":"玩法","excerpt":"Strategic tower defense where you play a witch, place class-based towers, equip them with items that grant powerful abilities, combine them, create unique builds & deal ridiculous amounts of damage! Customize your builds with a deep stat system and giant skill tree! M ove around Towers, Fight Big Bosses!","url":"https://store.steampowered.com/app/2245620/","label":"证据原文片段"},{"text":"超过100件物品可被装备和组合，扩展防御塔的效果搭配","dimension":"玩法","excerpt":"Equip and Combine over 100 different items.","url":"https://store.steampowered.com/app/2245620/","label":"证据原文片段"},{"text":"防御者、弓手和治疗者各有技能树，无尽模式敌潮难度指数增长","dimension":"玩法","excerpt":"Three classes with unique skill sets. Defender, Archer and Healer. A Skill Tree for each class to progress through and grow more powerful. Endless Mode. Test your strategy against waves of enemies that become exponentially more difficult.","url":"https://store.steampowered.com/app/2245620/","label":"证据原文片段"}],"opinions":[{"text":"推进要求大量重复刷取","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it requires so much grinding","url":"https://steamcommunity.com/id/OliverVr/recommended/2245620/","label":"证据原文片段"}]},{"text":"第五关出现局外成长墙","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"By stage 5 you're hitting a meta progression wall.","url":"https://steamcommunity.com/id/Heavysleeper/recommended/2245620/","label":"证据原文片段"}]},{"text":"地图Boss容易被意外拉入战斗","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it's way too easy to accidently pull the boss","url":"https://steamcommunity.com/id/Heavysleeper/recommended/2245620/","label":"证据原文片段"}]},{"text":"塔防与肉鸽成长组合有趣","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"A fun mix of strategic tower defense and roguelite progression","url":"https://store.steampowered.com/curator/45452082-ScreenScribe/","label":"证据原文片段"}]},{"text":"整体玩法确实有趣","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"真的好玩很有意思","url":"https://steamcommunity.com/profiles/76561198403730711/recommended/2245620/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":97839,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":184287,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9540,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":801241,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":98834,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":98834,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.5226404407648686,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1461,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.051913,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["推进要求大量重复刷取","第五关出现局外成长墙","地图Boss容易被意外拉入战斗"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/9ebd4803ab2d3e2da0447c3f8789c9ff3fe214dc/ss_9ebd4803ab2d3e2da0447c3f8789c9ff3fe214dc.1920x1080.jpg?t=1778189714","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/9ebd4803ab2d3e2da0447c3f8789c9ff3fe214dc/ss_9ebd4803ab2d3e2da0447c3f8789c9ff3fe214dc.1920x1080.jpg?t=1778189714","alt":"Tangy TD 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/56f9242e5c0384653eff53b92e094a93b45c0f2b/ss_56f9242e5c0384653eff53b92e094a93b45c0f2b.1920x1080.jpg?t=1778189714","alt":"Tangy TD 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/7931d274a80e7f6e133f6f7f5d125644210f2ea1/ss_7931d274a80e7f6e133f6f7f5d125644210f2ea1.1920x1080.jpg?t=1778189714","alt":"Tangy TD 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/40ca988553233597beecd52db9cdbce7bead48e3/ss_40ca988553233597beecd52db9cdbce7bead48e3.1920x1080.jpg?t=1778189714","alt":"Tangy TD 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Tangy TD",
+    "developers": [
+      "Cakez"
+    ],
+    "publishers": [
+      "Cakez"
+    ],
+    "release_status": "released",
+    "release_date": "2026-03-09",
+    "tags": [
+      "塔防",
+      "策略",
+      "动作",
+      "单人游戏",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "女巫可移动职业塔，并给塔装备、合成物品来获得主动能力和独特构筑",
+      "dimension": "玩法",
+      "excerpt": "Strategic tower defense where you play a witch, place class-based towers, equip them with items that grant powerful abilities, combine them, create unique builds & deal ridiculous amounts of damage! Customize your builds with a deep stat system and giant skill tree! M ove around Towers, Fight Big Bosses!",
+      "url": "https://store.steampowered.com/app/2245620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "超过100件物品可被装备和组合，扩展防御塔的效果搭配",
+      "dimension": "玩法",
+      "excerpt": "Equip and Combine over 100 different items.",
+      "url": "https://store.steampowered.com/app/2245620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "防御者、弓手和治疗者各有技能树，无尽模式敌潮难度指数增长",
+      "dimension": "玩法",
+      "excerpt": "Three classes with unique skill sets. Defender, Archer and Healer. A Skill Tree for each class to progress through and grow more powerful. Endless Mode. Test your strategy against waves of enemies that become exponentially more difficult.",
+      "url": "https://store.steampowered.com/app/2245620/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "推进要求大量重复刷取",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it requires so much grinding",
+          "url": "https://steamcommunity.com/id/OliverVr/recommended/2245620/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "第五关出现局外成长墙",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "By stage 5 you're hitting a meta progression wall.",
+          "url": "https://steamcommunity.com/id/Heavysleeper/recommended/2245620/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "地图Boss容易被意外拉入战斗",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it's way too easy to accidently pull the boss",
+          "url": "https://steamcommunity.com/id/Heavysleeper/recommended/2245620/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "塔防与肉鸽成长组合有趣",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "A fun mix of strategic tower defense and roguelite progression",
+          "url": "https://store.steampowered.com/curator/45452082-ScreenScribe/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体玩法确实有趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "真的好玩很有意思",
+          "url": "https://steamcommunity.com/profiles/76561198403730711/recommended/2245620/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 100479,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 185379,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9608,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 822098,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 101571,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 101571,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.4708756786089525,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1475,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.58745,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "推进要求大量重复刷取",
+    "第五关出现局外成长墙",
+    "地图Boss容易被意外拉入战斗"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Tangy TD位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/9ebd4803ab2d3e2da0447c3f8789c9ff3fe214dc/ss_9ebd4803ab2d3e2da0447c3f8789c9ff3fe214dc.1920x1080.jpg?t=1778189714",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/9ebd4803ab2d3e2da0447c3f8789c9ff3fe214dc/ss_9ebd4803ab2d3e2da0447c3f8789c9ff3fe214dc.1920x1080.jpg?t=1778189714",
+        "alt": "Tangy TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/56f9242e5c0384653eff53b92e094a93b45c0f2b/ss_56f9242e5c0384653eff53b92e094a93b45c0f2b.1920x1080.jpg?t=1778189714",
+        "alt": "Tangy TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/7931d274a80e7f6e133f6f7f5d125644210f2ea1/ss_7931d274a80e7f6e133f6f7f5d125644210f2ea1.1920x1080.jpg?t=1778189714",
+        "alt": "Tangy TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/40ca988553233597beecd52db9cdbce7bead48e3/ss_40ca988553233597beecd52db9cdbce7bead48e3.1920x1080.jpg?t=1778189714",
+        "alt": "Tangy TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/e1f34f5350b21184105c9e33b8215ed30dae7708/ss_e1f34f5350b21184105c9e33b8215ed30dae7708.1920x1080.jpg?t=1778189714",
+        "alt": "Tangy TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/18c0010e5f5370fb1d3388dcc960878a5fd033ee/ss_18c0010e5f5370fb1d3388dcc960878a5fd033ee.1920x1080.jpg?t=1778189714",
+        "alt": "Tangy TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/66daea9a435c3592e6352a0d892c868ea0911bde/ss_66daea9a435c3592e6352a0d892c868ea0911bde.1920x1080.jpg?t=1778189714",
+        "alt": "Tangy TD 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245620/a44d8985001226b453fc95e79d7187aaa5978ad4/ss_a44d8985001226b453fc95e79d7187aaa5978ad4.1920x1080.jpg?t=1778189714",
+        "alt": "Tangy TD 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

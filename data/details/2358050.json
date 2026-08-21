@@ -1,1 +1,180 @@
-{"identity":{"original_title":"GraalOnline Era","developers":["GraalOnline"],"publishers":["Toonslab"],"release_status":"released","release_date":"2024-02-16","tags":["角色扮演","射击","二维画面","二维平台跳跃","复古"]},"hooks":[{"text":"最多25人帮派争夺基地，战火覆盖整张开放地图","dimension":"玩法","excerpt":"Or even take part in a Gang War with gangs of up to 25 players to claim Gang Bases or battle players across the giant map!","url":"https://store.steampowered.com/app/2358050/","label":"证据原文片段"},{"text":"数千服饰之外，还能上传自制像素图装扮角色","dimension":"画风","excerpt":"There are thousands of hats and outfits with the option to upload your own graphics to the game, which makes the customization options endless!","url":"https://store.steampowered.com/app/2358050/","label":"证据原文片段"},{"text":"做披萨、挖贝壳、捡蘑菇垃圾都能赚钱","dimension":"玩法","excerpt":"Make pizzas at Speedy Pizza, dig up shells at one of the beautiful beaches around the game, collect mushrooms and garbage across the massive map, and many more!","url":"https://store.steampowered.com/app/2358050/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":31224,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1729,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":91679,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":31224,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":31224,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":89.15066679450872,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":705,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":66,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":66.477273,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为66.477273%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_1f93e724ed8a164543b458c67b5bb5783fc8e4ad.1920x1080.jpg?t=1714458950","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_1f93e724ed8a164543b458c67b5bb5783fc8e4ad.1920x1080.jpg?t=1714458950","alt":"GraalOnline Era 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_f1a757385e059f773e911fc3472d5e18a9f905f7.1920x1080.jpg?t=1714458950","alt":"GraalOnline Era 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_db3e40c7a82cff67cd79b9a6b74beb9c98f1cd9d.1920x1080.jpg?t=1714458950","alt":"GraalOnline Era 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_11dc650c6264592d88b377901300bd55ca3e4e38.1920x1080.jpg?t=1714458950","alt":"GraalOnline Era 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "GraalOnline Era",
+    "developers": [
+      "GraalOnline"
+    ],
+    "publishers": [
+      "Toonslab"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-16",
+    "tags": [
+      "角色扮演",
+      "射击",
+      "射击",
+      "二维画面",
+      "二维平台跳跃"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "最多25人帮派争夺基地，战火覆盖整张开放地图",
+      "dimension": "玩法",
+      "excerpt": "Or even take part in a Gang War with gangs of up to 25 players to claim Gang Bases or battle players across the giant map!",
+      "url": "https://store.steampowered.com/app/2358050/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "数千服饰之外，还能上传自制像素图装扮角色",
+      "dimension": "画风",
+      "excerpt": "There are thousands of hats and outfits with the option to upload your own graphics to the game, which makes the customization options endless!",
+      "url": "https://store.steampowered.com/app/2358050/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "做披萨、挖贝壳、捡蘑菇垃圾都能赚钱",
+      "dimension": "玩法",
+      "excerpt": "Make pizzas at Speedy Pizza, dig up shells at one of the beautiful beaches around the game, collect mushrooms and garbage across the massive map, and many more!",
+      "url": "https://store.steampowered.com/app/2358050/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 30778,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1737,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 172929,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 30778,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 30778,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 95.59029037650491,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 711,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 66,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 66.197183,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为66.477273%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "GraalOnline Era位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_1f93e724ed8a164543b458c67b5bb5783fc8e4ad.1920x1080.jpg?t=1714458950",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_1f93e724ed8a164543b458c67b5bb5783fc8e4ad.1920x1080.jpg?t=1714458950",
+        "alt": "GraalOnline Era 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_f1a757385e059f773e911fc3472d5e18a9f905f7.1920x1080.jpg?t=1714458950",
+        "alt": "GraalOnline Era 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_db3e40c7a82cff67cd79b9a6b74beb9c98f1cd9d.1920x1080.jpg?t=1714458950",
+        "alt": "GraalOnline Era 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_11dc650c6264592d88b377901300bd55ca3e4e38.1920x1080.jpg?t=1714458950",
+        "alt": "GraalOnline Era 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_27deb1bbac3614a66299061805a9c2c1f219f2e7.1920x1080.jpg?t=1714458950",
+        "alt": "GraalOnline Era 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_f9f98edb434a8861b6c38e3c95e4b20c7a175a8f.1920x1080.jpg?t=1714458950",
+        "alt": "GraalOnline Era 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_8cc166fde595ef87e60b6dd522cc732f9276dadb.1920x1080.jpg?t=1714458950",
+        "alt": "GraalOnline Era 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358050/ss_5017679401127a1e956e31034c1e9ce04c948336.1920x1080.jpg?t=1714458950",
+        "alt": "GraalOnline Era 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

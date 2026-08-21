@@ -1,1 +1,178 @@
-{"identity":{"original_title":"BAPBAP","developers":["Maison Bap"],"publishers":["Maison Bap"],"release_status":"released","release_date":"2025-08-19","tags":["玩家对战","卡组构筑","在线合作","动作肉鸽","多人游戏"]},"hooks":[{"text":"最多八人乱斗中，每轮结束随机选择一种能力，持续拼出离谱甚至反噬自己的构筑。","dimension":"玩法","excerpt":"Invite and play with up to 7 friends in an all out brawl. Pick a random power after every round and craft the most ridiculous (or regrettable) build possible.","url":"https://store.steampowered.com/app/2226280/","label":"证据原文片段"},{"text":"战斗强调流畅移动与可躲避攻击，失误主要取决于玩家能否及时闪开。","dimension":"玩法","excerpt":"Tight, free-flowing combat that’ll have you screaming for your mom to get the camera. Everything is dodgeable so if you get clapped, that’s on you.","url":"https://store.steampowered.com/app/2226280/","label":"证据原文片段"},{"text":"既能用疯狂规则创建自定义对局，也能加入社区服务器；不设匹配和排位，主打自由混乱的派对体验。","dimension":"玩法","excerpt":"Set up custom games with wild rulesets, or jump into community-run servers and embrace the chaos. No matchmaking. No ranks. Just pure, dumb fun.","url":"https://store.steampowered.com/app/2226280/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":549900,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":48296,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7821,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":125344,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":549900,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":549900,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.406358972031683,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":5508,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.909553,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"玩家对战、卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/d358608e9d92b12c4e212d908b3c1777e5b46cab/ss_d358608e9d92b12c4e212d908b3c1777e5b46cab.1920x1080.jpg?t=1775195204","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/d358608e9d92b12c4e212d908b3c1777e5b46cab/ss_d358608e9d92b12c4e212d908b3c1777e5b46cab.1920x1080.jpg?t=1775195204","alt":"BAPBAP 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/4e5f610daf699ec7eba18f312ca68459d72964b5/ss_4e5f610daf699ec7eba18f312ca68459d72964b5.1920x1080.jpg?t=1775195204","alt":"BAPBAP 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/844941f261340342256ea74a84cc4aaedaf3516f/ss_844941f261340342256ea74a84cc4aaedaf3516f.1920x1080.jpg?t=1775195204","alt":"BAPBAP 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/6fa50108cef395cc415aa226d8a71f1bbbc8a050/ss_6fa50108cef395cc415aa226d8a71f1bbbc8a050.1920x1080.jpg?t=1775195204","alt":"BAPBAP 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "BAPBAP",
+    "developers": [
+      "Maison Bap"
+    ],
+    "publishers": [
+      "Maison Bap"
+    ],
+    "release_status": "released",
+    "release_date": "2025-08-19",
+    "tags": [
+      "玩家对战",
+      "卡组构筑",
+      "策略",
+      "在线合作",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "最多八人乱斗中，每轮结束随机选择一种能力，持续拼出离谱甚至反噬自己的构筑。",
+      "dimension": "玩法",
+      "excerpt": "Invite and play with up to 7 friends in an all out brawl. Pick a random power after every round and craft the most ridiculous (or regrettable) build possible.",
+      "url": "https://store.steampowered.com/app/2226280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗强调流畅移动与可躲避攻击，失误主要取决于玩家能否及时闪开。",
+      "dimension": "玩法",
+      "excerpt": "Tight, free-flowing combat that’ll have you screaming for your mom to get the camera. Everything is dodgeable so if you get clapped, that’s on you.",
+      "url": "https://store.steampowered.com/app/2226280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "既能用疯狂规则创建自定义对局，也能加入社区服务器；不设匹配和排位，主打自由混乱的派对体验。",
+      "dimension": "玩法",
+      "excerpt": "Set up custom games with wild rulesets, or jump into community-run servers and embrace the chaos. No matchmaking. No ranks. Just pure, dumb fun.",
+      "url": "https://store.steampowered.com/app/2226280/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 560845,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 51139,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7889,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 252970,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 560845,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 560845,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.3847801240898345,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 5599,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.874508,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "BAPBAP位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/d358608e9d92b12c4e212d908b3c1777e5b46cab/ss_d358608e9d92b12c4e212d908b3c1777e5b46cab.1920x1080.jpg?t=1775195204",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/d358608e9d92b12c4e212d908b3c1777e5b46cab/ss_d358608e9d92b12c4e212d908b3c1777e5b46cab.1920x1080.jpg?t=1775195204",
+        "alt": "BAPBAP 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/4e5f610daf699ec7eba18f312ca68459d72964b5/ss_4e5f610daf699ec7eba18f312ca68459d72964b5.1920x1080.jpg?t=1775195204",
+        "alt": "BAPBAP 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/844941f261340342256ea74a84cc4aaedaf3516f/ss_844941f261340342256ea74a84cc4aaedaf3516f.1920x1080.jpg?t=1775195204",
+        "alt": "BAPBAP 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/6fa50108cef395cc415aa226d8a71f1bbbc8a050/ss_6fa50108cef395cc415aa226d8a71f1bbbc8a050.1920x1080.jpg?t=1775195204",
+        "alt": "BAPBAP 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/3ba32e836cf390e3ead06421ad475bf7d4ee1392/ss_3ba32e836cf390e3ead06421ad475bf7d4ee1392.1920x1080.jpg?t=1775195204",
+        "alt": "BAPBAP 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/495448557be9f9bbcaffc56a0e009bb307b0e16b/ss_495448557be9f9bbcaffc56a0e009bb307b0e16b.1920x1080.jpg?t=1775195204",
+        "alt": "BAPBAP 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/7409424aad836c22ce307307e58f9ed0b8561d85/ss_7409424aad836c22ce307307e58f9ed0b8561d85.1920x1080.jpg?t=1775195204",
+        "alt": "BAPBAP 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226280/70a052eeaf61c8758c2b8d2ddd3642eb0aeebcb0/ss_70a052eeaf61c8758c2b8d2ddd3642eb0aeebcb0.1920x1080.jpg?t=1775195204",
+        "alt": "BAPBAP 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Million Monster Militia","developers":["Space Capsule Games","Dejobaan Games, LLC"],"publishers":["Dejobaan Games, LLC","Space Capsule Games"],"release_status":"released","release_date":"2024-06-21","tags":["肉鸽卡组构筑","卡组构筑","自走棋","策略","轻度Rogue"]},"hooks":[{"text":"二十五名单位随机落位，胜负取决于民兵构成而非站位操控","dimension":"玩法","excerpt":"Once on the battlefield, 25 of your troops will deploy randomly. You have no control over where they go, which means that it's the composition of your militia that's most important.","url":"https://store.steampowered.com/app/2358770/","label":"证据原文片段"},{"text":"士兵把平民练成军队，魅魔把他们转化为吸能吸血鬼","dimension":"玩法","excerpt":"Will you pick the Soldier who will turn your citizens into hard-bitten troops, or the Succubus, who will turn them into power-leeching Vampires? If you dabble in the occult, bring along a Priest to channel the power of your Undead.","url":"https://store.steampowered.com/app/2358770/","label":"证据原文片段"},{"text":"战术核弹集中全军火力，并把部队变成放射废料与变种人","dimension":"玩法","excerpt":"Backed into a corner by Nyarlathotep? Deploy a Tactical Nuke to concentrate your militia's attacks into a single mega blast. Sure, it'll turn them into Radioactive Waste, but that's how you get Mutants.","url":"https://store.steampowered.com/app/2358770/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5266,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":13980,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":802,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":29327,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5739,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5739,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.555783208308705,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":102,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.333333,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_45e0f4edb01c200440f3319650a12e8dde62c125.1920x1080.jpg?t=1719334893","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_45e0f4edb01c200440f3319650a12e8dde62c125.1920x1080.jpg?t=1719334893","alt":"Million Monster Militia 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_a86ae7c25db4a30d961e6ad13bfda4c4ec4a5c75.1920x1080.jpg?t=1719334893","alt":"Million Monster Militia 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_14651828003744f0e8fafd766f45cca2365be9f3.1920x1080.jpg?t=1719334893","alt":"Million Monster Militia 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_a63fca6e0c4de5d12c4b81fe8ccf8d77968fdab4.1920x1080.jpg?t=1719334893","alt":"Million Monster Militia 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Million Monster Militia",
+    "developers": [
+      "Space Capsule Games",
+      "Dejobaan Games, LLC"
+    ],
+    "publishers": [
+      "Dejobaan Games, LLC",
+      "Space Capsule Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-06-21",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡组构筑",
+      "自走棋",
+      "策略",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "二十五名单位随机落位，胜负取决于民兵构成而非站位操控",
+      "dimension": "玩法",
+      "excerpt": "Once on the battlefield, 25 of your troops will deploy randomly. You have no control over where they go, which means that it's the composition of your militia that's most important.",
+      "url": "https://store.steampowered.com/app/2358770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "士兵把平民练成军队，魅魔把他们转化为吸能吸血鬼",
+      "dimension": "玩法",
+      "excerpt": "Will you pick the Soldier who will turn your citizens into hard-bitten troops, or the Succubus, who will turn them into power-leeching Vampires? If you dabble in the occult, bring along a Priest to channel the power of your Undead.",
+      "url": "https://store.steampowered.com/app/2358770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战术核弹集中全军火力，并把部队变成放射废料与变种人",
+      "dimension": "玩法",
+      "excerpt": "Backed into a corner by Nyarlathotep? Deploy a Tactical Nuke to concentrate your militia's attacks into a single mega blast. Sure, it'll turn them into Radioactive Waste, but that's how you get Mutants.",
+      "url": "https://store.steampowered.com/app/2358770/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6601,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 14063,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 804,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 36030,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7187,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7187,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.56718251019557,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 91,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.524272,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Million Monster Militia位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_45e0f4edb01c200440f3319650a12e8dde62c125.1920x1080.jpg?t=1719334893",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_45e0f4edb01c200440f3319650a12e8dde62c125.1920x1080.jpg?t=1719334893",
+        "alt": "Million Monster Militia 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_a86ae7c25db4a30d961e6ad13bfda4c4ec4a5c75.1920x1080.jpg?t=1719334893",
+        "alt": "Million Monster Militia 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_14651828003744f0e8fafd766f45cca2365be9f3.1920x1080.jpg?t=1719334893",
+        "alt": "Million Monster Militia 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_a63fca6e0c4de5d12c4b81fe8ccf8d77968fdab4.1920x1080.jpg?t=1719334893",
+        "alt": "Million Monster Militia 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_bcb981f42068b8c8596af5f92b915341acd31ddd.1920x1080.jpg?t=1719334893",
+        "alt": "Million Monster Militia 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_52930fb0c17332bc816ff6e8e20ffd33c32ddcba.1920x1080.jpg?t=1719334893",
+        "alt": "Million Monster Militia 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_12d471f283ddf0a23c60d03920598d06c0e9b754.1920x1080.jpg?t=1719334893",
+        "alt": "Million Monster Militia 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358770/ss_6e0d25d039532dd848dc7ac87618d64c460ba24f.1920x1080.jpg?t=1719334893",
+        "alt": "Million Monster Militia 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

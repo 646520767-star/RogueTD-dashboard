@@ -1,1 +1,329 @@
-{"identity":{"original_title":"Relic Odyssey : Ruins Of Xantao","developers":["Honour Bound Game Studios Inc."],"publishers":["Honour Bound Game Studios Inc."],"release_status":"early_access","release_date":"2024-01-27","tags":["抢先体验","支持手柄","三维画面","探索","第一人称"]},"hooks":[{"text":"动力手套既能扫描敌人与资源，也能推拉敌人并操纵遗迹环境。","dimension":"玩法","excerpt":"Scan for enemies and resources using your AVARITE POWERED GLOVES ! Have fun pushing and pulling enemies through lairs and ruins. Use this same ability to manipulate your environment!","url":"https://store.steampowered.com/app/2297960/","label":"证据原文片段"},{"text":"在巢穴与遗迹采集稀有资源，制作移动医疗站和钻机升级等科技。","dimension":"玩法","excerpt":"Collect rare resources throughout the lairs and ruins then use them to craft technology like mobile medical bays and upgrades for the drilling rig.","url":"https://store.steampowered.com/app/2297960/","label":"证据原文片段"},{"text":"每次向星球深处钻探都会生成新的环境、敌人与宝藏组合。","dimension":"玩法","excerpt":"With our PROCEDURALLY GENERATED LEVELS , each descent is a new challenge, presenting new environments, enemies, and treasures.","url":"https://store.steampowered.com/app/2297960/","label":"证据原文片段"}],"opinions":[{"text":"敌人与可交互物难以从环境中辨认","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it was hard to distinguish enemies and interactable things from the environment.","url":"https://steamcommunity.com/id/XeroKimo/recommended/2297960/","label":"证据原文片段"}]},{"text":"世界视觉效果惊艳","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Stunning world","url":"https://store.steampowered.com/curator/43939029-The-Game-Report/","label":"证据原文片段"}]},{"text":"环境与敌人的视觉风格独特","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Unique visual style for the environments and enemies.","url":"https://steamcommunity.com/profiles/76561197987959729/recommended/2297960/","label":"证据原文片段"}]},{"text":"敌人动画令人喜欢","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"+ enemy animations","url":"https://steamcommunity.com/id/jeykin/recommended/2297960/","label":"证据原文片段"}]},{"text":"地点视觉令人喜欢","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"+ the way the locations look","url":"https://steamcommunity.com/id/jeykin/recommended/2297960/","label":"证据原文片段"}]},{"text":"环境与敌人的配色很好","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the colour choices on the environments and enemies are really nice.","url":"https://steamcommunity.com/profiles/76561199117942708/recommended/2297960/","label":"证据原文片段"}]},{"text":"武器外观令人喜欢","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I like it: + the way the weapons look","url":"https://steamcommunity.com/id/jeykin/recommended/2297960/","label":"证据原文片段"}]},{"text":"Bug数量在抢先体验阶段也令人震惊","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The amount of bugs I encountered in this game is shocking even for early access.","url":"https://steamcommunity.com/profiles/76561199229055644/recommended/2297960/","label":"证据原文片段"}]},{"text":"截图时可能导致游戏崩溃","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The game crashed when I took a screen shot","url":"https://steamcommunity.com/profiles/76561199229055644/recommended/2297960/","label":"证据原文片段"}]},{"text":"首次启动耗时过长","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Booting up the game takes forever on a fresh boot.","url":"https://steamcommunity.com/id/XeroKimo/recommended/2297960/","label":"证据原文片段"}]},{"text":"整体性能表现较差","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Generally poor performance.","url":"https://steamcommunity.com/id/XeroKimo/recommended/2297960/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1212,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":11438,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":608,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":12677,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1428,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1428,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.0775017082433878,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":111,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.495495,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["敌人与可交互物难以从环境中辨认","技术/性能：Bug数量在抢先体验阶段也令人震惊","技术/性能：截图时可能导致游戏崩溃","首次启动耗时过长","当前平衡会带来挫败且逐渐无聊","技术/性能：整体性能表现较差"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_c03cf5f2aed71b82cf392bfaa0a8c3f15303073a.1920x1080.jpg?t=1737993492","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_c03cf5f2aed71b82cf392bfaa0a8c3f15303073a.1920x1080.jpg?t=1737993492","alt":"Relic Odyssey : Ruins Of Xantao 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_65453fd64e94e1be15d36348d8c10b02885ab190.1920x1080.jpg?t=1737993492","alt":"Relic Odyssey : Ruins Of Xantao 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_c20971390edef4885460335c00f1fe7466abe147.1920x1080.jpg?t=1737993492","alt":"Relic Odyssey : Ruins Of Xantao 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_e873dbaf6f6713929002f8a9f84bc0e44f36c68f.1920x1080.jpg?t=1737993492","alt":"Relic Odyssey : Ruins Of Xantao 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Relic Odyssey : Ruins Of Xantao",
+    "developers": [
+      "Honour Bound Game Studios Inc."
+    ],
+    "publishers": [
+      "Honour Bound Game Studios Inc."
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-01-27",
+    "tags": [
+      "抢先体验",
+      "支持手柄",
+      "轻度Rogue",
+      "三维画面",
+      "探索"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "动力手套既能扫描敌人与资源，也能推拉敌人并操纵遗迹环境。",
+      "dimension": "玩法",
+      "excerpt": "Scan for enemies and resources using your AVARITE POWERED GLOVES ! Have fun pushing and pulling enemies through lairs and ruins. Use this same ability to manipulate your environment!",
+      "url": "https://store.steampowered.com/app/2297960/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在巢穴与遗迹采集稀有资源，制作移动医疗站和钻机升级等科技。",
+      "dimension": "玩法",
+      "excerpt": "Collect rare resources throughout the lairs and ruins then use them to craft technology like mobile medical bays and upgrades for the drilling rig.",
+      "url": "https://store.steampowered.com/app/2297960/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次向星球深处钻探都会生成新的环境、敌人与宝藏组合。",
+      "dimension": "玩法",
+      "excerpt": "With our PROCEDURALLY GENERATED LEVELS , each descent is a new challenge, presenting new environments, enemies, and treasures.",
+      "url": "https://store.steampowered.com/app/2297960/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "敌人与可交互物难以从环境中辨认",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it was hard to distinguish enemies and interactable things from the environment.",
+          "url": "https://steamcommunity.com/id/XeroKimo/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "世界视觉效果惊艳",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Stunning world",
+          "url": "https://store.steampowered.com/curator/43939029-The-Game-Report/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "环境与敌人的视觉风格独特",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Unique visual style for the environments and enemies.",
+          "url": "https://steamcommunity.com/profiles/76561197987959729/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人动画令人喜欢",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "+ enemy animations",
+          "url": "https://steamcommunity.com/id/jeykin/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "地点视觉令人喜欢",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "+ the way the locations look",
+          "url": "https://steamcommunity.com/id/jeykin/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "环境与敌人的配色很好",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the colour choices on the environments and enemies are really nice.",
+          "url": "https://steamcommunity.com/profiles/76561199117942708/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器外观令人喜欢",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I like it: + the way the weapons look",
+          "url": "https://steamcommunity.com/id/jeykin/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Bug数量在抢先体验阶段也令人震惊",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The amount of bugs I encountered in this game is shocking even for early access.",
+          "url": "https://steamcommunity.com/profiles/76561199229055644/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "截图时可能导致游戏崩溃",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The game crashed when I took a screen shot",
+          "url": "https://steamcommunity.com/profiles/76561199229055644/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "首次启动耗时过长",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Booting up the game takes forever on a fresh boot.",
+          "url": "https://steamcommunity.com/id/XeroKimo/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体性能表现较差",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Generally poor performance.",
+          "url": "https://steamcommunity.com/id/XeroKimo/recommended/2297960/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1056,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 11506,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 602,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 11418,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1242,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1242,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.0732453631993675,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 88,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.642857,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "敌人与可交互物难以从环境中辨认",
+    "技术/性能：Bug数量在抢先体验阶段也令人震惊",
+    "技术/性能：截图时可能导致游戏崩溃",
+    "首次启动耗时过长",
+    "当前平衡会带来挫败且逐渐无聊",
+    "技术/性能：整体性能表现较差"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Relic Odyssey : Ruins Of Xantao位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_c03cf5f2aed71b82cf392bfaa0a8c3f15303073a.1920x1080.jpg?t=1737993492",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_c03cf5f2aed71b82cf392bfaa0a8c3f15303073a.1920x1080.jpg?t=1737993492",
+        "alt": "Relic Odyssey : Ruins Of Xantao 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_65453fd64e94e1be15d36348d8c10b02885ab190.1920x1080.jpg?t=1737993492",
+        "alt": "Relic Odyssey : Ruins Of Xantao 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_c20971390edef4885460335c00f1fe7466abe147.1920x1080.jpg?t=1737993492",
+        "alt": "Relic Odyssey : Ruins Of Xantao 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_e873dbaf6f6713929002f8a9f84bc0e44f36c68f.1920x1080.jpg?t=1737993492",
+        "alt": "Relic Odyssey : Ruins Of Xantao 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_a266107c8023749d2a5a16570d95931210c5c1a5.1920x1080.jpg?t=1737993492",
+        "alt": "Relic Odyssey : Ruins Of Xantao 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_7cc4904c55f7a4dbb85700978ead9ee62733a27c.1920x1080.jpg?t=1737993492",
+        "alt": "Relic Odyssey : Ruins Of Xantao 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_9f98e999cdcc98cf9039f721c317bf9fbd046379.1920x1080.jpg?t=1737993492",
+        "alt": "Relic Odyssey : Ruins Of Xantao 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297960/ss_a0b2c571db45f27ce2dacade010af2b290beee41.1920x1080.jpg?t=1737993492",
+        "alt": "Relic Odyssey : Ruins Of Xantao 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

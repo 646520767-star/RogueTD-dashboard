@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Slay the Minotaur","developers":["Cache of Bones"],"publishers":["Cache of Bones"],"release_status":"released","release_date":"2024-02-22","tags":["动作肉鸽","砍杀","地牢探索","轻度Rogue","街机"]},"hooks":[{"text":"武器与头盔各带独特属性和专属招式","dimension":"玩法","excerpt":"Find powerful weapons and helmets, each with a unique attribute and special move! Be it a devastating strike or casting powerful lightning bolts like Zeus!","url":"https://store.steampowered.com/app/2510850/","label":"证据原文片段"},{"text":"阿芙洛狄忒把前代失败转化为属性与新能力","dimension":"玩法","excerpt":"Although burned by the repeated failures of previous heroes, Aphrodite will help you slay the Minotaur by upgrading your agility and strength, or even granting you new abilities! With her help you can become an unstoppable Minotaur slayer!","url":"https://store.steampowered.com/app/2510850/","label":"证据原文片段"},{"text":"击杀牛头人后继续以评级与纪录时间追求效率","dimension":"玩法","excerpt":"Slaying the Minotaur is a battle in itself, but how quickly and efficiently you defeat the Minotaur is the real challenge for those who seek it. Earn ranks for each time you successfully slay the Minotaur and complete challenges to unlock cosmetics! Race against the clock and slay the Minotaur in record time!","url":"https://store.steampowered.com/app/2510850/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5539,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":17793,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":910,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":19592,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5686,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5686,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.465690886350987,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":216,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.12963,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、砍杀","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_6fe3b4e9e18ce2f2c3132b882531fdb2d20a0bac.1920x1080.jpg?t=1729099344","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_6fe3b4e9e18ce2f2c3132b882531fdb2d20a0bac.1920x1080.jpg?t=1729099344","alt":"Slay the Minotaur 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_94a75eafc0a277d6cef546f3067f053e6ba86990.1920x1080.jpg?t=1729099344","alt":"Slay the Minotaur 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_639f727e78005bf93570f666a67b0f1d5596b9dc.1920x1080.jpg?t=1729099344","alt":"Slay the Minotaur 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_657539a0253616d7b8bdb4aa73e3c7b53281975e.1920x1080.jpg?t=1729099344","alt":"Slay the Minotaur 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Slay the Minotaur",
+    "developers": [
+      "Cache of Bones"
+    ],
+    "publishers": [
+      "Cache of Bones"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-22",
+    "tags": [
+      "动作肉鸽",
+      "砍杀",
+      "地牢探索",
+      "轻度Rogue",
+      "街机"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "武器与头盔各带独特属性和专属招式",
+      "dimension": "玩法",
+      "excerpt": "Find powerful weapons and helmets, each with a unique attribute and special move! Be it a devastating strike or casting powerful lightning bolts like Zeus!",
+      "url": "https://store.steampowered.com/app/2510850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "阿芙洛狄忒把前代失败转化为属性与新能力",
+      "dimension": "玩法",
+      "excerpt": "Although burned by the repeated failures of previous heroes, Aphrodite will help you slay the Minotaur by upgrading your agility and strength, or even granting you new abilities! With her help you can become an unstoppable Minotaur slayer!",
+      "url": "https://store.steampowered.com/app/2510850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "击杀牛头人后继续以评级与纪录时间追求效率",
+      "dimension": "玩法",
+      "excerpt": "Slaying the Minotaur is a battle in itself, but how quickly and efficiently you defeat the Minotaur is the real challenge for those who seek it. Earn ranks for each time you successfully slay the Minotaur and complete challenges to unlock cosmetics! Race against the clock and slay the Minotaur in record time!",
+      "url": "https://store.steampowered.com/app/2510850/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6993,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 919,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 23411,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7178,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7178,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.53891046458277,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 210,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.201835,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Slay the Minotaur位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_6fe3b4e9e18ce2f2c3132b882531fdb2d20a0bac.1920x1080.jpg?t=1729099344",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_6fe3b4e9e18ce2f2c3132b882531fdb2d20a0bac.1920x1080.jpg?t=1729099344",
+        "alt": "Slay the Minotaur 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_94a75eafc0a277d6cef546f3067f053e6ba86990.1920x1080.jpg?t=1729099344",
+        "alt": "Slay the Minotaur 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_639f727e78005bf93570f666a67b0f1d5596b9dc.1920x1080.jpg?t=1729099344",
+        "alt": "Slay the Minotaur 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_657539a0253616d7b8bdb4aa73e3c7b53281975e.1920x1080.jpg?t=1729099344",
+        "alt": "Slay the Minotaur 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_6dd7c094b560299ae549f5f64a7dca4289b2f0fc.1920x1080.jpg?t=1729099344",
+        "alt": "Slay the Minotaur 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_9d13d4713b0316d4f40aa2233ed0e576253cd22d.1920x1080.jpg?t=1729099344",
+        "alt": "Slay the Minotaur 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_1cdd0012244671a5c63601d4ba0a965ee778398b.1920x1080.jpg?t=1729099344",
+        "alt": "Slay the Minotaur 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510850/ss_e62f2ddb2e54fdadd41e2d81aa5116034253877c.1920x1080.jpg?t=1729099344",
+        "alt": "Slay the Minotaur 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

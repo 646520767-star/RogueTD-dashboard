@@ -1,1 +1,178 @@
-{"identity":{"original_title":"UnderMine 2","developers":["Thorium"],"publishers":["Thorium"],"release_status":"early_access","release_date":"2025-07-22","tags":["抢先体验","动作肉鸽","轻度Rogue","合作","动作冒险"]},"hooks":[{"text":"数百道具近乎无限组合，魅惑敌人、循环药水甚至造出超大炸弹","dimension":"玩法","excerpt":"Hundreds of new and classic items return and present a nearly infinite set of build possibilities. Charm enemies and use their abilities to your advantage. Cycle your potions endlessly and push your stats over the limit. Or grab a Fuel Injector and meme your way to victory by nuking a boss with a bomb that is far too large.","url":"https://store.steampowered.com/app/1869780/","label":"证据原文片段"},{"text":"以Arcana替换基础能力，围绕陨石雨、追踪炸弹与骷髅军团重做流派","dimension":"玩法","excerpt":"Wield new, interactive relics called Arcana. Each adds new abilities to your character. Leave your regular, basic abilities at the door, and form unique builds around devastating meteor barrages, sentient homing bombs, skeletal army totems, or dozens of other wild options.","url":"https://store.steampowered.com/app/1869780/","label":"证据原文片段"},{"text":"双人本地合作贯穿完整流程，并解锁仅搭档组合才能形成的协同","dimension":"玩法","excerpt":"Grab a friend and play through the entirety of UnderMine 2 with two-player local co-op. Discover character and item synergies that only exist when playing with a partner, or have someone to hold you if things get overwhelming.","url":"https://store.steampowered.com/app/1869780/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":42407,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":231310,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":12055,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":612187,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":43726,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":43726,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":22.570588464683656,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":835,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":75,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":74.79092,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/c257f8499b86794d00d65b28d9191e03791a2f01/ss_c257f8499b86794d00d65b28d9191e03791a2f01.1920x1080.jpg?t=1781816052","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/c257f8499b86794d00d65b28d9191e03791a2f01/ss_c257f8499b86794d00d65b28d9191e03791a2f01.1920x1080.jpg?t=1781816052","alt":"UnderMine 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/3a6060d4c3621293005f2f394bcb72664e03012d/ss_3a6060d4c3621293005f2f394bcb72664e03012d.1920x1080.jpg?t=1781816052","alt":"UnderMine 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/85dc8855f8cc94e67ed4c0e2814a237848d37334/ss_85dc8855f8cc94e67ed4c0e2814a237848d37334.1920x1080.jpg?t=1781816052","alt":"UnderMine 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/ss_cc2e645045530cfa4a518fd00ba17852e25114af.1920x1080.jpg?t=1781816052","alt":"UnderMine 2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "UnderMine 2",
+    "developers": [
+      "Thorium"
+    ],
+    "publishers": [
+      "Thorium"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-07-22",
+    "tags": [
+      "抢先体验",
+      "动作肉鸽",
+      "轻度Rogue",
+      "合作",
+      "动作冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "数百道具近乎无限组合，魅惑敌人、循环药水甚至造出超大炸弹",
+      "dimension": "玩法",
+      "excerpt": "Hundreds of new and classic items return and present a nearly infinite set of build possibilities. Charm enemies and use their abilities to your advantage. Cycle your potions endlessly and push your stats over the limit. Or grab a Fuel Injector and meme your way to victory by nuking a boss with a bomb that is far too large.",
+      "url": "https://store.steampowered.com/app/1869780/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "以Arcana替换基础能力，围绕陨石雨、追踪炸弹与骷髅军团重做流派",
+      "dimension": "玩法",
+      "excerpt": "Wield new, interactive relics called Arcana. Each adds new abilities to your character. Leave your regular, basic abilities at the door, and form unique builds around devastating meteor barrages, sentient homing bombs, skeletal army totems, or dozens of other wild options.",
+      "url": "https://store.steampowered.com/app/1869780/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "双人本地合作贯穿完整流程，并解锁仅搭档组合才能形成的协同",
+      "dimension": "玩法",
+      "excerpt": "Grab a friend and play through the entirety of UnderMine 2 with two-player local co-op. Discover character and item synergies that only exist when playing with a partner, or have someone to hold you if things get overwhelming.",
+      "url": "https://store.steampowered.com/app/1869780/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 44674,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 231403,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 12102,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 651355,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 46043,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 46043,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 22.43402396576174,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 812,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 75,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.058824,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "UnderMine 2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/c257f8499b86794d00d65b28d9191e03791a2f01/ss_c257f8499b86794d00d65b28d9191e03791a2f01.1920x1080.jpg?t=1781816052",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/c257f8499b86794d00d65b28d9191e03791a2f01/ss_c257f8499b86794d00d65b28d9191e03791a2f01.1920x1080.jpg?t=1781816052",
+        "alt": "UnderMine 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/3a6060d4c3621293005f2f394bcb72664e03012d/ss_3a6060d4c3621293005f2f394bcb72664e03012d.1920x1080.jpg?t=1781816052",
+        "alt": "UnderMine 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/85dc8855f8cc94e67ed4c0e2814a237848d37334/ss_85dc8855f8cc94e67ed4c0e2814a237848d37334.1920x1080.jpg?t=1781816052",
+        "alt": "UnderMine 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/ss_cc2e645045530cfa4a518fd00ba17852e25114af.1920x1080.jpg?t=1781816052",
+        "alt": "UnderMine 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/ss_f83455212a1f92f1dc6b7a3d233963eda9038dbb.1920x1080.jpg?t=1781816052",
+        "alt": "UnderMine 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/22fd597195a0726bfb2a795b90060f05d264d65f/ss_22fd597195a0726bfb2a795b90060f05d264d65f.1920x1080.jpg?t=1781816052",
+        "alt": "UnderMine 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/feecbe8a13ed40849585d5b739f0ab0618281f13/ss_feecbe8a13ed40849585d5b739f0ab0618281f13.1920x1080.jpg?t=1781816052",
+        "alt": "UnderMine 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869780/4972b95bdabea028b6c4ea4771f68892dfe80b21/ss_4972b95bdabea028b6c4ea4771f68892dfe80b21.1920x1080.jpg?t=1781816052",
+        "alt": "UnderMine 2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

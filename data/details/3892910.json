@@ -1,1 +1,178 @@
-{"identity":{"original_title":"SkyShard: City Battler","developers":["ItsBen321"],"publishers":["RegisKillbin"],"release_status":"early_access","release_date":"2026-05-25","tags":["抢先体验","自走棋","玩家对战","玩家对环境","类Rogue"]},"hooks":[{"text":"资源规划与建筑站位会解锁城镇设施之间的连锁效果","dimension":"玩法","excerpt":"It will take a combination of careful resource management and planning to acquire the right buildings for your town, along with clever positioning of your buildings to unlock surprising and potent effects.","url":"https://store.steampowered.com/app/3892910/","label":"证据原文片段"},{"text":"异步PVP要求城市连续守住16轮，同时允许不限时调整布局","dimension":"玩法","excerpt":"As your town grows, other players will attack with their own skyshards, and you’ll need to survive 16 rounds to win. Sometimes they’ll surprise you with a humbling defeat, but that’s the best way to learn! With asynchronous PVP , there’s absolutely no time pressure. You can take as long as you like to arrange your city perfectly.","url":"https://store.steampowered.com/app/3892910/","label":"证据原文片段"},{"text":"170多种建筑分属不同派系，各自提供科技、爆炸魔法或生存能力","dimension":"玩法","excerpt":"You’ll encounter even more factions with 170+ unique buildings that have diverse and formidable effects to discover.","url":"https://store.steampowered.com/app/3892910/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1241,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8897,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":821,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":13694,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1241,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1241,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.747521878500786,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":83,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.590361,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、自走棋","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/aa514309085cfee7bafc26a4b3b3bc0318b46353/ss_aa514309085cfee7bafc26a4b3b3bc0318b46353.1920x1080.jpg?t=1779732012","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/aa514309085cfee7bafc26a4b3b3bc0318b46353/ss_aa514309085cfee7bafc26a4b3b3bc0318b46353.1920x1080.jpg?t=1779732012","alt":"SkyShard: City Battler 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/ecf9f52c2116d9899067abd7d6cdf21d8cd9677f/ss_ecf9f52c2116d9899067abd7d6cdf21d8cd9677f.1920x1080.jpg?t=1779732012","alt":"SkyShard: City Battler 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/9e99ae1a3d3e94e56d35637f1a198547804ea1a2/ss_9e99ae1a3d3e94e56d35637f1a198547804ea1a2.1920x1080.jpg?t=1779732012","alt":"SkyShard: City Battler 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/e04f34d773d025adb1eb5e22da22ace2d203106d/ss_e04f34d773d025adb1eb5e22da22ace2d203106d.1920x1080.jpg?t=1779732012","alt":"SkyShard: City Battler 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "SkyShard: City Battler",
+    "developers": [
+      "ItsBen321"
+    ],
+    "publishers": [
+      "RegisKillbin"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-05-25",
+    "tags": [
+      "抢先体验",
+      "自走棋",
+      "轻度Rogue",
+      "玩家对战",
+      "玩家对环境"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "资源规划与建筑站位会解锁城镇设施之间的连锁效果",
+      "dimension": "玩法",
+      "excerpt": "It will take a combination of careful resource management and planning to acquire the right buildings for your town, along with clever positioning of your buildings to unlock surprising and potent effects.",
+      "url": "https://store.steampowered.com/app/3892910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "异步PVP要求城市连续守住16轮，同时允许不限时调整布局",
+      "dimension": "玩法",
+      "excerpt": "As your town grows, other players will attack with their own skyshards, and you’ll need to survive 16 rounds to win. Sometimes they’ll surprise you with a humbling defeat, but that’s the best way to learn! With asynchronous PVP , there’s absolutely no time pressure. You can take as long as you like to arrange your city perfectly.",
+      "url": "https://store.steampowered.com/app/3892910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "170多种建筑分属不同派系，各自提供科技、爆炸魔法或生存能力",
+      "dimension": "玩法",
+      "excerpt": "You’ll encounter even more factions with 170+ unique buildings that have diverse and formidable effects to discover.",
+      "url": "https://store.steampowered.com/app/3892910/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1602,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 8950,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 838,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 18647,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1602,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1602,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 16.027468039172646,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 97,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.938144,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "SkyShard: City Battler位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/aa514309085cfee7bafc26a4b3b3bc0318b46353/ss_aa514309085cfee7bafc26a4b3b3bc0318b46353.1920x1080.jpg?t=1779732012",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/aa514309085cfee7bafc26a4b3b3bc0318b46353/ss_aa514309085cfee7bafc26a4b3b3bc0318b46353.1920x1080.jpg?t=1779732012",
+        "alt": "SkyShard: City Battler 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/ecf9f52c2116d9899067abd7d6cdf21d8cd9677f/ss_ecf9f52c2116d9899067abd7d6cdf21d8cd9677f.1920x1080.jpg?t=1779732012",
+        "alt": "SkyShard: City Battler 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/9e99ae1a3d3e94e56d35637f1a198547804ea1a2/ss_9e99ae1a3d3e94e56d35637f1a198547804ea1a2.1920x1080.jpg?t=1779732012",
+        "alt": "SkyShard: City Battler 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/e04f34d773d025adb1eb5e22da22ace2d203106d/ss_e04f34d773d025adb1eb5e22da22ace2d203106d.1920x1080.jpg?t=1779732012",
+        "alt": "SkyShard: City Battler 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/358179d0838fce8b0db73bd95b104e5116a1fc9f/ss_358179d0838fce8b0db73bd95b104e5116a1fc9f.1920x1080.jpg?t=1779732012",
+        "alt": "SkyShard: City Battler 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/5bcb4edbff953b245dbbdc4c48d7a1ae2fa46e11/ss_5bcb4edbff953b245dbbdc4c48d7a1ae2fa46e11.1920x1080.jpg?t=1779732012",
+        "alt": "SkyShard: City Battler 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/8a030e378297e13dd3a7383fe63d03c9f74986b3/ss_8a030e378297e13dd3a7383fe63d03c9f74986b3.1920x1080.jpg?t=1779732012",
+        "alt": "SkyShard: City Battler 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892910/ab2b4ce19db3cabe6d2d4a828f6ca475f08b11f1/ss_ab2b4ce19db3cabe6d2d4a828f6ca475f08b11f1.1920x1080.jpg?t=1779732012",
+        "alt": "SkyShard: City Battler 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,304 @@
-{"identity":{"original_title":"Anomaly Collapse","developers":["RocketPunch Games"],"publishers":["RocketPunch Games"],"release_status":"released","release_date":"2024-04-11","tags":["回合制战术","回合制策略","回合制战斗","轻度Rogue","策略"]},"hooks":[{"text":"一维战场压缩移动空间，以侧翼、背刺和围困争夺位置优势","dimension":"玩法","excerpt":"Anomaly Collapse thrusts you into an innovative one-dimensional battlefield grid, where movements are minimized, but strategy is maximized. Plan your moves and outmaneuver your foes by mastering the art of flanking, backstabbing, and cornering them in thrilling face-offs!","url":"https://store.steampowered.com/app/2082410/","label":"证据原文片段"},{"text":"为角色装备主动或被动“异常物”，在关键回合混搭效果逆转战局","dimension":"玩法","excerpt":"Equip your furry warriors with \"abnormalities\" – artifacts that possess active or passive effects. Delve into a vast collection of these power-ups scattered throughout the game, each with unique abilities. Leverage the power of these abnormalities at critical moments to turn the tide of battle, and mix and match them to craft the ultimate battle strategy!","url":"https://store.steampowered.com/app/2082410/","label":"证据原文片段"},{"text":"三个队伍槽位组合不同职业与特质，并在技能协同中解锁成员背景","dimension":"玩法","excerpt":"Craft a team of adorable yet formidable furry fighters, each boasting distinct classes and powerful traits. With three slots available, your choices will make or break your strategy. Devise innovative ways to synergize their skills, strategize combinations, all while unlocking their intriguing backstories.","url":"https://store.steampowered.com/app/2082410/","label":"证据原文片段"}],"opinions":[{"text":"可爱美学表现出色","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"a cute aesthetic. It looks great","url":"https://store.steampowered.com/curator/31828950-GoldGrabbers/","label":"证据原文片段"}]},{"text":"角色视觉设计各具特色。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Each of the characters seemed to possess unique bios, play styles, and visual designs","url":"https://steamcommunity.com/profiles/76561199222670473/recommended/2082410/","label":"证据原文片段"}]},{"text":"东风、西风与黑洞等随机因素令人烦躁。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"如果没有东风、西风、死了原地僵挺一回合、重力黑洞就更好了","url":"https://steamcommunity.com/id/callofAS/recommended/2082410/","label":"证据原文片段"}]},{"text":"特殊敌人和增援会无限持续生成。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it won't stop, they'll keep spawning","url":"https://steamcommunity.com/id/Valencecrux/recommended/2082410/","label":"证据原文片段"}]},{"text":"过度强调局外成长使前几局注定痛苦。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"作为一款肉鸽却过于强调局外成长，导致前期玩的几把注定是折磨","url":"https://steamcommunity.com/profiles/76561199526250558/recommended/2082410/","label":"证据原文片段"}]},{"text":"多数角色只有一个真正有效的构筑。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"everyone pretty much has 1 \"real\" build","url":"https://steamcommunity.com/profiles/76561198000706716/recommended/2082410/","label":"证据原文片段"}]},{"text":"随机队友机制会迫使玩家拿取不适配角色。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"队员选项你不是三选一 你不拿不加战力 拿了和队伍不适配","url":"https://steamcommunity.com/profiles/76561198324884833/recommended/2082410/","label":"证据原文片段"}]},{"text":"后期敌人、环境与增援叠加导致场地拥挤。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a lot of enemies in the later zones, environmental hazards, enemies that split into more enemies and a crammed area","url":"https://steamcommunity.com/id/Valencecrux/recommended/2082410/","label":"证据原文片段"}]},{"text":"随机遗物强度跨度过大。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"随机遗物跨度太大","url":"https://steamcommunity.com/profiles/76561198324884833/recommended/2082410/","label":"证据原文片段"}]},{"text":"伤害预测表现很差","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the game's damage projections suck","url":"https://steamcommunity.com/profiles/76561198000706716/recommended/2082410/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":23456,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":83882,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6374,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":388662,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":25441,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":25441,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.168769385765739,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":637,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.714286,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["东风、西风与黑洞等随机因素令人烦躁。","特殊敌人和增援会无限持续生成。","过度强调局外成长使前几局注定痛苦。","多数角色只有一个真正有效的构筑。","随机队友机制会迫使玩家拿取不适配角色。","后期敌人、环境与增援叠加导致场地拥挤。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_8464913afa1459c81d4fc5feabd802b759bf478d.1920x1080.jpg?t=1752682410","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_8464913afa1459c81d4fc5feabd802b759bf478d.1920x1080.jpg?t=1752682410","alt":"异界失控 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_09f8d547d7bc13db4c3c42ebf10382ecb3da44ac.1920x1080.jpg?t=1752682410","alt":"异界失控 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_8b4b9c39a3668d17b4fe39dc5c6c9c089edd9ed6.1920x1080.jpg?t=1752682410","alt":"异界失控 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_f388cc2272be503d78ebe955e13b5f9fa7b035fb.1920x1080.jpg?t=1752682410","alt":"异界失控 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Anomaly Collapse",
+    "developers": [
+      "RocketPunch Games"
+    ],
+    "publishers": [
+      "RocketPunch Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-11",
+    "tags": [
+      "回合制战术",
+      "回合制策略",
+      "类Rogue",
+      "回合制战斗",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "一维战场压缩移动空间，以侧翼、背刺和围困争夺位置优势",
+      "dimension": "玩法",
+      "excerpt": "Anomaly Collapse thrusts you into an innovative one-dimensional battlefield grid, where movements are minimized, but strategy is maximized. Plan your moves and outmaneuver your foes by mastering the art of flanking, backstabbing, and cornering them in thrilling face-offs!",
+      "url": "https://store.steampowered.com/app/2082410/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "为角色装备主动或被动“异常物”，在关键回合混搭效果逆转战局",
+      "dimension": "玩法",
+      "excerpt": "Equip your furry warriors with \"abnormalities\" – artifacts that possess active or passive effects. Delve into a vast collection of these power-ups scattered throughout the game, each with unique abilities. Leverage the power of these abnormalities at critical moments to turn the tide of battle, and mix and match them to craft the ultimate battle strategy!",
+      "url": "https://store.steampowered.com/app/2082410/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三个队伍槽位组合不同职业与特质，并在技能协同中解锁成员背景",
+      "dimension": "玩法",
+      "excerpt": "Craft a team of adorable yet formidable furry fighters, each boasting distinct classes and powerful traits. With three slots available, your choices will make or break your strategy. Devise innovative ways to synergize their skills, strategize combinations, all while unlocking their intriguing backstories.",
+      "url": "https://store.steampowered.com/app/2082410/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "可爱美学表现出色",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a cute aesthetic. It looks great",
+          "url": "https://store.steampowered.com/curator/31828950-GoldGrabbers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色视觉设计各具特色。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Each of the characters seemed to possess unique bios, play styles, and visual designs",
+          "url": "https://steamcommunity.com/profiles/76561199222670473/recommended/2082410/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "东风、西风与黑洞等随机因素令人烦躁。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "如果没有东风、西风、死了原地僵挺一回合、重力黑洞就更好了",
+          "url": "https://steamcommunity.com/id/callofAS/recommended/2082410/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "特殊敌人和增援会无限持续生成。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it won't stop, they'll keep spawning",
+          "url": "https://steamcommunity.com/id/Valencecrux/recommended/2082410/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "过度强调局外成长使前几局注定痛苦。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "作为一款肉鸽却过于强调局外成长，导致前期玩的几把注定是折磨",
+          "url": "https://steamcommunity.com/profiles/76561199526250558/recommended/2082410/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多数角色只有一个真正有效的构筑。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "everyone pretty much has 1 \"real\" build",
+          "url": "https://steamcommunity.com/profiles/76561198000706716/recommended/2082410/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "随机队友机制会迫使玩家拿取不适配角色。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "队员选项你不是三选一 你不拿不加战力 拿了和队伍不适配",
+          "url": "https://steamcommunity.com/profiles/76561198324884833/recommended/2082410/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期敌人、环境与增援叠加导致场地拥挤。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a lot of enemies in the later zones, environmental hazards, enemies that split into more enemies and a crammed area",
+          "url": "https://steamcommunity.com/id/Valencecrux/recommended/2082410/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "随机遗物强度跨度过大。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "随机遗物跨度太大",
+          "url": "https://steamcommunity.com/profiles/76561198324884833/recommended/2082410/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "伤害预测表现很差",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the game's damage projections suck",
+          "url": "https://steamcommunity.com/profiles/76561198000706716/recommended/2082410/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 23913,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 84379,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6373,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 390756,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 25934,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 25934,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.034385007329854,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 567,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.736677,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "东风、西风与黑洞等随机因素令人烦躁。",
+    "特殊敌人和增援会无限持续生成。",
+    "过度强调局外成长使前几局注定痛苦。",
+    "多数角色只有一个真正有效的构筑。",
+    "随机队友机制会迫使玩家拿取不适配角色。",
+    "后期敌人、环境与增援叠加导致场地拥挤。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "异界失控位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_8464913afa1459c81d4fc5feabd802b759bf478d.1920x1080.jpg?t=1752682410",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_8464913afa1459c81d4fc5feabd802b759bf478d.1920x1080.jpg?t=1752682410",
+        "alt": "异界失控 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_09f8d547d7bc13db4c3c42ebf10382ecb3da44ac.1920x1080.jpg?t=1752682410",
+        "alt": "异界失控 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_8b4b9c39a3668d17b4fe39dc5c6c9c089edd9ed6.1920x1080.jpg?t=1752682410",
+        "alt": "异界失控 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_f388cc2272be503d78ebe955e13b5f9fa7b035fb.1920x1080.jpg?t=1752682410",
+        "alt": "异界失控 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082410/ss_2e3ced0d0888a7af9ffdf49d153952b93d26dab5.1920x1080.jpg?t=1752682410",
+        "alt": "异界失控 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Into The Grid","developers":["Flatline Studios"],"publishers":["Flatline Studios","Gamersky Games"],"release_status":"early_access","release_date":"2025-11-10","tags":["抢先体验","肉鸽卡组构筑","地牢探索","卡组构筑","轻度Rogue"]},"hooks":[{"text":"每张牌既发动效果又生成VIM资源，让坏手牌也能转化为指令爆发","dimension":"玩法","excerpt":"We designed a unique dual-resource system where each card is played for its effect while simultaneously generating Virtual Memory (VIM), which allows the player to take advantage of even the most suboptimal hands. Use your VIM to activate your Commands during battle and obliterate your enemies’ defenses!","url":"https://store.steampowered.com/app/2576200/","label":"证据原文片段"},{"text":"地图探索不断在战斗或撤退、即时兑现或延迟收益之间做风险决策","dimension":"玩法","excerpt":"Fight or flee? Visit this area now or later? Cash in a reward immediately, or hold on to it for an even bigger payoff? The choice is yours, as well as the punishment and the profit.","url":"https://store.steampowered.com/app/2576200/","label":"证据原文片段"},{"text":"用硬件模组与特长定制黑客Console，使其贴合个人牌组和操作风格","dimension":"玩法","excerpt":"As a hacker, your Console is an extension of your mind and body. Customize it to match your playstyle by unlocking hardware mods and perks. The more you hone your skills, the more options you’ll discover!","url":"https://store.steampowered.com/app/2576200/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5483,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":80070,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4678,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":65969,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5998,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5998,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.377753078349773,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":212,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.90566,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、肉鸽卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/2d29036ba51fe13dc0e19d6c00cd38b0dbb17187/ss_2d29036ba51fe13dc0e19d6c00cd38b0dbb17187.1920x1080.jpg?t=1784276002","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/2d29036ba51fe13dc0e19d6c00cd38b0dbb17187/ss_2d29036ba51fe13dc0e19d6c00cd38b0dbb17187.1920x1080.jpg?t=1784276002","alt":"深入矩阵 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/45cd8cf24d27c3c5b7573a64240f6ca6ede65a0a/ss_45cd8cf24d27c3c5b7573a64240f6ca6ede65a0a.1920x1080.jpg?t=1784276002","alt":"深入矩阵 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/75476ace97eee6d2e1f4b55d8d180b1e640f2225/ss_75476ace97eee6d2e1f4b55d8d180b1e640f2225.1920x1080.jpg?t=1784276002","alt":"深入矩阵 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/eb104b3c94e632bc081450312a4a953a2bcef755/ss_eb104b3c94e632bc081450312a4a953a2bcef755.1920x1080.jpg?t=1784276002","alt":"深入矩阵 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Into The Grid",
+    "developers": [
+      "Flatline Studios"
+    ],
+    "publishers": [
+      "Flatline Studios",
+      "Gamersky Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-11-10",
+    "tags": [
+      "抢先体验",
+      "肉鸽卡组构筑",
+      "地牢探索",
+      "卡组构筑",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每张牌既发动效果又生成VIM资源，让坏手牌也能转化为指令爆发",
+      "dimension": "玩法",
+      "excerpt": "We designed a unique dual-resource system where each card is played for its effect while simultaneously generating Virtual Memory (VIM), which allows the player to take advantage of even the most suboptimal hands. Use your VIM to activate your Commands during battle and obliterate your enemies’ defenses!",
+      "url": "https://store.steampowered.com/app/2576200/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "地图探索不断在战斗或撤退、即时兑现或延迟收益之间做风险决策",
+      "dimension": "玩法",
+      "excerpt": "Fight or flee? Visit this area now or later? Cash in a reward immediately, or hold on to it for an even bigger payoff? The choice is yours, as well as the punishment and the profit.",
+      "url": "https://store.steampowered.com/app/2576200/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用硬件模组与特长定制黑客Console，使其贴合个人牌组和操作风格",
+      "dimension": "玩法",
+      "excerpt": "As a hacker, your Console is an extension of your mind and body. Customize it to match your playstyle by unlocking hardware mods and perks. The more you hone your skills, the more options you’ll discover!",
+      "url": "https://store.steampowered.com/app/2576200/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6584,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 84380,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4763,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 77982,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7180,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7180,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.256463914368947,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 193,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "深入矩阵位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/2d29036ba51fe13dc0e19d6c00cd38b0dbb17187/ss_2d29036ba51fe13dc0e19d6c00cd38b0dbb17187.1920x1080.jpg?t=1784276002",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/2d29036ba51fe13dc0e19d6c00cd38b0dbb17187/ss_2d29036ba51fe13dc0e19d6c00cd38b0dbb17187.1920x1080.jpg?t=1786356396",
+        "alt": "深入矩阵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/45cd8cf24d27c3c5b7573a64240f6ca6ede65a0a/ss_45cd8cf24d27c3c5b7573a64240f6ca6ede65a0a.1920x1080.jpg?t=1786356396",
+        "alt": "深入矩阵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/75476ace97eee6d2e1f4b55d8d180b1e640f2225/ss_75476ace97eee6d2e1f4b55d8d180b1e640f2225.1920x1080.jpg?t=1786356396",
+        "alt": "深入矩阵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/eb104b3c94e632bc081450312a4a953a2bcef755/ss_eb104b3c94e632bc081450312a4a953a2bcef755.1920x1080.jpg?t=1786356396",
+        "alt": "深入矩阵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/33c8786df66da0ccc96fe29d8c4414b46c116189/ss_33c8786df66da0ccc96fe29d8c4414b46c116189.1920x1080.jpg?t=1786356396",
+        "alt": "深入矩阵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/123bfdd4b88d396863a4448209065fdd816e8fc3/ss_123bfdd4b88d396863a4448209065fdd816e8fc3.1920x1080.jpg?t=1786356396",
+        "alt": "深入矩阵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/3d62cf0365afbc952eebeffdd26159efc706efd7/ss_3d62cf0365afbc952eebeffdd26159efc706efd7.1920x1080.jpg?t=1786356396",
+        "alt": "深入矩阵 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2576200/56d6cfe0eba8dd828a5c4245cad9a39ecd8f3e4a/ss_56d6cfe0eba8dd828a5c4245cad9a39ecd8f3e4a.1920x1080.jpg?t=1786356396",
+        "alt": "深入矩阵 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

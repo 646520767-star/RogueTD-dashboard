@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Hive Jump 2: Survivors","developers":["Graphite Lab","Joystick","Sonamu Games"],"publishers":["Midwest Games"],"release_status":"released","release_date":"2024-09-10","tags":["动作肉鸽","探索","弹幕射击","俯视角射击","轻度Rogue"]},"hooks":[{"text":"喷气背包同时承担闪避、越障与对地伤害，直接改变割草走位方式","dimension":"玩法","excerpt":"Jumping Jetpacks - Utilize your jetpack to dodge enemies and traverse the environment and of course damage enemies!","url":"https://store.steampowered.com/app/2545740/","label":"证据原文片段"},{"text":"自动瞄准与手动瞄准并存，可在专注走位和主动控场之间切换","dimension":"玩法","excerpt":"Auto and Manual Aiming - Auto-fire at enemies to focus on movement, or take aim to better control the chaos.","url":"https://store.steampowered.com/app/2545740/","label":"证据原文片段"},{"text":"永久能力可让角色每次开局自带优势，形成清晰的跨局强化","dimension":"玩法","excerpt":"Permanent Upgrades - Unlock permanent abilities to give your Jumper an advantage from the start of every run.","url":"https://store.steampowered.com/app/2545740/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3351,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":6355,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":717,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":15265,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3620,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3620,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.653128216245574,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":113,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.185841,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_458d7922043379af4f2c57cfa2f98c9d8e28d93c.1920x1080.jpg?t=1748024878","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_458d7922043379af4f2c57cfa2f98c9d8e28d93c.1920x1080.jpg?t=1748024878","alt":"Hive Jump 2: Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_490210329fb5601814e8745b8e08c5373026c38b.1920x1080.jpg?t=1748024878","alt":"Hive Jump 2: Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_55e4243d13d343d34b2a809bfff0c937214dc090.1920x1080.jpg?t=1748024878","alt":"Hive Jump 2: Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_b2823967c47a729a2848add85c7ddbace98c1862.1920x1080.jpg?t=1748024878","alt":"Hive Jump 2: Survivors 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Hive Jump 2: Survivors",
+    "developers": [
+      "Graphite Lab",
+      "Joystick",
+      "Sonamu Games"
+    ],
+    "publishers": [
+      "Midwest Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-10",
+    "tags": [
+      "动作肉鸽",
+      "探索",
+      "弹幕射击",
+      "俯视角射击",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "喷气背包同时承担闪避、越障与对地伤害，直接改变割草走位方式",
+      "dimension": "玩法",
+      "excerpt": "Jumping Jetpacks - Utilize your jetpack to dodge enemies and traverse the environment and of course damage enemies!",
+      "url": "https://store.steampowered.com/app/2545740/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "自动瞄准与手动瞄准并存，可在专注走位和主动控场之间切换",
+      "dimension": "玩法",
+      "excerpt": "Auto and Manual Aiming - Auto-fire at enemies to focus on movement, or take aim to better control the chaos.",
+      "url": "https://store.steampowered.com/app/2545740/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "永久能力可让角色每次开局自带优势，形成清晰的跨局强化",
+      "dimension": "玩法",
+      "excerpt": "Permanent Upgrades - Unlock permanent abilities to give your Jumper an advantage from the start of every run.",
+      "url": "https://store.steampowered.com/app/2545740/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3937,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 6392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 717,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 17970,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4253,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4253,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.655418306464758,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 101,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.185841,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Hive Jump 2: Survivors位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_458d7922043379af4f2c57cfa2f98c9d8e28d93c.1920x1080.jpg?t=1748024878",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_458d7922043379af4f2c57cfa2f98c9d8e28d93c.1920x1080.jpg?t=1748024878",
+        "alt": "Hive Jump 2: Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_490210329fb5601814e8745b8e08c5373026c38b.1920x1080.jpg?t=1748024878",
+        "alt": "Hive Jump 2: Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_55e4243d13d343d34b2a809bfff0c937214dc090.1920x1080.jpg?t=1748024878",
+        "alt": "Hive Jump 2: Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_b2823967c47a729a2848add85c7ddbace98c1862.1920x1080.jpg?t=1748024878",
+        "alt": "Hive Jump 2: Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_e4b90251dce3088f16d3c6f2e4e97565bf55f7df.1920x1080.jpg?t=1748024878",
+        "alt": "Hive Jump 2: Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_d5efcd266f946412dcbde7acfc88cc62d3771c7e.1920x1080.jpg?t=1748024878",
+        "alt": "Hive Jump 2: Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_ccf06377c0e69fec059d2299edc00997ede16765.1920x1080.jpg?t=1748024878",
+        "alt": "Hive Jump 2: Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545740/ss_5dc3acdf2b81b1220d971a96511c76744736eab3.1920x1080.jpg?t=1748024878",
+        "alt": "Hive Jump 2: Survivors 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

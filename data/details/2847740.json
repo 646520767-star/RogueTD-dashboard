@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Super Drift Blade","developers":["Liujiajun"],"publishers":["Liujiajun"],"release_status":"released","release_date":"2025-08-12","tags":["探索","冒险","轻度Rogue","剧情丰富","二维画面"]},"hooks":[{"text":"绝大多数操作被剥夺，只能滑动鼠标行动，而点击反会触发意外危险","dimension":"玩法","excerpt":"You have been deprived of most of your control methods. What happened? Try to understand the world when you can only slide the mouse. But if you click the mouse, unexpected and dangerous things will happen.","url":"https://store.steampowered.com/app/2847740/","label":"证据原文片段"},{"text":"世界里藏有待破解的隐秘机关，宝箱小道具可作为解谜辅助","dimension":"玩法","excerpt":"There are various hidden mechanisms around the world waiting for you to crack. You can get different small props in the treasure chest, let them help you.","url":"https://store.steampowered.com/app/2847740/","label":"证据原文片段"},{"text":"每个限时循环都要滑鼠斩怪、解开知识锁定的谜题并寻找隐藏路线，尽量深入世界真相","dimension":"玩法","excerpt":"In each time loop, slide the mouse to kill monsters, crack the puzzles locked by knowledge, and explore the hidden paths! Go deeper in a limited time and discover the truth of the world.","url":"https://store.steampowered.com/app/2847740/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5524,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":30503,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":702,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":30745,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6147,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6147,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.497182163586053,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":394,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.454545,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"探索、冒险","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/909d97f405fd5d4ecea1e4d84de9f7779fa44c80/ss_909d97f405fd5d4ecea1e4d84de9f7779fa44c80.1920x1080.jpg?t=1776946653","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/909d97f405fd5d4ecea1e4d84de9f7779fa44c80/ss_909d97f405fd5d4ecea1e4d84de9f7779fa44c80.1920x1080.jpg?t=1776946653","alt":"超级滑刃战士 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/cdfbf3629c37e64034cd05e73760e701e9c77799/ss_cdfbf3629c37e64034cd05e73760e701e9c77799.1920x1080.jpg?t=1776946653","alt":"超级滑刃战士 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/ss_ce94310d49bf16c3a089c916f85526e8c65a96ff.1920x1080.jpg?t=1776946653","alt":"超级滑刃战士 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/ss_91f05d81d9a4333740f648e7018d2419fc8487a9.1920x1080.jpg?t=1776946653","alt":"超级滑刃战士 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Super Drift Blade",
+    "developers": [
+      "Liujiajun"
+    ],
+    "publishers": [
+      "Liujiajun"
+    ],
+    "release_status": "released",
+    "release_date": "2025-08-12",
+    "tags": [
+      "探索",
+      "冒险",
+      "冒险",
+      "轻度Rogue",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "绝大多数操作被剥夺，只能滑动鼠标行动，而点击反会触发意外危险",
+      "dimension": "玩法",
+      "excerpt": "You have been deprived of most of your control methods. What happened? Try to understand the world when you can only slide the mouse. But if you click the mouse, unexpected and dangerous things will happen.",
+      "url": "https://store.steampowered.com/app/2847740/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "世界里藏有待破解的隐秘机关，宝箱小道具可作为解谜辅助",
+      "dimension": "玩法",
+      "excerpt": "There are various hidden mechanisms around the world waiting for you to crack. You can get different small props in the treasure chest, let them help you.",
+      "url": "https://store.steampowered.com/app/2847740/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每个限时循环都要滑鼠斩怪、解开知识锁定的谜题并寻找隐藏路线，尽量深入世界真相",
+      "dimension": "玩法",
+      "excerpt": "In each time loop, slide the mouse to kill monsters, crack the puzzles locked by knowledge, and explore the hidden paths! Go deeper in a limited time and discover the truth of the world.",
+      "url": "https://store.steampowered.com/app/2847740/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6255,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 30684,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 706,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 33975,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 6946,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 6946,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.542216741275305,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 344,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.511222,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "超级滑刃战士位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/909d97f405fd5d4ecea1e4d84de9f7779fa44c80/ss_909d97f405fd5d4ecea1e4d84de9f7779fa44c80.1920x1080.jpg?t=1776946653",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/909d97f405fd5d4ecea1e4d84de9f7779fa44c80/ss_909d97f405fd5d4ecea1e4d84de9f7779fa44c80.1920x1080.jpg?t=1776946653",
+        "alt": "超级滑刃战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/cdfbf3629c37e64034cd05e73760e701e9c77799/ss_cdfbf3629c37e64034cd05e73760e701e9c77799.1920x1080.jpg?t=1776946653",
+        "alt": "超级滑刃战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/ss_ce94310d49bf16c3a089c916f85526e8c65a96ff.1920x1080.jpg?t=1776946653",
+        "alt": "超级滑刃战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/ss_91f05d81d9a4333740f648e7018d2419fc8487a9.1920x1080.jpg?t=1776946653",
+        "alt": "超级滑刃战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/03ae899312c60d689a74eef4edc443b643f1437c/ss_03ae899312c60d689a74eef4edc443b643f1437c.1920x1080.jpg?t=1776946653",
+        "alt": "超级滑刃战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/7e352eba395f15cdddf8fc412d577af5c6ca2567/ss_7e352eba395f15cdddf8fc412d577af5c6ca2567.1920x1080.jpg?t=1776946653",
+        "alt": "超级滑刃战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/cc505c1004e9321dbd224199a30efb5fdb10e14e/ss_cc505c1004e9321dbd224199a30efb5fdb10e14e.1920x1080.jpg?t=1776946653",
+        "alt": "超级滑刃战士 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847740/976be4defce9cfc50d4422332c701f054dacbdc2/ss_976be4defce9cfc50d4422332c701f054dacbdc2.1920x1080.jpg?t=1776946653",
+        "alt": "超级滑刃战士 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

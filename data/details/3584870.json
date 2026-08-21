@@ -1,1 +1,309 @@
-{"identity":{"original_title":"Lucha Chess","developers":["Jorge T.V."],"publishers":["Jorge T.V."],"release_status":"early_access","release_date":"2026-06-01","tags":["抢先体验","策略","自走棋","轻度Rogue","战术"]},"hooks":[{"text":"把墨西哥摔角包装成复古卡通战术对战，重点从按键连打转向轻松但深入的阵容策略。","dimension":"题材","excerpt":"Lucha Chess is a strategy roguelike with the flair of Mexican wrestling and the charm of retro cartoons. Instead of button-mashing action, you’ll dive into chill but deep tactical battles, building the ultimate team of eccentric heroes.","url":"https://store.steampowered.com/app/3584870/","label":"证据原文片段"},{"text":"英雄、装备与遗物可大量交叉组合，用于寻找能打破常规平衡的阵容协同。","dimension":"玩法","excerpt":"Experiment with countless combinations of heroes items, and relics to unleash broken synergies.","url":"https://store.steampowered.com/app/3584870/","label":"证据原文片段"},{"text":"每场比赛都要在进攻爆发与防守拖延间权衡，并决定突破前排还是直接打击后排。","dimension":"玩法","excerpt":"Will you find the perfect balance between offensive power and defensive stall? Will you smash through the enemy frontline or strike straight at their backline? The choice is yours every match!","url":"https://store.steampowered.com/app/3584870/","label":"证据原文片段"}],"opinions":[{"text":"敌人强度会突然过高，像是无法避免的失败。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"about once a run, the enemy is way way overtuned. You can be wiping the floor for 10 battles straight, and suddenly, you get completely mopped in 8 seconds. Feels like it's just an auto-loss","url":"https://steamcommunity.com/id/fpyre/recommended/3584870/","label":"证据原文片段"}]},{"text":"对局可能卡死，重新进入后仍无法继续。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游戏直接卡主，无法继续，退出再进更是只能回到原对局，但是空白画面啥也没有，点啥都没有用，只能退出，再重进也是一样","url":"https://steamcommunity.com/profiles/76561198070956983/recommended/3584870/","label":"证据原文片段"}]},{"text":"中文机器翻译质量很差。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"中文机翻有点离谱","url":"https://steamcommunity.com/profiles/76561198132794091/recommended/3584870/","label":"证据原文片段"}]},{"text":"刷牌随机性过强，连续刷新也可能拿不到目标角色。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"有时候你刷新四五次商店都不会出一个人物 随机性太大","url":"https://steamcommunity.com/profiles/76561198894976169/recommended/3584870/","label":"证据原文片段"}]},{"text":"敌人种类和挑战不足，削弱重复游玩的动力。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"there isn't enough enemy variety or challenge to justify replaying","url":"https://steamcommunity.com/profiles/76561198019151196/recommended/3584870/","label":"证据原文片段"}]},{"text":"霸王龙技能曾无法升级并导致死档重开。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"霸王龙好像有bug，技能点不了升级，然后永远卡住只能重开，拿了就死档。","url":"https://steamcommunity.com/profiles/76561198274084755/recommended/3584870/","label":"证据原文片段"}]},{"text":"游玩一段时间后会频繁卡顿。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"优化很差，玩一段时间后就会时不时卡顿。","url":"https://steamcommunity.com/profiles/76561198274084755/recommended/3584870/","label":"证据原文片段"}]},{"text":"战术对战节奏有活力，并带来新鲜感。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Неожиданно бодро и тактически свежо.","url":"https://store.steampowered.com/curator/32826090-Gaming-Grandma/","label":"证据原文片段"}]},{"text":"围绕羁绊组建协同队伍是最有趣的部分。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"that's the most fun part, building a synergistic team","url":"https://steamcommunity.com/id/fpyre/recommended/3584870/","label":"证据原文片段"}]},{"text":"装备升级后的数值反馈容易带来爽感。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"装备数值感觉很大方，升级后比较容易爽。","url":"https://steamcommunity.com/profiles/76561198274084755/recommended/3584870/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1813,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":380,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":13267,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1866,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1866,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.402512066580484,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":49,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["敌人强度会突然过高，像是无法避免的失败。","技术/性能：对局可能卡死，重新进入后仍无法继续。","中文机器翻译质量很差。","刷牌随机性过强，连续刷新也可能拿不到目标角色。","敌人种类和挑战不足，削弱重复游玩的动力。","技术/性能：霸王龙技能曾无法升级并导致死档重开。","技术/性能：游玩一段时间后会频繁卡顿。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/4c7d9ce618fccd9e61fadeb1c753178bc20717d5/ss_4c7d9ce618fccd9e61fadeb1c753178bc20717d5.1920x1080.jpg?t=1781551395","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/4c7d9ce618fccd9e61fadeb1c753178bc20717d5/ss_4c7d9ce618fccd9e61fadeb1c753178bc20717d5.1920x1080.jpg?t=1781551395","alt":"Lucha Chess 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/c0a78560363f0d0403dc463b1d1eb1fa62d373ce/ss_c0a78560363f0d0403dc463b1d1eb1fa62d373ce.1920x1080.jpg?t=1781551395","alt":"Lucha Chess 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/aeacd93c8e947e8360e3485ffc1f4dc249b6efb9/ss_aeacd93c8e947e8360e3485ffc1f4dc249b6efb9.1920x1080.jpg?t=1781551395","alt":"Lucha Chess 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/74c6fb2a257ad32c8077514dc2b23e923cfa4f7f/ss_74c6fb2a257ad32c8077514dc2b23e923cfa4f7f.1920x1080.jpg?t=1781551395","alt":"Lucha Chess 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lucha Chess",
+    "developers": [
+      "Jorge T.V."
+    ],
+    "publishers": [
+      "Jorge T.V."
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-01",
+    "tags": [
+      "抢先体验",
+      "策略",
+      "自走棋",
+      "轻度Rogue",
+      "战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把墨西哥摔角包装成复古卡通战术对战，重点从按键连打转向轻松但深入的阵容策略。",
+      "dimension": "题材",
+      "excerpt": "Lucha Chess is a strategy roguelike with the flair of Mexican wrestling and the charm of retro cartoons. Instead of button-mashing action, you’ll dive into chill but deep tactical battles, building the ultimate team of eccentric heroes.",
+      "url": "https://store.steampowered.com/app/3584870/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "英雄、装备与遗物可大量交叉组合，用于寻找能打破常规平衡的阵容协同。",
+      "dimension": "玩法",
+      "excerpt": "Experiment with countless combinations of heroes items, and relics to unleash broken synergies.",
+      "url": "https://store.steampowered.com/app/3584870/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每场比赛都要在进攻爆发与防守拖延间权衡，并决定突破前排还是直接打击后排。",
+      "dimension": "玩法",
+      "excerpt": "Will you find the perfect balance between offensive power and defensive stall? Will you smash through the enemy frontline or strike straight at their backline? The choice is yours every match!",
+      "url": "https://store.steampowered.com/app/3584870/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "敌人强度会突然过高，像是无法避免的失败。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "about once a run, the enemy is way way overtuned. You can be wiping the floor for 10 battles straight, and suddenly, you get completely mopped in 8 seconds. Feels like it's just an auto-loss",
+          "url": "https://steamcommunity.com/id/fpyre/recommended/3584870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "对局可能卡死，重新进入后仍无法继续。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游戏直接卡主，无法继续，退出再进更是只能回到原对局，但是空白画面啥也没有，点啥都没有用，只能退出，再重进也是一样",
+          "url": "https://steamcommunity.com/profiles/76561198070956983/recommended/3584870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "中文机器翻译质量很差。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "中文机翻有点离谱",
+          "url": "https://steamcommunity.com/profiles/76561198132794091/recommended/3584870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "刷牌随机性过强，连续刷新也可能拿不到目标角色。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "有时候你刷新四五次商店都不会出一个人物 随机性太大",
+          "url": "https://steamcommunity.com/profiles/76561198894976169/recommended/3584870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人种类和挑战不足，削弱重复游玩的动力。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "there isn't enough enemy variety or challenge to justify replaying",
+          "url": "https://steamcommunity.com/profiles/76561198019151196/recommended/3584870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "霸王龙技能曾无法升级并导致死档重开。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "霸王龙好像有bug，技能点不了升级，然后永远卡住只能重开，拿了就死档。",
+          "url": "https://steamcommunity.com/profiles/76561198274084755/recommended/3584870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游玩一段时间后会频繁卡顿。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "优化很差，玩一段时间后就会时不时卡顿。",
+          "url": "https://steamcommunity.com/profiles/76561198274084755/recommended/3584870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战术对战节奏有活力，并带来新鲜感。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Неожиданно бодро и тактически свежо.",
+          "url": "https://store.steampowered.com/curator/32826090-Gaming-Grandma/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "围绕羁绊组建协同队伍是最有趣的部分。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "that's the most fun part, building a synergistic team",
+          "url": "https://steamcommunity.com/id/fpyre/recommended/3584870/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "装备升级后的数值反馈容易带来爽感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "装备数值感觉很大方，升级后比较容易爽。",
+          "url": "https://steamcommunity.com/profiles/76561198274084755/recommended/3584870/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2102,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 399,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 15601,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2153,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2153,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.098626053774291,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 57,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.440678,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "敌人强度会突然过高，像是无法避免的失败。",
+    "技术/性能：对局可能卡死，重新进入后仍无法继续。",
+    "中文机器翻译质量很差。",
+    "刷牌随机性过强，连续刷新也可能拿不到目标角色。",
+    "敌人种类和挑战不足，削弱重复游玩的动力。",
+    "技术/性能：霸王龙技能曾无法升级并导致死档重开。",
+    "技术/性能：游玩一段时间后会频繁卡顿。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Lucha Chess位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/4c7d9ce618fccd9e61fadeb1c753178bc20717d5/ss_4c7d9ce618fccd9e61fadeb1c753178bc20717d5.1920x1080.jpg?t=1781551395",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/4c7d9ce618fccd9e61fadeb1c753178bc20717d5/ss_4c7d9ce618fccd9e61fadeb1c753178bc20717d5.1920x1080.jpg?t=1785169401",
+        "alt": "Lucha Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/c0a78560363f0d0403dc463b1d1eb1fa62d373ce/ss_c0a78560363f0d0403dc463b1d1eb1fa62d373ce.1920x1080.jpg?t=1785169401",
+        "alt": "Lucha Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/aeacd93c8e947e8360e3485ffc1f4dc249b6efb9/ss_aeacd93c8e947e8360e3485ffc1f4dc249b6efb9.1920x1080.jpg?t=1785169401",
+        "alt": "Lucha Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/74c6fb2a257ad32c8077514dc2b23e923cfa4f7f/ss_74c6fb2a257ad32c8077514dc2b23e923cfa4f7f.1920x1080.jpg?t=1785169401",
+        "alt": "Lucha Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/d11830ee81bfb05e3f6c5c3cb9cc82d36bdf95b7/ss_d11830ee81bfb05e3f6c5c3cb9cc82d36bdf95b7.1920x1080.jpg?t=1785169401",
+        "alt": "Lucha Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584870/eb5dd0040b7a71f94d4f20cacb4086343de40915/ss_eb5dd0040b7a71f94d4f20cacb4086343de40915.1920x1080.jpg?t=1785169401",
+        "alt": "Lucha Chess 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

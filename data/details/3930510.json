@@ -1,1 +1,315 @@
-{"identity":{"original_title":"Don't Let It Starve","developers":["Eduardo Scarpato"],"publishers":["Black Lantern Collective"],"release_status":"released","release_date":"2026-06-12","tags":["策略","类Rogue","轻度Rogue","恐怖","模拟"]},"hooks":[{"text":"被困地下厨房后必须持续为墙中半厨师怪物配餐，在赌博式高分中换取逃生机会。","dimension":"题材","excerpt":"A horror roguelike bento-builder. You're trapped in an underground kitchen, forced to feed a half-chef monster. Gamble with your life, assemble meals, and master your multipliers.","url":"https://store.steampowered.com/app/3930510/","label":"证据原文片段"},{"text":"在不同形状与尺寸的便当格中压缩食材，用空间布局、组合和修正器抬高得分。","dimension":"玩法","excerpt":"Assemble your ingredients on a variety of bento shapes and sizes to maximize space and flavor. Master unique combos and modifiers to raise your score to ever increasing heights. Choose ingredients wisely and optimize your layout to fit as much as possible.","url":"https://store.steampowered.com/app/3930510/","label":"证据原文片段"},{"text":"十顶帽子与百余工具支撑大量流派，还要不断权衡追求连击时的风险与收益。","dimension":"玩法","excerpt":"With 10 unique hats and over 100 tools, there's limitless build possibilities to experiment wtih. Push your luck to the limit and weigh your risks and rewards.","url":"https://store.steampowered.com/app/3930510/","label":"证据原文片段"}],"opinions":[{"text":"游戏平衡需要明显调整","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Needs some serious rebalancing imo.","url":"https://steamcommunity.com/profiles/76561199166997681/recommended/3930510/","label":"证据原文片段"}]},{"text":"游戏每十分钟左右冻结并丢失本轮进度","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"game keeps freezing every 10 minutes, and it doesn't save progress into the round when this happens.","url":"https://steamcommunity.com/id/NawrasH/recommended/3930510/","label":"证据原文片段"}]},{"text":"分数成长经常在严重不足和大幅溢出之间摆动","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"most runs you either horrible lack scaling for the score, or over shoot by a ton","url":"https://steamcommunity.com/profiles/76561199730119165/recommended/3930510/","label":"证据原文片段"}]},{"text":"高难度只是更烦人和更受限制，而非更具挑战","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it doesnt get more dificult, just more anoying and more restricting.","url":"https://steamcommunity.com/profiles/76561199730119165/recommended/3930510/","label":"证据原文片段"}]},{"text":"玩法扎实、具有挑战且多样","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Solid, challenging, and varied gameplay.","url":"https://youtu.be/fMx9pV1CCZs","label":"证据原文片段"}]},{"text":"便当拼装循环很容易令人上瘾","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"pure combo addiction.","url":"https://store.steampowered.com/curator/46106474-PSX-Horror-Archive/","label":"证据原文片段"}]},{"text":"每局变化足够明显","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"providing enough variety for each run to be distinct.","url":"https://summitreviews.biz/article/91/don-t-let-it-starve-review","label":"证据原文片段"}]},{"text":"肉鸽元素和不同挑战提供大量可玩内容","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the roguelike elements, mystery, and different challenges here are very cool and gives you tons to play with.","url":"https://steamcommunity.com/id/3ChamberGamer/recommended/3930510/","label":"证据原文片段"}]},{"text":"整体体验出色到可以连续游玩数小时","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"this game is outstanding, i could play this game for hours straight.","url":"https://steamcommunity.com/profiles/76561199823233701/recommended/3930510/","label":"证据原文片段"}]},{"text":"贯穿每局的谜团使游玩更有意义","dimension":"剧情","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"There is enough of a mystery to make each run feel meaningful","url":"https://summitreviews.biz/article/91/don-t-let-it-starve-review","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":5935,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22878,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":955,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":37601,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6358,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6358,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.384084665188326,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":168,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.531792,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["游戏平衡需要明显调整","技术/性能：游戏每十分钟左右冻结并丢失本轮进度","分数成长经常在严重不足和大幅溢出之间摆动","高难度只是更烦人和更受限制，而非更具挑战","整体创意被认为廉价且缺乏原创性"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/31aaf8ee13a617a2d401c1157b3fa4fc37dc85e0/ss_31aaf8ee13a617a2d401c1157b3fa4fc37dc85e0.1920x1080.jpg?t=1782318377","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/31aaf8ee13a617a2d401c1157b3fa4fc37dc85e0/ss_31aaf8ee13a617a2d401c1157b3fa4fc37dc85e0.1920x1080.jpg?t=1782318377","alt":"Don't Let It Starve 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/77295677bf433df8fc90dde454f0100b5b3cbb73/ss_77295677bf433df8fc90dde454f0100b5b3cbb73.1920x1080.jpg?t=1782318377","alt":"Don't Let It Starve 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/d895f034b7c5e268bbafd63d83bafeef6d0589db/ss_d895f034b7c5e268bbafd63d83bafeef6d0589db.1920x1080.jpg?t=1782318377","alt":"Don't Let It Starve 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/0b2f3b636049545376de44076b267a97dadb833e/ss_0b2f3b636049545376de44076b267a97dadb833e.1920x1080.jpg?t=1782318377","alt":"Don't Let It Starve 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Don't Let It Starve",
+    "developers": [
+      "Eduardo Scarpato"
+    ],
+    "publishers": [
+      "Black Lantern Collective"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-12",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "轻度Rogue",
+      "恐怖",
+      "在线合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "被困地下厨房后必须持续为墙中半厨师怪物配餐，在赌博式高分中换取逃生机会。",
+      "dimension": "题材",
+      "excerpt": "A horror roguelike bento-builder. You're trapped in an underground kitchen, forced to feed a half-chef monster. Gamble with your life, assemble meals, and master your multipliers.",
+      "url": "https://store.steampowered.com/app/3930510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在不同形状与尺寸的便当格中压缩食材，用空间布局、组合和修正器抬高得分。",
+      "dimension": "玩法",
+      "excerpt": "Assemble your ingredients on a variety of bento shapes and sizes to maximize space and flavor. Master unique combos and modifiers to raise your score to ever increasing heights. Choose ingredients wisely and optimize your layout to fit as much as possible.",
+      "url": "https://store.steampowered.com/app/3930510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十顶帽子与百余工具支撑大量流派，还要不断权衡追求连击时的风险与收益。",
+      "dimension": "玩法",
+      "excerpt": "With 10 unique hats and over 100 tools, there's limitless build possibilities to experiment wtih. Push your luck to the limit and weigh your risks and rewards.",
+      "url": "https://store.steampowered.com/app/3930510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "游戏平衡需要明显调整",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Needs some serious rebalancing imo.",
+          "url": "https://steamcommunity.com/profiles/76561199166997681/recommended/3930510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏每十分钟左右冻结并丢失本轮进度",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "game keeps freezing every 10 minutes, and it doesn't save progress into the round when this happens.",
+          "url": "https://steamcommunity.com/id/NawrasH/recommended/3930510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "分数成长经常在严重不足和大幅溢出之间摆动",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "most runs you either horrible lack scaling for the score, or over shoot by a ton",
+          "url": "https://steamcommunity.com/profiles/76561199730119165/recommended/3930510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高难度只是更烦人和更受限制，而非更具挑战",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it doesnt get more dificult, just more anoying and more restricting.",
+          "url": "https://steamcommunity.com/profiles/76561199730119165/recommended/3930510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法扎实、具有挑战且多样",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Solid, challenging, and varied gameplay.",
+          "url": "https://youtu.be/fMx9pV1CCZs",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "便当拼装循环很容易令人上瘾",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "pure combo addiction.",
+          "url": "https://store.steampowered.com/curator/46106474-PSX-Horror-Archive/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "每局变化足够明显",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "providing enough variety for each run to be distinct.",
+          "url": "https://summitreviews.biz/article/91/don-t-let-it-starve-review",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "肉鸽元素和不同挑战提供大量可玩内容",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the roguelike elements, mystery, and different challenges here are very cool and gives you tons to play with.",
+          "url": "https://steamcommunity.com/id/3ChamberGamer/recommended/3930510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体体验出色到可以连续游玩数小时",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "this game is outstanding, i could play this game for hours straight.",
+          "url": "https://steamcommunity.com/profiles/76561199823233701/recommended/3930510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "贯穿每局的谜团使游玩更有意义",
+      "dimension": "剧情",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "There is enough of a mystery to make each run feel meaningful",
+          "url": "https://summitreviews.biz/article/91/don-t-let-it-starve-review",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7881,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 23013,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1033,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 51507,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8405,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8405,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.853489007759846,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 174,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.897436,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "游戏平衡需要明显调整",
+    "技术/性能：游戏每十分钟左右冻结并丢失本轮进度",
+    "分数成长经常在严重不足和大幅溢出之间摆动",
+    "高难度只是更烦人和更受限制，而非更具挑战",
+    "整体创意被认为廉价且缺乏原创性"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Don't Let It Starve位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/31aaf8ee13a617a2d401c1157b3fa4fc37dc85e0/ss_31aaf8ee13a617a2d401c1157b3fa4fc37dc85e0.1920x1080.jpg?t=1782318377",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/31aaf8ee13a617a2d401c1157b3fa4fc37dc85e0/ss_31aaf8ee13a617a2d401c1157b3fa4fc37dc85e0.1920x1080.jpg?t=1782318377",
+        "alt": "Don't Let It Starve 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/77295677bf433df8fc90dde454f0100b5b3cbb73/ss_77295677bf433df8fc90dde454f0100b5b3cbb73.1920x1080.jpg?t=1782318377",
+        "alt": "Don't Let It Starve 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/d895f034b7c5e268bbafd63d83bafeef6d0589db/ss_d895f034b7c5e268bbafd63d83bafeef6d0589db.1920x1080.jpg?t=1782318377",
+        "alt": "Don't Let It Starve 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/0b2f3b636049545376de44076b267a97dadb833e/ss_0b2f3b636049545376de44076b267a97dadb833e.1920x1080.jpg?t=1782318377",
+        "alt": "Don't Let It Starve 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/0d97cedb1a630ecc9d1ded05eb4dd28f4178dd2e/ss_0d97cedb1a630ecc9d1ded05eb4dd28f4178dd2e.1920x1080.jpg?t=1782318377",
+        "alt": "Don't Let It Starve 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/f0c756f4fe6e702781e1fcf61e928dc9c4481c44/ss_f0c756f4fe6e702781e1fcf61e928dc9c4481c44.1920x1080.jpg?t=1782318377",
+        "alt": "Don't Let It Starve 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/8041b7296838ca50319b825f140ca1fe2b8aa35f/ss_8041b7296838ca50319b825f140ca1fe2b8aa35f.1920x1080.jpg?t=1782318377",
+        "alt": "Don't Let It Starve 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/b76c640d998007659b4b5c8a8a6527231b4d4237/ss_b76c640d998007659b4b5c8a8a6527231b4d4237.1920x1080.jpg?t=1782318377",
+        "alt": "Don't Let It Starve 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Asterogues","developers":["pipotchi600"],"publishers":["indie.io"],"release_status":"released","release_date":"2024-11-20","tags":["动作肉鸽","弹幕射击","类Rogue","像素画面","二维画面"]},"hooks":[{"text":"不同流放者用专属能力把敌弹反制回去","dimension":"玩法","excerpt":"Each character has their own bone to pick with the Sun, and their own special ability to turn enemies' bullets against them!","url":"https://store.steampowered.com/app/2083240/","label":"证据原文片段"},{"text":"主动与被动道具在每轮形成不同协同构筑","dimension":"玩法","excerpt":"Find dozens of unique passive and active items during your run, create powerful synergies, and get a new experience each time you play!","url":"https://store.steampowered.com/app/2083240/","label":"证据原文片段"},{"text":"逐个击败八大行星，最终向太阳复仇","dimension":"题材","excerpt":"The 8 planets control the Solar System under the Sun's command. You'll have to take them down before you get a chance at the Sun itself!","url":"https://store.steampowered.com/app/2083240/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2788,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27961,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1666,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":27742,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3412,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3412,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.969558507369715,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":111,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.387387,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_8a259670e9c4ae2cf69407538eed2e12b591ad75.1920x1080.jpg?t=1771527181","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_8a259670e9c4ae2cf69407538eed2e12b591ad75.1920x1080.jpg?t=1771527181","alt":"Asterogues 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_c5e5c127b07a4c72cf88527cbb2b641bc01f63ee.1920x1080.jpg?t=1771527181","alt":"Asterogues 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_b8ff4ab24157d59f5b99c6aa1f29d34c11e8b65f.1920x1080.jpg?t=1771527181","alt":"Asterogues 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_291fb862d5151669eff9c9a919756fc6635debed.1920x1080.jpg?t=1771527181","alt":"Asterogues 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Asterogues",
+    "developers": [
+      "pipotchi600"
+    ],
+    "publishers": [
+      "indie.io"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-20",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "类Rogue",
+      "像素画面",
+      "二维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "不同流放者用专属能力把敌弹反制回去",
+      "dimension": "玩法",
+      "excerpt": "Each character has their own bone to pick with the Sun, and their own special ability to turn enemies' bullets against them!",
+      "url": "https://store.steampowered.com/app/2083240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "主动与被动道具在每轮形成不同协同构筑",
+      "dimension": "玩法",
+      "excerpt": "Find dozens of unique passive and active items during your run, create powerful synergies, and get a new experience each time you play!",
+      "url": "https://store.steampowered.com/app/2083240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "逐个击败八大行星，最终向太阳复仇",
+      "dimension": "题材",
+      "excerpt": "The 8 planets control the Solar System under the Sun's command. You'll have to take them down before you get a chance at the Sun itself!",
+      "url": "https://store.steampowered.com/app/2083240/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3571,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 26848,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1664,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 35942,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4370,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4370,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.059100712149276,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 82,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.387387,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Asterogues位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_8a259670e9c4ae2cf69407538eed2e12b591ad75.1920x1080.jpg?t=1771527181",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_8a259670e9c4ae2cf69407538eed2e12b591ad75.1920x1080.jpg?t=1771527181",
+        "alt": "Asterogues 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_c5e5c127b07a4c72cf88527cbb2b641bc01f63ee.1920x1080.jpg?t=1771527181",
+        "alt": "Asterogues 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_b8ff4ab24157d59f5b99c6aa1f29d34c11e8b65f.1920x1080.jpg?t=1771527181",
+        "alt": "Asterogues 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_291fb862d5151669eff9c9a919756fc6635debed.1920x1080.jpg?t=1771527181",
+        "alt": "Asterogues 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_1bcb150972c851db3566690eb1c073a488831739.1920x1080.jpg?t=1771527181",
+        "alt": "Asterogues 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_78bf8e4ed72f99dfcbddb89595b68671398e7853.1920x1080.jpg?t=1771527181",
+        "alt": "Asterogues 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083240/ss_2f33d27f168937c1c8326e8537829ceca30f86b5.1920x1080.jpg?t=1771527181",
+        "alt": "Asterogues 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

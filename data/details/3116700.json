@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Reap and Rush","developers":["Beijing Pacifier Technology"],"publishers":["Beijing Pacifier Technology","Mecrew Games"],"release_status":"released","release_date":"2026-07-21","tags":["动作","动作冒险","动作肉鸽","俯视角","动漫风格"]},"hooks":[{"text":"选择不同阴间使者，在妖怪浪潮中高速割草，突出穿透人群的直接清场快感","dimension":"玩法","excerpt":"Face endless waves of Yaoguai on a treacherous battlefield. Carve a whirlwind of destruction through the crowd and savor the simple, visceral joy of underworld envoys doing their jobs. Choose your champion from unique underworld envoy generals and dominate the battlefield.","url":"https://store.steampowered.com/app/3116700/","label":"证据原文片段"},{"text":"命运石、阴法术与纸扎道具可自由混搭，消耗阴间货币锻造每局不同的战斗流派","dimension":"玩法","excerpt":"Unleash unpredictable power by freely combining fate stones and yin spells . Use underworld currency to stock up on powerful paper crafts, forging countless synergies and combat styles. Master your unique build and discover that no two runs are ever the same.","url":"https://store.steampowered.com/app/3116700/","label":"证据原文片段"},{"text":"战斗之外还要处理喂妖怪、帮走失神仙和化解狐妖修行纠纷等荒诞阴间日常","dimension":"题材","excerpt":"Your duties go beyond battle. Solve the underworld's daily chaos such as feed a hungry Yaoguai, help a misplaced god or untangle a fox spirit in his cultivation... A top-tier envoy masters both the pen and the blade. Ready to negotiate peace or clear the scene!","url":"https://store.steampowered.com/app/3116700/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":630,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":24148,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1321,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6798,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1015,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1015,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0,"unit":"小时","state":"zero","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":24,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.364621,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、动作冒险","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/a4d772135887e766d9ac667d6bd94a5d1e03a03b/ss_a4d772135887e766d9ac667d6bd94a5d1e03a03b.1920x1080.jpg?t=1784721110","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/a4d772135887e766d9ac667d6bd94a5d1e03a03b/ss_a4d772135887e766d9ac667d6bd94a5d1e03a03b.1920x1080.jpg?t=1784721110","alt":"请君入殓 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/b2f5d890830165cdb31958d2e0b9f64afa63b089/ss_b2f5d890830165cdb31958d2e0b9f64afa63b089.1920x1080.jpg?t=1784721110","alt":"请君入殓 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/f708c4b3c5e54a4d1ef0d093ec836bb08af10393/ss_f708c4b3c5e54a4d1ef0d093ec836bb08af10393.1920x1080.jpg?t=1784721110","alt":"请君入殓 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/045935164561f066cb1e399c10b6285b8553fa89/ss_045935164561f066cb1e399c10b6285b8553fa89.1920x1080.jpg?t=1784721110","alt":"请君入殓 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Reap and Rush",
+    "developers": [
+      "Beijing Pacifier Technology"
+    ],
+    "publishers": [
+      "Beijing Pacifier Technology",
+      "Mecrew Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-21",
+    "tags": [
+      "动作",
+      "动作冒险",
+      "动作肉鸽",
+      "俯视角",
+      "动漫风格"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "选择不同阴间使者，在妖怪浪潮中高速割草，突出穿透人群的直接清场快感",
+      "dimension": "玩法",
+      "excerpt": "Face endless waves of Yaoguai on a treacherous battlefield. Carve a whirlwind of destruction through the crowd and savor the simple, visceral joy of underworld envoys doing their jobs. Choose your champion from unique underworld envoy generals and dominate the battlefield.",
+      "url": "https://store.steampowered.com/app/3116700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "命运石、阴法术与纸扎道具可自由混搭，消耗阴间货币锻造每局不同的战斗流派",
+      "dimension": "玩法",
+      "excerpt": "Unleash unpredictable power by freely combining fate stones and yin spells . Use underworld currency to stock up on powerful paper crafts, forging countless synergies and combat styles. Master your unique build and discover that no two runs are ever the same.",
+      "url": "https://store.steampowered.com/app/3116700/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗之外还要处理喂妖怪、帮走失神仙和化解狐妖修行纠纷等荒诞阴间日常",
+      "dimension": "题材",
+      "excerpt": "Your duties go beyond battle. Solve the underworld's daily chaos such as feed a hungry Yaoguai, help a misplaced god or untangle a fox spirit in his cultivation... A top-tier envoy masters both the pen and the blade. Ready to negotiate peace or clear the scene!",
+      "url": "https://store.steampowered.com/app/3116700/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 40502,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 35798,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2550,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 327970,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 42333,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 42333,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.419678502904578,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 577,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 79,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 79.032258,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "请君入殓位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/a4d772135887e766d9ac667d6bd94a5d1e03a03b/ss_a4d772135887e766d9ac667d6bd94a5d1e03a03b.1920x1080.jpg?t=1784721110",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/a4d772135887e766d9ac667d6bd94a5d1e03a03b/ss_a4d772135887e766d9ac667d6bd94a5d1e03a03b.1920x1080.jpg?t=1785149654",
+        "alt": "请君入殓 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/b2f5d890830165cdb31958d2e0b9f64afa63b089/ss_b2f5d890830165cdb31958d2e0b9f64afa63b089.1920x1080.jpg?t=1785149654",
+        "alt": "请君入殓 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/f708c4b3c5e54a4d1ef0d093ec836bb08af10393/ss_f708c4b3c5e54a4d1ef0d093ec836bb08af10393.1920x1080.jpg?t=1785149654",
+        "alt": "请君入殓 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/045935164561f066cb1e399c10b6285b8553fa89/ss_045935164561f066cb1e399c10b6285b8553fa89.1920x1080.jpg?t=1785149654",
+        "alt": "请君入殓 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/104b7264846dc64580f1340be781f15ba3f7bc6a/ss_104b7264846dc64580f1340be781f15ba3f7bc6a.1920x1080.jpg?t=1785149654",
+        "alt": "请君入殓 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/ss_f9a524703ff3fb2cd630aa35ea5523e99278ae6c.1920x1080.jpg?t=1785149654",
+        "alt": "请君入殓 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/3b9328a126571e0fcdacbf5a817aafd009315468/ss_3b9328a126571e0fcdacbf5a817aafd009315468.1920x1080.jpg?t=1785149654",
+        "alt": "请君入殓 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/9e60ccf2f5c05ae2e954509b60218879f3426bbe/ss_9e60ccf2f5c05ae2e954509b60218879f3426bbe.1920x1080.jpg?t=1785149654",
+        "alt": "请君入殓 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

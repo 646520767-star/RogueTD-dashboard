@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Word Play","developers":["Game Maker's Toolkit"],"publishers":["Game Maker's Toolkit"],"release_status":"released","release_date":"2025-07-14","tags":["休闲","类Rogue","二维画面","色彩鲜明","休闲放松"]},"hooks":[{"text":"每轮达到分数门槛后可从一百五十多种Perk中挑选，持续改写后续拼词规则","dimension":"玩法","excerpt":"Score enough points to clear the round and you'll get a chance to pick from more than 150 perks!","url":"https://store.steampowered.com/app/3586660/","label":"证据原文片段"},{"text":"Modifier能扩充字母格、积累Bonus Points，甚至把Q字块直接改造成QU组合块","dimension":"玩法","excerpt":"Modifiers change the rules of the game, in your favour. Add more tile spaces, build Bonus Points, make Q tiles become QU tiles, and more.","url":"https://store.steampowered.com/app/3586660/","label":"证据原文片段"},{"text":"整局以有限Plays作为生命资源，耗尽前必须抵达终点，否则所有构筑从头开始","dimension":"玩法","excerpt":"Can you reach the end of the game without running out of \"Plays\"? Or will you have to start again from scratch?","url":"https://store.steampowered.com/app/3586660/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":62674,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":72445,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2314,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":450670,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":64160,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":64160,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.006283796245048,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1028,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.077821,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/fb771fa9b7b73884253d1de9a07f292c98ac2708/ss_fb771fa9b7b73884253d1de9a07f292c98ac2708.1920x1080.jpg?t=1759126753","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/fb771fa9b7b73884253d1de9a07f292c98ac2708/ss_fb771fa9b7b73884253d1de9a07f292c98ac2708.1920x1080.jpg?t=1759126753","alt":"Word Play 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/915d788713c1651c5fca3b15b919b8c34f3b3858/ss_915d788713c1651c5fca3b15b919b8c34f3b3858.1920x1080.jpg?t=1759126753","alt":"Word Play 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/cfc33786997e01c75a926c3f30a457da354947c3/ss_cfc33786997e01c75a926c3f30a457da354947c3.1920x1080.jpg?t=1759126753","alt":"Word Play 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/5655a85df605a1f22ac874881041b7ee9da6e34d/ss_5655a85df605a1f22ac874881041b7ee9da6e34d.1920x1080.jpg?t=1759126753","alt":"Word Play 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Word Play",
+    "developers": [
+      "Game Maker's Toolkit"
+    ],
+    "publishers": [
+      "Game Maker's Toolkit"
+    ],
+    "release_status": "released",
+    "release_date": "2025-07-14",
+    "tags": [
+      "休闲",
+      "类Rogue",
+      "塔防",
+      "类Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每轮达到分数门槛后可从一百五十多种Perk中挑选，持续改写后续拼词规则",
+      "dimension": "玩法",
+      "excerpt": "Score enough points to clear the round and you'll get a chance to pick from more than 150 perks!",
+      "url": "https://store.steampowered.com/app/3586660/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Modifier能扩充字母格、积累Bonus Points，甚至把Q字块直接改造成QU组合块",
+      "dimension": "玩法",
+      "excerpt": "Modifiers change the rules of the game, in your favour. Add more tile spaces, build Bonus Points, make Q tiles become QU tiles, and more.",
+      "url": "https://store.steampowered.com/app/3586660/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "整局以有限Plays作为生命资源，耗尽前必须抵达终点，否则所有构筑从头开始",
+      "dimension": "玩法",
+      "excerpt": "Can you reach the end of the game without running out of \"Plays\"? Or will you have to start again from scratch?",
+      "url": "https://store.steampowered.com/app/3586660/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 63177,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 74153,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2312,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 444555,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 64667,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 64667,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.204205480648024,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 999,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.029042,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Word Play位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/fb771fa9b7b73884253d1de9a07f292c98ac2708/ss_fb771fa9b7b73884253d1de9a07f292c98ac2708.1920x1080.jpg?t=1759126753",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/fb771fa9b7b73884253d1de9a07f292c98ac2708/ss_fb771fa9b7b73884253d1de9a07f292c98ac2708.1920x1080.jpg?t=1759126753",
+        "alt": "Word Play 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/915d788713c1651c5fca3b15b919b8c34f3b3858/ss_915d788713c1651c5fca3b15b919b8c34f3b3858.1920x1080.jpg?t=1759126753",
+        "alt": "Word Play 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/cfc33786997e01c75a926c3f30a457da354947c3/ss_cfc33786997e01c75a926c3f30a457da354947c3.1920x1080.jpg?t=1759126753",
+        "alt": "Word Play 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/5655a85df605a1f22ac874881041b7ee9da6e34d/ss_5655a85df605a1f22ac874881041b7ee9da6e34d.1920x1080.jpg?t=1759126753",
+        "alt": "Word Play 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/51d198c2586756f0d2c017b7dd4f35baf398306c/ss_51d198c2586756f0d2c017b7dd4f35baf398306c.1920x1080.jpg?t=1759126753",
+        "alt": "Word Play 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/1a5e31f43200cdfb4f01267053bb89235dd457fd/ss_1a5e31f43200cdfb4f01267053bb89235dd457fd.1920x1080.jpg?t=1759126753",
+        "alt": "Word Play 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/f3ad522571fc48a3affb121e6a5b4a41a696bd60/ss_f3ad522571fc48a3affb121e6a5b4a41a696bd60.1920x1080.jpg?t=1759126753",
+        "alt": "Word Play 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586660/13ee8fc06069fdf76038503d2522a0a3d7012436/ss_13ee8fc06069fdf76038503d2522a0a3d7012436.1920x1080.jpg?t=1759126753",
+        "alt": "Word Play 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Slay or Fall","developers":["ostsergey"],"publishers":["Ostsergey Games"],"release_status":"released","release_date":"2025-08-28","tags":["休闲","类Rogue","经营管理","选择影响剧情","地牢探索"]},"hooks":[{"text":"多分支文本事件让每个选择同时改变英雄处境与魔王自身状态。","dimension":"故事","excerpt":"The multifaceted text events contain numerous branches, with every choice you make having consequences that affect both the heroes and the player!","url":"https://store.steampowered.com/app/3170730/","label":"证据原文片段"},{"text":"地牢内的哥布林、邪教徒、蜥蜴人与鼠人四派态度不一，需要处理内部统治关系。","dimension":"故事","excerpt":"Under your dominion reside four factions: Goblins, Cultists, Lizards, and Ratfolks. Not all of them are pleased with your rule...","url":"https://store.steampowered.com/app/3170730/","label":"证据原文片段"},{"text":"除正面战斗外，还能让英雄挨饿、腐化心智、降低士气或制造阴谋与内讧。","dimension":"玩法","excerpt":"Kill the heroes in battle, vanquish them in your domain, let them starve, corrupt their minds, lower their morale, orchestrate conspiracies, and sow discord among travelers!","url":"https://store.steampowered.com/app/3170730/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2877,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1271,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":616,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":13628,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3000,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3000,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.3114240650767615,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":154,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.61039,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/3552d266a33110f1ee250c1a8e25698697f1429c/ss_3552d266a33110f1ee250c1a8e25698697f1429c.1920x1080.jpg?t=1768850080","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/3552d266a33110f1ee250c1a8e25698697f1429c/ss_3552d266a33110f1ee250c1a8e25698697f1429c.1920x1080.jpg?t=1768850080","alt":"Slay or Fall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/b4b4c2e3f3f695eb1b6a16e66b0b1b477ae21a4a/ss_b4b4c2e3f3f695eb1b6a16e66b0b1b477ae21a4a.1920x1080.jpg?t=1768850080","alt":"Slay or Fall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/31e5b95704d5c0b03170246405da7d4af6e56736/ss_31e5b95704d5c0b03170246405da7d4af6e56736.1920x1080.jpg?t=1768850080","alt":"Slay or Fall 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/e240fd9f6c8fbd379ccbcbc508b9228cba2ed0f3/ss_e240fd9f6c8fbd379ccbcbc508b9228cba2ed0f3.1920x1080.jpg?t=1768850080","alt":"Slay or Fall 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Slay or Fall",
+    "developers": [
+      "ostsergey"
+    ],
+    "publishers": [
+      "Ostsergey Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-08-28",
+    "tags": [
+      "休闲",
+      "类Rogue",
+      "经营管理",
+      "选择影响剧情",
+      "选择影响剧情"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "多分支文本事件让每个选择同时改变英雄处境与魔王自身状态。",
+      "dimension": "故事",
+      "excerpt": "The multifaceted text events contain numerous branches, with every choice you make having consequences that affect both the heroes and the player!",
+      "url": "https://store.steampowered.com/app/3170730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "地牢内的哥布林、邪教徒、蜥蜴人与鼠人四派态度不一，需要处理内部统治关系。",
+      "dimension": "故事",
+      "excerpt": "Under your dominion reside four factions: Goblins, Cultists, Lizards, and Ratfolks. Not all of them are pleased with your rule...",
+      "url": "https://store.steampowered.com/app/3170730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "除正面战斗外，还能让英雄挨饿、腐化心智、降低士气或制造阴谋与内讧。",
+      "dimension": "玩法",
+      "excerpt": "Kill the heroes in battle, vanquish them in your domain, let them starve, corrupt their minds, lower their morale, orchestrate conspiracies, and sow discord among travelers!",
+      "url": "https://store.steampowered.com/app/3170730/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3278,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1278,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 616,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 15745,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3417,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3417,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.353319620134417,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 145,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.61039,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Slay or Fall位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/3552d266a33110f1ee250c1a8e25698697f1429c/ss_3552d266a33110f1ee250c1a8e25698697f1429c.1920x1080.jpg?t=1768850080",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/3552d266a33110f1ee250c1a8e25698697f1429c/ss_3552d266a33110f1ee250c1a8e25698697f1429c.1920x1080.jpg?t=1768850080",
+        "alt": "Slay or Fall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/b4b4c2e3f3f695eb1b6a16e66b0b1b477ae21a4a/ss_b4b4c2e3f3f695eb1b6a16e66b0b1b477ae21a4a.1920x1080.jpg?t=1768850080",
+        "alt": "Slay or Fall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/31e5b95704d5c0b03170246405da7d4af6e56736/ss_31e5b95704d5c0b03170246405da7d4af6e56736.1920x1080.jpg?t=1768850080",
+        "alt": "Slay or Fall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/e240fd9f6c8fbd379ccbcbc508b9228cba2ed0f3/ss_e240fd9f6c8fbd379ccbcbc508b9228cba2ed0f3.1920x1080.jpg?t=1768850080",
+        "alt": "Slay or Fall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/113f7808361153f72b4cf07df7d659a25923bf38/ss_113f7808361153f72b4cf07df7d659a25923bf38.1920x1080.jpg?t=1768850080",
+        "alt": "Slay or Fall 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170730/6692fd840e8ea151b6bdb02ad776914da3a72326/ss_6692fd840e8ea151b6bdb02ad776914da3a72326.1920x1080.jpg?t=1768850080",
+        "alt": "Slay or Fall 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

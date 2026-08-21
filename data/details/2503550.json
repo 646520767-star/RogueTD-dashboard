@@ -1,1 +1,296 @@
-{"identity":{"original_title":"Operation Octo","developers":["Klub Kofta Studio"],"publishers":["Klub Kofta Studio"],"release_status":"released","release_date":"2025-09-10","tags":["塔防","策略","生存","可爱","休闲"]},"hooks":[{"text":"防线一旦崩溃，塔防会立刻转成由玩家亲自躲弹求生的动作局面。","dimension":"玩法","excerpt":"In this action Tower Defense game, you fend off hordes of skeletons by strategically placing sea creature turrets. Beware that as your line of defense falls, this quickly turns into a game of survival where you dodge around for dear life!","url":"https://store.steampowered.com/app/2503550/","label":"证据原文片段"},{"text":"机械海洋生物就是炮塔库，手枪虾、海军海豹与死亡射线需要逐个解锁并摸索用途。","dimension":"玩法","excerpt":"Your arsenal is filled with mechanized sea lives! Those cool inventions (such as Pistol Shrimp, Navy Seal, and Death Ray) will handle the fight. You’ll discover new turret types one after another - Figure out how best to utilize each of ‘em!","url":"https://store.steampowered.com/app/2503550/","label":"证据原文片段"},{"text":"敌人掉落的药剂能把同一炮塔改造成冰冻、变异或潜行等不同形态。","dimension":"玩法","excerpt":"Skeletons will sometimes drop a variety of Elixirs. Use them to boost turrets into different forms! Will you turn a turret into a frosty ice machine, a powerful mutant, or a shadowy stealth weapon?","url":"https://store.steampowered.com/app/2503550/","label":"证据原文片段"}],"opinions":[{"text":"美术风格富有魅力","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"this game has a charming art style","url":"https://steamcommunity.com/id/Spazzyphantasm/recommended/2503550/","label":"证据原文片段"}]},{"text":"声音设计存在问题","dimension":"音频","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the sound design has some flaws","url":"https://steamcommunity.com/profiles/76561199444805782/recommended/2503550/","label":"证据原文片段"}]},{"text":"炮塔传送带机制体验糟糕","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The towers conveyer, is terrible.","url":"https://steamcommunity.com/id/Spazzyphantasm/recommended/2503550/","label":"证据原文片段"}]},{"text":"当前无法正常游玩","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"now I can't even play the game","url":"https://steamcommunity.com/profiles/76561199472167243/recommended/2503550/","label":"证据原文片段"}]},{"text":"整体体验混乱而有趣","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Chaotic fun will ensue","url":"https://store.steampowered.com/curator/44998042-These-Are-Interesting-Times/","label":"证据原文片段"}]},{"text":"核心塔防玩法表现出色","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The core gameplay is top-notch.","url":"https://steamcommunity.com/profiles/76561199444805782/recommended/2503550/","label":"证据原文片段"}]},{"text":"教程制作良好且呈现自然","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"tutorials are well made and natural","url":"https://steamcommunity.com/profiles/76561199444805782/recommended/2503550/","label":"证据原文片段"}]},{"text":"整体塔防体验非常优秀","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"one of the best tower defense game I played","url":"https://steamcommunity.com/profiles/76561199796454574/recommended/2503550/","label":"证据原文片段"}]},{"text":"海洋美学主题令人喜欢","dimension":"主题","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I'm generally a fan of ocean aesthetics","url":"https://steamcommunity.com/profiles/76561199444805782/recommended/2503550/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1214,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":276,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":5800,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1338,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1338,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.724793510898882,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":114,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.245614,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["声音设计存在问题","炮塔传送带机制体验糟糕","当前无法正常游玩"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/f1f6033c34820dd26203e3a54d0b714b9113dae3/ss_f1f6033c34820dd26203e3a54d0b714b9113dae3.1920x1080.jpg?t=1775405987","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/f1f6033c34820dd26203e3a54d0b714b9113dae3/ss_f1f6033c34820dd26203e3a54d0b714b9113dae3.1920x1080.jpg?t=1775405987","alt":"怒海章袭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/bc89ef63cea54e598f9d326bb284535847697e43/ss_bc89ef63cea54e598f9d326bb284535847697e43.1920x1080.jpg?t=1775405987","alt":"怒海章袭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/ss_715334d1259e27ec46e9df7a10b069764ddca693.1920x1080.jpg?t=1775405987","alt":"怒海章袭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/5e7109d08c66235e8541cad10fa2acf1d18b3913/ss_5e7109d08c66235e8541cad10fa2acf1d18b3913.1920x1080.jpg?t=1775405987","alt":"怒海章袭 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Operation Octo",
+    "developers": [
+      "Klub Kofta Studio"
+    ],
+    "publishers": [
+      "Klub Kofta Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-10",
+    "tags": [
+      "塔防",
+      "策略",
+      "生存",
+      "生存",
+      "可爱"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "防线一旦崩溃，塔防会立刻转成由玩家亲自躲弹求生的动作局面。",
+      "dimension": "玩法",
+      "excerpt": "In this action Tower Defense game, you fend off hordes of skeletons by strategically placing sea creature turrets. Beware that as your line of defense falls, this quickly turns into a game of survival where you dodge around for dear life!",
+      "url": "https://store.steampowered.com/app/2503550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "机械海洋生物就是炮塔库，手枪虾、海军海豹与死亡射线需要逐个解锁并摸索用途。",
+      "dimension": "玩法",
+      "excerpt": "Your arsenal is filled with mechanized sea lives! Those cool inventions (such as Pistol Shrimp, Navy Seal, and Death Ray) will handle the fight. You’ll discover new turret types one after another - Figure out how best to utilize each of ‘em!",
+      "url": "https://store.steampowered.com/app/2503550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "敌人掉落的药剂能把同一炮塔改造成冰冻、变异或潜行等不同形态。",
+      "dimension": "玩法",
+      "excerpt": "Skeletons will sometimes drop a variety of Elixirs. Use them to boost turrets into different forms! Will you turn a turret into a frosty ice machine, a powerful mutant, or a shadowy stealth weapon?",
+      "url": "https://store.steampowered.com/app/2503550/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "美术风格富有魅力",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "this game has a charming art style",
+          "url": "https://steamcommunity.com/id/Spazzyphantasm/recommended/2503550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "声音设计存在问题",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the sound design has some flaws",
+          "url": "https://steamcommunity.com/profiles/76561199444805782/recommended/2503550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "炮塔传送带机制体验糟糕",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The towers conveyer, is terrible.",
+          "url": "https://steamcommunity.com/id/Spazzyphantasm/recommended/2503550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "当前无法正常游玩",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "now I can't even play the game",
+          "url": "https://steamcommunity.com/profiles/76561199472167243/recommended/2503550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体体验混乱而有趣",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Chaotic fun will ensue",
+          "url": "https://store.steampowered.com/curator/44998042-These-Are-Interesting-Times/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心塔防玩法表现出色",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The core gameplay is top-notch.",
+          "url": "https://steamcommunity.com/profiles/76561199444805782/recommended/2503550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "教程制作良好且呈现自然",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "tutorials are well made and natural",
+          "url": "https://steamcommunity.com/profiles/76561199444805782/recommended/2503550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体塔防体验非常优秀",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "one of the best tower defense game I played",
+          "url": "https://steamcommunity.com/profiles/76561199796454574/recommended/2503550/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "海洋美学主题令人喜欢",
+      "dimension": "主题",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I'm generally a fan of ocean aesthetics",
+          "url": "https://steamcommunity.com/profiles/76561199444805782/recommended/2503550/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1416,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 289,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 6756,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1563,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1563,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.891553428657916,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 103,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 98.319328,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "声音设计存在问题",
+    "炮塔传送带机制体验糟糕",
+    "当前无法正常游玩"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "怒海章袭位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/f1f6033c34820dd26203e3a54d0b714b9113dae3/ss_f1f6033c34820dd26203e3a54d0b714b9113dae3.1920x1080.jpg?t=1775405987",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/f1f6033c34820dd26203e3a54d0b714b9113dae3/ss_f1f6033c34820dd26203e3a54d0b714b9113dae3.1920x1080.jpg?t=1775405987",
+        "alt": "怒海章袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/bc89ef63cea54e598f9d326bb284535847697e43/ss_bc89ef63cea54e598f9d326bb284535847697e43.1920x1080.jpg?t=1775405987",
+        "alt": "怒海章袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/ss_715334d1259e27ec46e9df7a10b069764ddca693.1920x1080.jpg?t=1775405987",
+        "alt": "怒海章袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/5e7109d08c66235e8541cad10fa2acf1d18b3913/ss_5e7109d08c66235e8541cad10fa2acf1d18b3913.1920x1080.jpg?t=1775405987",
+        "alt": "怒海章袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/6f9f1120757dfaf02896b12e1da0324a59edc946/ss_6f9f1120757dfaf02896b12e1da0324a59edc946.1920x1080.jpg?t=1775405987",
+        "alt": "怒海章袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/ss_52a8a40182ae5b8693cf8fba621be74643507c34.1920x1080.jpg?t=1775405987",
+        "alt": "怒海章袭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2503550/595cef74a4741f703708c8c8ecd83dbcffb6413e/ss_595cef74a4741f703708c8c8ecd83dbcffb6413e.1920x1080.jpg?t=1775405987",
+        "alt": "怒海章袭 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

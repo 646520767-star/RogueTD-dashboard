@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Rocket Rats","developers":["Gagonfe"],"publishers":["Gagonfe"],"release_status":"released","release_date":"2024-12-17","tags":["动作肉鸽","弹幕射击","像素画面","轻度Rogue","休闲"]},"hooks":[{"text":"月球老鼠用枪击碎奶酪天体并为太空基地采奶酪","dimension":"题材","excerpt":"You play as one of many rats whose job is to extract cheese for your space base – by blasting them off with guns!","url":"https://store.steampowered.com/app/3069810/","label":"证据原文片段"},{"text":"星星盟友、召雷与中毒效果组成局内升级流派","dimension":"玩法","excerpt":"From Star Allies that fire at enemies with you, to Lightning summoning, to Poison debuffs, you'll always have plenty of options to improve your stats based on your preferred playstyle.","url":"https://store.steampowered.com/app/3069810/","label":"证据原文片段"},{"text":"收集奶酪购买永久升级并推进技能树","dimension":"玩法","excerpt":"The more you play, the more cheese you collect. With it, you can buy permanent upgrades and improve stats through skill trees designed to elevate your character's build.","url":"https://store.steampowered.com/app/3069810/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":80774,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":40671,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2274,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":211657,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":86160,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":86160,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.778376189281003,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2497,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.802079,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_ad5ae7f5478ab6447c4dce7479c2609f04c3d611.1920x1080.jpg?t=1769349801","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_ad5ae7f5478ab6447c4dce7479c2609f04c3d611.1920x1080.jpg?t=1769349801","alt":"Rocket Rats 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_24fd14dadd2f99758b2d17e8e7df99a913a6c895.1920x1080.jpg?t=1769349801","alt":"Rocket Rats 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_9764851823c599d4320a4de14c902fd10309e97d.1920x1080.jpg?t=1769349801","alt":"Rocket Rats 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_8f97f527d8dfc074a1302d121de07d8711e12e4a.1920x1080.jpg?t=1769349801","alt":"Rocket Rats 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Rocket Rats",
+    "developers": [
+      "Gagonfe"
+    ],
+    "publishers": [
+      "Gagonfe"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-17",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "像素画面",
+      "轻度Rogue",
+      "休闲"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "月球老鼠用枪击碎奶酪天体并为太空基地采奶酪",
+      "dimension": "题材",
+      "excerpt": "You play as one of many rats whose job is to extract cheese for your space base – by blasting them off with guns!",
+      "url": "https://store.steampowered.com/app/3069810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "星星盟友、召雷与中毒效果组成局内升级流派",
+      "dimension": "玩法",
+      "excerpt": "From Star Allies that fire at enemies with you, to Lightning summoning, to Poison debuffs, you'll always have plenty of options to improve your stats based on your preferred playstyle.",
+      "url": "https://store.steampowered.com/app/3069810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集奶酪购买永久升级并推进技能树",
+      "dimension": "玩法",
+      "excerpt": "The more you play, the more cheese you collect. With it, you can buy permanent upgrades and improve stats through skill trees designed to elevate your character's build.",
+      "url": "https://store.steampowered.com/app/3069810/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "我就喜欢鲜艳又颗粒粗的像素风游戏，很有美感，这个月的沧海遗珠来了！",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "我就喜欢鲜艳又颗粒粗的像素风游戏，很有美感，这个月的沧海遗珠来了！",
+          "url": "https://steamcommunity.com/profiles/76561198390154661/recommended/3069810/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The concept is really cool, the pixel art is beautiful, but at the end of the day there just isn't anything here.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "The concept is really cool, the pixel art is beautiful, but at the end of the day there just isn't anything here.",
+          "url": "https://steamcommunity.com/id/AlexGoneLoco/recommended/3069810/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "打完全成就来评论一下，我挺喜欢这个画风的，上手简单，总体还不错，就是内容太少了，如果真的喜欢推荐打折时候入。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "打完全成就来评论一下，我挺喜欢这个画风的，上手简单，总体还不错，就是内容太少了，如果真的喜欢推荐打折时候入。",
+          "url": "https://steamcommunity.com/id/xiudongxue/recommended/3069810/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Graphics and sounds are much better than your average incremental game, gameplay is quite satisfying.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Graphics and sounds are much better than your average incremental game, gameplay is quite satisfying.",
+          "url": "https://steamcommunity.com/id/kumorig/recommended/3069810/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "be/j3C4qWkGTDI ★★★★☆ Gameplay: Very Good Graphics: Retro PC Requirements: Fast Game Time: 3.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "be/j3C4qWkGTDI ★★★★☆ Gameplay: Very Good Graphics: Retro PC Requirements: Fast Game Time: 3.",
+          "url": "https://store.steampowered.com/curator/29554332-ZhainLIVE/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A fun simple roguelike with adorable graphics",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A fun simple roguelike with adorable graphics",
+          "url": "https://store.steampowered.com/curator/45903432-Slimeverse-games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A fun roguelike survivors bullet-hell game with nice pixel graphics where you play as a space rat, fending off waves of cheese enemies.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A fun roguelike survivors bullet-hell game with nice pixel graphics where you play as a space rat, fending off waves of cheese enemies.",
+          "url": "https://store.steampowered.com/curator/44793303-The-games-that-I%2527ve-played/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Minimalist roguelike survivor full of charm with gorgeous pixel art, very satisfying gameplay loop and intuitive upgrade systems.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Minimalist roguelike survivor full of charm with gorgeous pixel art, very satisfying gameplay loop and intuitive upgrade systems.",
+          "url": "https://store.steampowered.com/curator/42989075-brunoborne-reviews/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 88212,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 40912,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2291,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 231697,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 94140,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 94140,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.886577785391331,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2337,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.472557,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Rocket Rats位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_ad5ae7f5478ab6447c4dce7479c2609f04c3d611.1920x1080.jpg?t=1769349801",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_ad5ae7f5478ab6447c4dce7479c2609f04c3d611.1920x1080.jpg?t=1769349801",
+        "alt": "Rocket Rats 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_24fd14dadd2f99758b2d17e8e7df99a913a6c895.1920x1080.jpg?t=1769349801",
+        "alt": "Rocket Rats 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_9764851823c599d4320a4de14c902fd10309e97d.1920x1080.jpg?t=1769349801",
+        "alt": "Rocket Rats 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_8f97f527d8dfc074a1302d121de07d8711e12e4a.1920x1080.jpg?t=1769349801",
+        "alt": "Rocket Rats 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_e82cf77ef08045c2aa1fd719741bd25b1adc15f2.1920x1080.jpg?t=1769349801",
+        "alt": "Rocket Rats 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_9dd6b10ee426c364bd7cffef37c90a6ca8f1c0cd.1920x1080.jpg?t=1769349801",
+        "alt": "Rocket Rats 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_811aa6662a60d841db686ada3efd5341e43b6e50.1920x1080.jpg?t=1769349801",
+        "alt": "Rocket Rats 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069810/ss_5397a58dba8ab826d051873f1dd83d154becd827.1920x1080.jpg?t=1769349801",
+        "alt": "Rocket Rats 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

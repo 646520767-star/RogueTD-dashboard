@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Shooters, Ready!","developers":["おこめたべたべず"],"publishers":["おこめたべたべず"],"release_status":"released","release_date":"2025-03-27","tags":["可爱","街机","射击","挑战高分","剧情丰富"]},"hooks":[{"text":"取消腰射与冲刺，以强后坐力和连续精准击破追求高分","dimension":"玩法","excerpt":"いわゆる『腰だめ撃ち』や『スプリント』を廃した 個性的ながらもとっつきやすい操作系と 他に類を見ない ひときわ強いリコイル（女子高生なので）が特徴！ 連続した部屋を素早く駆け抜け 点在するターゲットを倒しましょう。 素早く 精密に 連続して倒すことが出来れば より高得点が狙えます。","url":"https://store.steampowered.com/app/3247500/","label":"证据原文片段"},{"text":"三名女高中生组成联合射击部，挑战全国赛的青春短篇","dimension":"故事","excerpt":"たった3人で全国を目指す 青春ショートストーリー！！ （プレイ時間：30分～60分程度）","url":"https://store.steampowered.com/app/3247500/","label":"证据原文片段"},{"text":"十分钟街机局用剩余时间买随机卡、改枪并成长属性","dimension":"玩法","excerpt":"アーケードモード ハイテンポなスポーツシューティングに ランダムなカードの購入／成長要素を盛り込んだ 本作のメインコンテンツです！ 残り時間を消費してカードを購入し 武器をカスタマイズしたり ステータスを成長させて より高難易度のステージへ挑みましょう！","url":"https://store.steampowered.com/app/3247500/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":21720,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":15252,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1160,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":81049,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":22149,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":22149,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.712181681676433,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":796,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":99,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":99.24812,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"可爱、街机","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_df1d655abd3a1b6a33fde4f4854cb2c017db5f4b.1920x1080.jpg?t=1743087615","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_df1d655abd3a1b6a33fde4f4854cb2c017db5f4b.1920x1080.jpg?t=1743087615","alt":"Shooters, Ready! 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_520126e4e37a667af2171dd56dd1e6170ae27cc2.1920x1080.jpg?t=1743087615","alt":"Shooters, Ready! 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_9fbc43700d1a168f35afff8be8fd7a6adbc5568e.1920x1080.jpg?t=1743087615","alt":"Shooters, Ready! 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_66049bfa92c79ca4625fabbd82266515d4db981d.1920x1080.jpg?t=1743087615","alt":"Shooters, Ready! 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Shooters, Ready!",
+    "developers": [
+      "おこめたべたべず"
+    ],
+    "publishers": [
+      "おこめたべたべず"
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-27",
+    "tags": [
+      "轻度Rogue",
+      "可爱",
+      "街机",
+      "射击",
+      "挑战高分"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "取消腰射与冲刺，以强后坐力和连续精准击破追求高分",
+      "dimension": "玩法",
+      "excerpt": "いわゆる『腰だめ撃ち』や『スプリント』を廃した 個性的ながらもとっつきやすい操作系と 他に類を見ない ひときわ強いリコイル（女子高生なので）が特徴！ 連続した部屋を素早く駆け抜け 点在するターゲットを倒しましょう。 素早く 精密に 連続して倒すことが出来れば より高得点が狙えます。",
+      "url": "https://store.steampowered.com/app/3247500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三名女高中生组成联合射击部，挑战全国赛的青春短篇",
+      "dimension": "故事",
+      "excerpt": "たった3人で全国を目指す 青春ショートストーリー！！ （プレイ時間：30分～60分程度）",
+      "url": "https://store.steampowered.com/app/3247500/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十分钟街机局用剩余时间买随机卡、改枪并成长属性",
+      "dimension": "玩法",
+      "excerpt": "アーケードモード ハイテンポなスポーツシューティングに ランダムなカードの購入／成長要素を盛り込んだ 本作のメインコンテンツです！ 残り時間を消費してカードを購入し 武器をカスタマイズしたり ステータスを成長させて より高難易度のステージへ挑みましょう！",
+      "url": "https://store.steampowered.com/app/3247500/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 24367,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 14064,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1183,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 76558,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 24837,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 24837,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.281304278942979,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 793,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 99,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 99.142157,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Shooters, Ready!位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_df1d655abd3a1b6a33fde4f4854cb2c017db5f4b.1920x1080.jpg?t=1743087615",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_df1d655abd3a1b6a33fde4f4854cb2c017db5f4b.1920x1080.jpg?t=1743087615",
+        "alt": "Shooters, Ready! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_520126e4e37a667af2171dd56dd1e6170ae27cc2.1920x1080.jpg?t=1743087615",
+        "alt": "Shooters, Ready! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_9fbc43700d1a168f35afff8be8fd7a6adbc5568e.1920x1080.jpg?t=1743087615",
+        "alt": "Shooters, Ready! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_66049bfa92c79ca4625fabbd82266515d4db981d.1920x1080.jpg?t=1743087615",
+        "alt": "Shooters, Ready! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_06d76cffc4d1e1a2a86a60103195177a74faa2c7.1920x1080.jpg?t=1743087615",
+        "alt": "Shooters, Ready! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_553a6de9f137d8547aaa6395f05ca4aba91df9b6.1920x1080.jpg?t=1743087615",
+        "alt": "Shooters, Ready! 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247500/ss_08312c4cff5c59a33bda8b0c54db4849c0c52e86.1920x1080.jpg?t=1743087615",
+        "alt": "Shooters, Ready! 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

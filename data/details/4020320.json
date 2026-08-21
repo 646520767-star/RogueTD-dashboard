@@ -1,1 +1,274 @@
-{"identity":{"original_title":"STARVAULT","developers":["Theia Games"],"publishers":["Theia Games"],"release_status":"released","release_date":"2026-06-25","tags":["多人游戏","策略","动作","合作","玩家对战"]},"hooks":[{"text":"把兵线、防御塔、技能与野区完整放进第一人称VR MOBA战场","dimension":"玩法","excerpt":"Lanes, Towers, Abilities, Jungle — All From a First-Person VR View","url":"https://store.steampowered.com/app/4020320/","label":"证据原文片段"},{"text":"不同定位与独特英雄组成5v5团队竞技","dimension":"玩法","excerpt":"Different Roles. Different Mechanics. Find Your Main Queue Solo or Team Up with Friends in 5v5 Matches","url":"https://store.steampowered.com/app/4020320/","label":"证据原文片段"},{"text":"沙盒模式支持自由定制和试验英雄玩法","dimension":"玩法","excerpt":"Customize, Experiment, and Relax in Sandbox","url":"https://store.steampowered.com/app/4020320/","label":"证据原文片段"}],"opinions":[{"text":"静音按钮过于难找。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"My only complaint is the mute button is hidden better than Anne Frank.","url":"https://steamcommunity.com/id/GarbajMammal/recommended/4020320/","label":"证据原文片段"}]},{"text":"高运动量玩法容易引发晕动症。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"its a high motion game and I get motion sick very easily.","url":"https://steamcommunity.com/id/meghie/recommended/4020320/","label":"证据原文片段"}]},{"text":"当前版本仍需要进一步打磨。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Definitely could use some more polish","url":"https://steamcommunity.com/id/GarbajMammal/recommended/4020320/","label":"证据原文片段"}]},{"text":"武器操作具有重量感和冲击感。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The weapons feel weighty and impactful.","url":"https://steamcommunity.com/profiles/76561198330667255/recommended/4020320/","label":"证据原文片段"}]},{"text":"游戏对VR控制自由度的利用非常出色","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"No game incorporates the freedoms of Vr controls as well as Starvault.","url":"https://steamcommunity.com/profiles/76561198401245833/recommended/4020320/","label":"证据原文片段"}]},{"text":"MOBA机制在VR中的落地表现优秀。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Starvault has done an excellent job of making a MOBA that works in vr.","url":"https://steamcommunity.com/profiles/76561198401245833/recommended/4020320/","label":"证据原文片段"}]},{"text":"英雄之间具有鲜明且有趣的玩法差异。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"they all seemed fun and different.","url":"https://steamcommunity.com/id/FastLawyer/recommended/4020320/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":868,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":673,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":12925,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1024,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1024,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.0890281901615575,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":64,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.769231,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["静音按钮过于难找。","高运动量玩法容易引发晕动症。","当前版本仍需要进一步打磨。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/ba5002b136241944b5346b065d1bf559c6c98a82/ss_ba5002b136241944b5346b065d1bf559c6c98a82.1920x1080.jpg?t=1784190920","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/ba5002b136241944b5346b065d1bf559c6c98a82/ss_ba5002b136241944b5346b065d1bf559c6c98a82.1920x1080.jpg?t=1784190920","alt":"STARVAULT 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/e1d46a5e50f5503e31f1cf34d47547af465bdd55/ss_e1d46a5e50f5503e31f1cf34d47547af465bdd55.1920x1080.jpg?t=1784190920","alt":"STARVAULT 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/4eb7d931136b4239c7fdf5e701d04975915d9be8/ss_4eb7d931136b4239c7fdf5e701d04975915d9be8.1920x1080.jpg?t=1784190920","alt":"STARVAULT 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/8dca919fc0158a0cd9629a9d39702936ebaa3572/ss_8dca919fc0158a0cd9629a9d39702936ebaa3572.1920x1080.jpg?t=1784190920","alt":"STARVAULT 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "STARVAULT VR",
+    "developers": [
+      "Theia Games"
+    ],
+    "publishers": [
+      "Theia Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-25",
+    "tags": [
+      "动作肉鸽",
+      "策略",
+      "多人游戏",
+      "策略",
+      "玩家对战"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把兵线、防御塔、技能与野区完整放进第一人称VR MOBA战场",
+      "dimension": "玩法",
+      "excerpt": "Lanes, Towers, Abilities, Jungle — All From a First-Person VR View",
+      "url": "https://store.steampowered.com/app/4020320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不同定位与独特英雄组成5v5团队竞技",
+      "dimension": "玩法",
+      "excerpt": "Different Roles. Different Mechanics. Find Your Main Queue Solo or Team Up with Friends in 5v5 Matches",
+      "url": "https://store.steampowered.com/app/4020320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "沙盒模式支持自由定制和试验英雄玩法",
+      "dimension": "玩法",
+      "excerpt": "Customize, Experiment, and Relax in Sandbox",
+      "url": "https://store.steampowered.com/app/4020320/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "静音按钮过于难找。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "My only complaint is the mute button is hidden better than Anne Frank.",
+          "url": "https://steamcommunity.com/id/GarbajMammal/recommended/4020320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高运动量玩法容易引发晕动症。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "its a high motion game and I get motion sick very easily.",
+          "url": "https://steamcommunity.com/id/meghie/recommended/4020320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "当前版本仍需要进一步打磨。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Definitely could use some more polish",
+          "url": "https://steamcommunity.com/id/GarbajMammal/recommended/4020320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器操作具有重量感和冲击感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The weapons feel weighty and impactful.",
+          "url": "https://steamcommunity.com/profiles/76561198330667255/recommended/4020320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏对VR控制自由度的利用非常出色",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "No game incorporates the freedoms of Vr controls as well as Starvault.",
+          "url": "https://steamcommunity.com/profiles/76561198401245833/recommended/4020320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "MOBA机制在VR中的落地表现优秀。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Starvault has done an excellent job of making a MOBA that works in vr.",
+          "url": "https://steamcommunity.com/profiles/76561198401245833/recommended/4020320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "英雄之间具有鲜明且有趣的玩法差异。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "they all seemed fun and different.",
+          "url": "https://steamcommunity.com/id/FastLawyer/recommended/4020320/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1208,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 12785,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 738,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 18340,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1427,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1427,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.134612198246105,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 64,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.243902,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "静音按钮过于难找。",
+    "高运动量玩法容易引发晕动症。",
+    "当前版本仍需要进一步打磨。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "STARVAULT位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/ba5002b136241944b5346b065d1bf559c6c98a82/ss_ba5002b136241944b5346b065d1bf559c6c98a82.1920x1080.jpg?t=1784190920",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/ba5002b136241944b5346b065d1bf559c6c98a82/ss_ba5002b136241944b5346b065d1bf559c6c98a82.1920x1080.jpg?t=1786970579",
+        "alt": "STARVAULT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/e1d46a5e50f5503e31f1cf34d47547af465bdd55/ss_e1d46a5e50f5503e31f1cf34d47547af465bdd55.1920x1080.jpg?t=1786970579",
+        "alt": "STARVAULT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/4eb7d931136b4239c7fdf5e701d04975915d9be8/ss_4eb7d931136b4239c7fdf5e701d04975915d9be8.1920x1080.jpg?t=1786970579",
+        "alt": "STARVAULT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/8dca919fc0158a0cd9629a9d39702936ebaa3572/ss_8dca919fc0158a0cd9629a9d39702936ebaa3572.1920x1080.jpg?t=1786970579",
+        "alt": "STARVAULT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/7fd3ce6bfb52e71f5d10139b5fa7a9b6680ed7b9/ss_7fd3ce6bfb52e71f5d10139b5fa7a9b6680ed7b9.1920x1080.jpg?t=1786970579",
+        "alt": "STARVAULT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/90f2266d325b33ab2391d85dd3e55976ccc4334c/ss_90f2266d325b33ab2391d85dd3e55976ccc4334c.1920x1080.jpg?t=1786970579",
+        "alt": "STARVAULT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/b598943f53b3fcb9b172814b84d86d53e096882d/ss_b598943f53b3fcb9b172814b84d86d53e096882d.1920x1080.jpg?t=1786970579",
+        "alt": "STARVAULT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020320/c83cc14658b7a015ca8571d079dd89a2a55436fc/ss_c83cc14658b7a015ca8571d079dd89a2a55436fc.1920x1080.jpg?t=1786970579",
+        "alt": "STARVAULT 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

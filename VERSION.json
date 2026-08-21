@@ -1,9 +1,9 @@
 {
   "schema_version": "dashboard_release_version_v2",
   "pipeline_version": "pipeline_v1.0.2-production",
-  "version": "dashboard-v2026.08.07-preview",
-  "generated_at": "2026-08-07T14:16:17+08:00",
-  "source_d_manifest_sha256": "91ac5678273800e943e8d07d4466284530b0b589a944a2ad76f30f61727d77c1",
-  "source_d_site_tree_sha256": "631b1949e8bb82e727557ae395001fc2d315be4f73a202f627d3e27825957321",
-  "public_release_base_commit_sha": "b1f6f4f4a986e51ecc5f0998d81a124904a7dc0e"
+  "version": "dashboard-v2026.08.17-preview",
+  "generated_at": "2026-08-21T16:54:58+08:00",
+  "source_d_manifest_sha256": "35b9a02650e4b5ff6eaf606934c5d7eb4ecbd11b8ba01f316fe4d949ef4cb204",
+  "source_d_site_tree_sha256": "d5a7b82c80e3f7bed374bc32d1e7ef4d677f7ca1c5cd588c7636579a22707646",
+  "public_release_base_commit_sha": "626f04e17f026163cc2eb4251e513db70e973aeb"
 }

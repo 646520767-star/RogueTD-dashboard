@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Skull Horde","developers":["8BitSkull"],"publishers":["8BitSkull"],"release_status":"released","release_date":"2026-04-10","tags":["地牢探索","动作肉鸽","自走棋","砍杀","动作角色扮演"]},"hooks":[{"text":"重复购买同类骷髅会合并升级并最终解锁专属能力","dimension":"玩法","excerpt":"Buying multiple units of the same type merges them into stronger versions, until they eventually unlock a unique special ability.","url":"https://store.steampowered.com/app/3199360/","label":"证据原文片段"},{"text":"地牢战利品会按兵种职业和标签触发收益","dimension":"玩法","excerpt":"Loot found in the dungeon interacts with unit classes and tags to produce powerful benefits.","url":"https://store.steampowered.com/app/3199360/","label":"证据原文片段"},{"text":"骷髅兵自动作战，玩家只负责编队、路线和升级决策","dimension":"玩法","excerpt":"This game is realtime, and your minions do battle independently. Your role is to develop your squad, choose where to explore, when to move on, and pick the correct upgrades.","url":"https://store.steampowered.com/app/3199360/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":101995,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":138535,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9587,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":927546,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":103318,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":103318,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.71522081434359,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1039,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.556196,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"地牢探索、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/ss_a3e088757d1423289d57693c37693623317eedbd.1920x1080.jpg?t=1779607540","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/ss_a3e088757d1423289d57693c37693623317eedbd.1920x1080.jpg?t=1779607540","alt":"骷髅成群 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/f965a575958d7a3cd90e411bf2adef935f7738a9/ss_f965a575958d7a3cd90e411bf2adef935f7738a9.1920x1080.jpg?t=1779607540","alt":"骷髅成群 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/ss_96a200954edc2a45ead061871fb317e4463bde6a.1920x1080.jpg?t=1779607540","alt":"骷髅成群 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/342118f92017fd5a4e0d0f527d694f87f581dd52/ss_342118f92017fd5a4e0d0f527d694f87f581dd52.1920x1080.jpg?t=1779607540","alt":"骷髅成群 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Skull Horde",
+    "developers": [
+      "8BitSkull"
+    ],
+    "publishers": [
+      "8BitSkull"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-10",
+    "tags": [
+      "地牢探索",
+      "动作肉鸽",
+      "自走棋",
+      "砍杀",
+      "动作角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "重复购买同类骷髅会合并升级并最终解锁专属能力",
+      "dimension": "玩法",
+      "excerpt": "Buying multiple units of the same type merges them into stronger versions, until they eventually unlock a unique special ability.",
+      "url": "https://store.steampowered.com/app/3199360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "地牢战利品会按兵种职业和标签触发收益",
+      "dimension": "玩法",
+      "excerpt": "Loot found in the dungeon interacts with unit classes and tags to produce powerful benefits.",
+      "url": "https://store.steampowered.com/app/3199360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "骷髅兵自动作战，玩家只负责编队、路线和升级决策",
+      "dimension": "玩法",
+      "excerpt": "This game is realtime, and your minions do battle independently. Your role is to develop your squad, choose where to explore, when to move on, and pick the correct upgrades.",
+      "url": "https://store.steampowered.com/app/3199360/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 106349,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 139357,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9647,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 970313,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 107621,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 107621,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.545221677015121,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1048,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.724461,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "骷髅成群位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/ss_a3e088757d1423289d57693c37693623317eedbd.1920x1080.jpg?t=1779607540",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/ss_a3e088757d1423289d57693c37693623317eedbd.1920x1080.jpg?t=1779607540",
+        "alt": "骷髅成群 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/f965a575958d7a3cd90e411bf2adef935f7738a9/ss_f965a575958d7a3cd90e411bf2adef935f7738a9.1920x1080.jpg?t=1779607540",
+        "alt": "骷髅成群 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/ss_96a200954edc2a45ead061871fb317e4463bde6a.1920x1080.jpg?t=1779607540",
+        "alt": "骷髅成群 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/342118f92017fd5a4e0d0f527d694f87f581dd52/ss_342118f92017fd5a4e0d0f527d694f87f581dd52.1920x1080.jpg?t=1779607540",
+        "alt": "骷髅成群 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/01214b7dc37a9a20b46734db6f9e5fa2ca503bd5/ss_01214b7dc37a9a20b46734db6f9e5fa2ca503bd5.1920x1080.jpg?t=1779607540",
+        "alt": "骷髅成群 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/ss_1fe8a5f6a412766b37e01b06eccebae08688a6da.1920x1080.jpg?t=1779607540",
+        "alt": "骷髅成群 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/99016936c2abd6fc24fe324c777504c53a528179/ss_99016936c2abd6fc24fe324c777504c53a528179.1920x1080.jpg?t=1779607540",
+        "alt": "骷髅成群 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199360/5c193b1da6dd936bd8b2cf6dcbea6db87054314b/ss_5c193b1da6dd936bd8b2cf6dcbea6db87054314b.1920x1080.jpg?t=1779607540",
+        "alt": "骷髅成群 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

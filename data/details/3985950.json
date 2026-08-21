@@ -1,1 +1,178 @@
-{"identity":{"original_title":"R.I.P. - Reincarnation Insurance Program","developers":["WarmCore Studio"],"publishers":["2P Games"],"release_status":"early_access","release_date":"2026-01-25","tags":["抢先体验","动作肉鸽","僵尸","弹幕射击","轻度Rogue"]},"hooks":[{"text":"把幸存者式弹幕清屏与暗黑式装备成长塞进僵尸理赔工作","dimension":"玩法","excerpt":"R.I.P. merges the bullet-heaven barrage of Vampire Survivors together with the deeply gear-driven progression of Diablo. In a world full of corrosion viruses and zombies, you will act as an elite R.I.P. employee with a simple goal to resolve the screen-flooding hordes through physical means. Kill monsters, pick up loots, recast gears, and collect various sets - work has never been so exciting!","url":"https://store.steampowered.com/app/3985950/","label":"证据原文片段"},{"text":"追逐金光传奇词缀、重铸数值，再用传奇契约激活改变流派的套装","dimension":"玩法","excerpt":"Scavenge hundreds of weapons and tactical gears from the ruins. Beware of the golden beams - legendary items are empowered with game-changing affixes. Few things are more satisfying for a corporate drone than seeing the damage numbers skyrocket. Not happy with your loots’ stats? Feel free to find the company's master artisans to recast them. The Legend Contracts dropped on the battlefield will grant unique set bonuses, dramatically shifting your build's potential, allowing you to craft a Combat Build that fits you perfectly.","url":"https://store.steampowered.com/app/3985950/","label":"证据原文片段"},{"text":"把标准地图构筑永久保存进虚空尖塔，在无限楼层继续刷神装与神圣科技","dimension":"玩法","excerpt":"In this mode, you can permanently save the builds you create in standard maps and bring them into the Spire to challenge infinitely increasing enemy power across rising floors. Every floor brings better loot and unlimited Divine Tech upgrades — just grind nonstop and enjoy the power climb! Don't be upset even you fail, because your Contribution Points will be retained anyway, which can be utilized to upgrade your stats and unlock new abilities in the talent tree.","url":"https://store.steampowered.com/app/3985950/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":159192,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":176666,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":15531,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1542520,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":163975,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":163975,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.17666143443942,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2616,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":76,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":76.1959,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/2a3349f71dc347dc0da40454224cf082e945583a/ss_2a3349f71dc347dc0da40454224cf082e945583a.1920x1080.jpg?t=1784562130","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/2a3349f71dc347dc0da40454224cf082e945583a/ss_2a3349f71dc347dc0da40454224cf082e945583a.1920x1080.jpg?t=1784562130","alt":"轮回保险公司 R.I.P. 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/3b5fd96a7772c559d257f78916fdac7800714720/ss_3b5fd96a7772c559d257f78916fdac7800714720.1920x1080.jpg?t=1784562130","alt":"轮回保险公司 R.I.P. 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/f8017ae4fe7d2fa75e85e249c61fea0f4847d6da/ss_f8017ae4fe7d2fa75e85e249c61fea0f4847d6da.1920x1080.jpg?t=1784562130","alt":"轮回保险公司 R.I.P. 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/73f9b944a13c796e21494e75fa74cafc93554efc/ss_73f9b944a13c796e21494e75fa74cafc93554efc.1920x1080.jpg?t=1784562130","alt":"轮回保险公司 R.I.P. 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "R.I.P. - Reincarnation Insurance Program",
+    "developers": [
+      "WarmCore Studio"
+    ],
+    "publishers": [
+      "2P Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-01-25",
+    "tags": [
+      "抢先体验",
+      "轻度Rogue",
+      "动作肉鸽",
+      "动作肉鸽",
+      "僵尸"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把幸存者式弹幕清屏与暗黑式装备成长塞进僵尸理赔工作",
+      "dimension": "玩法",
+      "excerpt": "R.I.P. merges the bullet-heaven barrage of Vampire Survivors together with the deeply gear-driven progression of Diablo. In a world full of corrosion viruses and zombies, you will act as an elite R.I.P. employee with a simple goal to resolve the screen-flooding hordes through physical means. Kill monsters, pick up loots, recast gears, and collect various sets - work has never been so exciting!",
+      "url": "https://store.steampowered.com/app/3985950/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "追逐金光传奇词缀、重铸数值，再用传奇契约激活改变流派的套装",
+      "dimension": "玩法",
+      "excerpt": "Scavenge hundreds of weapons and tactical gears from the ruins. Beware of the golden beams - legendary items are empowered with game-changing affixes. Few things are more satisfying for a corporate drone than seeing the damage numbers skyrocket. Not happy with your loots’ stats? Feel free to find the company's master artisans to recast them. The Legend Contracts dropped on the battlefield will grant unique set bonuses, dramatically shifting your build's potential, allowing you to craft a Combat Build that fits you perfectly.",
+      "url": "https://store.steampowered.com/app/3985950/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把标准地图构筑永久保存进虚空尖塔，在无限楼层继续刷神装与神圣科技",
+      "dimension": "玩法",
+      "excerpt": "In this mode, you can permanently save the builds you create in standard maps and bring them into the Spire to challenge infinitely increasing enemy power across rising floors. Every floor brings better loot and unlimited Divine Tech upgrades — just grind nonstop and enjoy the power climb! Don't be upset even you fail, because your Contribution Points will be retained anyway, which can be utilized to upgrade your stats and unlock new abilities in the talent tree.",
+      "url": "https://store.steampowered.com/app/3985950/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 169833,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 181549,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 15835,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1652817,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 175181,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 175181,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.055892154342,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2610,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 77,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 76.580197,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "轮回保险公司 R.I.P.位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/2a3349f71dc347dc0da40454224cf082e945583a/ss_2a3349f71dc347dc0da40454224cf082e945583a.1920x1080.jpg?t=1784562130",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/2a3349f71dc347dc0da40454224cf082e945583a/ss_2a3349f71dc347dc0da40454224cf082e945583a.1920x1080.jpg?t=1786952381",
+        "alt": "轮回保险公司 R.I.P. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/3b5fd96a7772c559d257f78916fdac7800714720/ss_3b5fd96a7772c559d257f78916fdac7800714720.1920x1080.jpg?t=1786952381",
+        "alt": "轮回保险公司 R.I.P. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/f8017ae4fe7d2fa75e85e249c61fea0f4847d6da/ss_f8017ae4fe7d2fa75e85e249c61fea0f4847d6da.1920x1080.jpg?t=1786952381",
+        "alt": "轮回保险公司 R.I.P. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/73f9b944a13c796e21494e75fa74cafc93554efc/ss_73f9b944a13c796e21494e75fa74cafc93554efc.1920x1080.jpg?t=1786952381",
+        "alt": "轮回保险公司 R.I.P. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/1325deaea77ad322b3a882b311f18baeaa97e149/ss_1325deaea77ad322b3a882b311f18baeaa97e149.1920x1080.jpg?t=1786952381",
+        "alt": "轮回保险公司 R.I.P. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/4150fd2fad0c5adf5045506787a61211741cff99/ss_4150fd2fad0c5adf5045506787a61211741cff99.1920x1080.jpg?t=1786952381",
+        "alt": "轮回保险公司 R.I.P. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/e0c1f2f703b65ec5e0990f3b322706354a25a93f/ss_e0c1f2f703b65ec5e0990f3b322706354a25a93f.1920x1080.jpg?t=1786952381",
+        "alt": "轮回保险公司 R.I.P. 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/79ad0b50c3f84d2581fb21baa50fb677effaee93/ss_79ad0b50c3f84d2581fb21baa50fb677effaee93.1920x1080.jpg?t=1786952381",
+        "alt": "轮回保险公司 R.I.P. 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

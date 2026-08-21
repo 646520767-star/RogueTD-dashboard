@@ -1,1 +1,315 @@
-{"identity":{"original_title":"Forest Heroes","developers":["Hoochoo Game Studios"],"publishers":["Hoochoo Game Studios"],"release_status":"released","release_date":"2025-07-17","tags":["策略","塔防","肉鸽卡组构筑","单人游戏","卡牌对战"]},"hooks":[{"text":"守住“Mushtower”，用有限法力部署动物盟友，顶住持续敌潮直到击败首领。","dimension":"玩法","excerpt":"Protect it from the waves of incoming enemies. The enemies will keep coming until their boss is defeated. Use limited mana wisely to send animal allies against the foes and utilize skills to push back the front lines.","url":"https://store.steampowered.com/app/3001330/","label":"证据原文片段"},{"text":"白昼到黑夜敌人持续变强，通过动物卡、强化帽、精灵技能卡与神器共同扩充牌组成长。","dimension":"玩法","excerpt":"Obtain better animal cards and equip them with hats that provide enhancement effects. Elf skill cards and Artifacts are also crucial to your strategy for victory!","url":"https://store.steampowered.com/app/3001330/","label":"证据原文片段"},{"text":"扮演守护精灵，带领动物盟友与蘑菇魔法净化被怨恨橡树诅咒的森林。","dimension":"题材","excerpt":"However, a deeply resentful oak has cursed and corrupted the forest. As a guardian elf, rally animal allies and use mushroom skills to defend your base and purify the forest!","url":"https://store.steampowered.com/app/3001330/","label":"证据原文片段"}],"opinions":[{"text":"强成长构筑成型后胜负失去悬念。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Once you get one of these cards, the run is an inevitable win","url":"https://steamcommunity.com/id/Verisimilitude/recommended/3001330/","label":"证据原文片段"}]},{"text":"最终战只容许很少的有效卡牌与战术。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a very limited amount of cards and tactics that will be able to viably add value to the final fight.","url":"https://steamcommunity.com/id/rogers37044/recommended/3001330/","label":"证据原文片段"}]},{"text":"部分操作不够人性化。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"这个游戏有些操作并不人性化","url":"https://steamcommunity.com/profiles/76561199070493259/recommended/3001330/","label":"证据原文片段"}]},{"text":"整体平衡差，过于容易破坏难度。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Really unbalanced as it is, it is so easy to break the game that there is no difficulty at all.","url":"https://steamcommunity.com/id/Fataelis/recommended/3001330/","label":"证据原文片段"}]},{"text":"只有少数强成长卡值得拿，严重限制卡牌可用性。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"~90% of cards aren't worth taking.","url":"https://steamcommunity.com/id/Verisimilitude/recommended/3001330/","label":"证据原文片段"}]},{"text":"塔防、牌组构筑与肉鸽的融合令人上瘾。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"perfect mix between TD and deckbuilder. Now add roguelike to it and you have a perfectly addictive game.","url":"https://store.steampowered.com/curator/38553778-All-about-Strategy-Games/","label":"证据原文片段"}]},{"text":"随机事件的选择过程有趣。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The event decision making was fun","url":"https://steamcommunity.com/profiles/76561198054382565/recommended/3001330/","label":"证据原文片段"}]},{"text":"相比同类作品具有更深的策略性。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"it has a much deeper strategy","url":"https://steamcommunity.com/id/elijahjns/recommended/3001330/","label":"证据原文片段"}]},{"text":"难度设置方式获得玩家认可。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I like this method of challenge","url":"https://steamcommunity.com/profiles/76561198054382565/recommended/3001330/","label":"证据原文片段"}]},{"text":"温馨战斗游戏的主题受到喜爱。","dimension":"主题","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"I love those cosy combat games.","url":"https://store.steampowered.com/curator/45146471-TheCozyCafe/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":9140,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":16523,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1067,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":73424,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9507,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9507,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.597674428819241,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":290,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.137931,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["强成长构筑成型后胜负失去悬念。","最终战只容许很少的有效卡牌与战术。","部分操作不够人性化。","整体平衡差，过于容易破坏难度。","只有少数强成长卡值得拿，严重限制卡牌可用性。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/2ef7a20a74919f3b508ad989f6bfc4420cbbc25d/ss_2ef7a20a74919f3b508ad989f6bfc4420cbbc25d.1920x1080.jpg?t=1753067914","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/2ef7a20a74919f3b508ad989f6bfc4420cbbc25d/ss_2ef7a20a74919f3b508ad989f6bfc4420cbbc25d.1920x1080.jpg?t=1753067914","alt":"绿林英雄 (Forest Heroes) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/ss_fd89094797ebf8f183507ee20ea41b8a8926ff4e.1920x1080.jpg?t=1753067914","alt":"绿林英雄 (Forest Heroes) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/a4358d9b011df60b7ec660e0db885fa17e870dd5/ss_a4358d9b011df60b7ec660e0db885fa17e870dd5.1920x1080.jpg?t=1753067914","alt":"绿林英雄 (Forest Heroes) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/8902d73a8cfb283cc408ca633cd6adad1b87a3ab/ss_8902d73a8cfb283cc408ca633cd6adad1b87a3ab.1920x1080.jpg?t=1753067914","alt":"绿林英雄 (Forest Heroes) 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Forest Heroes",
+    "developers": [
+      "Hoochoo Game Studios"
+    ],
+    "publishers": [
+      "Hoochoo Game Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2025-07-17",
+    "tags": [
+      "策略",
+      "塔防",
+      "肉鸽卡组构筑",
+      "单人游戏",
+      "卡牌对战"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "守住“Mushtower”，用有限法力部署动物盟友，顶住持续敌潮直到击败首领。",
+      "dimension": "玩法",
+      "excerpt": "Protect it from the waves of incoming enemies. The enemies will keep coming until their boss is defeated. Use limited mana wisely to send animal allies against the foes and utilize skills to push back the front lines.",
+      "url": "https://store.steampowered.com/app/3001330/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "白昼到黑夜敌人持续变强，通过动物卡、强化帽、精灵技能卡与神器共同扩充牌组成长。",
+      "dimension": "玩法",
+      "excerpt": "Obtain better animal cards and equip them with hats that provide enhancement effects. Elf skill cards and Artifacts are also crucial to your strategy for victory!",
+      "url": "https://store.steampowered.com/app/3001330/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "扮演守护精灵，带领动物盟友与蘑菇魔法净化被怨恨橡树诅咒的森林。",
+      "dimension": "题材",
+      "excerpt": "However, a deeply resentful oak has cursed and corrupted the forest. As a guardian elf, rally animal allies and use mushroom skills to defend your base and purify the forest!",
+      "url": "https://store.steampowered.com/app/3001330/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "强成长构筑成型后胜负失去悬念。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Once you get one of these cards, the run is an inevitable win",
+          "url": "https://steamcommunity.com/id/Verisimilitude/recommended/3001330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "最终战只容许很少的有效卡牌与战术。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a very limited amount of cards and tactics that will be able to viably add value to the final fight.",
+          "url": "https://steamcommunity.com/id/rogers37044/recommended/3001330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分操作不够人性化。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "这个游戏有些操作并不人性化",
+          "url": "https://steamcommunity.com/profiles/76561199070493259/recommended/3001330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体平衡差，过于容易破坏难度。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Really unbalanced as it is, it is so easy to break the game that there is no difficulty at all.",
+          "url": "https://steamcommunity.com/id/Fataelis/recommended/3001330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "只有少数强成长卡值得拿，严重限制卡牌可用性。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "~90% of cards aren't worth taking.",
+          "url": "https://steamcommunity.com/id/Verisimilitude/recommended/3001330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "塔防、牌组构筑与肉鸽的融合令人上瘾。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "perfect mix between TD and deckbuilder. Now add roguelike to it and you have a perfectly addictive game.",
+          "url": "https://store.steampowered.com/curator/38553778-All-about-Strategy-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "随机事件的选择过程有趣。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The event decision making was fun",
+          "url": "https://steamcommunity.com/profiles/76561198054382565/recommended/3001330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "相比同类作品具有更深的策略性。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it has a much deeper strategy",
+          "url": "https://steamcommunity.com/id/elijahjns/recommended/3001330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "难度设置方式获得玩家认可。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I like this method of challenge",
+          "url": "https://steamcommunity.com/profiles/76561198054382565/recommended/3001330/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "温馨战斗游戏的主题受到喜爱。",
+      "dimension": "主题",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I love those cosy combat games.",
+          "url": "https://store.steampowered.com/curator/45146471-TheCozyCafe/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 10244,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 16620,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1067,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 83228,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10654,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10654,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.613803682914874,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 275,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.19244,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "强成长构筑成型后胜负失去悬念。",
+    "最终战只容许很少的有效卡牌与战术。",
+    "部分操作不够人性化。",
+    "整体平衡差，过于容易破坏难度。",
+    "只有少数强成长卡值得拿，严重限制卡牌可用性。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "绿林英雄 (Forest Heroes)位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/2ef7a20a74919f3b508ad989f6bfc4420cbbc25d/ss_2ef7a20a74919f3b508ad989f6bfc4420cbbc25d.1920x1080.jpg?t=1753067914",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/2ef7a20a74919f3b508ad989f6bfc4420cbbc25d/ss_2ef7a20a74919f3b508ad989f6bfc4420cbbc25d.1920x1080.jpg?t=1753067914",
+        "alt": "绿林英雄 (Forest Heroes) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/ss_fd89094797ebf8f183507ee20ea41b8a8926ff4e.1920x1080.jpg?t=1753067914",
+        "alt": "绿林英雄 (Forest Heroes) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/a4358d9b011df60b7ec660e0db885fa17e870dd5/ss_a4358d9b011df60b7ec660e0db885fa17e870dd5.1920x1080.jpg?t=1753067914",
+        "alt": "绿林英雄 (Forest Heroes) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/8902d73a8cfb283cc408ca633cd6adad1b87a3ab/ss_8902d73a8cfb283cc408ca633cd6adad1b87a3ab.1920x1080.jpg?t=1753067914",
+        "alt": "绿林英雄 (Forest Heroes) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/9490b769bc7a1cb7b7ad58684150342198520de4/ss_9490b769bc7a1cb7b7ad58684150342198520de4.1920x1080.jpg?t=1753067914",
+        "alt": "绿林英雄 (Forest Heroes) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/6615211232919de4da5df379f6f36c77ee4f69e4/ss_6615211232919de4da5df379f6f36c77ee4f69e4.1920x1080.jpg?t=1753067914",
+        "alt": "绿林英雄 (Forest Heroes) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/e971636ebe2c5585cac5fade1e791d1b42b8bcfe/ss_e971636ebe2c5585cac5fade1e791d1b42b8bcfe.1920x1080.jpg?t=1753067914",
+        "alt": "绿林英雄 (Forest Heroes) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001330/9a8db5e7410515b364dee08d282583fe7309c4b3/ss_9a8db5e7410515b364dee08d282583fe7309c4b3.1920x1080.jpg?t=1753067914",
+        "alt": "绿林英雄 (Forest Heroes) 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

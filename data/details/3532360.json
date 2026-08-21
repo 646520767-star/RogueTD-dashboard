@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Pirate's Gambit","developers":["Domestic Black Cat"],"publishers":["Studio Amateur"],"release_status":"released","release_date":"2026-02-05","tags":["策略","卡牌游戏","轻度Rogue","三维画面","恐怖"]},"hooks":[{"text":"牌组构筑、游艇骰与道具共同决定每一步生存选择","dimension":"玩法","excerpt":"To survive, you must build your deck wisely, master the dice and items, and make each move count.","url":"https://store.steampowered.com/app/3532360/","label":"证据原文片段"},{"text":"新路线穿越火山与冻原，逐步揭开船只旧秘密","dimension":"故事","excerpt":"As new routes unfold, you will traverse uncharted lands, from scorching volcanoes to frozen wastelands and beyond as you gradually uncover the ship’s long-buried secrets.","url":"https://store.steampowered.com/app/3532360/","label":"证据原文片段"},{"text":"每次掷骰都可能是最后一次的无归路恐怖赌局","dimension":"题材","excerpt":"Are you the one controlling the dice, or merely a pawn in their game? In this gamble with no way back, the only certainty is that every roll could be your last.","url":"https://store.steampowered.com/app/3532360/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8910,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":12710,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":802,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":69496,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":9199,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":9199,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.921954013837684,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":468,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.529915,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、卡牌游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/95e97bc76f8a4d9dab5e9449cc2dff4fbcb248df/ss_95e97bc76f8a4d9dab5e9449cc2dff4fbcb248df.1920x1080.jpg?t=1770812883","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/95e97bc76f8a4d9dab5e9449cc2dff4fbcb248df/ss_95e97bc76f8a4d9dab5e9449cc2dff4fbcb248df.1920x1080.jpg?t=1770812883","alt":"黑帆赌局 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/c8bba47454445614c9d382736c418878af523f1a/ss_c8bba47454445614c9d382736c418878af523f1a.1920x1080.jpg?t=1770812883","alt":"黑帆赌局 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/b85d5253b837cf87e0b588f466c98d37fd93a253/ss_b85d5253b837cf87e0b588f466c98d37fd93a253.1920x1080.jpg?t=1770812883","alt":"黑帆赌局 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/af5118988167e055eec73e070772a70e7295347f/ss_af5118988167e055eec73e070772a70e7295347f.1920x1080.jpg?t=1770812883","alt":"黑帆赌局 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pirate's Gambit",
+    "developers": [
+      "Domestic Black Cat"
+    ],
+    "publishers": [
+      "Studio Amateur"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-05",
+    "tags": [
+      "策略",
+      "卡牌游戏",
+      "轻度Rogue",
+      "三维画面",
+      "恐怖"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "牌组构筑、游艇骰与道具共同决定每一步生存选择",
+      "dimension": "玩法",
+      "excerpt": "To survive, you must build your deck wisely, master the dice and items, and make each move count.",
+      "url": "https://store.steampowered.com/app/3532360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "新路线穿越火山与冻原，逐步揭开船只旧秘密",
+      "dimension": "故事",
+      "excerpt": "As new routes unfold, you will traverse uncharted lands, from scorching volcanoes to frozen wastelands and beyond as you gradually uncover the ship’s long-buried secrets.",
+      "url": "https://store.steampowered.com/app/3532360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次掷骰都可能是最后一次的无归路恐怖赌局",
+      "dimension": "题材",
+      "excerpt": "Are you the one controlling the dice, or merely a pawn in their game? In this gamble with no way back, the only certainty is that every roll could be your last.",
+      "url": "https://store.steampowered.com/app/3532360/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 9142,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 11507,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 817,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 71819,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 9423,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 9423,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.888692875446709,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 449,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.552239,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "黑帆赌局位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/95e97bc76f8a4d9dab5e9449cc2dff4fbcb248df/ss_95e97bc76f8a4d9dab5e9449cc2dff4fbcb248df.1920x1080.jpg?t=1770812883",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/95e97bc76f8a4d9dab5e9449cc2dff4fbcb248df/ss_95e97bc76f8a4d9dab5e9449cc2dff4fbcb248df.1920x1080.jpg?t=1770812883",
+        "alt": "黑帆赌局 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/c8bba47454445614c9d382736c418878af523f1a/ss_c8bba47454445614c9d382736c418878af523f1a.1920x1080.jpg?t=1770812883",
+        "alt": "黑帆赌局 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/b85d5253b837cf87e0b588f466c98d37fd93a253/ss_b85d5253b837cf87e0b588f466c98d37fd93a253.1920x1080.jpg?t=1770812883",
+        "alt": "黑帆赌局 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/af5118988167e055eec73e070772a70e7295347f/ss_af5118988167e055eec73e070772a70e7295347f.1920x1080.jpg?t=1770812883",
+        "alt": "黑帆赌局 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/92738047f650fe01047c5ae6e5d4c88577dfbe5f/ss_92738047f650fe01047c5ae6e5d4c88577dfbe5f.1920x1080.jpg?t=1770812883",
+        "alt": "黑帆赌局 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/fb839c88b0eac389d80f5763a937d3bcf33205ad/ss_fb839c88b0eac389d80f5763a937d3bcf33205ad.1920x1080.jpg?t=1770812883",
+        "alt": "黑帆赌局 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/03ee4d1df4ea54b397cfb76fe0fbb28187cd7fc4/ss_03ee4d1df4ea54b397cfb76fe0fbb28187cd7fc4.1920x1080.jpg?t=1770812883",
+        "alt": "黑帆赌局 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532360/be053c8398615bca23ae5a11f2356cb20085a1e2/ss_be053c8398615bca23ae5a11f2356cb20085a1e2.1920x1080.jpg?t=1770812883",
+        "alt": "黑帆赌局 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

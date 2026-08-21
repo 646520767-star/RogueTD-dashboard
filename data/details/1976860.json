@@ -1,1 +1,174 @@
-{"identity":{"original_title":"MORSE","developers":["ALJO Games"],"publishers":["ALJO Games"],"release_status":"released","release_date":"2025-11-11","tags":["策略","动作","塔防","轻度Rogue","战斗"]},"hooks":[{"text":"仅用摩斯输入与火炮两种控制，通过点划信号在动态字符网格上作战","dimension":"玩法","excerpt":"MORSE is a wave based strategy game elegantly operated with just two controls, Morse and Artillery: Enter dots and dashes to navigate an ever changing grid of letters and numbers.","url":"https://store.steampowered.com/app/1976860/","label":"证据原文片段"},{"text":"敌舰隐藏在黑暗中，炮击闪光既造成威胁也承担临时或永久照明侦察","dimension":"玩法","excerpt":"German ships are shrouded by the cover of darkness, illuminate their positions using the flash of your artillery strikes. Distant vessels will briefly brighten, land a blast close enough and warships will be permanently revealed.","url":"https://store.steampowered.com/app/1976860/","label":"证据原文片段"},{"text":"每波后用点或划二选一升级卡，叠加炮弹、水雷与侦察强化","dimension":"玩法","excerpt":"After successfully repelling each assault, pick between a pair of upgrade cards to bolster your arsenal, chosen with either a dot or a dash. Unlock new deadly types of artillery shell, improve your sea mines or enhance your reconnaissance. Upgrades stack so choose wisely!","url":"https://store.steampowered.com/app/1976860/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6189,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":62276,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2810,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":63367,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6225,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6225,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.4342678020390323,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":121,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.214876,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/001140135df126eeff1c2b63685012bcf01d4084/ss_001140135df126eeff1c2b63685012bcf01d4084.1920x1080.jpg?t=1777562587","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/001140135df126eeff1c2b63685012bcf01d4084/ss_001140135df126eeff1c2b63685012bcf01d4084.1920x1080.jpg?t=1777562587","alt":"MORSE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/e6e9608c20053d335d29af725e95e3e92995f54e/ss_e6e9608c20053d335d29af725e95e3e92995f54e.1920x1080.jpg?t=1777562587","alt":"MORSE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/65707835b69385c4f008fc5184bafcd13dc18475/ss_65707835b69385c4f008fc5184bafcd13dc18475.1920x1080.jpg?t=1777562587","alt":"MORSE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/98dce3ad5910e080eb8bb1994c20b380af06d472/ss_98dce3ad5910e080eb8bb1994c20b380af06d472.1920x1080.jpg?t=1777562587","alt":"MORSE 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "MORSE",
+    "developers": [
+      "ALJO Games"
+    ],
+    "publishers": [
+      "ALJO Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-11",
+    "tags": [
+      "策略",
+      "轻度Rogue",
+      "动作",
+      "塔防",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "仅用摩斯输入与火炮两种控制，通过点划信号在动态字符网格上作战",
+      "dimension": "玩法",
+      "excerpt": "MORSE is a wave based strategy game elegantly operated with just two controls, Morse and Artillery: Enter dots and dashes to navigate an ever changing grid of letters and numbers.",
+      "url": "https://store.steampowered.com/app/1976860/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "敌舰隐藏在黑暗中，炮击闪光既造成威胁也承担临时或永久照明侦察",
+      "dimension": "玩法",
+      "excerpt": "German ships are shrouded by the cover of darkness, illuminate their positions using the flash of your artillery strikes. Distant vessels will briefly brighten, land a blast close enough and warships will be permanently revealed.",
+      "url": "https://store.steampowered.com/app/1976860/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每波后用点或划二选一升级卡，叠加炮弹、水雷与侦察强化",
+      "dimension": "玩法",
+      "excerpt": "After successfully repelling each assault, pick between a pair of upgrade cards to bolster your arsenal, chosen with either a dot or a dash. Unlock new deadly types of artillery shell, improve your sea mines or enhance your reconnaissance. Upgrades stack so choose wisely!",
+      "url": "https://store.steampowered.com/app/1976860/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 8065,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 66480,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2871,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 84715,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8111,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8111,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.0020837919057834,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 123,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.548387,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "MORSE位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/001140135df126eeff1c2b63685012bcf01d4084/ss_001140135df126eeff1c2b63685012bcf01d4084.1920x1080.jpg?t=1777562587",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/001140135df126eeff1c2b63685012bcf01d4084/ss_001140135df126eeff1c2b63685012bcf01d4084.1920x1080.jpg?t=1786097357",
+        "alt": "MORSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/e6e9608c20053d335d29af725e95e3e92995f54e/ss_e6e9608c20053d335d29af725e95e3e92995f54e.1920x1080.jpg?t=1786097357",
+        "alt": "MORSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/65707835b69385c4f008fc5184bafcd13dc18475/ss_65707835b69385c4f008fc5184bafcd13dc18475.1920x1080.jpg?t=1786097357",
+        "alt": "MORSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/98dce3ad5910e080eb8bb1994c20b380af06d472/ss_98dce3ad5910e080eb8bb1994c20b380af06d472.1920x1080.jpg?t=1786097357",
+        "alt": "MORSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/8c2a064c456030bc15f0a1240b9ea42aa8b7570f/ss_8c2a064c456030bc15f0a1240b9ea42aa8b7570f.1920x1080.jpg?t=1786097357",
+        "alt": "MORSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/05e8b904d445a54e2456405d0874d6756460fb59/ss_05e8b904d445a54e2456405d0874d6756460fb59.1920x1080.jpg?t=1786097357",
+        "alt": "MORSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976860/317cb1f91396d49876f39612c84ab77fab4d56fa/ss_317cb1f91396d49876f39612c84ab77fab4d56fa.1920x1080.jpg?t=1786097357",
+        "alt": "MORSE 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

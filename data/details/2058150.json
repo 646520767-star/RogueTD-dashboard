@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Duck Paradox","developers":["Magic Games"],"publishers":["Midwest Games"],"release_status":"released","release_date":"2024-10-09","tags":["单人游戏","清版射击","街机","动作肉鸽","弹幕射击"]},"hooks":[{"text":"反弹子弹把失误变成额外威胁的精准平台射击","dimension":"玩法","excerpt":"Leap across perilous platforms, unleashing waves of bouncing bullets on swarms of feathered foes. Every ray gun blast offers a deadly risk: each miss ricochets off of walls, adding to Dr. Paraducks’ list of troubles.","url":"https://store.steampowered.com/app/2058150/","label":"证据原文片段"},{"text":"每关二选一随机升级，重开后重组构筑","dimension":"玩法","excerpt":"Select between two randomized upgrades at the end of each level, experimenting with new builds with every reset.","url":"https://store.steampowered.com/app/2058150/","label":"证据原文片段"},{"text":"科学家穿越多元宇宙寻找宠物鸭的荒诞救援冒险","dimension":"题材","excerpt":"Navigate the infinite domains of the multiverse as savvy scientist Dr. Paraducks in search of her pet duck, lost in the throes of space-time thanks to a malfunctioning time machine.","url":"https://store.steampowered.com/app/2058150/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6651,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":15251,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":765,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":42974,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":22140,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":22140,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.4255664156517085,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":328,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":95.121951,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"单人游戏、清版射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_ddbf78358057ebae5832910fea40bb6eb37a59e7.1920x1080.jpg?t=1744044917","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_ddbf78358057ebae5832910fea40bb6eb37a59e7.1920x1080.jpg?t=1744044917","alt":"Duck Paradox 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_445a27fbe6aa89fbeed0370e296beb90bf97f600.1920x1080.jpg?t=1744044917","alt":"Duck Paradox 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_b93821b41cb04557b85042052cfa729ed145c3e3.1920x1080.jpg?t=1744044917","alt":"Duck Paradox 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_b8c663e79d46719adf850e1b11c305e42778d765.1920x1080.jpg?t=1744044917","alt":"Duck Paradox 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Duck Paradox",
+    "developers": [
+      "Magic Games"
+    ],
+    "publishers": [
+      "Midwest Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-10-09",
+    "tags": [
+      "单人游戏",
+      "清版射击",
+      "街机",
+      "动作肉鸽",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "反弹子弹把失误变成额外威胁的精准平台射击",
+      "dimension": "玩法",
+      "excerpt": "Leap across perilous platforms, unleashing waves of bouncing bullets on swarms of feathered foes. Every ray gun blast offers a deadly risk: each miss ricochets off of walls, adding to Dr. Paraducks’ list of troubles.",
+      "url": "https://store.steampowered.com/app/2058150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每关二选一随机升级，重开后重组构筑",
+      "dimension": "玩法",
+      "excerpt": "Select between two randomized upgrades at the end of each level, experimenting with new builds with every reset.",
+      "url": "https://store.steampowered.com/app/2058150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "科学家穿越多元宇宙寻找宠物鸭的荒诞救援冒险",
+      "dimension": "题材",
+      "excerpt": "Navigate the infinite domains of the multiverse as savvy scientist Dr. Paraducks in search of her pet duck, lost in the throes of space-time thanks to a malfunctioning time machine.",
+      "url": "https://store.steampowered.com/app/2058150/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6651,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 15342,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 764,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 48108,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 22140,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 22140,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.4321856057899085,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 19,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 95.121951,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Duck Paradox位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_ddbf78358057ebae5832910fea40bb6eb37a59e7.1920x1080.jpg?t=1744044917",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_ddbf78358057ebae5832910fea40bb6eb37a59e7.1920x1080.jpg?t=1744044917",
+        "alt": "Duck Paradox 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_445a27fbe6aa89fbeed0370e296beb90bf97f600.1920x1080.jpg?t=1744044917",
+        "alt": "Duck Paradox 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_b93821b41cb04557b85042052cfa729ed145c3e3.1920x1080.jpg?t=1744044917",
+        "alt": "Duck Paradox 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_b8c663e79d46719adf850e1b11c305e42778d765.1920x1080.jpg?t=1744044917",
+        "alt": "Duck Paradox 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_0ba0b52c3da5d865e49d6d99fcde4ee65f6d85ad.1920x1080.jpg?t=1744044917",
+        "alt": "Duck Paradox 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_df8e35af4f43bb141371c704abacd1e267c0fcb4.1920x1080.jpg?t=1744044917",
+        "alt": "Duck Paradox 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_870b8990ba9e8e0b28a6a2437e336c5c73009454.1920x1080.jpg?t=1744044917",
+        "alt": "Duck Paradox 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058150/ss_658ba8916ace5b1a885838317c160f07b4707aaf.1920x1080.jpg?t=1744044917",
+        "alt": "Duck Paradox 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

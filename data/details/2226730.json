@@ -1,1 +1,178 @@
-{"identity":{"original_title":"OVIS LOOP","developers":["LIFUEL"],"publishers":["LIFUEL"],"release_status":"early_access","release_date":"2025-08-14","tags":["抢先体验","二维画面","动作肉鸽","像素画面","冒险"]},"hooks":[{"text":"每项技能升级都可在强化原技能和追加链式技能之间二选一，决定专精单招或延长连段","dimension":"玩法","excerpt":"Rather than just acquiring new skills, Ovis Loop gives you the choice between passive and active upgrades for each skill. Decide to buff the skill you have, or add an additional chained skill to carry on carving your way through Doctor Wolf’s minions. Our skill and combo system allows you to play your way. Focus on strengthening just one skill, or embrace the dynamic force of the chain, it’s up to you.","url":"https://store.steampowered.com/app/2226730/","label":"证据原文片段"},{"text":"Boss会学习玩家习惯：偏闪避就持续追击，偏冲锋则主动后撤拉开距离","dimension":"玩法","excerpt":"Whether you like to charge in, use area of effect or dive in and out, each boss will adapt to meet your challenge. Focus on dodging and find a boss that aggressively pursues. If you prefer to rush in, it’ll retreat to find space.","url":"https://store.steampowered.com/app/2226730/","label":"证据原文片段"},{"text":"Omega死亡后仍会进入下一次Loop，但本轮收集的所有改造都会丢失并以新配置重开","dimension":"玩法","excerpt":"One wrong move and while Omega will persist through death, any modifications collected will be lost as you hit a new Loop with a fresh loadout – it’s time to steel your woollen form, and protect the flock.","url":"https://store.steampowered.com/app/2226730/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":40556,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":141074,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8994,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":420124,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":43506,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":43506,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.213134944592422,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1187,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.804714,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、二维画面","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_849fb9df624c7e42c75bd12ae34c46adb1081525.1920x1080.jpg?t=1776408444","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_849fb9df624c7e42c75bd12ae34c46adb1081525.1920x1080.jpg?t=1776408444","alt":"孤羊战纪 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_194fa1e7545a89b070d118165ec0de7644dcbc71.1920x1080.jpg?t=1776408444","alt":"孤羊战纪 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_158daaf21c9368b74ea16c702b8150ba8cf01b17.1920x1080.jpg?t=1776408444","alt":"孤羊战纪 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_495712aab296a6e31618f2b82422ba389d9af261.1920x1080.jpg?t=1776408444","alt":"孤羊战纪 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "OVIS LOOP",
+    "developers": [
+      "LIFUEL"
+    ],
+    "publishers": [
+      "LIFUEL"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-08-14",
+    "tags": [
+      "抢先体验",
+      "二维画面",
+      "动作肉鸽",
+      "像素画面",
+      "冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每项技能升级都可在强化原技能和追加链式技能之间二选一，决定专精单招或延长连段",
+      "dimension": "玩法",
+      "excerpt": "Rather than just acquiring new skills, Ovis Loop gives you the choice between passive and active upgrades for each skill. Decide to buff the skill you have, or add an additional chained skill to carry on carving your way through Doctor Wolf’s minions. Our skill and combo system allows you to play your way. Focus on strengthening just one skill, or embrace the dynamic force of the chain, it’s up to you.",
+      "url": "https://store.steampowered.com/app/2226730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Boss会学习玩家习惯：偏闪避就持续追击，偏冲锋则主动后撤拉开距离",
+      "dimension": "玩法",
+      "excerpt": "Whether you like to charge in, use area of effect or dive in and out, each boss will adapt to meet your challenge. Focus on dodging and find a boss that aggressively pursues. If you prefer to rush in, it’ll retreat to find space.",
+      "url": "https://store.steampowered.com/app/2226730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Omega死亡后仍会进入下一次Loop，但本轮收集的所有改造都会丢失并以新配置重开",
+      "dimension": "玩法",
+      "excerpt": "One wrong move and while Omega will persist through death, any modifications collected will be lost as you hit a new Loop with a fresh loadout – it’s time to steel your woollen form, and protect the flock.",
+      "url": "https://store.steampowered.com/app/2226730/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 41473,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 144468,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8998,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 435677,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 44494,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 44494,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.18752738083506,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1080,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.638262,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "孤羊战纪位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_849fb9df624c7e42c75bd12ae34c46adb1081525.1920x1080.jpg?t=1776408444",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_849fb9df624c7e42c75bd12ae34c46adb1081525.1920x1080.jpg?t=1776408444",
+        "alt": "孤羊战纪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_194fa1e7545a89b070d118165ec0de7644dcbc71.1920x1080.jpg?t=1776408444",
+        "alt": "孤羊战纪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_158daaf21c9368b74ea16c702b8150ba8cf01b17.1920x1080.jpg?t=1776408444",
+        "alt": "孤羊战纪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_495712aab296a6e31618f2b82422ba389d9af261.1920x1080.jpg?t=1776408444",
+        "alt": "孤羊战纪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_932073b222be38d06da2fb5028d8090774f00268.1920x1080.jpg?t=1776408444",
+        "alt": "孤羊战纪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_71e198674f8a06081dbba329dc8ffde351402fad.1920x1080.jpg?t=1776408444",
+        "alt": "孤羊战纪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_6c2a219e2896ef64c39adc92a9aa9b5b4b2559e4.1920x1080.jpg?t=1776408444",
+        "alt": "孤羊战纪 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226730/ss_6d6fbe5fbd1dccb5574f4d5a3bbc890c41b3c48e.1920x1080.jpg?t=1776408444",
+        "alt": "孤羊战纪 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

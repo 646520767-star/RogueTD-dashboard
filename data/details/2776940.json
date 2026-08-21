@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Echoes of Yi : Samsara","developers":["Runmeng"],"publishers":["Runmeng"],"release_status":"released","release_date":"2025-04-17","tags":["动作冒险","角色扮演","单人游戏","冒险","战斗"]},"hooks":[{"text":"攻防快速转换与精准反击会累积敌人架势条，击溃防御后才能释放致命攻击","dimension":"玩法","excerpt":"Through rapid transitions between offense and defense, and precise counterattacks, players can build up the enemy's momentum bar, causing their defenses to collapse. Once an opportunity is seized, players can unleash deadly attacks, experiencing a high-intensity battle that seamlessly integrates offense and defense.","url":"https://store.steampowered.com/app/2776940/","label":"证据原文片段"},{"text":"三星堆遗址与京剧被直接融入首领造型和场景布局","dimension":"画风","excerpt":"The game deeply incorporates traditional Chinese culture, featuring elements such as the Sanxingdui ruins and Peking opera. The designs of the bosses and the arrangement of the scenes reflect the unique essence of traditional culture.","url":"https://store.steampowered.com/app/2776940/","label":"证据原文片段"},{"text":"唢呐、琵琶、古琴、古筝与打击乐共同构成传统中国乐器配乐","dimension":"画风","excerpt":"The game’s soundtrack features traditional Chinese instruments like the suona, pipa, guqin, and guzheng, combined with the unique sounds of percussion instruments, presenting the charm of traditional Chinese music.","url":"https://store.steampowered.com/app/2776940/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":8486,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":45754,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4669,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":129766,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":10018,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":10018,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.364321301692451,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":554,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":64,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":64.144144,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为64.144144%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/8949282bc57d476e1c374042324784fd9a3e2457/ss_8949282bc57d476e1c374042324784fd9a3e2457.1920x1080.jpg?t=1745489112","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/8949282bc57d476e1c374042324784fd9a3e2457/ss_8949282bc57d476e1c374042324784fd9a3e2457.1920x1080.jpg?t=1745489112","alt":"义闻录：轮回 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/e438de1b669b4f2773a42c59ae7298d57b39ef1c/ss_e438de1b669b4f2773a42c59ae7298d57b39ef1c.1920x1080.jpg?t=1745489112","alt":"义闻录：轮回 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/18dddbf5e83e17f36b3d3b001ec2e7a787ee1257/ss_18dddbf5e83e17f36b3d3b001ec2e7a787ee1257.1920x1080.jpg?t=1745489112","alt":"义闻录：轮回 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/d39df69748d1310022fd9e03e6be49ae0b36d59b/ss_d39df69748d1310022fd9e03e6be49ae0b36d59b.1920x1080.jpg?t=1745489112","alt":"义闻录：轮回 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Echoes of Yi : Samsara",
+    "developers": [
+      "Runmeng"
+    ],
+    "publishers": [
+      "Runmeng"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-17",
+    "tags": [
+      "动作冒险",
+      "角色扮演",
+      "轻度Rogue",
+      "单人游戏",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "攻防快速转换与精准反击会累积敌人架势条，击溃防御后才能释放致命攻击",
+      "dimension": "玩法",
+      "excerpt": "Through rapid transitions between offense and defense, and precise counterattacks, players can build up the enemy's momentum bar, causing their defenses to collapse. Once an opportunity is seized, players can unleash deadly attacks, experiencing a high-intensity battle that seamlessly integrates offense and defense.",
+      "url": "https://store.steampowered.com/app/2776940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三星堆遗址与京剧被直接融入首领造型和场景布局",
+      "dimension": "画风",
+      "excerpt": "The game deeply incorporates traditional Chinese culture, featuring elements such as the Sanxingdui ruins and Peking opera. The designs of the bosses and the arrangement of the scenes reflect the unique essence of traditional culture.",
+      "url": "https://store.steampowered.com/app/2776940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "唢呐、琵琶、古琴、古筝与打击乐共同构成传统中国乐器配乐",
+      "dimension": "画风",
+      "excerpt": "The game’s soundtrack features traditional Chinese instruments like the suona, pipa, guqin, and guzheng, combined with the unique sounds of percussion instruments, presenting the charm of traditional Chinese music.",
+      "url": "https://store.steampowered.com/app/2776940/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 8808,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 47304,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4678,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 132525,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10405,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10405,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.82808765397304,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 438,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 64,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 64.171123,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为64.144144%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "义闻录：轮回位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/8949282bc57d476e1c374042324784fd9a3e2457/ss_8949282bc57d476e1c374042324784fd9a3e2457.1920x1080.jpg?t=1745489112",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/8949282bc57d476e1c374042324784fd9a3e2457/ss_8949282bc57d476e1c374042324784fd9a3e2457.1920x1080.jpg?t=1745489112",
+        "alt": "义闻录：轮回 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/e438de1b669b4f2773a42c59ae7298d57b39ef1c/ss_e438de1b669b4f2773a42c59ae7298d57b39ef1c.1920x1080.jpg?t=1745489112",
+        "alt": "义闻录：轮回 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/18dddbf5e83e17f36b3d3b001ec2e7a787ee1257/ss_18dddbf5e83e17f36b3d3b001ec2e7a787ee1257.1920x1080.jpg?t=1745489112",
+        "alt": "义闻录：轮回 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/d39df69748d1310022fd9e03e6be49ae0b36d59b/ss_d39df69748d1310022fd9e03e6be49ae0b36d59b.1920x1080.jpg?t=1745489112",
+        "alt": "义闻录：轮回 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/3b287e56b26bcb72c1af2598ba9d5fccee6bb4b7/ss_3b287e56b26bcb72c1af2598ba9d5fccee6bb4b7.1920x1080.jpg?t=1745489112",
+        "alt": "义闻录：轮回 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/28031a06f432e088d8c70eac79ce7d538a2d7bf9/ss_28031a06f432e088d8c70eac79ce7d538a2d7bf9.1920x1080.jpg?t=1745489112",
+        "alt": "义闻录：轮回 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/b380c4fafee1f93ab09ac2bb5949b8d19f19ea7e/ss_b380c4fafee1f93ab09ac2bb5949b8d19f19ea7e.1920x1080.jpg?t=1745489112",
+        "alt": "义闻录：轮回 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/a43e87f586df60bc035d0a965c1aff1e59a7ea40/ss_a43e87f586df60bc035d0a965c1aff1e59a7ea40.1920x1080.jpg?t=1745489112",
+        "alt": "义闻录：轮回 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

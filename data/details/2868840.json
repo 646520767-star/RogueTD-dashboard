@@ -1,1 +1,267 @@
-{"identity":{"original_title":"Slay the Spire 2","developers":["Mega Crit"],"publishers":["Mega Crit"],"release_status":"early_access","release_date":"2026-03-05","tags":["类Rogue","卡牌游戏","卡组构筑","合作","策略"]},"hooks":[{"text":"新卡牌、遗物与药水让每次登塔策略重组","dimension":"玩法","excerpt":"Adapt to an arsenal of brand new cards, relics, and potions, each offering game-changing possibilities—or dangerous consequences. Climb the Spire with a new and returning cast of characters, each with their own cards, motives, and secrets. No two climbs are ever the same.","url":"https://store.steampowered.com/app/2868840/","label":"证据原文片段"},{"text":"四人合作登塔拥有专属卡牌与团队协同","dimension":"玩法","excerpt":"Brave the ascent on your own, or play with up to 4 players and face the Spire together in the all new co-op mode. Discover multiplayer-specific cards, powerful team synergies, and carry your friends (or get carried) to victory!","url":"https://store.steampowered.com/app/2868840/","label":"证据原文片段"},{"text":"五名角色各有专属卡组动机与隐秘背景","dimension":"玩法","excerpt":"Embark on your quest to Slay the Spire as one of five different characters, some of whom will be familiar to seasoned Slayers and two of whom who are brand new. Discover each character’s unique playstyle, full potential, and secret backstory as you conquer all who stand in their way.","url":"https://store.steampowered.com/app/2868840/","label":"证据原文片段"}],"opinions":[{"text":"容易拿到彼此不协同、难以组合的构筑组件","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"i just get a bunch of pieces of different builds i cant really put together.","url":"https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/","label":"证据原文片段"}]},{"text":"部分精英敌人会直接毁掉成型中的单局体验。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Some elites are just run-killers for me","url":"https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/","label":"证据原文片段"}]},{"text":"游戏会规律性出现明显卡顿。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"experience regular lag spikes every hour or so.","url":"https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/","label":"证据原文片段"}]},{"text":"Boss设计更具独特性。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"bosses are more unique","url":"https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/","label":"证据原文片段"}]},{"text":"不同章节变体增加了流程变化。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"there's more variety because of the new act variants","url":"https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/","label":"证据原文片段"}]},{"text":"解锁节奏比前作更动态。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the unlock timeline is more dynamic than how it worked in 1.","url":"https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/","label":"证据原文片段"}]},{"text":"遭遇战设计比前作更精致。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Encounters are more polished","url":"https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":6925460,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2066582,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":187158,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":139038505,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7357238,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7357238,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":64.4347797801602,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":191199,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":60,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":60.435413,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["容易拿到彼此不协同、难以组合的构筑组件","部分精英敌人会直接毁掉成型中的单局体验。","技术/性能：游戏会规律性出现明显卡顿。","截至2026-07-24，Steam官方好评率为60.435413%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/1a373a95229aab0cfd97f553ecbe86092364bb9c/ss_1a373a95229aab0cfd97f553ecbe86092364bb9c.1920x1080.jpg?t=1776735385","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/1a373a95229aab0cfd97f553ecbe86092364bb9c/ss_1a373a95229aab0cfd97f553ecbe86092364bb9c.1920x1080.jpg?t=1776735385","alt":"Slay the Spire 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/f3af7cb9693b9c4b6a7555227db3fef943db3992/ss_f3af7cb9693b9c4b6a7555227db3fef943db3992.1920x1080.jpg?t=1776735385","alt":"Slay the Spire 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/c3db69efd984ef012ae85c5b426663720152f0a4/ss_c3db69efd984ef012ae85c5b426663720152f0a4.1920x1080.jpg?t=1776735385","alt":"Slay the Spire 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/0fdb2940c0d367a40b2be6433daf12e3634089cf/ss_0fdb2940c0d367a40b2be6433daf12e3634089cf.1920x1080.jpg?t=1776735385","alt":"Slay the Spire 2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Slay the Spire 2",
+    "developers": [
+      "Mega Crit"
+    ],
+    "publishers": [
+      "Mega Crit"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-03-05",
+    "tags": [
+      "类Rogue",
+      "卡牌游戏",
+      "卡组构筑",
+      "合作",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "新卡牌、遗物与药水让每次登塔策略重组",
+      "dimension": "玩法",
+      "excerpt": "Adapt to an arsenal of brand new cards, relics, and potions, each offering game-changing possibilities—or dangerous consequences. Climb the Spire with a new and returning cast of characters, each with their own cards, motives, and secrets. No two climbs are ever the same.",
+      "url": "https://store.steampowered.com/app/2868840/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四人合作登塔拥有专属卡牌与团队协同",
+      "dimension": "玩法",
+      "excerpt": "Brave the ascent on your own, or play with up to 4 players and face the Spire together in the all new co-op mode. Discover multiplayer-specific cards, powerful team synergies, and carry your friends (or get carried) to victory!",
+      "url": "https://store.steampowered.com/app/2868840/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "五名角色各有专属卡组动机与隐秘背景",
+      "dimension": "玩法",
+      "excerpt": "Embark on your quest to Slay the Spire as one of five different characters, some of whom will be familiar to seasoned Slayers and two of whom who are brand new. Discover each character’s unique playstyle, full potential, and secret backstory as you conquer all who stand in their way.",
+      "url": "https://store.steampowered.com/app/2868840/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "容易拿到彼此不协同、难以组合的构筑组件",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "i just get a bunch of pieces of different builds i cant really put together.",
+          "url": "https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分精英敌人会直接毁掉成型中的单局体验。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Some elites are just run-killers for me",
+          "url": "https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏会规律性出现明显卡顿。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "experience regular lag spikes every hour or so.",
+          "url": "https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boss设计更具独特性。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "bosses are more unique",
+          "url": "https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "不同章节变体增加了流程变化。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "there's more variety because of the new act variants",
+          "url": "https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "解锁节奏比前作更动态。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the unlock timeline is more dynamic than how it worked in 1.",
+          "url": "https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "遭遇战设计比前作更精致。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Encounters are more polished",
+          "url": "https://steamcommunity.com/profiles/76561199690229880/recommended/2868840/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7123204,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2057097,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 189005,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 143045015,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7574256,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7574256,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 66.69539863448898,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 179356,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 61,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 60.729844,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "容易拿到彼此不协同、难以组合的构筑组件",
+    "部分精英敌人会直接毁掉成型中的单局体验。",
+    "技术/性能：游戏会规律性出现明显卡顿。",
+    "截至2026-07-24，Steam官方好评率为60.435413%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Slay the Spire 2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/1a373a95229aab0cfd97f553ecbe86092364bb9c/ss_1a373a95229aab0cfd97f553ecbe86092364bb9c.1920x1080.jpg?t=1776735385",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/1a373a95229aab0cfd97f553ecbe86092364bb9c/ss_1a373a95229aab0cfd97f553ecbe86092364bb9c.1920x1080.jpg?t=1786139218",
+        "alt": "Slay the Spire 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/f3af7cb9693b9c4b6a7555227db3fef943db3992/ss_f3af7cb9693b9c4b6a7555227db3fef943db3992.1920x1080.jpg?t=1786139218",
+        "alt": "Slay the Spire 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/c3db69efd984ef012ae85c5b426663720152f0a4/ss_c3db69efd984ef012ae85c5b426663720152f0a4.1920x1080.jpg?t=1786139218",
+        "alt": "Slay the Spire 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/0fdb2940c0d367a40b2be6433daf12e3634089cf/ss_0fdb2940c0d367a40b2be6433daf12e3634089cf.1920x1080.jpg?t=1786139218",
+        "alt": "Slay the Spire 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/18e8bda7bc4cdb37b90e0e2ce546967cbec87076/ss_18e8bda7bc4cdb37b90e0e2ce546967cbec87076.1920x1080.jpg?t=1786139218",
+        "alt": "Slay the Spire 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/0aa6bff0eff26e37ccfdb07ad6cab52f8ab1ed4b/ss_0aa6bff0eff26e37ccfdb07ad6cab52f8ab1ed4b.1920x1080.jpg?t=1786139218",
+        "alt": "Slay the Spire 2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

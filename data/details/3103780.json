@@ -1,1 +1,179 @@
-{"identity":{"original_title":"DRAPLINE","developers":["Vaka Game Magazine","KANAWO"],"publishers":["Vaka Game Magazine"],"release_status":"early_access","release_date":"2025-06-29","tags":["角色扮演","模拟","轻度Rogue","像素画面","独立游戏"]},"hooks":[{"text":"吞下岩石、熔岩乃至房屋转化为神龙成长","dimension":"玩法","excerpt":"This food-loving dragon eats anything and transforms it into her own power. Meat, fish, rocks, iron... no, even lava, mountains, and other people's houses become fine delicacies in her eyes.","url":"https://store.steampowered.com/app/3103780/","label":"证据原文片段"},{"text":"用百余技能组合强攻、治疗防御与中毒流派","dimension":"玩法","excerpt":"Will you fight with powerful attacks? Use defense and healing skills? Or weaken them gradually with poison? Combine over 100 different skills to create synergies and build your own unique strategy.","url":"https://store.steampowered.com/app/3103780/","label":"证据原文片段"},{"text":"一年养成方式改变外貌、性格与多重结局","dimension":"故事","excerpt":"Depending on how you raise her, her appearance and personality will change over time. The people she interacts with and the way she spends her year will determine the various possible endings to the story.","url":"https://store.steampowered.com/app/3103780/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":35208,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":72445,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5204,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":273150,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":35756,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":35756,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.846687786331172,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1737,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.38139,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/c06edc1859d42bd735bd9f42b0bc3c1726dec661/ss_c06edc1859d42bd735bd9f42b0bc3c1726dec661.1920x1080.jpg?t=1751265323","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/c06edc1859d42bd735bd9f42b0bc3c1726dec661/ss_c06edc1859d42bd735bd9f42b0bc3c1726dec661.1920x1080.jpg?t=1751265323","alt":"DRAPLINE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/2bea146d6730534f4b16d6e12f38eb57223b1455/ss_2bea146d6730534f4b16d6e12f38eb57223b1455.1920x1080.jpg?t=1751265323","alt":"DRAPLINE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/27e2775bea589aad366be20a2a2df8fb0bcfe598/ss_27e2775bea589aad366be20a2a2df8fb0bcfe598.1920x1080.jpg?t=1751265323","alt":"DRAPLINE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/d7dafd5d1f9ce95d00db493b0071c839ce6a6360/ss_d7dafd5d1f9ce95d00db493b0071c839ce6a6360.1920x1080.jpg?t=1751265323","alt":"DRAPLINE 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "DRAPLINE",
+    "developers": [
+      "Vaka Game Magazine",
+      "KANAWO"
+    ],
+    "publishers": [
+      "Vaka Game Magazine"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-06-29",
+    "tags": [
+      "角色扮演",
+      "模拟",
+      "轻度Rogue",
+      "像素画面",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "吞下岩石、熔岩乃至房屋转化为神龙成长",
+      "dimension": "玩法",
+      "excerpt": "This food-loving dragon eats anything and transforms it into her own power. Meat, fish, rocks, iron... no, even lava, mountains, and other people's houses become fine delicacies in her eyes.",
+      "url": "https://store.steampowered.com/app/3103780/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用百余技能组合强攻、治疗防御与中毒流派",
+      "dimension": "玩法",
+      "excerpt": "Will you fight with powerful attacks? Use defense and healing skills? Or weaken them gradually with poison? Combine over 100 different skills to create synergies and build your own unique strategy.",
+      "url": "https://store.steampowered.com/app/3103780/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "一年养成方式改变外貌、性格与多重结局",
+      "dimension": "故事",
+      "excerpt": "Depending on how you raise her, her appearance and personality will change over time. The people she interacts with and the way she spends her year will determine the various possible endings to the story.",
+      "url": "https://store.steampowered.com/app/3103780/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 38626,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 72874,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5246,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 300254,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 39246,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 39246,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.607149955436114,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1731,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.505073,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "DRAPLINE位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/c06edc1859d42bd735bd9f42b0bc3c1726dec661/ss_c06edc1859d42bd735bd9f42b0bc3c1726dec661.1920x1080.jpg?t=1751265323",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/c06edc1859d42bd735bd9f42b0bc3c1726dec661/ss_c06edc1859d42bd735bd9f42b0bc3c1726dec661.1920x1080.jpg?t=1751265323",
+        "alt": "DRAPLINE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/2bea146d6730534f4b16d6e12f38eb57223b1455/ss_2bea146d6730534f4b16d6e12f38eb57223b1455.1920x1080.jpg?t=1751265323",
+        "alt": "DRAPLINE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/27e2775bea589aad366be20a2a2df8fb0bcfe598/ss_27e2775bea589aad366be20a2a2df8fb0bcfe598.1920x1080.jpg?t=1751265323",
+        "alt": "DRAPLINE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/d7dafd5d1f9ce95d00db493b0071c839ce6a6360/ss_d7dafd5d1f9ce95d00db493b0071c839ce6a6360.1920x1080.jpg?t=1751265323",
+        "alt": "DRAPLINE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/4a1e4e18a1f0b1a37f0ba1d9485a5ab38ddecce8/ss_4a1e4e18a1f0b1a37f0ba1d9485a5ab38ddecce8.1920x1080.jpg?t=1751265323",
+        "alt": "DRAPLINE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/a6b8749d24f1870bcee4059ec252d79399bb151b/ss_a6b8749d24f1870bcee4059ec252d79399bb151b.1920x1080.jpg?t=1751265323",
+        "alt": "DRAPLINE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/4761e17ca33722e33ee3ab2e8d78bdcd57c3515b/ss_4761e17ca33722e33ee3ab2e8d78bdcd57c3515b.1920x1080.jpg?t=1751265323",
+        "alt": "DRAPLINE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103780/e80415c329b0bd218d73c6930a7b826515971db1/ss_e80415c329b0bd218d73c6930a7b826515971db1.1920x1080.jpg?t=1751265323",
+        "alt": "DRAPLINE 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

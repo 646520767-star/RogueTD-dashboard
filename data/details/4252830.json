@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Type or Die","developers":["Type or Die"],"publishers":["Type or Die"],"release_status":"released","release_date":"2026-06-25","tags":["角色扮演","策略","地牢探索","中世纪","类Rogue"]},"hooks":[{"text":"屏幕单词既是攻击指令，也用于破防和闪避；输入速度与准确度直接提高伤害。","dimension":"玩法","excerpt":"Type the words displayed on the screen to attack, break through defenses, or dodge enemy strikes. The faster and more precise you are, the more damage you inflict.","url":"https://store.steampowered.com/app/4252830/","label":"证据原文片段"},{"text":"以掷骰逐格推进的桌游式 Roguelite，在活体哥特手抄本世界中遭遇商店、事件和战术选择。","dimension":"玩法","excerpt":"Advance through a typing game inspired by board games and roguelites , square by square, rolling dice each turn. Encounter monsters, chests, shops, events, and tactical choices in a world drawn like a living Gothic manuscript.","url":"https://store.steampowered.com/app/4252830/","label":"证据原文片段"},{"text":"胜利、宝箱和事件都会授予卡牌，卡牌可带来永久加成、诅咒、独特效果或英雄能力并组成构筑。","dimension":"玩法","excerpt":"Every victory, every chest, and every event grants you a card: permanent bonuses, curses, unique effects, or heroic abilities. Combine them to create devastating or utterly chaotic builds.","url":"https://store.steampowered.com/app/4252830/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":618,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":29233,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1472,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6223,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":687,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":687,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.7748688632530607,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":35,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":43,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":42.857143,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为42.857143%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/559758b86209ff5365c2c7d336247124cf29a939/ss_559758b86209ff5365c2c7d336247124cf29a939.1920x1080.jpg?t=1783383644","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/559758b86209ff5365c2c7d336247124cf29a939/ss_559758b86209ff5365c2c7d336247124cf29a939.1920x1080.jpg?t=1783383644","alt":"Type or Die 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/b9cbb8965db1920b0f5eb9cd4f0854d05f721c38/ss_b9cbb8965db1920b0f5eb9cd4f0854d05f721c38.1920x1080.jpg?t=1783383644","alt":"Type or Die 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/62c7b83f17fe43a74e22739a99896e655cb5604d/ss_62c7b83f17fe43a74e22739a99896e655cb5604d.1920x1080.jpg?t=1783383644","alt":"Type or Die 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/a9c2cfd5d0344218701fca0bf1805f5cad3f201f/ss_a9c2cfd5d0344218701fca0bf1805f5cad3f201f.1920x1080.jpg?t=1783383644","alt":"Type or Die 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Type or Die",
+    "developers": [
+      "Type or Die"
+    ],
+    "publishers": [
+      "Type or Die"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-25",
+    "tags": [
+      "角色扮演",
+      "策略",
+      "地牢探索",
+      "轻度Rogue",
+      "中世纪"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "屏幕单词既是攻击指令，也用于破防和闪避；输入速度与准确度直接提高伤害。",
+      "dimension": "玩法",
+      "excerpt": "Type the words displayed on the screen to attack, break through defenses, or dodge enemy strikes. The faster and more precise you are, the more damage you inflict.",
+      "url": "https://store.steampowered.com/app/4252830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "以掷骰逐格推进的桌游式 Roguelite，在活体哥特手抄本世界中遭遇商店、事件和战术选择。",
+      "dimension": "玩法",
+      "excerpt": "Advance through a typing game inspired by board games and roguelites , square by square, rolling dice each turn. Encounter monsters, chests, shops, events, and tactical choices in a world drawn like a living Gothic manuscript.",
+      "url": "https://store.steampowered.com/app/4252830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "胜利、宝箱和事件都会授予卡牌，卡牌可带来永久加成、诅咒、独特效果或英雄能力并组成构筑。",
+      "dimension": "玩法",
+      "excerpt": "Every victory, every chest, and every event grants you a card: permanent bonuses, curses, unique effects, or heroic abilities. Combine them to create devastating or utterly chaotic builds.",
+      "url": "https://store.steampowered.com/app/4252830/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 601,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 26849,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1431,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 6062,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 683,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 683,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.5468034885447604,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 29,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 37,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 37.142857,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为42.857143%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Type or Die位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/559758b86209ff5365c2c7d336247124cf29a939/ss_559758b86209ff5365c2c7d336247124cf29a939.1920x1080.jpg?t=1783383644",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/559758b86209ff5365c2c7d336247124cf29a939/ss_559758b86209ff5365c2c7d336247124cf29a939.1920x1080.jpg?t=1786185617",
+        "alt": "Type or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/b9cbb8965db1920b0f5eb9cd4f0854d05f721c38/ss_b9cbb8965db1920b0f5eb9cd4f0854d05f721c38.1920x1080.jpg?t=1786185617",
+        "alt": "Type or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/62c7b83f17fe43a74e22739a99896e655cb5604d/ss_62c7b83f17fe43a74e22739a99896e655cb5604d.1920x1080.jpg?t=1786185617",
+        "alt": "Type or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/a9c2cfd5d0344218701fca0bf1805f5cad3f201f/ss_a9c2cfd5d0344218701fca0bf1805f5cad3f201f.1920x1080.jpg?t=1786185617",
+        "alt": "Type or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/19a680f4116f3d5ff7bf5d8cc7c1b7d8aecaf1d8/ss_19a680f4116f3d5ff7bf5d8cc7c1b7d8aecaf1d8.1920x1080.jpg?t=1786185617",
+        "alt": "Type or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/f928ffeb48f1dd43067d15e810bd0e6c33f884db/ss_f928ffeb48f1dd43067d15e810bd0e6c33f884db.1920x1080.jpg?t=1786185617",
+        "alt": "Type or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/d50ef0c8a9fae167e820a2cda8591c41dd28e44a/ss_d50ef0c8a9fae167e820a2cda8591c41dd28e44a.1920x1080.jpg?t=1786185617",
+        "alt": "Type or Die 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/5a3d4281a69643c134c86c920f4e7d5021230efe/ss_5a3d4281a69643c134c86c920f4e7d5021230efe.1920x1080.jpg?t=1786185617",
+        "alt": "Type or Die 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

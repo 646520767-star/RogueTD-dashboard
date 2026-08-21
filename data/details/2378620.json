@@ -1,1 +1,175 @@
-{"identity":{"original_title":"Anomaly Agent","developers":["Phew Phew Games"],"publishers":["Phew Phew Games","GameDev.ist"],"release_status":"released","release_date":"2024-01-24","tags":["二维平台跳跃","动作肉鸽","砍杀","平台跳跃","轻度Rogue"]},"hooks":[{"text":"异常武器可直接抛飞和操控敌人位置","dimension":"玩法","excerpt":"Use extraordinary anomaly weapons to toss your opponents around!","url":"https://store.steampowered.com/app/2378620/","label":"证据原文片段"},{"text":"近战、枪械与杂技逃脱组合的流畅动作","dimension":"玩法","excerpt":"Overcome your enemies using melee techniques or deadly firearms! Modify your gameplay by upgrading your character in different ways. Escape your pursuers with acrobatic moves.","url":"https://store.steampowered.com/app/2378620/","label":"证据原文片段"},{"text":"选择可让世界获救或滑向灾难","dimension":"故事","excerpt":"Shape how the story unfolds. Unravel the mysteries you face and make the world a safer place... or plunge it into disaster.","url":"https://store.steampowered.com/app/2378620/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":151174,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":246563,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":18422,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":763021,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":157163,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":157163,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.61545842988043,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":9810,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":95,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.924065,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"二维平台跳跃、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_213ae02fa4d9d73ca3f4f045507e10721799cfcf.1920x1080.jpg?t=1775643503","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_213ae02fa4d9d73ca3f4f045507e10721799cfcf.1920x1080.jpg?t=1775643503","alt":"时空叛客 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_f3801000a9ad2a27afb3fd302453f035374776c6.1920x1080.jpg?t=1775643503","alt":"时空叛客 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_11158c9dc05fb594f56167f4f9d93f446fceaf57.1920x1080.jpg?t=1775643503","alt":"时空叛客 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_27963903db9009499ef1ad04a9300bf10d0ededb.1920x1080.jpg?t=1775643503","alt":"时空叛客 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Anomaly Agent",
+    "developers": [
+      "Phew Phew Games"
+    ],
+    "publishers": [
+      "Phew Phew Games",
+      "GameDev.ist"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-24",
+    "tags": [
+      "二维平台跳跃",
+      "二维平台跳跃",
+      "动作肉鸽",
+      "砍杀",
+      "平台跳跃"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "异常武器可直接抛飞和操控敌人位置",
+      "dimension": "玩法",
+      "excerpt": "Use extraordinary anomaly weapons to toss your opponents around!",
+      "url": "https://store.steampowered.com/app/2378620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "近战、枪械与杂技逃脱组合的流畅动作",
+      "dimension": "玩法",
+      "excerpt": "Overcome your enemies using melee techniques or deadly firearms! Modify your gameplay by upgrading your character in different ways. Escape your pursuers with acrobatic moves.",
+      "url": "https://store.steampowered.com/app/2378620/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "选择可让世界获救或滑向灾难",
+      "dimension": "故事",
+      "excerpt": "Shape how the story unfolds. Unravel the mysteries you face and make the world a safer place... or plunge it into disaster.",
+      "url": "https://store.steampowered.com/app/2378620/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 156054,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 246746,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 18541,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 714654,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 162239,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 162239,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.934386860101969,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 9393,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 95,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.887793,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "时空叛客位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_213ae02fa4d9d73ca3f4f045507e10721799cfcf.1920x1080.jpg?t=1775643503",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_213ae02fa4d9d73ca3f4f045507e10721799cfcf.1920x1080.jpg?t=1785769799",
+        "alt": "时空叛客 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_f3801000a9ad2a27afb3fd302453f035374776c6.1920x1080.jpg?t=1785769799",
+        "alt": "时空叛客 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_11158c9dc05fb594f56167f4f9d93f446fceaf57.1920x1080.jpg?t=1785769799",
+        "alt": "时空叛客 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_27963903db9009499ef1ad04a9300bf10d0ededb.1920x1080.jpg?t=1785769799",
+        "alt": "时空叛客 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_6e00f52c5a17e440e9ee52bbf5a376f0bd67ace4.1920x1080.jpg?t=1785769799",
+        "alt": "时空叛客 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_095b77d0c3ec11b3b63f8cbffdd8b9216165d3cc.1920x1080.jpg?t=1785769799",
+        "alt": "时空叛客 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378620/ss_4e91fd7e9cba5300f99ec47888c1aed2f2e1a729.1920x1080.jpg?t=1785769799",
+        "alt": "时空叛客 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

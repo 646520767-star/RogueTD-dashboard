@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Drone Sector","developers":["Icosphere"],"publishers":["MicroProse Software"],"release_status":"early_access","release_date":"2026-07-21","tags":["抢先体验","模拟","单人游戏","战争","动作"]},"hooks":[{"text":"从炮艇俯视指挥地面小队绕开陷阱，再用重火力点杀高价值目标","dimension":"玩法","excerpt":"Guide your squads as they advance through hostile environments to achieve mission objectives. Command with precision, helping them avoid traps and eliminating high-priority threats with your overwhelming firepower.","url":"https://store.steampowered.com/app/3279440/","label":"证据原文片段"},{"text":"派小队进建筑搜资源与研究文件，停留越久越可能被围攻全灭","dimension":"玩法","excerpt":"Send your ground squads into buildings or key areas to collect vital resources and research documents—but this comes with risk. Stay too long, and you may lose your squad to overwhelming enemy forces. Decide when to extract and when to push your luck for valuable rewards.","url":"https://store.steampowered.com/app/3279440/","label":"证据原文片段"},{"text":"回到基地后同时升级炮艇、小队和武器，还要管理弹药生产与科技研究","dimension":"玩法","excerpt":"Between missions back at base, upgrade your gunship, squads, and weapons. Manage your ammo production and research new technologies to improve your chances in the field.","url":"https://store.steampowered.com/app/3279440/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2400,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":104219,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7289,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":33026,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2448,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2448,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0,"unit":"小时","state":"zero","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":72,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.055556,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/63000c2742e7a99c8f7654ad386306f9ecc210c9/ss_63000c2742e7a99c8f7654ad386306f9ecc210c9.1920x1080.jpg?t=1784830926","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/63000c2742e7a99c8f7654ad386306f9ecc210c9/ss_63000c2742e7a99c8f7654ad386306f9ecc210c9.1920x1080.jpg?t=1784830926","alt":"Drone Sector 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/6a2a95ee4a270c43452c665ce186b389cb7c2e95/ss_6a2a95ee4a270c43452c665ce186b389cb7c2e95.1920x1080.jpg?t=1784830926","alt":"Drone Sector 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/ed14d763d737300a0c3090b40086eb219a614b5b/ss_ed14d763d737300a0c3090b40086eb219a614b5b.1920x1080.jpg?t=1784830926","alt":"Drone Sector 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/c20dbfc93165619ff190071f8bb393ca3aa80782/ss_c20dbfc93165619ff190071f8bb393ca3aa80782.1920x1080.jpg?t=1784830926","alt":"Drone Sector 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Drone Sector",
+    "developers": [
+      "Icosphere"
+    ],
+    "publishers": [
+      "MicroProse Software"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-07-21",
+    "tags": [
+      "抢先体验",
+      "轻度Rogue",
+      "模拟",
+      "单人游戏",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从炮艇俯视指挥地面小队绕开陷阱，再用重火力点杀高价值目标",
+      "dimension": "玩法",
+      "excerpt": "Guide your squads as they advance through hostile environments to achieve mission objectives. Command with precision, helping them avoid traps and eliminating high-priority threats with your overwhelming firepower.",
+      "url": "https://store.steampowered.com/app/3279440/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "派小队进建筑搜资源与研究文件，停留越久越可能被围攻全灭",
+      "dimension": "玩法",
+      "excerpt": "Send your ground squads into buildings or key areas to collect vital resources and research documents—but this comes with risk. Stay too long, and you may lose your squad to overwhelming enemy forces. Decide when to extract and when to push your luck for valuable rewards.",
+      "url": "https://store.steampowered.com/app/3279440/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "回到基地后同时升级炮艇、小队和武器，还要管理弹药生产与科技研究",
+      "dimension": "玩法",
+      "excerpt": "Between missions back at base, upgrade your gunship, squads, and weapons. Manage your ammo production and research new technologies to improve your chances in the field.",
+      "url": "https://store.steampowered.com/app/3279440/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 12483,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 136800,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9684,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 177364,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 12793,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 12793,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.51217122753438,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 307,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.096573,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Drone Sector位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/63000c2742e7a99c8f7654ad386306f9ecc210c9/ss_63000c2742e7a99c8f7654ad386306f9ecc210c9.1920x1080.jpg?t=1784830926",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/63000c2742e7a99c8f7654ad386306f9ecc210c9/ss_63000c2742e7a99c8f7654ad386306f9ecc210c9.1920x1080.jpg?t=1784830926",
+        "alt": "Drone Sector 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/6a2a95ee4a270c43452c665ce186b389cb7c2e95/ss_6a2a95ee4a270c43452c665ce186b389cb7c2e95.1920x1080.jpg?t=1784830926",
+        "alt": "Drone Sector 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/ed14d763d737300a0c3090b40086eb219a614b5b/ss_ed14d763d737300a0c3090b40086eb219a614b5b.1920x1080.jpg?t=1784830926",
+        "alt": "Drone Sector 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/c20dbfc93165619ff190071f8bb393ca3aa80782/ss_c20dbfc93165619ff190071f8bb393ca3aa80782.1920x1080.jpg?t=1784830926",
+        "alt": "Drone Sector 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/5ff05bb58a86572cb0e0dcbca7cf9e4d3dd35d87/ss_5ff05bb58a86572cb0e0dcbca7cf9e4d3dd35d87.1920x1080.jpg?t=1784830926",
+        "alt": "Drone Sector 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/ba51d2aa8220cf55153a76bf9e9d8cbe21590f68/ss_ba51d2aa8220cf55153a76bf9e9d8cbe21590f68.1920x1080.jpg?t=1784830926",
+        "alt": "Drone Sector 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/3e242ac47ce1248d54dfb9a749cbf9e0f5e2f39c/ss_3e242ac47ce1248d54dfb9a749cbf9e0f5e2f39c.1920x1080.jpg?t=1784830926",
+        "alt": "Drone Sector 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/1269c2f6e7262f6e8e758bf2982369ac73ed0ea2/ss_1269c2f6e7262f6e8e758bf2982369ac73ed0ea2.1920x1080.jpg?t=1784830926",
+        "alt": "Drone Sector 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

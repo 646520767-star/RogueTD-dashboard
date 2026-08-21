@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Match! The 12 CZ Wars","developers":["CorvusCorax Studio"],"publishers":["CorvusCorax Studio","YuetteGames"],"release_status":"released","release_date":"2026-06-12","tags":["回合制战术","策略","类Rogue","休闲","轻度Rogue"]},"hooks":[{"text":"每局从十二生肖少女中选择三人，阴阳属性组合会解锁不同法器。","dimension":"玩法","excerpt":"In each run, choose 3 Zodiac Maidens. Pay attention to their Yin-Yang attributes — different combinations unlock unique magic artifacts. The right artifacts will double your efficiency!","url":"https://store.steampowered.com/app/3400030/","label":"证据原文片段"},{"text":"选择楼层事件卡会提高首领警觉，可先绕路准备，也可提前挑战换取更大奖励。","dimension":"玩法","excerpt":"During each floor’s battle, selecting an event card will alert the floor’s boss. Plan your route carefully: prepare before the boss fully notices you, or challenge it early for greater rewards!","url":"https://store.steampowered.com/app/3400030/","label":"证据原文片段"},{"text":"战斗同时考虑站位、五行生克、攻防与被动反制，并通过移动方块触发三消连锁。","dimension":"玩法","excerpt":"Consider positioning, Five Elements cycle (mutual promotion and restraint), attack/defense attributes, and passive counters. Move tiles to trigger match-3 combos, command Maidens, and crush foes with high-damage chains!","url":"https://store.steampowered.com/app/3400030/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":720,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":12710,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2543,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3116,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.9614852814018673,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":48,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"回合制战术、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/60129a20695a74a80e7cd42ae7b745cb607cfc34/ss_60129a20695a74a80e7cd42ae7b745cb607cfc34.1920x1080.jpg?t=1781247627","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/60129a20695a74a80e7cd42ae7b745cb607cfc34/ss_60129a20695a74a80e7cd42ae7b745cb607cfc34.1920x1080.jpg?t=1781247627","alt":"六六大作战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/701d5a6ec8b731a15d12e56ba6dcfeb37978554a/ss_701d5a6ec8b731a15d12e56ba6dcfeb37978554a.1920x1080.jpg?t=1781247627","alt":"六六大作战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/1892359b057fd76f769dadf4a7e2ecf1903364d4/ss_1892359b057fd76f769dadf4a7e2ecf1903364d4.1920x1080.jpg?t=1781247627","alt":"六六大作战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/312548a78401410f561e9cc7426406f5fa3f2762/ss_312548a78401410f561e9cc7426406f5fa3f2762.1920x1080.jpg?t=1781247627","alt":"六六大作战 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Match! The 12 CZ Wars",
+    "developers": [
+      "CorvusCorax Studio"
+    ],
+    "publishers": [
+      "CorvusCorax Studio",
+      "YuetteGames"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-12",
+    "tags": [
+      "回合制战术",
+      "策略",
+      "轻度Rogue",
+      "类Rogue",
+      "休闲"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每局从十二生肖少女中选择三人，阴阳属性组合会解锁不同法器。",
+      "dimension": "玩法",
+      "excerpt": "In each run, choose 3 Zodiac Maidens. Pay attention to their Yin-Yang attributes — different combinations unlock unique magic artifacts. The right artifacts will double your efficiency!",
+      "url": "https://store.steampowered.com/app/3400030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "选择楼层事件卡会提高首领警觉，可先绕路准备，也可提前挑战换取更大奖励。",
+      "dimension": "玩法",
+      "excerpt": "During each floor’s battle, selecting an event card will alert the floor’s boss. Plan your route carefully: prepare before the boss fully notices you, or challenge it early for greater rewards!",
+      "url": "https://store.steampowered.com/app/3400030/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗同时考虑站位、五行生克、攻防与被动反制，并通过移动方块触发三消连锁。",
+      "dimension": "玩法",
+      "excerpt": "Consider positioning, Five Elements cycle (mutual promotion and restraint), attack/defense attributes, and passive counters. Move tiles to trigger match-3 combos, command Maidens, and crush foes with high-damage chains!",
+      "url": "https://store.steampowered.com/app/3400030/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 903,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 12785,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2543,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3997,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1374,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1374,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.9161659401369597,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 26,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "六六大作战位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/60129a20695a74a80e7cd42ae7b745cb607cfc34/ss_60129a20695a74a80e7cd42ae7b745cb607cfc34.1920x1080.jpg?t=1781247627",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/60129a20695a74a80e7cd42ae7b745cb607cfc34/ss_60129a20695a74a80e7cd42ae7b745cb607cfc34.1920x1080.jpg?t=1785484325",
+        "alt": "六六大作战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/701d5a6ec8b731a15d12e56ba6dcfeb37978554a/ss_701d5a6ec8b731a15d12e56ba6dcfeb37978554a.1920x1080.jpg?t=1785484325",
+        "alt": "六六大作战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/1892359b057fd76f769dadf4a7e2ecf1903364d4/ss_1892359b057fd76f769dadf4a7e2ecf1903364d4.1920x1080.jpg?t=1785484325",
+        "alt": "六六大作战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/312548a78401410f561e9cc7426406f5fa3f2762/ss_312548a78401410f561e9cc7426406f5fa3f2762.1920x1080.jpg?t=1785484325",
+        "alt": "六六大作战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/843778bacba19a749abe14054ace3c574712d1ca/ss_843778bacba19a749abe14054ace3c574712d1ca.1920x1080.jpg?t=1785484325",
+        "alt": "六六大作战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/a27986059c96ce8fd6f56093810c4a3abce6a3d7/ss_a27986059c96ce8fd6f56093810c4a3abce6a3d7.1920x1080.jpg?t=1785484325",
+        "alt": "六六大作战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/93bc5064cb2b3415680ddd51b1f314527dddda83/ss_93bc5064cb2b3415680ddd51b1f314527dddda83.1920x1080.jpg?t=1785484325",
+        "alt": "六六大作战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/a707a1e6316ddb7b2d695de136b6fc88d5247a4a/ss_a707a1e6316ddb7b2d695de136b6fc88d5247a4a.1920x1080.jpg?t=1785484325",
+        "alt": "六六大作战 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

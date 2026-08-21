@@ -1,1 +1,209 @@
-{"identity":{"original_title":"Shape of Dreams","developers":["Lizard Smoothie"],"publishers":["NEOWIZ"],"release_status":"released","release_date":"2025-09-10","tags":["动作肉鸽","砍杀","玩家对环境","合作","轻度Rogue"]},"hooks":[{"text":"四人队把不同Traveler能力叠成单人无法实现的爆炸连携","dimension":"玩法","excerpt":"In up to 4-player co-op, combat becomes even more dynamic. When different Travelers’ abilities and builds come together, powerful combinations and explosive synergies emerge—ones that could never be created alone.","url":"https://store.steampowered.com/app/2444750/","label":"证据原文片段"},{"text":"同一角色也会因每局选择变成完全不同的战斗流派","dimension":"玩法","excerpt":"Use ever-changing choices to alter your attacks, enhance your abilities, and discover unexpected combinations. Even with the same Traveler, the build you create can lead to a completely different combat style.","url":"https://store.steampowered.com/app/2444750/","label":"证据原文片段"},{"text":"8名Traveler、150多记忆精华与9种清醒梦共同扭曲构筑难度","dimension":"玩法","excerpt":"8 playable Travelers with unique combat mechanics and upgrade paths 150+ Memories and Essences to customize builds and transform abilities 9 Lucid Dreams to twist difficulty in unique ways","url":"https://store.steampowered.com/app/2444750/","label":"证据原文片段"}],"opinions":[{"text":"局外成长限制过多。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"局外成长限制太多","url":"https://steamcommunity.com/profiles/76561198346996088/recommended/2444750/","label":"证据原文片段"}]},{"text":"内容解锁与成就绑定不合理","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"把成就和游戏内容解锁感觉并不合理","url":"https://steamcommunity.com/id/2965610385/recommended/2444750/","label":"证据原文片段"}]},{"text":"游戏整体表现很棒","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"it's amazing.","url":"https://steamcommunity.com/profiles/76561197996818645/recommended/2444750/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1199948,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":946854,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":62477,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":20224799,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1424855,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1424855,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":22.50467701319255,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":19801,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.980314,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["局外成长限制过多。","内容解锁与成就绑定不合理"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/fe30277750c2539069d33e99f23d601525527821/ss_fe30277750c2539069d33e99f23d601525527821.1920x1080.jpg?t=1783499966","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/fe30277750c2539069d33e99f23d601525527821/ss_fe30277750c2539069d33e99f23d601525527821.1920x1080.jpg?t=1783499966","alt":"梦之形 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/8fd751bb07e2e21c207cf40e21c3e684bb7e8b85/ss_8fd751bb07e2e21c207cf40e21c3e684bb7e8b85.1920x1080.jpg?t=1783499966","alt":"梦之形 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/3d39f07615e2da0c1abd995d4e5727b77dcd0280/ss_3d39f07615e2da0c1abd995d4e5727b77dcd0280.1920x1080.jpg?t=1783499966","alt":"梦之形 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/d2c5dd061eeeb56c56f813c7dcaa899023734dda/ss_d2c5dd061eeeb56c56f813c7dcaa899023734dda.1920x1080.jpg?t=1783499966","alt":"梦之形 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Shape of Dreams",
+    "developers": [
+      "Lizard Smoothie"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-10",
+    "tags": [
+      "动作肉鸽",
+      "玩家对环境",
+      "合作",
+      "砍杀",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "四人队把不同Traveler能力叠成单人无法实现的爆炸连携",
+      "dimension": "玩法",
+      "excerpt": "In up to 4-player co-op, combat becomes even more dynamic. When different Travelers’ abilities and builds come together, powerful combinations and explosive synergies emerge—ones that could never be created alone.",
+      "url": "https://store.steampowered.com/app/2444750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "同一角色也会因每局选择变成完全不同的战斗流派",
+      "dimension": "玩法",
+      "excerpt": "Use ever-changing choices to alter your attacks, enhance your abilities, and discover unexpected combinations. Even with the same Traveler, the build you create can lead to a completely different combat style.",
+      "url": "https://store.steampowered.com/app/2444750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "8名Traveler、150多记忆精华与9种清醒梦共同扭曲构筑难度",
+      "dimension": "玩法",
+      "excerpt": "8 playable Travelers with unique combat mechanics and upgrade paths 150+ Memories and Essences to customize builds and transform abilities 9 Lucid Dreams to twist difficulty in unique ways",
+      "url": "https://store.steampowered.com/app/2444750/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "局外成长限制过多。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "局外成长限制太多",
+          "url": "https://steamcommunity.com/profiles/76561198346996088/recommended/2444750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "内容解锁与成就绑定不合理",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "把成就和游戏内容解锁感觉并不合理",
+          "url": "https://steamcommunity.com/id/2965610385/recommended/2444750/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏整体表现很棒",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it's amazing.",
+          "url": "https://steamcommunity.com/profiles/76561197996818645/recommended/2444750/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1237442,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 937125,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 63002,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 20709729,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1470072,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1470072,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 22.213051048908024,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 15560,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.023363,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "局外成长限制过多。",
+    "内容解锁与成就绑定不合理"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "梦之形位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/fe30277750c2539069d33e99f23d601525527821/ss_fe30277750c2539069d33e99f23d601525527821.1920x1080.jpg?t=1783499966",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/fe30277750c2539069d33e99f23d601525527821/ss_fe30277750c2539069d33e99f23d601525527821.1920x1080.jpg?t=1783499966",
+        "alt": "梦之形 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/8fd751bb07e2e21c207cf40e21c3e684bb7e8b85/ss_8fd751bb07e2e21c207cf40e21c3e684bb7e8b85.1920x1080.jpg?t=1783499966",
+        "alt": "梦之形 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/3d39f07615e2da0c1abd995d4e5727b77dcd0280/ss_3d39f07615e2da0c1abd995d4e5727b77dcd0280.1920x1080.jpg?t=1783499966",
+        "alt": "梦之形 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/d2c5dd061eeeb56c56f813c7dcaa899023734dda/ss_d2c5dd061eeeb56c56f813c7dcaa899023734dda.1920x1080.jpg?t=1783499966",
+        "alt": "梦之形 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/88e525dd904c0e0aa38c6a05b135fbcef1550547/ss_88e525dd904c0e0aa38c6a05b135fbcef1550547.1920x1080.jpg?t=1783499966",
+        "alt": "梦之形 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

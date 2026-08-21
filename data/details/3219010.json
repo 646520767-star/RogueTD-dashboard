@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Fogpiercer","developers":["Mad Cookies Studio"],"publishers":["Hooded Horse"],"release_status":"released","release_date":"2026-07-17","tags":["策略","类Rogue","卡牌游戏","卡组构筑","肉鸽卡组构筑"]},"hooks":[{"text":"用机车、车厢与驾驶员组装列车，同时决定本局起始牌组","dimension":"玩法","excerpt":"Choose from a variety of locomotives, carriages, and drivers to lead your expedition, with each decision adding a different set of cards to your starting deck, impacting the options and abilities you’ll have access to throughout your run.","url":"https://store.steampowered.com/app/3219010/","label":"证据原文片段"},{"text":"用煤与炮击把敌车推上铁轨碾碎，再引发整列车辆连环相撞","dimension":"玩法","excerpt":"A clever use of Coal combined with a well placed Artillery Shot can force an enemy onto the tracks in front of you, only to be immediately crushed under your wheels. That same Artillery Shot could be used to destroy a leading vehicle and send it tumbling backwards to damage (and possibly destroy) everyone driving behind it, potentially paired with hacking cards that give you a chance to line more vehicles up first.","url":"https://store.steampowered.com/app/3219010/","label":"证据原文片段"},{"text":"按区域修正与节点风险规划支线，在战场和维修站之间选择列车路线","dimension":"玩法","excerpt":"Travel from region to region as you race to the edge of the fog, picking and choosing your path depending on a region’s specific modifiers and special rewards on offer. Branching paths within a region further allow you to finetune your route to the final destination based on the risks and rewards presented by each node along the way, ranging from battlefields to friendly waystations where you can upgrade and repair your train.","url":"https://store.steampowered.com/app/3219010/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":14925,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":149974,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7884,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":201353,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":15404,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":15404,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.582048795093133,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":270,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.179104,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/fa337e120dcf155567a08b11e2351eeaf5957229/ss_fa337e120dcf155567a08b11e2351eeaf5957229.1920x1080.jpg?t=1784313817","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/fa337e120dcf155567a08b11e2351eeaf5957229/ss_fa337e120dcf155567a08b11e2351eeaf5957229.1920x1080.jpg?t=1784313817","alt":"Fogpiercer 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/cf4557bfd6fbe509388ea56f6252a6160c59d94e/ss_cf4557bfd6fbe509388ea56f6252a6160c59d94e.1920x1080.jpg?t=1784313817","alt":"Fogpiercer 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/890e602f39235226e05dc049a27783ebca6ea629/ss_890e602f39235226e05dc049a27783ebca6ea629.1920x1080.jpg?t=1784313817","alt":"Fogpiercer 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/fd9f9e2dfe009a5649643ad36d4ad0433992ea55/ss_fd9f9e2dfe009a5649643ad36d4ad0433992ea55.1920x1080.jpg?t=1784313817","alt":"Fogpiercer 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Fogpiercer",
+    "developers": [
+      "Mad Cookies Studio"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-17",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "卡牌游戏",
+      "卡组构筑",
+      "肉鸽卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用机车、车厢与驾驶员组装列车，同时决定本局起始牌组",
+      "dimension": "玩法",
+      "excerpt": "Choose from a variety of locomotives, carriages, and drivers to lead your expedition, with each decision adding a different set of cards to your starting deck, impacting the options and abilities you’ll have access to throughout your run.",
+      "url": "https://store.steampowered.com/app/3219010/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用煤与炮击把敌车推上铁轨碾碎，再引发整列车辆连环相撞",
+      "dimension": "玩法",
+      "excerpt": "A clever use of Coal combined with a well placed Artillery Shot can force an enemy onto the tracks in front of you, only to be immediately crushed under your wheels. That same Artillery Shot could be used to destroy a leading vehicle and send it tumbling backwards to damage (and possibly destroy) everyone driving behind it, potentially paired with hacking cards that give you a chance to line more vehicles up first.",
+      "url": "https://store.steampowered.com/app/3219010/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "按区域修正与节点风险规划支线，在战场和维修站之间选择列车路线",
+      "dimension": "玩法",
+      "excerpt": "Travel from region to region as you race to the edge of the fog, picking and choosing your path depending on a region’s specific modifiers and special rewards on offer. Branching paths within a region further allow you to finetune your route to the final destination based on the risks and rewards presented by each node along the way, ranging from battlefields to friendly waystations where you can upgrade and repair your train.",
+      "url": "https://store.steampowered.com/app/3219010/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 33738,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 185383,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9259,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 478850,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 34879,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 34879,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.504400005330366,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 530,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.436494,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Fogpiercer位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/fa337e120dcf155567a08b11e2351eeaf5957229/ss_fa337e120dcf155567a08b11e2351eeaf5957229.1920x1080.jpg?t=1784313817",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/fa337e120dcf155567a08b11e2351eeaf5957229/ss_fa337e120dcf155567a08b11e2351eeaf5957229.1920x1080.jpg?t=1786635531",
+        "alt": "Fogpiercer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/39ca3885fffe39f2e83ca4c0ac8062685c1ad8f9/ss_39ca3885fffe39f2e83ca4c0ac8062685c1ad8f9.1920x1080.jpg?t=1786635531",
+        "alt": "Fogpiercer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/890e602f39235226e05dc049a27783ebca6ea629/ss_890e602f39235226e05dc049a27783ebca6ea629.1920x1080.jpg?t=1786635531",
+        "alt": "Fogpiercer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/fd9f9e2dfe009a5649643ad36d4ad0433992ea55/ss_fd9f9e2dfe009a5649643ad36d4ad0433992ea55.1920x1080.jpg?t=1786635531",
+        "alt": "Fogpiercer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/37fc9da51974f309f37889e57c822b2c22f6a068/ss_37fc9da51974f309f37889e57c822b2c22f6a068.1920x1080.jpg?t=1786635531",
+        "alt": "Fogpiercer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/7ce0f6fb32485ff0715e3238c4cd2529b98d4c3e/ss_7ce0f6fb32485ff0715e3238c4cd2529b98d4c3e.1920x1080.jpg?t=1786635531",
+        "alt": "Fogpiercer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/8a4a92294cc547419d6e2ba87da8f5b6ad1403ed/ss_8a4a92294cc547419d6e2ba87da8f5b6ad1403ed.1920x1080.jpg?t=1786635531",
+        "alt": "Fogpiercer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/008c4ab4d042ef4f3772f824dd0c18db9b028337/ss_008c4ab4d042ef4f3772f824dd0c18db9b028337.1920x1080.jpg?t=1786635531",
+        "alt": "Fogpiercer 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

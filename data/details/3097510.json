@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Bounty Brawl: Most Wanted","developers":["Nanuq"],"publishers":["Infini Fun"],"release_status":"released","release_date":"2026-05-28","tags":["动作","在线合作","玩家对环境","动作肉鸽","角色扮演"]},"hooks":[{"text":"八名赏金猎人各带专属武器、绝招与截然不同的战斗套路","dimension":"玩法","excerpt":"Eight playable hunters, Eight deadly playstyle. From Kyle’s trickshot gunplay, Diddo’s chaotic worm swarms, Rudy’s Plasma Burst, Dhala’s spirit spear, Xane’s lightning-fast claw attacks, Gorogozo’s brutal Mega Slash, Kingka’s minigun mayhem, to Jaz’s rhythm-powered rocket launcher — every hunter brings unique weapons, Specials, and combat styles to the hunt.","url":"https://store.steampowered.com/app/3097510/","label":"证据原文片段"},{"text":"套索不仅跨越地形，还能操纵环境并重创失衡敌人","dimension":"玩法","excerpt":"Signature Lasso Mechanics: Grapple across gaps, manipulate the environment, and deal massive damage to staggered enemies.","url":"https://store.steampowered.com/app/3097510/","label":"证据原文片段"},{"text":"Boss倒下后合作立刻终止，队友互斗只争一顶蠢王冠","dimension":"玩法","excerpt":"Final Showdown: Boss goes down, friendships go out the window. One winner. No bonus loot. Just a stupid crown and the eternal right to call everyone else the clown. Because you're the crowned clown now.","url":"https://store.steampowered.com/app/3097510/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6429,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":50839,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2969,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":79905,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7370,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7370,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.373304932260239,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":159,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.335404,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、在线合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/7383e8746374cf748624116f883ed8b5bedd4c4a/ss_7383e8746374cf748624116f883ed8b5bedd4c4a.1920x1080.jpg?t=1783513627","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/7383e8746374cf748624116f883ed8b5bedd4c4a/ss_7383e8746374cf748624116f883ed8b5bedd4c4a.1920x1080.jpg?t=1783513627","alt":"Bounty Brawl: Most Wanted 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/12133eb13ef9d3ec8eee0b7872a9f12222aa12e6/ss_12133eb13ef9d3ec8eee0b7872a9f12222aa12e6.1920x1080.jpg?t=1783513627","alt":"Bounty Brawl: Most Wanted 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/cf2e6c76c8f53fabbe63aeeb1446557f5fa38ae7/ss_cf2e6c76c8f53fabbe63aeeb1446557f5fa38ae7.1920x1080.jpg?t=1783513627","alt":"Bounty Brawl: Most Wanted 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/3622496117cd5a66c18b4657adb20c9871efb45c/ss_3622496117cd5a66c18b4657adb20c9871efb45c.1920x1080.jpg?t=1783513627","alt":"Bounty Brawl: Most Wanted 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Bounty Brawl: Most Wanted",
+    "developers": [
+      "Nanuq"
+    ],
+    "publishers": [
+      "Infini Fun"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-28",
+    "tags": [
+      "动作",
+      "在线合作",
+      "玩家对环境",
+      "动作肉鸽",
+      "角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "八名赏金猎人各带专属武器、绝招与截然不同的战斗套路",
+      "dimension": "玩法",
+      "excerpt": "Eight playable hunters, Eight deadly playstyle. From Kyle’s trickshot gunplay, Diddo’s chaotic worm swarms, Rudy’s Plasma Burst, Dhala’s spirit spear, Xane’s lightning-fast claw attacks, Gorogozo’s brutal Mega Slash, Kingka’s minigun mayhem, to Jaz’s rhythm-powered rocket launcher — every hunter brings unique weapons, Specials, and combat styles to the hunt.",
+      "url": "https://store.steampowered.com/app/3097510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "套索不仅跨越地形，还能操纵环境并重创失衡敌人",
+      "dimension": "玩法",
+      "excerpt": "Signature Lasso Mechanics: Grapple across gaps, manipulate the environment, and deal massive damage to staggered enemies.",
+      "url": "https://store.steampowered.com/app/3097510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Boss倒下后合作立刻终止，队友互斗只争一顶蠢王冠",
+      "dimension": "玩法",
+      "excerpt": "Final Showdown: Boss goes down, friendships go out the window. One winner. No bonus loot. Just a stupid crown and the eternal right to call everyone else the clown. Because you're the crowned clown now.",
+      "url": "https://store.steampowered.com/app/3097510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6778,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 52418,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3019,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 85669,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7897,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7897,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.359188242409561,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 134,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.52381,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Bounty Brawl: Most Wanted位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/7383e8746374cf748624116f883ed8b5bedd4c4a/ss_7383e8746374cf748624116f883ed8b5bedd4c4a.1920x1080.jpg?t=1783513627",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/7383e8746374cf748624116f883ed8b5bedd4c4a/ss_7383e8746374cf748624116f883ed8b5bedd4c4a.1920x1080.jpg?t=1783513627",
+        "alt": "Bounty Brawl: Most Wanted 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/12133eb13ef9d3ec8eee0b7872a9f12222aa12e6/ss_12133eb13ef9d3ec8eee0b7872a9f12222aa12e6.1920x1080.jpg?t=1783513627",
+        "alt": "Bounty Brawl: Most Wanted 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/cf2e6c76c8f53fabbe63aeeb1446557f5fa38ae7/ss_cf2e6c76c8f53fabbe63aeeb1446557f5fa38ae7.1920x1080.jpg?t=1783513627",
+        "alt": "Bounty Brawl: Most Wanted 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/3622496117cd5a66c18b4657adb20c9871efb45c/ss_3622496117cd5a66c18b4657adb20c9871efb45c.1920x1080.jpg?t=1783513627",
+        "alt": "Bounty Brawl: Most Wanted 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/ss_ba8f24c962356e71138035d385efdaf6a1aab9fa.1920x1080.jpg?t=1783513627",
+        "alt": "Bounty Brawl: Most Wanted 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/7d65e4809aba9a37006faf681a226fc616aab5ff/ss_7d65e4809aba9a37006faf681a226fc616aab5ff.1920x1080.jpg?t=1783513627",
+        "alt": "Bounty Brawl: Most Wanted 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/96bb80a634477758b09a1969fbb13def3ab35bec/ss_96bb80a634477758b09a1969fbb13def3ab35bec.1920x1080.jpg?t=1783513627",
+        "alt": "Bounty Brawl: Most Wanted 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097510/2fdc5108a55c86f5b1a78b97559a68814e0120ca/ss_2fdc5108a55c86f5b1a78b97559a68814e0120ca.1920x1080.jpg?t=1783513627",
+        "alt": "Bounty Brawl: Most Wanted 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

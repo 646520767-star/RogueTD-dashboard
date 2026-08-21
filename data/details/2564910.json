@@ -1,1 +1,178 @@
-{"identity":{"original_title":"CRYO","developers":["Valko Game Studios"],"publishers":["Valko Game Studios"],"release_status":"early_access","release_date":"2025-10-24","tags":["动作肉鸽","玩家对环境","三维画面","恐怖","第一人称"]},"hooks":[{"text":"怪物AI会结合感官与环境线索持续追猎玩家","dimension":"玩法","excerpt":"Monsters in CRYO are driven by a complex AI system that will use various sensory and environmental cues to help it hunt.","url":"https://store.steampowered.com/app/2564910/","label":"证据原文片段"},{"text":"每局随机抽取怪物，蛮力猎手与潜伏型威胁行为不同","dimension":"玩法","excerpt":"Each game, a new monster is selected at random. Monsters behave differently to one another, some rely on brute force where as others will utilise the environment to sneak around.","url":"https://store.steampowered.com/app/2564910/","label":"证据原文片段"},{"text":"每张地图有多条逃生路线，但部分出口名额有限","dimension":"玩法","excerpt":"There are multiple options of escape each map, however, many will have limited spaces...","url":"https://store.steampowered.com/app/2564910/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":28694,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":55922,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3292,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":391024,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":33864,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":33864,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.606312047044748,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":486,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.344262,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、玩家对环境","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/2f6b68c20c6c367064e21b6b1d2dbd1c0e669cdd/ss_2f6b68c20c6c367064e21b6b1d2dbd1c0e669cdd.1920x1080.jpg?t=1776857939","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/2f6b68c20c6c367064e21b6b1d2dbd1c0e669cdd/ss_2f6b68c20c6c367064e21b6b1d2dbd1c0e669cdd.1920x1080.jpg?t=1776857939","alt":"CRYO 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/d938019edb135fe993b9ef34508f59c62337bd85/ss_d938019edb135fe993b9ef34508f59c62337bd85.1920x1080.jpg?t=1776857939","alt":"CRYO 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/af391706c3c04c69a1233f12a99bc59344e27d1d/ss_af391706c3c04c69a1233f12a99bc59344e27d1d.1920x1080.jpg?t=1776857939","alt":"CRYO 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/f2d67e88a86a79756e6fe01dcf072dc24a81698e/ss_f2d67e88a86a79756e6fe01dcf072dc24a81698e.1920x1080.jpg?t=1776857939","alt":"CRYO 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "CRYO",
+    "developers": [
+      "Valko Game Studios"
+    ],
+    "publishers": [
+      "Valko Game Studios"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-10-24",
+    "tags": [
+      "动作肉鸽",
+      "玩家对环境",
+      "三维画面",
+      "恐怖",
+      "第一人称"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "怪物AI会结合感官与环境线索持续追猎玩家",
+      "dimension": "玩法",
+      "excerpt": "Monsters in CRYO are driven by a complex AI system that will use various sensory and environmental cues to help it hunt.",
+      "url": "https://store.steampowered.com/app/2564910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每局随机抽取怪物，蛮力猎手与潜伏型威胁行为不同",
+      "dimension": "玩法",
+      "excerpt": "Each game, a new monster is selected at random. Monsters behave differently to one another, some rely on brute force where as others will utilise the environment to sneak around.",
+      "url": "https://store.steampowered.com/app/2564910/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每张地图有多条逃生路线，但部分出口名额有限",
+      "dimension": "玩法",
+      "excerpt": "There are multiple options of escape each map, however, many will have limited spaces...",
+      "url": "https://store.steampowered.com/app/2564910/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 30819,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 57532,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3367,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 407104,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 36642,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 36642,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.397190111626651,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 412,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.102804,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "CRYO位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/2f6b68c20c6c367064e21b6b1d2dbd1c0e669cdd/ss_2f6b68c20c6c367064e21b6b1d2dbd1c0e669cdd.1920x1080.jpg?t=1776857939",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/2f6b68c20c6c367064e21b6b1d2dbd1c0e669cdd/ss_2f6b68c20c6c367064e21b6b1d2dbd1c0e669cdd.1920x1080.jpg?t=1785522282",
+        "alt": "CRYO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/d938019edb135fe993b9ef34508f59c62337bd85/ss_d938019edb135fe993b9ef34508f59c62337bd85.1920x1080.jpg?t=1785522282",
+        "alt": "CRYO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/af391706c3c04c69a1233f12a99bc59344e27d1d/ss_af391706c3c04c69a1233f12a99bc59344e27d1d.1920x1080.jpg?t=1785522282",
+        "alt": "CRYO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/f2d67e88a86a79756e6fe01dcf072dc24a81698e/ss_f2d67e88a86a79756e6fe01dcf072dc24a81698e.1920x1080.jpg?t=1785522282",
+        "alt": "CRYO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/71a835c03fdf169458671b979a781736b7b5047b/ss_71a835c03fdf169458671b979a781736b7b5047b.1920x1080.jpg?t=1785522282",
+        "alt": "CRYO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/7096d61d92a4e3f983b9a0e193784f187acf920b/ss_7096d61d92a4e3f983b9a0e193784f187acf920b.1920x1080.jpg?t=1785522282",
+        "alt": "CRYO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/02280d72ce96956035dca8cbd0b49ac3db91589e/ss_02280d72ce96956035dca8cbd0b49ac3db91589e.1920x1080.jpg?t=1785522282",
+        "alt": "CRYO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564910/7b385543698eb66ca3c5287f037c3057933d1288/ss_7b385543698eb66ca3c5287f037c3057933d1288.1920x1080.jpg?t=1785522282",
+        "alt": "CRYO 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

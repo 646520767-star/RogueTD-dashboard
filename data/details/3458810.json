@@ -1,1 +1,178 @@
-{"identity":{"original_title":"DIMENSION RANGER","developers":["游际线"],"publishers":["游际线"],"release_status":"released","release_date":"2026-04-30","tags":["策略","卡牌游戏","即时战略","回合制策略","类Rogue"]},"hooks":[{"text":"孙悟空穿越平行宇宙救师父，并夺取异界卡牌力量","dimension":"故事","excerpt":"You play as Sun Wukong, a famous figure from Chinese mythology, traveling through multiple parallel universes to save your master. Defeat enemies from parallel universes and gain card powers from them.","url":"https://store.steampowered.com/app/3458810/","label":"证据原文片段"},{"text":"不同平行宇宙的卡牌拥有各自独特机制","dimension":"玩法","excerpt":"In the card collection, you can collect cards from multiple parallel universes, and each universe's cards have unique mechanistic powers.","url":"https://store.steampowered.com/app/3458810/","label":"证据原文片段"},{"text":"线性闯关与随机强化肉鸽两种模式并行","dimension":"玩法","excerpt":"The game has two major modes: clearance mode and roguelike mode. The clearance mode includes linear level challenges, while the roguelike mode contains rich random enhancement powers.","url":"https://store.steampowered.com/app/3458810/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":400,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":66,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3211,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":849,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":849,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.818480163472289,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":45,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.111111,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、卡牌游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/7946fafdabee29d8b94e11f32369119314661ee8/ss_7946fafdabee29d8b94e11f32369119314661ee8.1920x1080.jpg?t=1778933641","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/7946fafdabee29d8b94e11f32369119314661ee8/ss_7946fafdabee29d8b94e11f32369119314661ee8.1920x1080.jpg?t=1778933641","alt":"齐天破界 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/9acbc7d155a848ab7fb3bc78d7b6b3e69cfa941b/ss_9acbc7d155a848ab7fb3bc78d7b6b3e69cfa941b.1920x1080.jpg?t=1778933641","alt":"齐天破界 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/3c982f8bc32fb4f29ae7a8e85ae2fccc9992fc83/ss_3c982f8bc32fb4f29ae7a8e85ae2fccc9992fc83.1920x1080.jpg?t=1778933641","alt":"齐天破界 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/a583c2ba5ff7f4e273365a121be4bd7bda6fb8b2/ss_a583c2ba5ff7f4e273365a121be4bd7bda6fb8b2.1920x1080.jpg?t=1778933641","alt":"齐天破界 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "DIMENSION RANGER",
+    "developers": [
+      "游际线"
+    ],
+    "publishers": [
+      "游际线"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-30",
+    "tags": [
+      "策略",
+      "卡牌游戏",
+      "即时战略",
+      "回合制策略",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "孙悟空穿越平行宇宙救师父，并夺取异界卡牌力量",
+      "dimension": "故事",
+      "excerpt": "You play as Sun Wukong, a famous figure from Chinese mythology, traveling through multiple parallel universes to save your master. Defeat enemies from parallel universes and gain card powers from them.",
+      "url": "https://store.steampowered.com/app/3458810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不同平行宇宙的卡牌拥有各自独特机制",
+      "dimension": "玩法",
+      "excerpt": "In the card collection, you can collect cards from multiple parallel universes, and each universe's cards have unique mechanistic powers.",
+      "url": "https://store.steampowered.com/app/3458810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "线性闯关与随机强化肉鸽两种模式并行",
+      "dimension": "玩法",
+      "excerpt": "The game has two major modes: clearance mode and roguelike mode. The clearance mode includes linear level challenges, while the roguelike mode contains rich random enhancement powers.",
+      "url": "https://store.steampowered.com/app/3458810/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 381,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 74,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3044,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 808,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 808,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.820182531924501,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 11,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.111111,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "齐天破界当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/7946fafdabee29d8b94e11f32369119314661ee8/ss_7946fafdabee29d8b94e11f32369119314661ee8.1920x1080.jpg?t=1778933641",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/7946fafdabee29d8b94e11f32369119314661ee8/ss_7946fafdabee29d8b94e11f32369119314661ee8.1920x1080.jpg?t=1778933641",
+        "alt": "齐天破界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/9acbc7d155a848ab7fb3bc78d7b6b3e69cfa941b/ss_9acbc7d155a848ab7fb3bc78d7b6b3e69cfa941b.1920x1080.jpg?t=1778933641",
+        "alt": "齐天破界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/3c982f8bc32fb4f29ae7a8e85ae2fccc9992fc83/ss_3c982f8bc32fb4f29ae7a8e85ae2fccc9992fc83.1920x1080.jpg?t=1778933641",
+        "alt": "齐天破界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/a583c2ba5ff7f4e273365a121be4bd7bda6fb8b2/ss_a583c2ba5ff7f4e273365a121be4bd7bda6fb8b2.1920x1080.jpg?t=1778933641",
+        "alt": "齐天破界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/0927442f4a8160e0c225e40fd825532f02792f89/ss_0927442f4a8160e0c225e40fd825532f02792f89.1920x1080.jpg?t=1778933641",
+        "alt": "齐天破界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/883fe8b4b73cb27fbe2278076485a77a0dfde5c5/ss_883fe8b4b73cb27fbe2278076485a77a0dfde5c5.1920x1080.jpg?t=1778933641",
+        "alt": "齐天破界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/7b175f45a7c1d375522c50095ee84fd0d0d89090/ss_7b175f45a7c1d375522c50095ee84fd0d0d89090.1920x1080.jpg?t=1778933641",
+        "alt": "齐天破界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3458810/1c77d74c051ed0ad8a78c861e9b94db52a5d0613/ss_1c77d74c051ed0ad8a78c861e9b94db52a5d0613.1920x1080.jpg?t=1778933641",
+        "alt": "齐天破界 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

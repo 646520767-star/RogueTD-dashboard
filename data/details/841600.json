@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Aura of Worlds","developers":["Cognitive Forge"],"publishers":["indie.io"],"release_status":"released","release_date":"2024-09-24","tags":["类Rogue","平台跳跃","像素画面","轻度Rogue","程序生成"]},"hooks":[{"text":"同一难题允许抓钩、爆破、减速时间或挑拨敌人等多种解法，连吊灯也能改成燃烧瓶","dimension":"玩法","excerpt":"Creative Problem-Solving – There’s always more than one way forward! Grapple across pits, explode barriers, slow time, or even turn enemies against each other. Every object has multiple uses—grab a lantern from the ceiling and use it as a portable light source or an improvised flaming Molotov.","url":"https://store.steampowered.com/app/841600/","label":"证据原文片段"},{"text":"12种以上主题与6类主要世界随机重组布局、动态灾害和机关","dimension":"玩法","excerpt":"Procedurally generated worlds with shifting layouts, dynamic hazards, and unpredictable challenges. Explore 12+ unique level themes and 6 primary world types, each filled with unique traps, powerful enemies, and devious secrets.","url":"https://store.steampowered.com/app/841600/","label":"证据原文片段"},{"text":"通过神器、改变规则的特长、初始装备与世界捷径扩充后续每轮选择","dimension":"玩法","excerpt":"Find powerful artifacts, equip game-changing perks, and unlock new starting gear and world shortcuts to expand your options in every run.","url":"https://store.steampowered.com/app/841600/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4992,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27960,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1937,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":43988,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6484,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6484,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.049036962781024,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":149,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.604027,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、平台跳跃","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_fab1b7285ba28120fb4d35112fc33f287f562b1d.1920x1080.jpg?t=1775996516","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_fab1b7285ba28120fb4d35112fc33f287f562b1d.1920x1080.jpg?t=1775996516","alt":"Aura of Worlds 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_f426f2840fda5b1db9ccf529517091ac4717447b.1920x1080.jpg?t=1775996516","alt":"Aura of Worlds 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_651440a7bfc53ee574c5e1e3f4cb7a055bc18af8.1920x1080.jpg?t=1775996516","alt":"Aura of Worlds 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_7e5b0c0b003f057343b9d50e543cd955efb34015.1920x1080.jpg?t=1775996516","alt":"Aura of Worlds 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Aura of Worlds",
+    "developers": [
+      "Cognitive Forge"
+    ],
+    "publishers": [
+      "indie.io"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-24",
+    "tags": [
+      "类Rogue",
+      "平台跳跃",
+      "像素画面",
+      "轻度Rogue",
+      "二维平台跳跃"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "同一难题允许抓钩、爆破、减速时间或挑拨敌人等多种解法，连吊灯也能改成燃烧瓶",
+      "dimension": "玩法",
+      "excerpt": "Creative Problem-Solving – There’s always more than one way forward! Grapple across pits, explode barriers, slow time, or even turn enemies against each other. Every object has multiple uses—grab a lantern from the ceiling and use it as a portable light source or an improvised flaming Molotov.",
+      "url": "https://store.steampowered.com/app/841600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "12种以上主题与6类主要世界随机重组布局、动态灾害和机关",
+      "dimension": "玩法",
+      "excerpt": "Procedurally generated worlds with shifting layouts, dynamic hazards, and unpredictable challenges. Explore 12+ unique level themes and 6 primary world types, each filled with unique traps, powerful enemies, and devious secrets.",
+      "url": "https://store.steampowered.com/app/841600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "通过神器、改变规则的特长、初始装备与世界捷径扩充后续每轮选择",
+      "dimension": "玩法",
+      "excerpt": "Find powerful artifacts, equip game-changing perks, and unlock new starting gear and world shortcuts to expand your options in every run.",
+      "url": "https://store.steampowered.com/app/841600/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4992,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 28126,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1947,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 45437,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 6484,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 6484,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.066520825597272,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 100,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.604027,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Aura of Worlds位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_fab1b7285ba28120fb4d35112fc33f287f562b1d.1920x1080.jpg?t=1775996516",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_fab1b7285ba28120fb4d35112fc33f287f562b1d.1920x1080.jpg?t=1775996516",
+        "alt": "Aura of Worlds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_f426f2840fda5b1db9ccf529517091ac4717447b.1920x1080.jpg?t=1775996516",
+        "alt": "Aura of Worlds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_651440a7bfc53ee574c5e1e3f4cb7a055bc18af8.1920x1080.jpg?t=1775996516",
+        "alt": "Aura of Worlds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_7e5b0c0b003f057343b9d50e543cd955efb34015.1920x1080.jpg?t=1775996516",
+        "alt": "Aura of Worlds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_429d5c753b8124a74549f2261efd328dc52c8b21.1920x1080.jpg?t=1775996516",
+        "alt": "Aura of Worlds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_815c4d18c91a76d19374d775625f33906d41de01.1920x1080.jpg?t=1775996516",
+        "alt": "Aura of Worlds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_97fd76c91cca68607bda1cc19b3b7421608ff50a.1920x1080.jpg?t=1775996516",
+        "alt": "Aura of Worlds 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841600/ss_296ee4b9e18a86566f6d364b8a8bb2d0f579dcd6.1920x1080.jpg?t=1775996516",
+        "alt": "Aura of Worlds 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

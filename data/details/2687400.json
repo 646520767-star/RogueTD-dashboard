@@ -1,1 +1,178 @@
-{"identity":{"original_title":"GODBREAKERS","developers":["To The Sky"],"publishers":["Thunderful Publishing"],"release_status":"released","release_date":"2025-10-23","tags":["动作肉鸽","在线合作","高重复可玩性","高难度","动作角色扮演"]},"hooks":[{"text":"用取消动画、冲刺与空中机动打出高表达连段","dimension":"玩法","excerpt":"Experience high expression combat with animation cancelling, dashes, aerial mobility, and spectacle fighting that rewards mastery while staying friendly to new players.","url":"https://store.steampowered.com/app/2687400/","label":"证据原文片段"},{"text":"战斗中撕出强敌能力，再串成毁灭性的Godbreak攻击","dimension":"玩法","excerpt":"Every major enemy becomes a source of new abilities. Rip out their powers mid-fight and chain them into devastating Godbreak attacks!","url":"https://store.steampowered.com/app/2687400/","label":"证据原文片段"},{"text":"四人队协调技能、放大彼此构筑，再共同拆解强力Boss","dimension":"玩法","excerpt":"Drop in with friends for structured chaos. Coordinate your abilities, amplify each other’s builds and take down powerful bosses together.","url":"https://store.steampowered.com/app/2687400/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":72178,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":236397,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11562,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1244400,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":84559,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":84559,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.757179775330043,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1004,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":72,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":72.310757,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、在线合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/ae755eae5cbec6dbc0a9c73da08fb66ecc5a31e3/ss_ae755eae5cbec6dbc0a9c73da08fb66ecc5a31e3.1920x1080.jpg?t=1770803947","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/ae755eae5cbec6dbc0a9c73da08fb66ecc5a31e3/ss_ae755eae5cbec6dbc0a9c73da08fb66ecc5a31e3.1920x1080.jpg?t=1770803947","alt":"GODBREAKERS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/f7fff8349159d4ce9516b40ae6dbfa8c3cce2b6f/ss_f7fff8349159d4ce9516b40ae6dbfa8c3cce2b6f.1920x1080.jpg?t=1770803947","alt":"GODBREAKERS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/87b5caa4673309eb939c0cf4e069ad5303132a03/ss_87b5caa4673309eb939c0cf4e069ad5303132a03.1920x1080.jpg?t=1770803947","alt":"GODBREAKERS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/83c5e83679e118a6f0b9248aa6d3c4242ec41599/ss_83c5e83679e118a6f0b9248aa6d3c4242ec41599.1920x1080.jpg?t=1770803947","alt":"GODBREAKERS 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "GODBREAKERS",
+    "developers": [
+      "To The Sky"
+    ],
+    "publishers": [
+      "Thunderful Publishing"
+    ],
+    "release_status": "released",
+    "release_date": "2025-10-23",
+    "tags": [
+      "动作肉鸽",
+      "在线合作",
+      "轻度Rogue",
+      "轻度Rogue",
+      "高重复可玩性"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用取消动画、冲刺与空中机动打出高表达连段",
+      "dimension": "玩法",
+      "excerpt": "Experience high expression combat with animation cancelling, dashes, aerial mobility, and spectacle fighting that rewards mastery while staying friendly to new players.",
+      "url": "https://store.steampowered.com/app/2687400/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗中撕出强敌能力，再串成毁灭性的Godbreak攻击",
+      "dimension": "玩法",
+      "excerpt": "Every major enemy becomes a source of new abilities. Rip out their powers mid-fight and chain them into devastating Godbreak attacks!",
+      "url": "https://store.steampowered.com/app/2687400/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四人队协调技能、放大彼此构筑，再共同拆解强力Boss",
+      "dimension": "玩法",
+      "excerpt": "Drop in with friends for structured chaos. Coordinate your abilities, amplify each other’s builds and take down powerful bosses together.",
+      "url": "https://store.steampowered.com/app/2687400/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 72794,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 233962,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11563,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1233723,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 85205,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 85205,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.723628405447368,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 803,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 72,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 72.189349,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "GODBREAKERS位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/ae755eae5cbec6dbc0a9c73da08fb66ecc5a31e3/ss_ae755eae5cbec6dbc0a9c73da08fb66ecc5a31e3.1920x1080.jpg?t=1770803947",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/ae755eae5cbec6dbc0a9c73da08fb66ecc5a31e3/ss_ae755eae5cbec6dbc0a9c73da08fb66ecc5a31e3.1920x1080.jpg?t=1770803947",
+        "alt": "GODBREAKERS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/f7fff8349159d4ce9516b40ae6dbfa8c3cce2b6f/ss_f7fff8349159d4ce9516b40ae6dbfa8c3cce2b6f.1920x1080.jpg?t=1770803947",
+        "alt": "GODBREAKERS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/87b5caa4673309eb939c0cf4e069ad5303132a03/ss_87b5caa4673309eb939c0cf4e069ad5303132a03.1920x1080.jpg?t=1770803947",
+        "alt": "GODBREAKERS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/83c5e83679e118a6f0b9248aa6d3c4242ec41599/ss_83c5e83679e118a6f0b9248aa6d3c4242ec41599.1920x1080.jpg?t=1770803947",
+        "alt": "GODBREAKERS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/1970f2ae55f90db9ea8d42aa21c4447be35c0a83/ss_1970f2ae55f90db9ea8d42aa21c4447be35c0a83.1920x1080.jpg?t=1770803947",
+        "alt": "GODBREAKERS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/c45509647e0111dc6b5f3033efbc72c1d595b73f/ss_c45509647e0111dc6b5f3033efbc72c1d595b73f.1920x1080.jpg?t=1770803947",
+        "alt": "GODBREAKERS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/79178feee7b5fad1afb79c5208fe58f1721f29d1/ss_79178feee7b5fad1afb79c5208fe58f1721f29d1.1920x1080.jpg?t=1770803947",
+        "alt": "GODBREAKERS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/e73dbb824cfc4053f2da8c029384cb32c6245e82/ss_e73dbb824cfc4053f2da8c029384cb32c6245e82.1920x1080.jpg?t=1770803947",
+        "alt": "GODBREAKERS 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,248 @@
-{"identity":{"original_title":"Shattered Chess","developers":["Arti Works"],"publishers":["Arti Works","EasyPizza"],"release_status":"released","release_date":"2026-06-05","tags":["休闲","策略","类Rogue","回合制策略","回合制战术"]},"hooks":[{"text":"每轮仅有10步，以连续吃子维持连击并累乘分数","dimension":"玩法","excerpt":"You only have 10 moves. Every capture counts for scoring. Build huge combo chains, multiply your score, and push your run as far as possible.","url":"https://store.steampowered.com/app/4131940/","label":"证据原文片段"},{"text":"构筑可围绕连击延长、棋子专精、走法改变与区域计分展开","dimension":"玩法","excerpt":"Create runs focused on: combo extensions piece specialization movement changing upgrades zone based scoring boosts more enemy pieces more moves end combo effects","url":"https://store.steampowered.com/app/4131940/","label":"证据原文片段"},{"text":"Boss会直接改写棋子冷却、可移动棋种或出子顺序","dimension":"玩法","excerpt":"Boss encounters introduce mechanics that disrupt your strategy and force you to adapt on the fly. Every few stages, the game changes.","url":"https://store.steampowered.com/app/4131940/","label":"证据原文片段"}],"opinions":[{"text":"自制图形和动画受到明确赞赏。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"big ups for all the homemade graphic design and animations.","url":"https://steamcommunity.com/profiles/76561198829885325/recommended/4131940/","label":"证据原文片段"}]},{"text":"任务在UI中不够醒目，容易被忘记。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"I often forget about the quests because they don't stand out enough in the UI.","url":"https://steamcommunity.com/profiles/76561198108142086/recommended/4131940/","label":"证据原文片段"}]},{"text":"部分任务描述过长，不便快速阅读。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"some quest descriptions can be a bit too wordy","url":"https://steamcommunity.com/profiles/76561199189457370/recommended/4131940/","label":"证据原文片段"}]},{"text":"Boss迫使玩家调整策略，使每局保持变化。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Bosses keep runs interesting by forcing you to adapt your strategy","url":"https://steamcommunity.com/profiles/76561199416756094/recommended/4131940/","label":"证据原文片段"}]},{"text":"构筑种类优秀，协同成型后很难放下。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The build variety is excellent, and once the synergies start coming together, the game becomes hard to put down.","url":"https://steamcommunity.com/profiles/76561199416756094/recommended/4131940/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":538,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":83,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3857,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":592,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":592,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.722233533373108,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":31,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["任务在UI中不够醒目，容易被忘记。","部分任务描述过长，不便快速阅读。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/20a647c440ca398920988fc82af3db712544cf20/ss_20a647c440ca398920988fc82af3db712544cf20.1920x1080.jpg?t=1780675248","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/20a647c440ca398920988fc82af3db712544cf20/ss_20a647c440ca398920988fc82af3db712544cf20.1920x1080.jpg?t=1780675248","alt":"Shattered Chess 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/d12f939c4e7fa083906d3fec812220df7170215e/ss_d12f939c4e7fa083906d3fec812220df7170215e.1920x1080.jpg?t=1780675248","alt":"Shattered Chess 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/e7279c269eb8162c825306e38fede254f759e731/ss_e7279c269eb8162c825306e38fede254f759e731.1920x1080.jpg?t=1780675248","alt":"Shattered Chess 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/da03500238f39ed69a3480ff65b761f48885d137/ss_da03500238f39ed69a3480ff65b761f48885d137.1920x1080.jpg?t=1780675248","alt":"Shattered Chess 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Shattered Chess",
+    "developers": [
+      "Arti Works"
+    ],
+    "publishers": [
+      "Arti Works",
+      "EasyPizza"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-05",
+    "tags": [
+      "休闲",
+      "策略",
+      "类Rogue",
+      "类Rogue",
+      "回合制策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每轮仅有10步，以连续吃子维持连击并累乘分数",
+      "dimension": "玩法",
+      "excerpt": "You only have 10 moves. Every capture counts for scoring. Build huge combo chains, multiply your score, and push your run as far as possible.",
+      "url": "https://store.steampowered.com/app/4131940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "构筑可围绕连击延长、棋子专精、走法改变与区域计分展开",
+      "dimension": "玩法",
+      "excerpt": "Create runs focused on: combo extensions piece specialization movement changing upgrades zone based scoring boosts more enemy pieces more moves end combo effects",
+      "url": "https://store.steampowered.com/app/4131940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Boss会直接改写棋子冷却、可移动棋种或出子顺序",
+      "dimension": "玩法",
+      "excerpt": "Boss encounters introduce mechanics that disrupt your strategy and force you to adapt on the fly. Every few stages, the game changes.",
+      "url": "https://store.steampowered.com/app/4131940/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "自制图形和动画受到明确赞赏。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "big ups for all the homemade graphic design and animations.",
+          "url": "https://steamcommunity.com/profiles/76561198829885325/recommended/4131940/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "任务在UI中不够醒目，容易被忘记。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "I often forget about the quests because they don't stand out enough in the UI.",
+          "url": "https://steamcommunity.com/profiles/76561198108142086/recommended/4131940/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分任务描述过长，不便快速阅读。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "some quest descriptions can be a bit too wordy",
+          "url": "https://steamcommunity.com/profiles/76561199189457370/recommended/4131940/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boss迫使玩家调整策略，使每局保持变化。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Bosses keep runs interesting by forcing you to adapt your strategy",
+          "url": "https://steamcommunity.com/profiles/76561199416756094/recommended/4131940/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "构筑种类优秀，协同成型后很难放下。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The build variety is excellent, and once the synergies start coming together, the game becomes hard to put down.",
+          "url": "https://steamcommunity.com/profiles/76561199416756094/recommended/4131940/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 558,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 84,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3913,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 612,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 612,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.72845767689337,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 28,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "任务在UI中不够醒目，容易被忘记。",
+    "部分任务描述过长，不便快速阅读。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Shattered Chess位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/20a647c440ca398920988fc82af3db712544cf20/ss_20a647c440ca398920988fc82af3db712544cf20.1920x1080.jpg?t=1780675248",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/20a647c440ca398920988fc82af3db712544cf20/ss_20a647c440ca398920988fc82af3db712544cf20.1920x1080.jpg?t=1780675248",
+        "alt": "Shattered Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/d12f939c4e7fa083906d3fec812220df7170215e/ss_d12f939c4e7fa083906d3fec812220df7170215e.1920x1080.jpg?t=1780675248",
+        "alt": "Shattered Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/e7279c269eb8162c825306e38fede254f759e731/ss_e7279c269eb8162c825306e38fede254f759e731.1920x1080.jpg?t=1780675248",
+        "alt": "Shattered Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/da03500238f39ed69a3480ff65b761f48885d137/ss_da03500238f39ed69a3480ff65b761f48885d137.1920x1080.jpg?t=1780675248",
+        "alt": "Shattered Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/af0d5d4de236b55e0aefe530172aa08f377b8d97/ss_af0d5d4de236b55e0aefe530172aa08f377b8d97.1920x1080.jpg?t=1780675248",
+        "alt": "Shattered Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/189a08f5653b033d12c130c362ae644413ba4f8b/ss_189a08f5653b033d12c130c362ae644413ba4f8b.1920x1080.jpg?t=1780675248",
+        "alt": "Shattered Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/e6ab9a9863c26cd87081f6a31e9aa39aad3dcf19/ss_e6ab9a9863c26cd87081f6a31e9aa39aad3dcf19.1920x1080.jpg?t=1780675248",
+        "alt": "Shattered Chess 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131940/e96f4d7eca5c8a0dd184ca5faf68a264f8f67882/ss_e96f4d7eca5c8a0dd184ca5faf68a264f8f67882.1920x1080.jpg?t=1780675248",
+        "alt": "Shattered Chess 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

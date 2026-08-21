@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Replicat","developers":["Brainoid Games"],"publishers":["Brainoid Games","Erabit"],"release_status":"released","release_date":"2025-11-18","tags":["类Rogue","卡组构筑","肉鸽卡组构筑","全年龄友好","策略"]},"hooks":[{"text":"翻额外牌、保持牌面、用鬼牌，甚至让错配对子也判定成功","dimension":"玩法","excerpt":"Reveal extra cards, keep tiles flipped, match wild Jokers, and even force mismatched pairs to succeed.","url":"https://store.steampowered.com/app/3509430/","label":"证据原文片段"},{"text":"额外步数、被动揭示、回合操控与倍率等方向可搭成不同流派","dimension":"玩法","excerpt":"Whether you focus on extra moves, passive reveals, turn manipulation, multipliers or pure chaos, every build offers a unique way to outwit the board.","url":"https://store.steampowered.com/app/3509430/","label":"证据原文片段"},{"text":"爵士放克氛围配合猫咪表情、喵叫音效与鲜艳画面","dimension":"画风","excerpt":"Immerse yourself in Replicat’s jazzy, funky world filled with adorable cat emotes, meowing sound effects, and vibrant visuals.","url":"https://store.steampowered.com/app/3509430/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4323,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":19065,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":820,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":35192,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5857,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5857,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.892671651536073,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":326,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":99,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":99.388379,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/fc30cdbe103e5422a29d7bf8350dd951c22c1802/ss_fc30cdbe103e5422a29d7bf8350dd951c22c1802.1920x1080.jpg?t=1779762829","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/fc30cdbe103e5422a29d7bf8350dd951c22c1802/ss_fc30cdbe103e5422a29d7bf8350dd951c22c1802.1920x1080.jpg?t=1779762829","alt":"双喵成行 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/1b76585968a7958af6f73c97b57295710a14cfa8/ss_1b76585968a7958af6f73c97b57295710a14cfa8.1920x1080.jpg?t=1779762829","alt":"双喵成行 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/0a45bc6502e7ab4383f62f7fca4743bc9187f711/ss_0a45bc6502e7ab4383f62f7fca4743bc9187f711.1920x1080.jpg?t=1779762829","alt":"双喵成行 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/c9d26d1cf812851797095fed0d489a4fd19ef640/ss_c9d26d1cf812851797095fed0d489a4fd19ef640.1920x1080.jpg?t=1779762829","alt":"双喵成行 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Replicat",
+    "developers": [
+      "Brainoid Games"
+    ],
+    "publishers": [
+      "Brainoid Games",
+      "Erabit"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-18",
+    "tags": [
+      "轻度Rogue",
+      "类Rogue",
+      "卡组构筑",
+      "肉鸽卡组构筑",
+      "全年龄友好"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "翻额外牌、保持牌面、用鬼牌，甚至让错配对子也判定成功",
+      "dimension": "玩法",
+      "excerpt": "Reveal extra cards, keep tiles flipped, match wild Jokers, and even force mismatched pairs to succeed.",
+      "url": "https://store.steampowered.com/app/3509430/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "额外步数、被动揭示、回合操控与倍率等方向可搭成不同流派",
+      "dimension": "玩法",
+      "excerpt": "Whether you focus on extra moves, passive reveals, turn manipulation, multipliers or pure chaos, every build offers a unique way to outwit the board.",
+      "url": "https://store.steampowered.com/app/3509430/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "爵士放克氛围配合猫咪表情、喵叫音效与鲜艳画面",
+      "dimension": "画风",
+      "excerpt": "Immerse yourself in Replicat’s jazzy, funky world filled with adorable cat emotes, meowing sound effects, and vibrant visuals.",
+      "url": "https://store.steampowered.com/app/3509430/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5055,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 822,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 40953,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 6825,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 6825,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.919254007448757,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 209,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 99,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 99.39759,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "双喵成行位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/fc30cdbe103e5422a29d7bf8350dd951c22c1802/ss_fc30cdbe103e5422a29d7bf8350dd951c22c1802.1920x1080.jpg?t=1779762829",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/fc30cdbe103e5422a29d7bf8350dd951c22c1802/ss_fc30cdbe103e5422a29d7bf8350dd951c22c1802.1920x1080.jpg?t=1779762829",
+        "alt": "双喵成行 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/1b76585968a7958af6f73c97b57295710a14cfa8/ss_1b76585968a7958af6f73c97b57295710a14cfa8.1920x1080.jpg?t=1779762829",
+        "alt": "双喵成行 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/0a45bc6502e7ab4383f62f7fca4743bc9187f711/ss_0a45bc6502e7ab4383f62f7fca4743bc9187f711.1920x1080.jpg?t=1779762829",
+        "alt": "双喵成行 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/c9d26d1cf812851797095fed0d489a4fd19ef640/ss_c9d26d1cf812851797095fed0d489a4fd19ef640.1920x1080.jpg?t=1779762829",
+        "alt": "双喵成行 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/82e6d0d490c37f88092c459f6230a2032854a3f9/ss_82e6d0d490c37f88092c459f6230a2032854a3f9.1920x1080.jpg?t=1779762829",
+        "alt": "双喵成行 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/306bdb6158a60d7b4dc1d00dc483c41db9b2c5f1/ss_306bdb6158a60d7b4dc1d00dc483c41db9b2c5f1.1920x1080.jpg?t=1779762829",
+        "alt": "双喵成行 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/00ab1b503aff90fac2a5e4e2fc0ad4c9c930067c/ss_00ab1b503aff90fac2a5e4e2fc0ad4c9c930067c.1920x1080.jpg?t=1779762829",
+        "alt": "双喵成行 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509430/2dd253cc5cbcacdd328bb869317dd7d3b6f9aefa/ss_2dd253cc5cbcacdd328bb869317dd7d3b6f9aefa.1920x1080.jpg?t=1779762829",
+        "alt": "双喵成行 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

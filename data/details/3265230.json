@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Cursed Companions","developers":["Crimson Forge Studios"],"publishers":["Crimson Forge Studios"],"release_status":"released","release_date":"2026-07-09","tags":["幽默","在线合作","喜剧","多人游戏","探索"]},"hooks":[{"text":"每人都背着一个说出口就掉血的禁词","dimension":"玩法","excerpt":"Every player is cursed with a forbidden word , like \" Okay \" or \" I think \". If anyone says it, the player takes damage.","url":"https://store.steampowered.com/app/3265230/","label":"证据原文片段"},{"text":"说对的话能治疗队友、拆陷阱和驱赶怪物","dimension":"玩法","excerpt":"Say the right words to get ahead Use your voice to light your torch, to disable traps or shoo monsters away.","url":"https://store.steampowered.com/app/3265230/","label":"证据原文片段"},{"text":"怪物会分别惩罚脏话、害怕烂情话或特定喊话","dimension":"玩法","excerpt":"The Foul Moth punishes players who swear. The Meatgrinder Roast or get roasted! Shout \" Who's your Daddy! \" to send the Meatgrinder packing! The Bride Scare The Bride away ! Bad pickup lines and awkward confessions are your best defense!","url":"https://store.steampowered.com/app/3265230/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":110591,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":223690,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9600,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":811417,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":132911,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":132911,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.589157803674431,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":421,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.805687,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"幽默、在线合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/13fa0ff8fe7425748d107e142a3c98f31cbd7451/ss_13fa0ff8fe7425748d107e142a3c98f31cbd7451.1920x1080.jpg?t=1783616870","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/13fa0ff8fe7425748d107e142a3c98f31cbd7451/ss_13fa0ff8fe7425748d107e142a3c98f31cbd7451.1920x1080.jpg?t=1783616870","alt":"Cursed Companions 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/ae9f9fa876709742e0d383f43518ce331c623e3f/ss_ae9f9fa876709742e0d383f43518ce331c623e3f.1920x1080.jpg?t=1783616870","alt":"Cursed Companions 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/fcbf1d980209f710d37b1add445cf717bdc4545b/ss_fcbf1d980209f710d37b1add445cf717bdc4545b.1920x1080.jpg?t=1783616870","alt":"Cursed Companions 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/7c354455e00828eac23589f87dfa04afc82e562c/ss_7c354455e00828eac23589f87dfa04afc82e562c.1920x1080.jpg?t=1783616870","alt":"Cursed Companions 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Cursed Companions",
+    "developers": [
+      "Crimson Forge Studios"
+    ],
+    "publishers": [
+      "Crimson Forge Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-09",
+    "tags": [
+      "幽默",
+      "在线合作",
+      "喜剧",
+      "多人游戏",
+      "探索"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每人都背着一个说出口就掉血的禁词",
+      "dimension": "玩法",
+      "excerpt": "Every player is cursed with a forbidden word , like \" Okay \" or \" I think \". If anyone says it, the player takes damage.",
+      "url": "https://store.steampowered.com/app/3265230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "说对的话能治疗队友、拆陷阱和驱赶怪物",
+      "dimension": "玩法",
+      "excerpt": "Say the right words to get ahead Use your voice to light your torch, to disable traps or shoo monsters away.",
+      "url": "https://store.steampowered.com/app/3265230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "怪物会分别惩罚脏话、害怕烂情话或特定喊话",
+      "dimension": "玩法",
+      "excerpt": "The Foul Moth punishes players who swear. The Meatgrinder Roast or get roasted! Shout \" Who's your Daddy! \" to send the Meatgrinder packing! The Bride Scare The Bride away ! Bad pickup lines and awkward confessions are your best defense!",
+      "url": "https://store.steampowered.com/app/3265230/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 113001,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 232687,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9708,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 834464,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 136240,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 136240,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.592676941866245,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 329,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.91954,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Cursed Companions位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/13fa0ff8fe7425748d107e142a3c98f31cbd7451/ss_13fa0ff8fe7425748d107e142a3c98f31cbd7451.1920x1080.jpg?t=1783616870",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/13fa0ff8fe7425748d107e142a3c98f31cbd7451/ss_13fa0ff8fe7425748d107e142a3c98f31cbd7451.1920x1080.jpg?t=1785162091",
+        "alt": "Cursed Companions 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/ae9f9fa876709742e0d383f43518ce331c623e3f/ss_ae9f9fa876709742e0d383f43518ce331c623e3f.1920x1080.jpg?t=1785162091",
+        "alt": "Cursed Companions 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/fcbf1d980209f710d37b1add445cf717bdc4545b/ss_fcbf1d980209f710d37b1add445cf717bdc4545b.1920x1080.jpg?t=1785162091",
+        "alt": "Cursed Companions 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/7c354455e00828eac23589f87dfa04afc82e562c/ss_7c354455e00828eac23589f87dfa04afc82e562c.1920x1080.jpg?t=1785162091",
+        "alt": "Cursed Companions 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/0e88726ae79df7c2c277799df1c3960bc4f48070/ss_0e88726ae79df7c2c277799df1c3960bc4f48070.1920x1080.jpg?t=1785162091",
+        "alt": "Cursed Companions 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/3bee838db50c20810310d8998534846f6fb9475e/ss_3bee838db50c20810310d8998534846f6fb9475e.1920x1080.jpg?t=1785162091",
+        "alt": "Cursed Companions 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/ae65a42694a996b1bb4e78c78987a12b4356011f/ss_ae65a42694a996b1bb4e78c78987a12b4356011f.1920x1080.jpg?t=1785162091",
+        "alt": "Cursed Companions 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/48f36424dae869e1eabf617d41c6b431a2832def/ss_48f36424dae869e1eabf617d41c6b431a2832def.1920x1080.jpg?t=1785162091",
+        "alt": "Cursed Companions 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

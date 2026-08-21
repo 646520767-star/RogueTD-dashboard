@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Kalpa of Sword","developers":["孤帆工作室"],"publishers":["Orienjoy"],"release_status":"released","release_date":"2024-01-31","tags":["免费游玩","玩家对战","刷宝","玩家对环境","沙盒"]},"hooks":[{"text":"取消繁琐日常，开放全图高频采集刷宝，并可骑乘坐骑御空旅行","dimension":"玩法","excerpt":"游戏内没有繁琐的任务和日常，地图全开放式采集、刷宝；资源的高频刷新，助力道友境界快速提升。道友们还能使用各色坐骑，御空飞行，游历广袤大陆。","url":"https://store.steampowered.com/app/2739600/","label":"证据原文片段"},{"text":"野外全员可敌对击杀，死亡清空等级积分，部分地图还会掉落随身重宝","dimension":"玩法","excerpt":"注意！野外将对全部道友开放敌对击杀功能，一旦死亡，道友等级积分全部清零；部分地图还附带死亡掉落功能，若身怀重宝请注意及时返回安全区储存或回收，以免被人中途劫道，杀人夺宝。","url":"https://store.steampowered.com/app/2739600/","label":"证据原文片段"},{"text":"地图随机事件可能赐予前辈神兵，也可能让玩家渡雷劫直接成就金仙","dimension":"玩法","excerpt":"地图隐藏的随机事件等待各位道友的探寻。或偶遇先辈机缘，获得令人羡慕的神兵利器；又或雷劫渡体，一朝成就金仙最强之身，游戏里的惊喜无处不在。","url":"https://store.steampowered.com/app/2739600/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":294942,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22877,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5142,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":873142,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":294942,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":294942,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":25.74457075234635,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":6626,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":69,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":69.438575,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为69.438575%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_84f46ee793d720ecb4928de4f743f69fa535b625.1920x1080.jpg?t=1749519796","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_84f46ee793d720ecb4928de4f743f69fa535b625.1920x1080.jpg?t=1749519796","alt":"剑气劫 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_21cbc9ae0f58252be45ef81ef9ea1625cce4400e.1920x1080.jpg?t=1749519796","alt":"剑气劫 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_7ac00a6ba96b3568e89ad70ed0827f279228e27a.1920x1080.jpg?t=1749519796","alt":"剑气劫 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_667aac16a2ad6219ad6d845e9292943cdc356838.1920x1080.jpg?t=1749519796","alt":"剑气劫 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Kalpa of Sword",
+    "developers": [
+      "孤帆工作室"
+    ],
+    "publishers": [
+      "Orienjoy"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-31",
+    "tags": [
+      "免费游玩",
+      "策略",
+      "玩家对战",
+      "刷宝",
+      "玩家对环境"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "取消繁琐日常，开放全图高频采集刷宝，并可骑乘坐骑御空旅行",
+      "dimension": "玩法",
+      "excerpt": "游戏内没有繁琐的任务和日常，地图全开放式采集、刷宝；资源的高频刷新，助力道友境界快速提升。道友们还能使用各色坐骑，御空飞行，游历广袤大陆。",
+      "url": "https://store.steampowered.com/app/2739600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "野外全员可敌对击杀，死亡清空等级积分，部分地图还会掉落随身重宝",
+      "dimension": "玩法",
+      "excerpt": "注意！野外将对全部道友开放敌对击杀功能，一旦死亡，道友等级积分全部清零；部分地图还附带死亡掉落功能，若身怀重宝请注意及时返回安全区储存或回收，以免被人中途劫道，杀人夺宝。",
+      "url": "https://store.steampowered.com/app/2739600/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "地图随机事件可能赐予前辈神兵，也可能让玩家渡雷劫直接成就金仙",
+      "dimension": "玩法",
+      "excerpt": "地图隐藏的随机事件等待各位道友的探寻。或偶遇先辈机缘，获得令人羡慕的神兵利器；又或雷劫渡体，一朝成就金仙最强之身，游戏里的惊喜无处不在。",
+      "url": "https://store.steampowered.com/app/2739600/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 305345,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 21734,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5154,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1015550,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 305345,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 305345,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 23.735963572550432,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 6628,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 69,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 69.422236,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为69.438575%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "剑气劫位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_84f46ee793d720ecb4928de4f743f69fa535b625.1920x1080.jpg?t=1749519796",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_84f46ee793d720ecb4928de4f743f69fa535b625.1920x1080.jpg?t=1749519796",
+        "alt": "剑气劫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_21cbc9ae0f58252be45ef81ef9ea1625cce4400e.1920x1080.jpg?t=1749519796",
+        "alt": "剑气劫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_7ac00a6ba96b3568e89ad70ed0827f279228e27a.1920x1080.jpg?t=1749519796",
+        "alt": "剑气劫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_667aac16a2ad6219ad6d845e9292943cdc356838.1920x1080.jpg?t=1749519796",
+        "alt": "剑气劫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_7c802ded291bfec04b6f90f70f77afa313e72f5e.1920x1080.jpg?t=1749519796",
+        "alt": "剑气劫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_67e80f29f26666b2ba2049c9765678bc2747b2bc.1920x1080.jpg?t=1749519796",
+        "alt": "剑气劫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_a5d78aee4ede9ee41d06cdd8b14406004aaf193d.1920x1080.jpg?t=1749519796",
+        "alt": "剑气劫 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2739600/ss_65a6b9636c08c5dea3306cae117bc61757eaee5c.1920x1080.jpg?t=1749519796",
+        "alt": "剑气劫 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

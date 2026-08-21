@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Monarchy","developers":["Brain Seal Ltd"],"publishers":["Brain Seal Ltd"],"release_status":"released","release_date":"2024-11-06","tags":["策略","探索","基地建设","类Rogue","资源管理"]},"hooks":[{"text":"建筑可自由落位的横版基地经营与防守","dimension":"玩法","excerpt":"Place down your buildings anywhere you want using a dynamic building system to create a vibrant base!","url":"https://store.steampowered.com/app/2391650/","label":"证据原文片段"},{"text":"训练后的军队自动跟随领主并投入战斗","dimension":"玩法","excerpt":"Unified military system that once trained it follows you around and engages in combat automatically.","url":"https://store.steampowered.com/app/2391650/","label":"证据原文片段"},{"text":"夏季剿匪、秋季攻城与冬夜生存形成三种场景变体","dimension":"玩法","excerpt":"Bandit Land : The bandits are hiding in caves, and you must clear them out in a summer setting. The Siege : Build a mighty trebuchet and siege the enemy castle walls in this autumn setting where enemies come only from one direction. Winter Knight The harsh winter has many secrets waiting to be discovered, find them and survive them in this winter setting where enemies attack randomly from one side each night.","url":"https://store.steampowered.com/app/2391650/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1552,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":6355,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":651,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":12643,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2575,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2575,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.829325189783242,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":104,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.615385,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_fb48e2d6506be32a56fc733ae976865c24923b16.1920x1080.jpg?t=1730909330","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_fb48e2d6506be32a56fc733ae976865c24923b16.1920x1080.jpg?t=1730909330","alt":"Monarchy 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_bcc4fc5022eb0c508f0148a190c9cccdc0b3afe6.1920x1080.jpg?t=1730909330","alt":"Monarchy 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_dc7e64e783732e8a227691844f293f43307848ce.1920x1080.jpg?t=1730909330","alt":"Monarchy 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_cf71030eb687169062fa1be65f3e222837ed6d9a.1920x1080.jpg?t=1730909330","alt":"Monarchy 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Monarchy",
+    "developers": [
+      "Brain Seal Ltd"
+    ],
+    "publishers": [
+      "Brain Seal Ltd"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-06",
+    "tags": [
+      "策略",
+      "探索",
+      "基地建设",
+      "类Rogue",
+      "资源管理"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "建筑可自由落位的横版基地经营与防守",
+      "dimension": "玩法",
+      "excerpt": "Place down your buildings anywhere you want using a dynamic building system to create a vibrant base!",
+      "url": "https://store.steampowered.com/app/2391650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "训练后的军队自动跟随领主并投入战斗",
+      "dimension": "玩法",
+      "excerpt": "Unified military system that once trained it follows you around and engages in combat automatically.",
+      "url": "https://store.steampowered.com/app/2391650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "夏季剿匪、秋季攻城与冬夜生存形成三种场景变体",
+      "dimension": "玩法",
+      "excerpt": "Bandit Land : The bandits are hiding in caves, and you must clear them out in a summer setting. The Siege : Build a mighty trebuchet and siege the enemy castle walls in this autumn setting where enemies come only from one direction. Winter Knight The harsh winter has many secrets waiting to be discovered, find them and survive them in this winter setting where enemies attack randomly from one side each night.",
+      "url": "https://store.steampowered.com/app/2391650/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1983,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 6392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 653,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 16650,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3268,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3268,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.870119304757159,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 46,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.761905,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Monarchy位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_fb48e2d6506be32a56fc733ae976865c24923b16.1920x1080.jpg?t=1730909330",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_fb48e2d6506be32a56fc733ae976865c24923b16.1920x1080.jpg?t=1730909330",
+        "alt": "Monarchy 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_bcc4fc5022eb0c508f0148a190c9cccdc0b3afe6.1920x1080.jpg?t=1730909330",
+        "alt": "Monarchy 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_dc7e64e783732e8a227691844f293f43307848ce.1920x1080.jpg?t=1730909330",
+        "alt": "Monarchy 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_cf71030eb687169062fa1be65f3e222837ed6d9a.1920x1080.jpg?t=1730909330",
+        "alt": "Monarchy 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_36e38d41a387ed128bff3f7bed18d299d1e3f7f8.1920x1080.jpg?t=1730909330",
+        "alt": "Monarchy 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_cba08809a7469e9fe5d891d80fca7c41fe4c2a35.1920x1080.jpg?t=1730909330",
+        "alt": "Monarchy 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_043dcd5f851d7f13b89cc282822fef0865683ebd.1920x1080.jpg?t=1730909330",
+        "alt": "Monarchy 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/ss_c11ca2083fd771ef77b1e82bdf42cf21cca9b3df.1920x1080.jpg?t=1730909330",
+        "alt": "Monarchy 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

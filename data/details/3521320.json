@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Magicbook AutoBattler: Contract","developers":["JXGS"],"publishers":["JXGS"],"release_status":"released","release_date":"2025-03-28","tags":["休闲","冒险","策略","自走棋","轻度Rogue"]},"hooks":[{"text":"相同或不同职业都能组合成独特羁绊","dimension":"玩法","excerpt":"Every same or different profession can combine to form a unique bond!","url":"https://store.steampowered.com/app/3521320/","label":"证据原文片段"},{"text":"8 名冒险者、60 多种武器、40 多套装备与数百节点自由构筑","dimension":"玩法","excerpt":"Recruit 8 adventurers with different characteristics, freely match more than 60 weapons, more than 40 sets of suits, and hundreds of treasures, blessings and bond nodes with different effects, to create a unique construction that belongs only to you!","url":"https://store.steampowered.com/app/3521320/","label":"证据原文片段"},{"text":"多种开局方式与战间随机事件，让反复选择持续改写冒险","dimension":"玩法","excerpt":"Diverse ways to start the game, random events in between battles, and repeated choices and tests make each adventure experience more different!","url":"https://store.steampowered.com/app/3521320/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":15114,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22877,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1354,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":109212,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":17873,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":17873,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.75037394987878,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":263,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.228137,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲、冒险","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/8eaf636a7a08610688ededf9f3599081f5f51242/ss_8eaf636a7a08610688ededf9f3599081f5f51242.1920x1080.jpg?t=1745643014","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/8eaf636a7a08610688ededf9f3599081f5f51242/ss_8eaf636a7a08610688ededf9f3599081f5f51242.1920x1080.jpg?t=1745643014","alt":"魔法书自走棋：契约 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/d94a36cddf2668dc425dacdebf428dc8aa9f5c0b/ss_d94a36cddf2668dc425dacdebf428dc8aa9f5c0b.1920x1080.jpg?t=1745643014","alt":"魔法书自走棋：契约 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/ss_a2e19d7155002045220404dd40d384d1dfc6ce55.1920x1080.jpg?t=1745643014","alt":"魔法书自走棋：契约 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/1d41b42ee99cdfbbdfe5131610fa063ba861e6da/ss_1d41b42ee99cdfbbdfe5131610fa063ba861e6da.1920x1080.jpg?t=1745643014","alt":"魔法书自走棋：契约 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Magicbook AutoBattler: Contract",
+    "developers": [
+      "JXGS"
+    ],
+    "publishers": [
+      "JXGS"
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-28",
+    "tags": [
+      "休闲",
+      "冒险",
+      "策略",
+      "自走棋",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "相同或不同职业都能组合成独特羁绊",
+      "dimension": "玩法",
+      "excerpt": "Every same or different profession can combine to form a unique bond!",
+      "url": "https://store.steampowered.com/app/3521320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "8 名冒险者、60 多种武器、40 多套装备与数百节点自由构筑",
+      "dimension": "玩法",
+      "excerpt": "Recruit 8 adventurers with different characteristics, freely match more than 60 weapons, more than 40 sets of suits, and hundreds of treasures, blessings and bond nodes with different effects, to create a unique construction that belongs only to you!",
+      "url": "https://store.steampowered.com/app/3521320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "多种开局方式与战间随机事件，让反复选择持续改写冒险",
+      "dimension": "玩法",
+      "excerpt": "Diverse ways to start the game, random events in between battles, and repeated choices and tests make each adventure experience more different!",
+      "url": "https://store.steampowered.com/app/3521320/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 15321,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 23013,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1357,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 112724,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 18162,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 18162,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.754877555713573,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 205,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.30303,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "魔法书自走棋：契约位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/8eaf636a7a08610688ededf9f3599081f5f51242/ss_8eaf636a7a08610688ededf9f3599081f5f51242.1920x1080.jpg?t=1745643014",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/8eaf636a7a08610688ededf9f3599081f5f51242/ss_8eaf636a7a08610688ededf9f3599081f5f51242.1920x1080.jpg?t=1745643014",
+        "alt": "魔法书自走棋：契约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/d94a36cddf2668dc425dacdebf428dc8aa9f5c0b/ss_d94a36cddf2668dc425dacdebf428dc8aa9f5c0b.1920x1080.jpg?t=1745643014",
+        "alt": "魔法书自走棋：契约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/ss_a2e19d7155002045220404dd40d384d1dfc6ce55.1920x1080.jpg?t=1745643014",
+        "alt": "魔法书自走棋：契约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/1d41b42ee99cdfbbdfe5131610fa063ba861e6da/ss_1d41b42ee99cdfbbdfe5131610fa063ba861e6da.1920x1080.jpg?t=1745643014",
+        "alt": "魔法书自走棋：契约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/72bcf3413d5eaa8de4a3fd870d21b991b6cff10b/ss_72bcf3413d5eaa8de4a3fd870d21b991b6cff10b.1920x1080.jpg?t=1745643014",
+        "alt": "魔法书自走棋：契约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/0ee82442e054be5ac5d9542d081d65e2aa52a583/ss_0ee82442e054be5ac5d9542d081d65e2aa52a583.1920x1080.jpg?t=1745643014",
+        "alt": "魔法书自走棋：契约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/24a204de491559cc9c5eb61871532406fd298c69/ss_24a204de491559cc9c5eb61871532406fd298c69.1920x1080.jpg?t=1745643014",
+        "alt": "魔法书自走棋：契约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521320/ebdd0e9cd26acf6cf1749aaf8fbbdc66a18f7354/ss_ebdd0e9cd26acf6cf1749aaf8fbbdc66a18f7354.1920x1080.jpg?t=1745643014",
+        "alt": "魔法书自走棋：契约 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

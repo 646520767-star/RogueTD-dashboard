@@ -1,1 +1,316 @@
-{"identity":{"original_title":"BORE BLASTERS","developers":["8BitSkull"],"publishers":["8BitSkull"],"release_status":"released","release_date":"2024-03-08","tags":["探索","刷宝","动作","程序生成","轻度Rogue"]},"hooks":[{"text":"用机枪钻头直接轰开岩土，在地下采矿同时击退威胁","dimension":"玩法","excerpt":"Blast your way through rocks and dirt with your machinegun drill. Carve through the ground to uncover precious ores and defeat menacing foes.","url":"https://store.steampowered.com/app/2398170/","label":"证据原文片段"},{"text":"把稀有宝石、矿石与遗物投入旋翼机升级，逐步解锁新能力","dimension":"玩法","excerpt":"Uncover ancient relics and artefacts hidden in the deep. Amass a fortune in rare gems & ores. Invest in powerful upgrades and unlock new abilities, turning your humble gyrocopter into a fearsome force to be reckoned with.","url":"https://store.steampowered.com/app/2398170/","label":"证据原文片段"},{"text":"失败轮次仍保留成长，并通过大地图解锁程序生成矿井与不同地下生态","dimension":"玩法","excerpt":"Explore a diverse range of biomes, from treacherous volcanic caverns to lush overgrown underground forests, each with its own unique challenges and rewards. Intense mining action with fast-paced blasting Constant progress - even failed runs aren't punishing Diverse biomes to explore Purchase upgrades to overpower your gyrocopter Navigate the overworld to unlock new mine shafts Collect and loot rare gems, ores, and artefacts to upgrade your gear and abilities Endless replayability with procedurally generated levels","url":"https://store.steampowered.com/app/2398170/","label":"证据原文片段"}],"opinions":[{"text":"约六成进度后节奏明显变慢。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the pacing slows down a ton at around 60% completion","url":"https://steamcommunity.com/id/dscota/recommended/2398170/","label":"证据原文片段"}]},{"text":"关卡结构缺乏逻辑。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the level structure makes no sense","url":"https://steamcommunity.com/id/Ble3azy/recommended/2398170/","label":"证据原文片段"}]},{"text":"肉鸽强化组件缺少联动。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"肉鸽强化组件缺少联动","url":"https://steamcommunity.com/profiles/76561199566621853/recommended/2398170/","label":"证据原文片段"}]},{"text":"后半段关卡目标严重不足。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"half of the game left to explore that has barely any objectives","url":"https://steamcommunity.com/id/Matrixas/recommended/2398170/","label":"证据原文片段"}]},{"text":"后半段流程退化为反复向下挖。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"dig straight down for several minutes and complete the level, rinse and repeat.","url":"https://steamcommunity.com/id/Matrixas/recommended/2398170/","label":"证据原文片段"}]},{"text":"局内升级难以形成流派。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"局内升级也搭配不出什么流派","url":"https://steamcommunity.com/profiles/76561198136793637/recommended/2398170/","label":"证据原文片段"}]},{"text":"局外升级只有数值增长。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"局外升级全都只是提高数值","url":"https://steamcommunity.com/profiles/76561198136793637/recommended/2398170/","label":"证据原文片段"}]},{"text":"升级缓慢且需要刷取。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"upgrades are slow and take some grinding for.","url":"https://steamcommunity.com/id/Ble3azy/recommended/2398170/","label":"证据原文片段"}]},{"text":"重复刷取负担很重。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the grind is kinda insane.","url":"https://steamcommunity.com/profiles/76561198125215874/recommended/2398170/","label":"证据原文片段"}]},{"text":"Boss战极其平庸。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"BOSS战极其平庸","url":"https://steamcommunity.com/profiles/76561199566621853/recommended/2398170/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":35057,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":52109,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3539,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":272280,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":36971,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":36971,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.862815744064468,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":757,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.266491,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["约六成进度后节奏明显变慢。","关卡结构缺乏逻辑。","肉鸽强化组件缺少联动。","后半段关卡目标严重不足。","后半段流程退化为反复向下挖。","局内升级难以形成流派。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_e30d599f585c53810b933bcd0f82ee1b1a1d8534.1920x1080.jpg?t=1773341999","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_e30d599f585c53810b933bcd0f82ee1b1a1d8534.1920x1080.jpg?t=1773341999","alt":"深地爆破采掘 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_cd9dadb5a15d43a81d56a211cfb384c031b964fe.1920x1080.jpg?t=1773341999","alt":"深地爆破采掘 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_b02cf8a3c8de4dc9f6e5ba49ae28aea6657c99ce.1920x1080.jpg?t=1773341999","alt":"深地爆破采掘 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_a0f45fd4ad7c4fb4879fa37062c5cd2dbd938a8b.1920x1080.jpg?t=1773341999","alt":"深地爆破采掘 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "BORE BLASTERS",
+    "developers": [
+      "8BitSkull"
+    ],
+    "publishers": [
+      "8BitSkull"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-08",
+    "tags": [
+      "动作肉鸽",
+      "休闲",
+      "探索",
+      "刷宝",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用机枪钻头直接轰开岩土，在地下采矿同时击退威胁",
+      "dimension": "玩法",
+      "excerpt": "Blast your way through rocks and dirt with your machinegun drill. Carve through the ground to uncover precious ores and defeat menacing foes.",
+      "url": "https://store.steampowered.com/app/2398170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把稀有宝石、矿石与遗物投入旋翼机升级，逐步解锁新能力",
+      "dimension": "玩法",
+      "excerpt": "Uncover ancient relics and artefacts hidden in the deep. Amass a fortune in rare gems & ores. Invest in powerful upgrades and unlock new abilities, turning your humble gyrocopter into a fearsome force to be reckoned with.",
+      "url": "https://store.steampowered.com/app/2398170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "失败轮次仍保留成长，并通过大地图解锁程序生成矿井与不同地下生态",
+      "dimension": "玩法",
+      "excerpt": "Explore a diverse range of biomes, from treacherous volcanic caverns to lush overgrown underground forests, each with its own unique challenges and rewards. Intense mining action with fast-paced blasting Constant progress - even failed runs aren't punishing Diverse biomes to explore Purchase upgrades to overpower your gyrocopter Navigate the overworld to unlock new mine shafts Collect and loot rare gems, ores, and artefacts to upgrade your gear and abilities Endless replayability with procedurally generated levels",
+      "url": "https://store.steampowered.com/app/2398170/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "约六成进度后节奏明显变慢。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the pacing slows down a ton at around 60% completion",
+          "url": "https://steamcommunity.com/id/dscota/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "关卡结构缺乏逻辑。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the level structure makes no sense",
+          "url": "https://steamcommunity.com/id/Ble3azy/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "肉鸽强化组件缺少联动。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "肉鸽强化组件缺少联动",
+          "url": "https://steamcommunity.com/profiles/76561199566621853/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后半段关卡目标严重不足。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "half of the game left to explore that has barely any objectives",
+          "url": "https://steamcommunity.com/id/Matrixas/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后半段流程退化为反复向下挖。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "dig straight down for several minutes and complete the level, rinse and repeat.",
+          "url": "https://steamcommunity.com/id/Matrixas/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局内升级难以形成流派。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "局内升级也搭配不出什么流派",
+          "url": "https://steamcommunity.com/profiles/76561198136793637/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局外升级只有数值增长。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "局外升级全都只是提高数值",
+          "url": "https://steamcommunity.com/profiles/76561198136793637/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "升级缓慢且需要刷取。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "upgrades are slow and take some grinding for.",
+          "url": "https://steamcommunity.com/id/Ble3azy/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "重复刷取负担很重。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the grind is kinda insane.",
+          "url": "https://steamcommunity.com/profiles/76561198125215874/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boss战极其平庸。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "BOSS战极其平庸",
+          "url": "https://steamcommunity.com/profiles/76561199566621853/recommended/2398170/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 36009,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 52418,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3540,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 272847,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 37970,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 37970,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.940405277199757,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 703,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.291173,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "约六成进度后节奏明显变慢。",
+    "关卡结构缺乏逻辑。",
+    "肉鸽强化组件缺少联动。",
+    "后半段关卡目标严重不足。",
+    "后半段流程退化为反复向下挖。",
+    "局内升级难以形成流派。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "深地爆破采掘位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_e30d599f585c53810b933bcd0f82ee1b1a1d8534.1920x1080.jpg?t=1773341999",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_e30d599f585c53810b933bcd0f82ee1b1a1d8534.1920x1080.jpg?t=1773341999",
+        "alt": "深地爆破采掘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_cd9dadb5a15d43a81d56a211cfb384c031b964fe.1920x1080.jpg?t=1773341999",
+        "alt": "深地爆破采掘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_b02cf8a3c8de4dc9f6e5ba49ae28aea6657c99ce.1920x1080.jpg?t=1773341999",
+        "alt": "深地爆破采掘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_a0f45fd4ad7c4fb4879fa37062c5cd2dbd938a8b.1920x1080.jpg?t=1773341999",
+        "alt": "深地爆破采掘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_477c301dcd588bd460c8f6ea9be18b6b3e1825f1.1920x1080.jpg?t=1773341999",
+        "alt": "深地爆破采掘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_2df1ee20ba1e95bf15a09ac0b821d6823c8308db.1920x1080.jpg?t=1773341999",
+        "alt": "深地爆破采掘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_1dfa0eb13580c5a478e29b31c5610012841cbfb5.1920x1080.jpg?t=1773341999",
+        "alt": "深地爆破采掘 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_f0377d00e1ad798e65a65b21e50aeb8e6bdf1444.1920x1080.jpg?t=1773341999",
+        "alt": "深地爆破采掘 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,252 @@
-{"identity":{"original_title":"Lethal Dungeon","developers":["Nihohe Soft"],"publishers":["Nihohe Soft"],"release_status":"released","release_date":"2026-02-19","tags":["策略","类Rogue","卡牌对战","轻度Rogue","二维画面"]},"hooks":[{"text":"每场战斗只能使用开局手牌，并必须在单个回合内消灭全部敌人","dimension":"玩法","excerpt":"Win every battle using only the cards in your opening hand to defeat all enemies in a single turn.","url":"https://store.steampowered.com/app/3344320/","label":"证据原文片段"},{"text":"用牌越少奖励越高，若被敌人卡住则可花钱洗牌并重新抽取","dimension":"玩法","excerpt":"Using as few cards as possible will earn you more rewards, and if you get stuck on an enemy, you can use money to shuffle and draw.","url":"https://store.steampowered.com/app/3344320/","label":"证据原文片段"},{"text":"击败更强敌人赚取更多金钱，再持续升级牌组直至清空地牢","dimension":"玩法","excerpt":"Upgrade your deck using the money you earn! Defeat stronger enemies to earn more money! Repeat this process until you clear the dungeon!","url":"https://store.steampowered.com/app/3344320/","label":"证据原文片段"}],"opinions":[{"text":"高难度过度依赖运气","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"高难度基本只看脸","url":"https://steamcommunity.com/id/wudileimiaomiao/recommended/3344320/","label":"证据原文片段"}]},{"text":"第二难度被认为无法完成","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Difficulty 2 is impossible","url":"https://steamcommunity.com/id/jeditojanen/recommended/3344320/","label":"证据原文片段"}]},{"text":"对该类型的演绎很新鲜","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Such a refreshing take on the genre","url":"https://www.youtube.com/watch?v=IEMmPFB6_9E","label":"证据原文片段"}]},{"text":"寻找更高效出牌顺序非常有回报感","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"it is extremely rewarding if you find an alternative sequence","url":"https://steamcommunity.com/profiles/76561199115476676/recommended/3344320/","label":"证据原文片段"}]},{"text":"每场战斗都像致命谜题","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Each and every battle feels like a lethal puzzle","url":"https://steamcommunity.com/profiles/76561199115476676/recommended/3344320/","label":"证据原文片段"}]},{"text":"轻量易上手同时不缺构筑深度","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"简单好上手，也不缺卡组、道具搭配的深度","url":"https://steamcommunity.com/profiles/76561198255387208/recommended/3344320/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":13923,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":17794,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":849,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":57536,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":14028,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":14028,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.438426066760028,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":280,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.785714,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["高难度过度依赖运气","第二难度被认为无法完成"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/8a3154ff10693cc42a9ea19c605cd55a2f923cf7/ss_8a3154ff10693cc42a9ea19c605cd55a2f923cf7.1920x1080.jpg?t=1773335579","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/8a3154ff10693cc42a9ea19c605cd55a2f923cf7/ss_8a3154ff10693cc42a9ea19c605cd55a2f923cf7.1920x1080.jpg?t=1773335579","alt":"Lethal Dungeon 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/7b1dae09ed1f1fc8230eaa42dcca733a62b9e8a6/ss_7b1dae09ed1f1fc8230eaa42dcca733a62b9e8a6.1920x1080.jpg?t=1773335579","alt":"Lethal Dungeon 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/9d244e75dd72094d64fd244b3d844636edb2ac5b/ss_9d244e75dd72094d64fd244b3d844636edb2ac5b.1920x1080.jpg?t=1773335579","alt":"Lethal Dungeon 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/3d6d00c824167ebe34ee7c1ecfb0100606220b51/ss_3d6d00c824167ebe34ee7c1ecfb0100606220b51.1920x1080.jpg?t=1773335579","alt":"Lethal Dungeon 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lethal Dungeon",
+    "developers": [
+      "Nihohe Soft"
+    ],
+    "publishers": [
+      "Nihohe Soft"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-19",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "卡牌对战",
+      "轻度Rogue",
+      "二维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每场战斗只能使用开局手牌，并必须在单个回合内消灭全部敌人",
+      "dimension": "玩法",
+      "excerpt": "Win every battle using only the cards in your opening hand to defeat all enemies in a single turn.",
+      "url": "https://store.steampowered.com/app/3344320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用牌越少奖励越高，若被敌人卡住则可花钱洗牌并重新抽取",
+      "dimension": "玩法",
+      "excerpt": "Using as few cards as possible will earn you more rewards, and if you get stuck on an enemy, you can use money to shuffle and draw.",
+      "url": "https://store.steampowered.com/app/3344320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "击败更强敌人赚取更多金钱，再持续升级牌组直至清空地牢",
+      "dimension": "玩法",
+      "excerpt": "Upgrade your deck using the money you earn! Defeat stronger enemies to earn more money! Repeat this process until you clear the dungeon!",
+      "url": "https://store.steampowered.com/app/3344320/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "高难度过度依赖运气",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "高难度基本只看脸",
+          "url": "https://steamcommunity.com/id/wudileimiaomiao/recommended/3344320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "第二难度被认为无法完成",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Difficulty 2 is impossible",
+          "url": "https://steamcommunity.com/id/jeditojanen/recommended/3344320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "对该类型的演绎很新鲜",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Such a refreshing take on the genre",
+          "url": "https://www.youtube.com/watch?v=IEMmPFB6_9E",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "寻找更高效出牌顺序非常有回报感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it is extremely rewarding if you find an alternative sequence",
+          "url": "https://steamcommunity.com/profiles/76561199115476676/recommended/3344320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "每场战斗都像致命谜题",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Each and every battle feels like a lethal puzzle",
+          "url": "https://steamcommunity.com/profiles/76561199115476676/recommended/3344320/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "轻量易上手同时不缺构筑深度",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "简单好上手，也不缺卡组、道具搭配的深度",
+          "url": "https://steamcommunity.com/profiles/76561198255387208/recommended/3344320/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 14534,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 855,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 61347,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 14679,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 14679,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.750752060231013,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 280,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.853147,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "高难度过度依赖运气",
+    "第二难度被认为无法完成"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Lethal Dungeon位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/8a3154ff10693cc42a9ea19c605cd55a2f923cf7/ss_8a3154ff10693cc42a9ea19c605cd55a2f923cf7.1920x1080.jpg?t=1773335579",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/8a3154ff10693cc42a9ea19c605cd55a2f923cf7/ss_8a3154ff10693cc42a9ea19c605cd55a2f923cf7.1920x1080.jpg?t=1773335579",
+        "alt": "Lethal Dungeon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/7b1dae09ed1f1fc8230eaa42dcca733a62b9e8a6/ss_7b1dae09ed1f1fc8230eaa42dcca733a62b9e8a6.1920x1080.jpg?t=1773335579",
+        "alt": "Lethal Dungeon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/9d244e75dd72094d64fd244b3d844636edb2ac5b/ss_9d244e75dd72094d64fd244b3d844636edb2ac5b.1920x1080.jpg?t=1773335579",
+        "alt": "Lethal Dungeon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/3d6d00c824167ebe34ee7c1ecfb0100606220b51/ss_3d6d00c824167ebe34ee7c1ecfb0100606220b51.1920x1080.jpg?t=1773335579",
+        "alt": "Lethal Dungeon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/1c599631dab266aaf634410a2dc508844c40dcf1/ss_1c599631dab266aaf634410a2dc508844c40dcf1.1920x1080.jpg?t=1773335579",
+        "alt": "Lethal Dungeon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/ef41aee09bf6e0631f6355e56550cc1352efa2d0/ss_ef41aee09bf6e0631f6355e56550cc1352efa2d0.1920x1080.jpg?t=1773335579",
+        "alt": "Lethal Dungeon 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

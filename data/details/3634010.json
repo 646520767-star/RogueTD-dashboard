@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Islantiles","developers":["Thunderrock Innovations"],"publishers":["Thunderrock Innovations"],"release_status":"released","release_date":"2026-05-04","tags":["肉鸽卡组构筑","休闲放松","解谜","休闲","策略"]},"hooks":[{"text":"从一座孤岛起步，把聚落逐渐扩张成繁荣城镇","dimension":"玩法","excerpt":"Starting with a single island, you’ll gradually expand your settlement into a thriving town.","url":"https://store.steampowered.com/app/3634010/","label":"证据原文片段"},{"text":"科技不只强化牌组，还会改写地块互动、计分和策略规则","dimension":"玩法","excerpt":"Technologies don’t just improve your deck – they twist the core rules, changing how tiles interact, how you score and what kind of strategies you can build.","url":"https://store.steampowered.com/app/3634010/","label":"证据原文片段"},{"text":"100 座手工岛屿配合 100 多项独立规则科技形成长期变化","dimension":"玩法","excerpt":"100 hand-crafted islands to develop More than 100 technologies, each with unique rules","url":"https://store.steampowered.com/app/3634010/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2376,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":17794,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1133,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":25697,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2600,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2600,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.9206847271929375,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":65,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.769231,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、休闲放松","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/6ca149b48867846c558605b0b2948749d349d3b1/ss_6ca149b48867846c558605b0b2948749d349d3b1.1920x1080.jpg?t=1778483337","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/6ca149b48867846c558605b0b2948749d349d3b1/ss_6ca149b48867846c558605b0b2948749d349d3b1.1920x1080.jpg?t=1778483337","alt":"Islantiles 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/4639028dd768a25393edc1a7f65b000cbe81ede8/ss_4639028dd768a25393edc1a7f65b000cbe81ede8.1920x1080.jpg?t=1778483337","alt":"Islantiles 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/d780570b204f0b86dabf42d71d661d42c4e74a11/ss_d780570b204f0b86dabf42d71d661d42c4e74a11.1920x1080.jpg?t=1778483337","alt":"Islantiles 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/f5bea731524a0d075f70ada2939c85090bfb154c/ss_f5bea731524a0d075f70ada2939c85090bfb154c.1920x1080.jpg?t=1778483337","alt":"Islantiles 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Islantiles",
+    "developers": [
+      "Thunderrock Innovations"
+    ],
+    "publishers": [
+      "Thunderrock Innovations"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-04",
+    "tags": [
+      "肉鸽卡组构筑",
+      "休闲放松",
+      "解谜",
+      "休闲",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从一座孤岛起步，把聚落逐渐扩张成繁荣城镇",
+      "dimension": "玩法",
+      "excerpt": "Starting with a single island, you’ll gradually expand your settlement into a thriving town.",
+      "url": "https://store.steampowered.com/app/3634010/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "科技不只强化牌组，还会改写地块互动、计分和策略规则",
+      "dimension": "玩法",
+      "excerpt": "Technologies don’t just improve your deck – they twist the core rules, changing how tiles interact, how you score and what kind of strategies you can build.",
+      "url": "https://store.steampowered.com/app/3634010/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "100 座手工岛屿配合 100 多项独立规则科技形成长期变化",
+      "dimension": "玩法",
+      "excerpt": "100 hand-crafted islands to develop More than 100 technologies, each with unique rules",
+      "url": "https://store.steampowered.com/app/3634010/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2597,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1136,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 28595,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2834,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2834,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.950002235533343,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 59,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.044776,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "Islantiles当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/6ca149b48867846c558605b0b2948749d349d3b1/ss_6ca149b48867846c558605b0b2948749d349d3b1.1920x1080.jpg?t=1778483337",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/6ca149b48867846c558605b0b2948749d349d3b1/ss_6ca149b48867846c558605b0b2948749d349d3b1.1920x1080.jpg?t=1778483337",
+        "alt": "Islantiles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/4639028dd768a25393edc1a7f65b000cbe81ede8/ss_4639028dd768a25393edc1a7f65b000cbe81ede8.1920x1080.jpg?t=1778483337",
+        "alt": "Islantiles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/d780570b204f0b86dabf42d71d661d42c4e74a11/ss_d780570b204f0b86dabf42d71d661d42c4e74a11.1920x1080.jpg?t=1778483337",
+        "alt": "Islantiles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/f5bea731524a0d075f70ada2939c85090bfb154c/ss_f5bea731524a0d075f70ada2939c85090bfb154c.1920x1080.jpg?t=1778483337",
+        "alt": "Islantiles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/e5d1150dd0cf29b33f96ae7f4b7a04475bafe35f/ss_e5d1150dd0cf29b33f96ae7f4b7a04475bafe35f.1920x1080.jpg?t=1778483337",
+        "alt": "Islantiles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/ffc33967ae7e5d33fe0ceee0e662c3e16fb6355b/ss_ffc33967ae7e5d33fe0ceee0e662c3e16fb6355b.1920x1080.jpg?t=1778483337",
+        "alt": "Islantiles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/50f176762d940bb7cf45039e935e9c677274c069/ss_50f176762d940bb7cf45039e935e9c677274c069.1920x1080.jpg?t=1778483337",
+        "alt": "Islantiles 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634010/1ac7745a11507c73db84525c4deccd5569c6e825/ss_1ac7745a11507c73db84525c4deccd5569c6e825.1920x1080.jpg?t=1778483337",
+        "alt": "Islantiles 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

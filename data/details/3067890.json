@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Star Fire: Eternal Cycle","developers":["Ethereal Fish Studio"],"publishers":["Indie Herb Games"],"release_status":"released","release_date":"2025-09-08","tags":["动作肉鸽","动作","动作冒险","动作角色扮演","类Rogue"]},"hooks":[{"text":"闪避、冲刺和连招建立在简单但可精通的操作上","dimension":"玩法","excerpt":"Dodge, dash, and unleash combos with satisfying precision. The core controls are simple, but leave plenty of room to master your moves.","url":"https://store.steampowered.com/app/3067890/","label":"证据原文片段"},{"text":"八种元素可与主副武器和英雄能力混搭","dimension":"玩法","excerpt":"With eight elemental types, multiple primary and secondary weapons, and a wide range of hero abilities, each run gives you the freedom to try something new.","url":"https://store.steampowered.com/app/3067890/","label":"证据原文片段"},{"text":"秘密房间、随机事件和怪异小挑战藏在关卡角落","dimension":"玩法","excerpt":"Secret rooms. Random events. Weird mini-challenges. There’s always something unexpected waiting — and often, it pays off big.","url":"https://store.steampowered.com/app/3067890/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":56686,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":85155,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6098,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":604519,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":65923,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":65923,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.359317248389083,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1239,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.171106,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/7e1e819221eca8918cae155899d25aedfad4853b/ss_7e1e819221eca8918cae155899d25aedfad4853b.1920x1080.jpg?t=1762242764","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/7e1e819221eca8918cae155899d25aedfad4853b/ss_7e1e819221eca8918cae155899d25aedfad4853b.1920x1080.jpg?t=1762242764","alt":"无尽星火 (Star Fire: Eternal Cycle) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/f82dea7a141055ffdf8487d74fff7ca462548641/ss_f82dea7a141055ffdf8487d74fff7ca462548641.1920x1080.jpg?t=1762242764","alt":"无尽星火 (Star Fire: Eternal Cycle) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/96fdb3b8ae57ce121b759084be1b3fc4e791fda5/ss_96fdb3b8ae57ce121b759084be1b3fc4e791fda5.1920x1080.jpg?t=1762242764","alt":"无尽星火 (Star Fire: Eternal Cycle) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/dce0d9b7b71575e9040abddae590c8061a649170/ss_dce0d9b7b71575e9040abddae590c8061a649170.1920x1080.jpg?t=1762242764","alt":"无尽星火 (Star Fire: Eternal Cycle) 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Star Fire: Eternal Cycle",
+    "developers": [
+      "Ethereal Fish Studio"
+    ],
+    "publishers": [
+      "Indie Herb Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-08",
+    "tags": [
+      "动作肉鸽",
+      "动漫风格",
+      "二维平台跳跃",
+      "玩家对环境",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "闪避、冲刺和连招建立在简单但可精通的操作上",
+      "dimension": "玩法",
+      "excerpt": "Dodge, dash, and unleash combos with satisfying precision. The core controls are simple, but leave plenty of room to master your moves.",
+      "url": "https://store.steampowered.com/app/3067890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "八种元素可与主副武器和英雄能力混搭",
+      "dimension": "玩法",
+      "excerpt": "With eight elemental types, multiple primary and secondary weapons, and a wide range of hero abilities, each run gives you the freedom to try something new.",
+      "url": "https://store.steampowered.com/app/3067890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "秘密房间、随机事件和怪异小挑战藏在关卡角落",
+      "dimension": "玩法",
+      "excerpt": "Secret rooms. Random events. Weird mini-challenges. There’s always something unexpected waiting — and often, it pays off big.",
+      "url": "https://store.steampowered.com/app/3067890/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "战斗是挺爽的，但我打不过第四图啊，想玩新武器也玩不了。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "战斗是挺爽的，但我打不过第四图啊，想玩新武器也玩不了。",
+          "url": "https://steamcommunity.com/profiles/76561198277313788/recommended/3067890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏好玩，但有的地方没给描述，我补充一个点希望帮到后面的玩家：局外成长解锁到8个虫核位，另外两个虫核位要在难度4以上解锁了装备合成之后，在局内收集金木冰火土五个元素碎片装备才能解锁，属于局内构筑。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "游戏好玩，但有的地方没给描述，我补充一个点希望帮到后面的玩家：局外成长解锁到8个虫核位，另外两个虫核位要在难度4以上解锁了装备合成之后，在局内收集金木冰火土五个元素碎片装备才能解锁，属于局内构筑。",
+          "url": "https://steamcommunity.com/profiles/76561199079308807/recommended/3067890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Before you could choose a main weapon and sub weapon at the start of your run, which allowed for some really fun builds.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "Before you could choose a main weapon and sub weapon at the start of your run, which allowed for some really fun builds.",
+          "url": "https://steamcommunity.com/profiles/76561198047199153/recommended/3067890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "优点：手感很好，特效华丽的强正反馈爽游。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "优点：手感很好，特效华丽的强正反馈爽游。",
+          "url": "https://steamcommunity.com/profiles/76561199007938590/recommended/3067890/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Tight combat, quick load-ins, and satisfying failures fuel the desire to rerun.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Tight combat, quick load-ins, and satisfying failures fuel the desire to rerun.",
+          "url": "https://store.steampowered.com/curator/37040464-TroubleTribe/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Challenging roguelike with satisfying combat and deep builds, but marred by unfair difficulty, grind, and a need for polish.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "信息提供",
+      "excerpts": [
+        {
+          "excerpt": "Challenging roguelike with satisfying combat and deep builds, but marred by unfair difficulty, grind, and a need for polish.",
+          "url": "https://store.steampowered.com/curator/45497815-VaporLens/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Star Fire: Eternal Cycle is basically Hades in space — fast, addictive roguelite combat where you slash, dash, and blast through alien swarms to save humanity.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Star Fire: Eternal Cycle is basically Hades in space — fast, addictive roguelite combat where you slash, dash, and blast through alien swarms to save humanity.",
+          "url": "https://store.steampowered.com/curator/45784445-Adam-Scott-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "This roguelite side-scroller nails that classic arcade thrill with smooth combat, wild builds, and endless replayability.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "This roguelite side-scroller nails that classic arcade thrill with smooth combat, wild builds, and endless replayability.",
+          "url": "https://store.steampowered.com/curator/37765117-Made-For-Gamers/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 56658,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 85659,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6130,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 606705,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 65821,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 65821,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.438743771009435,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1003,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.092652,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "无尽星火 (Star Fire: Eternal Cycle)位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/7e1e819221eca8918cae155899d25aedfad4853b/ss_7e1e819221eca8918cae155899d25aedfad4853b.1920x1080.jpg?t=1762242764",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/7e1e819221eca8918cae155899d25aedfad4853b/ss_7e1e819221eca8918cae155899d25aedfad4853b.1920x1080.jpg?t=1762242764",
+        "alt": "无尽星火 (Star Fire: Eternal Cycle) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/f82dea7a141055ffdf8487d74fff7ca462548641/ss_f82dea7a141055ffdf8487d74fff7ca462548641.1920x1080.jpg?t=1762242764",
+        "alt": "无尽星火 (Star Fire: Eternal Cycle) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/96fdb3b8ae57ce121b759084be1b3fc4e791fda5/ss_96fdb3b8ae57ce121b759084be1b3fc4e791fda5.1920x1080.jpg?t=1762242764",
+        "alt": "无尽星火 (Star Fire: Eternal Cycle) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/dce0d9b7b71575e9040abddae590c8061a649170/ss_dce0d9b7b71575e9040abddae590c8061a649170.1920x1080.jpg?t=1762242764",
+        "alt": "无尽星火 (Star Fire: Eternal Cycle) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/01836e949da7247d964d80c39c4c7abede3aa0b8/ss_01836e949da7247d964d80c39c4c7abede3aa0b8.1920x1080.jpg?t=1762242764",
+        "alt": "无尽星火 (Star Fire: Eternal Cycle) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/3eaac6d8712b73693a78c008904744e37fc8dfa5/ss_3eaac6d8712b73693a78c008904744e37fc8dfa5.1920x1080.jpg?t=1762242764",
+        "alt": "无尽星火 (Star Fire: Eternal Cycle) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/799e633fed7fc2b5ab0268309b2a13bda409ed75/ss_799e633fed7fc2b5ab0268309b2a13bda409ed75.1920x1080.jpg?t=1762242764",
+        "alt": "无尽星火 (Star Fire: Eternal Cycle) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3067890/1b988ee7e083169bfdbf6c56322eeefcc5ba892c/ss_1b988ee7e083169bfdbf6c56322eeefcc5ba892c.1920x1080.jpg?t=1762242764",
+        "alt": "无尽星火 (Star Fire: Eternal Cycle) 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

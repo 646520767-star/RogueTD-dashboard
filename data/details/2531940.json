@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Stray Path","developers":["zidong games"],"publishers":["Yogscast Games","Gamersky Games"],"release_status":"released","release_date":"2025-02-06","tags":["卡牌对战","策略","像素画面","轻度Rogue","卡牌游戏"]},"hooks":[{"text":"像FreeCell一样拖动技能与物品卡，并在库存中暂存两张牌优化顺序","dimension":"玩法","excerpt":"Optimize every choice: whether to keep or discard skill cards and item cards is entirely up to you. Drag cards like you would in FreeCell, and even store two cards in your inventory.","url":"https://store.steampowered.com/app/2531940/","label":"证据原文片段"},{"text":"每次翻牌可能出现精英敌人、救命道具或装备宝箱，战斗也可主动回避","dimension":"玩法","excerpt":"In this enthralling adventure, you'll face various kinds of enemies. Will you bravely engage in combat or wisely avoid fights? Collect equipment and items from chests, or discard them? Your decisions shape your fate - to win or to perish, it's all in your hands. Exploring this unknown world means never knowing what the next card will reveal. It could be an elite enemy, a life-saving item, or a prize chest filled with fancy equipment. Every flip brings a new challenge or opportunity!","url":"https://store.steampowered.com/app/2531940/","label":"证据原文片段"},{"text":"100余件装备支持超高防御铁壁或一击玻璃炮等极端路线","dimension":"玩法","excerpt":"Build your loadout from over 100 pieces of equipment and items across different characters. Experience a wide range of playstyles in this endless adventure: become an impenetrable wall with ultra-high defense, or a one-hit wonder glass cannon with devastating attacks.","url":"https://store.steampowered.com/app/2531940/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":59465,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":94050,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5400,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":563267,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":65709,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":65709,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.741589761808303,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1046,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":74,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":74.18738,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"卡牌对战、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_d386004e044b1a41256b75c8624ddaa0f1ee9baf.1920x1080.jpg?t=1784202745","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_d386004e044b1a41256b75c8624ddaa0f1ee9baf.1920x1080.jpg?t=1784202745","alt":"迷失之径 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_3f1dbf80d444fadd79914c540765a9a65115cf8e.1920x1080.jpg?t=1784202745","alt":"迷失之径 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_cef3cbf592c1da332325fdf6b23dbe377c39513e.1920x1080.jpg?t=1784202745","alt":"迷失之径 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_93443a469fa776dfb9e0ea4edcbdb8d0edaa0a98.1920x1080.jpg?t=1784202745","alt":"迷失之径 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Stray Path",
+    "developers": [
+      "zidong games"
+    ],
+    "publishers": [
+      "Yogscast Games",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-02-06",
+    "tags": [
+      "卡牌对战",
+      "策略",
+      "像素画面",
+      "轻度Rogue",
+      "卡牌游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "像FreeCell一样拖动技能与物品卡，并在库存中暂存两张牌优化顺序",
+      "dimension": "玩法",
+      "excerpt": "Optimize every choice: whether to keep or discard skill cards and item cards is entirely up to you. Drag cards like you would in FreeCell, and even store two cards in your inventory.",
+      "url": "https://store.steampowered.com/app/2531940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次翻牌可能出现精英敌人、救命道具或装备宝箱，战斗也可主动回避",
+      "dimension": "玩法",
+      "excerpt": "In this enthralling adventure, you'll face various kinds of enemies. Will you bravely engage in combat or wisely avoid fights? Collect equipment and items from chests, or discard them? Your decisions shape your fate - to win or to perish, it's all in your hands. Exploring this unknown world means never knowing what the next card will reveal. It could be an elite enemy, a life-saving item, or a prize chest filled with fancy equipment. Every flip brings a new challenge or opportunity!",
+      "url": "https://store.steampowered.com/app/2531940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "100余件装备支持超高防御铁壁或一击玻璃炮等极端路线",
+      "dimension": "玩法",
+      "excerpt": "Build your loadout from over 100 pieces of equipment and items across different characters. Experience a wide range of playstyles in this endless adventure: become an impenetrable wall with ultra-high defense, or a one-hit wonder glass cannon with devastating attacks.",
+      "url": "https://store.steampowered.com/app/2531940/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 60697,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 89494,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5405,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 548589,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 67228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 67228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.715893582310226,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 906,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 74,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 74.144487,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "迷失之径位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_d386004e044b1a41256b75c8624ddaa0f1ee9baf.1920x1080.jpg?t=1784202745",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_d386004e044b1a41256b75c8624ddaa0f1ee9baf.1920x1080.jpg?t=1786551915",
+        "alt": "迷失之径 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_3f1dbf80d444fadd79914c540765a9a65115cf8e.1920x1080.jpg?t=1786551915",
+        "alt": "迷失之径 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_cef3cbf592c1da332325fdf6b23dbe377c39513e.1920x1080.jpg?t=1786551915",
+        "alt": "迷失之径 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_93443a469fa776dfb9e0ea4edcbdb8d0edaa0a98.1920x1080.jpg?t=1786551915",
+        "alt": "迷失之径 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_b97670de3703eeb31c311c0c909eb84d48aec4f2.1920x1080.jpg?t=1786551915",
+        "alt": "迷失之径 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531940/ss_6581d638b100bb54cfee952332e9c0de28dfd831.1920x1080.jpg?t=1786551915",
+        "alt": "迷失之径 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"School Labyrinth","developers":["RainyDollGames"],"publishers":["RainyDollGames"],"release_status":"released","release_date":"2024-02-21","tags":["恐怖","在线合作","多人游戏","程序生成","动作"]},"hooks":[{"text":"孩子们夜闯学校试胆后被困，熟悉校舍被迷宫、诡异脚步与不明存在彻底扭曲","dimension":"故事","excerpt":"Children sneak into a school at night to try out their courage, and are trapped in the school building. The labyrinthine structure, eerie footsteps, and disturbing presence. The school building, which should be familiar to them, has taken on a completely different appearance than usual.","url":"https://store.steampowered.com/app/2423300/","label":"证据原文片段"},{"text":"校舍迷宫每局改变形状，最多四人可分头寻找唯一的紧急出口但也可能彼此走失","dimension":"玩法","excerpt":"School Labyrinth is a complex labyrinth that changes its shape every time you play. Online Multiplayer Up to 4 people can cooperate to escape from the School Labyrinth . Escape The only way to escape from School Labyrinth is to find an emergency exit. Split up with your friends and try to find the emergency exit somehow. But don't get lost by yourself...","url":"https://store.steampowered.com/app/2423300/","label":"证据原文片段"},{"text":"校内异常会伪装成同行者，让玩家无法确定身边的人是否仍是真正的朋友","dimension":"题材","excerpt":"There is a disturbing presence in the school building, and it seems that there is something else there besides you and your friends. Is the person beside you really your friend?","url":"https://store.steampowered.com/app/2423300/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":95861,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":41941,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2694,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":530435,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":102269,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":102269,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.420625017996637,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":782,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.759591,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"恐怖、在线合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_4124caaf0d72bc273b85d8f99d06d10c21cbc71e.1920x1080.jpg?t=1750567559","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_4124caaf0d72bc273b85d8f99d06d10c21cbc71e.1920x1080.jpg?t=1750567559","alt":"迷宮校舎 | School Labyrinth 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_496a0d01fc2968c120bd3480674a0e31c47fb699.1920x1080.jpg?t=1750567559","alt":"迷宮校舎 | School Labyrinth 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_54eb0babaa42a9797057a03a2befa6c23a4ac2d2.1920x1080.jpg?t=1750567559","alt":"迷宮校舎 | School Labyrinth 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_d31982a519020eea682a9f787951eac08ac4b7b1.1920x1080.jpg?t=1750567559","alt":"迷宮校舎 | School Labyrinth 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "School Labyrinth",
+    "developers": [
+      "RainyDollGames"
+    ],
+    "publishers": [
+      "RainyDollGames"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-21",
+    "tags": [
+      "恐怖",
+      "在线合作",
+      "多人游戏",
+      "程序生成",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "孩子们夜闯学校试胆后被困，熟悉校舍被迷宫、诡异脚步与不明存在彻底扭曲",
+      "dimension": "故事",
+      "excerpt": "Children sneak into a school at night to try out their courage, and are trapped in the school building. The labyrinthine structure, eerie footsteps, and disturbing presence. The school building, which should be familiar to them, has taken on a completely different appearance than usual.",
+      "url": "https://store.steampowered.com/app/2423300/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "校舍迷宫每局改变形状，最多四人可分头寻找唯一的紧急出口但也可能彼此走失",
+      "dimension": "玩法",
+      "excerpt": "School Labyrinth is a complex labyrinth that changes its shape every time you play. Online Multiplayer Up to 4 people can cooperate to escape from the School Labyrinth . Escape The only way to escape from School Labyrinth is to find an emergency exit. Split up with your friends and try to find the emergency exit somehow. But don't get lost by yourself...",
+      "url": "https://store.steampowered.com/app/2423300/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "校内异常会伪装成同行者，让玩家无法确定身边的人是否仍是真正的朋友",
+      "dimension": "题材",
+      "excerpt": "There is a disturbing presence in the school building, and it seems that there is something else there besides you and your friends. Is the person beside you really your friend?",
+      "url": "https://store.steampowered.com/app/2423300/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 98980,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 42190,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2701,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 547026,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 105570,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 105570,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.411783489041586,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 715,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.694268,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "迷宮校舎 | School Labyrinth位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_4124caaf0d72bc273b85d8f99d06d10c21cbc71e.1920x1080.jpg?t=1750567559",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_4124caaf0d72bc273b85d8f99d06d10c21cbc71e.1920x1080.jpg?t=1750567559",
+        "alt": "迷宮校舎 | School Labyrinth 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_496a0d01fc2968c120bd3480674a0e31c47fb699.1920x1080.jpg?t=1750567559",
+        "alt": "迷宮校舎 | School Labyrinth 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_54eb0babaa42a9797057a03a2befa6c23a4ac2d2.1920x1080.jpg?t=1750567559",
+        "alt": "迷宮校舎 | School Labyrinth 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_d31982a519020eea682a9f787951eac08ac4b7b1.1920x1080.jpg?t=1750567559",
+        "alt": "迷宮校舎 | School Labyrinth 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_65facfec943fb717846f0b3e84fb491041001ddf.1920x1080.jpg?t=1750567559",
+        "alt": "迷宮校舎 | School Labyrinth 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_d4a6392af2f0e228f0b06ceeec77e4e82da82900.1920x1080.jpg?t=1750567559",
+        "alt": "迷宮校舎 | School Labyrinth 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_fd1bf035dd3b4d5b684df7c1885b7cfb3bb51ed9.1920x1080.jpg?t=1750567559",
+        "alt": "迷宮校舎 | School Labyrinth 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2423300/ss_4f269db54d34de0f8819f496ea6dfb3f63aea133.1920x1080.jpg?t=1750567559",
+        "alt": "迷宮校舎 | School Labyrinth 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

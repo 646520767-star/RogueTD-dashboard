@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Phantom Abyss","developers":["Team WIBY"],"publishers":["Devolver Digital"],"release_status":"released","release_date":"2024-01-25","tags":["动作","冒险","动作肉鸽","动作冒险","平台跳跃"]},"hooks":[{"text":"每座神庙只有一次机会，失手后地图永久消失","dimension":"玩法","excerpt":"Be warned, you only get one attempt at each temple and failure or settling for a lesser relic means you will never see that temple again...","url":"https://store.steampowered.com/app/989440/","label":"证据原文片段"},{"text":"观察最多20名失败者幽灵，用他们的死亡路线避坑","dimension":"玩法","excerpt":"Watch and learn from the mistakes of up to 20 phantoms including your Steam friends that have attempted the same temple and steal their whips as they fall.","url":"https://store.steampowered.com/app/989440/","label":"证据原文片段"},{"text":"每条鞭子同时附带祝福与诅咒，出发前必须权衡","dimension":"玩法","excerpt":"Unlock new whips with success and choose from your collection before venturing into your next run. Each whips carries a minor blessing but also a curse that may complicate your attempt at riches and glory.","url":"https://store.steampowered.com/app/989440/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":89407,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":244015,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":17884,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1171062,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":97871,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":107800,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.146541216576153,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2234,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.252796,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、冒险","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_34e11f3950a50a45ffb8b67c27a7dc2825f44672.1920x1080.jpg?t=1710929479","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_34e11f3950a50a45ffb8b67c27a7dc2825f44672.1920x1080.jpg?t=1710929479","alt":"幻影深渊 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_9c88d24325695c0625d4e2a2bdcd3f0b3dc02944.1920x1080.jpg?t=1710929479","alt":"幻影深渊 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_4c40731d07a91afed8df7aa5d23efaf8dcbc5b82.1920x1080.jpg?t=1710929479","alt":"幻影深渊 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_1a67d2ed3a2aa37dd7e3ac3571b393d7bec27fa5.1920x1080.jpg?t=1710929479","alt":"幻影深渊 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Phantom Abyss",
+    "developers": [
+      "Team WIBY"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-25",
+    "tags": [
+      "动作",
+      "冒险",
+      "动作肉鸽",
+      "三维画面",
+      "动作冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每座神庙只有一次机会，失手后地图永久消失",
+      "dimension": "玩法",
+      "excerpt": "Be warned, you only get one attempt at each temple and failure or settling for a lesser relic means you will never see that temple again...",
+      "url": "https://store.steampowered.com/app/989440/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "观察最多20名失败者幽灵，用他们的死亡路线避坑",
+      "dimension": "玩法",
+      "excerpt": "Watch and learn from the mistakes of up to 20 phantoms including your Steam friends that have attempted the same temple and steal their whips as they fall.",
+      "url": "https://store.steampowered.com/app/989440/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每条鞭子同时附带祝福与诅咒，出发前必须权衡",
+      "dimension": "玩法",
+      "excerpt": "Unlock new whips with success and choose from your collection before venturing into your next run. Each whips carries a minor blessing but also a curse that may complicate your attempt at riches and glory.",
+      "url": "https://store.steampowered.com/app/989440/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 92166,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 244183,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 17873,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1266940,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 100912,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 111150,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.120153289066412,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1960,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.180152,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "幻影深渊位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_34e11f3950a50a45ffb8b67c27a7dc2825f44672.1920x1080.jpg?t=1710929479",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_34e11f3950a50a45ffb8b67c27a7dc2825f44672.1920x1080.jpg?t=1710929479",
+        "alt": "幻影深渊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_9c88d24325695c0625d4e2a2bdcd3f0b3dc02944.1920x1080.jpg?t=1710929479",
+        "alt": "幻影深渊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_4c40731d07a91afed8df7aa5d23efaf8dcbc5b82.1920x1080.jpg?t=1710929479",
+        "alt": "幻影深渊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_1a67d2ed3a2aa37dd7e3ac3571b393d7bec27fa5.1920x1080.jpg?t=1710929479",
+        "alt": "幻影深渊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_aa10a62dad8c3e27edeb32c6ddf71a2dcc251b37.1920x1080.jpg?t=1710929479",
+        "alt": "幻影深渊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_96d7d2983f63e70d869a0480cc795df7cc0ef37e.1920x1080.jpg?t=1710929479",
+        "alt": "幻影深渊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_0209e8e4a1a9041f58ea5912f14dea6a5d13a265.1920x1080.jpg?t=1710929479",
+        "alt": "幻影深渊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/ss_0405608c9fa792e9bfc874f792f90ee83c9a74f4.1920x1080.jpg?t=1710929479",
+        "alt": "幻影深渊 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

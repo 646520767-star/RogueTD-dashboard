@@ -1,1 +1,178 @@
-{"identity":{"original_title":"PARA♰BELLUM ~ 魔弹帕菈","developers":["ChronoYuki"],"publishers":["马家沟红旗农机合作社"],"release_status":"released","release_date":"2024-04-30","tags":["动作肉鸽","轻度Rogue","清版射击","弹幕射击","俯视角射击"]},"hooks":[{"text":"上帝用左轮解决不平等、再把枪械与炸药交给教会的荒诞宗教讽刺","dimension":"题材","excerpt":"When the Revolver is not equal enough, He invested the Holy Church, Granting them all the Firearms, Dynamites and Service lines. Since then, Whenever the world suffer, He can just turn off the phone and pretend to be dead.","url":"https://store.steampowered.com/app/1153150/","label":"证据原文片段"},{"text":"战斗修女在千敌围城中坚持十五分钟，靠随机特长与道具即时成型","dimension":"玩法","excerpt":"As the Battle Sister of Holy Church, Sweep out your enemies with Various guns and abilities! Survive 15 minutes in the siege of thousand enemies. Build character from random perks & items.. and curse the game when you got bad luck.","url":"https://store.steampowered.com/app/1153150/","label":"证据原文片段"},{"text":"十二种以上基础枪械各带特长与升级，首领固定在第5、10、15分钟出现","dimension":"玩法","excerpt":"More than 12 basic guns with unique perks and upgrades.. Some of them are just weak anyway. Meet the random bosses at the 5th, 10th and 15th minute.. Help them get a new life!","url":"https://store.steampowered.com/app/1153150/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1792,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":296,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3677,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2082,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2082,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.556217524080629,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":146,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.575342,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_e52cfb14da84631ce6cc38cba144a7dd34a7d5de.1920x1080.jpg?t=1733268773","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_e52cfb14da84631ce6cc38cba144a7dd34a7d5de.1920x1080.jpg?t=1733268773","alt":"PARA♰BELLUM ~ 魔弹帕菈 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_820d42891161fd267a649eb0e5108c629f44c1cf.1920x1080.jpg?t=1733268773","alt":"PARA♰BELLUM ~ 魔弹帕菈 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_cab36df30472c8bc2f73598da1f331aa26db1fe2.1920x1080.jpg?t=1733268773","alt":"PARA♰BELLUM ~ 魔弹帕菈 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_3e595e2c5b0be40d66adb7bbcba02b9f724fa833.1920x1080.jpg?t=1733268773","alt":"PARA♰BELLUM ~ 魔弹帕菈 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "PARA♰BELLUM ~ 魔弹帕菈",
+    "developers": [
+      "ChronoYuki"
+    ],
+    "publishers": [
+      "马家沟红旗农机合作社"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-30",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "清版射击",
+      "弹幕射击",
+      "俯视角射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "上帝用左轮解决不平等、再把枪械与炸药交给教会的荒诞宗教讽刺",
+      "dimension": "题材",
+      "excerpt": "When the Revolver is not equal enough, He invested the Holy Church, Granting them all the Firearms, Dynamites and Service lines. Since then, Whenever the world suffer, He can just turn off the phone and pretend to be dead.",
+      "url": "https://store.steampowered.com/app/1153150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "战斗修女在千敌围城中坚持十五分钟，靠随机特长与道具即时成型",
+      "dimension": "玩法",
+      "excerpt": "As the Battle Sister of Holy Church, Sweep out your enemies with Various guns and abilities! Survive 15 minutes in the siege of thousand enemies. Build character from random perks & items.. and curse the game when you got bad luck.",
+      "url": "https://store.steampowered.com/app/1153150/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十二种以上基础枪械各带特长与升级，首领固定在第5、10、15分钟出现",
+      "dimension": "玩法",
+      "excerpt": "More than 12 basic guns with unique perks and upgrades.. Some of them are just weak anyway. Meet the random bosses at the 5th, 10th and 15th minute.. Help them get a new life!",
+      "url": "https://store.steampowered.com/app/1153150/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1594,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 296,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3415,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1851,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1851,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.566566591448146,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 117,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.575342,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "PARA♰BELLUM ~ 魔弹帕菈位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_e52cfb14da84631ce6cc38cba144a7dd34a7d5de.1920x1080.jpg?t=1733268773",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_e52cfb14da84631ce6cc38cba144a7dd34a7d5de.1920x1080.jpg?t=1733268773",
+        "alt": "PARA♰BELLUM ~ 魔弹帕菈 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_820d42891161fd267a649eb0e5108c629f44c1cf.1920x1080.jpg?t=1733268773",
+        "alt": "PARA♰BELLUM ~ 魔弹帕菈 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_cab36df30472c8bc2f73598da1f331aa26db1fe2.1920x1080.jpg?t=1733268773",
+        "alt": "PARA♰BELLUM ~ 魔弹帕菈 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_3e595e2c5b0be40d66adb7bbcba02b9f724fa833.1920x1080.jpg?t=1733268773",
+        "alt": "PARA♰BELLUM ~ 魔弹帕菈 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_5aa9ffec9cdfbac111108f6a315b48bc9f73e74e.1920x1080.jpg?t=1733268773",
+        "alt": "PARA♰BELLUM ~ 魔弹帕菈 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_90d3e8929d5f075baebbc06cf0a3c423719b3b8a.1920x1080.jpg?t=1733268773",
+        "alt": "PARA♰BELLUM ~ 魔弹帕菈 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_10540ff57b36c2ca4f238af5b62019f5ef11d8f0.1920x1080.jpg?t=1733268773",
+        "alt": "PARA♰BELLUM ~ 魔弹帕菈 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153150/ss_a0e2c46833946f5590a5677cc4b56c91218a06e9.1920x1080.jpg?t=1733268773",
+        "alt": "PARA♰BELLUM ~ 魔弹帕菈 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

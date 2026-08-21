@@ -1,1 +1,161 @@
-{"identity":{"original_title":"Hex Strikers","developers":["Sid Fish Games","Foster Turtle"],"publishers":["Sid Fish Games"],"release_status":"released","release_date":"2026-04-30","tags":["卡组构筑","类Rogue","挑战高分","独立游戏","肉鸽卡组构筑"]},"hooks":[{"text":"从一枚六角格开始扩张布局，每次击打赚取代币，再在商店购买升级。","dimension":"玩法","excerpt":"Start with a single hex tile and carefully expand your setup. Each strike earns tokens, which can be spent in the shop to unlock upgrades and enhance your strategy.","url":"https://store.steampowered.com/app/2408870/","label":"证据原文片段"},{"text":"冰淇淋、玉米热狗、调味料、锤子与马戏格子层层叠乘，六角格位置决定最终得分协同。","dimension":"玩法","excerpt":"Boost your tokens with tasty treats like Ice Cream and Corn Dogs, then supercharge them with Condiments. Upgrade your Strikers with stronger Hammers to multiply rewards even further. Introduce new hex tiles such as Juggling Clowns and One-Man bands to stack multipliers and create powerful combos. Positioning of the various hex tiles is important, with synergies to be discovered and used to your advantage in maximizing your score.","url":"https://store.steampowered.com/app/2408870/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":669,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":816,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":68,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":669,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":669,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.3262246310731731,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":17,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.117647,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"],"actions":[{"label":"原型验证","target":"卡组构筑、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/14d0f4d667b27778cc58e7a3331691e464990c79/ss_14d0f4d667b27778cc58e7a3331691e464990c79.1920x1080.jpg?t=1778123843","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/14d0f4d667b27778cc58e7a3331691e464990c79/ss_14d0f4d667b27778cc58e7a3331691e464990c79.1920x1080.jpg?t=1778123843","alt":"Hex Strikers 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/af64fc640c61f04d447f9f9dbb2c9e6d462c822a/ss_af64fc640c61f04d447f9f9dbb2c9e6d462c822a.1920x1080.jpg?t=1778123843","alt":"Hex Strikers 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/7894910859c1b0c58a35b4a1088babe1b7f8a0ea/ss_7894910859c1b0c58a35b4a1088babe1b7f8a0ea.1920x1080.jpg?t=1778123843","alt":"Hex Strikers 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/4fae519ee71ca635c1acdbeefdfcc985b786a126/ss_4fae519ee71ca635c1acdbeefdfcc985b786a126.1920x1080.jpg?t=1778123843","alt":"Hex Strikers 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Hex Strikers",
+    "developers": [],
+    "publishers": [],
+    "release_status": "unknown",
+    "release_date": "2026-05-01",
+    "tags": [
+      "卡组构筑",
+      "类Rogue",
+      "挑战高分",
+      "独立游戏",
+      "肉鸽卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从一枚六角格开始扩张布局，每次击打赚取代币，再在商店购买升级。",
+      "dimension": "玩法",
+      "excerpt": "Start with a single hex tile and carefully expand your setup. Each strike earns tokens, which can be spent in the shop to unlock upgrades and enhance your strategy.",
+      "url": "https://store.steampowered.com/app/2408870/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "冰淇淋、玉米热狗、调味料、锤子与马戏格子层层叠乘，六角格位置决定最终得分协同。",
+      "dimension": "玩法",
+      "excerpt": "Boost your tokens with tasty treats like Ice Cream and Corn Dogs, then supercharge them with Condiments. Upgrade your Strikers with stronger Hammers to multiply rewards even further. Introduce new hex tiles such as Juggling Clowns and One-Man bands to stack multipliers and create powerful combos. Positioning of the various hex tiles is important, with synergies to be discovered and used to your advantage in maximizing your score.",
+      "url": "https://store.steampowered.com/app/2408870/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 687,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 852,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 71,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 687,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 687,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.3264612112952965,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 17,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": null,
+      "unit": "%",
+      "state": "unavailable",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"
+  ],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "Hex Strikers当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/14d0f4d667b27778cc58e7a3331691e464990c79/ss_14d0f4d667b27778cc58e7a3331691e464990c79.1920x1080.jpg?t=1778123843",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/14d0f4d667b27778cc58e7a3331691e464990c79/ss_14d0f4d667b27778cc58e7a3331691e464990c79.1920x1080.jpg?t=1778123843",
+        "alt": "Hex Strikers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/af64fc640c61f04d447f9f9dbb2c9e6d462c822a/ss_af64fc640c61f04d447f9f9dbb2c9e6d462c822a.1920x1080.jpg?t=1778123843",
+        "alt": "Hex Strikers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/7894910859c1b0c58a35b4a1088babe1b7f8a0ea/ss_7894910859c1b0c58a35b4a1088babe1b7f8a0ea.1920x1080.jpg?t=1778123843",
+        "alt": "Hex Strikers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/4fae519ee71ca635c1acdbeefdfcc985b786a126/ss_4fae519ee71ca635c1acdbeefdfcc985b786a126.1920x1080.jpg?t=1778123843",
+        "alt": "Hex Strikers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/bf9d7f9740b46552f7479112c5bb482d419cb5fb/ss_bf9d7f9740b46552f7479112c5bb482d419cb5fb.1920x1080.jpg?t=1778123843",
+        "alt": "Hex Strikers 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408870/57425e2db8f51944bc75aa0745b9630b94e435d7/ss_57425e2db8f51944bc75aa0745b9630b94e435d7.1920x1080.jpg?t=1778123843",
+        "alt": "Hex Strikers 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

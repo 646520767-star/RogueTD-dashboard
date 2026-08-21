@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Lake of Creatures","developers":["ANTENNA GAMES"],"publishers":["ANTENNA GAMES"],"release_status":"released","release_date":"2024-11-15","tags":["独立游戏","动作肉鸽","类Rogue","高重复可玩性","像素画面"]},"hooks":[{"text":"以物理鱼线甩竿和等待咬钩作为动作 Roguelike 的核心交互。","dimension":"玩法","excerpt":"Swing your PHYSICS-BASED fishing line, cast your lure and hope for a bite!","url":"https://store.steampowered.com/app/1808320/","label":"证据原文片段"},{"text":"组合升级会形成夸张的攻击联动，构筑目标是堆出高强度协同。","dimension":"玩法","excerpt":"COMBINE UPGRADES to find CRAZY ATTACK SYNERGIES!","url":"https://store.steampowered.com/app/1808320/","label":"证据原文片段"},{"text":"随机布置的谜题会改变整座湖泊，让路线选择影响本局环境。","dimension":"玩法","excerpt":"Make interesting decisions with RANDOMLY PLACED PUZZLES that affect the entire lake!","url":"https://store.steampowered.com/app/1808320/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":10883,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":41941,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3264,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":79016,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":11167,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":11167,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.5008632071947736,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":357,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.593315,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"独立游戏、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_6945fdc0ae5d31f0e6875ace8f585fe4def5ae74.1920x1080.jpg?t=1783948366","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_6945fdc0ae5d31f0e6875ace8f585fe4def5ae74.1920x1080.jpg?t=1783948366","alt":"Lake of Creatures 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_17d07acb19337191268aafd7c323ae865949fd52.1920x1080.jpg?t=1783948366","alt":"Lake of Creatures 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_e0fe173fc199897c4f3c3320a199baf77db40273.1920x1080.jpg?t=1783948366","alt":"Lake of Creatures 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_43d6e775f6e6cbeee0fe2ca3e30b2fc034e6f219.1920x1080.jpg?t=1783948366","alt":"Lake of Creatures 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lake of Creatures",
+    "developers": [
+      "ANTENNA GAMES"
+    ],
+    "publishers": [
+      "ANTENNA GAMES"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-15",
+    "tags": [
+      "独立游戏",
+      "动作肉鸽",
+      "类Rogue",
+      "高重复可玩性",
+      "像素画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "以物理鱼线甩竿和等待咬钩作为动作 Roguelike 的核心交互。",
+      "dimension": "玩法",
+      "excerpt": "Swing your PHYSICS-BASED fishing line, cast your lure and hope for a bite!",
+      "url": "https://store.steampowered.com/app/1808320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "组合升级会形成夸张的攻击联动，构筑目标是堆出高强度协同。",
+      "dimension": "玩法",
+      "excerpt": "COMBINE UPGRADES to find CRAZY ATTACK SYNERGIES!",
+      "url": "https://store.steampowered.com/app/1808320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "随机布置的谜题会改变整座湖泊，让路线选择影响本局环境。",
+      "dimension": "玩法",
+      "excerpt": "Make interesting decisions with RANDOMLY PLACED PUZZLES that affect the entire lake!",
+      "url": "https://store.steampowered.com/app/1808320/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 12714,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 39633,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3276,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 93296,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 13042,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 13042,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.5087846404391336,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 348,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.628809,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Lake of Creatures位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_6945fdc0ae5d31f0e6875ace8f585fe4def5ae74.1920x1080.jpg?t=1783948366",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_6945fdc0ae5d31f0e6875ace8f585fe4def5ae74.1920x1080.jpg?t=1786356197",
+        "alt": "Lake of Creatures 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_17d07acb19337191268aafd7c323ae865949fd52.1920x1080.jpg?t=1786356197",
+        "alt": "Lake of Creatures 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_e0fe173fc199897c4f3c3320a199baf77db40273.1920x1080.jpg?t=1786356197",
+        "alt": "Lake of Creatures 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_43d6e775f6e6cbeee0fe2ca3e30b2fc034e6f219.1920x1080.jpg?t=1786356197",
+        "alt": "Lake of Creatures 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_3c5f3855ad6f85d1e510e721e871e08f689bc85a.1920x1080.jpg?t=1786356197",
+        "alt": "Lake of Creatures 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808320/ss_3055d8d82ef4c42a7c690ceca4825de36715c55b.1920x1080.jpg?t=1786356197",
+        "alt": "Lake of Creatures 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

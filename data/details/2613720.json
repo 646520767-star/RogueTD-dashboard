@@ -1,1 +1,178 @@
-{"identity":{"original_title":"CYBERMATRIX","developers":["Tim Murich"],"publishers":["Tim Murich"],"release_status":"released","release_date":"2026-05-29","tags":["动作","平台跳跃","动作肉鸽","三维画面","第一人称"]},"hooks":[{"text":"一把多功能刀与多种能力贯穿高速冒险","dimension":"玩法","excerpt":"A difficult and exciting adventure awaits you, which you will have to pass using one multifunctional knife and many different abilities.","url":"https://store.steampowered.com/app/2613720/","label":"证据原文片段"},{"text":"推进会同步解锁移动技巧并强化对手","dimension":"玩法","excerpt":"But the further you go, the more different techniques you will discover, and the stronger your opponents will be.","url":"https://store.steampowered.com/app/2613720/","label":"证据原文片段"},{"text":"移动技能用于躲导弹并借环境强化机动","dimension":"玩法","excerpt":"Movement is the key to victory. Use your movement skills to dodge enemy projectiles and rockets. Use the environment to level up your movement!","url":"https://store.steampowered.com/app/2613720/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1808,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8897,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":477,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":8538,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1937,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1937,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.408402432639173,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":136,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.441176,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、平台跳跃","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/2e59a2280cfc99f526c5ff09ae6e5138031145e3/ss_2e59a2280cfc99f526c5ff09ae6e5138031145e3.1920x1080.jpg?t=1780070603","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/2e59a2280cfc99f526c5ff09ae6e5138031145e3/ss_2e59a2280cfc99f526c5ff09ae6e5138031145e3.1920x1080.jpg?t=1780070603","alt":"CYBERMATRIX 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/2d41e019df6aefb5aa55057751e59ab631202ee9/ss_2d41e019df6aefb5aa55057751e59ab631202ee9.1920x1080.jpg?t=1780070603","alt":"CYBERMATRIX 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/cb8069dfa9528ebbbbac5b83d48b74b003b4e218/ss_cb8069dfa9528ebbbbac5b83d48b74b003b4e218.1920x1080.jpg?t=1780070603","alt":"CYBERMATRIX 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/fe7bc5e4ca42dacea89970ac69799fbb3c7e49db/ss_fe7bc5e4ca42dacea89970ac69799fbb3c7e49db.1920x1080.jpg?t=1780070603","alt":"CYBERMATRIX 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "CYBERMATRIX",
+    "developers": [
+      "Tim Murich"
+    ],
+    "publishers": [
+      "Tim Murich"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-29",
+    "tags": [
+      "动作",
+      "平台跳跃",
+      "类Rogue",
+      "动作肉鸽",
+      "三维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "一把多功能刀与多种能力贯穿高速冒险",
+      "dimension": "玩法",
+      "excerpt": "A difficult and exciting adventure awaits you, which you will have to pass using one multifunctional knife and many different abilities.",
+      "url": "https://store.steampowered.com/app/2613720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "推进会同步解锁移动技巧并强化对手",
+      "dimension": "玩法",
+      "excerpt": "But the further you go, the more different techniques you will discover, and the stronger your opponents will be.",
+      "url": "https://store.steampowered.com/app/2613720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "移动技能用于躲导弹并借环境强化机动",
+      "dimension": "玩法",
+      "excerpt": "Movement is the key to victory. Use your movement skills to dodge enemy projectiles and rockets. Use the environment to level up your movement!",
+      "url": "https://store.steampowered.com/app/2613720/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1616,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 8949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 481,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 8015,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1730,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1730,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.776229714490157,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 125,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.57971,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "CYBERMATRIX位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/2e59a2280cfc99f526c5ff09ae6e5138031145e3/ss_2e59a2280cfc99f526c5ff09ae6e5138031145e3.1920x1080.jpg?t=1780070603",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/2e59a2280cfc99f526c5ff09ae6e5138031145e3/ss_2e59a2280cfc99f526c5ff09ae6e5138031145e3.1920x1080.jpg?t=1780070603",
+        "alt": "CYBERMATRIX 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/2d41e019df6aefb5aa55057751e59ab631202ee9/ss_2d41e019df6aefb5aa55057751e59ab631202ee9.1920x1080.jpg?t=1780070603",
+        "alt": "CYBERMATRIX 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/cb8069dfa9528ebbbbac5b83d48b74b003b4e218/ss_cb8069dfa9528ebbbbac5b83d48b74b003b4e218.1920x1080.jpg?t=1780070603",
+        "alt": "CYBERMATRIX 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/fe7bc5e4ca42dacea89970ac69799fbb3c7e49db/ss_fe7bc5e4ca42dacea89970ac69799fbb3c7e49db.1920x1080.jpg?t=1780070603",
+        "alt": "CYBERMATRIX 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/6d63984226ec6c27741f66337fda7c2b02a706db/ss_6d63984226ec6c27741f66337fda7c2b02a706db.1920x1080.jpg?t=1780070603",
+        "alt": "CYBERMATRIX 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/444d15e9a17021b0701aaec8143f048ae6300713/ss_444d15e9a17021b0701aaec8143f048ae6300713.1920x1080.jpg?t=1780070603",
+        "alt": "CYBERMATRIX 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/bcefc79f97070283e5278ae883779db2da861b7f/ss_bcefc79f97070283e5278ae883779db2da861b7f.1920x1080.jpg?t=1780070603",
+        "alt": "CYBERMATRIX 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2613720/17b86efea965c075a4f4f595cdf7e0b69593c737/ss_17b86efea965c075a4f4f595cdf7e0b69593c737.1920x1080.jpg?t=1780070603",
+        "alt": "CYBERMATRIX 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Tabletop Tavern","developers":["TJ"],"publishers":["Frostbloom","Gamirror Games"],"release_status":"released","release_date":"2026-06-11","tags":["策略","类Rogue","即时战略","即时战术","轻度Rogue"]},"hooks":[{"text":"用长矛阵克制骑兵、保护弓手侧翼，并在数百单位会战中争夺地形","dimension":"玩法","excerpt":"Lead your troops in intense real-time battles where positioning, timing, and synergy determine victory. Form disciplined spear walls to counter cavalry, protect your archers from flanking maneuvers, and use the terrain to gain the upper hand. From small skirmishes to massive clashes with hundreds of units on screen, every encounter challenges your strategic instincts.","url":"https://store.steampowered.com/app/3337380/","label":"证据原文片段"},{"text":"维京精兵、兽人巨怪、精灵与矮人各自重写军队构筑方式","dimension":"玩法","excerpt":"Lead the elite infantry of the Vikings, the monstrous trolls and giants of the Orcs, agile and flashy Elves, stalwart Humans, resilient Dwarves, and so much more! Each faction comes with abilities that change how you craft your army and utilize them in battle.","url":"https://store.steampowered.com/app/3337380/","label":"证据原文片段"},{"text":"让桌面微缩战棋在实时战场上活起来","dimension":"画风","excerpt":"Battles unfold on a tabletop battlefield where every clash feels like a miniature wargame brought to life in real time.","url":"https://store.steampowered.com/app/3337380/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":108598,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":259278,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":18729,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1668449,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":109693,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":109693,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.614718486254762,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1753,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.1983,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/377ac773493be2e697a776b8499eb2ef1614588e/ss_377ac773493be2e697a776b8499eb2ef1614588e.1920x1080.jpg?t=1782584376","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/377ac773493be2e697a776b8499eb2ef1614588e/ss_377ac773493be2e697a776b8499eb2ef1614588e.1920x1080.jpg?t=1782584376","alt":"Tabletop Tavern 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/0e0d7381bac6a6c0de3b27660d5d3c8180a335b8/ss_0e0d7381bac6a6c0de3b27660d5d3c8180a335b8.1920x1080.jpg?t=1782584376","alt":"Tabletop Tavern 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/d93f645c1373295bd035980a73432754d2a5036b/ss_d93f645c1373295bd035980a73432754d2a5036b.1920x1080.jpg?t=1782584376","alt":"Tabletop Tavern 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/65c05e10ce5da62fc62d328360e335cb5026a349/ss_65c05e10ce5da62fc62d328360e335cb5026a349.1920x1080.jpg?t=1782584376","alt":"Tabletop Tavern 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Tabletop Tavern",
+    "developers": [
+      "TJ"
+    ],
+    "publishers": [
+      "Frostbloom",
+      "Gamirror Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-11",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "即时战略",
+      "塔防",
+      "即时战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用长矛阵克制骑兵、保护弓手侧翼，并在数百单位会战中争夺地形",
+      "dimension": "玩法",
+      "excerpt": "Lead your troops in intense real-time battles where positioning, timing, and synergy determine victory. Form disciplined spear walls to counter cavalry, protect your archers from flanking maneuvers, and use the terrain to gain the upper hand. From small skirmishes to massive clashes with hundreds of units on screen, every encounter challenges your strategic instincts.",
+      "url": "https://store.steampowered.com/app/3337380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "维京精兵、兽人巨怪、精灵与矮人各自重写军队构筑方式",
+      "dimension": "玩法",
+      "excerpt": "Lead the elite infantry of the Vikings, the monstrous trolls and giants of the Orcs, agile and flashy Elves, stalwart Humans, resilient Dwarves, and so much more! Each faction comes with abilities that change how you craft your army and utilize them in battle.",
+      "url": "https://store.steampowered.com/app/3337380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "让桌面微缩战棋在实时战场上活起来",
+      "dimension": "画风",
+      "excerpt": "Battles unfold on a tabletop battlefield where every clash feels like a miniature wargame brought to life in real time.",
+      "url": "https://store.steampowered.com/app/3337380/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 125422,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 264650,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 19910,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1943878,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 126883,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 126883,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.629095482472573,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1913,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.98467,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Tabletop Tavern位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/377ac773493be2e697a776b8499eb2ef1614588e/ss_377ac773493be2e697a776b8499eb2ef1614588e.1920x1080.jpg?t=1782584376",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/377ac773493be2e697a776b8499eb2ef1614588e/ss_377ac773493be2e697a776b8499eb2ef1614588e.1920x1080.jpg?t=1785239679",
+        "alt": "Tabletop Tavern 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/0e0d7381bac6a6c0de3b27660d5d3c8180a335b8/ss_0e0d7381bac6a6c0de3b27660d5d3c8180a335b8.1920x1080.jpg?t=1785239679",
+        "alt": "Tabletop Tavern 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/d93f645c1373295bd035980a73432754d2a5036b/ss_d93f645c1373295bd035980a73432754d2a5036b.1920x1080.jpg?t=1785239679",
+        "alt": "Tabletop Tavern 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/65c05e10ce5da62fc62d328360e335cb5026a349/ss_65c05e10ce5da62fc62d328360e335cb5026a349.1920x1080.jpg?t=1785239679",
+        "alt": "Tabletop Tavern 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/d3b8269b5ff06f4bc43fd75d3dd1452761483b29/ss_d3b8269b5ff06f4bc43fd75d3dd1452761483b29.1920x1080.jpg?t=1785239679",
+        "alt": "Tabletop Tavern 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/decfd3d9acc6aee34d429f16a60519137df32df4/ss_decfd3d9acc6aee34d429f16a60519137df32df4.1920x1080.jpg?t=1785239679",
+        "alt": "Tabletop Tavern 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/5ced18e0cb71bc0ddbeb2fc23a70ba4192f60717/ss_5ced18e0cb71bc0ddbeb2fc23a70ba4192f60717.1920x1080.jpg?t=1785239679",
+        "alt": "Tabletop Tavern 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337380/963e1ae09ee18dc30ed1299adaa85172bba65c89/ss_963e1ae09ee18dc30ed1299adaa85172bba65c89.1920x1080.jpg?t=1785239679",
+        "alt": "Tabletop Tavern 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

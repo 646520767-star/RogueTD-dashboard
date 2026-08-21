@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Seer's Gambit","developers":["Unleash The Giraffe"],"publishers":["Unleash The Giraffe","Gamersky Games"],"release_status":"released","release_date":"2024-11-18","tags":["轻度Rogue","自走棋","探索","策略","像素画面"]},"hooks":[{"text":"半自动战斗中手动调整站位，并把握英雄终极技能的释放时机","dimension":"玩法","excerpt":"Dive into a strategic, tactical semi-auto battler with player agency through positioning and powerful activated ultimate abilities. Each hero comes with their own unique ability. Use it at the right time to turn the tide of battle, waste it, and risk a soul-crushing defeat.","url":"https://store.steampowered.com/app/2219450/","label":"证据原文片段"},{"text":"把看似不相容的英雄凑成队伍，用队友关系激活强力组合","dimension":"玩法","excerpt":"Seer's Gambit is all about discovering the best group composition. Every character in the game can shine when combined with the right co-heroes. Unlock powerful combos by picking the perfect adventurers for your party and demolish your enemies with the power of teamwork.","url":"https://store.steampowered.com/app/2219450/","label":"证据原文片段"},{"text":"征服并升级世界区域，解锁新英雄和团队增益，同时让世界随进度变化","dimension":"玩法","excerpt":"Explore and upgrade the captivating, yet dangerous world of Emalon to unlock new heroes or powerful group buffs for meta progression. Earn resources during your adventures and predict the right upgrades to invest in for your heroes to stand a chance against the lurking evil. As you explore, progress and shape your future, the world will change around you.","url":"https://store.steampowered.com/app/2219450/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":23095,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":47025,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3020,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":269426,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":24422,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":24422,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.795710383639245,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":528,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":77,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":76.515152,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、自走棋","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_579397b892b65a2cda7cd94e2e3fb2f285dffe4a.1920x1080.jpg?t=1779716488","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_579397b892b65a2cda7cd94e2e3fb2f285dffe4a.1920x1080.jpg?t=1779716488","alt":"勇者的残局：自走棋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_e2e8011e55c8d5c15648b79ae6750eb818b57da8.1920x1080.jpg?t=1779716488","alt":"勇者的残局：自走棋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_9ea38b68d2fccd121b21d560c84a07c676a23595.1920x1080.jpg?t=1779716488","alt":"勇者的残局：自走棋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_7cd70f5d6b69ee11ba23122ab5ffbe477365a439.1920x1080.jpg?t=1779716488","alt":"勇者的残局：自走棋 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Seer's Gambit",
+    "developers": [
+      "Unleash The Giraffe"
+    ],
+    "publishers": [
+      "Unleash The Giraffe",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-18",
+    "tags": [
+      "轻度Rogue",
+      "自走棋",
+      "类Rogue",
+      "探索",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "半自动战斗中手动调整站位，并把握英雄终极技能的释放时机",
+      "dimension": "玩法",
+      "excerpt": "Dive into a strategic, tactical semi-auto battler with player agency through positioning and powerful activated ultimate abilities. Each hero comes with their own unique ability. Use it at the right time to turn the tide of battle, waste it, and risk a soul-crushing defeat.",
+      "url": "https://store.steampowered.com/app/2219450/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把看似不相容的英雄凑成队伍，用队友关系激活强力组合",
+      "dimension": "玩法",
+      "excerpt": "Seer's Gambit is all about discovering the best group composition. Every character in the game can shine when combined with the right co-heroes. Unlock powerful combos by picking the perfect adventurers for your party and demolish your enemies with the power of teamwork.",
+      "url": "https://store.steampowered.com/app/2219450/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "征服并升级世界区域，解锁新英雄和团队增益，同时让世界随进度变化",
+      "dimension": "玩法",
+      "excerpt": "Explore and upgrade the captivating, yet dangerous world of Emalon to unlock new heroes or powerful group buffs for meta progression. Earn resources during your adventures and predict the right upgrades to invest in for your heroes to stand a chance against the lurking evil. As you explore, progress and shape your future, the world will change around you.",
+      "url": "https://store.steampowered.com/app/2219450/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 23421,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 47304,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3025,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 269321,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 24765,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 24765,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.765332023863347,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 488,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 76.37051,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "勇者的残局：自走棋位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_579397b892b65a2cda7cd94e2e3fb2f285dffe4a.1920x1080.jpg?t=1779716488",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_579397b892b65a2cda7cd94e2e3fb2f285dffe4a.1920x1080.jpg?t=1779716488",
+        "alt": "勇者的残局：自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_e2e8011e55c8d5c15648b79ae6750eb818b57da8.1920x1080.jpg?t=1779716488",
+        "alt": "勇者的残局：自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_9ea38b68d2fccd121b21d560c84a07c676a23595.1920x1080.jpg?t=1779716488",
+        "alt": "勇者的残局：自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_7cd70f5d6b69ee11ba23122ab5ffbe477365a439.1920x1080.jpg?t=1779716488",
+        "alt": "勇者的残局：自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/f26ec292cad5a2527dffdc37d962c33c2e7c8d66/ss_f26ec292cad5a2527dffdc37d962c33c2e7c8d66.1920x1080.jpg?t=1779716488",
+        "alt": "勇者的残局：自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_f2da0ff873f6b866af7d3d3e8774227573b07976.1920x1080.jpg?t=1779716488",
+        "alt": "勇者的残局：自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_445d021285c9cff64d2b7b3986bd8b44303412e4.1920x1080.jpg?t=1779716488",
+        "alt": "勇者的残局：自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219450/ss_eb69fbe7ec14bf0ef15d259197274560c0997ba5.1920x1080.jpg?t=1779716488",
+        "alt": "勇者的残局：自走棋 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

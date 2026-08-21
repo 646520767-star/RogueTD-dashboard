@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Doom Sweeper","developers":["Paper Dog"],"publishers":["Paper Dog"],"release_status":"released","release_date":"2024-06-08","tags":["动作肉鸽","砍杀","塔防","轻度Rogue","类Rogue"]},"hooks":[{"text":"单局20分钟内围绕生存、清扫僵尸、收集样本并兑换现金形成直接循环。","dimension":"玩法","excerpt":"In these 20 minutes, all you can do is survive, clean zombies, collect samples, and exchange them for cash.","url":"https://store.steampowered.com/app/2162680/","label":"证据原文片段"},{"text":"清扫进度会逐步解锁多种空投军事支援，并提供额外的武器升级途径。","dimension":"玩法","excerpt":"As the cleaning progresses, you can unlock a variety of airdrop military support! You can even \"watch a show\" to upgrade your weapons.","url":"https://store.steampowered.com/app/2162680/","label":"证据原文片段"},{"text":"失去家人的少女Yamato与Roche购入二手军车，在末日中踏上清扫者与军火生意之旅。","dimension":"故事","excerpt":"Yamato, a girl who has lost her family, and Roche, the top service boy of SOPRT BOY, have purchased a second-hand military vehicle from an A-grade arms company and embarked on the journey of the Sweepers.","url":"https://store.steampowered.com/app/2162680/","label":"证据原文片段"}],"opinions":[{"text":"画廊图像缺乏用心与变化。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"gallery image moments are so lackluster of any love and diversity","url":"https://steamcommunity.com/id/JaxxGotIt/recommended/2162680/","label":"证据原文片段"}]},{"text":"性感像素美术与动态效果受到肯定。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Sexy pixel art & jiggles","url":"https://store.steampowered.com/curator/45804803-Sex-Appeal/","label":"证据原文片段"}]},{"text":"像素美术具有魅力。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"charming visuals","url":"https://store.steampowered.com/curator/31748181-AnimeTiddiesConnoisseur/","label":"证据原文片段"}]},{"text":"可爱的女性角色造型有吸引力。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Cute waifu character","url":"https://store.steampowered.com/curator/45804803-Sex-Appeal/","label":"证据原文片段"}]},{"text":"数值平衡存在问题。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"balance issues","url":"https://store.steampowered.com/curator/31748181-AnimeTiddiesConnoisseur/","label":"证据原文片段"}]},{"text":"基地防守操作笨拙。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"a subpar and clunky base defense game","url":"https://store.steampowered.com/curator/45872042-Just-Gooning/","label":"证据原文片段"}]},{"text":"玩法重复度较高。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"repetitive gameplay","url":"https://store.steampowered.com/curator/31748181-AnimeTiddiesConnoisseur/","label":"证据原文片段"}]},{"text":"推进过程过于肝。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"it feels grindy","url":"https://store.steampowered.com/curator/45872042-Just-Gooning/","label":"证据原文片段"}]},{"text":"缺少自动开火，必须持续手动点击。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"不能设定自动开火，必须手动点鼠标","url":"https://steamcommunity.com/id/dogsamagouge/recommended/2162680/","label":"证据原文片段"}]},{"text":"新地图限制枪械炮弹武装后体验很差。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"当前版本更新的最新地图，限制了枪械型炮弹武装，在没法使用真理核心武装吸怪的帮助下，体验很差！","url":"https://steamcommunity.com/profiles/76561198140676161/recommended/2162680/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":31510,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":40670,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2395,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":95052,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":32626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":32626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.90676921275388,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":819,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":74,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":74.114774,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["画廊图像缺乏用心与变化。","数值平衡存在问题。","基地防守操作笨拙。","玩法重复度较高。","推进过程过于肝。","缺少自动开火，必须持续手动点击。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_bd448d75807c1e4a0fa66a876bb4537dbfeccd01.1920x1080.jpg?t=1731575212","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_bd448d75807c1e4a0fa66a876bb4537dbfeccd01.1920x1080.jpg?t=1731575212","alt":"末日清理专家 (Doom Sweeper) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_f34488eb64860ca4e86effa3dbe3575481cebb31.1920x1080.jpg?t=1731575212","alt":"末日清理专家 (Doom Sweeper) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_2b44b59daf3009b959d48e243b7d72a68e7a7a9a.1920x1080.jpg?t=1731575212","alt":"末日清理专家 (Doom Sweeper) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_5ecf5bf65b7f9cf2a3cd620ea8e253661e43c661.1920x1080.jpg?t=1731575212","alt":"末日清理专家 (Doom Sweeper) 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Doom Sweeper",
+    "developers": [
+      "Paper Dog"
+    ],
+    "publishers": [
+      "Paper Dog"
+    ],
+    "release_status": "released",
+    "release_date": "2024-06-08",
+    "tags": [
+      "动作肉鸽",
+      "砍杀",
+      "塔防",
+      "轻度Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "单局20分钟内围绕生存、清扫僵尸、收集样本并兑换现金形成直接循环。",
+      "dimension": "玩法",
+      "excerpt": "In these 20 minutes, all you can do is survive, clean zombies, collect samples, and exchange them for cash.",
+      "url": "https://store.steampowered.com/app/2162680/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "清扫进度会逐步解锁多种空投军事支援，并提供额外的武器升级途径。",
+      "dimension": "玩法",
+      "excerpt": "As the cleaning progresses, you can unlock a variety of airdrop military support! You can even \"watch a show\" to upgrade your weapons.",
+      "url": "https://store.steampowered.com/app/2162680/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "失去家人的少女Yamato与Roche购入二手军车，在末日中踏上清扫者与军火生意之旅。",
+      "dimension": "故事",
+      "excerpt": "Yamato, a girl who has lost her family, and Roche, the top service boy of SOPRT BOY, have purchased a second-hand military vehicle from an A-grade arms company and embarked on the journey of the Sweepers.",
+      "url": "https://store.steampowered.com/app/2162680/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "画廊图像缺乏用心与变化。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "gallery image moments are so lackluster of any love and diversity",
+          "url": "https://steamcommunity.com/id/JaxxGotIt/recommended/2162680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "性感像素美术与动态效果受到肯定。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Sexy pixel art & jiggles",
+          "url": "https://store.steampowered.com/curator/45804803-Sex-Appeal/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "像素美术具有魅力。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "charming visuals",
+          "url": "https://store.steampowered.com/curator/31748181-AnimeTiddiesConnoisseur/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "可爱的女性角色造型有吸引力。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Cute waifu character",
+          "url": "https://store.steampowered.com/curator/45804803-Sex-Appeal/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "数值平衡存在问题。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "balance issues",
+          "url": "https://store.steampowered.com/curator/31748181-AnimeTiddiesConnoisseur/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "基地防守操作笨拙。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a subpar and clunky base defense game",
+          "url": "https://store.steampowered.com/curator/45872042-Just-Gooning/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法重复度较高。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "repetitive gameplay",
+          "url": "https://store.steampowered.com/curator/31748181-AnimeTiddiesConnoisseur/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "推进过程过于肝。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it feels grindy",
+          "url": "https://store.steampowered.com/curator/45872042-Just-Gooning/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少自动开火，必须持续手动点击。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "不能设定自动开火，必须手动点鼠标",
+          "url": "https://steamcommunity.com/id/dogsamagouge/recommended/2162680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "新地图限制枪械炮弹武装后体验很差。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "当前版本更新的最新地图，限制了枪械型炮弹武装，在没法使用真理核心武装吸怪的帮助下，体验很差！",
+          "url": "https://steamcommunity.com/profiles/76561198140676161/recommended/2162680/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 32850,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 42190,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2404,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 98751,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 34007,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 34007,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.916776389382775,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 783,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 74,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 74.119077,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "画廊图像缺乏用心与变化。",
+    "数值平衡存在问题。",
+    "基地防守操作笨拙。",
+    "玩法重复度较高。",
+    "推进过程过于肝。",
+    "缺少自动开火，必须持续手动点击。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "末日清理专家 (Doom Sweeper)位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_bd448d75807c1e4a0fa66a876bb4537dbfeccd01.1920x1080.jpg?t=1731575212",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_bd448d75807c1e4a0fa66a876bb4537dbfeccd01.1920x1080.jpg?t=1731575212",
+        "alt": "末日清理专家 (Doom Sweeper) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_f34488eb64860ca4e86effa3dbe3575481cebb31.1920x1080.jpg?t=1731575212",
+        "alt": "末日清理专家 (Doom Sweeper) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_2b44b59daf3009b959d48e243b7d72a68e7a7a9a.1920x1080.jpg?t=1731575212",
+        "alt": "末日清理专家 (Doom Sweeper) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_5ecf5bf65b7f9cf2a3cd620ea8e253661e43c661.1920x1080.jpg?t=1731575212",
+        "alt": "末日清理专家 (Doom Sweeper) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_8c35e0258ecb0a2bee1db403144ba26e5439015f.1920x1080.jpg?t=1731575212",
+        "alt": "末日清理专家 (Doom Sweeper) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_f90f5a1500840d21a550d1db50df443f13f3eb79.1920x1080.jpg?t=1731575212",
+        "alt": "末日清理专家 (Doom Sweeper) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_b14cc4c08fe1c6287c1c0dd752f8ae65f35a2a43.1920x1080.jpg?t=1731575212",
+        "alt": "末日清理专家 (Doom Sweeper) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162680/ss_39733a344986f8b5aa7c66361533d65ab55984f3.1920x1080.jpg?t=1731575212",
+        "alt": "末日清理专家 (Doom Sweeper) 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

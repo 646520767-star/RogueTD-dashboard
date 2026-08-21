@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island","developers":["Spike Chunsoft Co., Ltd."],"publishers":["Spike Chunsoft Co., Ltd."],"release_status":"released","release_date":"2024-12-11","tags":["角色扮演","类Rogue","地牢探索","回合制战术","三维画面"]},"hooks":[{"text":"每次进入迷宫，楼层布局、获得道具以及敌友分布都会全部变化","dimension":"玩法","excerpt":"In the Mystery Dungeon, the layout of its many floors, the tools you obtain within, and the presence of both friends and foes are different every time you enter. The situation changes each time, so it's up to you to prepare and adapt to unexpected challenges as they appear.","url":"https://store.steampowered.com/app/2178480/","label":"证据原文片段"},{"text":"迷宫中倒下可向其他玩家求救，被救后能从原地继续且不损失任何进度","dimension":"玩法","excerpt":"Should a player collapse in the middle of their dungeon adventure, they can call on other players for a Rescue to get them back on track. Rescued players can pick up right where they left off without losing any progress.","url":"https://store.steampowered.com/app/2178480/","label":"证据原文片段"},{"text":"神秘女孩、失落海盗黄金与腹藏珍宝的山巅巨兽共同牵引岛屿谜团","dimension":"故事","excerpt":"Shiren the Wanderer and Koppa, his talking ferret partner, received a vision of a distant land and a girl in distress. It led them to the mysterious Serpentcoil Island. But they're not alone. Rumors speak of lost pirate gold hidden away within the depths of Serpentcoil Island, and a powerful monster at its highest mountain peak, said to hold an exquisite treasure in its belly.","url":"https://store.steampowered.com/app/2178480/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":46361,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":73715,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3820,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1260869,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":48042,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":48042,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":44.95394131524188,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":480,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.041667,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_726d1b0e908206eb7deffc7c35832c465b7643a9.1920x1080.jpg?t=1738230227","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_726d1b0e908206eb7deffc7c35832c465b7643a9.1920x1080.jpg?t=1738230227","alt":"千变的迷宫 风来的希炼６ 蛇蜷岛探险谭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_6d6a09326c4ca6726d341c7ae1857a1396dddded.1920x1080.jpg?t=1738230227","alt":"千变的迷宫 风来的希炼６ 蛇蜷岛探险谭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_bf0f5c80137d7767a07a8994c116503ed5c4fc30.1920x1080.jpg?t=1738230227","alt":"千变的迷宫 风来的希炼６ 蛇蜷岛探险谭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_6c0ced183aa52c573d58ec129eb4c85a083ffd48.1920x1080.jpg?t=1738230227","alt":"千变的迷宫 风来的希炼６ 蛇蜷岛探险谭 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
+    "developers": [
+      "Spike Chunsoft Co., Ltd."
+    ],
+    "publishers": [
+      "Spike Chunsoft Co., Ltd."
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-11",
+    "tags": [
+      "角色扮演",
+      "类Rogue",
+      "地牢探索",
+      "地牢探索",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每次进入迷宫，楼层布局、获得道具以及敌友分布都会全部变化",
+      "dimension": "玩法",
+      "excerpt": "In the Mystery Dungeon, the layout of its many floors, the tools you obtain within, and the presence of both friends and foes are different every time you enter. The situation changes each time, so it's up to you to prepare and adapt to unexpected challenges as they appear.",
+      "url": "https://store.steampowered.com/app/2178480/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "迷宫中倒下可向其他玩家求救，被救后能从原地继续且不损失任何进度",
+      "dimension": "玩法",
+      "excerpt": "Should a player collapse in the middle of their dungeon adventure, they can call on other players for a Rescue to get them back on track. Rescued players can pick up right where they left off without losing any progress.",
+      "url": "https://store.steampowered.com/app/2178480/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "神秘女孩、失落海盗黄金与腹藏珍宝的山巅巨兽共同牵引岛屿谜团",
+      "dimension": "故事",
+      "excerpt": "Shiren the Wanderer and Koppa, his talking ferret partner, received a vision of a distant land and a girl in distress. It led them to the mysterious Serpentcoil Island. But they're not alone. Rumors speak of lost pirate gold hidden away within the depths of Serpentcoil Island, and a powerful monster at its highest mountain peak, said to hold an exquisite treasure in its belly.",
+      "url": "https://store.steampowered.com/app/2178480/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 47513,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 74152,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3831,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1302174,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 49229,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 49229,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 46.48868793170736,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 458,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.307054,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "千变的迷宫　风来的希炼６　蛇蜷岛探险谭位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_726d1b0e908206eb7deffc7c35832c465b7643a9.1920x1080.jpg?t=1738230227",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_726d1b0e908206eb7deffc7c35832c465b7643a9.1920x1080.jpg?t=1738230227",
+        "alt": "千变的迷宫　风来的希炼６　蛇蜷岛探险谭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_6d6a09326c4ca6726d341c7ae1857a1396dddded.1920x1080.jpg?t=1738230227",
+        "alt": "千变的迷宫　风来的希炼６　蛇蜷岛探险谭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_bf0f5c80137d7767a07a8994c116503ed5c4fc30.1920x1080.jpg?t=1738230227",
+        "alt": "千变的迷宫　风来的希炼６　蛇蜷岛探险谭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_6c0ced183aa52c573d58ec129eb4c85a083ffd48.1920x1080.jpg?t=1738230227",
+        "alt": "千变的迷宫　风来的希炼６　蛇蜷岛探险谭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_0d428b2e21114adb25614e450fe2e5c7dc52f9ee.1920x1080.jpg?t=1738230227",
+        "alt": "千变的迷宫　风来的希炼６　蛇蜷岛探险谭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_ff9e5405a26fdf300edcdfe5c98d37598c2ae567.1920x1080.jpg?t=1738230227",
+        "alt": "千变的迷宫　风来的希炼６　蛇蜷岛探险谭 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

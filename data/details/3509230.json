@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Gambonanza","developers":["Blukulélé"],"publishers":["Sidekick Publishing","Stray Fawn Publishing"],"release_status":"released","release_date":"2026-05-01","tags":["肉鸽卡组构筑","回合制策略","高重复可玩性","街机","单人游戏"]},"hooks":[{"text":"目标不再是将军，而是吃光全盘棋子；拖太久棋盘还会自行崩塌","dimension":"玩法","excerpt":"In this game, victory isn’t about capturing just the king; it’s about capturing every single piece on the board through masterful synergies! But be careful, if you waste too many moves the board will crumble around you…","url":"https://store.steampowered.com/app/3509230/","label":"证据原文片段"},{"text":"用150多种Gambit改写棋规，造出强化象群或让对手连续跳过回合","dimension":"玩法","excerpt":"Discover over 150+ powerful Gambits that alter the rules and properties of your run. Want a wacky army of supercharged bishops? Or to see how many times you can make your enemy skip a turn?","url":"https://store.steampowered.com/app/3509230/","label":"证据原文片段"},{"text":"把额外棋子藏在盘外预备区，在关键时刻突然部署改写局势","dimension":"玩法","excerpt":"Learn and exploit a dynamic reserve system that lets you store extra chess pieces off-board. Deploy them at the perfect moment to catch your adversary off guard.","url":"https://store.steampowered.com/app/3509230/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":191239,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":324098,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":13572,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1765370,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":198643,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":198643,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.396168839693997,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1540,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":76,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.679172,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、回合制策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/a0646405f3eb92e2dcd5580bcb9000da9e450f4a/ss_a0646405f3eb92e2dcd5580bcb9000da9e450f4a.1920x1080.jpg?t=1780392882","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/a0646405f3eb92e2dcd5580bcb9000da9e450f4a/ss_a0646405f3eb92e2dcd5580bcb9000da9e450f4a.1920x1080.jpg?t=1780392882","alt":"Gambonanza 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/c4cb998d559f4669f19c71eaf57513a6311b5dfa/ss_c4cb998d559f4669f19c71eaf57513a6311b5dfa.1920x1080.jpg?t=1780392882","alt":"Gambonanza 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/aaf57344b4ab759f8b92ef6739684c74d59897ec/ss_aaf57344b4ab759f8b92ef6739684c74d59897ec.1920x1080.jpg?t=1780392882","alt":"Gambonanza 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/8f671f5e6ab2b7a473d1d1b6740d40eddfdc0224/ss_8f671f5e6ab2b7a473d1d1b6740d40eddfdc0224.1920x1080.jpg?t=1780392882","alt":"Gambonanza 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Gambonanza",
+    "developers": [
+      "Blukulélé"
+    ],
+    "publishers": [
+      "Sidekick Publishing",
+      "Stray Fawn Publishing"
+    ],
+    "release_status": "released",
+    "release_date": "2026-05-01",
+    "tags": [
+      "肉鸽卡组构筑",
+      "回合制策略",
+      "回合制策略",
+      "高重复可玩性",
+      "街机"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "目标不再是将军，而是吃光全盘棋子；拖太久棋盘还会自行崩塌",
+      "dimension": "玩法",
+      "excerpt": "In this game, victory isn’t about capturing just the king; it’s about capturing every single piece on the board through masterful synergies! But be careful, if you waste too many moves the board will crumble around you…",
+      "url": "https://store.steampowered.com/app/3509230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用150多种Gambit改写棋规，造出强化象群或让对手连续跳过回合",
+      "dimension": "玩法",
+      "excerpt": "Discover over 150+ powerful Gambits that alter the rules and properties of your run. Want a wacky army of supercharged bishops? Or to see how many times you can make your enemy skip a turn?",
+      "url": "https://store.steampowered.com/app/3509230/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把额外棋子藏在盘外预备区，在关键时刻突然部署改写局势",
+      "dimension": "玩法",
+      "excerpt": "Learn and exploit a dynamic reserve system that lets you store extra chess pieces off-board. Deploy them at the perfect moment to catch your adversary off guard.",
+      "url": "https://store.steampowered.com/app/3509230/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 190373,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 332411,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 13686,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1761459,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 198226,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 198226,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.4980423133128964,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1517,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.511469,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Gambonanza位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/a0646405f3eb92e2dcd5580bcb9000da9e450f4a/ss_a0646405f3eb92e2dcd5580bcb9000da9e450f4a.1920x1080.jpg?t=1780392882",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/a0646405f3eb92e2dcd5580bcb9000da9e450f4a/ss_a0646405f3eb92e2dcd5580bcb9000da9e450f4a.1920x1080.jpg?t=1780392882",
+        "alt": "Gambonanza 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/c4cb998d559f4669f19c71eaf57513a6311b5dfa/ss_c4cb998d559f4669f19c71eaf57513a6311b5dfa.1920x1080.jpg?t=1780392882",
+        "alt": "Gambonanza 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/aaf57344b4ab759f8b92ef6739684c74d59897ec/ss_aaf57344b4ab759f8b92ef6739684c74d59897ec.1920x1080.jpg?t=1780392882",
+        "alt": "Gambonanza 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/8f671f5e6ab2b7a473d1d1b6740d40eddfdc0224/ss_8f671f5e6ab2b7a473d1d1b6740d40eddfdc0224.1920x1080.jpg?t=1780392882",
+        "alt": "Gambonanza 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/ef75bdd37170a8b88294322364502640f6bccd9c/ss_ef75bdd37170a8b88294322364502640f6bccd9c.1920x1080.jpg?t=1780392882",
+        "alt": "Gambonanza 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509230/3be76f56abd1d69d2b62f1ba799c614c4e02b18c/ss_3be76f56abd1d69d2b62f1ba799c614c4e02b18c.1920x1080.jpg?t=1780392882",
+        "alt": "Gambonanza 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

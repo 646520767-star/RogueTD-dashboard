@@ -1,27 +1,27 @@
 {
   "baseline_only": {
-    "appid": "3634710",
+    "appid": "4117730",
     "metric": "copiesSold",
-    "title": "DWARRF: A Pinball Roguelike"
+    "title": "Slayblade"
   },
   "two_point_change": {
-    "appid": "1067360",
+    "appid": "2514330",
     "metric": "copiesSold",
-    "title": "Pax Autocratica"
+    "title": "The Rabbit Haul"
   },
   "multi_period_trend": {
-    "appid": "2904000",
+    "appid": "4317690",
     "metric": "copiesSold",
-    "title": "咒语旅团"
-  },
-  "missing_gap": {
-    "appid": "3634710",
-    "metric": "copiesSold",
-    "title": "DWARRF: A Pinball Roguelike"
+    "title": "Crimson Moon"
   },
   "definition_change": {
-    "appid": "2904000",
+    "appid": "2605790",
     "metric": "copiesSold",
-    "title": "咒语旅团"
+    "title": "Deep Rock Galactic: Rogue Core"
+  },
+  "missing_gap": {
+    "appid": "3495250",
+    "metric": "copiesSold",
+    "title": "Glory On Pluto"
   }
 }

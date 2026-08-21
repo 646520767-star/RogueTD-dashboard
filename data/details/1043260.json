@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Gladiator Guild Manager","developers":["Entertainment Forge"],"publishers":["GrabTheGames","Gamirror Games","UpgradePoint"],"release_status":"released","release_date":"2024-06-22","tags":["自走棋","策略","经营管理","角色扮演","战术"]},"hooks":[{"text":"赛前选择斗士、站位和行为指令，战斗自动演算并检验克制判断","dimension":"玩法","excerpt":"Choose gladiators for each fight, position them, and instruct their behavior. The battle will play out on its own, showing you the results of your strategy. Keep a close watch on your enemy, understand their moves, and figure out how to best counter them.","url":"https://store.steampowered.com/app/1043260/","label":"证据原文片段"},{"text":"斗士特质决定额外能力，可从市场淘人或训练升级特质并搭配装备","dimension":"玩法","excerpt":"Gladiators have traits that determine their bonuses and additional abilities. You can find great deals in the market or teach and upgrade traits as you form the strategy for your team. Unleash your creativity by growing your unique team. Level them up, upgrade traits, and equip them with powerful items, all while planning carefully how to build the most efficient team of gladiators that work well together.","url":"https://store.steampowered.com/app/1043260/","label":"证据原文片段"},{"text":"每轮选择不同主要阵营，改变主线任务、结局和队伍策略","dimension":"故事","excerpt":"Replayability Each time you play, you can choose a different main allegiance, resulting in different main quests and endings while you try different team strategies.","url":"https://store.steampowered.com/app/1043260/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":293980,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":205888,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":24086,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1976325,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":308718,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":364550,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.819806671001995,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":4047,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.200593,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"自走棋、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_b6cf707468eea0b93a2204e02559680ce81f569f.1920x1080.jpg?t=1784217636","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_b6cf707468eea0b93a2204e02559680ce81f569f.1920x1080.jpg?t=1784217636","alt":"角斗士公会经理 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_5cc4a230bedf41651a93fd6e394b1e3bf5e64741.1920x1080.jpg?t=1784217636","alt":"角斗士公会经理 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_7ada5c6b22a3278962dfb480960023e438d7e5a9.1920x1080.jpg?t=1784217636","alt":"角斗士公会经理 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_3b03fea19b6a423e032cf82d4fa951c89503c396.1920x1080.jpg?t=1784217636","alt":"角斗士公会经理 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Gladiator Guild Manager",
+    "developers": [
+      "Entertainment Forge"
+    ],
+    "publishers": [
+      "GrabTheGames",
+      "Gamirror Games",
+      "UpgradePoint"
+    ],
+    "release_status": "released",
+    "release_date": "2024-06-22",
+    "tags": [
+      "自走棋",
+      "策略",
+      "经营管理",
+      "角色扮演",
+      "战术"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "赛前选择斗士、站位和行为指令，战斗自动演算并检验克制判断",
+      "dimension": "玩法",
+      "excerpt": "Choose gladiators for each fight, position them, and instruct their behavior. The battle will play out on its own, showing you the results of your strategy. Keep a close watch on your enemy, understand their moves, and figure out how to best counter them.",
+      "url": "https://store.steampowered.com/app/1043260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "斗士特质决定额外能力，可从市场淘人或训练升级特质并搭配装备",
+      "dimension": "玩法",
+      "excerpt": "Gladiators have traits that determine their bonuses and additional abilities. You can find great deals in the market or teach and upgrade traits as you form the strategy for your team. Unleash your creativity by growing your unique team. Level them up, upgrade traits, and equip them with powerful items, all while planning carefully how to build the most efficient team of gladiators that work well together.",
+      "url": "https://store.steampowered.com/app/1043260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮选择不同主要阵营，改变主线任务、结局和队伍策略",
+      "dimension": "故事",
+      "excerpt": "Replayability Each time you play, you can choose a different main allegiance, resulting in different main quests and endings while you try different team strategies.",
+      "url": "https://store.steampowered.com/app/1043260/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 324252,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 203273,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 24111,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2194489,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 340498,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 402077,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.483209198786701,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3787,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.03321,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "角斗士公会经理位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_b6cf707468eea0b93a2204e02559680ce81f569f.1920x1080.jpg?t=1784217636",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_b6cf707468eea0b93a2204e02559680ce81f569f.1920x1080.jpg?t=1786725239",
+        "alt": "角斗士公会经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_5cc4a230bedf41651a93fd6e394b1e3bf5e64741.1920x1080.jpg?t=1786725239",
+        "alt": "角斗士公会经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_7ada5c6b22a3278962dfb480960023e438d7e5a9.1920x1080.jpg?t=1786725239",
+        "alt": "角斗士公会经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_3b03fea19b6a423e032cf82d4fa951c89503c396.1920x1080.jpg?t=1786725239",
+        "alt": "角斗士公会经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_82d058083e75dcef61322ecc7e27312a3f8f01ea.1920x1080.jpg?t=1786725239",
+        "alt": "角斗士公会经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_4f69ca8647257c191cccb76458340fb1a8ab57c3.1920x1080.jpg?t=1786725239",
+        "alt": "角斗士公会经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_5943dbe13d63d3a482deaacbf964d28adb00fb2b.1920x1080.jpg?t=1786725239",
+        "alt": "角斗士公会经理 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043260/ss_e388a74db606ac43b4045ff5a997701876e9b31d.1920x1080.jpg?t=1786725239",
+        "alt": "角斗士公会经理 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

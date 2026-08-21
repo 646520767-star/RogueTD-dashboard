@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Kādomon: Hyper Auto Battlers","developers":["Dino Rocket"],"publishers":["Fireshine Games"],"release_status":"released","release_date":"2025-04-07","tags":["卡通风格","自走棋","类Rogue","卡牌对战","玩家对环境"]},"hooks":[{"text":"收集200多种怪物及每种两款稀有错印体","dimension":"玩法","excerpt":"There’s 200+ monsters to add to your Kādodex, and each Kādomon has 2 super rare misprints to discover!","url":"https://store.steampowered.com/app/2125540/","label":"证据原文片段"},{"text":"十二属性与主动被动能力组成自动战斗协同","dimension":"玩法","excerpt":"All Kādomon have special characteristics, such as activated abilities, passive abilities and different typings (there’s 12 types in total!). Synergise your Kādomon’s attacks and create a super effective combo of monsters.","url":"https://store.steampowered.com/app/2125540/","label":"证据原文片段"},{"text":"稀有道具突破极限进化为HYPER第四形态","dimension":"玩法","excerpt":"Once fully evolved, every Kādomon has the chance to get HYPER! Acquire very rare items that allow your Kādomon to break their limits and discover a hyper-powerful 4th form!","url":"https://store.steampowered.com/app/2125540/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":35513,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":69902,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5176,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":258495,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":38674,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":38674,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.73610510140493,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":608,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":67,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":66.776316,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为66.776316%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_8c89bc871312fd80c211f3e39daf85c713bedeb9.1920x1080.jpg?t=1761941624","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_8c89bc871312fd80c211f3e39daf85c713bedeb9.1920x1080.jpg?t=1761941624","alt":"卡多梦:超能自走棋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_2cc6dd9af1dbf1b9c6fe25b8b5ad8b7538e418c3.1920x1080.jpg?t=1761941624","alt":"卡多梦:超能自走棋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_689250063a0975fb9150cd735080618028bc6782.1920x1080.jpg?t=1761941624","alt":"卡多梦:超能自走棋 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_995de89d4944dd020e0f1b6b20b29ecb4875d215.1920x1080.jpg?t=1761941624","alt":"卡多梦:超能自走棋 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Kādomon: Hyper Auto Battlers",
+    "developers": [
+      "Dino Rocket"
+    ],
+    "publishers": [
+      "Fireshine Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-07",
+    "tags": [
+      "轻度Rogue",
+      "卡通风格",
+      "自走棋",
+      "类Rogue",
+      "卡牌对战"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "收集200多种怪物及每种两款稀有错印体",
+      "dimension": "玩法",
+      "excerpt": "There’s 200+ monsters to add to your Kādodex, and each Kādomon has 2 super rare misprints to discover!",
+      "url": "https://store.steampowered.com/app/2125540/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十二属性与主动被动能力组成自动战斗协同",
+      "dimension": "玩法",
+      "excerpt": "All Kādomon have special characteristics, such as activated abilities, passive abilities and different typings (there’s 12 types in total!). Synergise your Kādomon’s attacks and create a super effective combo of monsters.",
+      "url": "https://store.steampowered.com/app/2125540/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "稀有道具突破极限进化为HYPER第四形态",
+      "dimension": "玩法",
+      "excerpt": "Once fully evolved, every Kādomon has the chance to get HYPER! Acquire very rare items that allow your Kādomon to break their limits and discover a hyper-powerful 4th form!",
+      "url": "https://store.steampowered.com/app/2125540/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 35920,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 70316,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5177,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 261779,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 39112,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 39112,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.749384435113018,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 538,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 67,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 66.721311,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为66.776316%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "卡多梦:超能自走棋位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_8c89bc871312fd80c211f3e39daf85c713bedeb9.1920x1080.jpg?t=1761941624",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_8c89bc871312fd80c211f3e39daf85c713bedeb9.1920x1080.jpg?t=1761941624",
+        "alt": "卡多梦:超能自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_2cc6dd9af1dbf1b9c6fe25b8b5ad8b7538e418c3.1920x1080.jpg?t=1761941624",
+        "alt": "卡多梦:超能自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_689250063a0975fb9150cd735080618028bc6782.1920x1080.jpg?t=1761941624",
+        "alt": "卡多梦:超能自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_995de89d4944dd020e0f1b6b20b29ecb4875d215.1920x1080.jpg?t=1761941624",
+        "alt": "卡多梦:超能自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_901b4d8faf5e3c5c1ee854f7d41bcbb46d85aaaf.1920x1080.jpg?t=1761941624",
+        "alt": "卡多梦:超能自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_0b3b670a738a5cba0ed74dca1830f73e0989d003.1920x1080.jpg?t=1761941624",
+        "alt": "卡多梦:超能自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_4818252d25bafeeae1395373950c226a55cdd90e.1920x1080.jpg?t=1761941624",
+        "alt": "卡多梦:超能自走棋 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125540/ss_159af106a36969498b6bd5681fcc8fc703ab63dc.1920x1080.jpg?t=1761941624",
+        "alt": "卡多梦:超能自走棋 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

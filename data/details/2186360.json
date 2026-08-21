@@ -1,1 +1,170 @@
-{"identity":{"original_title":"IDUN - Frontline Survival","developers":["IDUN Interactive"],"publishers":["Surefire.Games"],"release_status":"released","release_date":"2025-01-20","tags":["三维画面","建造","塔防","策略","即时战略"]},"hooks":[{"text":"实时拖放并重定位炮塔，再直接瞄准轨道炮应对满屏虫群","dimension":"玩法","excerpt":"Command a varied arsenal of combat tools in real-time, from repositionable drag-and-drop turrets to point-and-shoot orbital cannons, leveraging their strengths to overcome challenging scenarios.","url":"https://store.steampowered.com/app/2186360/","label":"证据原文片段"},{"text":"爆炸破坏与敌人残骸会持续重塑地形，迫使防线即时调整","dimension":"玩法","excerpt":"Experience ever-changing missions as the battle against relentless enemy swarms reshapes the terrain. Destruction and enemy remains create new challenges and opportunities, demanding constant tactical adaptation.","url":"https://store.steampowered.com/app/2186360/","label":"证据原文片段"},{"text":"升级空间站科技树，持续解锁毁灭性炮塔、精英部队与战术工具","dimension":"玩法","excerpt":"Advance through a robust tech tree, upgrading your space station and unlocking devastating turrets, elite troops, and tactical tools to outlast the endless onslaught.","url":"https://store.steampowered.com/app/2186360/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":39203,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":69902,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6491,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":395441,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":40694,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":40694,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.79182554679339,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":707,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":79,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":79.237288,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"三维画面、建造","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/d4f7530445d1d40496a9d243940b0fe77e563b1d/ss_d4f7530445d1d40496a9d243940b0fe77e563b1d.1920x1080.jpg?t=1780542675","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/d4f7530445d1d40496a9d243940b0fe77e563b1d/ss_d4f7530445d1d40496a9d243940b0fe77e563b1d.1920x1080.jpg?t=1780542675","alt":"IDUN - 阵线推进官 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/ss_4befb8808b97e79ce2b1019b6408344638698810.1920x1080.jpg?t=1780542675","alt":"IDUN - 阵线推进官 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/ss_8084edf7b72aef62e8d6ecdedeb7016fab77ad2d.1920x1080.jpg?t=1780542675","alt":"IDUN - 阵线推进官 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/ss_b3ce73d8b0539a257785c4be39b6ac93054ac81e.1920x1080.jpg?t=1780542675","alt":"IDUN - 阵线推进官 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "IDUN - Frontline Survival",
+    "developers": [
+      "IDUN Interactive"
+    ],
+    "publishers": [
+      "Surefire.Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-01-20",
+    "tags": [
+      "三维画面",
+      "建造",
+      "塔防",
+      "塔防",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "实时拖放并重定位炮塔，再直接瞄准轨道炮应对满屏虫群",
+      "dimension": "玩法",
+      "excerpt": "Command a varied arsenal of combat tools in real-time, from repositionable drag-and-drop turrets to point-and-shoot orbital cannons, leveraging their strengths to overcome challenging scenarios.",
+      "url": "https://store.steampowered.com/app/2186360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "爆炸破坏与敌人残骸会持续重塑地形，迫使防线即时调整",
+      "dimension": "玩法",
+      "excerpt": "Experience ever-changing missions as the battle against relentless enemy swarms reshapes the terrain. Destruction and enemy remains create new challenges and opportunities, demanding constant tactical adaptation.",
+      "url": "https://store.steampowered.com/app/2186360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "升级空间站科技树，持续解锁毁灭性炮塔、精英部队与战术工具",
+      "dimension": "玩法",
+      "excerpt": "Advance through a robust tech tree, upgrading your space station and unlocking devastating turrets, elite troops, and tactical tools to outlast the endless onslaught.",
+      "url": "https://store.steampowered.com/app/2186360/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 40143,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 70316,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6501,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 388473,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 41654,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 41654,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.729322656849572,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 677,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 79,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 78.991597,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "IDUN - 阵线推进官位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/d4f7530445d1d40496a9d243940b0fe77e563b1d/ss_d4f7530445d1d40496a9d243940b0fe77e563b1d.1920x1080.jpg?t=1780542675",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/d4f7530445d1d40496a9d243940b0fe77e563b1d/ss_d4f7530445d1d40496a9d243940b0fe77e563b1d.1920x1080.jpg?t=1780542675",
+        "alt": "IDUN - 阵线推进官 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/ss_4befb8808b97e79ce2b1019b6408344638698810.1920x1080.jpg?t=1780542675",
+        "alt": "IDUN - 阵线推进官 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/ss_8084edf7b72aef62e8d6ecdedeb7016fab77ad2d.1920x1080.jpg?t=1780542675",
+        "alt": "IDUN - 阵线推进官 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/ss_b3ce73d8b0539a257785c4be39b6ac93054ac81e.1920x1080.jpg?t=1780542675",
+        "alt": "IDUN - 阵线推进官 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/ss_20e21fae97b10b83bb7c528678b8d3f9e17718bb.1920x1080.jpg?t=1780542675",
+        "alt": "IDUN - 阵线推进官 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186360/67eb3df5662c539fa66ef3093d2e805acd0955ff/ss_67eb3df5662c539fa66ef3093d2e805acd0955ff.1920x1080.jpg?t=1780542675",
+        "alt": "IDUN - 阵线推进官 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

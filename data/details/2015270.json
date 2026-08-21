@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Rotwood","developers":["Klei Entertainment"],"publishers":["Klei Entertainment"],"release_status":"released","release_date":"2026-03-03","tags":["地牢探索","砍杀","轻度Rogue","玩家对环境","类Rogue"]},"hooks":[{"text":"每类武器都有专属连招与距离定位，可近身砸刺也可远程轰击","dimension":"玩法","excerpt":"Practice and perfect combo attacks for each weapon type to reach your destructive potential. Discover and upgrade different weapons and armor to further enhance your combat effectiveness. Master a variety of weapons or specialize in the one that suits you best. Each weapon type offers its own distinct combat style and benefits. Get in close to smash, slam, pierce, or hang back and blast your foes from a distance.","url":"https://store.steampowered.com/app/2015270/","label":"证据原文片段"},{"text":"Boss以独特招式与机制检验弱点分析和武器精通，胜利战利品用于挑战更强敌人","dimension":"玩法","excerpt":"Boss fights are not just a test of strength but also a test of skill. Each boss has unique attack patterns and mechanics, requiring careful analysis of their weaknesses and precise mastery of your weapons to tackle Rotwood's toughest foes. Victory grants you unique loot required to face ever-increasing challenges as you progress through the game!","url":"https://store.steampowered.com/app/2015270/","label":"证据原文片段"},{"text":"成长核心是练习与熟练度而非随机运气，让每轮技术进步可控","dimension":"玩法","excerpt":"While every run offers different powers and abilities, progression is built on skill and mastery rather than randomness. Through practice and proficiency, you’ll learn to take down increasingly formidable foes more effectively with greater efficiency and precision. The challenges ahead may be unpredictable, but your fate is not. While Rotwood has elements of randomness, true mastery comes from skill, adaptability, and precise execution, not luck.","url":"https://store.steampowered.com/app/2015270/","label":"证据原文片段"}],"opinions":[{"text":"画面表现很出色。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the game looks amazing","url":"https://steamcommunity.com/id/raphisane/recommended/2015270/","label":"证据原文片段"}]},{"text":"整体节奏缓慢且无聊。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"It felt slow and boring","url":"https://store.steampowered.com/curator/41005226-CATS-GAMING-REVIEWS/","label":"证据原文片段"}]},{"text":"武器战技复用导致职业差异不足。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"四种职业共用一个战技就很奇怪","url":"https://steamcommunity.com/profiles/76561199100801672/recommended/2015270/","label":"证据原文片段"}]},{"text":"攻击后摇无法立即用翻滚取消。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后摇无法立刻用翻滚打断了","url":"https://steamcommunity.com/profiles/76561199100801672/recommended/2015270/","label":"证据原文片段"}]},{"text":"更换流派成本过高，削弱尝试动力。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"更换流派的成本较高，需要重复投入大量时间重新刷取资源","url":"https://steamcommunity.com/id/mYmJesse/recommended/2015270/","label":"证据原文片段"}]},{"text":"缺乏肉鸽玩法的爽快感。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"没有肉鸽的快感","url":"https://steamcommunity.com/id/929150513/recommended/2015270/","label":"证据原文片段"}]},{"text":"大量神力缺乏实际意义。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"很多“神力”选择，但其中相当一部分缺乏实际意义","url":"https://steamcommunity.com/id/mYmJesse/recommended/2015270/","label":"证据原文片段"}]},{"text":"控制与功能流派不如单纯堆伤害有效。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"控制、功能性、玩法差异，最终都不如直接堆数值输出来得有效","url":"https://steamcommunity.com/id/mYmJesse/recommended/2015270/","label":"证据原文片段"}]},{"text":"后期体验极其枯燥。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期巨枯燥","url":"https://steamcommunity.com/profiles/76561199058901961/recommended/2015270/","label":"证据原文片段"}]},{"text":"快速战斗与灵敏控制让每场战斗都很满足。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Fast combat and responsive controls make every fight satisfying.","url":"https://store.steampowered.com/curator/43939029-The-Game-Report/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":556821,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":621489,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":46044,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":4615833,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":592335,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":592335,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.693717800333808,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":8126,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":75,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":74.947705,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["整体节奏缓慢且无聊。","武器战技复用导致职业差异不足。","攻击后摇无法立即用翻滚取消。","生命周期：正式版新增内容极少。","更换流派成本过高，削弱尝试动力。","缺乏肉鸽玩法的爽快感。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_4c25d241388383263d04cd1effd2d4bac4590930.1920x1080.jpg?t=1781205748","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_4c25d241388383263d04cd1effd2d4bac4590930.1920x1080.jpg?t=1781205748","alt":"熔炉密林 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_5a2cf72a35f57ecf4e633216cbe34324fc88a7dc.1920x1080.jpg?t=1781205748","alt":"熔炉密林 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_ffa9d9d88aeb9b205ad49e20358b425e7969f399.1920x1080.jpg?t=1781205748","alt":"熔炉密林 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_ba9b315246823fe0856c6fb9577c0f7cab2e56f6.1920x1080.jpg?t=1781205748","alt":"熔炉密林 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Rotwood",
+    "developers": [
+      "Klei Entertainment"
+    ],
+    "publishers": [
+      "Klei Entertainment"
+    ],
+    "release_status": "released",
+    "release_date": "2026-03-03",
+    "tags": [
+      "地牢探索",
+      "砍杀",
+      "轻度Rogue",
+      "玩家对环境",
+      "玩家对环境"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每类武器都有专属连招与距离定位，可近身砸刺也可远程轰击",
+      "dimension": "玩法",
+      "excerpt": "Practice and perfect combo attacks for each weapon type to reach your destructive potential. Discover and upgrade different weapons and armor to further enhance your combat effectiveness. Master a variety of weapons or specialize in the one that suits you best. Each weapon type offers its own distinct combat style and benefits. Get in close to smash, slam, pierce, or hang back and blast your foes from a distance.",
+      "url": "https://store.steampowered.com/app/2015270/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Boss以独特招式与机制检验弱点分析和武器精通，胜利战利品用于挑战更强敌人",
+      "dimension": "玩法",
+      "excerpt": "Boss fights are not just a test of strength but also a test of skill. Each boss has unique attack patterns and mechanics, requiring careful analysis of their weaknesses and precise mastery of your weapons to tackle Rotwood's toughest foes. Victory grants you unique loot required to face ever-increasing challenges as you progress through the game!",
+      "url": "https://store.steampowered.com/app/2015270/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "成长核心是练习与熟练度而非随机运气，让每轮技术进步可控",
+      "dimension": "玩法",
+      "excerpt": "While every run offers different powers and abilities, progression is built on skill and mastery rather than randomness. Through practice and proficiency, you’ll learn to take down increasingly formidable foes more effectively with greater efficiency and precision. The challenges ahead may be unpredictable, but your fate is not. While Rotwood has elements of randomness, true mastery comes from skill, adaptability, and precise execution, not luck.",
+      "url": "https://store.steampowered.com/app/2015270/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "画面表现很出色。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the game looks amazing",
+          "url": "https://steamcommunity.com/id/raphisane/recommended/2015270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体节奏缓慢且无聊。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "It felt slow and boring",
+          "url": "https://store.steampowered.com/curator/41005226-CATS-GAMING-REVIEWS/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器战技复用导致职业差异不足。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "四种职业共用一个战技就很奇怪",
+          "url": "https://steamcommunity.com/profiles/76561199100801672/recommended/2015270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "攻击后摇无法立即用翻滚取消。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后摇无法立刻用翻滚打断了",
+          "url": "https://steamcommunity.com/profiles/76561199100801672/recommended/2015270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "更换流派成本过高，削弱尝试动力。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "更换流派的成本较高，需要重复投入大量时间重新刷取资源",
+          "url": "https://steamcommunity.com/id/mYmJesse/recommended/2015270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺乏肉鸽玩法的爽快感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "没有肉鸽的快感",
+          "url": "https://steamcommunity.com/id/929150513/recommended/2015270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大量神力缺乏实际意义。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "很多“神力”选择，但其中相当一部分缺乏实际意义",
+          "url": "https://steamcommunity.com/id/mYmJesse/recommended/2015270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "控制与功能流派不如单纯堆伤害有效。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "控制、功能性、玩法差异，最终都不如直接堆数值输出来得有效",
+          "url": "https://steamcommunity.com/id/mYmJesse/recommended/2015270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期体验极其枯燥。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期巨枯燥",
+          "url": "https://steamcommunity.com/profiles/76561199058901961/recommended/2015270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "快速战斗与灵敏控制让每场战斗都很满足。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Fast combat and responsive controls make every fight satisfying.",
+          "url": "https://store.steampowered.com/curator/43939029-The-Game-Report/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 568861,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 625173,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 46126,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 4827460,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 605141,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 605141,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.168931144347697,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 7441,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 75,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 74.904803,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "整体节奏缓慢且无聊。",
+    "武器战技复用导致职业差异不足。",
+    "攻击后摇无法立即用翻滚取消。",
+    "生命周期：正式版新增内容极少。",
+    "更换流派成本过高，削弱尝试动力。",
+    "缺乏肉鸽玩法的爽快感。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "熔炉密林位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_4c25d241388383263d04cd1effd2d4bac4590930.1920x1080.jpg?t=1781205748",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_4c25d241388383263d04cd1effd2d4bac4590930.1920x1080.jpg?t=1781205748",
+        "alt": "熔炉密林 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_5a2cf72a35f57ecf4e633216cbe34324fc88a7dc.1920x1080.jpg?t=1781205748",
+        "alt": "熔炉密林 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_ffa9d9d88aeb9b205ad49e20358b425e7969f399.1920x1080.jpg?t=1781205748",
+        "alt": "熔炉密林 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_ba9b315246823fe0856c6fb9577c0f7cab2e56f6.1920x1080.jpg?t=1781205748",
+        "alt": "熔炉密林 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/d3d2b98ae9892e09cb8bcaafb04d8097b2132de4/ss_d3d2b98ae9892e09cb8bcaafb04d8097b2132de4.1920x1080.jpg?t=1781205748",
+        "alt": "熔炉密林 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_e110e8016547ad67fe3df6e5191eb65598174910.1920x1080.jpg?t=1781205748",
+        "alt": "熔炉密林 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_0f58c1a56fcccdab1aee26761dd893f5c079d6f1.1920x1080.jpg?t=1781205748",
+        "alt": "熔炉密林 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015270/ss_8df1665fb3075372473d1732b30e41fb95b55a62.1920x1080.jpg?t=1781205748",
+        "alt": "熔炉密林 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,316 @@
-{"identity":{"original_title":"The Perfect Tower II","developers":["Fire Sword Studios"],"publishers":["Fire Sword Studios"],"release_status":"released","release_date":"2025-11-30","tags":["塔防","策略","资源管理","动作","基地建设"]},"hooks":[{"text":"按升级方向自由选择挂机或主动操作的塔防构筑","dimension":"玩法","excerpt":"Choose if you want to play an idle or more active build by focusing on the upgrades that suit your playstyle and build the perfect tower!","url":"https://store.steampowered.com/app/1197260/","label":"证据原文片段"},{"text":"用可控制的AI自动化几乎所有游戏流程","dimension":"玩法","excerpt":"The Perfect Tower II features an AI that will let you automate almost everything so you can focus on discovering new and exciting things!","url":"https://store.steampowered.com/app/1197260/","label":"证据原文片段"},{"text":"探索15个区域和普通、无尽、挑战、挂机、沙盒5种模式","dimension":"玩法","excerpt":"Explore and conquer 15 different regions with 5 unique modes (Normal, Endless, Challenge, Idle, Sandbox)","url":"https://store.steampowered.com/app/1197260/","label":"证据原文片段"}],"opinions":[{"text":"手工重复制作组件非常繁琐","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"far to tedious to craft all the componets dozens of times by hand","url":"https://steamcommunity.com/id/Auto-matic/recommended/1197260/","label":"证据原文片段"}]},{"text":"缺少帮助功能说明目标","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the game has no help options to explain what to do","url":"https://steamcommunity.com/profiles/76561198127227500/recommended/1197260/","label":"证据原文片段"}]},{"text":"投入资源后的效果过小","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"grind money, invest for little effect, repeat","url":"https://steamcommunity.com/id/Auto-matic/recommended/1197260/","label":"证据原文片段"}]},{"text":"成长速度显著放缓","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the progression slows down significantly","url":"https://steamcommunity.com/profiles/76561199132707183/recommended/1197260/","label":"证据原文片段"}]},{"text":"许多系统沦为耗时刷取","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"many other aspects of the game are just tedious timesinks","url":"https://steamcommunity.com/id/Auto-matic/recommended/1197260/","label":"证据原文片段"}]},{"text":"成长路径过于模糊","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the intended way of progression is so vague","url":"https://steamcommunity.com/profiles/76561199132707183/recommended/1197260/","label":"证据原文片段"}]},{"text":"教程无法有效指导Era 1之后的进展","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the tutorial is not enough to help in any meaningful way, especially past era 1","url":"https://steamcommunity.com/profiles/76561199132707183/recommended/1197260/","label":"证据原文片段"}]},{"text":"新玩家很难找到游戏乐趣","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"for a new player, the fun of the \"game\" is hard to find","url":"https://steamcommunity.com/profiles/76561198003070398/recommended/1197260/","label":"证据原文片段"}]},{"text":"统计数值与实际情况不一致","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the stats are not reflecting what actually happens in the game","url":"https://steamcommunity.com/profiles/76561198127227500/recommended/1197260/","label":"证据原文片段"}]},{"text":"自定义自动化脚本机制有意思","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"interesting mechanics like creating your own automation scripts in a simple programming language","url":"https://store.steampowered.com/curator/44430808-Trupen/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":449324,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8896,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3541,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2399,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":449324,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":449324,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":105.06196564245192,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":4378,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.683417,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["手工重复制作组件非常繁琐","缺少帮助功能说明目标","投入资源后的效果过小","成长速度显著放缓","许多系统沦为耗时刷取","成长路径过于模糊"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_b508415ac54d442a38404e1314eb6eefd58ca0e1.1920x1080.jpg?t=1764515126","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_b508415ac54d442a38404e1314eb6eefd58ca0e1.1920x1080.jpg?t=1764515126","alt":"The Perfect Tower II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_87f6c3f9b84b4864356fea0f072b3e988b961cfa.1920x1080.jpg?t=1764515126","alt":"The Perfect Tower II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_e1a725641b57e46ededcdf624964f726e2f7f67c.1920x1080.jpg?t=1764515126","alt":"The Perfect Tower II 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_19ada117abf360bc08c65ad63469eb0bebe964ef.1920x1080.jpg?t=1764515126","alt":"The Perfect Tower II 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Perfect Tower II",
+    "developers": [
+      "Fire Sword Studios"
+    ],
+    "publishers": [
+      "Fire Sword Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-30",
+    "tags": [
+      "塔防",
+      "轻度Rogue",
+      "策略",
+      "塔防",
+      "资源管理"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "按升级方向自由选择挂机或主动操作的塔防构筑",
+      "dimension": "玩法",
+      "excerpt": "Choose if you want to play an idle or more active build by focusing on the upgrades that suit your playstyle and build the perfect tower!",
+      "url": "https://store.steampowered.com/app/1197260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用可控制的AI自动化几乎所有游戏流程",
+      "dimension": "玩法",
+      "excerpt": "The Perfect Tower II features an AI that will let you automate almost everything so you can focus on discovering new and exciting things!",
+      "url": "https://store.steampowered.com/app/1197260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "探索15个区域和普通、无尽、挑战、挂机、沙盒5种模式",
+      "dimension": "玩法",
+      "excerpt": "Explore and conquer 15 different regions with 5 unique modes (Normal, Endless, Challenge, Idle, Sandbox)",
+      "url": "https://store.steampowered.com/app/1197260/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "手工重复制作组件非常繁琐",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "far to tedious to craft all the componets dozens of times by hand",
+          "url": "https://steamcommunity.com/id/Auto-matic/recommended/1197260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少帮助功能说明目标",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the game has no help options to explain what to do",
+          "url": "https://steamcommunity.com/profiles/76561198127227500/recommended/1197260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "投入资源后的效果过小",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "grind money, invest for little effect, repeat",
+          "url": "https://steamcommunity.com/id/Auto-matic/recommended/1197260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成长速度显著放缓",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the progression slows down significantly",
+          "url": "https://steamcommunity.com/profiles/76561199132707183/recommended/1197260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "许多系统沦为耗时刷取",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "many other aspects of the game are just tedious timesinks",
+          "url": "https://steamcommunity.com/id/Auto-matic/recommended/1197260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成长路径过于模糊",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the intended way of progression is so vague",
+          "url": "https://steamcommunity.com/profiles/76561199132707183/recommended/1197260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "教程无法有效指导Era 1之后的进展",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the tutorial is not enough to help in any meaningful way, especially past era 1",
+          "url": "https://steamcommunity.com/profiles/76561199132707183/recommended/1197260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "新玩家很难找到游戏乐趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "for a new player, the fun of the \"game\" is hard to find",
+          "url": "https://steamcommunity.com/profiles/76561198003070398/recommended/1197260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "统计数值与实际情况不一致",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the stats are not reflecting what actually happens in the game",
+          "url": "https://steamcommunity.com/profiles/76561198127227500/recommended/1197260/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "自定义自动化脚本机制有意思",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "interesting mechanics like creating your own automation scripts in a simple programming language",
+          "url": "https://store.steampowered.com/curator/44430808-Trupen/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 585181,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 8949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3567,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 17949,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 585181,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 585181,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 76.8959371865959,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 4411,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.643991,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "手工重复制作组件非常繁琐",
+    "缺少帮助功能说明目标",
+    "投入资源后的效果过小",
+    "成长速度显著放缓",
+    "许多系统沦为耗时刷取",
+    "成长路径过于模糊"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "The Perfect Tower II位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_b508415ac54d442a38404e1314eb6eefd58ca0e1.1920x1080.jpg?t=1764515126",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_b508415ac54d442a38404e1314eb6eefd58ca0e1.1920x1080.jpg?t=1764515126",
+        "alt": "The Perfect Tower II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_87f6c3f9b84b4864356fea0f072b3e988b961cfa.1920x1080.jpg?t=1764515126",
+        "alt": "The Perfect Tower II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_e1a725641b57e46ededcdf624964f726e2f7f67c.1920x1080.jpg?t=1764515126",
+        "alt": "The Perfect Tower II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_19ada117abf360bc08c65ad63469eb0bebe964ef.1920x1080.jpg?t=1764515126",
+        "alt": "The Perfect Tower II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_1c1c03c3778a3198664ecf35594f7bedcb5668e3.1920x1080.jpg?t=1764515126",
+        "alt": "The Perfect Tower II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_241c72c5fa67ad62a57aaa04561ada993608102e.1920x1080.jpg?t=1764515126",
+        "alt": "The Perfect Tower II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_a397396425cb061ba2688c6bd41551b77cf140b1.1920x1080.jpg?t=1764515126",
+        "alt": "The Perfect Tower II 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/ss_6f31690911982388612e3c89c019c997d9bf1f30.1920x1080.jpg?t=1764515126",
+        "alt": "The Perfect Tower II 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,218 @@
-{"identity":{"original_title":"CAPTURED 2","developers":["Puck Redflix"],"publishers":["Puck Games"],"release_status":"released","release_date":"2026-04-22","tags":["恐怖","探索","冒险","剧情丰富","写实"]},"hooks":[{"text":"用相机记录异常并判断其类型，以此推进无尽公寓回廊的逃脱。","dimension":"玩法","excerpt":"Capture strange anomalies using your camera and identify their type.","url":"https://store.steampowered.com/app/3390880/","label":"证据原文片段"},{"text":"手电、相机和房门都是生存工具，用来应对每个实体不同的袭击机制。","dimension":"玩法","excerpt":"Use your flashlight, camera, and the very doors around you to survive each entity’s unique mechanics.","url":"https://store.steampowered.com/app/3390880/","label":"证据原文片段"},{"text":"写实画面、VHS九十年代美学与动态镜头共同呈现模拟录像式恐怖。","dimension":"画风","excerpt":"Immerse yourself in an analog horror experience featuring realistic graphics, a VHS 90s aesthetic, a dynamic camera system, and immersive flashlight movement.","url":"https://store.steampowered.com/app/3390880/","label":"证据原文片段"}],"opinions":[{"text":"除找异常外的额外机制受到认可","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"there's mechanics beyond just anomaly hunting which is appreciated.","url":"https://steamcommunity.com/id/ADarkRaccoon/recommended/3390880/","label":"证据原文片段"}]},{"text":"潜行机制让找异常流程更刺激","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"还增加了一个潜行的机制，游戏体验更刺激。","url":"https://steamcommunity.com/profiles/76561199096922305/recommended/3390880/","label":"证据原文片段"}]},{"text":"逐步揭示的故事深受喜爱","dimension":"剧情","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I loved the story that you slowly uncover","url":"https://steamcommunity.com/profiles/76561198075576774/recommended/3390880/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":13280,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":53381,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2289,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":88795,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":13900,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":13900,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.1457220542231323,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":534,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":99,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":99.070632,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"进入深度拆解","target":"除找异常外的额外机制受到认可","reason":"已有经人工确认且可追溯的正向玩家观点，可进入具体机制或卖点验证。","trigger":"完成机制拆解或轻量原型后，根据移动端操作、节奏与内容成本决定升级或降级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/26db9a11fe59f27bda06b96a509c9a97e0cc0553/ss_26db9a11fe59f27bda06b96a509c9a97e0cc0553.1920x1080.jpg?t=1778332368","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/26db9a11fe59f27bda06b96a509c9a97e0cc0553/ss_26db9a11fe59f27bda06b96a509c9a97e0cc0553.1920x1080.jpg?t=1778332368","alt":"CAPTURED 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/d75de7a669453402bf93f28f0e534a80840f63bf/ss_d75de7a669453402bf93f28f0e534a80840f63bf.1920x1080.jpg?t=1778332368","alt":"CAPTURED 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/516ed6b1530b648635ca26bc900cca7eb9b099c5/ss_516ed6b1530b648635ca26bc900cca7eb9b099c5.1920x1080.jpg?t=1778332368","alt":"CAPTURED 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/27b35adff09e19d4123697778ff6cdd253b2686c/ss_27b35adff09e19d4123697778ff6cdd253b2686c.1920x1080.jpg?t=1778332368","alt":"CAPTURED 2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "CAPTURED 2",
+    "developers": [
+      "Puck Redflix"
+    ],
+    "publishers": [
+      "Puck Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-22",
+    "tags": [
+      "恐怖",
+      "恐怖",
+      "探索",
+      "冒险",
+      "剧情丰富"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用相机记录异常并判断其类型，以此推进无尽公寓回廊的逃脱。",
+      "dimension": "玩法",
+      "excerpt": "Capture strange anomalies using your camera and identify their type.",
+      "url": "https://store.steampowered.com/app/3390880/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "手电、相机和房门都是生存工具，用来应对每个实体不同的袭击机制。",
+      "dimension": "玩法",
+      "excerpt": "Use your flashlight, camera, and the very doors around you to survive each entity’s unique mechanics.",
+      "url": "https://store.steampowered.com/app/3390880/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "写实画面、VHS九十年代美学与动态镜头共同呈现模拟录像式恐怖。",
+      "dimension": "画风",
+      "excerpt": "Immerse yourself in an analog horror experience featuring realistic graphics, a VHS 90s aesthetic, a dynamic camera system, and immersive flashlight movement.",
+      "url": "https://store.steampowered.com/app/3390880/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "除找异常外的额外机制受到认可",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "there's mechanics beyond just anomaly hunting which is appreciated.",
+          "url": "https://steamcommunity.com/id/ADarkRaccoon/recommended/3390880/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "潜行机制让找异常流程更刺激",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "还增加了一个潜行的机制，游戏体验更刺激。",
+          "url": "https://steamcommunity.com/profiles/76561199096922305/recommended/3390880/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "逐步揭示的故事深受喜爱",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I loved the story that you slowly uncover",
+          "url": "https://steamcommunity.com/profiles/76561198075576774/recommended/3390880/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 15205,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 56254,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2354,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 100025,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 16020,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 16020,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.2422122282684467,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 523,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 99,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 98.584071,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "CAPTURED 2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/26db9a11fe59f27bda06b96a509c9a97e0cc0553/ss_26db9a11fe59f27bda06b96a509c9a97e0cc0553.1920x1080.jpg?t=1778332368",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/26db9a11fe59f27bda06b96a509c9a97e0cc0553/ss_26db9a11fe59f27bda06b96a509c9a97e0cc0553.1920x1080.jpg?t=1778332368",
+        "alt": "CAPTURED 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/d75de7a669453402bf93f28f0e534a80840f63bf/ss_d75de7a669453402bf93f28f0e534a80840f63bf.1920x1080.jpg?t=1778332368",
+        "alt": "CAPTURED 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/516ed6b1530b648635ca26bc900cca7eb9b099c5/ss_516ed6b1530b648635ca26bc900cca7eb9b099c5.1920x1080.jpg?t=1778332368",
+        "alt": "CAPTURED 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/27b35adff09e19d4123697778ff6cdd253b2686c/ss_27b35adff09e19d4123697778ff6cdd253b2686c.1920x1080.jpg?t=1778332368",
+        "alt": "CAPTURED 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/5ab1b700d6fdbc737b4c2036c93e30d846683e9d/ss_5ab1b700d6fdbc737b4c2036c93e30d846683e9d.1920x1080.jpg?t=1778332368",
+        "alt": "CAPTURED 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/ss_5e96b919484d232be2a887076e5705ff2aced46c.1920x1080.jpg?t=1778332368",
+        "alt": "CAPTURED 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/7106ff7293fd05c88029c8511e55aa9ff831ad9b/ss_7106ff7293fd05c88029c8511e55aa9ff831ad9b.1920x1080.jpg?t=1778332368",
+        "alt": "CAPTURED 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390880/ss_53c953364b655b1d0bf54b6431586572fd36f677.1920x1080.jpg?t=1778332368",
+        "alt": "CAPTURED 2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

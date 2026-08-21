@@ -1,1 +1,316 @@
-{"identity":{"original_title":"The King is Watching","developers":["Hypnohead"],"publishers":["tinyBuild"],"release_status":"released","release_date":"2025-07-21","tags":["类Rogue","基地建设","即时战略","塔防","黑暗奇幻"]},"hooks":[{"text":"农民、矿工和骑士只有被国王视线覆盖时才工作，移开目光就会停摆","dimension":"玩法","excerpt":"Ah, my glorious kingdom! A land where peasants toil, miners dig, and knights train... but only when I look at them! My gaze is law—progress thrives where I watch, but the moment I turn away? Laziness! Chaos!","url":"https://store.steampowered.com/app/2753900/","label":"证据原文片段"},{"text":"有限注视范围要在农田、矿井与兵营之间切换，还能投入资源扩大监控区域","dimension":"玩法","excerpt":"I must choose wisely: should I focus on the fields for food, the mines for riches, or the barracks for defense? With resources, I can even expand my all-seeing gaze, ensuring my kingdom flourishes… and that no one slacks off under my rule!","url":"https://store.steampowered.com/app/2753900/","label":"证据原文片段"},{"text":"每次败亡都会转化为永久升级，为下一任王朝解锁能力、防御和新策略","dimension":"玩法","excerpt":"Yet every defeat is a lesson! As a true roguelite, my efforts grant permanent upgrades, unlocking new abilities, stronger defenses, and powerful strategies for my next reign.","url":"https://store.steampowered.com/app/2753900/","label":"证据原文片段"}],"opinions":[{"text":"后期关卡过度依赖运气","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"导致越后期的关卡越看脸","url":"https://steamcommunity.com/profiles/76561198314797644/recommended/2753900/","label":"证据原文片段"}]},{"text":"中后期大量卡牌缺乏作用","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"大部分中后期加入的卡纯粹时陷阱没有任何作用","url":"https://steamcommunity.com/profiles/76561198314797644/recommended/2753900/","label":"证据原文片段"}]},{"text":"局外成长需要投入大量时间解锁","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"巨量局外解锁（多肝）","url":"https://steamcommunity.com/profiles/76561199490833022/recommended/2753900/","label":"证据原文片段"}]},{"text":"局外成长设计过度","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"局外成长过于逆天","url":"https://steamcommunity.com/profiles/76561198286631266/recommended/2753900/","label":"证据原文片段"}]},{"text":"按到非快捷键会直接闪退","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"在键盘上按到除了游戏快捷键的按键就是直接闪退","url":"https://steamcommunity.com/id/1209973913/recommended/2753900/","label":"证据原文片段"}]},{"text":"高难度通过限制玩家操作来施压","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"高难纯各种限制玩家操作","url":"https://steamcommunity.com/profiles/76561199490833022/recommended/2753900/","label":"证据原文片段"}]},{"text":"策略、解谜与城建的混合体验很出色","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Шикарная смесь стратегии, головоломки, градостроения.","url":"https://dtf.ru/games/4013285-obzor-igry-the-king-is-watching","label":"证据原文片段"}]},{"text":"高压节奏带来令人上瘾的乐趣","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"keeps the pressure high and the fun addictive.","url":"https://store.steampowered.com/curator/44903193-Strategy-Management-Duck/","label":"证据原文片段"}]},{"text":"核心玩法循环令人非常满足","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"a very satisfying gameplay loop.","url":"https://www.gamingonlinux.com/2025/08/keep-a-close-eye-on-your-kingdom-in-the-king-is-watching/","label":"证据原文片段"}]},{"text":"RTS塔防玩法有趣","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"A fun RTS TD game.","url":"https://steamcommunity.com/profiles/76561199033090295/recommended/2753900/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":622160,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":659623,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":39019,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6166700,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":690601,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":690601,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":18.695612441428953,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":10157,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.863748,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["后期关卡过度依赖运气","中后期大量卡牌缺乏作用","局外成长需要投入大量时间解锁","局外成长设计过度","技术/性能：按到非快捷键会直接闪退","高难度通过限制玩家操作来施压"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/bcc1b6c146b2420210e72118fc33074db1e6bafd/ss_bcc1b6c146b2420210e72118fc33074db1e6bafd.1920x1080.jpg?t=1784211595","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/bcc1b6c146b2420210e72118fc33074db1e6bafd/ss_bcc1b6c146b2420210e72118fc33074db1e6bafd.1920x1080.jpg?t=1784211595","alt":"王之凝视 (The King is Watching) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/b066f4b8bfecc720beb6a477ad201027ad154155/ss_b066f4b8bfecc720beb6a477ad201027ad154155.1920x1080.jpg?t=1784211595","alt":"王之凝视 (The King is Watching) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/425ca3619b69f688aa127b382a2859695f14a3d0/ss_425ca3619b69f688aa127b382a2859695f14a3d0.1920x1080.jpg?t=1784211595","alt":"王之凝视 (The King is Watching) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/70c1ef91cfd638f4a18e24e0e46f0aae37dbda29/ss_70c1ef91cfd638f4a18e24e0e46f0aae37dbda29.1920x1080.jpg?t=1784211595","alt":"王之凝视 (The King is Watching) 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The King is Watching",
+    "developers": [
+      "Hypnohead"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ],
+    "release_status": "released",
+    "release_date": "2025-07-21",
+    "tags": [
+      "类Rogue",
+      "基地建设",
+      "塔防",
+      "即时战略",
+      "黑暗奇幻"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "农民、矿工和骑士只有被国王视线覆盖时才工作，移开目光就会停摆",
+      "dimension": "玩法",
+      "excerpt": "Ah, my glorious kingdom! A land where peasants toil, miners dig, and knights train... but only when I look at them! My gaze is law—progress thrives where I watch, but the moment I turn away? Laziness! Chaos!",
+      "url": "https://store.steampowered.com/app/2753900/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "有限注视范围要在农田、矿井与兵营之间切换，还能投入资源扩大监控区域",
+      "dimension": "玩法",
+      "excerpt": "I must choose wisely: should I focus on the fields for food, the mines for riches, or the barracks for defense? With resources, I can even expand my all-seeing gaze, ensuring my kingdom flourishes… and that no one slacks off under my rule!",
+      "url": "https://store.steampowered.com/app/2753900/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次败亡都会转化为永久升级，为下一任王朝解锁能力、防御和新策略",
+      "dimension": "玩法",
+      "excerpt": "Yet every defeat is a lesson! As a true roguelite, my efforts grant permanent upgrades, unlocking new abilities, stronger defenses, and powerful strategies for my next reign.",
+      "url": "https://store.steampowered.com/app/2753900/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "后期关卡过度依赖运气",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "导致越后期的关卡越看脸",
+          "url": "https://steamcommunity.com/profiles/76561198314797644/recommended/2753900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "中后期大量卡牌缺乏作用",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "大部分中后期加入的卡纯粹时陷阱没有任何作用",
+          "url": "https://steamcommunity.com/profiles/76561198314797644/recommended/2753900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局外成长需要投入大量时间解锁",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "巨量局外解锁（多肝）",
+          "url": "https://steamcommunity.com/profiles/76561199490833022/recommended/2753900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局外成长设计过度",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "局外成长过于逆天",
+          "url": "https://steamcommunity.com/profiles/76561198286631266/recommended/2753900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "按到非快捷键会直接闪退",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "在键盘上按到除了游戏快捷键的按键就是直接闪退",
+          "url": "https://steamcommunity.com/id/1209973913/recommended/2753900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高难度通过限制玩家操作来施压",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "高难纯各种限制玩家操作",
+          "url": "https://steamcommunity.com/profiles/76561199490833022/recommended/2753900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "策略、解谜与城建的混合体验很出色",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Шикарная смесь стратегии, головоломки, градостроения.",
+          "url": "https://dtf.ru/games/4013285-obzor-igry-the-king-is-watching",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高压节奏带来令人上瘾的乐趣",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "keeps the pressure high and the fun addictive.",
+          "url": "https://store.steampowered.com/curator/44903193-Strategy-Management-Duck/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心玩法循环令人非常满足",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a very satisfying gameplay loop.",
+          "url": "https://www.gamingonlinux.com/2025/08/keep-a-close-eye-on-your-kingdom-in-the-king-is-watching/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "RTS塔防玩法有趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "A fun RTS TD game.",
+          "url": "https://steamcommunity.com/profiles/76561199033090295/recommended/2753900/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 638747,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 658420,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 39371,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 6253311,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 708864,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 708864,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 18.892372638367824,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 8854,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.887812,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "后期关卡过度依赖运气",
+    "中后期大量卡牌缺乏作用",
+    "局外成长需要投入大量时间解锁",
+    "局外成长设计过度",
+    "技术/性能：按到非快捷键会直接闪退",
+    "高难度通过限制玩家操作来施压"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "王之凝视 (The King is Watching)位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/bcc1b6c146b2420210e72118fc33074db1e6bafd/ss_bcc1b6c146b2420210e72118fc33074db1e6bafd.1920x1080.jpg?t=1784211595",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/bcc1b6c146b2420210e72118fc33074db1e6bafd/ss_bcc1b6c146b2420210e72118fc33074db1e6bafd.1920x1080.jpg?t=1785514028",
+        "alt": "王之凝视 (The King is Watching) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/b066f4b8bfecc720beb6a477ad201027ad154155/ss_b066f4b8bfecc720beb6a477ad201027ad154155.1920x1080.jpg?t=1785514028",
+        "alt": "王之凝视 (The King is Watching) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/425ca3619b69f688aa127b382a2859695f14a3d0/ss_425ca3619b69f688aa127b382a2859695f14a3d0.1920x1080.jpg?t=1785514028",
+        "alt": "王之凝视 (The King is Watching) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/70c1ef91cfd638f4a18e24e0e46f0aae37dbda29/ss_70c1ef91cfd638f4a18e24e0e46f0aae37dbda29.1920x1080.jpg?t=1785514028",
+        "alt": "王之凝视 (The King is Watching) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/4043c19939e7964a77c9b4a7948bc4040fd4c9ef/ss_4043c19939e7964a77c9b4a7948bc4040fd4c9ef.1920x1080.jpg?t=1785514028",
+        "alt": "王之凝视 (The King is Watching) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/1cecdb69932a280fa1de0c8e8e2a6d08bcf18313/ss_1cecdb69932a280fa1de0c8e8e2a6d08bcf18313.1920x1080.jpg?t=1785514028",
+        "alt": "王之凝视 (The King is Watching) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/30850c6739d5ff723230c3608e9051af45db725d/ss_30850c6739d5ff723230c3608e9051af45db725d.1920x1080.jpg?t=1785514028",
+        "alt": "王之凝视 (The King is Watching) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/70973ce378523b40b536594e75920216cb56cd96/ss_70973ce378523b40b536594e75920216cb56cd96.1920x1080.jpg?t=1785514028",
+        "alt": "王之凝视 (The King is Watching) 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

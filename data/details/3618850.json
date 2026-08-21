@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Pronoun Palace","developers":["Cadence Petersen","Hazel Fackler"],"publishers":["Cadence Petersen","Hazel Fackler"],"release_status":"released","release_date":"2026-06-04","tags":["类Rogue","单人游戏","休闲","解谜","轻度Rogue"]},"hooks":[{"text":"木字母负责攻击，塑料字母负责防御","dimension":"玩法","excerpt":"Strategize your spelling; use wooden tiles to attack and plastic tiles to defend.","url":"https://store.steampowered.com/app/3618850/","label":"证据原文片段"},{"text":"法术可移位字母、变糖果，并用通配符自动成词","dimension":"玩法","excerpt":"Activate spells to manipulate tiles to your favor—shift letters across the alphabet, turn tiles into candy, and watch words spell themselves with wildcards.","url":"https://store.steampowered.com/app/3618850/","label":"证据原文片段"},{"text":"角色能力可打孔字牌、一次交多词、钓指定字母或处理定时炸弹","dimension":"玩法","excerpt":"Take advantage of their unique abilities to hole punch tiles and submit multiple words at once, weave through fish to catch specific letters, or juggle ticking bombs against a racing clock!","url":"https://store.steampowered.com/app/3618850/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":20535,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":50839,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2176,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":348958,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":21606,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":21606,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.32828940840071,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1144,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":99,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":99.220104,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、单人游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/c7dd5e5dafa0525189384c805126d8541ab0b4b0/ss_c7dd5e5dafa0525189384c805126d8541ab0b4b0.1920x1080.jpg?t=1780581654","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/c7dd5e5dafa0525189384c805126d8541ab0b4b0/ss_c7dd5e5dafa0525189384c805126d8541ab0b4b0.1920x1080.jpg?t=1780581654","alt":"Pronoun Palace 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/83a0cbad1fa1aef98bca8f99e496e0bf122782ca/ss_83a0cbad1fa1aef98bca8f99e496e0bf122782ca.1920x1080.jpg?t=1780581654","alt":"Pronoun Palace 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/e21c76513efc7149d7178c5fc90a29343ef21eb9/ss_e21c76513efc7149d7178c5fc90a29343ef21eb9.1920x1080.jpg?t=1780581654","alt":"Pronoun Palace 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/86a411f44aea7fc48ac095cca1bda74f972ca2cb/ss_86a411f44aea7fc48ac095cca1bda74f972ca2cb.1920x1080.jpg?t=1780581654","alt":"Pronoun Palace 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pronoun Palace",
+    "developers": [
+      "Cadence Petersen",
+      "Hazel Fackler"
+    ],
+    "publishers": [
+      "Cadence Petersen",
+      "Hazel Fackler"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-04",
+    "tags": [
+      "策略",
+      "塔防",
+      "类Rogue",
+      "类Rogue",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "木字母负责攻击，塑料字母负责防御",
+      "dimension": "玩法",
+      "excerpt": "Strategize your spelling; use wooden tiles to attack and plastic tiles to defend.",
+      "url": "https://store.steampowered.com/app/3618850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "法术可移位字母、变糖果，并用通配符自动成词",
+      "dimension": "玩法",
+      "excerpt": "Activate spells to manipulate tiles to your favor—shift letters across the alphabet, turn tiles into candy, and watch words spell themselves with wildcards.",
+      "url": "https://store.steampowered.com/app/3618850/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "角色能力可打孔字牌、一次交多词、钓指定字母或处理定时炸弹",
+      "dimension": "玩法",
+      "excerpt": "Take advantage of their unique abilities to hole punch tiles and submit multiple words at once, weave through fish to catch specific letters, or juggle ticking bombs against a racing clock!",
+      "url": "https://store.steampowered.com/app/3618850/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 21734,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 53697,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2305,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 371033,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 22887,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 22887,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.786013810374858,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1148,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 99,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 99.191593,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Pronoun Palace位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/c7dd5e5dafa0525189384c805126d8541ab0b4b0/ss_c7dd5e5dafa0525189384c805126d8541ab0b4b0.1920x1080.jpg?t=1780581654",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/c7dd5e5dafa0525189384c805126d8541ab0b4b0/ss_c7dd5e5dafa0525189384c805126d8541ab0b4b0.1920x1080.jpg?t=1785370136",
+        "alt": "Pronoun Palace 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/83a0cbad1fa1aef98bca8f99e496e0bf122782ca/ss_83a0cbad1fa1aef98bca8f99e496e0bf122782ca.1920x1080.jpg?t=1785370136",
+        "alt": "Pronoun Palace 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/e21c76513efc7149d7178c5fc90a29343ef21eb9/ss_e21c76513efc7149d7178c5fc90a29343ef21eb9.1920x1080.jpg?t=1785370136",
+        "alt": "Pronoun Palace 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/86a411f44aea7fc48ac095cca1bda74f972ca2cb/ss_86a411f44aea7fc48ac095cca1bda74f972ca2cb.1920x1080.jpg?t=1785370136",
+        "alt": "Pronoun Palace 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/a69763b820dc33267a5a6c6ba005ffc8e96a2f46/ss_a69763b820dc33267a5a6c6ba005ffc8e96a2f46.1920x1080.jpg?t=1785370136",
+        "alt": "Pronoun Palace 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/6ebfa6ea709d11d0d611f984fc395c2deb627f8b/ss_6ebfa6ea709d11d0d611f984fc395c2deb627f8b.1920x1080.jpg?t=1785370136",
+        "alt": "Pronoun Palace 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/5af17192d257e6354388c84603cb84ce677450e6/ss_5af17192d257e6354388c84603cb84ce677450e6.1920x1080.jpg?t=1785370136",
+        "alt": "Pronoun Palace 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618850/141ca8f8a48de26ce4b9e1d2e8fd20ef1757e57d/ss_141ca8f8a48de26ce4b9e1d2e8fd20ef1757e57d.1920x1080.jpg?t=1785370136",
+        "alt": "Pronoun Palace 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

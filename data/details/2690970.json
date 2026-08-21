@@ -1,1 +1,159 @@
-{"identity":{"original_title":"垃圾桶军团","developers":["房子猫"],"publishers":["房子猫"],"release_status":"released","release_date":"2024-01-23","tags":["休闲","塔防","二维画面","可爱","幽默"]},"hooks":[{"text":"同一战役可守护家园或加入垃圾桶军团","dimension":"玩法","excerpt":"27 standard levels to resist the attack of the Garbage Can Legion! ● 9 attack levels, join the trash can legion!","url":"https://store.steampowered.com/app/2690970/","label":"证据原文片段"},{"text":"随机模式出牌可召出任意角色甚至敌人","dimension":"玩法","excerpt":"Using your character card will randomly appear any character, even enemies! This will make your gaming experience full of surprises!","url":"https://store.steampowered.com/app/2690970/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":135771,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3180,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":135771,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":135771,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.609581192905189,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1706,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.893318,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲、塔防","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_cb62d9fcf23e024da94ffc8a2076e70c599d5cb6.1920x1080.jpg?t=1729098177","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_cb62d9fcf23e024da94ffc8a2076e70c599d5cb6.1920x1080.jpg?t=1729098177","alt":"垃圾桶军团 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_ad68e7b0b75fa7cab97f52f8b15f41b728300f4a.1920x1080.jpg?t=1729098177","alt":"垃圾桶军团 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_9f52a0eaecd8fc961ba77425c8d00e106f597310.1920x1080.jpg?t=1729098177","alt":"垃圾桶军团 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_e1f2e45b6629962af6bb9fc0faa4098ac54d642a.1920x1080.jpg?t=1729098177","alt":"垃圾桶军团 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "垃圾桶军团",
+    "developers": [
+      "房子猫"
+    ],
+    "publishers": [
+      "房子猫"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-23",
+    "tags": [
+      "休闲",
+      "塔防",
+      "二维画面",
+      "可爱",
+      "幽默"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "同一战役可守护家园或加入垃圾桶军团",
+      "dimension": "玩法",
+      "excerpt": "27 standard levels to resist the attack of the Garbage Can Legion! ● 9 attack levels, join the trash can legion!",
+      "url": "https://store.steampowered.com/app/2690970/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "随机模式出牌可召出任意角色甚至敌人",
+      "dimension": "玩法",
+      "excerpt": "Using your character card will randomly appear any character, even enemies! This will make your gaming experience full of surprises!",
+      "url": "https://store.steampowered.com/app/2690970/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 144824,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3182,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 144824,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 144824,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.4854245608923151,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1709,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.783626,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "垃圾桶军团位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_cb62d9fcf23e024da94ffc8a2076e70c599d5cb6.1920x1080.jpg?t=1729098177",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_cb62d9fcf23e024da94ffc8a2076e70c599d5cb6.1920x1080.jpg?t=1729098177",
+        "alt": "垃圾桶军团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_ad68e7b0b75fa7cab97f52f8b15f41b728300f4a.1920x1080.jpg?t=1729098177",
+        "alt": "垃圾桶军团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_9f52a0eaecd8fc961ba77425c8d00e106f597310.1920x1080.jpg?t=1729098177",
+        "alt": "垃圾桶军团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_e1f2e45b6629962af6bb9fc0faa4098ac54d642a.1920x1080.jpg?t=1729098177",
+        "alt": "垃圾桶军团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690970/ss_a80491b7518ba00e629390ca71b44a6ecb5907c2.1920x1080.jpg?t=1729098177",
+        "alt": "垃圾桶军团 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

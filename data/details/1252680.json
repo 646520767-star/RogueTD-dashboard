@@ -1,1 +1,303 @@
-{"identity":{"original_title":"SENTRY","developers":["Fireblade Software"],"publishers":["Fireblade Software"],"release_status":"early_access","release_date":"2024-03-25","tags":["塔防","策略","科幻","生存","动作"]},"hooks":[{"text":"导航选择逃生路线并守护遭登舰的各子系统","dimension":"玩法","excerpt":"As you choose your escape route in the Navigator, encounters with alien vessels are unavoidable. They will board your ship and attempt to fight their way through different subsystems to destroy the Core.","url":"https://store.steampowered.com/app/1252680/","label":"证据原文片段"},{"text":"枪战结合陷阱、炮塔与舱门泄压破坏","dimension":"玩法","excerpt":"Even with the best shooting abilities, holding back the hordes is only possible by deploying traps and turrets - and if all else fails, utilizing environmental destruction to stem their advance; a well-timed shot could vent aliens into space, a closed blast door could buy you time to set up new defenses.","url":"https://store.steampowered.com/app/1252680/","label":"证据原文片段"},{"text":"守关失败不读档，而是重塑舰船战略态势","dimension":"玩法","excerpt":"Even if you fail to defend a level, defeat only changes the strategic landscape in the Ship Overview, forcing you to make new decisions on where to make your next defiant stand.","url":"https://store.steampowered.com/app/1252680/","label":"证据原文片段"}],"opinions":[{"text":"敌人血量与伤害过高","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"they have too much hp and they deal too much damage.","url":"https://steamcommunity.com/id/concrocotta/recommended/1252680/","label":"证据原文片段"}]},{"text":"联机功能目前近乎不可用","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"联机功能目前是摆设","url":"https://steamcommunity.com/profiles/76561199179150236/recommended/1252680/","label":"证据原文片段"}]},{"text":"整体游玩重复性较高","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游玩重复性很高","url":"https://steamcommunity.com/profiles/76561199179150236/recommended/1252680/","label":"证据原文片段"}]},{"text":"相同关卡会连续重复出现","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the same levels being played back to back","url":"https://steamcommunity.com/id/earthmrskull/recommended/1252680/","label":"证据原文片段"}]},{"text":"手柄支持不可正常使用","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Dont add a Gamepad option to your game unless it works pls.","url":"https://steamcommunity.com/profiles/76561199085016460/recommended/1252680/","label":"证据原文片段"}]},{"text":"难度惩罚残酷且缺乏乐趣","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"brutally punishing in ways that just aren’t fun.","url":"https://steamcommunity.com/profiles/76561198158682407/recommended/1252680/","label":"证据原文片段"}]},{"text":"即时战斗本身表现很好","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The core is there, the moment to moment gameplay is great.","url":"https://steamcommunity.com/id/earthmrskull/recommended/1252680/","label":"证据原文片段"}]},{"text":"地图中的一些互动元素很有趣","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"地图有些互动元素很有意思","url":"https://steamcommunity.com/profiles/76561199179150236/recommended/1252680/","label":"证据原文片段"}]},{"text":"即时战斗与静态防御结合的核心玩法有吸引力","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I LOVE this genre - combining active gameplay with the usually passive tower defense.","url":"https://steamcommunity.com/id/concrocotta/recommended/1252680/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":29165,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":183013,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":13983,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":512733,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":30455,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":30455,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.827738576646832,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":892,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.06278,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["敌人血量与伤害过高","技术/性能：联机功能目前近乎不可用","整体游玩重复性较高","相同关卡会连续重复出现","技术/性能：手柄支持不可正常使用","难度惩罚残酷且缺乏乐趣"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_ec4c8d10f2766577c6e74a3d1f08174e402f244c.1920x1080.jpg?t=1781879508","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_ec4c8d10f2766577c6e74a3d1f08174e402f244c.1920x1080.jpg?t=1781879508","alt":"SENTRY 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_0986f214c167323b87253b2927f58d7aba18d81d.1920x1080.jpg?t=1781879508","alt":"SENTRY 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_6072d7ed5283ac613fe3d83ebfa8a4f8f3796d1f.1920x1080.jpg?t=1781879508","alt":"SENTRY 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/88014f7e384ca0f609516e866e2d400799ca07ae/ss_88014f7e384ca0f609516e866e2d400799ca07ae.1920x1080.jpg?t=1781879508","alt":"SENTRY 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "SENTRY",
+    "developers": [
+      "Fireblade Software"
+    ],
+    "publishers": [
+      "Fireblade Software"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-03-25",
+    "tags": [
+      "塔防",
+      "策略",
+      "轻度Rogue",
+      "科幻",
+      "生存"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "导航选择逃生路线并守护遭登舰的各子系统",
+      "dimension": "玩法",
+      "excerpt": "As you choose your escape route in the Navigator, encounters with alien vessels are unavoidable. They will board your ship and attempt to fight their way through different subsystems to destroy the Core.",
+      "url": "https://store.steampowered.com/app/1252680/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "枪战结合陷阱、炮塔与舱门泄压破坏",
+      "dimension": "玩法",
+      "excerpt": "Even with the best shooting abilities, holding back the hordes is only possible by deploying traps and turrets - and if all else fails, utilizing environmental destruction to stem their advance; a well-timed shot could vent aliens into space, a closed blast door could buy you time to set up new defenses.",
+      "url": "https://store.steampowered.com/app/1252680/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "守关失败不读档，而是重塑舰船战略态势",
+      "dimension": "玩法",
+      "excerpt": "Even if you fail to defend a level, defeat only changes the strategic landscape in the Ship Overview, forcing you to make new decisions on where to make your next defiant stand.",
+      "url": "https://store.steampowered.com/app/1252680/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "敌人血量与伤害过高",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "they have too much hp and they deal too much damage.",
+          "url": "https://steamcommunity.com/id/concrocotta/recommended/1252680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "联机功能目前近乎不可用",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "联机功能目前是摆设",
+          "url": "https://steamcommunity.com/profiles/76561199179150236/recommended/1252680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体游玩重复性较高",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游玩重复性很高",
+          "url": "https://steamcommunity.com/profiles/76561199179150236/recommended/1252680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "相同关卡会连续重复出现",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the same levels being played back to back",
+          "url": "https://steamcommunity.com/id/earthmrskull/recommended/1252680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "手柄支持不可正常使用",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Dont add a Gamepad option to your game unless it works pls.",
+          "url": "https://steamcommunity.com/profiles/76561199085016460/recommended/1252680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "难度惩罚残酷且缺乏乐趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "brutally punishing in ways that just aren’t fun.",
+          "url": "https://steamcommunity.com/profiles/76561198158682407/recommended/1252680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "即时战斗本身表现很好",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The core is there, the moment to moment gameplay is great.",
+          "url": "https://steamcommunity.com/id/earthmrskull/recommended/1252680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "地图中的一些互动元素很有趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "地图有些互动元素很有意思",
+          "url": "https://steamcommunity.com/profiles/76561199179150236/recommended/1252680/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "即时战斗与静态防御结合的核心玩法有吸引力",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I LOVE this genre - combining active gameplay with the usually passive tower defense.",
+          "url": "https://steamcommunity.com/id/concrocotta/recommended/1252680/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 30597,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 182820,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 13984,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 539256,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 31976,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 31976,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.480126560461991,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 838,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.174888,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "敌人血量与伤害过高",
+    "技术/性能：联机功能目前近乎不可用",
+    "整体游玩重复性较高",
+    "相同关卡会连续重复出现",
+    "技术/性能：手柄支持不可正常使用",
+    "难度惩罚残酷且缺乏乐趣"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "SENTRY位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_ec4c8d10f2766577c6e74a3d1f08174e402f244c.1920x1080.jpg?t=1781879508",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_ec4c8d10f2766577c6e74a3d1f08174e402f244c.1920x1080.jpg?t=1785944290",
+        "alt": "SENTRY 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_0986f214c167323b87253b2927f58d7aba18d81d.1920x1080.jpg?t=1785944290",
+        "alt": "SENTRY 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_6072d7ed5283ac613fe3d83ebfa8a4f8f3796d1f.1920x1080.jpg?t=1785944290",
+        "alt": "SENTRY 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/88014f7e384ca0f609516e866e2d400799ca07ae/ss_88014f7e384ca0f609516e866e2d400799ca07ae.1920x1080.jpg?t=1785944290",
+        "alt": "SENTRY 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_ce8474144ac0fdfbba99d3d142dde41fd76bb7b1.1920x1080.jpg?t=1785944290",
+        "alt": "SENTRY 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_6b0c203224a8e2cae9960a5331f8d31e7a0385f5.1920x1080.jpg?t=1785944290",
+        "alt": "SENTRY 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/ss_528e714f86048a40616ff7968ff84be53efbd8cd.1920x1080.jpg?t=1785944290",
+        "alt": "SENTRY 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252680/fabce43fd7b3921fbc096767d0a2d0acd3613c12/ss_fabce43fd7b3921fbc096767d0a2d0acd3613c12.1920x1080.jpg?t=1785944290",
+        "alt": "SENTRY 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

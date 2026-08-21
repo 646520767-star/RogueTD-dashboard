@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Path of Achra","developers":["Ulfsire"],"publishers":["Slouching Beast LLC"],"release_status":"released","release_date":"2024-05-07","tags":["类Rogue","角色自定义","回合制战斗","角色扮演","地牢探索"]},"hooks":[{"text":"混合文化、职业与宗教，组合出1000多种开局英雄","dimension":"玩法","excerpt":"Merge culture, class and religion to establish a starting hero, unlock more options as you play, with 1000+ potential combinations","url":"https://store.steampowered.com/app/2128270/","label":"证据原文片段"},{"text":"从50多种元素能力与带特殊效果的武器护甲中自由配装","dimension":"玩法","excerpt":"Customize your hero with 50+ elementally-aligned powers such as Pyrokinesis, Necromancy, Blood Retort, Obedient Ice... Discover and freely equip unique weapons and armor with impactful abilities","url":"https://store.steampowered.com/app/2128270/","label":"证据原文片段"},{"text":"叠加触发效果制造破格构筑，让藤蔓穿刺联动闪电或传送心灵光束","dimension":"玩法","excerpt":"Explosive synergies await... A \"broken build sandbox\" - create devastating combos by combining triggered effects. Shoot bolts of lightning when you pierce enemies with vines, teleport while emitting psychic beams, etc...","url":"https://store.steampowered.com/app/2128270/","label":"证据原文片段"}],"opinions":[{"text":"视觉外观非常丑陋。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"its really ugly looking","url":"https://steamcommunity.com/id/Gamer_In_Crisis/recommended/2128270/","label":"证据原文片段"}]},{"text":"复古审美和怀旧感仍然讨喜。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I still like the aesthetic and retro nostalgia","url":"https://steamcommunity.com/id/mgsygaming/recommended/2128270/","label":"证据原文片段"}]},{"text":"音效设计表现满分。","dimension":"音频","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Sound Design 10/10","url":"https://steamcommunity.com/profiles/76561198032083511/recommended/2128270/","label":"证据原文片段"}]},{"text":"游戏几乎会自行运行，令人无聊。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"There's not a lot to actually do in game, it plays itself","url":"https://steamcommunity.com/id/hankjwebaltin/recommended/2128270/","label":"证据原文片段"}]},{"text":"实际操作参与度很低。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The lack of input from the player become readily apparent","url":"https://steamcommunity.com/id/Orangebluehue/recommended/2128270/","label":"证据原文片段"}]},{"text":"开局一次性倾倒过量信息。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the game throw a metric ♥♥♥♥ ton of information about stats, character classes/races, items","url":"https://steamcommunity.com/id/MetaKnightmare25/recommended/2128270/","label":"证据原文片段"}]},{"text":"构筑判断所需信息量过大。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"there's just too much information to dive into to determine whether a build is successful or not","url":"https://steamcommunity.com/id/mgsygaming/recommended/2128270/","label":"证据原文片段"}]},{"text":"战斗体验浅薄，大多数时间只需按TAB。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the actual gameplay experience is shallow and doesn't offer much since you're just going to be pressing TAB most of the time","url":"https://steamcommunity.com/id/Orangebluehue/recommended/2128270/","label":"证据原文片段"}]},{"text":"多数跑局体验趋同。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"most runs end up feeling pretty samey","url":"https://steamcommunity.com/id/mgsygaming/recommended/2128270/","label":"证据原文片段"}]},{"text":"实际游玩缺乏乐趣。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"playing it doesn't inspire much joy","url":"https://steamcommunity.com/id/mgsygaming/recommended/2128270/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":109225,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":122010,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6677,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":901959,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":111360,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":111360,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":19.361928152700663,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3214,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.102054,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["视觉外观非常丑陋。","游戏几乎会自行运行，令人无聊。","实际操作参与度很低。","开局一次性倾倒过量信息。","构筑判断所需信息量过大。","战斗体验浅薄，大多数时间只需按TAB。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_10ff657cee0ec6fca45f69d4633f71d67f713520.1920x1080.jpg?t=1735920523","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_10ff657cee0ec6fca45f69d4633f71d67f713520.1920x1080.jpg?t=1735920523","alt":"Path of Achra 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_1d5de94c8a93f121df502405a8c5e817ea37bbb9.1920x1080.jpg?t=1735920523","alt":"Path of Achra 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_2458fa0dcc7ef4c12afc85f65f66ecbe81438db2.1920x1080.jpg?t=1735920523","alt":"Path of Achra 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_c2ed5032ee2433da5dde939e8f8c0c0d8f4e1301.1920x1080.jpg?t=1735920523","alt":"Path of Achra 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Path of Achra",
+    "developers": [
+      "Ulfsire"
+    ],
+    "publishers": [
+      "Slouching Beast LLC"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-07",
+    "tags": [
+      "类Rogue",
+      "角色自定义",
+      "回合制战斗",
+      "角色扮演",
+      "地牢探索"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "混合文化、职业与宗教，组合出1000多种开局英雄",
+      "dimension": "玩法",
+      "excerpt": "Merge culture, class and religion to establish a starting hero, unlock more options as you play, with 1000+ potential combinations",
+      "url": "https://store.steampowered.com/app/2128270/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从50多种元素能力与带特殊效果的武器护甲中自由配装",
+      "dimension": "玩法",
+      "excerpt": "Customize your hero with 50+ elementally-aligned powers such as Pyrokinesis, Necromancy, Blood Retort, Obedient Ice... Discover and freely equip unique weapons and armor with impactful abilities",
+      "url": "https://store.steampowered.com/app/2128270/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "叠加触发效果制造破格构筑，让藤蔓穿刺联动闪电或传送心灵光束",
+      "dimension": "玩法",
+      "excerpt": "Explosive synergies await... A \"broken build sandbox\" - create devastating combos by combining triggered effects. Shoot bolts of lightning when you pierce enemies with vines, teleport while emitting psychic beams, etc...",
+      "url": "https://store.steampowered.com/app/2128270/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "视觉外观非常丑陋。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "its really ugly looking",
+          "url": "https://steamcommunity.com/id/Gamer_In_Crisis/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "复古审美和怀旧感仍然讨喜。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I still like the aesthetic and retro nostalgia",
+          "url": "https://steamcommunity.com/id/mgsygaming/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "音效设计表现满分。",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Sound Design 10/10",
+          "url": "https://steamcommunity.com/profiles/76561198032083511/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏几乎会自行运行，令人无聊。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "There's not a lot to actually do in game, it plays itself",
+          "url": "https://steamcommunity.com/id/hankjwebaltin/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "实际操作参与度很低。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The lack of input from the player become readily apparent",
+          "url": "https://steamcommunity.com/id/Orangebluehue/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "开局一次性倾倒过量信息。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the game throw a metric ♥♥♥♥ ton of information about stats, character classes/races, items",
+          "url": "https://steamcommunity.com/id/MetaKnightmare25/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "构筑判断所需信息量过大。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "there's just too much information to dive into to determine whether a build is successful or not",
+          "url": "https://steamcommunity.com/id/mgsygaming/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗体验浅薄，大多数时间只需按TAB。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the actual gameplay experience is shallow and doesn't offer much since you're just going to be pressing TAB most of the time",
+          "url": "https://steamcommunity.com/id/Orangebluehue/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多数跑局体验趋同。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "most runs end up feeling pretty samey",
+          "url": "https://steamcommunity.com/id/mgsygaming/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "实际游玩缺乏乐趣。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "playing it doesn't inspire much joy",
+          "url": "https://steamcommunity.com/id/mgsygaming/recommended/2128270/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 114211,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 122733,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6703,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 931219,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 116431,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 116431,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 19.234058602211032,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3142,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 98.051948,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "视觉外观非常丑陋。",
+    "游戏几乎会自行运行，令人无聊。",
+    "实际操作参与度很低。",
+    "开局一次性倾倒过量信息。",
+    "构筑判断所需信息量过大。",
+    "战斗体验浅薄，大多数时间只需按TAB。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Path of Achra位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_10ff657cee0ec6fca45f69d4633f71d67f713520.1920x1080.jpg?t=1735920523",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_10ff657cee0ec6fca45f69d4633f71d67f713520.1920x1080.jpg?t=1735920523",
+        "alt": "Path of Achra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_1d5de94c8a93f121df502405a8c5e817ea37bbb9.1920x1080.jpg?t=1735920523",
+        "alt": "Path of Achra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_2458fa0dcc7ef4c12afc85f65f66ecbe81438db2.1920x1080.jpg?t=1735920523",
+        "alt": "Path of Achra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_c2ed5032ee2433da5dde939e8f8c0c0d8f4e1301.1920x1080.jpg?t=1735920523",
+        "alt": "Path of Achra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_9d48ea1eedace81d28cc0244190130a54c4b3092.1920x1080.jpg?t=1735920523",
+        "alt": "Path of Achra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_57581f7d7598eb7dee03a282368d0934bebbe784.1920x1080.jpg?t=1735920523",
+        "alt": "Path of Achra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_e76c3d66c3d98c7d11d94096c916053ee262d629.1920x1080.jpg?t=1735920523",
+        "alt": "Path of Achra 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128270/ss_d2bce7dfdf8962627c0c011b9250dc5200cd702d.1920x1080.jpg?t=1735920523",
+        "alt": "Path of Achra 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

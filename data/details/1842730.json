@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Nightmare: The Lunatic","developers":["Maetdol Games"],"publishers":["Maetdol Games"],"release_status":"released","release_date":"2024-03-31","tags":["动作肉鸽","砍杀","高难度","高重复可玩性","像素画面"]},"hooks":[{"text":"先识别怪物标志性动作，熟练后用精确招架反杀强敌","dimension":"玩法","excerpt":"Powerful monsters will get in your way. Identify their characteristic movements. If you're used to it, parry their attacks and defeat them.","url":"https://store.steampowered.com/app/1842730/","label":"证据原文片段"},{"text":"从多种武器中选三把轮换，切换顺序要围绕武器间协同设计","dimension":"玩法","excerpt":"You can use various weapons. Choose a weapon considering your taste and the synergy between each weapon. Swap between the weapons of your choice and fight effectively.","url":"https://store.steampowered.com/app/1842730/","label":"证据原文片段"},{"text":"死亡只是从梦境起点重来，但每次重启都会改变整场梦的结构","dimension":"玩法","excerpt":"Oh my, you died. But don't worry. It's a dream. The opportunities are endless. There are just minor issues that go back to the beginning and change the structure of the dream.","url":"https://store.steampowered.com/app/1842730/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":11768,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":59734,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3197,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":134481,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":13290,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":13290,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":23.447483898259133,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":269,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.219331,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、砍杀","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_a77b176aecf86a5f288df39f04e8cf35278593ce.1920x1080.jpg?t=1741739782","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_a77b176aecf86a5f288df39f04e8cf35278593ce.1920x1080.jpg?t=1741739782","alt":"Nightmare: The Lunatic 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_66a6efa98932ad7ba7db603a25f3874e3c6e7dfe.1920x1080.jpg?t=1741739782","alt":"Nightmare: The Lunatic 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_daeab37bdb4a5b71dc619781d2374a5db21c2afc.1920x1080.jpg?t=1741739782","alt":"Nightmare: The Lunatic 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_c0cce126b9a5cc83df6aec601239209c4ab4fbd7.1920x1080.jpg?t=1741739782","alt":"Nightmare: The Lunatic 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Nightmare: The Lunatic",
+    "developers": [
+      "Maetdol Games"
+    ],
+    "publishers": [
+      "Maetdol Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-31",
+    "tags": [
+      "动作肉鸽",
+      "砍杀",
+      "高难度",
+      "高重复可玩性",
+      "像素画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "先识别怪物标志性动作，熟练后用精确招架反杀强敌",
+      "dimension": "玩法",
+      "excerpt": "Powerful monsters will get in your way. Identify their characteristic movements. If you're used to it, parry their attacks and defeat them.",
+      "url": "https://store.steampowered.com/app/1842730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从多种武器中选三把轮换，切换顺序要围绕武器间协同设计",
+      "dimension": "玩法",
+      "excerpt": "You can use various weapons. Choose a weapon considering your taste and the synergy between each weapon. Swap between the weapons of your choice and fight effectively.",
+      "url": "https://store.steampowered.com/app/1842730/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "死亡只是从梦境起点重来，但每次重启都会改变整场梦的结构",
+      "dimension": "玩法",
+      "excerpt": "Oh my, you died. But don't worry. It's a dream. The opportunities are endless. There are just minor issues that go back to the beginning and change the structure of the dream.",
+      "url": "https://store.steampowered.com/app/1842730/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 15803,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 60088,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3196,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 177005,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 17838,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 17838,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 23.293514921343583,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 226,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.259259,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Nightmare: The Lunatic位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_a77b176aecf86a5f288df39f04e8cf35278593ce.1920x1080.jpg?t=1741739782",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_a77b176aecf86a5f288df39f04e8cf35278593ce.1920x1080.jpg?t=1741739782",
+        "alt": "Nightmare: The Lunatic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_66a6efa98932ad7ba7db603a25f3874e3c6e7dfe.1920x1080.jpg?t=1741739782",
+        "alt": "Nightmare: The Lunatic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_daeab37bdb4a5b71dc619781d2374a5db21c2afc.1920x1080.jpg?t=1741739782",
+        "alt": "Nightmare: The Lunatic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_c0cce126b9a5cc83df6aec601239209c4ab4fbd7.1920x1080.jpg?t=1741739782",
+        "alt": "Nightmare: The Lunatic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_21fdf812ef826622ad577e8fdc3505e8befe3f95.1920x1080.jpg?t=1741739782",
+        "alt": "Nightmare: The Lunatic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_a968e481eebd84dc278d9d79ff91d3e4219fa84f.1920x1080.jpg?t=1741739782",
+        "alt": "Nightmare: The Lunatic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_ded5282ab57fdd321804c1acbc5adbe27c5fa1b2.1920x1080.jpg?t=1741739782",
+        "alt": "Nightmare: The Lunatic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842730/ss_3bb35f9b367a85daeb738480b28bc06bb9758df1.1920x1080.jpg?t=1741739782",
+        "alt": "Nightmare: The Lunatic 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

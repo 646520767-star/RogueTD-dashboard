@@ -1,1 +1,326 @@
-{"rule":"appid remainder 64","shards":[{"number":0,"path":"data/product-shards/00.json","products":360},{"number":1,"path":"data/product-shards/01.json","products":0},{"number":2,"path":"data/product-shards/02.json","products":319},{"number":3,"path":"data/product-shards/03.json","products":0},{"number":4,"path":"data/product-shards/04.json","products":328},{"number":5,"path":"data/product-shards/05.json","products":0},{"number":6,"path":"data/product-shards/06.json","products":337},{"number":7,"path":"data/product-shards/07.json","products":0},{"number":8,"path":"data/product-shards/08.json","products":329},{"number":9,"path":"data/product-shards/09.json","products":0},{"number":10,"path":"data/product-shards/10.json","products":349},{"number":11,"path":"data/product-shards/11.json","products":0},{"number":12,"path":"data/product-shards/12.json","products":318},{"number":13,"path":"data/product-shards/13.json","products":0},{"number":14,"path":"data/product-shards/14.json","products":345},{"number":15,"path":"data/product-shards/15.json","products":0},{"number":16,"path":"data/product-shards/16.json","products":322},{"number":17,"path":"data/product-shards/17.json","products":0},{"number":18,"path":"data/product-shards/18.json","products":311},{"number":19,"path":"data/product-shards/19.json","products":0},{"number":20,"path":"data/product-shards/20.json","products":326},{"number":21,"path":"data/product-shards/21.json","products":0},{"number":22,"path":"data/product-shards/22.json","products":330},{"number":23,"path":"data/product-shards/23.json","products":0},{"number":24,"path":"data/product-shards/24.json","products":320},{"number":25,"path":"data/product-shards/25.json","products":0},{"number":26,"path":"data/product-shards/26.json","products":334},{"number":27,"path":"data/product-shards/27.json","products":0},{"number":28,"path":"data/product-shards/28.json","products":335},{"number":29,"path":"data/product-shards/29.json","products":0},{"number":30,"path":"data/product-shards/30.json","products":337},{"number":31,"path":"data/product-shards/31.json","products":0},{"number":32,"path":"data/product-shards/32.json","products":339},{"number":33,"path":"data/product-shards/33.json","products":0},{"number":34,"path":"data/product-shards/34.json","products":317},{"number":35,"path":"data/product-shards/35.json","products":0},{"number":36,"path":"data/product-shards/36.json","products":327},{"number":37,"path":"data/product-shards/37.json","products":0},{"number":38,"path":"data/product-shards/38.json","products":323},{"number":39,"path":"data/product-shards/39.json","products":0},{"number":40,"path":"data/product-shards/40.json","products":342},{"number":41,"path":"data/product-shards/41.json","products":0},{"number":42,"path":"data/product-shards/42.json","products":338},{"number":43,"path":"data/product-shards/43.json","products":0},{"number":44,"path":"data/product-shards/44.json","products":325},{"number":45,"path":"data/product-shards/45.json","products":0},{"number":46,"path":"data/product-shards/46.json","products":327},{"number":47,"path":"data/product-shards/47.json","products":0},{"number":48,"path":"data/product-shards/48.json","products":301},{"number":49,"path":"data/product-shards/49.json","products":0},{"number":50,"path":"data/product-shards/50.json","products":344},{"number":51,"path":"data/product-shards/51.json","products":0},{"number":52,"path":"data/product-shards/52.json","products":341},{"number":53,"path":"data/product-shards/53.json","products":0},{"number":54,"path":"data/product-shards/54.json","products":300},{"number":55,"path":"data/product-shards/55.json","products":0},{"number":56,"path":"data/product-shards/56.json","products":337},{"number":57,"path":"data/product-shards/57.json","products":0},{"number":58,"path":"data/product-shards/58.json","products":352},{"number":59,"path":"data/product-shards/59.json","products":0},{"number":60,"path":"data/product-shards/60.json","products":318},{"number":61,"path":"data/product-shards/61.json","products":0},{"number":62,"path":"data/product-shards/62.json","products":345},{"number":63,"path":"data/product-shards/63.json","products":0}]}
+{
+  "shard_count": 64,
+  "rule": "steam_appid modulo 64",
+  "shards": [
+    {
+      "key": "00",
+      "path": "data/product-shards/00.json",
+      "product_count": 370
+    },
+    {
+      "key": "01",
+      "path": "data/product-shards/01.json",
+      "product_count": 0
+    },
+    {
+      "key": "02",
+      "path": "data/product-shards/02.json",
+      "product_count": 332
+    },
+    {
+      "key": "03",
+      "path": "data/product-shards/03.json",
+      "product_count": 0
+    },
+    {
+      "key": "04",
+      "path": "data/product-shards/04.json",
+      "product_count": 345
+    },
+    {
+      "key": "05",
+      "path": "data/product-shards/05.json",
+      "product_count": 0
+    },
+    {
+      "key": "06",
+      "path": "data/product-shards/06.json",
+      "product_count": 349
+    },
+    {
+      "key": "07",
+      "path": "data/product-shards/07.json",
+      "product_count": 0
+    },
+    {
+      "key": "08",
+      "path": "data/product-shards/08.json",
+      "product_count": 343
+    },
+    {
+      "key": "09",
+      "path": "data/product-shards/09.json",
+      "product_count": 0
+    },
+    {
+      "key": "10",
+      "path": "data/product-shards/10.json",
+      "product_count": 359
+    },
+    {
+      "key": "11",
+      "path": "data/product-shards/11.json",
+      "product_count": 0
+    },
+    {
+      "key": "12",
+      "path": "data/product-shards/12.json",
+      "product_count": 336
+    },
+    {
+      "key": "13",
+      "path": "data/product-shards/13.json",
+      "product_count": 0
+    },
+    {
+      "key": "14",
+      "path": "data/product-shards/14.json",
+      "product_count": 358
+    },
+    {
+      "key": "15",
+      "path": "data/product-shards/15.json",
+      "product_count": 0
+    },
+    {
+      "key": "16",
+      "path": "data/product-shards/16.json",
+      "product_count": 329
+    },
+    {
+      "key": "17",
+      "path": "data/product-shards/17.json",
+      "product_count": 0
+    },
+    {
+      "key": "18",
+      "path": "data/product-shards/18.json",
+      "product_count": 325
+    },
+    {
+      "key": "19",
+      "path": "data/product-shards/19.json",
+      "product_count": 0
+    },
+    {
+      "key": "20",
+      "path": "data/product-shards/20.json",
+      "product_count": 344
+    },
+    {
+      "key": "21",
+      "path": "data/product-shards/21.json",
+      "product_count": 0
+    },
+    {
+      "key": "22",
+      "path": "data/product-shards/22.json",
+      "product_count": 344
+    },
+    {
+      "key": "23",
+      "path": "data/product-shards/23.json",
+      "product_count": 0
+    },
+    {
+      "key": "24",
+      "path": "data/product-shards/24.json",
+      "product_count": 328
+    },
+    {
+      "key": "25",
+      "path": "data/product-shards/25.json",
+      "product_count": 0
+    },
+    {
+      "key": "26",
+      "path": "data/product-shards/26.json",
+      "product_count": 358
+    },
+    {
+      "key": "27",
+      "path": "data/product-shards/27.json",
+      "product_count": 0
+    },
+    {
+      "key": "28",
+      "path": "data/product-shards/28.json",
+      "product_count": 347
+    },
+    {
+      "key": "29",
+      "path": "data/product-shards/29.json",
+      "product_count": 0
+    },
+    {
+      "key": "30",
+      "path": "data/product-shards/30.json",
+      "product_count": 350
+    },
+    {
+      "key": "31",
+      "path": "data/product-shards/31.json",
+      "product_count": 0
+    },
+    {
+      "key": "32",
+      "path": "data/product-shards/32.json",
+      "product_count": 348
+    },
+    {
+      "key": "33",
+      "path": "data/product-shards/33.json",
+      "product_count": 0
+    },
+    {
+      "key": "34",
+      "path": "data/product-shards/34.json",
+      "product_count": 329
+    },
+    {
+      "key": "35",
+      "path": "data/product-shards/35.json",
+      "product_count": 0
+    },
+    {
+      "key": "36",
+      "path": "data/product-shards/36.json",
+      "product_count": 347
+    },
+    {
+      "key": "37",
+      "path": "data/product-shards/37.json",
+      "product_count": 0
+    },
+    {
+      "key": "38",
+      "path": "data/product-shards/38.json",
+      "product_count": 332
+    },
+    {
+      "key": "39",
+      "path": "data/product-shards/39.json",
+      "product_count": 0
+    },
+    {
+      "key": "40",
+      "path": "data/product-shards/40.json",
+      "product_count": 358
+    },
+    {
+      "key": "41",
+      "path": "data/product-shards/41.json",
+      "product_count": 0
+    },
+    {
+      "key": "42",
+      "path": "data/product-shards/42.json",
+      "product_count": 353
+    },
+    {
+      "key": "43",
+      "path": "data/product-shards/43.json",
+      "product_count": 0
+    },
+    {
+      "key": "44",
+      "path": "data/product-shards/44.json",
+      "product_count": 342
+    },
+    {
+      "key": "45",
+      "path": "data/product-shards/45.json",
+      "product_count": 0
+    },
+    {
+      "key": "46",
+      "path": "data/product-shards/46.json",
+      "product_count": 342
+    },
+    {
+      "key": "47",
+      "path": "data/product-shards/47.json",
+      "product_count": 0
+    },
+    {
+      "key": "48",
+      "path": "data/product-shards/48.json",
+      "product_count": 312
+    },
+    {
+      "key": "49",
+      "path": "data/product-shards/49.json",
+      "product_count": 0
+    },
+    {
+      "key": "50",
+      "path": "data/product-shards/50.json",
+      "product_count": 364
+    },
+    {
+      "key": "51",
+      "path": "data/product-shards/51.json",
+      "product_count": 0
+    },
+    {
+      "key": "52",
+      "path": "data/product-shards/52.json",
+      "product_count": 362
+    },
+    {
+      "key": "53",
+      "path": "data/product-shards/53.json",
+      "product_count": 0
+    },
+    {
+      "key": "54",
+      "path": "data/product-shards/54.json",
+      "product_count": 319
+    },
+    {
+      "key": "55",
+      "path": "data/product-shards/55.json",
+      "product_count": 0
+    },
+    {
+      "key": "56",
+      "path": "data/product-shards/56.json",
+      "product_count": 346
+    },
+    {
+      "key": "57",
+      "path": "data/product-shards/57.json",
+      "product_count": 0
+    },
+    {
+      "key": "58",
+      "path": "data/product-shards/58.json",
+      "product_count": 362
+    },
+    {
+      "key": "59",
+      "path": "data/product-shards/59.json",
+      "product_count": 0
+    },
+    {
+      "key": "60",
+      "path": "data/product-shards/60.json",
+      "product_count": 336
+    },
+    {
+      "key": "61",
+      "path": "data/product-shards/61.json",
+      "product_count": 0
+    },
+    {
+      "key": "62",
+      "path": "data/product-shards/62.json",
+      "product_count": 364
+    },
+    {
+      "key": "63",
+      "path": "data/product-shards/63.json",
+      "product_count": 0
+    }
+  ]
+}

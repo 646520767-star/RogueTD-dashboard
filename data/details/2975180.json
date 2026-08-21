@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Break the Empire","developers":["Edym Pixels"],"publishers":["Edym Pixels"],"release_status":"released","release_date":"2025-03-26","tags":["动作","动作角色扮演","动作肉鸽","二维画面","极简风格"]},"hooks":[{"text":"草地蔓延火势、水面结冰与陷坑构成立体战场","dimension":"玩法","excerpt":"Terrain matters : Fires spread rapidly on grass, water can be frozen, pits can be fallen into.","url":"https://store.steampowered.com/app/2975180/","label":"证据原文片段"},{"text":"八名角色各有六法术与六被动塑造流派","dimension":"玩法","excerpt":"8 playable characters , each very different from the next. Each has six unique spells, six unique passive skills, and there are 12 base skills anyone can choose from.","url":"https://store.steampowered.com/app/2975180/","label":"证据原文片段"},{"text":"从小村庄一路打到皇宫的路线每局变化","dimension":"玩法","excerpt":"Each playthrough is a mini-campaign , starting at a small village and ending in the halls of the emperor's castle. The path will vary, taking you through magical glades, towns, fortresses, or dwarven mines.","url":"https://store.steampowered.com/app/2975180/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4167,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":502,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":14310,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4571,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4571,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.112716203314474,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":127,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.125984,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、动作角色扮演","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_bbdd5087033e1d699faa5cb83454123a901b3b9d.1920x1080.jpg?t=1784717535","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_bbdd5087033e1d699faa5cb83454123a901b3b9d.1920x1080.jpg?t=1784717535","alt":"Break the Empire 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_d57a260b39cac94ad1beff0a50d79b4578b35f34.1920x1080.jpg?t=1784717535","alt":"Break the Empire 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_61cb7498e1ba5d0821e098d437a0576977d07f99.1920x1080.jpg?t=1784717535","alt":"Break the Empire 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_1ba94ebc801fe157a8a94ffa389d1723d5a2fac7.1920x1080.jpg?t=1784717535","alt":"Break the Empire 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Break the Empire",
+    "developers": [
+      "Edym Pixels"
+    ],
+    "publishers": [
+      "Edym Pixels"
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-26",
+    "tags": [
+      "动作",
+      "动作角色扮演",
+      "动作肉鸽",
+      "二维画面",
+      "极简风格"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "草地蔓延火势、水面结冰与陷坑构成立体战场",
+      "dimension": "玩法",
+      "excerpt": "Terrain matters : Fires spread rapidly on grass, water can be frozen, pits can be fallen into.",
+      "url": "https://store.steampowered.com/app/2975180/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "八名角色各有六法术与六被动塑造流派",
+      "dimension": "玩法",
+      "excerpt": "8 playable characters , each very different from the next. Each has six unique spells, six unique passive skills, and there are 12 base skills anyone can choose from.",
+      "url": "https://store.steampowered.com/app/2975180/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从小村庄一路打到皇宫的路线每局变化",
+      "dimension": "玩法",
+      "excerpt": "Each playthrough is a mini-campaign , starting at a small village and ending in the halls of the emperor's castle. The path will vary, taking you through magical glades, towns, fortresses, or dwarven mines.",
+      "url": "https://store.steampowered.com/app/2975180/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4832,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 510,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 16723,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5303,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5303,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.243744275289874,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 110,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.063492,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Break the Empire位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_bbdd5087033e1d699faa5cb83454123a901b3b9d.1920x1080.jpg?t=1784717535",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_bbdd5087033e1d699faa5cb83454123a901b3b9d.1920x1080.jpg?t=1784717535",
+        "alt": "Break the Empire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_d57a260b39cac94ad1beff0a50d79b4578b35f34.1920x1080.jpg?t=1784717535",
+        "alt": "Break the Empire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_61cb7498e1ba5d0821e098d437a0576977d07f99.1920x1080.jpg?t=1784717535",
+        "alt": "Break the Empire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_1ba94ebc801fe157a8a94ffa389d1723d5a2fac7.1920x1080.jpg?t=1784717535",
+        "alt": "Break the Empire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_bd72497ef78ca9ad2c62a41fad1cb17274fbb885.1920x1080.jpg?t=1784717535",
+        "alt": "Break the Empire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_e4ed6a66c337fd743f03fff29c406a491af1eeb5.1920x1080.jpg?t=1784717535",
+        "alt": "Break the Empire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_7ee3bb037462ac702f8bc7573df25cd86d4a0e7f.1920x1080.jpg?t=1784717535",
+        "alt": "Break the Empire 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975180/ss_cbf40a78af49d1fb3f9d596ea28039cf0dad0104.1920x1080.jpg?t=1784717535",
+        "alt": "Break the Empire 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

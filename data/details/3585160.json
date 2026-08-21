@@ -1,1 +1,308 @@
-{"identity":{"original_title":"From The Top","developers":["JUNKFALL33"],"publishers":["JUNKFALL33"],"release_status":"released","release_date":"2025-12-09","tags":["动作肉鸽","肉鸽卡组构筑","制作","休闲","玩家对环境"]},"hooks":[{"text":"操控陀螺碰撞把对手撞出场，或在持久旋转中耗到最后，以不同胜法完成竞技","dimension":"玩法","excerpt":"Use your spinning top to knock your opponents out or simply out last them in a battle of attrition.","url":"https://store.steampowered.com/app/3585160/","label":"证据原文片段"},{"text":"特殊陀螺能重击、筑墙防守或飞向高空再俯冲，让传统碰撞对战加入主动技能","dimension":"玩法","excerpt":"But these aren't your regular old battling tops, these ones have abilities. Smash at them with full force, build a wall between to defend yourself, Fly high to the sky and strike and many more abilities to choose from!","url":"https://store.steampowered.com/app/3585160/","label":"证据原文片段"},{"text":"收集并合并不同陀螺组成理想组合，再为队伍搭配能够产生协同的遗物","dimension":"玩法","excerpt":"Collect new tops and Combine them together to create your perfect combination and pair them up with a suitable relic !","url":"https://store.steampowered.com/app/3585160/","label":"证据原文片段"}],"opinions":[{"text":"抖动滤镜使用过重","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"relies too heavily on a strong dithering filter","url":"https://steamcommunity.com/id/cnnr333/recommended/3585160/","label":"证据原文片段"}]},{"text":"整体美学表现强烈","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"a strong aesthetic","url":"https://store.steampowered.com/curator/39664028-Fire-Under-Five/","label":"证据原文片段"}]},{"text":"美术风格令人喜欢","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"i like the art style","url":"https://steamcommunity.com/id/Xyveon/recommended/3585160/","label":"证据原文片段"}]},{"text":"内容很快会变得无聊","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"it gets boring after a while.","url":"https://store.steampowered.com/curator/45967945-Interesing-games-that-i-found/","label":"证据原文片段"}]},{"text":"游戏频繁冻结和崩溃","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it literally LOVES to freeze and crash","url":"https://steamcommunity.com/id/beebo980_/recommended/3585160/","label":"证据原文片段"}]},{"text":"缺少一项宣传过的功能","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"that feature is just completely missing from the game despite being advertised","url":"https://steamcommunity.com/profiles/76561199577108700/recommended/3585160/","label":"证据原文片段"}]},{"text":"教程对战斗解释不足","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the tutorial doesn't explain the combat enough","url":"https://steamcommunity.com/id/Ursling/recommended/3585160/","label":"证据原文片段"}]},{"text":"难度曲线从极难突然变得过易","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the difficulty curve goes from very difficult to mindnumbingly easy instantly.","url":"https://steamcommunity.com/id/Xyveon/recommended/3585160/","label":"证据原文片段"}]},{"text":"战斗体验令人挫败","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"I cannot grasp the combat and it's frustrating.","url":"https://steamcommunity.com/id/Ursling/recommended/3585160/","label":"证据原文片段"}]},{"text":"碰撞时持续减速破坏节奏","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"constant momentum-grinding slowdown on impacts","url":"https://steamcommunity.com/profiles/76561197998305256/recommended/3585160/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":10376,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":25419,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":939,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":37249,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":10636,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":10636,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.7795123208592516,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":143,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.615385,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["抖动滤镜使用过重","内容很快会变得无聊","技术/性能：游戏频繁冻结和崩溃","缺少一项宣传过的功能","教程对战斗解释不足","难度曲线从极难突然变得过易"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/496d66614d992b3338f4b29d9ccb207700772c53/ss_496d66614d992b3338f4b29d9ccb207700772c53.1920x1080.jpg?t=1770121910","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/496d66614d992b3338f4b29d9ccb207700772c53/ss_496d66614d992b3338f4b29d9ccb207700772c53.1920x1080.jpg?t=1770121910","alt":"From The Top 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/61fa69100b04741faa792cec2d945a9dbbcb75bd/ss_61fa69100b04741faa792cec2d945a9dbbcb75bd.1920x1080.jpg?t=1770121910","alt":"From The Top 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/a4fbc8cb74a832f71009610d00f2b8558f339aed/ss_a4fbc8cb74a832f71009610d00f2b8558f339aed.1920x1080.jpg?t=1770121910","alt":"From The Top 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/2b3f7547182f5b849dc4d19c4128b24864de40f0/ss_2b3f7547182f5b849dc4d19c4128b24864de40f0.1920x1080.jpg?t=1770121910","alt":"From The Top 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "From The Top",
+    "developers": [
+      "JUNKFALL33"
+    ],
+    "publishers": [
+      "JUNKFALL33"
+    ],
+    "release_status": "released",
+    "release_date": "2025-12-09",
+    "tags": [
+      "动作肉鸽",
+      "肉鸽卡组构筑",
+      "制作",
+      "休闲",
+      "玩家对环境"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "操控陀螺碰撞把对手撞出场，或在持久旋转中耗到最后，以不同胜法完成竞技",
+      "dimension": "玩法",
+      "excerpt": "Use your spinning top to knock your opponents out or simply out last them in a battle of attrition.",
+      "url": "https://store.steampowered.com/app/3585160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "特殊陀螺能重击、筑墙防守或飞向高空再俯冲，让传统碰撞对战加入主动技能",
+      "dimension": "玩法",
+      "excerpt": "But these aren't your regular old battling tops, these ones have abilities. Smash at them with full force, build a wall between to defend yourself, Fly high to the sky and strike and many more abilities to choose from!",
+      "url": "https://store.steampowered.com/app/3585160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集并合并不同陀螺组成理想组合，再为队伍搭配能够产生协同的遗物",
+      "dimension": "玩法",
+      "excerpt": "Collect new tops and Combine them together to create your perfect combination and pair them up with a suitable relic !",
+      "url": "https://store.steampowered.com/app/3585160/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "抖动滤镜使用过重",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "relies too heavily on a strong dithering filter",
+          "url": "https://steamcommunity.com/id/cnnr333/recommended/3585160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体美学表现强烈",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "a strong aesthetic",
+          "url": "https://store.steampowered.com/curator/39664028-Fire-Under-Five/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "美术风格令人喜欢",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "i like the art style",
+          "url": "https://steamcommunity.com/id/Xyveon/recommended/3585160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "内容很快会变得无聊",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it gets boring after a while.",
+          "url": "https://store.steampowered.com/curator/45967945-Interesing-games-that-i-found/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏频繁冻结和崩溃",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it literally LOVES to freeze and crash",
+          "url": "https://steamcommunity.com/id/beebo980_/recommended/3585160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少一项宣传过的功能",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "that feature is just completely missing from the game despite being advertised",
+          "url": "https://steamcommunity.com/profiles/76561199577108700/recommended/3585160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "教程对战斗解释不足",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the tutorial doesn't explain the combat enough",
+          "url": "https://steamcommunity.com/id/Ursling/recommended/3585160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "难度曲线从极难突然变得过易",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the difficulty curve goes from very difficult to mindnumbingly easy instantly.",
+          "url": "https://steamcommunity.com/id/Xyveon/recommended/3585160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗体验令人挫败",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "I cannot grasp the combat and it's frustrating.",
+          "url": "https://steamcommunity.com/id/Ursling/recommended/3585160/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "碰撞时持续减速破坏节奏",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "constant momentum-grinding slowdown on impacts",
+          "url": "https://steamcommunity.com/profiles/76561197998305256/recommended/3585160/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 11601,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 24292,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 943,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 41086,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 11949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 11949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.7935569662006545,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 138,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.722222,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "抖动滤镜使用过重",
+    "内容很快会变得无聊",
+    "技术/性能：游戏频繁冻结和崩溃",
+    "缺少一项宣传过的功能",
+    "教程对战斗解释不足",
+    "难度曲线从极难突然变得过易"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "From The Top位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/496d66614d992b3338f4b29d9ccb207700772c53/ss_496d66614d992b3338f4b29d9ccb207700772c53.1920x1080.jpg?t=1770121910",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/496d66614d992b3338f4b29d9ccb207700772c53/ss_496d66614d992b3338f4b29d9ccb207700772c53.1920x1080.jpg?t=1770121910",
+        "alt": "From The Top 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/61fa69100b04741faa792cec2d945a9dbbcb75bd/ss_61fa69100b04741faa792cec2d945a9dbbcb75bd.1920x1080.jpg?t=1770121910",
+        "alt": "From The Top 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/a4fbc8cb74a832f71009610d00f2b8558f339aed/ss_a4fbc8cb74a832f71009610d00f2b8558f339aed.1920x1080.jpg?t=1770121910",
+        "alt": "From The Top 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/2b3f7547182f5b849dc4d19c4128b24864de40f0/ss_2b3f7547182f5b849dc4d19c4128b24864de40f0.1920x1080.jpg?t=1770121910",
+        "alt": "From The Top 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/d4cae21a28d73fa21e29ece937cc04f2c5e668d3/ss_d4cae21a28d73fa21e29ece937cc04f2c5e668d3.1920x1080.jpg?t=1770121910",
+        "alt": "From The Top 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585160/9e6a1ef3c33045a4d251bc1bf389d9e1ce0789ef/ss_9e6a1ef3c33045a4d251bc1bf389d9e1ce0789ef.1920x1080.jpg?t=1770121910",
+        "alt": "From The Top 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

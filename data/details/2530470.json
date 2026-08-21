@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Garden of Witches","developers":["Team Tapas"],"publishers":["Team Tapas"],"release_status":"early_access","release_date":"2025-05-23","tags":["抢先体验","可爱","动作肉鸽","轻度Rogue","动作"]},"hooks":[{"text":"每战从随机法术、升级与遗物池重新塑造流派","dimension":"玩法","excerpt":"Shape your build from a randomized pool of spells, upgrades, and relics, and outsmart the other witches that stand in your way.","url":"https://store.steampowered.com/app/2530470/","label":"证据原文片段"},{"text":"每名女巫都有独立招式，必须读动作并精确反击","dimension":"玩法","excerpt":"Every witch has distinct attack patterns, and they won’t go down easily. Study their movements, time your counterattacks, and use everything in your arsenal to win them over.","url":"https://store.steampowered.com/app/2530470/","label":"证据原文片段"},{"text":"死亡不是清零，而是解锁能力与永久成长","dimension":"玩法","excerpt":"Each death is a step forward, unlocking new abilities and permanent growth.","url":"https://store.steampowered.com/app/2530470/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":32394,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":132178,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7456,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":461921,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":33513,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":33513,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.619425321286359,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1342,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.149665,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、可爱","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/620d9ae3f70e2e4da0f9df0f2afb04da7dda7a8b/ss_620d9ae3f70e2e4da0f9df0f2afb04da7dda7a8b.1920x1080.jpg?t=1774840694","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/620d9ae3f70e2e4da0f9df0f2afb04da7dda7a8b/ss_620d9ae3f70e2e4da0f9df0f2afb04da7dda7a8b.1920x1080.jpg?t=1774840694","alt":"魔女庭院 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/aa032810069f03f490b60f95181799871a985b65/ss_aa032810069f03f490b60f95181799871a985b65.1920x1080.jpg?t=1774840694","alt":"魔女庭院 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/b624178acbf8b29eeb953426744d6056560c567d/ss_b624178acbf8b29eeb953426744d6056560c567d.1920x1080.jpg?t=1774840694","alt":"魔女庭院 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/e042f2666facffb91a374a4685abb0c1eafb76de/ss_e042f2666facffb91a374a4685abb0c1eafb76de.1920x1080.jpg?t=1774840694","alt":"魔女庭院 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Garden of Witches",
+    "developers": [
+      "Team Tapas"
+    ],
+    "publishers": [
+      "Team Tapas"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-05-23",
+    "tags": [
+      "抢先体验",
+      "可爱",
+      "动作肉鸽",
+      "轻度Rogue",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每战从随机法术、升级与遗物池重新塑造流派",
+      "dimension": "玩法",
+      "excerpt": "Shape your build from a randomized pool of spells, upgrades, and relics, and outsmart the other witches that stand in your way.",
+      "url": "https://store.steampowered.com/app/2530470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每名女巫都有独立招式，必须读动作并精确反击",
+      "dimension": "玩法",
+      "excerpt": "Every witch has distinct attack patterns, and they won’t go down easily. Study their movements, time your counterattacks, and use everything in your arsenal to win them over.",
+      "url": "https://store.steampowered.com/app/2530470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "死亡不是清零，而是解锁能力与永久成长",
+      "dimension": "玩法",
+      "excerpt": "Each death is a step forward, unlocking new abilities and permanent growth.",
+      "url": "https://store.steampowered.com/app/2530470/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "Fun roguelite hack and slash game, Reminded me alot of cult of the lamb and was a pretty fun experience overall, Character design is A+ and the gameplay loop is actually challenging later on.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Fun roguelite hack and slash game, Reminded me alot of cult of the lamb and was a pretty fun experience overall, Character design is A+ and the gameplay loop is actually challenging later on.",
+          "url": "https://steamcommunity.com/id/leirubie/recommended/2530470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "总的来说，本作的美术及其精致而且游戏的切入点也比较有趣，作为一款闯关类的肉鸽游戏而言还是挺不错的，值得一玩。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "总的来说，本作的美术及其精致而且游戏的切入点也比较有趣，作为一款闯关类的肉鸽游戏而言还是挺不错的，值得一玩。",
+          "url": "https://steamcommunity.com/profiles/76561198824787295/recommended/2530470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "本作由Team Tapas开发，是一款以魔女为主题的可爱画风肉鸽游戏。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "本作由Team Tapas开发，是一款以魔女为主题的可爱画风肉鸽游戏。",
+          "url": "https://steamcommunity.com/profiles/76561199489032770/recommended/2530470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Great music, visuals and action.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Great music, visuals and action.",
+          "url": "https://steamcommunity.com/id/twigswonderland/recommended/2530470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Garden of Witches offers a stunning roguelike experience, packed with huge amount of interesting mechanics, amazing graphics and great replayability.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Garden of Witches offers a stunning roguelike experience, packed with huge amount of interesting mechanics, amazing graphics and great replayability.",
+          "url": "https://store.steampowered.com/curator/42708084-Potato-Coalition/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Roguelike action with charming and cute art style.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Roguelike action with charming and cute art style.",
+          "url": "https://store.steampowered.com/curator/45434562-Good-Game-Collections/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Excellent visual style and good combo system.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Excellent visual style and good combo system.",
+          "url": "https://store.steampowered.com/curator/31828950-GoldGrabbers/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "It has a cute art style with enjoyable combat and impactful build synergies.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "It has a cute art style with enjoyable combat and impactful build synergies.",
+          "url": "https://store.steampowered.com/curator/32607787-Abyssal-Ascent/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 33588,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 144468,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8074,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 480204,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 34720,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 34720,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.490196573242726,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1289,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.126386,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "魔女庭院位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/620d9ae3f70e2e4da0f9df0f2afb04da7dda7a8b/ss_620d9ae3f70e2e4da0f9df0f2afb04da7dda7a8b.1920x1080.jpg?t=1774840694",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/620d9ae3f70e2e4da0f9df0f2afb04da7dda7a8b/ss_620d9ae3f70e2e4da0f9df0f2afb04da7dda7a8b.1920x1080.jpg?t=1785758518",
+        "alt": "魔女庭院 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/aa032810069f03f490b60f95181799871a985b65/ss_aa032810069f03f490b60f95181799871a985b65.1920x1080.jpg?t=1785758518",
+        "alt": "魔女庭院 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/b624178acbf8b29eeb953426744d6056560c567d/ss_b624178acbf8b29eeb953426744d6056560c567d.1920x1080.jpg?t=1785758518",
+        "alt": "魔女庭院 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/e042f2666facffb91a374a4685abb0c1eafb76de/ss_e042f2666facffb91a374a4685abb0c1eafb76de.1920x1080.jpg?t=1785758518",
+        "alt": "魔女庭院 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/9d027acf69779a0cfab97a245b6dad189aacabd8/ss_9d027acf69779a0cfab97a245b6dad189aacabd8.1920x1080.jpg?t=1785758518",
+        "alt": "魔女庭院 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/e9bd834f505e1519fe2253e2ff0ccf93f48cd5e8/ss_e9bd834f505e1519fe2253e2ff0ccf93f48cd5e8.1920x1080.jpg?t=1785758518",
+        "alt": "魔女庭院 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/45a9b90b37841e9bdac53913b9d3b44a42eedfd2/ss_45a9b90b37841e9bdac53913b9d3b44a42eedfd2.1920x1080.jpg?t=1785758518",
+        "alt": "魔女庭院 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530470/0322572b7e7082386749d1149e496b1ef1ce5758/ss_0322572b7e7082386749d1149e496b1ef1ce5758.1920x1080.jpg?t=1785758518",
+        "alt": "魔女庭院 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

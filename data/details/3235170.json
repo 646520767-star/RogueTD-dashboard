@@ -1,1 +1,273 @@
-{"identity":{"original_title":"Islets Defense","developers":["MiniGoof"],"publishers":["Nuntius Games","MiniGoof","Vsoo Games"],"release_status":"released","release_date":"2025-06-18","tags":["策略","塔防","资源管理","基地建设","色彩鲜明"]},"hooks":[{"text":"每回合从四个行动中选一张；最右卡效果更强，使用后移到最左，卡序循环决定决策时机。","dimension":"玩法","excerpt":"A turn consists of executing one of the four available actions, each with its own unique functionality. The order of the cards plays a key role, with the rightmost card offering a stronger effect. After completing your turn, the chosen card moves to the leftmost position, pushing the others one step forward.","url":"https://store.steampowered.com/app/3235170/","label":"证据原文片段"},{"text":"用村庄经济支撑塔防：塔要吃食物维持，并消耗木材与石料升级，位置配置决定防线效率。","dimension":"玩法","excerpt":"Allocate your towers in strategic positions, sustain them with food, upgrade them with wood and stone, and ensure a strong defense against the slimes.","url":"https://store.steampowered.com/app/3235170/","label":"证据原文片段"},{"text":"王国被迷雾覆盖，通过探索行动揭开地图、获取资源、扩展攻击塔视野并发现宝藏。","dimension":"玩法","excerpt":"The mist has covered your entire kingdom! You start the game with an unexplored map, ready to be revealed! Use the exploration action to reach new resources, gain visibility for your attack towers, and discover hidden treasures!","url":"https://store.steampowered.com/app/3235170/","label":"证据原文片段"}],"opinions":[{"text":"难度会突然从宽松跃升到失误即重开","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"difficulty jumped from 'do whatever and you win anyway' to 'oops I made a mistake I need to restart'","url":"https://steamcommunity.com/profiles/76561198012147863/recommended/3235170/","label":"证据原文片段"}]},{"text":"资源上限过低，无法积攒资源","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游戏资源上限非常低，根本囤不了资源","url":"https://steamcommunity.com/profiles/76561199086318456/recommended/3235170/","label":"证据原文片段"}]},{"text":"当前只有十五个关卡","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"only 15 levels","url":"https://steamcommunity.com/profiles/76561198044385379/recommended/3235170/","label":"证据原文片段"}]},{"text":"整体玩法过慢且限制较多","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a very slow, limited and easy one","url":"https://steamcommunity.com/id/zukuu/recommended/3235170/","label":"证据原文片段"}]},{"text":"流程不长且不容易重复","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"整体流程也不太长，不会太重复","url":"https://steamcommunity.com/profiles/76561198189697398/recommended/3235170/","label":"证据原文片段"}]},{"text":"追求高分时策略深度很高","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"how much depth there is when chasing high scores","url":"https://steamcommunity.com/profiles/76561198175298693/recommended/3235170/","label":"证据原文片段"}]},{"text":"整体玩法表现良好","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Gameplay is good","url":"https://steamcommunity.com/profiles/76561198044385379/recommended/3235170/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":3178,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":17794,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":924,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":25748,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4073,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4073,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.310263918342159,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":188,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.617021,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["难度会突然从宽松跃升到失误即重开","资源上限过低，无法积攒资源","当前只有十五个关卡","整体玩法过慢且限制较多"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/ss_69cf35075b6f280aed6f93dbf1e25787c67b938a.1920x1080.jpg?t=1777405009","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/ss_69cf35075b6f280aed6f93dbf1e25787c67b938a.1920x1080.jpg?t=1777405009","alt":"浮岛防线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/12ad04c616fc4cd7f6a7c8749bea26456c51e74b/ss_12ad04c616fc4cd7f6a7c8749bea26456c51e74b.1920x1080.jpg?t=1777405009","alt":"浮岛防线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/c79514d1289c541c124c6739b7d15955ffa0b510/ss_c79514d1289c541c124c6739b7d15955ffa0b510.1920x1080.jpg?t=1777405009","alt":"浮岛防线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/ec073a74a30bb9a9ed7ed1dcdc0e8a6f43863df8/ss_ec073a74a30bb9a9ed7ed1dcdc0e8a6f43863df8.1920x1080.jpg?t=1777405009","alt":"浮岛防线 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Islets Defense",
+    "developers": [
+      "MiniGoof"
+    ],
+    "publishers": [
+      "Nuntius Games",
+      "MiniGoof",
+      "Vsoo Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-06-18",
+    "tags": [
+      "策略",
+      "塔防",
+      "塔防",
+      "资源管理",
+      "基地建设"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每回合从四个行动中选一张；最右卡效果更强，使用后移到最左，卡序循环决定决策时机。",
+      "dimension": "玩法",
+      "excerpt": "A turn consists of executing one of the four available actions, each with its own unique functionality. The order of the cards plays a key role, with the rightmost card offering a stronger effect. After completing your turn, the chosen card moves to the leftmost position, pushing the others one step forward.",
+      "url": "https://store.steampowered.com/app/3235170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用村庄经济支撑塔防：塔要吃食物维持，并消耗木材与石料升级，位置配置决定防线效率。",
+      "dimension": "玩法",
+      "excerpt": "Allocate your towers in strategic positions, sustain them with food, upgrade them with wood and stone, and ensure a strong defense against the slimes.",
+      "url": "https://store.steampowered.com/app/3235170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "王国被迷雾覆盖，通过探索行动揭开地图、获取资源、扩展攻击塔视野并发现宝藏。",
+      "dimension": "玩法",
+      "excerpt": "The mist has covered your entire kingdom! You start the game with an unexplored map, ready to be revealed! Use the exploration action to reach new resources, gain visibility for your attack towers, and discover hidden treasures!",
+      "url": "https://store.steampowered.com/app/3235170/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "难度会突然从宽松跃升到失误即重开",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "difficulty jumped from 'do whatever and you win anyway' to 'oops I made a mistake I need to restart'",
+          "url": "https://steamcommunity.com/profiles/76561198012147863/recommended/3235170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "资源上限过低，无法积攒资源",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游戏资源上限非常低，根本囤不了资源",
+          "url": "https://steamcommunity.com/profiles/76561199086318456/recommended/3235170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "当前只有十五个关卡",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "only 15 levels",
+          "url": "https://steamcommunity.com/profiles/76561198044385379/recommended/3235170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体玩法过慢且限制较多",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a very slow, limited and easy one",
+          "url": "https://steamcommunity.com/id/zukuu/recommended/3235170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "流程不长且不容易重复",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "整体流程也不太长，不会太重复",
+          "url": "https://steamcommunity.com/profiles/76561198189697398/recommended/3235170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "追求高分时策略深度很高",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "how much depth there is when chasing high scores",
+          "url": "https://steamcommunity.com/profiles/76561198175298693/recommended/3235170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体玩法表现良好",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Gameplay is good",
+          "url": "https://steamcommunity.com/profiles/76561198044385379/recommended/3235170/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3448,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 925,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 27784,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4434,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4434,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.348675955201504,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 129,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.650794,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "难度会突然从宽松跃升到失误即重开",
+    "资源上限过低，无法积攒资源",
+    "当前只有十五个关卡",
+    "整体玩法过慢且限制较多"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "浮岛防线位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/ss_69cf35075b6f280aed6f93dbf1e25787c67b938a.1920x1080.jpg?t=1777405009",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/ss_69cf35075b6f280aed6f93dbf1e25787c67b938a.1920x1080.jpg?t=1777405009",
+        "alt": "浮岛防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/12ad04c616fc4cd7f6a7c8749bea26456c51e74b/ss_12ad04c616fc4cd7f6a7c8749bea26456c51e74b.1920x1080.jpg?t=1777405009",
+        "alt": "浮岛防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/c79514d1289c541c124c6739b7d15955ffa0b510/ss_c79514d1289c541c124c6739b7d15955ffa0b510.1920x1080.jpg?t=1777405009",
+        "alt": "浮岛防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/ec073a74a30bb9a9ed7ed1dcdc0e8a6f43863df8/ss_ec073a74a30bb9a9ed7ed1dcdc0e8a6f43863df8.1920x1080.jpg?t=1777405009",
+        "alt": "浮岛防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/92ef86535223426e43221968448558189b0ba095/ss_92ef86535223426e43221968448558189b0ba095.1920x1080.jpg?t=1777405009",
+        "alt": "浮岛防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/992787099dd5af81f44bf5583564f1e7639a6de3/ss_992787099dd5af81f44bf5583564f1e7639a6de3.1920x1080.jpg?t=1777405009",
+        "alt": "浮岛防线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235170/b9a65b4a5044a7b87b8d0db5b713d7a923603e29/ss_b9a65b4a5044a7b87b8d0db5b713d7a923603e29.1920x1080.jpg?t=1777405009",
+        "alt": "浮岛防线 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

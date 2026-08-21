@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Roulette Hero","developers":["CLLC Studio"],"publishers":["Spiral Up Games"],"release_status":"released","release_date":"2025-10-23","tags":["街机","卡组构筑","轻度Rogue","独立游戏","类Rogue"]},"hooks":[{"text":"把动物伙伴排进轮盘，旋转后依位置触发能力与连锁协同","dimension":"玩法","excerpt":"Line up the perfect squad on your roulette wheel, spin to activate your animals' abilities, trigger game-changing synergies, and turn the tide of battle!","url":"https://store.steampowered.com/app/3371510/","label":"证据原文片段"},{"text":"十三类动物、百余动物格与百余强化弹匣共同扩展轮盘构筑池","dimension":"玩法","excerpt":"13 animal types, 100+ animal tiles to arrange on your board 100+ power-up cartridges to mix and match","url":"https://store.steampowered.com/app/3371510/","label":"证据原文片段"},{"text":"逐级挑战二十档难度，并在排行榜争夺最高名次","dimension":"玩法","excerpt":"Fight your way through all 20 difficulty levels Compete for the top spot on the leaderboard","url":"https://store.steampowered.com/app/3371510/","label":"证据原文片段"}],"opinions":[{"text":"地块UI不好看。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"地块的ui也不好看","url":"https://steamcommunity.com/profiles/76561199184647613/recommended/3371510/","label":"证据原文片段"}]},{"text":"可爱的拉杆动画很出色。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the cute lil lever pull animation is awesome","url":"https://steamcommunity.com/id/Semaphia/recommended/3371510/","label":"证据原文片段"}]},{"text":"整体呈现质量很好。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The presentation is really good","url":"https://steamcommunity.com/id/Semaphia/recommended/3371510/","label":"证据原文片段"}]},{"text":"鼠标滚轮存在Bug。","dimension":"技术/性能","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"The main downside is the bug with mouse scroll.","url":"https://steamcommunity.com/id/Cardgamer270/recommended/3371510?snr=1_5_9__402","label":"证据原文片段"}]},{"text":"后期玩法深度不足。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期深度稍显不足","url":"https://steamcommunity.com/id/cunpao/recommended/3371510/","label":"证据原文片段"}]},{"text":"两件道具组合可以直接破解游戏平衡。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"出售视为死亡+死亡随机召唤一个，就破解了这个游戏","url":"https://steamcommunity.com/profiles/76561198818373777/recommended/3371510/","label":"证据原文片段"}]},{"text":"难度20的负面效果设计糟糕。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"难度20的负面效果一坨","url":"https://steamcommunity.com/profiles/76561199184647613/recommended/3371510/","label":"证据原文片段"}]},{"text":"牌组之间联动较弱。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"牌组之间的联动比较弱","url":"https://steamcommunity.com/profiles/76561198218261249/recommended/3371510/","label":"证据原文片段"}]},{"text":"解锁更多牌组会污染牌库。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"解锁越多牌组反而会污染牌库","url":"https://steamcommunity.com/profiles/76561198218261249/recommended/3371510/","label":"证据原文片段"}]},{"text":"敌人攻击成长过快。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"敌人的攻击又涨得飞快","url":"https://steamcommunity.com/profiles/76561198218261249/recommended/3371510/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":21976,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":35587,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1253,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":182000,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":25332,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":25332,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.246675365128551,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":317,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.321767,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["地块UI不好看。","技术/性能：鼠标滚轮存在Bug。","后期玩法深度不足。","两件道具组合可以直接破解游戏平衡。","难度20的负面效果设计糟糕。","牌组之间联动较弱。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/c74ec191ec5571660304829b4913d90d95092e4f/ss_c74ec191ec5571660304829b4913d90d95092e4f.1920x1080.jpg?t=1772681037","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/c74ec191ec5571660304829b4913d90d95092e4f/ss_c74ec191ec5571660304829b4913d90d95092e4f.1920x1080.jpg?t=1772681037","alt":"轮盘英雄 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/16d39a24ac91c1e91171bd275af91f4066ab7bb3/ss_16d39a24ac91c1e91171bd275af91f4066ab7bb3.1920x1080.jpg?t=1772681037","alt":"轮盘英雄 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/9d0e73934c58260c279685ff9bf0ddf67376d54f/ss_9d0e73934c58260c279685ff9bf0ddf67376d54f.1920x1080.jpg?t=1772681037","alt":"轮盘英雄 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/b44b42154600965cd1020224a80ae77f6161b0f7/ss_b44b42154600965cd1020224a80ae77f6161b0f7.1920x1080.jpg?t=1772681037","alt":"轮盘英雄 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Roulette Hero",
+    "developers": [
+      "CLLC Studio"
+    ],
+    "publishers": [
+      "Spiral Up Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-10-23",
+    "tags": [
+      "街机",
+      "卡组构筑",
+      "轻度Rogue",
+      "独立游戏",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "把动物伙伴排进轮盘，旋转后依位置触发能力与连锁协同",
+      "dimension": "玩法",
+      "excerpt": "Line up the perfect squad on your roulette wheel, spin to activate your animals' abilities, trigger game-changing synergies, and turn the tide of battle!",
+      "url": "https://store.steampowered.com/app/3371510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "十三类动物、百余动物格与百余强化弹匣共同扩展轮盘构筑池",
+      "dimension": "玩法",
+      "excerpt": "13 animal types, 100+ animal tiles to arrange on your board 100+ power-up cartridges to mix and match",
+      "url": "https://store.steampowered.com/app/3371510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "逐级挑战二十档难度，并在排行榜争夺最高名次",
+      "dimension": "玩法",
+      "excerpt": "Fight your way through all 20 difficulty levels Compete for the top spot on the leaderboard",
+      "url": "https://store.steampowered.com/app/3371510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "地块UI不好看。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "地块的ui也不好看",
+          "url": "https://steamcommunity.com/profiles/76561199184647613/recommended/3371510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "可爱的拉杆动画很出色。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the cute lil lever pull animation is awesome",
+          "url": "https://steamcommunity.com/id/Semaphia/recommended/3371510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "整体呈现质量很好。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The presentation is really good",
+          "url": "https://steamcommunity.com/id/Semaphia/recommended/3371510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "鼠标滚轮存在Bug。",
+      "dimension": "技术/性能",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The main downside is the bug with mouse scroll.",
+          "url": "https://steamcommunity.com/id/Cardgamer270/recommended/3371510?snr=1_5_9__402",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期玩法深度不足。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期深度稍显不足",
+          "url": "https://steamcommunity.com/id/cunpao/recommended/3371510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "两件道具组合可以直接破解游戏平衡。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "出售视为死亡+死亡随机召唤一个，就破解了这个游戏",
+          "url": "https://steamcommunity.com/profiles/76561198818373777/recommended/3371510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "难度20的负面效果设计糟糕。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "难度20的负面效果一坨",
+          "url": "https://steamcommunity.com/profiles/76561199184647613/recommended/3371510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "牌组之间联动较弱。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "牌组之间的联动比较弱",
+          "url": "https://steamcommunity.com/profiles/76561198218261249/recommended/3371510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "解锁更多牌组会污染牌库。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "解锁越多牌组反而会污染牌库",
+          "url": "https://steamcommunity.com/profiles/76561198218261249/recommended/3371510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人攻击成长过快。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "敌人的攻击又涨得飞快",
+          "url": "https://steamcommunity.com/profiles/76561198218261249/recommended/3371510/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 22154,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 35798,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1254,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 184239,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 25537,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 25537,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.294026323300714,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 257,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.321767,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "地块UI不好看。",
+    "技术/性能：鼠标滚轮存在Bug。",
+    "后期玩法深度不足。",
+    "两件道具组合可以直接破解游戏平衡。",
+    "难度20的负面效果设计糟糕。",
+    "牌组之间联动较弱。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "轮盘英雄位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/c74ec191ec5571660304829b4913d90d95092e4f/ss_c74ec191ec5571660304829b4913d90d95092e4f.1920x1080.jpg?t=1772681037",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/c74ec191ec5571660304829b4913d90d95092e4f/ss_c74ec191ec5571660304829b4913d90d95092e4f.1920x1080.jpg?t=1772681037",
+        "alt": "轮盘英雄 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/16d39a24ac91c1e91171bd275af91f4066ab7bb3/ss_16d39a24ac91c1e91171bd275af91f4066ab7bb3.1920x1080.jpg?t=1772681037",
+        "alt": "轮盘英雄 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/9d0e73934c58260c279685ff9bf0ddf67376d54f/ss_9d0e73934c58260c279685ff9bf0ddf67376d54f.1920x1080.jpg?t=1772681037",
+        "alt": "轮盘英雄 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/b44b42154600965cd1020224a80ae77f6161b0f7/ss_b44b42154600965cd1020224a80ae77f6161b0f7.1920x1080.jpg?t=1772681037",
+        "alt": "轮盘英雄 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/8b87f53adccda24769b8fb66ff91a0cbdb7fc3ae/ss_8b87f53adccda24769b8fb66ff91a0cbdb7fc3ae.1920x1080.jpg?t=1772681037",
+        "alt": "轮盘英雄 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/e5f7f34101b53ed9e2426585922b967dad583da1/ss_e5f7f34101b53ed9e2426585922b967dad583da1.1920x1080.jpg?t=1772681037",
+        "alt": "轮盘英雄 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/934d3256d052de1ee341b88a8b9e58c85d51779c/ss_934d3256d052de1ee341b88a8b9e58c85d51779c.1920x1080.jpg?t=1772681037",
+        "alt": "轮盘英雄 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371510/b91838a7b90d8f4f77bbc42ae926f53dbad936b9/ss_b91838a7b90d8f4f77bbc42ae926f53dbad936b9.1920x1080.jpg?t=1772681037",
+        "alt": "轮盘英雄 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

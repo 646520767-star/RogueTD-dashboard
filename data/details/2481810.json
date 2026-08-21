@@ -1,1 +1,178 @@
-{"identity":{"original_title":"MeowCraft","developers":["Meow Studio"],"publishers":["2P Games"],"release_status":"released","release_date":"2026-07-15","tags":["模拟","可爱","制作","奇幻","经营管理"]},"hooks":[{"text":"亲手锻造抛光装备再上架售卖","dimension":"玩法","excerpt":"Here, you'll need to roll up your sleeves—and wave your paws—to personally hammer cold metal into top-tier weapons, sturdy armor, and impenetrable shields. Polish them until they sparkle before displaying them on your shelves.","url":"https://store.steampowered.com/app/2481810/","label":"证据原文片段"},{"text":"招募专长猫员工接管锻造与研发","dimension":"玩法","excerpt":"Recruit a diverse crew of cats with specialized skills (or those just looking to earn some extra kibble) to optimize your production line. From daily hammering to advanced blueprint research—and even secret feline technologies only cats understand—you can trust your staff to handle the grind.","url":"https://store.steampowered.com/app/2481810/","label":"证据原文片段"},{"text":"武装冒险队带回材料并揭开魔龙真相","dimension":"玩法","excerpt":"Organize your best-armed adventurer squads or head to the guild to post bounties, dispatching them into the depths to hunt for rare crafting materials. As your heroes bring back epic loot, you will piece together the dark truth behind the Demon Dragon.","url":"https://store.steampowered.com/app/2481810/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2780,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8897,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":438,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":22492,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3591,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3591,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.933400297939641,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":124,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.333333,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"模拟、可爱","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/36c81297215bd33b8588eefac421e912f112b3e9/ss_36c81297215bd33b8588eefac421e912f112b3e9.1920x1080.jpg?t=1784182759","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/36c81297215bd33b8588eefac421e912f112b3e9/ss_36c81297215bd33b8588eefac421e912f112b3e9.1920x1080.jpg?t=1784182759","alt":"喵喵工坊 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/350366f53481a8d8c65ed73c18fc7e308d758817/ss_350366f53481a8d8c65ed73c18fc7e308d758817.1920x1080.jpg?t=1784182759","alt":"喵喵工坊 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/f64c36cf2c5293c0863e361a7c990af9d43df473/ss_f64c36cf2c5293c0863e361a7c990af9d43df473.1920x1080.jpg?t=1784182759","alt":"喵喵工坊 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/1de472353fe449a52f61a50a78f6a1a0eb832dbc/ss_1de472353fe449a52f61a50a78f6a1a0eb832dbc.1920x1080.jpg?t=1784182759","alt":"喵喵工坊 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "MeowCraft",
+    "developers": [
+      "Meow Studio"
+    ],
+    "publishers": [
+      "2P Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-15",
+    "tags": [
+      "高难度",
+      "模拟",
+      "可爱",
+      "制作",
+      "奇幻"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "亲手锻造抛光装备再上架售卖",
+      "dimension": "玩法",
+      "excerpt": "Here, you'll need to roll up your sleeves—and wave your paws—to personally hammer cold metal into top-tier weapons, sturdy armor, and impenetrable shields. Polish them until they sparkle before displaying them on your shelves.",
+      "url": "https://store.steampowered.com/app/2481810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "招募专长猫员工接管锻造与研发",
+      "dimension": "玩法",
+      "excerpt": "Recruit a diverse crew of cats with specialized skills (or those just looking to earn some extra kibble) to optimize your production line. From daily hammering to advanced blueprint research—and even secret feline technologies only cats understand—you can trust your staff to handle the grind.",
+      "url": "https://store.steampowered.com/app/2481810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "武装冒险队带回材料并揭开魔龙真相",
+      "dimension": "玩法",
+      "excerpt": "Organize your best-armed adventurer squads or head to the guild to post bounties, dispatching them into the depths to hunt for rare crafting materials. As your heroes bring back epic loot, you will piece together the dark truth behind the Demon Dragon.",
+      "url": "https://store.steampowered.com/app/2481810/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3088,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 6392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 482,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 25273,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3997,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3997,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.4684899557701,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 106,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.89172,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "喵喵工坊位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/36c81297215bd33b8588eefac421e912f112b3e9/ss_36c81297215bd33b8588eefac421e912f112b3e9.1920x1080.jpg?t=1784182759",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/36c81297215bd33b8588eefac421e912f112b3e9/ss_36c81297215bd33b8588eefac421e912f112b3e9.1920x1080.jpg?t=1784182759",
+        "alt": "喵喵工坊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/350366f53481a8d8c65ed73c18fc7e308d758817/ss_350366f53481a8d8c65ed73c18fc7e308d758817.1920x1080.jpg?t=1784182759",
+        "alt": "喵喵工坊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/f64c36cf2c5293c0863e361a7c990af9d43df473/ss_f64c36cf2c5293c0863e361a7c990af9d43df473.1920x1080.jpg?t=1784182759",
+        "alt": "喵喵工坊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/1de472353fe449a52f61a50a78f6a1a0eb832dbc/ss_1de472353fe449a52f61a50a78f6a1a0eb832dbc.1920x1080.jpg?t=1784182759",
+        "alt": "喵喵工坊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/9c87b0c2173349bf552447e129d8687f288eae23/ss_9c87b0c2173349bf552447e129d8687f288eae23.1920x1080.jpg?t=1784182759",
+        "alt": "喵喵工坊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/64b5c3347bd49ba89ba9fabf56016d6e268f9105/ss_64b5c3347bd49ba89ba9fabf56016d6e268f9105.1920x1080.jpg?t=1784182759",
+        "alt": "喵喵工坊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/591743a8db16bc49dd16ffbf33083dc7e641253e/ss_591743a8db16bc49dd16ffbf33083dc7e641253e.1920x1080.jpg?t=1784182759",
+        "alt": "喵喵工坊 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481810/ba06ca982ffa764e30f2fb4ee661875dfab141e9/ss_ba06ca982ffa764e30f2fb4ee661875dfab141e9.1920x1080.jpg?t=1784182759",
+        "alt": "喵喵工坊 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

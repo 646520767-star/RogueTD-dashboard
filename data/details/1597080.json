@@ -1,1 +1,262 @@
-{"identity":{"original_title":"Killer Bean","developers":["Killer Bean Studios LLC"],"publishers":["Killer Bean Studios LLC"],"release_status":"early_access","release_date":"2026-06-08","tags":["开放世界","动作冒险","射击","程序生成","动作肉鸽"]},"hooks":[{"text":"咖啡豆刺客可在第一人称与第三人称间展开roguelike枪战","dimension":"玩法","excerpt":"You are Killer Bean, a rogue assassin coffee bean, who takes out the trash in this world, one bullet at a time. This is a first person / third person action roguelike.","url":"https://store.steampowered.com/app/1597080/","label":"证据原文片段"},{"text":"遭影子机构背叛后，孤身追杀更强的影子豆军团","dimension":"故事","excerpt":"After being betrayed by the Shadow Agency and learning the truth about their evil ways, Killer Bean has made it his life goal to destroy them. Yet this is easier said than done, as Killer Bean will face armies of enemies, and mysterious Shadow Beans who are better trained and more powerful than him.","url":"https://store.steampowered.com/app/1597080/","label":"证据原文片段"},{"text":"随机武器技能搭配载具、机甲与布娃娃物理混战","dimension":"玩法","excerpt":"Randomized weapon skills Enemy vehicles, aircraft, and mechs Ragdolls and physics combat galore","url":"https://store.steampowered.com/app/1597080/","label":"证据原文片段"}],"opinions":[{"text":"当前版本更像概念验证而非完整游戏。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"feels more like a proof of concept rather than an actual, playable game","url":"https://steamcommunity.com/id/aye_yuhh/recommended/1597080/","label":"证据原文片段"}]},{"text":"按键输入有时完全失效。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"sometimes button inputs straight up don't work","url":"https://steamcommunity.com/id/Beinglonelydoesthingstoyou/recommended/1597080/","label":"证据原文片段"}]},{"text":"肉鸽数值升级对玩法影响很小。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"meaningless stat upgrades that have little to no impact on gameplay","url":"https://steamcommunity.com/id/MrBlaha/recommended/1597080/","label":"证据原文片段"}]},{"text":"敌人会生成在墙内。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"enemies spawn in walls","url":"https://steamcommunity.com/id/Beinglonelydoesthingstoyou/recommended/1597080/","label":"证据原文片段"}]},{"text":"角色控制的核心手感表面上很有乐趣。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the core feeling of controlling Killer Bean is fun on the surface","url":"https://steamcommunity.com/id/MrBlaha/recommended/1597080/","label":"证据原文片段"}]},{"text":"枪战与临场策略本身很有趣。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the gunplay and strats you have to come up with is also very fun","url":"https://steamcommunity.com/id/Beinglonelydoesthingstoyou/recommended/1597080/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":46992,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1025641,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":45667,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":516123,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":48279,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":48279,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.0990242910584263,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2232,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":73,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":73.100983,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["当前版本更像概念验证而非完整游戏。","按键输入有时完全失效。","肉鸽数值升级对玩法影响很小。","敌人会生成在墙内。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/6f3bc2cf57389ee246839de439ff575902bc3444/ss_6f3bc2cf57389ee246839de439ff575902bc3444.1920x1080.jpg?t=1781379774","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/6f3bc2cf57389ee246839de439ff575902bc3444/ss_6f3bc2cf57389ee246839de439ff575902bc3444.1920x1080.jpg?t=1781379774","alt":"Killer Bean 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/56eeeeec41e5e60f3b66035186bf1975a0dc543a/ss_56eeeeec41e5e60f3b66035186bf1975a0dc543a.1920x1080.jpg?t=1781379774","alt":"Killer Bean 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/cbbd00d9f8968304139c9c800ae8e66c864b4ad5/ss_cbbd00d9f8968304139c9c800ae8e66c864b4ad5.1920x1080.jpg?t=1781379774","alt":"Killer Bean 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/465fe050974396bcc5ba16666200888773132657/ss_465fe050974396bcc5ba16666200888773132657.1920x1080.jpg?t=1781379774","alt":"Killer Bean 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Killer Bean",
+    "developers": [
+      "Killer Bean Studios LLC"
+    ],
+    "publishers": [
+      "Killer Bean Studios LLC"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-08",
+    "tags": [
+      "轻度Rogue",
+      "轻度Rogue",
+      "开放世界",
+      "动作",
+      "动作冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "咖啡豆刺客可在第一人称与第三人称间展开roguelike枪战",
+      "dimension": "玩法",
+      "excerpt": "You are Killer Bean, a rogue assassin coffee bean, who takes out the trash in this world, one bullet at a time. This is a first person / third person action roguelike.",
+      "url": "https://store.steampowered.com/app/1597080/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "遭影子机构背叛后，孤身追杀更强的影子豆军团",
+      "dimension": "故事",
+      "excerpt": "After being betrayed by the Shadow Agency and learning the truth about their evil ways, Killer Bean has made it his life goal to destroy them. Yet this is easier said than done, as Killer Bean will face armies of enemies, and mysterious Shadow Beans who are better trained and more powerful than him.",
+      "url": "https://store.steampowered.com/app/1597080/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "随机武器技能搭配载具、机甲与布娃娃物理混战",
+      "dimension": "玩法",
+      "excerpt": "Randomized weapon skills Enemy vehicles, aircraft, and mechs Ragdolls and physics combat galore",
+      "url": "https://store.steampowered.com/app/1597080/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "当前版本更像概念验证而非完整游戏。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "feels more like a proof of concept rather than an actual, playable game",
+          "url": "https://steamcommunity.com/id/aye_yuhh/recommended/1597080/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "按键输入有时完全失效。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "sometimes button inputs straight up don't work",
+          "url": "https://steamcommunity.com/id/Beinglonelydoesthingstoyou/recommended/1597080/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "肉鸽数值升级对玩法影响很小。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "meaningless stat upgrades that have little to no impact on gameplay",
+          "url": "https://steamcommunity.com/id/MrBlaha/recommended/1597080/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人会生成在墙内。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "enemies spawn in walls",
+          "url": "https://steamcommunity.com/id/Beinglonelydoesthingstoyou/recommended/1597080/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色控制的核心手感表面上很有乐趣。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the core feeling of controlling Killer Bean is fun on the surface",
+          "url": "https://steamcommunity.com/id/MrBlaha/recommended/1597080/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "枪战与临场策略本身很有趣。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the gunplay and strats you have to come up with is also very fun",
+          "url": "https://steamcommunity.com/id/Beinglonelydoesthingstoyou/recommended/1597080/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 48423,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1012544,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 45904,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 539600,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 49763,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 49763,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.2629309638436084,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2199,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 73,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 73.385689,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "当前版本更像概念验证而非完整游戏。",
+    "按键输入有时完全失效。",
+    "肉鸽数值升级对玩法影响很小。",
+    "敌人会生成在墙内。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Killer Bean位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/6f3bc2cf57389ee246839de439ff575902bc3444/ss_6f3bc2cf57389ee246839de439ff575902bc3444.1920x1080.jpg?t=1781379774",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/6f3bc2cf57389ee246839de439ff575902bc3444/ss_6f3bc2cf57389ee246839de439ff575902bc3444.1920x1080.jpg?t=1786814567",
+        "alt": "Killer Bean 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/56eeeeec41e5e60f3b66035186bf1975a0dc543a/ss_56eeeeec41e5e60f3b66035186bf1975a0dc543a.1920x1080.jpg?t=1786814567",
+        "alt": "Killer Bean 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/cbbd00d9f8968304139c9c800ae8e66c864b4ad5/ss_cbbd00d9f8968304139c9c800ae8e66c864b4ad5.1920x1080.jpg?t=1786814567",
+        "alt": "Killer Bean 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/465fe050974396bcc5ba16666200888773132657/ss_465fe050974396bcc5ba16666200888773132657.1920x1080.jpg?t=1786814567",
+        "alt": "Killer Bean 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/b83ed11211ef2d947be23e05adbf6b353f31354b/ss_b83ed11211ef2d947be23e05adbf6b353f31354b.1920x1080.jpg?t=1786814567",
+        "alt": "Killer Bean 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/0c188f6c208c675abda958eff054f7174bae5e6c/ss_0c188f6c208c675abda958eff054f7174bae5e6c.1920x1080.jpg?t=1786814567",
+        "alt": "Killer Bean 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/3034a3d9e8819dfb9758910ef7866f7a3bab7bec/ss_3034a3d9e8819dfb9758910ef7866f7a3bab7bec.1920x1080.jpg?t=1786814567",
+        "alt": "Killer Bean 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/1be2a3b07152d04f49007f3c9cb7468555f2c4ae/ss_1be2a3b07152d04f49007f3c9cb7468555f2c4ae.1920x1080.jpg?t=1786814567",
+        "alt": "Killer Bean 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

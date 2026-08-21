@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Don't Die, Collect Loot","developers":["Dan Marchand"],"publishers":["indie.io"],"release_status":"early_access","release_date":"2025-09-19","tags":["抢先体验","轻度Rogue","弹幕射击","角色扮演","冒险"]},"hooks":[{"text":"力量没有上限，成为世界最强后仍能继续无限成长","dimension":"玩法","excerpt":"Become the most powerful being in the world - and then grow even more powerful, with no limits on just how mighty your chosen hero can become.","url":"https://store.steampowered.com/app/2052160/","label":"证据原文片段"},{"text":"随机战利品既可能产出超强装备也可能只是垃圾，并偶尔出现稀有唯一物","dimension":"玩法","excerpt":"Kit out your hero using a random loot generator that can and will create supercharged items (or vendor trash, you never know!), with a rare unique every now and then. All completely customizable to boot!","url":"https://store.steampowered.com/app/2052160/","label":"证据原文片段"},{"text":"甚至在一局进行中也能随时调节挑战强度与游玩阻力","dimension":"玩法","excerpt":"Customize your experience and make it as challenging or as frictionless as you prefer, even in the middle of a run.","url":"https://store.steampowered.com/app/2052160/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6413,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":21606,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1537,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":45079,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6822,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6822,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.47402177472104,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":175,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/3dc7ee482aff740eceb4f7cfbce7216be3aab99d/ss_3dc7ee482aff740eceb4f7cfbce7216be3aab99d.1920x1080.jpg?t=1783613060","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/3dc7ee482aff740eceb4f7cfbce7216be3aab99d/ss_3dc7ee482aff740eceb4f7cfbce7216be3aab99d.1920x1080.jpg?t=1783613060","alt":"Don't Die, Collect Loot 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/3a3c9bdc6efbb56bf5046c351b81c5c30f290687/ss_3a3c9bdc6efbb56bf5046c351b81c5c30f290687.1920x1080.jpg?t=1783613060","alt":"Don't Die, Collect Loot 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/ac5a661bd02b347850b5929a67a329f709c674d6/ss_ac5a661bd02b347850b5929a67a329f709c674d6.1920x1080.jpg?t=1783613060","alt":"Don't Die, Collect Loot 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/00c449bc77d36e0691472faf203295254c474781/ss_00c449bc77d36e0691472faf203295254c474781.1920x1080.jpg?t=1783613060","alt":"Don't Die, Collect Loot 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Don't Die, Collect Loot",
+    "developers": [
+      "Dan Marchand"
+    ],
+    "publishers": [
+      "indie.io"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-09-19",
+    "tags": [
+      "抢先体验",
+      "轻度Rogue",
+      "弹幕射击",
+      "角色扮演",
+      "冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "力量没有上限，成为世界最强后仍能继续无限成长",
+      "dimension": "玩法",
+      "excerpt": "Become the most powerful being in the world - and then grow even more powerful, with no limits on just how mighty your chosen hero can become.",
+      "url": "https://store.steampowered.com/app/2052160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "随机战利品既可能产出超强装备也可能只是垃圾，并偶尔出现稀有唯一物",
+      "dimension": "玩法",
+      "excerpt": "Kit out your hero using a random loot generator that can and will create supercharged items (or vendor trash, you never know!), with a rare unique every now and then. All completely customizable to boot!",
+      "url": "https://store.steampowered.com/app/2052160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "甚至在一局进行中也能随时调节挑战强度与游玩阻力",
+      "dimension": "玩法",
+      "excerpt": "Customize your experience and make it as challenging or as frictionless as you prefer, even in the middle of a run.",
+      "url": "https://store.steampowered.com/app/2052160/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7632,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 21734,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1538,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 54562,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8119,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8119,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.909997162554621,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 160,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Don't Die, Collect Loot位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/3dc7ee482aff740eceb4f7cfbce7216be3aab99d/ss_3dc7ee482aff740eceb4f7cfbce7216be3aab99d.1920x1080.jpg?t=1783613060",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/3dc7ee482aff740eceb4f7cfbce7216be3aab99d/ss_3dc7ee482aff740eceb4f7cfbce7216be3aab99d.1920x1080.jpg?t=1783613060",
+        "alt": "Don't Die, Collect Loot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/3a3c9bdc6efbb56bf5046c351b81c5c30f290687/ss_3a3c9bdc6efbb56bf5046c351b81c5c30f290687.1920x1080.jpg?t=1783613060",
+        "alt": "Don't Die, Collect Loot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/ac5a661bd02b347850b5929a67a329f709c674d6/ss_ac5a661bd02b347850b5929a67a329f709c674d6.1920x1080.jpg?t=1783613060",
+        "alt": "Don't Die, Collect Loot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/00c449bc77d36e0691472faf203295254c474781/ss_00c449bc77d36e0691472faf203295254c474781.1920x1080.jpg?t=1783613060",
+        "alt": "Don't Die, Collect Loot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/15bdbfb284e68925cd091bf4688f257903d7ae3f/ss_15bdbfb284e68925cd091bf4688f257903d7ae3f.1920x1080.jpg?t=1783613060",
+        "alt": "Don't Die, Collect Loot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/3da7f7937fd8748081a901645ace61d044a2bf2d/ss_3da7f7937fd8748081a901645ace61d044a2bf2d.1920x1080.jpg?t=1783613060",
+        "alt": "Don't Die, Collect Loot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/0da489f88cfe8aa47bfaa91efa44e20784823683/ss_0da489f88cfe8aa47bfaa91efa44e20784823683.1920x1080.jpg?t=1783613060",
+        "alt": "Don't Die, Collect Loot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052160/70f905f440d18906d9f4b4f3086856caf59074ee/ss_70f905f440d18906d9f4b4f3086856caf59074ee.1920x1080.jpg?t=1783613060",
+        "alt": "Don't Die, Collect Loot 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

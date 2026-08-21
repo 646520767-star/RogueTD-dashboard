@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Outcast Tales: The First Journey","developers":["Hardlane Studio"],"publishers":["CRITICAL REFLEX"],"release_status":"released","release_date":"2024-01-29","tags":["轻度Rogue","回合制战斗","类Rogue","回合制战术","末日后"]},"hooks":[{"text":"针对机器人、变种人与荒漠劫匪的弱点，把队员能力组合成战术连携","dimension":"玩法","excerpt":"Robots, mutants, desert raiders: almost all enemies have something up their sleeve. So do your characters: some abilities are most effective in combination with others. Find your opponents' weaknesses, humiliate them on the battlefield, and never ponder the moral implications of your actions!","url":"https://store.steampowered.com/app/882590/","label":"证据原文片段"},{"text":"职业与人格交叉决定角色技能，同为佣兵也会因反英雄或传教士性格而不同","dimension":"玩法","excerpt":"Combine class and personality types to give each of your characters a unique set of abilities. A Preacher Mercenary and an Antihero Mercenary will behave quite differently.","url":"https://store.steampowered.com/app/882590/","label":"证据原文片段"},{"text":"Twitch观众可直接替队伍决定事件、下一目的地与能力升级","dimension":"玩法","excerpt":"Connect the game to your Twitch account so that your viewers can influence the gameplay! The Twitch Integration feature will enable your chat to make crucial decisions during events, as well as choose your next destination or ability upgrade.","url":"https://store.steampowered.com/app/882590/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":23168,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10167,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4823,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":23168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":23168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.0031420838845024,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":252,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.03937,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、回合制战斗","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_58c388d76d3fda9698d40d58f6b638f704e50101.1920x1080.jpg?t=1740261615","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_58c388d76d3fda9698d40d58f6b638f704e50101.1920x1080.jpg?t=1740261615","alt":"流放者传说：初踏旅程 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_50c614368e74953e960f3a0687f725f1d3364c7c.1920x1080.jpg?t=1740261615","alt":"流放者传说：初踏旅程 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_73649058e6c5b9cab20ecb78025d3cbb28fdb165.1920x1080.jpg?t=1740261615","alt":"流放者传说：初踏旅程 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_62acd3679d5d79b5ad0c96fcc1f3d396ede52131.1920x1080.jpg?t=1740261615","alt":"流放者传说：初踏旅程 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Outcast Tales: The First Journey",
+    "developers": [
+      "Hardlane Studio"
+    ],
+    "publishers": [
+      "Hardlane Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-29",
+    "tags": [
+      "轻度Rogue",
+      "回合制战斗",
+      "类Rogue",
+      "类Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "针对机器人、变种人与荒漠劫匪的弱点，把队员能力组合成战术连携",
+      "dimension": "玩法",
+      "excerpt": "Robots, mutants, desert raiders: almost all enemies have something up their sleeve. So do your characters: some abilities are most effective in combination with others. Find your opponents' weaknesses, humiliate them on the battlefield, and never ponder the moral implications of your actions!",
+      "url": "https://store.steampowered.com/app/882590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "职业与人格交叉决定角色技能，同为佣兵也会因反英雄或传教士性格而不同",
+      "dimension": "玩法",
+      "excerpt": "Combine class and personality types to give each of your characters a unique set of abilities. A Preacher Mercenary and an Antihero Mercenary will behave quite differently.",
+      "url": "https://store.steampowered.com/app/882590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Twitch观众可直接替队伍决定事件、下一目的地与能力升级",
+      "dimension": "玩法",
+      "excerpt": "Connect the game to your Twitch account so that your viewers can influence the gameplay! The Twitch Integration feature will enable your chat to make crucial decisions during events, as well as choose your next destination or ability upgrade.",
+      "url": "https://store.steampowered.com/app/882590/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "The mix of challenging gameplay and fun entertaining narrative totally hooked me.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The mix of challenging gameplay and fun entertaining narrative totally hooked me.",
+          "url": "https://steamcommunity.com/id/b1rt1/recommended/882590/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "A very fun story-rich rogue-like with turn-based combat and amazing narrator VA",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "A very fun story-rich rogue-like with turn-based combat and amazing narrator VA",
+          "url": "https://steamcommunity.com/id/antkh/recommended/882590/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "I was quite surprised overall, main mechanics felt simple, yet quite skill-dependant, RNG is rather limited since you can see enemy actions for their next turn (which is a big improvement for me from Darkest Dungeon as an example), also base miss/crit chances are very low.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "I was quite surprised overall, main mechanics felt simple, yet quite skill-dependant, RNG is rather limited since you can see enemy actions for their next turn (which is a big improvement for me from Darkest Dungeon as an example), also base miss/crit chances are very low.",
+          "url": "https://steamcommunity.com/id/evseihotuanovich/recommended/882590/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "文本比较多，有新意的地方是加入了关系，对话分支系统。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "文本比较多，有新意的地方是加入了关系，对话分支系统。",
+          "url": "https://steamcommunity.com/profiles/76561198995387103/recommended/882590/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Roguelike turn-based strategy RPG with deep combat, tough decisions and impactful choices thats gonna hook you up for a looong ride that you don't wanna to end.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Roguelike turn-based strategy RPG with deep combat, tough decisions and impactful choices thats gonna hook you up for a looong ride that you don't wanna to end.",
+          "url": "https://store.steampowered.com/curator/31771734-Da-Way-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Engaging, challenging combat.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Engaging, challenging combat.",
+          "url": "https://store.steampowered.com/curator/35075962-JustDaZack/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Ragtag Crew features great writing in a crew management style game, balancing combat with a new twist of differing personalities within your crew to make your run last as long as possible.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Ragtag Crew features great writing in a crew management style game, balancing combat with a new twist of differing personalities within your crew to make your run last as long as possible.",
+          "url": "https://store.steampowered.com/curator/40569399-Beta-Tested-Game-Reviewed/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Good: interesting combat system, pleasant gfx style.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Good: interesting combat system, pleasant gfx style.",
+          "url": "https://store.steampowered.com/curator/43946907-Friendly-Nerd/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 23332,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4822,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 23332,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 23332,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.9907602661265638,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 260,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.615385,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "流放者传说：初踏旅程位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_58c388d76d3fda9698d40d58f6b638f704e50101.1920x1080.jpg?t=1740261615",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_58c388d76d3fda9698d40d58f6b638f704e50101.1920x1080.jpg?t=1786716454",
+        "alt": "流放者传说：初踏旅程 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_50c614368e74953e960f3a0687f725f1d3364c7c.1920x1080.jpg?t=1786716454",
+        "alt": "流放者传说：初踏旅程 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_73649058e6c5b9cab20ecb78025d3cbb28fdb165.1920x1080.jpg?t=1786716454",
+        "alt": "流放者传说：初踏旅程 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_62acd3679d5d79b5ad0c96fcc1f3d396ede52131.1920x1080.jpg?t=1786716454",
+        "alt": "流放者传说：初踏旅程 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_a17a2f2f7e8a98f9f63a43fb294334eb2296d6ec.1920x1080.jpg?t=1786716454",
+        "alt": "流放者传说：初踏旅程 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_e545224968543dc8385f4632caffa046a6125e64.1920x1080.jpg?t=1786716454",
+        "alt": "流放者传说：初踏旅程 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_2d447ecfdbcc011d368cabbabd369cde107f4d4a.1920x1080.jpg?t=1786716454",
+        "alt": "流放者传说：初踏旅程 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882590/ss_f59f0da337e41b35c9189c07b3281c4abfe29440.1920x1080.jpg?t=1786716454",
+        "alt": "流放者传说：初踏旅程 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

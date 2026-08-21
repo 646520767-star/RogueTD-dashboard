@@ -1,1 +1,315 @@
-{"identity":{"original_title":"He is Coming","developers":["Chronocle"],"publishers":["Hooded Horse"],"release_status":"early_access","release_date":"2025-07-17","tags":["策略","类Rogue","地牢探索","轻度Rogue","中世纪"]},"hooks":[{"text":"每三天从三十余名首领池中生成新猎手，必须先研究其能力再针对性换装","dimension":"玩法","excerpt":"Every three days, a terrifying new minion of the Demon King begins his hunt, drawn from a pool of over 30 potential bosses. Study each monster’s strengths and unique powers, and adapt your build accordingly.","url":"https://store.steampowered.com/app/2824490/","label":"证据原文片段"},{"text":"有限背包迫使构筑在当前猎手与下一名强敌之间持续权衡，不能只优化眼前战斗","dimension":"玩法","excerpt":"There are a plethora of options for each threat, with a variety of powerful combinations to be discovered and exploited at your disposal among the countless items, and constant tradeoffs between the near and long-term threats – with limited space in your inventory, you must choose wisely and adapt constantly.","url":"https://store.steampowered.com/app/2824490/","label":"证据原文片段"},{"text":"Kingmaker让自己的英雄异步挑战他人构筑，也可与朋友实时备战并每三天决斗一次","dimension":"玩法","excerpt":"Seek out the fallen Demon King’s crown in asynchronous multiplayer mode \"Kingmaker\" – the ultimate test of your strategies where your champion faces off against the powerful builds of other players – or challenge your friend to duel in real-time, exploring the world to prepare builds and face each other every three days until a victor is crowned.","url":"https://store.steampowered.com/app/2824490/","label":"证据原文片段"}],"opinions":[{"text":"结果过度依赖随机地图和随机奖励。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"too dependent on the random map layout + the random available rewards","url":"https://steamcommunity.com/profiles/76561198059488747/recommended/2824490/","label":"证据原文片段"}]},{"text":"能击败Boss的组合过少，流程像碰运气。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"hoping for one of the 3 or 4 combinations that can beat the boss","url":"https://steamcommunity.com/id/thisisnttheurlyouarelookingfor/recommended/2824490/","label":"证据原文片段"}]},{"text":"自动战斗移除了过多选择。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Autobattling feels like it removes too many choices","url":"https://steamcommunity.com/profiles/76561198059488747/recommended/2824490/","label":"证据原文片段"}]},{"text":"挑战模式缺少最低可玩性的随机保护。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"there's no weighted RNG or guardrails in place","url":"https://steamcommunity.com/id/thisisnttheurlyouarelookingfor/recommended/2824490/","label":"证据原文片段"}]},{"text":"运气操控手段不足。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"that sort of luck manipulation, but barely so.","url":"https://steamcommunity.com/id/thisisnttheurlyouarelookingfor/recommended/2824490/","label":"证据原文片段"}]},{"text":"地图知识会持续改善每一步决策。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"uncovering new map knowledge informs your decision making at every step.","url":"https://steamcommunity.com/id/reddragon1988/recommended/2824490/","label":"证据原文片段"}]},{"text":"核心循环具有强烈再来一局吸引力。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Just one more run...","url":"https://steamcommunity.com/profiles/76561198418675113/recommended/2824490/","label":"证据原文片段"}]},{"text":"图鉴中的隐藏目标方便解锁物品。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"hidden objectives laid out in the compendium. That makes unlocking all of the items way easier!!","url":"https://steamcommunity.com/profiles/76561198216486839/recommended/2824490/","label":"证据原文片段"}]},{"text":"循环容易学习但难以精通。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The gameplay loop is easy to learn, but difficult to master.","url":"https://steamcommunity.com/profiles/76561198216486839/recommended/2824490/","label":"证据原文片段"}]},{"text":"玩家对移动与拾取的直接控制感良好。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the more direct player agency regarding where you move and what you pick","url":"https://steamcommunity.com/id/reddragon1988/recommended/2824490/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":258377,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":381286,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":23962,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2534540,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":274035,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":274035,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.236391066618795,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":4006,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.812329,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["结果过度依赖随机地图和随机奖励。","能击败Boss的组合过少，流程像碰运气。","自动战斗移除了过多选择。","挑战模式缺少最低可玩性的随机保护。","运气操控手段不足。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/a443f394bed8e7c3b02fa8e4382ec59dc7575b32/ss_a443f394bed8e7c3b02fa8e4382ec59dc7575b32.1920x1080.jpg?t=1784301406","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/a443f394bed8e7c3b02fa8e4382ec59dc7575b32/ss_a443f394bed8e7c3b02fa8e4382ec59dc7575b32.1920x1080.jpg?t=1784301406","alt":"魔王将至 He is Coming 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/c9ede5ac43a16793b692cef4965289689115b0d6/ss_c9ede5ac43a16793b692cef4965289689115b0d6.1920x1080.jpg?t=1784301406","alt":"魔王将至 He is Coming 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/227e9b0f4cd327a987705ae1f4c8fbf241abe6a5/ss_227e9b0f4cd327a987705ae1f4c8fbf241abe6a5.1920x1080.jpg?t=1784301406","alt":"魔王将至 He is Coming 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/340ddbe2ee6b2467cbe3bed663c1f223d7103513/ss_340ddbe2ee6b2467cbe3bed663c1f223d7103513.1920x1080.jpg?t=1784301406","alt":"魔王将至 He is Coming 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "He is Coming",
+    "developers": [
+      "Chronocle"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-07-17",
+    "tags": [
+      "策略",
+      "类Rogue",
+      "地牢探索",
+      "轻度Rogue",
+      "中世纪"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每三天从三十余名首领池中生成新猎手，必须先研究其能力再针对性换装",
+      "dimension": "玩法",
+      "excerpt": "Every three days, a terrifying new minion of the Demon King begins his hunt, drawn from a pool of over 30 potential bosses. Study each monster’s strengths and unique powers, and adapt your build accordingly.",
+      "url": "https://store.steampowered.com/app/2824490/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "有限背包迫使构筑在当前猎手与下一名强敌之间持续权衡，不能只优化眼前战斗",
+      "dimension": "玩法",
+      "excerpt": "There are a plethora of options for each threat, with a variety of powerful combinations to be discovered and exploited at your disposal among the countless items, and constant tradeoffs between the near and long-term threats – with limited space in your inventory, you must choose wisely and adapt constantly.",
+      "url": "https://store.steampowered.com/app/2824490/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Kingmaker让自己的英雄异步挑战他人构筑，也可与朋友实时备战并每三天决斗一次",
+      "dimension": "玩法",
+      "excerpt": "Seek out the fallen Demon King’s crown in asynchronous multiplayer mode \"Kingmaker\" – the ultimate test of your strategies where your champion faces off against the powerful builds of other players – or challenge your friend to duel in real-time, exploring the world to prepare builds and face each other every three days until a victor is crowned.",
+      "url": "https://store.steampowered.com/app/2824490/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "结果过度依赖随机地图和随机奖励。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "too dependent on the random map layout + the random available rewards",
+          "url": "https://steamcommunity.com/profiles/76561198059488747/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "能击败Boss的组合过少，流程像碰运气。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "hoping for one of the 3 or 4 combinations that can beat the boss",
+          "url": "https://steamcommunity.com/id/thisisnttheurlyouarelookingfor/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "自动战斗移除了过多选择。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Autobattling feels like it removes too many choices",
+          "url": "https://steamcommunity.com/profiles/76561198059488747/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "挑战模式缺少最低可玩性的随机保护。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "there's no weighted RNG or guardrails in place",
+          "url": "https://steamcommunity.com/id/thisisnttheurlyouarelookingfor/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "运气操控手段不足。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "that sort of luck manipulation, but barely so.",
+          "url": "https://steamcommunity.com/id/thisisnttheurlyouarelookingfor/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "地图知识会持续改善每一步决策。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "uncovering new map knowledge informs your decision making at every step.",
+          "url": "https://steamcommunity.com/id/reddragon1988/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心循环具有强烈再来一局吸引力。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Just one more run...",
+          "url": "https://steamcommunity.com/profiles/76561198418675113/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "图鉴中的隐藏目标方便解锁物品。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "hidden objectives laid out in the compendium. That makes unlocking all of the items way easier!!",
+          "url": "https://steamcommunity.com/profiles/76561198216486839/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "循环容易学习但难以精通。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The gameplay loop is easy to learn, but difficult to master.",
+          "url": "https://steamcommunity.com/profiles/76561198216486839/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩家对移动与拾取的直接控制感良好。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the more direct player agency regarding where you move and what you pick",
+          "url": "https://steamcommunity.com/id/reddragon1988/recommended/2824490/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 266561,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 382267,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 24052,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2621579,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 282488,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 282488,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.0035281374988,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3767,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.915792,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "结果过度依赖随机地图和随机奖励。",
+    "能击败Boss的组合过少，流程像碰运气。",
+    "自动战斗移除了过多选择。",
+    "挑战模式缺少最低可玩性的随机保护。",
+    "运气操控手段不足。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "魔王将至 He is Coming位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/a443f394bed8e7c3b02fa8e4382ec59dc7575b32/ss_a443f394bed8e7c3b02fa8e4382ec59dc7575b32.1920x1080.jpg?t=1784301406",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/a443f394bed8e7c3b02fa8e4382ec59dc7575b32/ss_a443f394bed8e7c3b02fa8e4382ec59dc7575b32.1920x1080.jpg?t=1786634561",
+        "alt": "魔王将至 He is Coming 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/c9ede5ac43a16793b692cef4965289689115b0d6/ss_c9ede5ac43a16793b692cef4965289689115b0d6.1920x1080.jpg?t=1786634561",
+        "alt": "魔王将至 He is Coming 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/227e9b0f4cd327a987705ae1f4c8fbf241abe6a5/ss_227e9b0f4cd327a987705ae1f4c8fbf241abe6a5.1920x1080.jpg?t=1786634561",
+        "alt": "魔王将至 He is Coming 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/340ddbe2ee6b2467cbe3bed663c1f223d7103513/ss_340ddbe2ee6b2467cbe3bed663c1f223d7103513.1920x1080.jpg?t=1786634561",
+        "alt": "魔王将至 He is Coming 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/a48ce68ebd5f57a4b4639390603b08eef5034c77/ss_a48ce68ebd5f57a4b4639390603b08eef5034c77.1920x1080.jpg?t=1786634561",
+        "alt": "魔王将至 He is Coming 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/db3519a79b0b7d87ff925f03d6fea2f778e27d87/ss_db3519a79b0b7d87ff925f03d6fea2f778e27d87.1920x1080.jpg?t=1786634561",
+        "alt": "魔王将至 He is Coming 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/274c3b45073d0e754b8c80e8cab3d6e9b824f3b4/ss_274c3b45073d0e754b8c80e8cab3d6e9b824f3b4.1920x1080.jpg?t=1786634561",
+        "alt": "魔王将至 He is Coming 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/b11d7872cb662a2f26a095c2838577a51e1c5bd3/ss_b11d7872cb662a2f26a095c2838577a51e1c5bd3.1920x1080.jpg?t=1786634561",
+        "alt": "魔王将至 He is Coming 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

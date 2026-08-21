@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Wizard of Legend 2","developers":["Dead Mage"],"publishers":["Balor Games"],"release_status":"released","release_date":"2025-06-12","tags":["动作肉鸽","在线合作","类Rogue","地牢探索","砍杀"]},"hooks":[{"text":"奥术覆盖火水土雷风与混沌，途中获得的力量还能意外改写法术本身与打法","dimension":"玩法","excerpt":"Discover powers during your trial that change your Arcana (and your play) in unexpected ways. Mix, match, experiment, and master your favorite combinations…until you find a new favorite on your next run. Command the raw aspects of fire, water, earth, lightning, air, and chaos.","url":"https://store.steampowered.com/app/2193540/","label":"证据原文片段"},{"text":"最多四名法师在线组队，把不同奥术同时释放成更混乱的协同战斗","dimension":"玩法","excerpt":"Prepare to face an all-new series of unpredictably perilous trials in Wizard of Legend 2—the action-packed follow-up to the acclaimed dungeon-delving original, featuring vibrant new 3D visuals and fast-paced 4-player online co-op.","url":"https://store.steampowered.com/app/2193540/","label":"证据原文片段"},{"text":"每次失败都会通过持久成长为下一位挑战者增加更多奥术选择","dimension":"玩法","excerpt":"Learn from your predecessors’ failures through a persistent rogue-lite progression system that grants more arcane options to your next initiate.","url":"https://store.steampowered.com/app/2193540/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":142143,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":407972,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":29057,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2601534,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":168766,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":168766,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.310615676055222,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2516,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":52,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":52.324195,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为52.324195%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_759c1cb6190b07cf1e12080763af2374d1f64a78.1920x1080.jpg?t=1774644778","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_759c1cb6190b07cf1e12080763af2374d1f64a78.1920x1080.jpg?t=1774644778","alt":"传说法师2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_f291d630334a86770eac1730dc6bfc0458930c70.1920x1080.jpg?t=1774644778","alt":"传说法师2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_b89f290513e607d34e1c339023876c2442c2519f.1920x1080.jpg?t=1774644778","alt":"传说法师2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_b48fc3692d8178b86e06306065887e77a8eb149d.1920x1080.jpg?t=1774644778","alt":"传说法师2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Wizard of Legend 2",
+    "developers": [
+      "Dead Mage"
+    ],
+    "publishers": [
+      "Balor Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-06-12",
+    "tags": [
+      "动作肉鸽",
+      "在线合作",
+      "类Rogue",
+      "地牢探索",
+      "砍杀"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "奥术覆盖火水土雷风与混沌，途中获得的力量还能意外改写法术本身与打法",
+      "dimension": "玩法",
+      "excerpt": "Discover powers during your trial that change your Arcana (and your play) in unexpected ways. Mix, match, experiment, and master your favorite combinations…until you find a new favorite on your next run. Command the raw aspects of fire, water, earth, lightning, air, and chaos.",
+      "url": "https://store.steampowered.com/app/2193540/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "最多四名法师在线组队，把不同奥术同时释放成更混乱的协同战斗",
+      "dimension": "玩法",
+      "excerpt": "Prepare to face an all-new series of unpredictably perilous trials in Wizard of Legend 2—the action-packed follow-up to the acclaimed dungeon-delving original, featuring vibrant new 3D visuals and fast-paced 4-player online co-op.",
+      "url": "https://store.steampowered.com/app/2193540/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次失败都会通过持久成长为下一位挑战者增加更多奥术选择",
+      "dimension": "玩法",
+      "excerpt": "Learn from your predecessors’ failures through a persistent rogue-lite progression system that grants more arcane options to your next initiate.",
+      "url": "https://store.steampowered.com/app/2193540/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 147672,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 406555,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 29070,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2672138,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 175775,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 175775,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.069906151169195,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1956,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 52,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 52.187623,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为52.324195%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "传说法师2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_759c1cb6190b07cf1e12080763af2374d1f64a78.1920x1080.jpg?t=1774644778",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_759c1cb6190b07cf1e12080763af2374d1f64a78.1920x1080.jpg?t=1774644778",
+        "alt": "传说法师2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_f291d630334a86770eac1730dc6bfc0458930c70.1920x1080.jpg?t=1774644778",
+        "alt": "传说法师2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_b89f290513e607d34e1c339023876c2442c2519f.1920x1080.jpg?t=1774644778",
+        "alt": "传说法师2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_b48fc3692d8178b86e06306065887e77a8eb149d.1920x1080.jpg?t=1774644778",
+        "alt": "传说法师2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_7aa191a02d29caea6aefde7984722f8e9be9cfab.1920x1080.jpg?t=1774644778",
+        "alt": "传说法师2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_4484a8d157b4af98c535645f4be1b9b38e0bdb76.1920x1080.jpg?t=1774644778",
+        "alt": "传说法师2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_2e3742cfc4535b1ce834cb4b62f7ea10d0bf56a3.1920x1080.jpg?t=1774644778",
+        "alt": "传说法师2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/ss_6ca9ce63409ce058e4cc6ccfb6c15e57c238736c.1920x1080.jpg?t=1774644778",
+        "alt": "传说法师2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Pay 2 Win: The World is Mine","developers":["Patriots Division"],"publishers":["Zero Percent"],"release_status":"released","release_date":"2026-06-04","tags":["增量成长","策略","喜剧","赛博朋克","休闲"]},"hooks":[{"text":"在二维工作室网格中相邻布置设施，触发增益、连锁与产出倍率来推动增长。","dimension":"玩法","excerpt":"Placing certain facilities together activates unique buffs, combos, and output multipliers that benefit your run, letting you reach greater levels and unlock new progression.","url":"https://store.steampowered.com/app/3390280/","label":"证据原文片段"},{"text":"同一局可走放置挂机路线，也可转向点击、冷却和增减益管理的主动玩法。","dimension":"玩法","excerpt":"Play a run in a standard idle fashion, gaining buffs and output bonuses based on leaving your game idle, or opt into more active playstyles and select facilities that work with click actions, managing cooldowns, juggling buffs and debuffs, and so much more!","url":"https://store.steampowered.com/app/3390280/","label":"证据原文片段"},{"text":"经营濒临倒闭的游戏工作室时，关键决策会改变问题处理方式与故事走向。","dimension":"故事","excerpt":"How you do this is up to you - at key points in the story, you'll have the option to decide how best to approach problems, resolve scenarios, and alter the course of the story.","url":"https://store.steampowered.com/app/3390280/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2129,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":15252,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":659,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":22125,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2321,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2321,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.785344430261187,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":59,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":84.745763,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"增量成长、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/ab17ce972d9fb2e61f694a48f1e853bad549f0d2/ss_ab17ce972d9fb2e61f694a48f1e853bad549f0d2.1920x1080.jpg?t=1782737780","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/ab17ce972d9fb2e61f694a48f1e853bad549f0d2/ss_ab17ce972d9fb2e61f694a48f1e853bad549f0d2.1920x1080.jpg?t=1782737780","alt":"Pay 2 Win: The World is Mine 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/4c0a810d0287b751945a24e9970bcf5695d429a6/ss_4c0a810d0287b751945a24e9970bcf5695d429a6.1920x1080.jpg?t=1782737780","alt":"Pay 2 Win: The World is Mine 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/351ad122b8e4e235032c0c00a9e3f2699f93b321/ss_351ad122b8e4e235032c0c00a9e3f2699f93b321.1920x1080.jpg?t=1782737780","alt":"Pay 2 Win: The World is Mine 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/977565439eeb261e028556962a2a70f77f6c7a74/ss_977565439eeb261e028556962a2a70f77f6c7a74.1920x1080.jpg?t=1782737780","alt":"Pay 2 Win: The World is Mine 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pay 2 Win: The World is Mine",
+    "developers": [
+      "Patriots Division"
+    ],
+    "publishers": [
+      "Zero Percent"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-04",
+    "tags": [
+      "增量成长",
+      "策略",
+      "轻度Rogue",
+      "喜剧",
+      "休闲"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "在二维工作室网格中相邻布置设施，触发增益、连锁与产出倍率来推动增长。",
+      "dimension": "玩法",
+      "excerpt": "Placing certain facilities together activates unique buffs, combos, and output multipliers that benefit your run, letting you reach greater levels and unlock new progression.",
+      "url": "https://store.steampowered.com/app/3390280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "同一局可走放置挂机路线，也可转向点击、冷却和增减益管理的主动玩法。",
+      "dimension": "玩法",
+      "excerpt": "Play a run in a standard idle fashion, gaining buffs and output bonuses based on leaving your game idle, or opt into more active playstyles and select facilities that work with click actions, managing cooldowns, juggling buffs and debuffs, and so much more!",
+      "url": "https://store.steampowered.com/app/3390280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "经营濒临倒闭的游戏工作室时，关键决策会改变问题处理方式与故事走向。",
+      "dimension": "故事",
+      "excerpt": "How you do this is up to you - at key points in the story, you'll have the option to decide how best to approach problems, resolve scenarios, and alter the course of the story.",
+      "url": "https://store.steampowered.com/app/3390280/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 3194,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 16621,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 685,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 35235,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3459,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3459,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.892725251895397,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 57,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.25,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Pay 2 Win: The World is Mine位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/ab17ce972d9fb2e61f694a48f1e853bad549f0d2/ss_ab17ce972d9fb2e61f694a48f1e853bad549f0d2.1920x1080.jpg?t=1782737780",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/ab17ce972d9fb2e61f694a48f1e853bad549f0d2/ss_ab17ce972d9fb2e61f694a48f1e853bad549f0d2.1920x1080.jpg?t=1786540936",
+        "alt": "Pay 2 Win: The World is Mine 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/4c0a810d0287b751945a24e9970bcf5695d429a6/ss_4c0a810d0287b751945a24e9970bcf5695d429a6.1920x1080.jpg?t=1786540936",
+        "alt": "Pay 2 Win: The World is Mine 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/351ad122b8e4e235032c0c00a9e3f2699f93b321/ss_351ad122b8e4e235032c0c00a9e3f2699f93b321.1920x1080.jpg?t=1786540936",
+        "alt": "Pay 2 Win: The World is Mine 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/977565439eeb261e028556962a2a70f77f6c7a74/ss_977565439eeb261e028556962a2a70f77f6c7a74.1920x1080.jpg?t=1786540936",
+        "alt": "Pay 2 Win: The World is Mine 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/95bba376e311e2e04b4f6f3374b3ac8c12b9a3cf/ss_95bba376e311e2e04b4f6f3374b3ac8c12b9a3cf.1920x1080.jpg?t=1786540936",
+        "alt": "Pay 2 Win: The World is Mine 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/c38a9c0d3e07fe1b22dede3187d984a3dea89943/ss_c38a9c0d3e07fe1b22dede3187d984a3dea89943.1920x1080.jpg?t=1786540936",
+        "alt": "Pay 2 Win: The World is Mine 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/4e740c750513cb67eb145251466e33d1caae6509/ss_4e740c750513cb67eb145251466e33d1caae6509.1920x1080.jpg?t=1786540936",
+        "alt": "Pay 2 Win: The World is Mine 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390280/530aa68c83d5b070937a80136f7fcea6b7ce3e7a/ss_530aa68c83d5b070937a80136f7fcea6b7ce3e7a.1920x1080.jpg?t=1786540936",
+        "alt": "Pay 2 Win: The World is Mine 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

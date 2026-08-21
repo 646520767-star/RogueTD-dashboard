@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Crafty Survivors","developers":["Flannel Bear Games"],"publishers":["Flannel Bear Games"],"release_status":"released","release_date":"2025-05-16","tags":["动作角色扮演","动作肉鸽","轻度Rogue","类Rogue","弹幕射击"]},"hooks":[{"text":"厨师、裁缝和雕塑匠把职业手艺直接转化为不同战斗机制","dimension":"玩法","excerpt":"Select your Crafter Choose from a variety of crafters and artisans with their own unique set of skills and mechanics, for different gameplay experiences. Between cooking your enemies, sewing them together or building statues that will crush your foes, there will always be a crafty way to defend your home!","url":"https://store.steampowered.com/app/2137760/","label":"证据原文片段"},{"text":"把敌人掉落材料投入村庄升级，解锁新角色、增益与更高战力","dimension":"玩法","excerpt":"Upgrade your Village and get more Powerful Gather materials from enemies and use them to upgrade your village, unlocking new characters, extra buffs and grow your power even further.","url":"https://store.steampowered.com/app/2137760/","label":"证据原文片段"},{"text":"每项技能可独立切换手动或自动施放，自由混合操作负担","dimension":"玩法","excerpt":"Craft Your Own Way to Play Toggle skills between manual and auto casting individually! Find the ones that work best in each mode, mixing and matching to fit your own playstyle! Everything on manual? All Skills on auto? Or a mix of both? It is up to you!","url":"https://store.steampowered.com/app/2137760/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":45884,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":44483,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2817,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":196186,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":48155,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":52971,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.824059926658592,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":757,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.619551,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作角色扮演、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_c60bc07bfb460f1f1718f5aeef5afcb12bb1915c.1920x1080.jpg?t=1755872186","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_c60bc07bfb460f1f1718f5aeef5afcb12bb1915c.1920x1080.jpg?t=1755872186","alt":"Crafty Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_788ba4937aab0c81211adcb3ea8f6dfa080e60fb.1920x1080.jpg?t=1755872186","alt":"Crafty Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_908790ea13d8008601ac6d107c99c85c636d8e23.1920x1080.jpg?t=1755872186","alt":"Crafty Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_184c9e0f3251ec077380476b6f715a024ca331eb.1920x1080.jpg?t=1755872186","alt":"Crafty Survivors 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Crafty Survivors",
+    "developers": [
+      "Flannel Bear Games"
+    ],
+    "publishers": [
+      "Flannel Bear Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-16",
+    "tags": [
+      "动作角色扮演",
+      "动作肉鸽",
+      "轻度Rogue",
+      "类Rogue",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "厨师、裁缝和雕塑匠把职业手艺直接转化为不同战斗机制",
+      "dimension": "玩法",
+      "excerpt": "Select your Crafter Choose from a variety of crafters and artisans with their own unique set of skills and mechanics, for different gameplay experiences. Between cooking your enemies, sewing them together or building statues that will crush your foes, there will always be a crafty way to defend your home!",
+      "url": "https://store.steampowered.com/app/2137760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把敌人掉落材料投入村庄升级，解锁新角色、增益与更高战力",
+      "dimension": "玩法",
+      "excerpt": "Upgrade your Village and get more Powerful Gather materials from enemies and use them to upgrade your village, unlocking new characters, extra buffs and grow your power even further.",
+      "url": "https://store.steampowered.com/app/2137760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每项技能可独立切换手动或自动施放，自由混合操作负担",
+      "dimension": "玩法",
+      "excerpt": "Craft Your Own Way to Play Toggle skills between manual and auto casting individually! Find the ones that work best in each mode, mixing and matching to fit your own playstyle! Everything on manual? All Skills on auto? Or a mix of both? It is up to you!",
+      "url": "https://store.steampowered.com/app/2137760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 47741,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 43468,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2819,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 203753,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 50046,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 55050,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.872612851543376,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 710,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.421053,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Crafty Survivors位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_c60bc07bfb460f1f1718f5aeef5afcb12bb1915c.1920x1080.jpg?t=1755872186",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_c60bc07bfb460f1f1718f5aeef5afcb12bb1915c.1920x1080.jpg?t=1755872186",
+        "alt": "Crafty Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_788ba4937aab0c81211adcb3ea8f6dfa080e60fb.1920x1080.jpg?t=1755872186",
+        "alt": "Crafty Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_908790ea13d8008601ac6d107c99c85c636d8e23.1920x1080.jpg?t=1755872186",
+        "alt": "Crafty Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_184c9e0f3251ec077380476b6f715a024ca331eb.1920x1080.jpg?t=1755872186",
+        "alt": "Crafty Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_8a391e059f1d4fb1be1639dcf6a4166e0c47f56e.1920x1080.jpg?t=1755872186",
+        "alt": "Crafty Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_1754ccfd0b8a56b56b891be8d2d9d66aaaca03ee.1920x1080.jpg?t=1755872186",
+        "alt": "Crafty Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_312a7dece5011482efee170b98aa5d4725431c4d.1920x1080.jpg?t=1755872186",
+        "alt": "Crafty Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137760/ss_0d8d62d8a907335d334d6d35422f1c3fb504f3fc.1920x1080.jpg?t=1755872186",
+        "alt": "Crafty Survivors 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

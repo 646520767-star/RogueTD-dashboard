@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Primordialis","developers":["Kyler Natividad","Keith Sammut"],"publishers":["Kyler Natividad"],"release_status":"early_access","release_date":"2025-07-02","tags":["抢先体验","模拟","物理模拟","动作肉鸽","探索"]},"hooks":[{"text":"用六十多种细胞拼装一条自定义鱼体","dimension":"玩法","excerpt":"Your body is constructed out of cells which each have unique properties and functions. With over 60 cell types to place and combine, there are countless creative combinations you can use to engineer your perfect fish.","url":"https://store.steampowered.com/app/3011360/","label":"证据原文片段"},{"text":"既能造吞噬敌人的巨蛇，也能搭复杂生物电路","dimension":"玩法","excerpt":"whether you want to be a massive serpent that swallows other creatures whole or to tinker with complex mechanisms and circuitry.","url":"https://store.steampowered.com/app/3011360/","label":"证据原文片段"},{"text":"沙盒模式可预演造物方案并研究敌人生物学","dimension":"玩法","excerpt":"You can also play in sandbox mode if you want to perfect your creature design plans before a run, study the biology of your enemies, or just enjoy some relaxed creature building.","url":"https://store.steampowered.com/app/3011360/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":49383,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":73716,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6989,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":851663,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":51070,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":51070,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.861156413293635,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":954,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.416928,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/580960e81555158b19864a05b63c8590576443b4/ss_580960e81555158b19864a05b63c8590576443b4.1920x1080.jpg?t=1751567633","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/580960e81555158b19864a05b63c8590576443b4/ss_580960e81555158b19864a05b63c8590576443b4.1920x1080.jpg?t=1751567633","alt":"Primordialis 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/3e0a227fcee76fbda33d61e8698c9a7df633be24/ss_3e0a227fcee76fbda33d61e8698c9a7df633be24.1920x1080.jpg?t=1751567633","alt":"Primordialis 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/8f7b5bbe5d6c9e3a6132b06256731d34b8926cf3/ss_8f7b5bbe5d6c9e3a6132b06256731d34b8926cf3.1920x1080.jpg?t=1751567633","alt":"Primordialis 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/23d297e24f421542638bd5037fde2a6ffd1047e1/ss_23d297e24f421542638bd5037fde2a6ffd1047e1.1920x1080.jpg?t=1751567633","alt":"Primordialis 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Primordialis",
+    "developers": [
+      "Kyler Natividad",
+      "Keith Sammut"
+    ],
+    "publishers": [
+      "Kyler Natividad"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-07-02",
+    "tags": [
+      "抢先体验",
+      "模拟",
+      "物理模拟",
+      "动作肉鸽",
+      "探索"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用六十多种细胞拼装一条自定义鱼体",
+      "dimension": "玩法",
+      "excerpt": "Your body is constructed out of cells which each have unique properties and functions. With over 60 cell types to place and combine, there are countless creative combinations you can use to engineer your perfect fish.",
+      "url": "https://store.steampowered.com/app/3011360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "既能造吞噬敌人的巨蛇，也能搭复杂生物电路",
+      "dimension": "玩法",
+      "excerpt": "whether you want to be a massive serpent that swallows other creatures whole or to tinker with complex mechanisms and circuitry.",
+      "url": "https://store.steampowered.com/app/3011360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "沙盒模式可预演造物方案并研究敌人生物学",
+      "dimension": "玩法",
+      "excerpt": "You can also play in sandbox mode if you want to perfect your creature design plans before a run, study the biology of your enemies, or just enjoy some relaxed creature building.",
+      "url": "https://store.steampowered.com/app/3011360/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 50650,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 75431,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7074,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 864589,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 52319,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 52319,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.028550551459134,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 942,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.326593,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Primordialis位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/580960e81555158b19864a05b63c8590576443b4/ss_580960e81555158b19864a05b63c8590576443b4.1920x1080.jpg?t=1751567633",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/580960e81555158b19864a05b63c8590576443b4/ss_580960e81555158b19864a05b63c8590576443b4.1920x1080.jpg?t=1751567633",
+        "alt": "Primordialis 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/3e0a227fcee76fbda33d61e8698c9a7df633be24/ss_3e0a227fcee76fbda33d61e8698c9a7df633be24.1920x1080.jpg?t=1751567633",
+        "alt": "Primordialis 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/8f7b5bbe5d6c9e3a6132b06256731d34b8926cf3/ss_8f7b5bbe5d6c9e3a6132b06256731d34b8926cf3.1920x1080.jpg?t=1751567633",
+        "alt": "Primordialis 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/23d297e24f421542638bd5037fde2a6ffd1047e1/ss_23d297e24f421542638bd5037fde2a6ffd1047e1.1920x1080.jpg?t=1751567633",
+        "alt": "Primordialis 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/ca7580c896edd53ae1d925d124e4b8bf6d487881/ss_ca7580c896edd53ae1d925d124e4b8bf6d487881.1920x1080.jpg?t=1751567633",
+        "alt": "Primordialis 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3011360/04ac690ac37fa1978b97cfe0c6ea0b0e5a63b7f1/ss_04ac690ac37fa1978b97cfe0c6ea0b0e5a63b7f1.1920x1080.jpg?t=1751567633",
+        "alt": "Primordialis 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

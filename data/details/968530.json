@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Decks of Dexterity","developers":["Coded Games"],"publishers":["Coded Games"],"release_status":"released","release_date":"2026-06-08","tags":["卡牌游戏","弹幕射击","俯视角射击","类Rogue","永久死亡"]},"hooks":[{"text":"拾取能量电池会暂停弹幕，让玩家立即进入卡牌回合","dimension":"玩法","excerpt":"Collect a power cell, time pauses, and you get to take your turn!","url":"https://store.steampowered.com/app/968530/","label":"证据原文片段"},{"text":"同一张牌同时改写弹幕与牌局，可把子弹转成生命或保留手牌","dimension":"玩法","excerpt":"Cards have mechanics that affect both games: some transform bullets in the arena into health, while others allow you to draw more cards, or save them for future turns.","url":"https://store.steampowered.com/app/968530/","label":"证据原文片段"},{"text":"内置模组工具不只让玩家组牌，还能制作自己的职业","dimension":"玩法","excerpt":"Don't just build your deck, build your own class!","url":"https://store.steampowered.com/app/968530/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":781,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":7625,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":233,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7498,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.818852925651741,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":50,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"卡牌游戏、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/3fd1337d0db806260c09ad920dfd583001d980ce/ss_3fd1337d0db806260c09ad920dfd583001d980ce.1920x1080.jpg?t=1782286202","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/3fd1337d0db806260c09ad920dfd583001d980ce/ss_3fd1337d0db806260c09ad920dfd583001d980ce.1920x1080.jpg?t=1782286202","alt":"Decks of Dexterity 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/00e53a231687a79cee0cc937f913fad596a254b0/ss_00e53a231687a79cee0cc937f913fad596a254b0.1920x1080.jpg?t=1782286202","alt":"Decks of Dexterity 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/ss_56e5dfc41f7eca3c01683ad0b788df5687ef23ea.1920x1080.jpg?t=1782286202","alt":"Decks of Dexterity 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/5640f309e606c744b9e05f8940cb1ee864e13298/ss_5640f309e606c744b9e05f8940cb1ee864e13298.1920x1080.jpg?t=1782286202","alt":"Decks of Dexterity 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Decks of Dexterity",
+    "developers": [
+      "Coded Games"
+    ],
+    "publishers": [
+      "Coded Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-08",
+    "tags": [
+      "卡牌游戏",
+      "弹幕射击",
+      "俯视角射击",
+      "类Rogue",
+      "永久死亡"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "拾取能量电池会暂停弹幕，让玩家立即进入卡牌回合",
+      "dimension": "玩法",
+      "excerpt": "Collect a power cell, time pauses, and you get to take your turn!",
+      "url": "https://store.steampowered.com/app/968530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "同一张牌同时改写弹幕与牌局，可把子弹转成生命或保留手牌",
+      "dimension": "玩法",
+      "excerpt": "Cards have mechanics that affect both games: some transform bullets in the arena into health, while others allow you to draw more cards, or save them for future turns.",
+      "url": "https://store.steampowered.com/app/968530/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "内置模组工具不只让玩家组牌，还能制作自己的职业",
+      "dimension": "玩法",
+      "excerpt": "Don't just build your deck, build your own class!",
+      "url": "https://store.steampowered.com/app/968530/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 822,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 7671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 240,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 8736,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1132,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1132,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.304475097579431,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 31,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 100,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 100,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Decks of Dexterity位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/3fd1337d0db806260c09ad920dfd583001d980ce/ss_3fd1337d0db806260c09ad920dfd583001d980ce.1920x1080.jpg?t=1782286202",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/3fd1337d0db806260c09ad920dfd583001d980ce/ss_3fd1337d0db806260c09ad920dfd583001d980ce.1920x1080.jpg?t=1782286202",
+        "alt": "Decks of Dexterity 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/00e53a231687a79cee0cc937f913fad596a254b0/ss_00e53a231687a79cee0cc937f913fad596a254b0.1920x1080.jpg?t=1782286202",
+        "alt": "Decks of Dexterity 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/ss_56e5dfc41f7eca3c01683ad0b788df5687ef23ea.1920x1080.jpg?t=1782286202",
+        "alt": "Decks of Dexterity 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/5640f309e606c744b9e05f8940cb1ee864e13298/ss_5640f309e606c744b9e05f8940cb1ee864e13298.1920x1080.jpg?t=1782286202",
+        "alt": "Decks of Dexterity 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/a2892305c7948daf46d3516bddde2dcd6cae5266/ss_a2892305c7948daf46d3516bddde2dcd6cae5266.1920x1080.jpg?t=1782286202",
+        "alt": "Decks of Dexterity 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/ss_a201719729a2981bc6b9f2839f7ec6e6091f7f49.1920x1080.jpg?t=1782286202",
+        "alt": "Decks of Dexterity 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/ss_c7942a4532a302339eedad002db1a897eb1c6a89.1920x1080.jpg?t=1782286202",
+        "alt": "Decks of Dexterity 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/ss_27b14d55884d45dd72950514b19b9b8e567c6eef.1920x1080.jpg?t=1782286202",
+        "alt": "Decks of Dexterity 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Artifact Seeker: Resurrection","developers":["Lynkpin Game"],"publishers":["Lynkpin Game"],"release_status":"released","release_date":"2024-07-26","tags":["动作肉鸽","弹幕射击","轻度Rogue","生存","独立游戏"]},"hooks":[{"text":"用专属分享码把自己收集的神器直接分享给朋友","dimension":"玩法","excerpt":"The unique “Artifacts sharing code function” allows you to share the Artifacts you collect with your friends! !","url":"https://store.steampowered.com/app/3054610/","label":"证据原文片段"},{"text":"让数百件神器匹配技能形成羁绊协同，用连锁力量挑战更高阶敌人","dimension":"玩法","excerpt":"Hundreds of different artifacts with matching skills to create a wide variety of bond Synergy, and utilize the power of the synergy to challenge higher level enemies!","url":"https://store.steampowered.com/app/3054610/","label":"证据原文片段"},{"text":"在RPG事件和地牢选择中结识英雄、解锁角色，每轮继续出现新内容","dimension":"玩法","excerpt":"RPG like Events, diverse choices, adventuring dungeons, exploring magical worlds, befriend different heroes and unlock new characters! Hundreds of affixes and attributes, dozens of different meta-progressions, weapon unlocking and strengthening, and sharing your own unique artifacts with your pals! There's new contents to experience after every run!","url":"https://store.steampowered.com/app/3054610/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":58121,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":47026,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3753,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":278580,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":62341,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":62341,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.485219708529671,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":786,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.29771,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_342ca723f10cb80baefa8f20ac8da9accf52a834.1920x1080.jpg?t=1768205926","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_342ca723f10cb80baefa8f20ac8da9accf52a834.1920x1080.jpg?t=1768205926","alt":"神器行者: 重生 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_82dc0137b7bce6ebe23c375c04bf546049338b40.1920x1080.jpg?t=1768205926","alt":"神器行者: 重生 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_9343b2a086e32700e7e13c6d1ca0bea11b3949c1.1920x1080.jpg?t=1768205926","alt":"神器行者: 重生 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_b8a8160170c6ab03f61554770b4882fb7e850587.1920x1080.jpg?t=1768205926","alt":"神器行者: 重生 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Artifact Seeker: Resurrection",
+    "developers": [
+      "Lynkpin Game"
+    ],
+    "publishers": [
+      "Lynkpin Game"
+    ],
+    "release_status": "released",
+    "release_date": "2024-07-26",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "轻度Rogue",
+      "生存",
+      "独立游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用专属分享码把自己收集的神器直接分享给朋友",
+      "dimension": "玩法",
+      "excerpt": "The unique “Artifacts sharing code function” allows you to share the Artifacts you collect with your friends! !",
+      "url": "https://store.steampowered.com/app/3054610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "让数百件神器匹配技能形成羁绊协同，用连锁力量挑战更高阶敌人",
+      "dimension": "玩法",
+      "excerpt": "Hundreds of different artifacts with matching skills to create a wide variety of bond Synergy, and utilize the power of the synergy to challenge higher level enemies!",
+      "url": "https://store.steampowered.com/app/3054610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在RPG事件和地牢选择中结识英雄、解锁角色，每轮继续出现新内容",
+      "dimension": "玩法",
+      "excerpt": "RPG like Events, diverse choices, adventuring dungeons, exploring magical worlds, befriend different heroes and unlock new characters! Hundreds of affixes and attributes, dozens of different meta-progressions, weapon unlocking and strengthening, and sharing your own unique artifacts with your pals! There's new contents to experience after every run!",
+      "url": "https://store.steampowered.com/app/3054610/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 60166,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 47304,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3778,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 291094,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 64536,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 64536,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.484478863492306,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 719,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.030151,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "神器行者: 重生位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_342ca723f10cb80baefa8f20ac8da9accf52a834.1920x1080.jpg?t=1768205926",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_342ca723f10cb80baefa8f20ac8da9accf52a834.1920x1080.jpg?t=1768205926",
+        "alt": "神器行者: 重生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_82dc0137b7bce6ebe23c375c04bf546049338b40.1920x1080.jpg?t=1768205926",
+        "alt": "神器行者: 重生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_9343b2a086e32700e7e13c6d1ca0bea11b3949c1.1920x1080.jpg?t=1768205926",
+        "alt": "神器行者: 重生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_b8a8160170c6ab03f61554770b4882fb7e850587.1920x1080.jpg?t=1768205926",
+        "alt": "神器行者: 重生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_cdd745448ae6b61d6756c50da316d683d3407a35.1920x1080.jpg?t=1768205926",
+        "alt": "神器行者: 重生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_d2be2346eb19998766395a3389c33544d1e9d1fe.1920x1080.jpg?t=1768205926",
+        "alt": "神器行者: 重生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_128bd901558a83ea1a1387be6b06b7d4b7ebb836.1920x1080.jpg?t=1768205926",
+        "alt": "神器行者: 重生 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054610/ss_8c422e1e0269a73401fe56e9a7035f358e02bd6b.1920x1080.jpg?t=1768205926",
+        "alt": "神器行者: 重生 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

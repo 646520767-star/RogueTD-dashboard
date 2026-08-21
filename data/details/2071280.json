@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Ravenswatch","developers":["Passtech Games"],"publishers":["Nacon"],"release_status":"released","release_date":"2024-09-26","tags":["类Rogue","合作","动作肉鸽","在线合作","动作"]},"hooks":[{"text":"九位黑化民间传说英雄各有独立玩法，包括狼人小红帽与堕落孙悟空","dimension":"玩法","excerpt":"Play as 9 heroes, each with a unique twist and individual gameplay, including Little Red Riding Hood, who suffers from lycanthropy; Sun Wukong, the fallen monkey king; the Snow Queen with her evil powers; and many other familiar characters who have a darker side and are more violent than you might remember.","url":"https://store.steampowered.com/app/2071280/","label":"证据原文片段"},{"text":"每章只有三天三夜强化角色，时间耗尽就必须迎战章节Boss","dimension":"玩法","excerpt":"You have 3 days and 3 nights to increase your power. Face the chapter boss when you feel ready… or when you no longer have a choice.","url":"https://store.steampowered.com/app/2071280/","label":"证据原文片段"},{"text":"黑暗奇幻氛围与漫画书视觉结合，重塑熟悉童话的阴暗面","dimension":"画风","excerpt":"Ravenswatch is a meticulously crafted combination of a dark fantasy atmosphere with a comic book style.","url":"https://store.steampowered.com/app/2071280/","label":"证据原文片段"}],"opinions":[{"text":"角色绘制、动画与特效表现优秀。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Excellent drawing, beautiful characters, their animations and effects","url":"https://store.steampowered.com/curator/43939488-Gamer-Detective/","label":"证据原文片段"}]},{"text":"局内奖励不值得投入整轮时间。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"the rewards don't feel worth the runs.","url":"https://steamcommunity.com/id/thatdiesel/recommended/2071280?snr=1_5_9__402","label":"证据原文片段"}]},{"text":"肉鸽玩法失衡，首轮后容易乏味。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"unbalanced roguelite game play that is bland after the first run.","url":"https://youtu.be/Llft2-W2B00","label":"证据原文片段"}]},{"text":"网络问题破坏合作体验。","dimension":"技术/性能","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"fails to provide a gratifying co-op experience due to network troubles","url":"https://youtu.be/Llft2-W2B00","label":"证据原文片段"}]},{"text":"后期构筑深度不足。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期构筑也感觉不到有多深","url":"https://steamcommunity.com/profiles/76561199155289443/recommended/2071280/","label":"证据原文片段"}]},{"text":"游戏缺少关键机制引导","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the game doesn't really help you learn a lot of the really important aspects at all.","url":"https://steamcommunity.com/profiles/76561198018474937/recommended/2071280/","label":"证据原文片段"}]},{"text":"全局限时机制令人烦躁。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"有个败笔就是限时的设计，逼着玩家做取舍，就很烦","url":"https://steamcommunity.com/profiles/76561198352669513/recommended/2071280/","label":"证据原文片段"}]},{"text":"前期角色能力过弱","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"角色前期跟残疾人没区别","url":"https://steamcommunity.com/profiles/76561199155289443/recommended/2071280/","label":"证据原文片段"}]},{"text":"关闭限时会阻止成就和更高难度解锁。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"如果你选择删掉时间限制，不仅无法解锁成就，连更高难度都无法解锁。","url":"https://steamcommunity.com/profiles/76561199092153933/recommended/2071280/","label":"证据原文片段"}]},{"text":"战斗与特殊招式令人满足。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"satisfying combat and special moves","url":"https://www.youtube.com/watch?v=ItYz_7ZP3m0","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1145417,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":1057421,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":96124,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":16217303,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1394686,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1512880,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":23.298525398755118,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":22203,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":79.852425,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["局内奖励不值得投入整轮时间。","肉鸽玩法失衡，首轮后容易乏味。","技术/性能：网络问题破坏合作体验。","后期构筑深度不足。","游戏缺少关键机制引导","全局限时机制令人烦躁。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_b6826b65f6602cf7da2a9836958fc9919c4f96ee.1920x1080.jpg?t=1782466354","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_b6826b65f6602cf7da2a9836958fc9919c4f96ee.1920x1080.jpg?t=1782466354","alt":"Ravenswatch 鸦卫奇旅 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_aac11bf9c96435f234166c17bbdbbcba657abfc6.1920x1080.jpg?t=1782466354","alt":"Ravenswatch 鸦卫奇旅 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_375f664eec9e43594663103f08f3f373649fbdef.1920x1080.jpg?t=1782466354","alt":"Ravenswatch 鸦卫奇旅 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_9152a64ff11487cdcd661dab7912aa410629e9d0.1920x1080.jpg?t=1782466354","alt":"Ravenswatch 鸦卫奇旅 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Ravenswatch",
+    "developers": [
+      "Passtech Games"
+    ],
+    "publishers": [
+      "Nacon"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-26",
+    "tags": [
+      "类Rogue",
+      "合作",
+      "动作肉鸽",
+      "在线合作",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "九位黑化民间传说英雄各有独立玩法，包括狼人小红帽与堕落孙悟空",
+      "dimension": "玩法",
+      "excerpt": "Play as 9 heroes, each with a unique twist and individual gameplay, including Little Red Riding Hood, who suffers from lycanthropy; Sun Wukong, the fallen monkey king; the Snow Queen with her evil powers; and many other familiar characters who have a darker side and are more violent than you might remember.",
+      "url": "https://store.steampowered.com/app/2071280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每章只有三天三夜强化角色，时间耗尽就必须迎战章节Boss",
+      "dimension": "玩法",
+      "excerpt": "You have 3 days and 3 nights to increase your power. Face the chapter boss when you feel ready… or when you no longer have a choice.",
+      "url": "https://store.steampowered.com/app/2071280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "黑暗奇幻氛围与漫画书视觉结合，重塑熟悉童话的阴暗面",
+      "dimension": "画风",
+      "excerpt": "Ravenswatch is a meticulously crafted combination of a dark fantasy atmosphere with a comic book style.",
+      "url": "https://store.steampowered.com/app/2071280/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "角色绘制、动画与特效表现优秀。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Excellent drawing, beautiful characters, their animations and effects",
+          "url": "https://store.steampowered.com/curator/43939488-Gamer-Detective/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局内奖励不值得投入整轮时间。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the rewards don't feel worth the runs.",
+          "url": "https://steamcommunity.com/id/thatdiesel/recommended/2071280?snr=1_5_9__402",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "肉鸽玩法失衡，首轮后容易乏味。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "unbalanced roguelite game play that is bland after the first run.",
+          "url": "https://youtu.be/Llft2-W2B00",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "网络问题破坏合作体验。",
+      "dimension": "技术/性能",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "fails to provide a gratifying co-op experience due to network troubles",
+          "url": "https://youtu.be/Llft2-W2B00",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期构筑深度不足。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期构筑也感觉不到有多深",
+          "url": "https://steamcommunity.com/profiles/76561199155289443/recommended/2071280/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏缺少关键机制引导",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the game doesn't really help you learn a lot of the really important aspects at all.",
+          "url": "https://steamcommunity.com/profiles/76561198018474937/recommended/2071280/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "全局限时机制令人烦躁。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "有个败笔就是限时的设计，逼着玩家做取舍，就很烦",
+          "url": "https://steamcommunity.com/profiles/76561198352669513/recommended/2071280/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "前期角色能力过弱",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "角色前期跟残疾人没区别",
+          "url": "https://steamcommunity.com/profiles/76561199155289443/recommended/2071280/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "关闭限时会阻止成就和更高难度解锁。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "如果你选择删掉时间限制，不仅无法解锁成就，连更高难度都无法解锁。",
+          "url": "https://steamcommunity.com/profiles/76561199092153933/recommended/2071280/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "战斗与特殊招式令人满足。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "satisfying combat and special moves",
+          "url": "https://www.youtube.com/watch?v=ItYz_7ZP3m0",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1167707,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 1064967,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 96560,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 16551794,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1422052,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1542565,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 23.00770063105088,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 16684,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 79.891159,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "局内奖励不值得投入整轮时间。",
+    "肉鸽玩法失衡，首轮后容易乏味。",
+    "技术/性能：网络问题破坏合作体验。",
+    "后期构筑深度不足。",
+    "游戏缺少关键机制引导",
+    "全局限时机制令人烦躁。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Ravenswatch 鸦卫奇旅位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_b6826b65f6602cf7da2a9836958fc9919c4f96ee.1920x1080.jpg?t=1782466354",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_b6826b65f6602cf7da2a9836958fc9919c4f96ee.1920x1080.jpg?t=1782466354",
+        "alt": "Ravenswatch 鸦卫奇旅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_aac11bf9c96435f234166c17bbdbbcba657abfc6.1920x1080.jpg?t=1782466354",
+        "alt": "Ravenswatch 鸦卫奇旅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_375f664eec9e43594663103f08f3f373649fbdef.1920x1080.jpg?t=1782466354",
+        "alt": "Ravenswatch 鸦卫奇旅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_9152a64ff11487cdcd661dab7912aa410629e9d0.1920x1080.jpg?t=1782466354",
+        "alt": "Ravenswatch 鸦卫奇旅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_c032bfbd862a30d3125a876c3a5fad4008825e20.1920x1080.jpg?t=1782466354",
+        "alt": "Ravenswatch 鸦卫奇旅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_bcbc65a8c7662be312636c68c3655e1c2aa0e5c2.1920x1080.jpg?t=1782466354",
+        "alt": "Ravenswatch 鸦卫奇旅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_624f8ab9217ca833f1e28ca7d3f6b94b759afe67.1920x1080.jpg?t=1782466354",
+        "alt": "Ravenswatch 鸦卫奇旅 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_523bda5251c57b700796ad8188a52a257391db04.1920x1080.jpg?t=1782466354",
+        "alt": "Ravenswatch 鸦卫奇旅 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

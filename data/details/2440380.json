@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Megaloot","developers":["axilirate"],"publishers":["Ravenage Games","Sidekick Publishing"],"release_status":"released","release_date":"2024-08-30","tags":["地牢探索","刷宝","轻度Rogue","角色扮演","类Rogue"]},"hooks":[{"text":"丢弃装备时吸收其神话力量，在战斗中即时把淘汰物转成短期增幅","dimension":"玩法","excerpt":"Continuously manage your loot to become stronger right in the battle by absorbing the mythical power of the items you discard - even if for a mere moment, but with dedication it’s enough to ascend to near godhood and kill whatever twisted creature stands in your way.","url":"https://store.steampowered.com/app/2440380/","label":"证据原文片段"},{"text":"寻找重铸装备获取独特强化，并放逐多余战利品刷新商店选项","dimension":"玩法","excerpt":"Use potions and tomes to boost your power, seek out reforged items for unique and enhanced gear, and banish excess loot to refresh the shop with better options.","url":"https://store.steampowered.com/app/2440380/","label":"证据原文片段"},{"text":"150余件战利品与27余项属性、Keystone和十名角色形成组合空间","dimension":"玩法","excerpt":"Key features: 150+ unique loot items with many variations of characteristics that have a synergistic effect to create unique builds 27+ stats like Toxicity, Strength, Wisdom, Faith, Recovery, and more, which can be combined with loot and keystones for a unique strategy and tactics 10 characters with their abilities","url":"https://store.steampowered.com/app/2440380/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":210220,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":142346,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":10421,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1668860,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":217807,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":217807,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":15.78441624624394,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3999,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":72,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":71.95,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"地牢探索、刷宝","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/d98d3a5dc8e86ddb151349124ab793362f529a2a/ss_d98d3a5dc8e86ddb151349124ab793362f529a2a.1920x1080.jpg?t=1778001282","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/d98d3a5dc8e86ddb151349124ab793362f529a2a/ss_d98d3a5dc8e86ddb151349124ab793362f529a2a.1920x1080.jpg?t=1778001282","alt":"Megaloot 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/9c04a4851a3ff516b6cf102de6eba707d4f3d8d3/ss_9c04a4851a3ff516b6cf102de6eba707d4f3d8d3.1920x1080.jpg?t=1778001282","alt":"Megaloot 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/8ace7baba0f434402c9a7090141d8421582a352a/ss_8ace7baba0f434402c9a7090141d8421582a352a.1920x1080.jpg?t=1778001282","alt":"Megaloot 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/9a81e1a3d71dcd07f4135c7e237141a96d6e8a29/ss_9a81e1a3d71dcd07f4135c7e237141a96d6e8a29.1920x1080.jpg?t=1778001282","alt":"Megaloot 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Megaloot",
+    "developers": [
+      "axilirate"
+    ],
+    "publishers": [
+      "Ravenage Games",
+      "Sidekick Publishing"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-30",
+    "tags": [
+      "轻度Rogue",
+      "地牢探索",
+      "刷宝",
+      "轻度Rogue",
+      "角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "丢弃装备时吸收其神话力量，在战斗中即时把淘汰物转成短期增幅",
+      "dimension": "玩法",
+      "excerpt": "Continuously manage your loot to become stronger right in the battle by absorbing the mythical power of the items you discard - even if for a mere moment, but with dedication it’s enough to ascend to near godhood and kill whatever twisted creature stands in your way.",
+      "url": "https://store.steampowered.com/app/2440380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "寻找重铸装备获取独特强化，并放逐多余战利品刷新商店选项",
+      "dimension": "玩法",
+      "excerpt": "Use potions and tomes to boost your power, seek out reforged items for unique and enhanced gear, and banish excess loot to refresh the shop with better options.",
+      "url": "https://store.steampowered.com/app/2440380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "150余件战利品与27余项属性、Keystone和十名角色形成组合空间",
+      "dimension": "玩法",
+      "excerpt": "Key features: 150+ unique loot items with many variations of characteristics that have a synergistic effect to create unique builds 27+ stats like Toxicity, Strength, Wisdom, Faith, Recovery, and more, which can be combined with loot and keystones for a unique strategy and tactics 10 characters with their abilities",
+      "url": "https://store.steampowered.com/app/2440380/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 211458,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 143190,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 10417,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1641938,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 219146,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 219146,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 16.003761975319144,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3810,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 72,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 71.877337,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Megaloot位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/d98d3a5dc8e86ddb151349124ab793362f529a2a/ss_d98d3a5dc8e86ddb151349124ab793362f529a2a.1920x1080.jpg?t=1778001282",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/d98d3a5dc8e86ddb151349124ab793362f529a2a/ss_d98d3a5dc8e86ddb151349124ab793362f529a2a.1920x1080.jpg?t=1778001282",
+        "alt": "Megaloot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/9c04a4851a3ff516b6cf102de6eba707d4f3d8d3/ss_9c04a4851a3ff516b6cf102de6eba707d4f3d8d3.1920x1080.jpg?t=1778001282",
+        "alt": "Megaloot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/8ace7baba0f434402c9a7090141d8421582a352a/ss_8ace7baba0f434402c9a7090141d8421582a352a.1920x1080.jpg?t=1778001282",
+        "alt": "Megaloot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/9a81e1a3d71dcd07f4135c7e237141a96d6e8a29/ss_9a81e1a3d71dcd07f4135c7e237141a96d6e8a29.1920x1080.jpg?t=1778001282",
+        "alt": "Megaloot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/c0309e48ffb80b58f3294b1d4f33e9bd12b9602d/ss_c0309e48ffb80b58f3294b1d4f33e9bd12b9602d.1920x1080.jpg?t=1778001282",
+        "alt": "Megaloot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/4b95eb120b398b0d0f4962eb2b7c5a5b7f527d17/ss_4b95eb120b398b0d0f4962eb2b7c5a5b7f527d17.1920x1080.jpg?t=1778001282",
+        "alt": "Megaloot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/55ccb3f91c6c3b1a4ec94ae1638e185a0d9750f0/ss_55ccb3f91c6c3b1a4ec94ae1638e185a0d9750f0.1920x1080.jpg?t=1778001282",
+        "alt": "Megaloot 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440380/159f3e8ba5b2029002e2c8d738059de4a903affc/ss_159f3e8ba5b2029002e2c8d738059de4a903affc.1920x1080.jpg?t=1778001282",
+        "alt": "Megaloot 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

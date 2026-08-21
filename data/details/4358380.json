@@ -1,1 +1,316 @@
-{"identity":{"original_title":"Qianli: The Vastscape Scroll","developers":["Betobe Studio"],"publishers":["2P Games"],"release_status":"released","release_date":"2026-07-16","tags":["解谜","休闲放松","沙盒","模拟","轻度Rogue"]},"hooks":[{"text":"六边形地块不受地形限制，可依直觉自由摆放","dimension":"玩法","excerpt":"Unlike other city- and hex-tile building games, in Qianli you won’t be limited by any terrain restrictions. Place each piece freely, following only your instinct. You may be chasing a high score, or simply enjoying a peaceful session of beauty and creation: the choice is yours.","url":"https://store.steampowered.com/app/4358380/","label":"证据原文片段"},{"text":"道路接水生成码头，山峰旁小径显现古寺门扉","dimension":"玩法","excerpt":"But magic happens when certain tiles meet: a path reaching water forms a dock, a trail near a famed peak reveals the gates of an ancient temple.","url":"https://store.steampowered.com/app/4358380/","label":"证据原文片段"},{"text":"以《千里江山图》为源的中国水墨青绿画卷","dimension":"画风","excerpt":"Qianli: The Vastscape Scroll offers its unique twist to the genre along with a breathtaking art style, inspired by A Thousand Li of Rivers and Mountains, one of the most beautiful masterpieces of Chinese ink and watercolor art.","url":"https://store.steampowered.com/app/4358380/","label":"证据原文片段"}],"opinions":[{"text":"静音音效设置没有实际生效","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"I cannot seem to mute the sound effects, despite it showing that it is in fact muted.","url":"https://steamcommunity.com/profiles/76561199168087035/recommended/4358380/","label":"证据原文片段"}]},{"text":"部分地块尤其道路难以辨认","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"有时候会分不清摆放的是哪个地块，特别是道路。","url":"https://steamcommunity.com/id/wewsyeye/recommended/4358380/","label":"证据原文片段"}]},{"text":"部分界面元素与整体美术风格不协调。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"“任务”“连击“的UI跟美术风格完全不搭。","url":"https://steamcommunity.com/id/wewsyeye/recommended/4358380/","label":"证据原文片段"}]},{"text":"景物角色设计优秀","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"景物的人设很优秀，配音的感情和语气也都很到位","url":"https://steamcommunity.com/profiles/76561198346382856/recommended/4358380/","label":"证据原文片段"}]},{"text":"青绿山水国风美术看起来舒适。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"青绿山水画风看着舒心","url":"https://steamcommunity.com/id/cunpao/recommended/4358380/","label":"证据原文片段"}]},{"text":"美术表现非常华丽。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"I love the art; it is absolutely gorgeous.","url":"https://steamcommunity.com/profiles/76561199168087035/recommended/4358380/","label":"证据原文片段"}]},{"text":"后期探索模式步数偏紧。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"探索模式后期步数略紧","url":"https://steamcommunity.com/id/cunpao/recommended/4358380/","label":"证据原文片段"}]},{"text":"长时间操作后仍可能因灵力不足而整局失败。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"花一个多小时走了二百多步发现灵力还没够，直接白打","url":"https://steamcommunity.com/profiles/76561198887850981/recommended/4358380/","label":"证据原文片段"}]},{"text":"通关后无法回看已完成的造景。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"目前通完一关没法回顾自己造的景，算是小遗憾","url":"https://steamcommunity.com/profiles/76561198364701081/recommended/4358380/","label":"证据原文片段"}]},{"text":"国风拼图玩法令人上头。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"造景与拼图结合玩起来很上头","url":"https://steamcommunity.com/profiles/76561198364701081/recommended/4358380/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1295,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":12710,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1003,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":10477,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1623,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1623,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.7922048349354673,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":83,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.247312,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["静音音效设置没有实际生效","部分地块尤其道路难以辨认","部分界面元素与整体美术风格不协调。","后期探索模式步数偏紧。","长时间操作后仍可能因灵力不足而整局失败。","通关后无法回看已完成的造景。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/d4be372bac03c4c1887bff9351702b14f79da131/ss_d4be372bac03c4c1887bff9351702b14f79da131.1920x1080.jpg?t=1784866204","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/d4be372bac03c4c1887bff9351702b14f79da131/ss_d4be372bac03c4c1887bff9351702b14f79da131.1920x1080.jpg?t=1784866204","alt":"千里山河录 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/a61d378960a64aefca8a248dc1e910b642382f54/ss_a61d378960a64aefca8a248dc1e910b642382f54.1920x1080.jpg?t=1784866204","alt":"千里山河录 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/648145b41530f87d10af7eb042a559def291a5c2/ss_648145b41530f87d10af7eb042a559def291a5c2.1920x1080.jpg?t=1784866204","alt":"千里山河录 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/272faed93809643b6a6475f5968ec9818833ec00/ss_272faed93809643b6a6475f5968ec9818833ec00.1920x1080.jpg?t=1784866204","alt":"千里山河录 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Qianli: The Vastscape Scroll",
+    "developers": [
+      "Betobe Studio"
+    ],
+    "publishers": [
+      "2P Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-16",
+    "tags": [
+      "塔防",
+      "解谜",
+      "休闲放松",
+      "沙盒",
+      "模拟"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "六边形地块不受地形限制，可依直觉自由摆放",
+      "dimension": "玩法",
+      "excerpt": "Unlike other city- and hex-tile building games, in Qianli you won’t be limited by any terrain restrictions. Place each piece freely, following only your instinct. You may be chasing a high score, or simply enjoying a peaceful session of beauty and creation: the choice is yours.",
+      "url": "https://store.steampowered.com/app/4358380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "道路接水生成码头，山峰旁小径显现古寺门扉",
+      "dimension": "玩法",
+      "excerpt": "But magic happens when certain tiles meet: a path reaching water forms a dock, a trail near a famed peak reveals the gates of an ancient temple.",
+      "url": "https://store.steampowered.com/app/4358380/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "以《千里江山图》为源的中国水墨青绿画卷",
+      "dimension": "画风",
+      "excerpt": "Qianli: The Vastscape Scroll offers its unique twist to the genre along with a breathtaking art style, inspired by A Thousand Li of Rivers and Mountains, one of the most beautiful masterpieces of Chinese ink and watercolor art.",
+      "url": "https://store.steampowered.com/app/4358380/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "静音音效设置没有实际生效",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "I cannot seem to mute the sound effects, despite it showing that it is in fact muted.",
+          "url": "https://steamcommunity.com/profiles/76561199168087035/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分地块尤其道路难以辨认",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "有时候会分不清摆放的是哪个地块，特别是道路。",
+          "url": "https://steamcommunity.com/id/wewsyeye/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分界面元素与整体美术风格不协调。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "“任务”“连击“的UI跟美术风格完全不搭。",
+          "url": "https://steamcommunity.com/id/wewsyeye/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "景物角色设计优秀",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "景物的人设很优秀，配音的感情和语气也都很到位",
+          "url": "https://steamcommunity.com/profiles/76561198346382856/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "青绿山水国风美术看起来舒适。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "青绿山水画风看着舒心",
+          "url": "https://steamcommunity.com/id/cunpao/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "美术表现非常华丽。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "I love the art; it is absolutely gorgeous.",
+          "url": "https://steamcommunity.com/profiles/76561199168087035/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期探索模式步数偏紧。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "探索模式后期步数略紧",
+          "url": "https://steamcommunity.com/id/cunpao/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "长时间操作后仍可能因灵力不足而整局失败。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "花一个多小时走了二百多步发现灵力还没够，直接白打",
+          "url": "https://steamcommunity.com/profiles/76561198887850981/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "通关后无法回看已完成的造景。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "目前通完一关没法回顾自己造的景，算是小遗憾",
+          "url": "https://steamcommunity.com/profiles/76561198364701081/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "国风拼图玩法令人上头。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "造景与拼图结合玩起来很上头",
+          "url": "https://steamcommunity.com/profiles/76561198364701081/recommended/4358380/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1768,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 16621,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1166,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 14468,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2383,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2383,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.4269888596185236,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 77,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.803279,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "静音音效设置没有实际生效",
+    "部分地块尤其道路难以辨认",
+    "部分界面元素与整体美术风格不协调。",
+    "后期探索模式步数偏紧。",
+    "长时间操作后仍可能因灵力不足而整局失败。",
+    "通关后无法回看已完成的造景。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "千里山河录位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/d4be372bac03c4c1887bff9351702b14f79da131/ss_d4be372bac03c4c1887bff9351702b14f79da131.1920x1080.jpg?t=1784866204",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/d4be372bac03c4c1887bff9351702b14f79da131/ss_d4be372bac03c4c1887bff9351702b14f79da131.1920x1080.jpg?t=1785897347",
+        "alt": "千里山河录 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/a61d378960a64aefca8a248dc1e910b642382f54/ss_a61d378960a64aefca8a248dc1e910b642382f54.1920x1080.jpg?t=1785897347",
+        "alt": "千里山河录 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/b966422a89efbaaabb9c4d895ac50c20c3679558/ss_b966422a89efbaaabb9c4d895ac50c20c3679558.1920x1080.jpg?t=1785897347",
+        "alt": "千里山河录 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/eef2902976dfda37fb60e8a0d69094f60d23c780/ss_eef2902976dfda37fb60e8a0d69094f60d23c780.1920x1080.jpg?t=1785897347",
+        "alt": "千里山河录 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/648145b41530f87d10af7eb042a559def291a5c2/ss_648145b41530f87d10af7eb042a559def291a5c2.1920x1080.jpg?t=1785897347",
+        "alt": "千里山河录 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/b093fe35680ffe84db05fdcf1d7cd14f96c62376/ss_b093fe35680ffe84db05fdcf1d7cd14f96c62376.1920x1080.jpg?t=1785897347",
+        "alt": "千里山河录 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/6d305fd25d069a50bbd20ea25f2e31f68e13c8fd/ss_6d305fd25d069a50bbd20ea25f2e31f68e13c8fd.1920x1080.jpg?t=1785897347",
+        "alt": "千里山河录 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358380/272faed93809643b6a6475f5968ec9818833ec00/ss_272faed93809643b6a6475f5968ec9818833ec00.1920x1080.jpg?t=1785897347",
+        "alt": "千里山河录 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

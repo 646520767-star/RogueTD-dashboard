@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Inkbound","developers":["Shiny Shoe"],"publishers":["Shiny Shoe"],"release_status":"released","release_date":"2024-04-09","tags":["回合制战术","轻度Rogue","玩家对环境","回合制策略","策略角色扮演"]},"hooks":[{"text":"回合制中可以自由移动，多人还可同时行动","dimension":"玩法","excerpt":"Within the unique turn-based combat system players move freely, act simultaneously in multiplayer, and can rapidly use abilities.","url":"https://store.steampowered.com/app/1062810/","label":"证据原文片段"},{"text":"可选能力、能力升级与数百件物品共同构筑","dimension":"玩法","excerpt":"With draftable abilities, ability upgrades, and hundreds of items to find there are many possible ways to play.","url":"https://store.steampowered.com/app/1062810/","label":"证据原文片段"},{"text":"每本书都是异世界传送门，而全部故事正在崩解","dimension":"故事","excerpt":"The magical Atheneum contains all stories ever written. Each book becomes a portal to another world where you will face unique threats. Inkbound’s stories are unraveling due to an unseen threat and the inhabitants of the Atheneum need your help.","url":"https://store.steampowered.com/app/1062810/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":229016,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":265621,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":25074,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3981106,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":247644,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":247644,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":22.295097334090585,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":4011,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.743085,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"回合制战术、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_5618a28d677751ed975ad5767d6fa449f5d96cd8.1920x1080.jpg?t=1780422654","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_5618a28d677751ed975ad5767d6fa449f5d96cd8.1920x1080.jpg?t=1780422654","alt":"Inkbound 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_523a73c664222d9fcb65887f44b1e0ae6fbbad82.1920x1080.jpg?t=1780422654","alt":"Inkbound 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_4ac918a25e5b6b4c70bacc85da00e5040b48fe4a.1920x1080.jpg?t=1780422654","alt":"Inkbound 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_446a8e540ff8cb714d67752bd2fdb3e2d303b85f.1920x1080.jpg?t=1780422654","alt":"Inkbound 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Inkbound",
+    "developers": [
+      "Shiny Shoe"
+    ],
+    "publishers": [
+      "Shiny Shoe"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-09",
+    "tags": [
+      "回合制战术",
+      "轻度Rogue",
+      "轻度Rogue",
+      "玩家对环境",
+      "回合制策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "回合制中可以自由移动，多人还可同时行动",
+      "dimension": "玩法",
+      "excerpt": "Within the unique turn-based combat system players move freely, act simultaneously in multiplayer, and can rapidly use abilities.",
+      "url": "https://store.steampowered.com/app/1062810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "可选能力、能力升级与数百件物品共同构筑",
+      "dimension": "玩法",
+      "excerpt": "With draftable abilities, ability upgrades, and hundreds of items to find there are many possible ways to play.",
+      "url": "https://store.steampowered.com/app/1062810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每本书都是异世界传送门，而全部故事正在崩解",
+      "dimension": "故事",
+      "excerpt": "The magical Atheneum contains all stories ever written. Each book becomes a portal to another world where you will face unique threats. Inkbound’s stories are unraveling due to an unseen threat and the inhabitants of the Atheneum need your help.",
+      "url": "https://store.steampowered.com/app/1062810/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 234849,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 264639,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 25070,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3993955,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 253963,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 253963,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 22.158330407242538,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3586,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.709806,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Inkbound位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_5618a28d677751ed975ad5767d6fa449f5d96cd8.1920x1080.jpg?t=1780422654",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_5618a28d677751ed975ad5767d6fa449f5d96cd8.1920x1080.jpg?t=1780422654",
+        "alt": "Inkbound 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_523a73c664222d9fcb65887f44b1e0ae6fbbad82.1920x1080.jpg?t=1780422654",
+        "alt": "Inkbound 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_4ac918a25e5b6b4c70bacc85da00e5040b48fe4a.1920x1080.jpg?t=1780422654",
+        "alt": "Inkbound 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_446a8e540ff8cb714d67752bd2fdb3e2d303b85f.1920x1080.jpg?t=1780422654",
+        "alt": "Inkbound 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_9b236855b91d3d39dada77a4273e242e71c2dd77.1920x1080.jpg?t=1780422654",
+        "alt": "Inkbound 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_1a4926bb5d31ac10e7d4eba7a8e536cba4013604.1920x1080.jpg?t=1780422654",
+        "alt": "Inkbound 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_c05973b7c11ffed4eb876948907005fdceaa2152.1920x1080.jpg?t=1780422654",
+        "alt": "Inkbound 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/ss_accd58d5255d54e3c92340ff9537347e3ee09646.1920x1080.jpg?t=1780422654",
+        "alt": "Inkbound 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

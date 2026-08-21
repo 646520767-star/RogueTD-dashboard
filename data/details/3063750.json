@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Pixel Dungeon VR","developers":["Suplife Games"],"publishers":["Suplife Games"],"release_status":"released","release_date":"2025-05-27","tags":["模拟","地牢探索","动作角色扮演","合作","动作冒险"]},"hooks":[{"text":"4人组队闯地牢、10人大厅社交，房主还能带未购买好友完整游玩","dimension":"玩法","excerpt":"Team up in 4-player squads or hang out in 10-player lobbies ！ No Limits : Full game owners can host their friends—even those who haven't purchased yet—to explore the entire dungeon together!","url":"https://store.steampowered.com/app/3063750/","label":"证据原文片段"},{"text":"在VR中挥舞武士刀、利爪和弓，每次命中与格挡都由物理驱动","dimension":"玩法","excerpt":"Hack-n-slash with Katana, claws and bows that feel real. Every hit, block, and strike is based on physics!","url":"https://store.steampowered.com/app/3063750/","label":"证据原文片段"},{"text":"Boss二阶段会变形并破坏地面，把全队强制拖入新战场","dimension":"玩法","excerpt":"Second Stage : Angel becomes a giant eye monster, firing deadly lasers that burn the ground beneath you. God of Time shatters the ground, forcing everyone into a new arena","url":"https://store.steampowered.com/app/3063750/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5118,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22877,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1549,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":87478,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5438,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5438,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.07724509983169,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":416,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.625,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"模拟、地牢探索","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/bb9164da7a7e019741f583b8557e7fe3ffff99b4/ss_bb9164da7a7e019741f583b8557e7fe3ffff99b4.1920x1080.jpg?t=1784000264","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/bb9164da7a7e019741f583b8557e7fe3ffff99b4/ss_bb9164da7a7e019741f583b8557e7fe3ffff99b4.1920x1080.jpg?t=1784000264","alt":"Pixel Dungeon VR 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/672c78033fed38027bc9a8240ffdd88d37d1dd60/ss_672c78033fed38027bc9a8240ffdd88d37d1dd60.1920x1080.jpg?t=1784000264","alt":"Pixel Dungeon VR 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/4c751f914b31332870a1d7dd2d88f6c43d7f61f5/ss_4c751f914b31332870a1d7dd2d88f6c43d7f61f5.1920x1080.jpg?t=1784000264","alt":"Pixel Dungeon VR 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/da762ba5069685fad3470c574cba6a5af375329b/ss_da762ba5069685fad3470c574cba6a5af375329b.1920x1080.jpg?t=1784000264","alt":"Pixel Dungeon VR 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pixel Dungeon VR",
+    "developers": [
+      "Suplife Games"
+    ],
+    "publishers": [
+      "Suplife Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-27",
+    "tags": [
+      "模拟",
+      "动作肉鸽",
+      "地牢探索",
+      "动作角色扮演",
+      "合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "4人组队闯地牢、10人大厅社交，房主还能带未购买好友完整游玩",
+      "dimension": "玩法",
+      "excerpt": "Team up in 4-player squads or hang out in 10-player lobbies ！ No Limits : Full game owners can host their friends—even those who haven't purchased yet—to explore the entire dungeon together!",
+      "url": "https://store.steampowered.com/app/3063750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在VR中挥舞武士刀、利爪和弓，每次命中与格挡都由物理驱动",
+      "dimension": "玩法",
+      "excerpt": "Hack-n-slash with Katana, claws and bows that feel real. Every hit, block, and strike is based on physics!",
+      "url": "https://store.steampowered.com/app/3063750/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "Boss二阶段会变形并破坏地面，把全队强制拖入新战场",
+      "dimension": "玩法",
+      "excerpt": "Second Stage : Angel becomes a giant eye monster, firing deadly lasers that burn the ground beneath you. God of Time shatters the ground, forcing everyone into a new arena",
+      "url": "https://store.steampowered.com/app/3063750/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7486,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 23013,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1562,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 123017,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7947,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7947,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.621631080657194,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 387,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.28436,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Pixel Dungeon VR位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/bb9164da7a7e019741f583b8557e7fe3ffff99b4/ss_bb9164da7a7e019741f583b8557e7fe3ffff99b4.1920x1080.jpg?t=1784000264",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/bb9164da7a7e019741f583b8557e7fe3ffff99b4/ss_bb9164da7a7e019741f583b8557e7fe3ffff99b4.1920x1080.jpg?t=1784000264",
+        "alt": "Pixel Dungeon VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/672c78033fed38027bc9a8240ffdd88d37d1dd60/ss_672c78033fed38027bc9a8240ffdd88d37d1dd60.1920x1080.jpg?t=1784000264",
+        "alt": "Pixel Dungeon VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/4c751f914b31332870a1d7dd2d88f6c43d7f61f5/ss_4c751f914b31332870a1d7dd2d88f6c43d7f61f5.1920x1080.jpg?t=1784000264",
+        "alt": "Pixel Dungeon VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/da762ba5069685fad3470c574cba6a5af375329b/ss_da762ba5069685fad3470c574cba6a5af375329b.1920x1080.jpg?t=1784000264",
+        "alt": "Pixel Dungeon VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/66c805dd84a2051e61690da02f094b35bc8fe671/ss_66c805dd84a2051e61690da02f094b35bc8fe671.1920x1080.jpg?t=1784000264",
+        "alt": "Pixel Dungeon VR 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063750/38e78abc5866a7738bca36de6828f63afb54241c/ss_38e78abc5866a7738bca36de6828f63afb54241c.1920x1080.jpg?t=1784000264",
+        "alt": "Pixel Dungeon VR 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

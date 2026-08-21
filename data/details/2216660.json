@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Mortal Glory 2","developers":["Redbeak Games"],"publishers":["Redbeak Games"],"release_status":"released","release_date":"2024-03-04","tags":["回合制战术","类Rogue","怀旧风格","回合制战斗","经营管理"]},"hooks":[{"text":"滚动炸药桶、把敌人推入坑中或互相撞击，用环境完成击杀","dimension":"玩法","excerpt":"Roll an explosive barrel at your enemy, throw them into a pit or take out two enemies by knocking them into each other. With a wide variety of tools available to you, your creativity will determine how you deal with the competition.","url":"https://store.steampowered.com/app/2216660/","label":"证据原文片段"},{"text":"独特竞技场、随机环境与临时特殊规则不断改写战术机会","dimension":"玩法","excerpt":"Unique arenas, randomized environments and occasional special rules ensure that each fight offers new tactical opportunities.","url":"https://store.steampowered.com/app/2216660/","label":"证据原文片段"},{"text":"组合遗物与角色特性解锁致命协同，甚至把角斗士堆成失衡恶魔","dimension":"玩法","excerpt":"There is a vast collection of unique relics, character perks and more to discover. Finding clever combos and deadly synergies will unlock new strategies and occasionally turn your gladiators into unfairly strong demons.","url":"https://store.steampowered.com/app/2216660/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":11163,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":24148,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2077,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":94042,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":11478,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":11478,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":15.119252210348083,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":306,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.947883,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"回合制战术、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_148ce0fd727b9b76db71ccad21663c9fb36d1af0.1920x1080.jpg?t=1782477056","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_148ce0fd727b9b76db71ccad21663c9fb36d1af0.1920x1080.jpg?t=1782477056","alt":"荣耀死斗2 - Mortal Glory 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_6846fd607aed324f8dfcf063c1d6b61a01e68f26.1920x1080.jpg?t=1782477056","alt":"荣耀死斗2 - Mortal Glory 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_ceea874c95166bb51aa44b53d4dd8aead67ce11a.1920x1080.jpg?t=1782477056","alt":"荣耀死斗2 - Mortal Glory 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_76f4c87fae2ea9068c32448587db625d61ee7dc7.1920x1080.jpg?t=1782477056","alt":"荣耀死斗2 - Mortal Glory 2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Mortal Glory 2",
+    "developers": [
+      "Redbeak Games"
+    ],
+    "publishers": [
+      "Redbeak Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-04",
+    "tags": [
+      "回合制战术",
+      "类Rogue",
+      "怀旧风格",
+      "回合制战斗",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "滚动炸药桶、把敌人推入坑中或互相撞击，用环境完成击杀",
+      "dimension": "玩法",
+      "excerpt": "Roll an explosive barrel at your enemy, throw them into a pit or take out two enemies by knocking them into each other. With a wide variety of tools available to you, your creativity will determine how you deal with the competition.",
+      "url": "https://store.steampowered.com/app/2216660/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "独特竞技场、随机环境与临时特殊规则不断改写战术机会",
+      "dimension": "玩法",
+      "excerpt": "Unique arenas, randomized environments and occasional special rules ensure that each fight offers new tactical opportunities.",
+      "url": "https://store.steampowered.com/app/2216660/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "组合遗物与角色特性解锁致命协同，甚至把角斗士堆成失衡恶魔",
+      "dimension": "玩法",
+      "excerpt": "There is a vast collection of unique relics, character perks and more to discover. Finding clever combos and deadly synergies will unlock new strategies and occasionally turn your gladiators into unfairly strong demons.",
+      "url": "https://store.steampowered.com/app/2216660/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 12273,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 24291,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2074,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 103746,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 12619,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 12619,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 15.487116597509864,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 294,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.908497,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "荣耀死斗2 - Mortal Glory 2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_148ce0fd727b9b76db71ccad21663c9fb36d1af0.1920x1080.jpg?t=1782477056",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_148ce0fd727b9b76db71ccad21663c9fb36d1af0.1920x1080.jpg?t=1782477056",
+        "alt": "荣耀死斗2 - Mortal Glory 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_6846fd607aed324f8dfcf063c1d6b61a01e68f26.1920x1080.jpg?t=1782477056",
+        "alt": "荣耀死斗2 - Mortal Glory 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_ceea874c95166bb51aa44b53d4dd8aead67ce11a.1920x1080.jpg?t=1782477056",
+        "alt": "荣耀死斗2 - Mortal Glory 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_76f4c87fae2ea9068c32448587db625d61ee7dc7.1920x1080.jpg?t=1782477056",
+        "alt": "荣耀死斗2 - Mortal Glory 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_a18e0bdbb9b105a024f199604760d3d3fb861d43.1920x1080.jpg?t=1782477056",
+        "alt": "荣耀死斗2 - Mortal Glory 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_fe641fc7504e4c908b3dcb5651dfb8b4fe713475.1920x1080.jpg?t=1782477056",
+        "alt": "荣耀死斗2 - Mortal Glory 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_2ffe434b833adf0d12408e018ba5159edd00ed14.1920x1080.jpg?t=1782477056",
+        "alt": "荣耀死斗2 - Mortal Glory 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216660/ss_22118006e33c3dd0643c34e0c7ae719872a9ff34.1920x1080.jpg?t=1782477056",
+        "alt": "荣耀死斗2 - Mortal Glory 2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

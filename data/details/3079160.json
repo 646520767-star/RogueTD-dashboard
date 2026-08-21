@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Don't Lose Aggro","developers":["Oren Koren"],"publishers":["Oren Koren"],"release_status":"early_access","release_date":"2026-04-15","tags":["地牢探索","动作肉鸽","独立游戏","奇幻","类Rogue"]},"hooks":[{"text":"通过伤害维持仇恨，甚至用逃跑强迫敌人追击，把坦克拉怪做成单人核心。","dimension":"玩法","excerpt":"Damage your enemies to hold their attention! Or force them to attack you by running away!","url":"https://store.steampowered.com/app/3079160/","label":"证据原文片段"},{"text":"队友存活时提供可升级能力，也可选择牺牲他们转向高风险硬核路线。","dimension":"玩法","excerpt":"Don't Lose Aggro allows you to choose whether to protect your companions or go full hard-core and sacrifice them!","url":"https://store.steampowered.com/app/3079160/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":6171,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":55922,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2996,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":44638,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6343,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6343,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.6439828930818428,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":129,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":85,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.271318,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"地牢探索、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/c639f06c55c8db1061b602dad572195407fb3adf/ss_c639f06c55c8db1061b602dad572195407fb3adf.1920x1080.jpg?t=1777626085","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/c639f06c55c8db1061b602dad572195407fb3adf/ss_c639f06c55c8db1061b602dad572195407fb3adf.1920x1080.jpg?t=1777626085","alt":"Don't Lose Aggro 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/cb851aa49dad7973ad43354ce37e5f69a0792dbb/ss_cb851aa49dad7973ad43354ce37e5f69a0792dbb.1920x1080.jpg?t=1777626085","alt":"Don't Lose Aggro 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/da9eeb0185f542f0e7d3f22095ae9ae1b7140382/ss_da9eeb0185f542f0e7d3f22095ae9ae1b7140382.1920x1080.jpg?t=1777626085","alt":"Don't Lose Aggro 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/6dd846a59afd7a7c7383c23e15072e3089c8e120/ss_6dd846a59afd7a7c7383c23e15072e3089c8e120.1920x1080.jpg?t=1777626085","alt":"Don't Lose Aggro 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Don't Lose Aggro",
+    "developers": [
+      "Oren Koren"
+    ],
+    "publishers": [
+      "Oren Koren"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-04-15",
+    "tags": [
+      "地牢探索",
+      "类Rogue",
+      "动作肉鸽",
+      "独立游戏",
+      "奇幻"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "通过伤害维持仇恨，甚至用逃跑强迫敌人追击，把坦克拉怪做成单人核心。",
+      "dimension": "玩法",
+      "excerpt": "Damage your enemies to hold their attention! Or force them to attack you by running away!",
+      "url": "https://store.steampowered.com/app/3079160/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "队友存活时提供可升级能力，也可选择牺牲他们转向高风险硬核路线。",
+      "dimension": "玩法",
+      "excerpt": "Don't Lose Aggro allows you to choose whether to protect your companions or go full hard-core and sacrifice them!",
+      "url": "https://store.steampowered.com/app/3079160/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 7514,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 52418,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3010,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 55586,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7724,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7724,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.416822371862212,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 124,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 85,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.271318,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Don't Lose Aggro位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/c639f06c55c8db1061b602dad572195407fb3adf/ss_c639f06c55c8db1061b602dad572195407fb3adf.1920x1080.jpg?t=1777626085",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/c639f06c55c8db1061b602dad572195407fb3adf/ss_c639f06c55c8db1061b602dad572195407fb3adf.1920x1080.jpg?t=1785399407",
+        "alt": "Don't Lose Aggro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/cb851aa49dad7973ad43354ce37e5f69a0792dbb/ss_cb851aa49dad7973ad43354ce37e5f69a0792dbb.1920x1080.jpg?t=1785399407",
+        "alt": "Don't Lose Aggro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/da9eeb0185f542f0e7d3f22095ae9ae1b7140382/ss_da9eeb0185f542f0e7d3f22095ae9ae1b7140382.1920x1080.jpg?t=1785399407",
+        "alt": "Don't Lose Aggro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/6dd846a59afd7a7c7383c23e15072e3089c8e120/ss_6dd846a59afd7a7c7383c23e15072e3089c8e120.1920x1080.jpg?t=1785399407",
+        "alt": "Don't Lose Aggro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/f0b6a5ab72563ddcc520c2735c1949931ddd88b8/ss_f0b6a5ab72563ddcc520c2735c1949931ddd88b8.1920x1080.jpg?t=1785399407",
+        "alt": "Don't Lose Aggro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/d930b71c4a58847cd855accbd4db6c702095a6da/ss_d930b71c4a58847cd855accbd4db6c702095a6da.1920x1080.jpg?t=1785399407",
+        "alt": "Don't Lose Aggro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/bf7b9b1d9cad3f19491fa720db924e0a3fa1d8ff/ss_bf7b9b1d9cad3f19491fa720db924e0a3fa1d8ff.1920x1080.jpg?t=1785399407",
+        "alt": "Don't Lose Aggro 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079160/20573ce41be99defd925a9a1c44e2916c76c75bf/ss_20573ce41be99defd925a9a1c44e2916c76c75bf.1920x1080.jpg?t=1785399407",
+        "alt": "Don't Lose Aggro 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

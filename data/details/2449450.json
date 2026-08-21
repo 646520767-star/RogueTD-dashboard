@@ -1,1 +1,258 @@
-{"identity":{"original_title":"Clonizer","developers":["Juicy Plume"],"publishers":["Rogue Duck Interactive","Gamersky Games"],"release_status":"released","release_date":"2025-04-14","tags":["太空","轻度Rogue","回合制战斗","卡组构筑","肉鸽卡组构筑"]},"hooks":[{"text":"在六角星球制造克隆体探索、占地、建造与战斗","dimension":"玩法","excerpt":"Master Turn-based Tactics Missions are laid out on hex-based planets. Use your Clonizer to create Clonees, who in turn will explore, control areas, construct buildings, and fight unintelligent aliens with ultra-smart tactics. Each planet features unique sets of tiles and aliens to alter the battlefield in their own way.","url":"https://store.steampowered.com/app/2449450/","label":"证据原文片段"},{"text":"跨企业部门收集卡牌并用蓝图与专精塑造克隆Build","dimension":"玩法","excerpt":"Craft Your Deck Collect cards from various departments, each with their own theme and mechanics. Upgrade your cards, specialize your Clonees, buy vastly powerful goodies, gather unique blueprints and build a deck that can fulfill your corporate needs!","url":"https://store.steampowered.com/app/2449450/","label":"证据原文片段"},{"text":"程序化银河串联任务、怪异事件与寄生商人交易","dimension":"玩法","excerpt":"Choose Your Path Travel through the procedurally generated galaxy, complete assigned missions on alien planets, encounter eccentric events, trade with opportunistic shopkeepers and parasitic life forms! With endless possibilities, no playthrough is ever the same.","url":"https://store.steampowered.com/app/2449450/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":3940,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22877,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1309,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":42046,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4618,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4618,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":10.918975742597624,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":181,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.740331,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"太空、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/078b9e456c01581b8ab9d33819d274a6512b3b32/ss_078b9e456c01581b8ab9d33819d274a6512b3b32.1920x1080.jpg?t=1783587090","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/078b9e456c01581b8ab9d33819d274a6512b3b32/ss_078b9e456c01581b8ab9d33819d274a6512b3b32.1920x1080.jpg?t=1783587090","alt":"外星殖民公司 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/10ae48b6fab3fd8a51b1a610a5a4382cd776ee46/ss_10ae48b6fab3fd8a51b1a610a5a4382cd776ee46.1920x1080.jpg?t=1783587090","alt":"外星殖民公司 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/ss_f3ef4159ff850996873ea7f8e4bdea1d68bb3fbf.1920x1080.jpg?t=1783587090","alt":"外星殖民公司 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/38c93ea4495f1f2b48c6515d76a2ffb61aba2fbb/ss_38c93ea4495f1f2b48c6515d76a2ffb61aba2fbb.1920x1080.jpg?t=1783587090","alt":"外星殖民公司 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Clonizer",
+    "developers": [
+      "Juicy Plume"
+    ],
+    "publishers": [
+      "Rogue Duck Interactive",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-14",
+    "tags": [
+      "太空",
+      "轻度Rogue",
+      "回合制战斗",
+      "策略",
+      "卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "在六角星球制造克隆体探索、占地、建造与战斗",
+      "dimension": "玩法",
+      "excerpt": "Master Turn-based Tactics Missions are laid out on hex-based planets. Use your Clonizer to create Clonees, who in turn will explore, control areas, construct buildings, and fight unintelligent aliens with ultra-smart tactics. Each planet features unique sets of tiles and aliens to alter the battlefield in their own way.",
+      "url": "https://store.steampowered.com/app/2449450/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "跨企业部门收集卡牌并用蓝图与专精塑造克隆Build",
+      "dimension": "玩法",
+      "excerpt": "Craft Your Deck Collect cards from various departments, each with their own theme and mechanics. Upgrade your cards, specialize your Clonees, buy vastly powerful goodies, gather unique blueprints and build a deck that can fulfill your corporate needs!",
+      "url": "https://store.steampowered.com/app/2449450/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "程序化银河串联任务、怪异事件与寄生商人交易",
+      "dimension": "玩法",
+      "excerpt": "Choose Your Path Travel through the procedurally generated galaxy, complete assigned missions on alien planets, encounter eccentric events, trade with opportunistic shopkeepers and parasitic life forms! With endless possibilities, no playthrough is ever the same.",
+      "url": "https://store.steampowered.com/app/2449450/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "画风可爱，玩法经典的一款精致小巧的回合制肉鸽游戏，非常上头。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "画风可爱，玩法经典的一款精致小巧的回合制肉鸽游戏，非常上头。",
+          "url": "https://steamcommunity.com/profiles/76561198887532518/recommended/2449450/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "还不错，肉鸽卡牌加战棋玩法的结合，这个可爱的卡通画风我很喜欢",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "还不错，肉鸽卡牌加战棋玩法的结合，这个可爱的卡通画风我很喜欢",
+          "url": "https://steamcommunity.com/profiles/76561198403562887/recommended/2449450/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "很好玩的肉鸽卡牌游戏，画风可爱，玩法新颖，难度适度，适合上班摸鱼玩。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "很好玩的肉鸽卡牌游戏，画风可爱，玩法新颖，难度适度，适合上班摸鱼玩。",
+          "url": "https://steamcommunity.com/profiles/76561198844118552/recommended/2449450/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "很有新意的小游戏，卡牌加战旗的玩法让人眼前一亮，画风可爱，就是数值有些太苛刻了，要多思考思考，最后，奶牛大王我一定会回来的。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "很有新意的小游戏，卡牌加战旗的玩法让人眼前一亮，画风可爱，就是数值有些太苛刻了，要多思考思考，最后，奶牛大王我一定会回来的。",
+          "url": "https://steamcommunity.com/profiles/76561199135419344/recommended/2449450/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Its charming visuals make it a standout experience.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "信息提供",
+      "excerpts": [
+        {
+          "excerpt": "Its charming visuals make it a standout experience.",
+          "url": "https://store.steampowered.com/curator/44694318-BUG-Test/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Can't get enough of the vibrant visuals paired with clever game mechanics — Clonizer is a visual treat!",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Can't get enough of the vibrant visuals paired with clever game mechanics — Clonizer is a visual treat!",
+          "url": "https://store.steampowered.com/curator/44992692-Fun-Fan-Fair/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4470,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 23013,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1302,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 45370,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5259,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5259,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.001708643855508,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 143,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.714286,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "外星殖民公司位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/078b9e456c01581b8ab9d33819d274a6512b3b32/ss_078b9e456c01581b8ab9d33819d274a6512b3b32.1920x1080.jpg?t=1783587090",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/078b9e456c01581b8ab9d33819d274a6512b3b32/ss_078b9e456c01581b8ab9d33819d274a6512b3b32.1920x1080.jpg?t=1785317366",
+        "alt": "外星殖民公司 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/10ae48b6fab3fd8a51b1a610a5a4382cd776ee46/ss_10ae48b6fab3fd8a51b1a610a5a4382cd776ee46.1920x1080.jpg?t=1785317366",
+        "alt": "外星殖民公司 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/ss_f3ef4159ff850996873ea7f8e4bdea1d68bb3fbf.1920x1080.jpg?t=1785317366",
+        "alt": "外星殖民公司 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/38c93ea4495f1f2b48c6515d76a2ffb61aba2fbb/ss_38c93ea4495f1f2b48c6515d76a2ffb61aba2fbb.1920x1080.jpg?t=1785317366",
+        "alt": "外星殖民公司 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/6e785a3b3cdaee4b225f1dedf01d247f7ecb20d9/ss_6e785a3b3cdaee4b225f1dedf01d247f7ecb20d9.1920x1080.jpg?t=1785317366",
+        "alt": "外星殖民公司 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/ss_09a1aecd60d39fbf649706fdad3c3fdd7728c6bc.1920x1080.jpg?t=1785317366",
+        "alt": "外星殖民公司 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/ss_e0a7d780f3e726002a1afae6d69e8232be7b6151.1920x1080.jpg?t=1785317366",
+        "alt": "外星殖民公司 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449450/ss_fe4b7f5173189923c87bb3e48d7cbcd1986b60fa.1920x1080.jpg?t=1785317366",
+        "alt": "外星殖民公司 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

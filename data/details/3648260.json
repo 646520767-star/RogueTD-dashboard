@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Sunbreak War","developers":["Candlelight Studio"],"publishers":["Candlelight Studio"],"release_status":"released","release_date":"2026-02-27","tags":["轻度Rogue","塔防","即时战术","中世纪","类Rogue"]},"hooks":[{"text":"白天建设经济与防线，夜晚亲自迎击不死军团","dimension":"玩法","excerpt":"Build by day, fight by night—defend your home with wit and blade! By day, you need to construct and upgrade 30 different buildings and units, allocate resources to develop your economy, and deploy soldiers to build an impenetrable defense line.","url":"https://store.steampowered.com/app/3648260/","label":"证据原文片段"},{"text":"六把武器各带专属技能和30项天赋，再叠加Rogue增益塑造流派","dimension":"玩法","excerpt":"The game offers 6 unique weapons, each with distinct skills and 30 upgradable talents. Defeating enemies in battle grants Rogue boons, allowing you to freely combine and create your own combat style.","url":"https://store.steampowered.com/app/3648260/","label":"证据原文片段"},{"text":"九张递增难度地图迎战40类怪物，并在终夜对决地图Boss","dimension":"玩法","excerpt":"At night, 40 different types of monsters will emerge, launching frenzied attacks. On the final night, the map's ultimate boss will personally descend—prepare for an epic showdown! 9 distinct maps, each with rising difficulty, will test your tactics and decisions.","url":"https://store.steampowered.com/app/3648260/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4126,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":12710,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":756,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":26714,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4883,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4883,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.429503426897249,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":149,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.892617,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、塔防","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/8ee2cdc32c1b4eb253ba0a82c4973eac3b6f430a/ss_8ee2cdc32c1b4eb253ba0a82c4973eac3b6f430a.1920x1080.jpg?t=1777522147","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/8ee2cdc32c1b4eb253ba0a82c4973eac3b6f430a/ss_8ee2cdc32c1b4eb253ba0a82c4973eac3b6f430a.1920x1080.jpg?t=1777522147","alt":"破晓之战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/3138c9282d226a0d88f826ddc7ffc543dd7713b2/ss_3138c9282d226a0d88f826ddc7ffc543dd7713b2.1920x1080.jpg?t=1777522147","alt":"破晓之战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/6e9b24ad510af00afa68d0ed9b5a476c89afa80b/ss_6e9b24ad510af00afa68d0ed9b5a476c89afa80b.1920x1080.jpg?t=1777522147","alt":"破晓之战 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/ff9c7459f360ce4645222bb5287e6f5cac108eaa/ss_ff9c7459f360ce4645222bb5287e6f5cac108eaa.1920x1080.jpg?t=1777522147","alt":"破晓之战 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Sunbreak War",
+    "developers": [
+      "Candlelight Studio"
+    ],
+    "publishers": [
+      "Candlelight Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-27",
+    "tags": [
+      "轻度Rogue",
+      "塔防",
+      "即时战术",
+      "塔防",
+      "塔防"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "白天建设经济与防线，夜晚亲自迎击不死军团",
+      "dimension": "玩法",
+      "excerpt": "Build by day, fight by night—defend your home with wit and blade! By day, you need to construct and upgrade 30 different buildings and units, allocate resources to develop your economy, and deploy soldiers to build an impenetrable defense line.",
+      "url": "https://store.steampowered.com/app/3648260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "六把武器各带专属技能和30项天赋，再叠加Rogue增益塑造流派",
+      "dimension": "玩法",
+      "excerpt": "The game offers 6 unique weapons, each with distinct skills and 30 upgradable talents. Defeating enemies in battle grants Rogue boons, allowing you to freely combine and create your own combat style.",
+      "url": "https://store.steampowered.com/app/3648260/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "九张递增难度地图迎战40类怪物，并在终夜对决地图Boss",
+      "dimension": "玩法",
+      "excerpt": "At night, 40 different types of monsters will emerge, launching frenzied attacks. On the final night, the map's ultimate boss will personally descend—prepare for an epic showdown! 9 distinct maps, each with rising difficulty, will test your tactics and decisions.",
+      "url": "https://store.steampowered.com/app/3648260/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4367,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 12785,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 757,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 28126,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5156,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5156,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.4958209812081185,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 118,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 84.10596,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "破晓之战位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/8ee2cdc32c1b4eb253ba0a82c4973eac3b6f430a/ss_8ee2cdc32c1b4eb253ba0a82c4973eac3b6f430a.1920x1080.jpg?t=1777522147",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/8ee2cdc32c1b4eb253ba0a82c4973eac3b6f430a/ss_8ee2cdc32c1b4eb253ba0a82c4973eac3b6f430a.1920x1080.jpg?t=1777522147",
+        "alt": "破晓之战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/3138c9282d226a0d88f826ddc7ffc543dd7713b2/ss_3138c9282d226a0d88f826ddc7ffc543dd7713b2.1920x1080.jpg?t=1777522147",
+        "alt": "破晓之战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/6e9b24ad510af00afa68d0ed9b5a476c89afa80b/ss_6e9b24ad510af00afa68d0ed9b5a476c89afa80b.1920x1080.jpg?t=1777522147",
+        "alt": "破晓之战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/ff9c7459f360ce4645222bb5287e6f5cac108eaa/ss_ff9c7459f360ce4645222bb5287e6f5cac108eaa.1920x1080.jpg?t=1777522147",
+        "alt": "破晓之战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/f7b262842dedd890710e2cbea2cd7cc99aa05dd9/ss_f7b262842dedd890710e2cbea2cd7cc99aa05dd9.1920x1080.jpg?t=1777522147",
+        "alt": "破晓之战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/1a7d48f5cf1b289923c27244323acdf2e39b05fb/ss_1a7d48f5cf1b289923c27244323acdf2e39b05fb.1920x1080.jpg?t=1777522147",
+        "alt": "破晓之战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/624a5ae4335ad4296b8269d13192c4f29215ac3a/ss_624a5ae4335ad4296b8269d13192c4f29215ac3a.1920x1080.jpg?t=1777522147",
+        "alt": "破晓之战 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648260/9c8ecb83a6a342209888d0991922be11c0aa0b72/ss_9c8ecb83a6a342209888d0991922be11c0aa0b72.1920x1080.jpg?t=1777522147",
+        "alt": "破晓之战 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

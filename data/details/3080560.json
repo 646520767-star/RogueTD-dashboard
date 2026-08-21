@@ -1,0 +1,222 @@
+{
+  "identity": {
+    "original_title": "Graphite",
+    "developers": [
+      "RipRed"
+    ],
+    "publishers": [
+      "indie.io"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-27",
+    "tags": [
+      "类Rogue",
+      "角色扮演",
+      "轻度Rogue",
+      "回合制战斗",
+      "回合制战术"
+    ]
+  },
+  "hooks": [],
+  "opinions": [
+    {
+      "text": "be/25sT5HebeyE Gameplay: Good Graphics: Good Music: Fair Story: Good PC Requirements: Normal",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "be/25sT5HebeyE Gameplay: Good Graphics: Good Music: Fair Story: Good PC Requirements: Normal",
+          "url": "https://steamcommunity.com/id/shadowkidsz/recommended/3080560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Hooked on the gameplay from minute 1, 20/10 I love the mage",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Hooked on the gameplay from minute 1, 20/10 I love the mage",
+          "url": "https://steamcommunity.com/profiles/76561198123352841/recommended/3080560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "If you enjoy turn-based strategy, roguelite progression, and combat that reward patience and planning instead of button mashing, this is definitely worth playing.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "If you enjoy turn-based strategy, roguelite progression, and combat that reward patience and planning instead of button mashing, this is definitely worth playing.",
+          "url": "https://steamcommunity.com/id/darellwina/recommended/3080560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Apart from gameplay the characters are very likeable I got my favorite the Tamer, but everyone has a cool story and are pretty interesting to meet.",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Apart from gameplay the characters are very likeable I got my favorite the Tamer, but everyone has a cool story and are pretty interesting to meet.",
+          "url": "https://steamcommunity.com/id/soyleo_san/recommended/3080560/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Has interactive multi-unit combat and many items.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Has interactive multi-unit combat and many items.",
+          "url": "https://store.steampowered.com/curator/41690569-got-Anthro/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 411,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 6392,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 500,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2706,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 435,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 435,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.895861012850147,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 23,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 96,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Graphite位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/492bb707533a5ed968744fe3b5ee0362bda7286d/ss_492bb707533a5ed968744fe3b5ee0362bda7286d.1920x1080.jpg?t=1784762280",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/492bb707533a5ed968744fe3b5ee0362bda7286d/ss_492bb707533a5ed968744fe3b5ee0362bda7286d.1920x1080.jpg?t=1785767861",
+        "alt": "Graphite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/ebb2af6573f867ce29a3a84e237510fdd44874a0/ss_ebb2af6573f867ce29a3a84e237510fdd44874a0.1920x1080.jpg?t=1785767861",
+        "alt": "Graphite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/8f3380fe2bdfe047102a3b745e14686b885d59f6/ss_8f3380fe2bdfe047102a3b745e14686b885d59f6.1920x1080.jpg?t=1785767861",
+        "alt": "Graphite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/ae6bb619a295868fc4fdfc6413cc09d81a1f5da8/ss_ae6bb619a295868fc4fdfc6413cc09d81a1f5da8.1920x1080.jpg?t=1785767861",
+        "alt": "Graphite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/4336d54bf9a54ef8bf9b30c408c1814b8207144e/ss_4336d54bf9a54ef8bf9b30c408c1814b8207144e.1920x1080.jpg?t=1785767861",
+        "alt": "Graphite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/4b5f5aba4c6f5606737d8cd788999015e6b62479/ss_4b5f5aba4c6f5606737d8cd788999015e6b62479.1920x1080.jpg?t=1785767861",
+        "alt": "Graphite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/31b5e99c7d6b6e2b9c6300ad5a8b18f8bf80aba9/ss_31b5e99c7d6b6e2b9c6300ad5a8b18f8bf80aba9.1920x1080.jpg?t=1785767861",
+        "alt": "Graphite 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/830dece53978bba41e5a03c6cb084accb89a78fe/ss_830dece53978bba41e5a03c6cb084accb89a78fe.1920x1080.jpg?t=1785767861",
+        "alt": "Graphite 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

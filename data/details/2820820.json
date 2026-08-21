@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Jotunnslayer: Hordes of Hel","developers":["Games Farm","ARTillery"],"publishers":["Grindstone"],"release_status":"released","release_date":"2025-09-03","tags":["动作肉鸽","轻度Rogue","动作角色扮演","砍杀","类Rogue"]},"hooks":[{"text":"选择受诅咒英雄穿越神明试炼，在神话敌潮中获胜后成为被选中的巨人杀手。","dimension":"题材","excerpt":"Choose one of the damned heroes and attempt to pass the Gods' test by fighting your way through waves of mythical adversaries. If you succeed in all the trials, you will become the chosen Jotunnslayer.","url":"https://store.steampowered.com/app/2820820/","label":"证据原文片段"},{"text":"每轮会插入额外任务，要求完成特定目标或克服附加障碍后再抵达最终挑战。","dimension":"玩法","excerpt":"Take on challenging missions during each run to test your skills and enrich your journey through the mythic realms. These quests may involve completing specific objectives or overcoming additional obstacles as you battle relentless enemies on your way to the final challenge.","url":"https://store.steampowered.com/app/2820820/","label":"证据原文片段"},{"text":"跨局成长会解锁特长、技能、武器和奖励，用于定制流派并提高后续生存率。","dimension":"玩法","excerpt":"Improve your abilities with meta-progression systems that offer unlockable perks, in-game skills, or upgrades. As you progress further, you'll gain access to new abilities, weapons, and bonuses that allow you to customize your playstyle and improve your chances of survival.","url":"https://store.steampowered.com/app/2820820/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":393153,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":338073,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":34422,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3459276,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":409469,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":409469,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.746310347297293,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":7624,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.45706,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/9103b05d68d9af42da9efb4cee30ffb1f681e679/ss_9103b05d68d9af42da9efb4cee30ffb1f681e679.1920x1080.jpg?t=1784209296","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/9103b05d68d9af42da9efb4cee30ffb1f681e679/ss_9103b05d68d9af42da9efb4cee30ffb1f681e679.1920x1080.jpg?t=1784209296","alt":"巨人杀手：暗黑之潮 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/865649a81d21ae3b4befea1e6f46e73a30f9a272/ss_865649a81d21ae3b4befea1e6f46e73a30f9a272.1920x1080.jpg?t=1784209296","alt":"巨人杀手：暗黑之潮 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/1bedaa38cb7cfc4bc42bc003f998c80b51235ca8/ss_1bedaa38cb7cfc4bc42bc003f998c80b51235ca8.1920x1080.jpg?t=1784209296","alt":"巨人杀手：暗黑之潮 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/18c4202ad81f3aedbe0e9c3b05aaa7701e023578/ss_18c4202ad81f3aedbe0e9c3b05aaa7701e023578.1920x1080.jpg?t=1784209296","alt":"巨人杀手：暗黑之潮 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Jotunnslayer: Hordes of Hel",
+    "developers": [
+      "Games Farm",
+      "ARTillery"
+    ],
+    "publishers": [
+      "Grindstone"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-03",
+    "tags": [
+      "动作肉鸽",
+      "动作肉鸽",
+      "轻度Rogue",
+      "动作角色扮演",
+      "砍杀"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "选择受诅咒英雄穿越神明试炼，在神话敌潮中获胜后成为被选中的巨人杀手。",
+      "dimension": "题材",
+      "excerpt": "Choose one of the damned heroes and attempt to pass the Gods' test by fighting your way through waves of mythical adversaries. If you succeed in all the trials, you will become the chosen Jotunnslayer.",
+      "url": "https://store.steampowered.com/app/2820820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮会插入额外任务，要求完成特定目标或克服附加障碍后再抵达最终挑战。",
+      "dimension": "玩法",
+      "excerpt": "Take on challenging missions during each run to test your skills and enrich your journey through the mythic realms. These quests may involve completing specific objectives or overcoming additional obstacles as you battle relentless enemies on your way to the final challenge.",
+      "url": "https://store.steampowered.com/app/2820820/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "跨局成长会解锁特长、技能、武器和奖励，用于定制流派并提高后续生存率。",
+      "dimension": "玩法",
+      "excerpt": "Improve your abilities with meta-progression systems that offer unlockable perks, in-game skills, or upgrades. As you progress further, you'll gain access to new abilities, weapons, and bonuses that allow you to customize your playstyle and improve your chances of survival.",
+      "url": "https://store.steampowered.com/app/2820820/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 394298,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 340077,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 34541,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3450576,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 410850,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 410850,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.850184290360145,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 7238,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.427159,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "巨人杀手：暗黑之潮位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/9103b05d68d9af42da9efb4cee30ffb1f681e679/ss_9103b05d68d9af42da9efb4cee30ffb1f681e679.1920x1080.jpg?t=1784209296",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/9103b05d68d9af42da9efb4cee30ffb1f681e679/ss_9103b05d68d9af42da9efb4cee30ffb1f681e679.1920x1080.jpg?t=1784209296",
+        "alt": "巨人杀手：暗黑之潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/865649a81d21ae3b4befea1e6f46e73a30f9a272/ss_865649a81d21ae3b4befea1e6f46e73a30f9a272.1920x1080.jpg?t=1784209296",
+        "alt": "巨人杀手：暗黑之潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/1bedaa38cb7cfc4bc42bc003f998c80b51235ca8/ss_1bedaa38cb7cfc4bc42bc003f998c80b51235ca8.1920x1080.jpg?t=1784209296",
+        "alt": "巨人杀手：暗黑之潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/18c4202ad81f3aedbe0e9c3b05aaa7701e023578/ss_18c4202ad81f3aedbe0e9c3b05aaa7701e023578.1920x1080.jpg?t=1784209296",
+        "alt": "巨人杀手：暗黑之潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/a7722642eaaafc371012d58a55d6a1658ba03d04/ss_a7722642eaaafc371012d58a55d6a1658ba03d04.1920x1080.jpg?t=1784209296",
+        "alt": "巨人杀手：暗黑之潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/e43a467a5b6c77b8f6f4869fa2fd14f4626eecd0/ss_e43a467a5b6c77b8f6f4869fa2fd14f4626eecd0.1920x1080.jpg?t=1784209296",
+        "alt": "巨人杀手：暗黑之潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/89eae8ad212840b47c4bdb974da43e7d8878037d/ss_89eae8ad212840b47c4bdb974da43e7d8878037d.1920x1080.jpg?t=1784209296",
+        "alt": "巨人杀手：暗黑之潮 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/eb9e2ef4c982476c17b65f1c0c0ca6e057b069d7/ss_eb9e2ef4c982476c17b65f1c0c0ca6e057b069d7.1920x1080.jpg?t=1784209296",
+        "alt": "巨人杀手：暗黑之潮 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

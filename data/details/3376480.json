@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Delivery & Beyond","developers":["FailCake (HyenaQuest)"],"publishers":["FailCake (HyenaQuest)"],"release_status":"released","release_date":"2026-01-27","tags":["物理模拟","复古","多人游戏","程序生成","冒险"]},"hooks":[{"text":"任意能站上去的杂物都可充当高速冲浪载具，直接跨越深渊","dimension":"玩法","excerpt":"With PhysTech's Prop Surfing System , every random piece of junk becomes a high-speed launch vehicle. File cabinets, barrels, office chairs... If you can stand on it, you can surf it straight across the abyss.","url":"https://store.steampowered.com/app/3376480/","label":"证据原文片段"},{"text":"所有未固定的桌椅、电器和杂物都能拆解成原材料","dimension":"玩法","excerpt":"Scrap first, ask questions later. Anything that isn't nailed down is raw material: Tables, chairs, electronics, junk...","url":"https://store.steampowered.com/app/3376480/","label":"证据原文片段"},{"text":"把废料投入Delivery Maker 3000制造货物，再靠完成交付偿还债务","dimension":"玩法","excerpt":"Throw scrap in, pull out a delivery. Delivery Maker 3000 doesn't ask questions... and neither do we. Get it done, pay off your debt... or don't, and find out how much we love failure.","url":"https://store.steampowered.com/app/3376480/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":290542,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":7626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2378,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":290542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":290542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.8192899235755993,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1617,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.773994,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"物理模拟、复古","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/e5628722cd553c86dc75f32a2eccba1207420fc4/ss_e5628722cd553c86dc75f32a2eccba1207420fc4.1920x1080.jpg?t=1783623324","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/e5628722cd553c86dc75f32a2eccba1207420fc4/ss_e5628722cd553c86dc75f32a2eccba1207420fc4.1920x1080.jpg?t=1783623324","alt":"Delivery & Beyond 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/0c17e48325599b60ac8fd1db571ab27b3a4df432/ss_0c17e48325599b60ac8fd1db571ab27b3a4df432.1920x1080.jpg?t=1783623324","alt":"Delivery & Beyond 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/dc58c3b5637f584a4386c775d57eb4272be08260/ss_dc58c3b5637f584a4386c775d57eb4272be08260.1920x1080.jpg?t=1783623324","alt":"Delivery & Beyond 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/b4acffe0701fe5954c6186371b8b42e520297dc6/ss_b4acffe0701fe5954c6186371b8b42e520297dc6.1920x1080.jpg?t=1783623324","alt":"Delivery & Beyond 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Delivery & Beyond",
+    "developers": [
+      "FailCake (HyenaQuest)"
+    ],
+    "publishers": [
+      "FailCake (HyenaQuest)"
+    ],
+    "release_status": "released",
+    "release_date": "2026-01-27",
+    "tags": [
+      "物理模拟",
+      "多人游戏",
+      "复古",
+      "程序生成",
+      "冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "任意能站上去的杂物都可充当高速冲浪载具，直接跨越深渊",
+      "dimension": "玩法",
+      "excerpt": "With PhysTech's Prop Surfing System , every random piece of junk becomes a high-speed launch vehicle. File cabinets, barrels, office chairs... If you can stand on it, you can surf it straight across the abyss.",
+      "url": "https://store.steampowered.com/app/3376480/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "所有未固定的桌椅、电器和杂物都能拆解成原材料",
+      "dimension": "玩法",
+      "excerpt": "Scrap first, ask questions later. Anything that isn't nailed down is raw material: Tables, chairs, electronics, junk...",
+      "url": "https://store.steampowered.com/app/3376480/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把废料投入Delivery Maker 3000制造货物，再靠完成交付偿还债务",
+      "dimension": "玩法",
+      "excerpt": "Throw scrap in, pull out a delivery. Delivery Maker 3000 doesn't ask questions... and neither do we. Get it done, pay off your debt... or don't, and find out how much we love failure.",
+      "url": "https://store.steampowered.com/app/3376480/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 317579,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2607,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 317579,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 317579,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.8420023769096805,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1748,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 90.768349,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Delivery & Beyond位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/e5628722cd553c86dc75f32a2eccba1207420fc4/ss_e5628722cd553c86dc75f32a2eccba1207420fc4.1920x1080.jpg?t=1783623324",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/e5628722cd553c86dc75f32a2eccba1207420fc4/ss_e5628722cd553c86dc75f32a2eccba1207420fc4.1920x1080.jpg?t=1783623324",
+        "alt": "Delivery & Beyond 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/0c17e48325599b60ac8fd1db571ab27b3a4df432/ss_0c17e48325599b60ac8fd1db571ab27b3a4df432.1920x1080.jpg?t=1783623324",
+        "alt": "Delivery & Beyond 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/dc58c3b5637f584a4386c775d57eb4272be08260/ss_dc58c3b5637f584a4386c775d57eb4272be08260.1920x1080.jpg?t=1783623324",
+        "alt": "Delivery & Beyond 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/b4acffe0701fe5954c6186371b8b42e520297dc6/ss_b4acffe0701fe5954c6186371b8b42e520297dc6.1920x1080.jpg?t=1783623324",
+        "alt": "Delivery & Beyond 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/9a94951ac76d5f2c1b17955a91450236bcad75e8/ss_9a94951ac76d5f2c1b17955a91450236bcad75e8.1920x1080.jpg?t=1783623324",
+        "alt": "Delivery & Beyond 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/832671d2389c06f32c7a8988463a7a1e4a41f359/ss_832671d2389c06f32c7a8988463a7a1e4a41f359.1920x1080.jpg?t=1783623324",
+        "alt": "Delivery & Beyond 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/0dba26215f3d08cbfc0303d3623fa581c027836e/ss_0dba26215f3d08cbfc0303d3623fa581c027836e.1920x1080.jpg?t=1783623324",
+        "alt": "Delivery & Beyond 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376480/a88b05696cac91cfa969e816dfd4226212fd34ef/ss_a88b05696cac91cfa969e816dfd4226212fd34ef.1920x1080.jpg?t=1783623324",
+        "alt": "Delivery & Beyond 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

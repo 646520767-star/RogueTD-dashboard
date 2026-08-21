@@ -1,1 +1,300 @@
-{"identity":{"original_title":"Yao-Guai Hunter","developers":["MyACG Studio"],"publishers":["MyACG Studio"],"release_status":"released","release_date":"2025-04-17","tags":["肉鸽卡组构筑","卡牌游戏","高重复可玩性","类Rogue","卡牌对战"]},"hooks":[{"text":"手绘中国民间传说被呈现成妖怪、奇迹与武术交织的动态水墨长卷","dimension":"画风","excerpt":"Step into a hand-painted realm inspired by Chinese folklore — a living scroll of monsters, miracles, and martial arts.","url":"https://store.steampowered.com/app/1915510/","label":"证据原文片段"},{"text":"四名猎妖人分别围绕噬血诅咒刀、符箓火器、毒虫巫术和风火雷雨龙化构筑","dimension":"玩法","excerpt":"Mo San – A warrior from the Yao-Slaying Bureau, carrying a cursed blade thirsts blood. He channels his rage into raw power — but with every cut, the blade hungers more. How long before it devours him whole? Chuan – A Taoist with a bamboo-fire sword and a pouch full of dangerous inventions. He may look frail, but his bullets are blessed with talismanic magic. His homemade weapons \"Bamboo Bombard\" — turn spiritual alchemy into explosive justice. A-Zi – A prodigy witch from the southern Miao tribes, bonded with the poisons of the wild. She commands a legion of venomous insects and conjures ancient hexes passed down through bloodlines. To fight her is to fight the jungle itself. Ao Yu – A young dragon-descendant learning to command the storm. With mastery over wind, fire, thunder, and rain, she dances on the edge of control. But when her human form shatters... the dragon within awakens.","url":"https://store.steampowered.com/app/1915510/","label":"证据原文片段"},{"text":"卡池含400余张手工牌、172种内功和54类灵丹，并配套百余事件敌人与20层难度","dimension":"玩法","excerpt":"A Martial Fantasy Roguelike Rooted in Eastern Lore 400+ Handcrafted Cards 172 Inner Skills 54 Mystical Elixirs 100+ Random Events 100+ Unique Enemies 20 Ascending Difficulty Levels","url":"https://store.steampowered.com/app/1915510/","label":"证据原文片段"}],"opinions":[{"text":"手绘卡牌画面精致并能吸引玩家进入神秘世界。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The hand-painted visuals are stunning. Each card showcases intricate artwork that draws you into the mystical world.","url":"https://store.steampowered.com/curator/44992561-Danmaku-Disciples/","label":"证据原文片段"}]},{"text":"画风和绘画表现获得明确肯定。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"游戏好的是画风不错绘画好看","url":"https://steamcommunity.com/profiles/76561198143006177/recommended/1915510/","label":"证据原文片段"}]},{"text":"过度借鉴《杀戮尖塔》，导致多角色各玩一局后很快无聊","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"just used Slay too much as an anchor which ended up making it very boring after a single run with all 3 starting characters.","url":"https://steamcommunity.com/profiles/76561199111825137/recommended/1915510/","label":"证据原文片段"}]},{"text":"角色卡池塞入过多不协同流派，导致卡池杂乱且难以找到需要的牌。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"不同流派的牌没啥配合，弹药的流派只能玩弹药，弃牌的流派里可以跨流派的用的也就一张过牌。就打起来很不舒服，总觉得卡池太杂了，找不到牌没有那种爽的感觉。","url":"https://steamcommunity.com/profiles/76561199033312705/recommended/1915510/","label":"证据原文片段"}]},{"text":"洗牌耗费行动力会惩罚小卡组","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"光是洗牌要花一费就已经在惩罚小卡组","url":"https://steamcommunity.com/profiles/76561198239089256/recommended/1915510/","label":"证据原文片段"}]},{"text":"法力机制迫使玩家认真规划，而不是无脑连续出牌。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Yao-Guai Hunter's \"mana\" mechanic is quite cool, it forces you to think harder each time rather than simply spamming cards.","url":"https://store.steampowered.com/curator/44992038-General-Gamers-Playground/","label":"证据原文片段"}]},{"text":"成型后的多种卡组流派能带来很强爽感。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"游戏好的是画风不错绘画好看，牌组大成后是真的很爽","url":"https://steamcommunity.com/profiles/76561198143006177/recommended/1915510/","label":"证据原文片段"}]},{"text":"大卡组玩法也能较稳定通关，难度曲线平滑。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"这个游戏即便是大卡组也能较为稳定通关，难度曲线平滑","url":"https://steamcommunity.com/profiles/76561199781159229/recommended/1915510/","label":"证据原文片段"}]},{"text":"中国民间传说灵感为玩法提供了丰富背景氛围","dimension":"主题","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"The art style and inspiration from Chinese folklore provide a rich backdrop for the gameplay.","url":"https://store.steampowered.com/curator/44992692-Fun-Fan-Fair/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":102658,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":111842,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":13364,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1092927,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":110782,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":125553,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":20.154850360200214,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2310,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.686716,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["过度借鉴《杀戮尖塔》，导致多角色各玩一局后很快无聊","角色卡池塞入过多不协同流派，导致卡池杂乱且难以找到需要的牌。","洗牌耗费行动力会惩罚小卡组"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/98e6bb506d94fff04ed1caa059507169d95f3441/ss_98e6bb506d94fff04ed1caa059507169d95f3441.1920x1080.jpg?t=1774814678","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/98e6bb506d94fff04ed1caa059507169d95f3441/ss_98e6bb506d94fff04ed1caa059507169d95f3441.1920x1080.jpg?t=1774814678","alt":"降妖散记 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/c0a28742f74db7a1c2de094954abd803237ce360/ss_c0a28742f74db7a1c2de094954abd803237ce360.1920x1080.jpg?t=1774814678","alt":"降妖散记 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/ca1366491136385dd6669301b4d8b4d670b64879/ss_ca1366491136385dd6669301b4d8b4d670b64879.1920x1080.jpg?t=1774814678","alt":"降妖散记 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/b6b8022472c71204aadbc991aa49991799ac7c88/ss_b6b8022472c71204aadbc991aa49991799ac7c88.1920x1080.jpg?t=1774814678","alt":"降妖散记 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Yao-Guai Hunter",
+    "developers": [
+      "MyACG Studio"
+    ],
+    "publishers": [
+      "MyACG Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-17",
+    "tags": [
+      "肉鸽卡组构筑",
+      "卡牌游戏",
+      "高重复可玩性",
+      "类Rogue",
+      "卡牌对战"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "手绘中国民间传说被呈现成妖怪、奇迹与武术交织的动态水墨长卷",
+      "dimension": "画风",
+      "excerpt": "Step into a hand-painted realm inspired by Chinese folklore — a living scroll of monsters, miracles, and martial arts.",
+      "url": "https://store.steampowered.com/app/1915510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四名猎妖人分别围绕噬血诅咒刀、符箓火器、毒虫巫术和风火雷雨龙化构筑",
+      "dimension": "玩法",
+      "excerpt": "Mo San – A warrior from the Yao-Slaying Bureau, carrying a cursed blade thirsts blood. He channels his rage into raw power — but with every cut, the blade hungers more. How long before it devours him whole? Chuan – A Taoist with a bamboo-fire sword and a pouch full of dangerous inventions. He may look frail, but his bullets are blessed with talismanic magic. His homemade weapons \"Bamboo Bombard\" — turn spiritual alchemy into explosive justice. A-Zi – A prodigy witch from the southern Miao tribes, bonded with the poisons of the wild. She commands a legion of venomous insects and conjures ancient hexes passed down through bloodlines. To fight her is to fight the jungle itself. Ao Yu – A young dragon-descendant learning to command the storm. With mastery over wind, fire, thunder, and rain, she dances on the edge of control. But when her human form shatters... the dragon within awakens.",
+      "url": "https://store.steampowered.com/app/1915510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "卡池含400余张手工牌、172种内功和54类灵丹，并配套百余事件敌人与20层难度",
+      "dimension": "玩法",
+      "excerpt": "A Martial Fantasy Roguelike Rooted in Eastern Lore 400+ Handcrafted Cards 172 Inner Skills 54 Mystical Elixirs 100+ Random Events 100+ Unique Enemies 20 Ascending Difficulty Levels",
+      "url": "https://store.steampowered.com/app/1915510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "手绘卡牌画面精致并能吸引玩家进入神秘世界。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The hand-painted visuals are stunning. Each card showcases intricate artwork that draws you into the mystical world.",
+          "url": "https://store.steampowered.com/curator/44992561-Danmaku-Disciples/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "画风和绘画表现获得明确肯定。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "游戏好的是画风不错绘画好看",
+          "url": "https://steamcommunity.com/profiles/76561198143006177/recommended/1915510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "过度借鉴《杀戮尖塔》，导致多角色各玩一局后很快无聊",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "just used Slay too much as an anchor which ended up making it very boring after a single run with all 3 starting characters.",
+          "url": "https://steamcommunity.com/profiles/76561199111825137/recommended/1915510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色卡池塞入过多不协同流派，导致卡池杂乱且难以找到需要的牌。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "不同流派的牌没啥配合，弹药的流派只能玩弹药，弃牌的流派里可以跨流派的用的也就一张过牌。就打起来很不舒服，总觉得卡池太杂了，找不到牌没有那种爽的感觉。",
+          "url": "https://steamcommunity.com/profiles/76561199033312705/recommended/1915510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "洗牌耗费行动力会惩罚小卡组",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "光是洗牌要花一费就已经在惩罚小卡组",
+          "url": "https://steamcommunity.com/profiles/76561198239089256/recommended/1915510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "法力机制迫使玩家认真规划，而不是无脑连续出牌。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Yao-Guai Hunter's \"mana\" mechanic is quite cool, it forces you to think harder each time rather than simply spamming cards.",
+          "url": "https://store.steampowered.com/curator/44992038-General-Gamers-Playground/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "成型后的多种卡组流派能带来很强爽感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "游戏好的是画风不错绘画好看，牌组大成后是真的很爽",
+          "url": "https://steamcommunity.com/profiles/76561198143006177/recommended/1915510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "大卡组玩法也能较稳定通关，难度曲线平滑。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "这个游戏即便是大卡组也能较为稳定通关，难度曲线平滑",
+          "url": "https://steamcommunity.com/profiles/76561199781159229/recommended/1915510/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "中国民间传说灵感为玩法提供了丰富背景氛围",
+      "dimension": "主题",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The art style and inspiration from Chinese folklore provide a rich backdrop for the gameplay.",
+          "url": "https://store.steampowered.com/curator/44992692-Fun-Fan-Fair/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 104302,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 112505,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 13374,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1101821,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 112507,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 127508,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 20.29955591341337,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2072,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 84,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.744055,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "过度借鉴《杀戮尖塔》，导致多角色各玩一局后很快无聊",
+    "角色卡池塞入过多不协同流派，导致卡池杂乱且难以找到需要的牌。",
+    "洗牌耗费行动力会惩罚小卡组"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "降妖散记位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/98e6bb506d94fff04ed1caa059507169d95f3441/ss_98e6bb506d94fff04ed1caa059507169d95f3441.1920x1080.jpg?t=1774814678",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/98e6bb506d94fff04ed1caa059507169d95f3441/ss_98e6bb506d94fff04ed1caa059507169d95f3441.1920x1080.jpg?t=1774814678",
+        "alt": "降妖散记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/c0a28742f74db7a1c2de094954abd803237ce360/ss_c0a28742f74db7a1c2de094954abd803237ce360.1920x1080.jpg?t=1774814678",
+        "alt": "降妖散记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/ca1366491136385dd6669301b4d8b4d670b64879/ss_ca1366491136385dd6669301b4d8b4d670b64879.1920x1080.jpg?t=1774814678",
+        "alt": "降妖散记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/b6b8022472c71204aadbc991aa49991799ac7c88/ss_b6b8022472c71204aadbc991aa49991799ac7c88.1920x1080.jpg?t=1774814678",
+        "alt": "降妖散记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/1a5d282d50b586f031567d05080c9d4a31dde445/ss_1a5d282d50b586f031567d05080c9d4a31dde445.1920x1080.jpg?t=1774814678",
+        "alt": "降妖散记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/b0cfd4aaef3ad4b40edf5c3dceaa5ea95c96665a/ss_b0cfd4aaef3ad4b40edf5c3dceaa5ea95c96665a.1920x1080.jpg?t=1774814678",
+        "alt": "降妖散记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/85db05a269e7dd34698dab2cc036381c504e7a3c/ss_85db05a269e7dd34698dab2cc036381c504e7a3c.1920x1080.jpg?t=1774814678",
+        "alt": "降妖散记 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915510/defe111b6b3633a632782e7bc389ace482b865db/ss_defe111b6b3633a632782e7bc389ace482b865db.1920x1080.jpg?t=1774814678",
+        "alt": "降妖散记 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

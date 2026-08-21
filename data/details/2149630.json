@@ -1,1 +1,316 @@
-{"identity":{"original_title":"1 Trait Escape","developers":["Andrew Katz","Jeremy Collette"],"publishers":["1 Trait Danger","Matador Records"],"release_status":"released","release_date":"2024-12-07","tags":["动作","动作肉鸽","冒险","第三人称","单人游戏"]},"hooks":[{"text":"每次失败都会积累力量，直到最终从火星逃回地球","dimension":"玩法","excerpt":"Grow stronger every time you fail until you are able to escape back to Earth.","url":"https://store.steampowered.com/app/2149630/","label":"证据原文片段"},{"text":"密集PvE敌群与Boss战之间穿插小游戏，持续切换节奏","dimension":"玩法","excerpt":"You can expect many intense PvE battles with feudalistic Martian mobs and bosses with many minigames sprinkled in-between.","url":"https://store.steampowered.com/app/2149630/","label":"证据原文片段"},{"text":"亿万富豪把火星改造成封建王国，主角坠入中世纪伦敦式殖民地","dimension":"题材","excerpt":"This Mars has been terraformed and colonized by a trillionaire antagonist with a vision to restart feudalism on a new planet to be a true king. When Trait and Stoney land they find themselves in what seems to be a medieval version of London.","url":"https://store.steampowered.com/app/2149630/","label":"证据原文片段"}],"opinions":[{"text":"配乐充满高质量曲目。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Soundtrack packed with bangers","url":"https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/","label":"证据原文片段"}]},{"text":"音乐表现极具冲击力。","dimension":"音频","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the music in this game goes hard!","url":"https://steamcommunity.com/profiles/76561199155432367/recommended/2149630/","label":"证据原文片段"}]},{"text":"冲刺机制像半成品，在Boss战外常常弊大于利。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the dash mechanic in the level is weird, it feels sort of half baked and seems to cause more harm than good outside of boss fights","url":"https://steamcommunity.com/profiles/76561198989933435/recommended/2149630/","label":"证据原文片段"}]},{"text":"多数小游戏难度令人感觉无法完成。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"most of the mini-games so far seem unbeatable","url":"https://steamcommunity.com/profiles/76561198989933435/recommended/2149630/","label":"证据原文片段"}]},{"text":"首个30分钟目标过长并加重挫败感","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"30 minutes being the first goal is a lot and is definitely adding to my frustration","url":"https://steamcommunity.com/profiles/76561198989933435/recommended/2149630/","label":"证据原文片段"}]},{"text":"声波攻击相较其他武器过强。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the sound wave attack is a hella overpowered compared to all the other weapons","url":"https://steamcommunity.com/profiles/76561198989933435/recommended/2149630/","label":"证据原文片段"}]},{"text":"Boss战表现出色。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Epic boss battles","url":"https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/","label":"证据原文片段"}]},{"text":"核心肉鸽循环扎实且具有重玩价值。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"Awesome core gameplay loop with roguelite replayability","url":"https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/","label":"证据原文片段"}]},{"text":"Boss战带来极强满足感","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"one of the most satisfying boss fights I’ve ever played","url":"https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/","label":"证据原文片段"}]},{"text":"小游戏、支线和Boss战让内容类型非常丰富。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the mini-games, side quests, and boss fights make this feel like 25 games in one.","url":"https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":2209,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":7626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":337,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":21253,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2480,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2480,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.383778223079872,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":211,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.104265,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["冲刺机制像半成品，在Boss战外常常弊大于利。","多数小游戏难度令人感觉无法完成。","首个30分钟目标过长并加重挫败感","声波攻击相较其他武器过强。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_806cf0070d3024719a930b7a108027f9dbdf033c.1920x1080.jpg?t=1737918506","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_806cf0070d3024719a930b7a108027f9dbdf033c.1920x1080.jpg?t=1737918506","alt":"1 Trait Escape 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_70a8a93974bb6b4b9136247b903704871a042f78.1920x1080.jpg?t=1737918506","alt":"1 Trait Escape 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_658725c7a16bb883f3785ccc121c621821867f1b.1920x1080.jpg?t=1737918506","alt":"1 Trait Escape 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_5f66c15db066acbc34a862c36fc4fe393d22129f.1920x1080.jpg?t=1737918506","alt":"1 Trait Escape 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "1 Trait Escape",
+    "developers": [
+      "Andrew Katz",
+      "Jeremy Collette"
+    ],
+    "publishers": [
+      "1 Trait Danger",
+      "Matador Records"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-07",
+    "tags": [
+      "动作",
+      "动作肉鸽",
+      "冒险",
+      "第三人称",
+      "单人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每次失败都会积累力量，直到最终从火星逃回地球",
+      "dimension": "玩法",
+      "excerpt": "Grow stronger every time you fail until you are able to escape back to Earth.",
+      "url": "https://store.steampowered.com/app/2149630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "密集PvE敌群与Boss战之间穿插小游戏，持续切换节奏",
+      "dimension": "玩法",
+      "excerpt": "You can expect many intense PvE battles with feudalistic Martian mobs and bosses with many minigames sprinkled in-between.",
+      "url": "https://store.steampowered.com/app/2149630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "亿万富豪把火星改造成封建王国，主角坠入中世纪伦敦式殖民地",
+      "dimension": "题材",
+      "excerpt": "This Mars has been terraformed and colonized by a trillionaire antagonist with a vision to restart feudalism on a new planet to be a true king. When Trait and Stoney land they find themselves in what seems to be a medieval version of London.",
+      "url": "https://store.steampowered.com/app/2149630/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "配乐充满高质量曲目。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Soundtrack packed with bangers",
+          "url": "https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "音乐表现极具冲击力。",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the music in this game goes hard!",
+          "url": "https://steamcommunity.com/profiles/76561199155432367/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "冲刺机制像半成品，在Boss战外常常弊大于利。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the dash mechanic in the level is weird, it feels sort of half baked and seems to cause more harm than good outside of boss fights",
+          "url": "https://steamcommunity.com/profiles/76561198989933435/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多数小游戏难度令人感觉无法完成。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "most of the mini-games so far seem unbeatable",
+          "url": "https://steamcommunity.com/profiles/76561198989933435/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "首个30分钟目标过长并加重挫败感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "30 minutes being the first goal is a lot and is definitely adding to my frustration",
+          "url": "https://steamcommunity.com/profiles/76561198989933435/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "声波攻击相较其他武器过强。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the sound wave attack is a hella overpowered compared to all the other weapons",
+          "url": "https://steamcommunity.com/profiles/76561198989933435/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boss战表现出色。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Epic boss battles",
+          "url": "https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心肉鸽循环扎实且具有重玩价值。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Awesome core gameplay loop with roguelite replayability",
+          "url": "https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boss战带来极强满足感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "one of the most satisfying boss fights I’ve ever played",
+          "url": "https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "小游戏、支线和Boss战让内容类型非常丰富。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the mini-games, side quests, and boss fights make this feel like 25 games in one.",
+          "url": "https://steamcommunity.com/profiles/76561198073146527/recommended/2149630/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2392,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 7671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 337,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 23356,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2686,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2686,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.34370732968629,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 178,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 98.104265,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "冲刺机制像半成品，在Boss战外常常弊大于利。",
+    "多数小游戏难度令人感觉无法完成。",
+    "首个30分钟目标过长并加重挫败感",
+    "声波攻击相较其他武器过强。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "1 Trait Escape位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_806cf0070d3024719a930b7a108027f9dbdf033c.1920x1080.jpg?t=1737918506",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_806cf0070d3024719a930b7a108027f9dbdf033c.1920x1080.jpg?t=1737918506",
+        "alt": "1 Trait Escape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_70a8a93974bb6b4b9136247b903704871a042f78.1920x1080.jpg?t=1737918506",
+        "alt": "1 Trait Escape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_658725c7a16bb883f3785ccc121c621821867f1b.1920x1080.jpg?t=1737918506",
+        "alt": "1 Trait Escape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_5f66c15db066acbc34a862c36fc4fe393d22129f.1920x1080.jpg?t=1737918506",
+        "alt": "1 Trait Escape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_6d116d63d509a916652b8aa543e32c88a34bb8b0.1920x1080.jpg?t=1737918506",
+        "alt": "1 Trait Escape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_c08e6c1e6cc9bd7bd61b7d98f57998179e5344dd.1920x1080.jpg?t=1737918506",
+        "alt": "1 Trait Escape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_927b750ee08558b60687f9de2a63f1eb74ee3f8c.1920x1080.jpg?t=1737918506",
+        "alt": "1 Trait Escape 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/ss_d3d45eeb05a4dae0221d3ac7e5083610a955ccbe.1920x1080.jpg?t=1737918506",
+        "alt": "1 Trait Escape 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

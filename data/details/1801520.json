@@ -1,1 +1,166 @@
-{"identity":{"original_title":"Zombieville USA 3D","developers":["Mika Mobile, Inc."],"publishers":["Mika Mobile, Inc."],"release_status":"released","release_date":"2025-03-07","tags":["街机","动作","俯视角射击","射击","动作肉鸽"]},"hooks":[{"text":"39种可解锁武器横跨枪械、链锯、火箭、能量武器、喷火器和武士刀","dimension":"玩法","excerpt":"An arsenal of 39 weapons to unlock, from machine guns and shotguns, to chainsaws, rockets, energy weapons, flamethrowers, and katanas.","url":"https://store.steampowered.com/app/1801520/","label":"证据原文片段"},{"text":"28项可升级特长支持专精近战、爆炸物等不同生存路线","dimension":"玩法","excerpt":"28 unlockable \"perks\" to level up, customizing your playstyle. Specialize in melee weapons, explosives, whatever floats your boat.","url":"https://store.steampowered.com/app/1801520/","label":"证据原文片段"},{"text":"武器会随机生成独特特性，让每轮拾取和火力组合保持不可预测","dimension":"玩法","excerpt":"Randomly generated weapons with unique traits keep every run unpredictable","url":"https://store.steampowered.com/app/1801520/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":87047,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":106758,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6300,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":759889,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":90415,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":90415,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.479856661789051,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2293,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.156059,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"街机、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_f6533e56b00c7692cf057375505640b5b6cf1899.1920x1080.jpg?t=1741373611","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_f6533e56b00c7692cf057375505640b5b6cf1899.1920x1080.jpg?t=1741373611","alt":"Zombieville USA 3D 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_8a55f21ba201f514f7922d8d263ff5846cc543d6.1920x1080.jpg?t=1741373611","alt":"Zombieville USA 3D 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_5712ea1a844f49d18f485c85ffa980f990ad8fd5.1920x1080.jpg?t=1741373611","alt":"Zombieville USA 3D 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_25ff47a9da0f15ca374feb2589bdc5e88e75bd57.1920x1080.jpg?t=1741373611","alt":"Zombieville USA 3D 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Zombieville USA 3D",
+    "developers": [
+      "Mika Mobile, Inc."
+    ],
+    "publishers": [
+      "Mika Mobile, Inc."
+    ],
+    "release_status": "released",
+    "release_date": "2025-03-07",
+    "tags": [
+      "街机",
+      "动作",
+      "俯视角射击",
+      "射击",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "39种可解锁武器横跨枪械、链锯、火箭、能量武器、喷火器和武士刀",
+      "dimension": "玩法",
+      "excerpt": "An arsenal of 39 weapons to unlock, from machine guns and shotguns, to chainsaws, rockets, energy weapons, flamethrowers, and katanas.",
+      "url": "https://store.steampowered.com/app/1801520/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "28项可升级特长支持专精近战、爆炸物等不同生存路线",
+      "dimension": "玩法",
+      "excerpt": "28 unlockable \"perks\" to level up, customizing your playstyle. Specialize in melee weapons, explosives, whatever floats your boat.",
+      "url": "https://store.steampowered.com/app/1801520/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "武器会随机生成独特特性，让每轮拾取和火力组合保持不可预测",
+      "dimension": "玩法",
+      "excerpt": "Randomly generated weapons with unique traits keep every run unpredictable",
+      "url": "https://store.steampowered.com/app/1801520/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 87880,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 106113,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 6297,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 752662,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 91247,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 91247,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.5984908666881275,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2174,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.071895,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Zombieville USA 3D位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_f6533e56b00c7692cf057375505640b5b6cf1899.1920x1080.jpg?t=1741373611",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_f6533e56b00c7692cf057375505640b5b6cf1899.1920x1080.jpg?t=1741373611",
+        "alt": "Zombieville USA 3D 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_8a55f21ba201f514f7922d8d263ff5846cc543d6.1920x1080.jpg?t=1741373611",
+        "alt": "Zombieville USA 3D 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_5712ea1a844f49d18f485c85ffa980f990ad8fd5.1920x1080.jpg?t=1741373611",
+        "alt": "Zombieville USA 3D 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_25ff47a9da0f15ca374feb2589bdc5e88e75bd57.1920x1080.jpg?t=1741373611",
+        "alt": "Zombieville USA 3D 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801520/ss_0000a5ac5d39103d71fe6aa31d301b8ac700b2b2.1920x1080.jpg?t=1741373611",
+        "alt": "Zombieville USA 3D 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

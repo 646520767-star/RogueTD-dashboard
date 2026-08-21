@@ -1,1 +1,172 @@
-{"identity":{"original_title":"INSANIO","developers":["bitru"],"publishers":["bitru"],"release_status":"released","release_date":"2026-07-10","tags":["模拟","自走棋","类Rogue","即时战略","俯视角射击"]},"hooks":[{"text":"自由搭配驾驶员、载具与武器组成空投小队","dimension":"玩法","excerpt":"Prepare your drop squad by swapping weapons, vehicles, and pilots to your liking.","url":"https://store.steampowered.com/app/4177650/","label":"证据原文片段"},{"text":"选定任务与部署区后完全放手观察自动作战","dimension":"玩法","excerpt":"Select a mission and choose your deployment area on the map. From that moment on, it is hands off. You can only watch as your units try to accomplish their task.","url":"https://store.steampowered.com/app/4177650/","label":"证据原文片段"},{"text":"装备可从战场回收，但阵亡驾驶员永久损失","dimension":"玩法","excerpt":"While lost equipment can be retrieved from the battlefield, fallen pilots are lost for good. So take care of them if you want to win.","url":"https://store.steampowered.com/app/4177650/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1054,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":25420,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1088,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":8546,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1088,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1088,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.6193039518689734,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":45,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":64,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":65.217391,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为65.217391%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/4630309fe4d28c9ebab9102212aca275eed96ebe/ss_4630309fe4d28c9ebab9102212aca275eed96ebe.1920x1080.jpg?t=1783701974","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/4630309fe4d28c9ebab9102212aca275eed96ebe/ss_4630309fe4d28c9ebab9102212aca275eed96ebe.1920x1080.jpg?t=1783701974","alt":"INSANIO 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/fb76b95d289cc2f5ece305c4789da0068b50d667/ss_fb76b95d289cc2f5ece305c4789da0068b50d667.1920x1080.jpg?t=1783701974","alt":"INSANIO 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/26c5218a0c199e7bd76cd5ec0771943a99719d38/ss_26c5218a0c199e7bd76cd5ec0771943a99719d38.1920x1080.jpg?t=1783701974","alt":"INSANIO 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/e910ed4e27d1786691dcb176cfd502c896986b20/ss_e910ed4e27d1786691dcb176cfd502c896986b20.1920x1080.jpg?t=1783701974","alt":"INSANIO 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "INSANIO",
+    "developers": [
+      "somebody"
+    ],
+    "publishers": [
+      "somebody"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-10",
+    "tags": [
+      "模拟",
+      "自走棋",
+      "类Rogue",
+      "即时战略",
+      "俯视角射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "自由搭配驾驶员、载具与武器组成空投小队",
+      "dimension": "玩法",
+      "excerpt": "Prepare your drop squad by swapping weapons, vehicles, and pilots to your liking.",
+      "url": "https://store.steampowered.com/app/4177650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "选定任务与部署区后完全放手观察自动作战",
+      "dimension": "玩法",
+      "excerpt": "Select a mission and choose your deployment area on the map. From that moment on, it is hands off. You can only watch as your units try to accomplish their task.",
+      "url": "https://store.steampowered.com/app/4177650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "装备可从战场回收，但阵亡驾驶员永久损失",
+      "dimension": "玩法",
+      "excerpt": "While lost equipment can be retrieved from the battlefield, fallen pilots are lost for good. So take care of them if you want to win.",
+      "url": "https://store.steampowered.com/app/4177650/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1158,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 24292,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1112,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 9549,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1210,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1210,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.7644573573347957,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 46,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 67,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 67.346939,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为65.217391%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "INSANIO位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/4630309fe4d28c9ebab9102212aca275eed96ebe/ss_4630309fe4d28c9ebab9102212aca275eed96ebe.1920x1080.jpg?t=1783701974",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/4630309fe4d28c9ebab9102212aca275eed96ebe/ss_4630309fe4d28c9ebab9102212aca275eed96ebe.1920x1080.jpg?t=1785787327",
+        "alt": "INSANIO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/fb76b95d289cc2f5ece305c4789da0068b50d667/ss_fb76b95d289cc2f5ece305c4789da0068b50d667.1920x1080.jpg?t=1785787327",
+        "alt": "INSANIO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/26c5218a0c199e7bd76cd5ec0771943a99719d38/ss_26c5218a0c199e7bd76cd5ec0771943a99719d38.1920x1080.jpg?t=1785787327",
+        "alt": "INSANIO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/e910ed4e27d1786691dcb176cfd502c896986b20/ss_e910ed4e27d1786691dcb176cfd502c896986b20.1920x1080.jpg?t=1785787327",
+        "alt": "INSANIO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/ca8b0effc795dca2b55582cfbfc520a4246ed9df/ss_ca8b0effc795dca2b55582cfbfc520a4246ed9df.1920x1080.jpg?t=1785787327",
+        "alt": "INSANIO 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177650/b6f6985bbce59c1220423062067b97737986794c/ss_b6f6985bbce59c1220423062067b97737986794c.1920x1080.jpg?t=1785787327",
+        "alt": "INSANIO 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

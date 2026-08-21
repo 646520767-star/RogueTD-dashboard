@@ -1,1 +1,192 @@
-{"identity":{"original_title":"Ufouria: The Saga 2","developers":["SUNSOFT"],"publishers":["SUNSOFT"],"release_status":"released","release_date":"2024-02-28","tags":["动作","单人游戏","复古","类Rogue","动作肉鸽"]},"hooks":[{"text":"毛毡手工场景配合铁珠像素致敬重塑Ufouria","dimension":"画风","excerpt":"Adventure in the lovingly crafted wacky world of Ufouria! Familar characters and stages of the original game are back, transformed from their formal pixel art to charming handmade feltwork. Iron bead artwork also plays homage to the nostalgic pixelated look of the original.","url":"https://store.steampowered.com/app/2685090/","label":"证据原文片段"},{"text":"关卡每次进入随机变化，新伙伴继续解锁隐藏区域","dimension":"玩法","excerpt":"Different courses each time you play!? The various stages from the original game now change randomly every time your enter, making for a fresh new challenge each time! New characters joining your crew let you reach more areas. You might even find areas that weren't in the original game at all...","url":"https://store.steampowered.com/app/2685090/","label":"证据原文片段"},{"text":"用Popoons清除黏附万物的Bumyon污染","dimension":"玩法","excerpt":"Popoons are now a super powerful cleaning agent! A new threat, one that wasn't in the original...the icky Bumyon makes an appearance! The troublesome Bumyon sticks to everything and everyone and is quite the annoyance, but somehow Hebe and crews can counteract them perfectly with their Popoons. Clean up the Bumyons that litter the planet and thwart the Utsujin's evil plans!","url":"https://store.steampowered.com/app/2685090/","label":"证据原文片段"}],"opinions":[{"text":"对新老玩家而言是一次怀旧而愉快的体验","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"A nostalgic joyride for fans old and new!","url":"https://store.steampowered.com/curator/44867796-TheBigBoisNews/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":2267,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":20335,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":802,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":43353,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2566,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2566,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.3388026662861376,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":126,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.269841,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"对新老玩家而言是一次怀旧而愉快的体验","reason":"已有经人工确认且可追溯的正向玩家观点，可进入具体机制或卖点验证。","trigger":"完成机制拆解或轻量原型后，根据移动端操作、节奏与内容成本决定升级或降级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_4bc76503be8810a8de846d806940c2ae17f70ec0.1920x1080.jpg?t=1724906422","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_4bc76503be8810a8de846d806940c2ae17f70ec0.1920x1080.jpg?t=1724906422","alt":"Ufouria: The Saga 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_4c8500890a148ac73c472c4d99eef08e8417fa13.1920x1080.jpg?t=1724906422","alt":"Ufouria: The Saga 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_419ea5813fdfff407b608a43e24247913ed92307.1920x1080.jpg?t=1724906422","alt":"Ufouria: The Saga 2 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_c803c4a7d324066f02693916d1948cba4edc9936.1920x1080.jpg?t=1724906422","alt":"Ufouria: The Saga 2 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Ufouria: The Saga 2",
+    "developers": [
+      "SUNSOFT"
+    ],
+    "publishers": [
+      "SUNSOFT"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-28",
+    "tags": [
+      "动作",
+      "单人游戏",
+      "复古",
+      "类Rogue",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "毛毡手工场景配合铁珠像素致敬重塑Ufouria",
+      "dimension": "画风",
+      "excerpt": "Adventure in the lovingly crafted wacky world of Ufouria! Familar characters and stages of the original game are back, transformed from their formal pixel art to charming handmade feltwork. Iron bead artwork also plays homage to the nostalgic pixelated look of the original.",
+      "url": "https://store.steampowered.com/app/2685090/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "关卡每次进入随机变化，新伙伴继续解锁隐藏区域",
+      "dimension": "玩法",
+      "excerpt": "Different courses each time you play!? The various stages from the original game now change randomly every time your enter, making for a fresh new challenge each time! New characters joining your crew let you reach more areas. You might even find areas that weren't in the original game at all...",
+      "url": "https://store.steampowered.com/app/2685090/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用Popoons清除黏附万物的Bumyon污染",
+      "dimension": "玩法",
+      "excerpt": "Popoons are now a super powerful cleaning agent! A new threat, one that wasn't in the original...the icky Bumyon makes an appearance! The troublesome Bumyon sticks to everything and everyone and is quite the annoyance, but somehow Hebe and crews can counteract them perfectly with their Popoons. Clean up the Bumyons that litter the planet and thwart the Utsujin's evil plans!",
+      "url": "https://store.steampowered.com/app/2685090/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "对新老玩家而言是一次怀旧而愉快的体验",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "A nostalgic joyride for fans old and new!",
+          "url": "https://store.steampowered.com/curator/44867796-TheBigBoisNews/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2998,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 20456,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 810,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 50593,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3391,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3391,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.313784114493314,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 106,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.338583,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Ufouria: The Saga 2位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_4bc76503be8810a8de846d806940c2ae17f70ec0.1920x1080.jpg?t=1724906422",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_4bc76503be8810a8de846d806940c2ae17f70ec0.1920x1080.jpg?t=1724906422",
+        "alt": "Ufouria: The Saga 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_4c8500890a148ac73c472c4d99eef08e8417fa13.1920x1080.jpg?t=1724906422",
+        "alt": "Ufouria: The Saga 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_419ea5813fdfff407b608a43e24247913ed92307.1920x1080.jpg?t=1724906422",
+        "alt": "Ufouria: The Saga 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_c803c4a7d324066f02693916d1948cba4edc9936.1920x1080.jpg?t=1724906422",
+        "alt": "Ufouria: The Saga 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_4b5a9cf682cc2f8bb2f870ac0aa1c80a1717cecd.1920x1080.jpg?t=1724906422",
+        "alt": "Ufouria: The Saga 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_79b517eec12b36da0565dbab53c962db6f451b1e.1920x1080.jpg?t=1724906422",
+        "alt": "Ufouria: The Saga 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_769518a3a835df63a3b19d2a73498a71f5803b19.1920x1080.jpg?t=1724906422",
+        "alt": "Ufouria: The Saga 2 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685090/ss_30ac36887976c3de3c494818e4d138088deccc3e.1920x1080.jpg?t=1724906422",
+        "alt": "Ufouria: The Saga 2 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

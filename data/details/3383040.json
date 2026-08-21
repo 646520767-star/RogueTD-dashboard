@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Beatdown City Survivors","developers":["NuChallenger"],"publishers":["NuChallenger"],"release_status":"released","release_date":"2026-06-10","tags":["动作肉鸽","弹幕射击","轻度Rogue","沙盒","二维画面"]},"hooks":[{"text":"点燃煤气、电击水洼、引爆汽车，把整座城市变成连锁武器","dimension":"玩法","excerpt":"The city is a nightmarish playground of interactive elements, including gas to ignite, puddles to electrify, and cars to blow up.","url":"https://store.steampowered.com/app/3383040/","label":"证据原文片段"},{"text":"把管子、鸽子和靴子拼成更大更强也更荒诞的武器","dimension":"玩法","excerpt":"Find dozens of weapons, including pipes, pigeons, boots, and combine them to make bigger, better and funnier weapons!","url":"https://store.steampowered.com/app/3383040/","label":"证据原文片段"},{"text":"招募武术家、名媛、猫与柴犬，每位幸存者都有专属招式","dimension":"玩法","excerpt":"Build your army with an eclectic group of fighters who all have their own attacks and specials. They include include martial arts masters, shouting socialites, cats, and even a high top wearing Shiba Inu.","url":"https://store.steampowered.com/app/3383040/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1086,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":8897,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":433,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7948,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1086,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1086,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.3071683472486715,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":66,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.529412,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/b4b40187b8ca980bf8f45d7795adc3364e2b66d4/ss_b4b40187b8ca980bf8f45d7795adc3364e2b66d4.1920x1080.jpg?t=1783441713","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/b4b40187b8ca980bf8f45d7795adc3364e2b66d4/ss_b4b40187b8ca980bf8f45d7795adc3364e2b66d4.1920x1080.jpg?t=1783441713","alt":"Beatdown City Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/dfdf5151f26290dbd90ed1bec8c1587cd5e20328/ss_dfdf5151f26290dbd90ed1bec8c1587cd5e20328.1920x1080.jpg?t=1783441713","alt":"Beatdown City Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/836e0744a121bf32a2926c8800d09249415168a3/ss_836e0744a121bf32a2926c8800d09249415168a3.1920x1080.jpg?t=1783441713","alt":"Beatdown City Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/55666d8bceb55ac2c423281317df3b10caa062c3/ss_55666d8bceb55ac2c423281317df3b10caa062c3.1920x1080.jpg?t=1783441713","alt":"Beatdown City Survivors 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Beatdown City Survivors",
+    "developers": [
+      "NuChallenger"
+    ],
+    "publishers": [
+      "NuChallenger"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-10",
+    "tags": [
+      "动作肉鸽",
+      "弹幕射击",
+      "轻度Rogue",
+      "沙盒",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "点燃煤气、电击水洼、引爆汽车，把整座城市变成连锁武器",
+      "dimension": "玩法",
+      "excerpt": "The city is a nightmarish playground of interactive elements, including gas to ignite, puddles to electrify, and cars to blow up.",
+      "url": "https://store.steampowered.com/app/3383040/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把管子、鸽子和靴子拼成更大更强也更荒诞的武器",
+      "dimension": "玩法",
+      "excerpt": "Find dozens of weapons, including pipes, pigeons, boots, and combine them to make bigger, better and funnier weapons!",
+      "url": "https://store.steampowered.com/app/3383040/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "招募武术家、名媛、猫与柴犬，每位幸存者都有专属招式",
+      "dimension": "玩法",
+      "excerpt": "Build your army with an eclectic group of fighters who all have their own attacks and specials. They include include martial arts masters, shouting socialites, cats, and even a high top wearing Shiba Inu.",
+      "url": "https://store.steampowered.com/app/3383040/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1359,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 447,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 10476,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1359,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1359,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.932069678297507,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 76,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 99,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 98.684211,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Beatdown City Survivors位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/b4b40187b8ca980bf8f45d7795adc3364e2b66d4/ss_b4b40187b8ca980bf8f45d7795adc3364e2b66d4.1920x1080.jpg?t=1783441713",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/b4b40187b8ca980bf8f45d7795adc3364e2b66d4/ss_b4b40187b8ca980bf8f45d7795adc3364e2b66d4.1920x1080.jpg?t=1783441713",
+        "alt": "Beatdown City Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/dfdf5151f26290dbd90ed1bec8c1587cd5e20328/ss_dfdf5151f26290dbd90ed1bec8c1587cd5e20328.1920x1080.jpg?t=1783441713",
+        "alt": "Beatdown City Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/836e0744a121bf32a2926c8800d09249415168a3/ss_836e0744a121bf32a2926c8800d09249415168a3.1920x1080.jpg?t=1783441713",
+        "alt": "Beatdown City Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/55666d8bceb55ac2c423281317df3b10caa062c3/ss_55666d8bceb55ac2c423281317df3b10caa062c3.1920x1080.jpg?t=1783441713",
+        "alt": "Beatdown City Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/3890be0d56c1d2249d8de7728fdf21e4bfb3b82c/ss_3890be0d56c1d2249d8de7728fdf21e4bfb3b82c.1920x1080.jpg?t=1783441713",
+        "alt": "Beatdown City Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/f3fa6e2eca81dc9c1f5de0fdf99f3d924ec52687/ss_f3fa6e2eca81dc9c1f5de0fdf99f3d924ec52687.1920x1080.jpg?t=1783441713",
+        "alt": "Beatdown City Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/ss_4754b4cc460cad5fd2f46e36140098062a20df9c.1920x1080.jpg?t=1783441713",
+        "alt": "Beatdown City Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383040/7456d7b22b824d7861df415e112ded9eb12cb866/ss_7456d7b22b824d7861df415e112ded9eb12cb866.1920x1080.jpg?t=1783441713",
+        "alt": "Beatdown City Survivors 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

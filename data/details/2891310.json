@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Genome Guardian","developers":["Alpherior"],"publishers":["Alpherior"],"release_status":"released","release_date":"2024-05-07","tags":["动作肉鸽","射击","轻度Rogue","类Rogue","俯视角射击"]},"hooks":[{"text":"将四种DNA核苷酸按射速、精准、散射和爆炸属性配对，合成混合生物武器","dimension":"玩法","excerpt":"Pair DNA nucleotides Adenine (rapidfire), Cytosine (precision), Guanine (spread), Thymine (explosive) to discover wild hybrid bioweapons!","url":"https://store.steampowered.com/app/2891310/","label":"证据原文片段"},{"text":"四十九座炮塔、九十六项特长与七十五种模组组成可改写弹道的庞大构筑池","dimension":"玩法","excerpt":"49 Turrets with unique strengths and functions 96 Perks to mix and match that drastically change how you play 75 Weapon & Turret Mods that can turn shots into sticky laser mines or bouncing fireballs","url":"https://store.steampowered.com/app/2891310/","label":"证据原文片段"},{"text":"永久研究升级贯穿六种模式，每种模式再以多层深度扩展微生物挑战","dimension":"玩法","excerpt":"Research permanent upgrades to survive a variety of microbes across 6 game modes, each with multiple \"depths\".","url":"https://store.steampowered.com/app/2891310/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":41828,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":30503,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1722,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":299960,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":44796,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":44796,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.19627195781463,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":782,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.815857,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_388c38bf7ebe03365ac38dbbdf1346e92d10184e.1920x1080.jpg?t=1772118894","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_388c38bf7ebe03365ac38dbbdf1346e92d10184e.1920x1080.jpg?t=1772118894","alt":"Genome Guardian 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_a1f83cd08c24d2dec33cff2dfc094e210004abb0.1920x1080.jpg?t=1772118894","alt":"Genome Guardian 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_090798434e6e936cc5665645b64bb9441320968c.1920x1080.jpg?t=1772118894","alt":"Genome Guardian 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_9902baee863c85bb9ecebc458636592cc41e6fd3.1920x1080.jpg?t=1772118894","alt":"Genome Guardian 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Genome Guardian",
+    "developers": [
+      "Alpherior"
+    ],
+    "publishers": [
+      "Alpherior"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-07",
+    "tags": [
+      "动作肉鸽",
+      "射击",
+      "轻度Rogue",
+      "类Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "将四种DNA核苷酸按射速、精准、散射和爆炸属性配对，合成混合生物武器",
+      "dimension": "玩法",
+      "excerpt": "Pair DNA nucleotides Adenine (rapidfire), Cytosine (precision), Guanine (spread), Thymine (explosive) to discover wild hybrid bioweapons!",
+      "url": "https://store.steampowered.com/app/2891310/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四十九座炮塔、九十六项特长与七十五种模组组成可改写弹道的庞大构筑池",
+      "dimension": "玩法",
+      "excerpt": "49 Turrets with unique strengths and functions 96 Perks to mix and match that drastically change how you play 75 Weapon & Turret Mods that can turn shots into sticky laser mines or bouncing fireballs",
+      "url": "https://store.steampowered.com/app/2891310/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "永久研究升级贯穿六种模式，每种模式再以多层深度扩展微生物挑战",
+      "dimension": "玩法",
+      "excerpt": "Research permanent upgrades to survive a variety of microbes across 6 game modes, each with multiple \"depths\".",
+      "url": "https://store.steampowered.com/app/2891310/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 44773,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 30684,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1724,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 323445,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 47949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 47949,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.258885922771718,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 708,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.815857,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Genome Guardian位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_388c38bf7ebe03365ac38dbbdf1346e92d10184e.1920x1080.jpg?t=1772118894",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_388c38bf7ebe03365ac38dbbdf1346e92d10184e.1920x1080.jpg?t=1785951338",
+        "alt": "Genome Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_a1f83cd08c24d2dec33cff2dfc094e210004abb0.1920x1080.jpg?t=1785951338",
+        "alt": "Genome Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_090798434e6e936cc5665645b64bb9441320968c.1920x1080.jpg?t=1785951338",
+        "alt": "Genome Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_9902baee863c85bb9ecebc458636592cc41e6fd3.1920x1080.jpg?t=1785951338",
+        "alt": "Genome Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_1ecf56802abf0f09d09b1adbe681e65225915712.1920x1080.jpg?t=1785951338",
+        "alt": "Genome Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_37ed635192c7fc2f1e505aee942ef22d4d319d4e.1920x1080.jpg?t=1785951338",
+        "alt": "Genome Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_658e3197233e9675709b560dbe3641b6be490b84.1920x1080.jpg?t=1785951338",
+        "alt": "Genome Guardian 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891310/ss_2d256339bfd4bc00604a65efeb1c35a6f4f97abd.1920x1080.jpg?t=1785951338",
+        "alt": "Genome Guardian 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

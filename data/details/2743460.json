@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Granvir","developers":["Airborne Games"],"publishers":["GIGATANK 3000"],"release_status":"released","release_date":"2025-09-23","tags":["在线合作","单人游戏","多人游戏","第三人称","机器人"]},"hooks":[{"text":"战场捡来的躯干、腿、臂架和模块可随时重装机甲","dimension":"玩法","excerpt":"Between battles, players can swap out parts for upgrades found on the battlefield and manage their campaign by taking on loans to afford ammunition, aiding the locals for support in battle and more. Equip devastating melee weapons such as swords, rocket spears and pile bunkers. Wield powerful long range guns like cannons, machine guns, flamethrowers and rocket pods. Mix and match armaments to suit your play style. Mix torsos, legs, armatures and special modules to customize your Granvir.","url":"https://store.steampowered.com/app/2743460/","label":"证据原文片段"},{"text":"弹药不够就借贷，还能帮助当地人换取战场支援","dimension":"玩法","excerpt":"Players battle through a route of their choice reaching extraction and completing side objectives at the cost of valuable resources. Between battles, players can swap out parts for upgrades found on the battlefield and manage their campaign by taking on loans to afford ammunition, aiding the locals for support in battle and more.","url":"https://store.steampowered.com/app/2743460/","label":"证据原文片段"},{"text":"最多10台Granvir联机，并在休息区共享零件与资源","dimension":"玩法","excerpt":"Complete any campaign in single-player or multiplayer co-op with up to 10 Granvir pilots at a time. Share parts and resources utilizing the squad depot in rest areas as you plan your next moves.","url":"https://store.steampowered.com/app/2743460/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":53914,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":111844,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7929,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":691083,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":57583,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":57583,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.280529668721473,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":813,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.30967,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"在线合作、单人游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/418634c1bf5d3244465ce5d4459d5d546892f7ba/ss_418634c1bf5d3244465ce5d4459d5d546892f7ba.1920x1080.jpg?t=1779517164","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/418634c1bf5d3244465ce5d4459d5d546892f7ba/ss_418634c1bf5d3244465ce5d4459d5d546892f7ba.1920x1080.jpg?t=1779517164","alt":"Granvir 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/67b40ed7ff5e56d60faa53090ca57a88d40eb233/ss_67b40ed7ff5e56d60faa53090ca57a88d40eb233.1920x1080.jpg?t=1779517164","alt":"Granvir 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/a779a8a5984840b1f86f61d797dc0c5494993889/ss_a779a8a5984840b1f86f61d797dc0c5494993889.1920x1080.jpg?t=1779517164","alt":"Granvir 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/9953cb0677c08beb229db2babd6bfc8b16c9a099/ss_9953cb0677c08beb229db2babd6bfc8b16c9a099.1920x1080.jpg?t=1779517164","alt":"Granvir 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Granvir",
+    "developers": [
+      "Airborne Games"
+    ],
+    "publishers": [
+      "GIGATANK 3000"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-23",
+    "tags": [
+      "动作肉鸽",
+      "在线合作",
+      "单人游戏",
+      "多人游戏",
+      "第三人称"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "战场捡来的躯干、腿、臂架和模块可随时重装机甲",
+      "dimension": "玩法",
+      "excerpt": "Between battles, players can swap out parts for upgrades found on the battlefield and manage their campaign by taking on loans to afford ammunition, aiding the locals for support in battle and more. Equip devastating melee weapons such as swords, rocket spears and pile bunkers. Wield powerful long range guns like cannons, machine guns, flamethrowers and rocket pods. Mix and match armaments to suit your play style. Mix torsos, legs, armatures and special modules to customize your Granvir.",
+      "url": "https://store.steampowered.com/app/2743460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "弹药不够就借贷，还能帮助当地人换取战场支援",
+      "dimension": "玩法",
+      "excerpt": "Players battle through a route of their choice reaching extraction and completing side objectives at the cost of valuable resources. Between battles, players can swap out parts for upgrades found on the battlefield and manage their campaign by taking on loans to afford ammunition, aiding the locals for support in battle and more.",
+      "url": "https://store.steampowered.com/app/2743460/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "最多10台Granvir联机，并在休息区共享零件与资源",
+      "dimension": "玩法",
+      "excerpt": "Complete any campaign in single-player or multiplayer co-op with up to 10 Granvir pilots at a time. Share parts and resources utilizing the squad depot in rest areas as you plan your next moves.",
+      "url": "https://store.steampowered.com/app/2743460/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 57201,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 117621,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8057,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 733117,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 61281,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 61281,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.458541394711617,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 780,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.309386,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Granvir位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/418634c1bf5d3244465ce5d4459d5d546892f7ba/ss_418634c1bf5d3244465ce5d4459d5d546892f7ba.1920x1080.jpg?t=1779517164",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/418634c1bf5d3244465ce5d4459d5d546892f7ba/ss_418634c1bf5d3244465ce5d4459d5d546892f7ba.1920x1080.jpg?t=1779517164",
+        "alt": "Granvir 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/67b40ed7ff5e56d60faa53090ca57a88d40eb233/ss_67b40ed7ff5e56d60faa53090ca57a88d40eb233.1920x1080.jpg?t=1779517164",
+        "alt": "Granvir 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/a779a8a5984840b1f86f61d797dc0c5494993889/ss_a779a8a5984840b1f86f61d797dc0c5494993889.1920x1080.jpg?t=1779517164",
+        "alt": "Granvir 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/9953cb0677c08beb229db2babd6bfc8b16c9a099/ss_9953cb0677c08beb229db2babd6bfc8b16c9a099.1920x1080.jpg?t=1779517164",
+        "alt": "Granvir 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/fc2f6ec4cb3a68e4c20a33b32676d27845b68fdd/ss_fc2f6ec4cb3a68e4c20a33b32676d27845b68fdd.1920x1080.jpg?t=1779517164",
+        "alt": "Granvir 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/6df9e1dbd8c8c6674fe352746533c76208b8784b/ss_6df9e1dbd8c8c6674fe352746533c76208b8784b.1920x1080.jpg?t=1779517164",
+        "alt": "Granvir 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743460/0d5bbe69ad1f6ff3988a8ff64739fcbcdf7646ba/ss_0d5bbe69ad1f6ff3988a8ff64739fcbcdf7646ba.1920x1080.jpg?t=1779517164",
+        "alt": "Granvir 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

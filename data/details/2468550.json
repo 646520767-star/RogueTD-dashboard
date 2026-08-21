@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Vivid World","developers":["Asobism.Co.,Ltd"],"publishers":["Asobism.Co.,Ltd"],"release_status":"released","release_date":"2025-11-04","tags":["肉鸽卡组构筑","自走棋","类Rogue","轻度Rogue","策略"]},"hooks":[{"text":"合并同类宝石角色放大增益并为每人配置Orb","dimension":"玩法","excerpt":"More in-depth party building than before! Do you know the proverb: \"Three heads are better than one\"? Gather several of the same jewels, enhance them, and see your buffs and synergy explode with power! And now, introducing \"Orbs.\" You can equip Orbs to each character in your party, which means your ability to create and change your party has now expanded infinitely!","url":"https://store.steampowered.com/app/2468550/","label":"证据原文片段"},{"text":"自动战斗中实时组合或单独释放Gems支援队伍","dimension":"玩法","excerpt":"Strategic battles. In this game, the battles advance automatically while the player utilizes \"Gems\" to support their party during battle phases. With our new and improved battle system, the player can combine several Gems together or unleash the power of individual Gems!","url":"https://store.steampowered.com/app/2468550/","label":"证据原文片段"},{"text":"买卖宝石角色与同类合并形成贪心资源抉择","dimension":"玩法","excerpt":"Resource management that will test your thinking. The characters who battle for you are, after all, only jewels. That means you can \"buy and sell\" them. You can buy different types of Jewels or strengthen a single Jewel by merging several of the same Jewel with it. The choice is yours. Feel free to play around with your resources however you see fit. But be careful. If you're too greedy, you might find yourself being sucked into a dungeon here in the Underworld that you can't get out of.","url":"https://store.steampowered.com/app/2468550/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":24701,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":81341,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":3796,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":408502,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":25517,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":25517,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.43702490562496,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":591,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.001692,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、自走棋","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_6b49f4e46be9eed63ebf271afa82981cbc5a3886.1920x1080.jpg?t=1773796776","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_6b49f4e46be9eed63ebf271afa82981cbc5a3886.1920x1080.jpg?t=1773796776","alt":"灵动世界 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_2adf85f0aca5b8f5ca5cfe363a188f87a066deaf.1920x1080.jpg?t=1773796776","alt":"灵动世界 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_75cc5022acf266f0169356cf81bd9839dccb9f27.1920x1080.jpg?t=1773796776","alt":"灵动世界 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_97bf4a9444726a14653c9fa28f12ee9d6c826d82.1920x1080.jpg?t=1773796776","alt":"灵动世界 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Vivid World",
+    "developers": [
+      "Asobism.Co.,Ltd"
+    ],
+    "publishers": [
+      "Asobism.Co.,Ltd"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-04",
+    "tags": [
+      "肉鸽卡组构筑",
+      "自走棋",
+      "轻度Rogue",
+      "类Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "合并同类宝石角色放大增益并为每人配置Orb",
+      "dimension": "玩法",
+      "excerpt": "More in-depth party building than before! Do you know the proverb: \"Three heads are better than one\"? Gather several of the same jewels, enhance them, and see your buffs and synergy explode with power! And now, introducing \"Orbs.\" You can equip Orbs to each character in your party, which means your ability to create and change your party has now expanded infinitely!",
+      "url": "https://store.steampowered.com/app/2468550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "自动战斗中实时组合或单独释放Gems支援队伍",
+      "dimension": "玩法",
+      "excerpt": "Strategic battles. In this game, the battles advance automatically while the player utilizes \"Gems\" to support their party during battle phases. With our new and improved battle system, the player can combine several Gems together or unleash the power of individual Gems!",
+      "url": "https://store.steampowered.com/app/2468550/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "买卖宝石角色与同类合并形成贪心资源抉择",
+      "dimension": "玩法",
+      "excerpt": "Resource management that will test your thinking. The characters who battle for you are, after all, only jewels. That means you can \"buy and sell\" them. You can buy different types of Jewels or strengthen a single Jewel by merging several of the same Jewel with it. The choice is yours. Feel free to play around with your resources however you see fit. But be careful. If you're too greedy, you might find yourself being sucked into a dungeon here in the Underworld that you can't get out of.",
+      "url": "https://store.steampowered.com/app/2468550/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 25677,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 80544,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 3801,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 424583,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 26521,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 26521,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.994485841084312,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 567,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.888889,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "灵动世界位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_6b49f4e46be9eed63ebf271afa82981cbc5a3886.1920x1080.jpg?t=1773796776",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_6b49f4e46be9eed63ebf271afa82981cbc5a3886.1920x1080.jpg?t=1773796776",
+        "alt": "灵动世界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_2adf85f0aca5b8f5ca5cfe363a188f87a066deaf.1920x1080.jpg?t=1773796776",
+        "alt": "灵动世界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_75cc5022acf266f0169356cf81bd9839dccb9f27.1920x1080.jpg?t=1773796776",
+        "alt": "灵动世界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_97bf4a9444726a14653c9fa28f12ee9d6c826d82.1920x1080.jpg?t=1773796776",
+        "alt": "灵动世界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_8e04bef85d23939af98c7e5a3b94b27573c48f69.1920x1080.jpg?t=1773796776",
+        "alt": "灵动世界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_e7eed5553980c4cc28389239c2a657f705ca56f6.1920x1080.jpg?t=1773796776",
+        "alt": "灵动世界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_0f09f61f4b8a2711bdd8825194dc896000529e9a.1920x1080.jpg?t=1773796776",
+        "alt": "灵动世界 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2468550/ss_b917b5ac4dbf6a685a818a57092c8000fc93e6ac.1920x1080.jpg?t=1773796776",
+        "alt": "灵动世界 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

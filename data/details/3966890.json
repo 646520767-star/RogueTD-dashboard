@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Dawncaster | The RPG Cardventure","developers":["Wanderlost Interactive"],"publishers":["Wanderlost Interactive"],"release_status":"released","release_date":"2026-02-06","tags":["策略","角色扮演","独立游戏","卡组构筑","卡牌游戏"]},"hooks":[{"text":"角色升级时选择天赋，可把单一方向堆到极致，也能分散投资应对多种威胁。","dimension":"玩法","excerpt":"Create your character, then level up and choose the talents that define your approach. Specialize in one area to overwhelm enemies with focused power, or diversify your strategy to withstand any threat - the choice is yours, for better or worse…","url":"https://store.steampowered.com/app/3966890/","label":"证据原文片段"},{"text":"冒险途中可添加、改写、复制、升级或删除卡牌，让牌组随遭遇持续重塑。","dimension":"玩法","excerpt":"Add, alter, copy, upgrade or remove cards as you progress and try to go toe-to-toe with the perils of Aethos.","url":"https://store.steampowered.com/app/3966890/","label":"证据原文片段"},{"text":"除主线外还有Sunforge快速Boss轮抽模式、每周积分挑战与高难度炼狱入侵。","dimension":"玩法","excerpt":"Play Dawncaster in the alternative fastphased Bossrun draft mode called the Sunforge, discover hidden bosses, play weekly challenges to compete against the very best players for points or enable the Infernal Invasions for an even more challenging experience!","url":"https://store.steampowered.com/app/3966890/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":9572,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":22878,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2701,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":158621,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":10014,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":10014,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":29.53343369492887,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":270,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.180812,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、角色扮演","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/78630c25c02d380b9ff786bb63ea88e15fff399f/ss_78630c25c02d380b9ff786bb63ea88e15fff399f.1920x1080.jpg?t=1779800045","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/78630c25c02d380b9ff786bb63ea88e15fff399f/ss_78630c25c02d380b9ff786bb63ea88e15fff399f.1920x1080.jpg?t=1779800045","alt":"Dawncaster | The RPG Cardventure 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/4494b416d0b2a7a11c06e6249cac19fd07f44cf0/ss_4494b416d0b2a7a11c06e6249cac19fd07f44cf0.1920x1080.jpg?t=1779800045","alt":"Dawncaster | The RPG Cardventure 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/21db16c62729169dcaf67b67983a1eb4a2ab2020/ss_21db16c62729169dcaf67b67983a1eb4a2ab2020.1920x1080.jpg?t=1779800045","alt":"Dawncaster | The RPG Cardventure 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/b5e4fea11e6ee33e461e62d0bed35ff812edd0d2/ss_b5e4fea11e6ee33e461e62d0bed35ff812edd0d2.1920x1080.jpg?t=1779800045","alt":"Dawncaster | The RPG Cardventure 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dawncaster | The RPG Cardventure",
+    "developers": [
+      "Wanderlost Interactive"
+    ],
+    "publishers": [
+      "Wanderlost Interactive"
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-06",
+    "tags": [
+      "策略",
+      "角色扮演",
+      "独立游戏",
+      "卡组构筑",
+      "卡牌游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "角色升级时选择天赋，可把单一方向堆到极致，也能分散投资应对多种威胁。",
+      "dimension": "玩法",
+      "excerpt": "Create your character, then level up and choose the talents that define your approach. Specialize in one area to overwhelm enemies with focused power, or diversify your strategy to withstand any threat - the choice is yours, for better or worse…",
+      "url": "https://store.steampowered.com/app/3966890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "冒险途中可添加、改写、复制、升级或删除卡牌，让牌组随遭遇持续重塑。",
+      "dimension": "玩法",
+      "excerpt": "Add, alter, copy, upgrade or remove cards as you progress and try to go toe-to-toe with the perils of Aethos.",
+      "url": "https://store.steampowered.com/app/3966890/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "除主线外还有Sunforge快速Boss轮抽模式、每周积分挑战与高难度炼狱入侵。",
+      "dimension": "玩法",
+      "excerpt": "Play Dawncaster in the alternative fastphased Bossrun draft mode called the Sunforge, discover hidden bosses, play weekly challenges to compete against the very best players for points or enable the Infernal Invasions for an even more challenging experience!",
+      "url": "https://store.steampowered.com/app/3966890/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 10232,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 23013,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2726,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 168494,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10660,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10660,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 31.68931824656691,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 263,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.078853,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Dawncaster | The RPG Cardventure位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/78630c25c02d380b9ff786bb63ea88e15fff399f/ss_78630c25c02d380b9ff786bb63ea88e15fff399f.1920x1080.jpg?t=1779800045",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/78630c25c02d380b9ff786bb63ea88e15fff399f/ss_78630c25c02d380b9ff786bb63ea88e15fff399f.1920x1080.jpg?t=1785416165",
+        "alt": "Dawncaster | The RPG Cardventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/4494b416d0b2a7a11c06e6249cac19fd07f44cf0/ss_4494b416d0b2a7a11c06e6249cac19fd07f44cf0.1920x1080.jpg?t=1785416165",
+        "alt": "Dawncaster | The RPG Cardventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/21db16c62729169dcaf67b67983a1eb4a2ab2020/ss_21db16c62729169dcaf67b67983a1eb4a2ab2020.1920x1080.jpg?t=1785416165",
+        "alt": "Dawncaster | The RPG Cardventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/b5e4fea11e6ee33e461e62d0bed35ff812edd0d2/ss_b5e4fea11e6ee33e461e62d0bed35ff812edd0d2.1920x1080.jpg?t=1785416165",
+        "alt": "Dawncaster | The RPG Cardventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/06dff0e02eea1d7926281911a556cbf5e9654bac/ss_06dff0e02eea1d7926281911a556cbf5e9654bac.1920x1080.jpg?t=1785416165",
+        "alt": "Dawncaster | The RPG Cardventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/4809ac2e65219d577ace308bf26b428951dddd8a/ss_4809ac2e65219d577ace308bf26b428951dddd8a.1920x1080.jpg?t=1785416165",
+        "alt": "Dawncaster | The RPG Cardventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/eda12b0bec4dfcbf3b00efcf9534541faac8d8af/ss_eda12b0bec4dfcbf3b00efcf9534541faac8d8af.1920x1080.jpg?t=1785416165",
+        "alt": "Dawncaster | The RPG Cardventure 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966890/57615ab46454ecaff29090805545e5b4ecc0c042/ss_57615ab46454ecaff29090805545e5b4ecc0c042.1920x1080.jpg?t=1785416165",
+        "alt": "Dawncaster | The RPG Cardventure 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

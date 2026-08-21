@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Rogue Hex","developers":["Topstitch Games"],"publishers":["Topstitch Games"],"release_status":"released","release_date":"2025-08-09","tags":["肉鸽卡组构筑","策略","类Rogue","卡组构筑","回合制策略"]},"hooks":[{"text":"混合200种以上足以改变规则的科技，把4X文明路线做成高密度组合实验。","dimension":"玩法","excerpt":"Mix over 200 game-changing technologies.","url":"https://store.steampowered.com/app/2275940/","label":"证据原文片段"},{"text":"以卡牌选秀组出本轮战略牌组，让文明发展从抽取与取舍开始。","dimension":"玩法","excerpt":"Draft your perfect deck of cards to craft a unique strategy.","url":"https://store.steampowered.com/app/2275940/","label":"证据原文片段"},{"text":"把石器时代帝国一路推进到技术奇点，让单局文明跨度覆盖完整历史跃迁。","dimension":"题材","excerpt":"Build an enduring empire, from the stone age to the singularity.","url":"https://store.steampowered.com/app/2275940/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":5877,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":27961,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2514,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":78852,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":6176,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":6176,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":31.567415149862367,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":274,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.226277,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"肉鸽卡组构筑、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/ff5183f0beb51639d5f8b8930e83180e498823c3/ss_ff5183f0beb51639d5f8b8930e83180e498823c3.1920x1080.jpg?t=1769194358","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/ff5183f0beb51639d5f8b8930e83180e498823c3/ss_ff5183f0beb51639d5f8b8930e83180e498823c3.1920x1080.jpg?t=1769194358","alt":"Rogue Hex 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/64d3aae8da1da0804d7a96f7f5336d141818da2f/ss_64d3aae8da1da0804d7a96f7f5336d141818da2f.1920x1080.jpg?t=1769194358","alt":"Rogue Hex 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/925f4fd12118832fd98ebcf88aed025cfa3f107f/ss_925f4fd12118832fd98ebcf88aed025cfa3f107f.1920x1080.jpg?t=1769194358","alt":"Rogue Hex 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/aabb625296170d31f6b4338db8d43868c90fd4f4/ss_aabb625296170d31f6b4338db8d43868c90fd4f4.1920x1080.jpg?t=1769194358","alt":"Rogue Hex 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Rogue Hex",
+    "developers": [
+      "Topstitch Games"
+    ],
+    "publishers": [
+      "Topstitch Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-08-09",
+    "tags": [
+      "即时战略",
+      "肉鸽卡组构筑",
+      "策略",
+      "类Rogue",
+      "回合制策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "混合200种以上足以改变规则的科技，把4X文明路线做成高密度组合实验。",
+      "dimension": "玩法",
+      "excerpt": "Mix over 200 game-changing technologies.",
+      "url": "https://store.steampowered.com/app/2275940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "以卡牌选秀组出本轮战略牌组，让文明发展从抽取与取舍开始。",
+      "dimension": "玩法",
+      "excerpt": "Draft your perfect deck of cards to craft a unique strategy.",
+      "url": "https://store.steampowered.com/app/2275940/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把石器时代帝国一路推进到技术奇点，让单局文明跨度覆盖完整历史跃迁。",
+      "dimension": "题材",
+      "excerpt": "Build an enduring empire, from the stone age to the singularity.",
+      "url": "https://store.steampowered.com/app/2275940/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 6810,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 28126,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2518,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 91667,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 7175,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 7175,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 30.33802208207485,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 255,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.272727,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Rogue Hex位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/ff5183f0beb51639d5f8b8930e83180e498823c3/ss_ff5183f0beb51639d5f8b8930e83180e498823c3.1920x1080.jpg?t=1769194358",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/ff5183f0beb51639d5f8b8930e83180e498823c3/ss_ff5183f0beb51639d5f8b8930e83180e498823c3.1920x1080.jpg?t=1769194358",
+        "alt": "Rogue Hex 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/64d3aae8da1da0804d7a96f7f5336d141818da2f/ss_64d3aae8da1da0804d7a96f7f5336d141818da2f.1920x1080.jpg?t=1769194358",
+        "alt": "Rogue Hex 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/925f4fd12118832fd98ebcf88aed025cfa3f107f/ss_925f4fd12118832fd98ebcf88aed025cfa3f107f.1920x1080.jpg?t=1769194358",
+        "alt": "Rogue Hex 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/aabb625296170d31f6b4338db8d43868c90fd4f4/ss_aabb625296170d31f6b4338db8d43868c90fd4f4.1920x1080.jpg?t=1769194358",
+        "alt": "Rogue Hex 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/6116ff55832f4f78cf7ec56ae8a03a1400ec9e89/ss_6116ff55832f4f78cf7ec56ae8a03a1400ec9e89.1920x1080.jpg?t=1769194358",
+        "alt": "Rogue Hex 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/efb7a87c1ee1fe8977a97cc196548a6a27d9e6f4/ss_efb7a87c1ee1fe8977a97cc196548a6a27d9e6f4.1920x1080.jpg?t=1769194358",
+        "alt": "Rogue Hex 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/40ac2fd02a54e31fcf71d622a0ada70ad2158a4a/ss_40ac2fd02a54e31fcf71d622a0ada70ad2158a4a.1920x1080.jpg?t=1769194358",
+        "alt": "Rogue Hex 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2275940/6c58c7340c74f474be4ea8af7a0d7ea20045056b/ss_6c58c7340c74f474be4ea8af7a0d7ea20045056b.1920x1080.jpg?t=1769194358",
+        "alt": "Rogue Hex 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

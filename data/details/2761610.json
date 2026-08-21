@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Creator of Another World","developers":["kuetaro (くえたろう)"],"publishers":["kuetaro (くえたろう)"],"release_status":"released","release_date":"2024-04-30","tags":["角色扮演","类Rogue","奇幻","砍杀","二维平台跳跃"]},"hooks":[{"text":"不绑目标地结婚、偷窃、耕作、钓鱼、锻造、炼药和造城","dimension":"玩法","excerpt":"Explore the world full of adventures, interact with its inhabitants, marry, steal, do farming and fishing, blacksmithing and forging, mix potions, build towns without being tied to any goal!","url":"https://store.steampowered.com/app/2761610/","label":"证据原文片段"},{"text":"每次新档都重生成世界、城镇、居民、冒险者与地牢","dimension":"玩法","excerpt":"More than that, the world map, all towns, inhabitants, adventurers, and dungeons are randomly generated for each new game, providing a fresh game experience each time.","url":"https://store.steampowered.com/app/2761610/","label":"证据原文片段"},{"text":"站位、视野、天气和昼夜随时改变战局","dimension":"玩法","excerpt":"During battles, the situation can change any moment depending on the characters' positions, visibility, weather, time of day, etc. Use different equipment, skills, and items with various characteristics to overcome difficult situations and defeat your enemies!","url":"https://store.steampowered.com/app/2761610/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":15036,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":25419,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2684,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":211781,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":15036,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":15036,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":29.850820427972423,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":256,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.9375,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_4c1c7df751209a0a9dc92115feec96dbf9bcdeda.1920x1080.jpg?t=1719821526","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_4c1c7df751209a0a9dc92115feec96dbf9bcdeda.1920x1080.jpg?t=1719821526","alt":"异世界创造者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_697a8b8209f3fe927346497e3b61486e22ab1dce.1920x1080.jpg?t=1719821526","alt":"异世界创造者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_23cf8fb8e5b39ae44cac9d4485dc1183cc157142.1920x1080.jpg?t=1719821526","alt":"异世界创造者 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_3c90f44b2c21440115e0cbae079474f3663bc63d.1920x1080.jpg?t=1719821526","alt":"异世界创造者 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Creator of Another World",
+    "developers": [
+      "kuetaro (くえたろう)"
+    ],
+    "publishers": [
+      "kuetaro (くえたろう)"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-30",
+    "tags": [
+      "角色扮演",
+      "类Rogue",
+      "奇幻",
+      "砍杀",
+      "二维平台跳跃"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "不绑目标地结婚、偷窃、耕作、钓鱼、锻造、炼药和造城",
+      "dimension": "玩法",
+      "excerpt": "Explore the world full of adventures, interact with its inhabitants, marry, steal, do farming and fishing, blacksmithing and forging, mix potions, build towns without being tied to any goal!",
+      "url": "https://store.steampowered.com/app/2761610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每次新档都重生成世界、城镇、居民、冒险者与地牢",
+      "dimension": "玩法",
+      "excerpt": "More than that, the world map, all towns, inhabitants, adventurers, and dungeons are randomly generated for each new game, providing a fresh game experience each time.",
+      "url": "https://store.steampowered.com/app/2761610/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "站位、视野、天气和昼夜随时改变战局",
+      "dimension": "玩法",
+      "excerpt": "During battles, the situation can change any moment depending on the characters' positions, visibility, weather, time of day, etc. Use different equipment, skills, and items with various characteristics to overcome difficult situations and defeat your enemies!",
+      "url": "https://store.steampowered.com/app/2761610/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 16224,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 25570,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2703,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 231490,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 16224,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 16224,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 29.78681774173649,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 257,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.992218,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "异世界创造者位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_4c1c7df751209a0a9dc92115feec96dbf9bcdeda.1920x1080.jpg?t=1719821526",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_4c1c7df751209a0a9dc92115feec96dbf9bcdeda.1920x1080.jpg?t=1719821526",
+        "alt": "异世界创造者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_697a8b8209f3fe927346497e3b61486e22ab1dce.1920x1080.jpg?t=1719821526",
+        "alt": "异世界创造者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_23cf8fb8e5b39ae44cac9d4485dc1183cc157142.1920x1080.jpg?t=1719821526",
+        "alt": "异世界创造者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_3c90f44b2c21440115e0cbae079474f3663bc63d.1920x1080.jpg?t=1719821526",
+        "alt": "异世界创造者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_5270c56920e28595e5cade45f1bf6b75b1a0ca52.1920x1080.jpg?t=1719821526",
+        "alt": "异世界创造者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_83091216d44762277d6022881e9bbd919f8be990.1920x1080.jpg?t=1719821526",
+        "alt": "异世界创造者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_ffbb8c45f0d0fcc440c44301a97c1d35bda7cec8.1920x1080.jpg?t=1719821526",
+        "alt": "异世界创造者 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761610/ss_ffb0bc57474a34caa6fa6dfd06d33e7addfec8df.1920x1080.jpg?t=1719821526",
+        "alt": "异世界创造者 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

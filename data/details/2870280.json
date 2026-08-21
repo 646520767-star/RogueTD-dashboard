@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Pogo Rogue","developers":["Bounce Back Games"],"publishers":["Bounce Back Games"],"release_status":"released","release_date":"2024-11-20","tags":["类Rogue","平台跳跃","程序生成","像素画面","动作肉鸽"]},"hooks":[{"text":"以弹簧单高跷作为核心移动方式，要求玩家掌握独特且高难度的弹跳导航。","dimension":"玩法","excerpt":"Master the unique Pogo Stick Movement mechanics!","url":"https://store.steampowered.com/app/2870280/","label":"证据原文片段"},{"text":"数十种武器、强化物和道具可自由组合，用来定制每次闯关的战斗方式。","dimension":"玩法","excerpt":"Find dozens of unique weapons, powerups, and items to customize your play through!","url":"https://store.steampowered.com/app/2870280/","label":"证据原文片段"},{"text":"程序生成关卡让弹跳、战斗与路线在重复挑战中持续变化。","dimension":"玩法","excerpt":"Replay over and over again thanks to the procedural generation!","url":"https://store.steampowered.com/app/2870280/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":7973,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":354,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":7973,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":7973,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.30951736877341,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":209,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":92,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.344498,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、平台跳跃","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_8815dda6e74194aca21de85a0e097a4920040099.1920x1080.jpg?t=1738122170","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_8815dda6e74194aca21de85a0e097a4920040099.1920x1080.jpg?t=1738122170","alt":"Pogo Rogue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_9d853855d7c083c0ac8e3133efb19b26f3f636fa.1920x1080.jpg?t=1738122170","alt":"Pogo Rogue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_500f47e788558ab9d107e4f6ae1db91496ba006c.1920x1080.jpg?t=1738122170","alt":"Pogo Rogue 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_6d82c5ce40fad356383ace5fe3b7f10f2a059b09.1920x1080.jpg?t=1738122170","alt":"Pogo Rogue 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Pogo Rogue",
+    "developers": [
+      "Bounce Back Games"
+    ],
+    "publishers": [
+      "Bounce Back Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-20",
+    "tags": [
+      "类Rogue",
+      "平台跳跃",
+      "程序生成",
+      "像素画面",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "以弹簧单高跷作为核心移动方式，要求玩家掌握独特且高难度的弹跳导航。",
+      "dimension": "玩法",
+      "excerpt": "Master the unique Pogo Stick Movement mechanics!",
+      "url": "https://store.steampowered.com/app/2870280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "数十种武器、强化物和道具可自由组合，用来定制每次闯关的战斗方式。",
+      "dimension": "玩法",
+      "excerpt": "Find dozens of unique weapons, powerups, and items to customize your play through!",
+      "url": "https://store.steampowered.com/app/2870280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "程序生成关卡让弹跳、战斗与路线在重复挑战中持续变化。",
+      "dimension": "玩法",
+      "excerpt": "Replay over and over again thanks to the procedural generation!",
+      "url": "https://store.steampowered.com/app/2870280/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 8025,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 355,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 8025,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 8025,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.3458959995127575,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 211,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 92,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.943128,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Pogo Rogue位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_8815dda6e74194aca21de85a0e097a4920040099.1920x1080.jpg?t=1738122170",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_8815dda6e74194aca21de85a0e097a4920040099.1920x1080.jpg?t=1738122170",
+        "alt": "Pogo Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_9d853855d7c083c0ac8e3133efb19b26f3f636fa.1920x1080.jpg?t=1738122170",
+        "alt": "Pogo Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_500f47e788558ab9d107e4f6ae1db91496ba006c.1920x1080.jpg?t=1738122170",
+        "alt": "Pogo Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_6d82c5ce40fad356383ace5fe3b7f10f2a059b09.1920x1080.jpg?t=1738122170",
+        "alt": "Pogo Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_12007951125880ebbc5995845f8a6e2a8a7caedc.1920x1080.jpg?t=1738122170",
+        "alt": "Pogo Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_63be147b73a35fa379f1213f466c82a3984bffd9.1920x1080.jpg?t=1738122170",
+        "alt": "Pogo Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_4fbfc7e76df64a73507acc46e4a1dc48ca53c781.1920x1080.jpg?t=1738122170",
+        "alt": "Pogo Rogue 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870280/ss_77dcd949d3dd6ca1e7bd3de1b64b89fc6971aff9.1920x1080.jpg?t=1738122170",
+        "alt": "Pogo Rogue 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Commander Quest","developers":["Flyway Games, Inc."],"publishers":["Flyway Games, Inc.","KRAFTON, Inc."],"release_status":"released","release_date":"2025-04-04","tags":["战争","肉鸽卡组构筑","卡牌游戏","策略","高重复可玩性"]},"hooks":[{"text":"从战斗奖励中组合卡牌与遗物，用兵种协同补牌组弱点并打击敌方漏洞","dimension":"玩法","excerpt":"Choose your battle rewards wisely, and craft your own deck by combining a wide array of cards and relics. From cavalry units that break through enemy lines, to unyielding dwarves of steel, feral beasts, and ghostly legions—various synergies await your command. Build the perfect synergy, cover your deck’s weaknesses, and strike at the enemy’s vulnerabilities as they grow stronger with every stage.","url":"https://store.steampowered.com/app/2697930/","label":"证据原文片段"},{"text":"旅途事件可进入诡异实验自定义卡牌，也可转向寻找强力遗物","dimension":"玩法","excerpt":"You’ll also have the chance to take part in eerie experiments to customize your own cards—or simply enjoy the thrill of discovering powerful relics.","url":"https://store.steampowered.com/app/2697930/","label":"证据原文片段"},{"text":"历史传奇统帅被投入充满魔法、诅咒、矮人与巨龙的幻想战场","dimension":"题材","excerpt":"Legendary commanders from history return to the battlefield—this time in a fantasy world teeming with magic, curses, dwarves, and dragons.","url":"https://store.steampowered.com/app/2697930/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":87442,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":128366,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8912,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":767611,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":88973,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":88973,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":15.563268356327114,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2848,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":75,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.438596,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"战争、肉鸽卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/398aeaafe0341667d9d1df7956a6380e335f72cf/ss_398aeaafe0341667d9d1df7956a6380e335f72cf.1920x1080.jpg?t=1754381787","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/398aeaafe0341667d9d1df7956a6380e335f72cf/ss_398aeaafe0341667d9d1df7956a6380e335f72cf.1920x1080.jpg?t=1754381787","alt":"牌兵布阵 (Commander Quest) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/9c33aef9d34191e67aec9146fde72266547429bf/ss_9c33aef9d34191e67aec9146fde72266547429bf.1920x1080.jpg?t=1754381787","alt":"牌兵布阵 (Commander Quest) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/1a3bbd1f1ccc11d37ea92fffee7dafb12387497f/ss_1a3bbd1f1ccc11d37ea92fffee7dafb12387497f.1920x1080.jpg?t=1754381787","alt":"牌兵布阵 (Commander Quest) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/d42501cd3137e64171646e9d20ec2d2fd2678a6f/ss_d42501cd3137e64171646e9d20ec2d2fd2678a6f.1920x1080.jpg?t=1754381787","alt":"牌兵布阵 (Commander Quest) 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Commander Quest",
+    "developers": [
+      "Flyway Games, Inc."
+    ],
+    "publishers": [
+      "Flyway Games, Inc.",
+      "KRAFTON, Inc."
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-04",
+    "tags": [
+      "战争",
+      "肉鸽卡组构筑",
+      "卡牌游戏",
+      "策略",
+      "高重复可玩性"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从战斗奖励中组合卡牌与遗物，用兵种协同补牌组弱点并打击敌方漏洞",
+      "dimension": "玩法",
+      "excerpt": "Choose your battle rewards wisely, and craft your own deck by combining a wide array of cards and relics. From cavalry units that break through enemy lines, to unyielding dwarves of steel, feral beasts, and ghostly legions—various synergies await your command. Build the perfect synergy, cover your deck’s weaknesses, and strike at the enemy’s vulnerabilities as they grow stronger with every stage.",
+      "url": "https://store.steampowered.com/app/2697930/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "旅途事件可进入诡异实验自定义卡牌，也可转向寻找强力遗物",
+      "dimension": "玩法",
+      "excerpt": "You’ll also have the chance to take part in eerie experiments to customize your own cards—or simply enjoy the thrill of discovering powerful relics.",
+      "url": "https://store.steampowered.com/app/2697930/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "历史传奇统帅被投入充满魔法、诅咒、矮人与巨龙的幻想战场",
+      "dimension": "题材",
+      "excerpt": "Legendary commanders from history return to the battlefield—this time in a fantasy world teeming with magic, curses, dwarves, and dragons.",
+      "url": "https://store.steampowered.com/app/2697930/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 89756,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 127848,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8925,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 784772,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 91346,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 91346,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 15.376456442509571,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2785,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 75,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.420168,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "牌兵布阵 (Commander Quest)位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/398aeaafe0341667d9d1df7956a6380e335f72cf/ss_398aeaafe0341667d9d1df7956a6380e335f72cf.1920x1080.jpg?t=1754381787",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/398aeaafe0341667d9d1df7956a6380e335f72cf/ss_398aeaafe0341667d9d1df7956a6380e335f72cf.1920x1080.jpg?t=1754381787",
+        "alt": "牌兵布阵 (Commander Quest) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/9c33aef9d34191e67aec9146fde72266547429bf/ss_9c33aef9d34191e67aec9146fde72266547429bf.1920x1080.jpg?t=1754381787",
+        "alt": "牌兵布阵 (Commander Quest) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/1a3bbd1f1ccc11d37ea92fffee7dafb12387497f/ss_1a3bbd1f1ccc11d37ea92fffee7dafb12387497f.1920x1080.jpg?t=1754381787",
+        "alt": "牌兵布阵 (Commander Quest) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/d42501cd3137e64171646e9d20ec2d2fd2678a6f/ss_d42501cd3137e64171646e9d20ec2d2fd2678a6f.1920x1080.jpg?t=1754381787",
+        "alt": "牌兵布阵 (Commander Quest) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/193c4736975d07683b8e751ae9bd700dfd25bd50/ss_193c4736975d07683b8e751ae9bd700dfd25bd50.1920x1080.jpg?t=1754381787",
+        "alt": "牌兵布阵 (Commander Quest) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/a5c8c6ef369dde72a82acf4c5d60a2b4f5a61118/ss_a5c8c6ef369dde72a82acf4c5d60a2b4f5a61118.1920x1080.jpg?t=1754381787",
+        "alt": "牌兵布阵 (Commander Quest) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/bafcfde8d689701c6366ce4c97f1f953cc5e30bd/ss_bafcfde8d689701c6366ce4c97f1f953cc5e30bd.1920x1080.jpg?t=1754381787",
+        "alt": "牌兵布阵 (Commander Quest) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697930/ss_e0edb57b13901b605b4717812ddf2822743ea667.1920x1080.jpg?t=1754381787",
+        "alt": "牌兵布阵 (Commander Quest) 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

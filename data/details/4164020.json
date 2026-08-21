@@ -1,1 +1,167 @@
-{"identity":{"original_title":"River City Saga: Journey to the West","developers":["Arc System Works","UnitePlus"],"publishers":["Arc System Works"],"release_status":"released","release_date":"2026-06-03","tags":["动作肉鸽","轻度Rogue","动作","像素画面","喜剧"]},"hooks":[{"text":"随机神明授予八十种秘技构筑每局能力组合","dimension":"玩法","excerpt":"A roguelike action game where you grow stronger with each run! Obtain Secret Skills from gods who randomly appear as you progress through the stages to boost your abilities and stats! With a whopping 80 different Secret Skills available, discover your ultimate build and mow down the swarms of enemies!","url":"https://store.steampowered.com/app/4164020/","label":"证据原文片段"},{"text":"悟空速度、八戒力量与悟净远程三种战斗风格切换","dimension":"玩法","excerpt":"Master 3 distinct fighting styles! You'll start with only the speed-focused Sun Wukong, but as you progress through the story, you'll unlock the power-focused Zhu Bajie and the long-range Sha Wujing! Freely choose between the three Kunios and utilize their unique traits to conquer each stage!","url":"https://store.steampowered.com/app/4164020/","label":"证据原文片段"},{"text":"热血系列角色改演西游人物并轮流助战或担任Boss","dimension":"故事","excerpt":"Familiar faces from the River City series join the fray! Series regulars make their appearances one after another as characters from Journey to the West! Sometimes they will aid Kunio's crew on their journey, while other times they will stand in your way as bosses... Don't miss the hilarious banter that unfolds throughout the story!","url":"https://store.steampowered.com/app/4164020/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":954,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":15252,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":875,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":17163,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1375,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1375,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.565091989464912,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":32,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":75,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":75.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/46435cc790b8206eb455d1e790779b1534f70edd/ss_46435cc790b8206eb455d1e790779b1534f70edd.1920x1080.jpg?t=1782118729","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/46435cc790b8206eb455d1e790779b1534f70edd/ss_46435cc790b8206eb455d1e790779b1534f70edd.1920x1080.jpg?t=1782118729","alt":"热血西游记 天竺奇谭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/6013ffecfc1424034e115e4fb9579ac07e047c39/ss_6013ffecfc1424034e115e4fb9579ac07e047c39.1920x1080.jpg?t=1782118729","alt":"热血西游记 天竺奇谭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/d845d5485ed88affd038f0289bc80e2eb880b96e/ss_d845d5485ed88affd038f0289bc80e2eb880b96e.1920x1080.jpg?t=1782118729","alt":"热血西游记 天竺奇谭 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/2775d619034be32c88b5a38ab52f0f86fd701488/ss_2775d619034be32c88b5a38ab52f0f86fd701488.1920x1080.jpg?t=1782118729","alt":"热血西游记 天竺奇谭 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "River City Saga: Journey to the West",
+    "developers": [
+      "Arc System Works",
+      "UnitePlus"
+    ],
+    "publishers": [
+      "Arc System Works"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-03",
+    "tags": [
+      "动作肉鸽",
+      "轻度Rogue",
+      "玩家对环境",
+      "动作",
+      "像素画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "随机神明授予八十种秘技构筑每局能力组合",
+      "dimension": "玩法",
+      "excerpt": "A roguelike action game where you grow stronger with each run! Obtain Secret Skills from gods who randomly appear as you progress through the stages to boost your abilities and stats! With a whopping 80 different Secret Skills available, discover your ultimate build and mow down the swarms of enemies!",
+      "url": "https://store.steampowered.com/app/4164020/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "悟空速度、八戒力量与悟净远程三种战斗风格切换",
+      "dimension": "玩法",
+      "excerpt": "Master 3 distinct fighting styles! You'll start with only the speed-focused Sun Wukong, but as you progress through the story, you'll unlock the power-focused Zhu Bajie and the long-range Sha Wujing! Freely choose between the three Kunios and utilize their unique traits to conquer each stage!",
+      "url": "https://store.steampowered.com/app/4164020/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "热血系列角色改演西游人物并轮流助战或担任Boss",
+      "dimension": "故事",
+      "excerpt": "Familiar faces from the River City series join the fray! Series regulars make their appearances one after another as characters from Journey to the West! Sometimes they will aid Kunio's crew on their journey, while other times they will stand in your way as bosses... Don't miss the hilarious banter that unfolds throughout the story!",
+      "url": "https://store.steampowered.com/app/4164020/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1032,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 15342,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 896,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 18566,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1467,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1467,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.6320905158071657,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 19,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 75.757576,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "热血西游记 天竺奇谭位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/46435cc790b8206eb455d1e790779b1534f70edd/ss_46435cc790b8206eb455d1e790779b1534f70edd.1920x1080.jpg?t=1782118729",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/46435cc790b8206eb455d1e790779b1534f70edd/ss_46435cc790b8206eb455d1e790779b1534f70edd.1920x1080.jpg?t=1782118729",
+        "alt": "热血西游记 天竺奇谭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/6013ffecfc1424034e115e4fb9579ac07e047c39/ss_6013ffecfc1424034e115e4fb9579ac07e047c39.1920x1080.jpg?t=1782118729",
+        "alt": "热血西游记 天竺奇谭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/d845d5485ed88affd038f0289bc80e2eb880b96e/ss_d845d5485ed88affd038f0289bc80e2eb880b96e.1920x1080.jpg?t=1782118729",
+        "alt": "热血西游记 天竺奇谭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/2775d619034be32c88b5a38ab52f0f86fd701488/ss_2775d619034be32c88b5a38ab52f0f86fd701488.1920x1080.jpg?t=1782118729",
+        "alt": "热血西游记 天竺奇谭 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/48dc51a88ade021e51f84edb9407aeb0897e7b0d/ss_48dc51a88ade021e51f84edb9407aeb0897e7b0d.1920x1080.jpg?t=1782118729",
+        "alt": "热血西游记 天竺奇谭 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,178 @@
-{"identity":{"original_title":"SWORN","developers":["Windwalk Games"],"publishers":["Team17"],"release_status":"released","release_date":"2025-09-23","tags":["轻度Rogue","合作","独立游戏","动作肉鸽","砍杀"]},"hooks":[{"text":"单人或四人协作挑战堕落的亚瑟王与圆桌骑士，夺回卡美洛","dimension":"玩法","excerpt":"SWORN is a 1-4 player co-op action rogue-like. Explore and reclaim a fallen Camelot from the reign of a corrupted Arthur and his Knights of the Round Table.","url":"https://store.steampowered.com/app/1763250/","label":"证据原文片段"},{"text":"向精灵领主宣誓并从两百多种祝福中组合火焰、风等构筑","dimension":"玩法","excerpt":"Swear fealty to the Fae Lords, and choose from over 200 unique blessings to unleash your full potential. Will you wield the cleansing fires of Titania or take the blessings of Oberon to strike with the fury of the wind?","url":"https://store.steampowered.com/app/1763250/","label":"证据原文片段"},{"text":"用受迈克·米格诺拉启发的手绘漫画风重塑亚瑟王世界","dimension":"画风","excerpt":"Delve into a beautifully crafted comic world, inspired by the work of American artist Mike Mignola.","url":"https://store.steampowered.com/app/1763250/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":282113,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":500748,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":34751,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":4799968,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":343192,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":343192,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.573017769804347,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":4826,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.144628,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、合作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/bdcaf044e93fc0be26f20cadeb55d5f314f68592/ss_bdcaf044e93fc0be26f20cadeb55d5f314f68592.1920x1080.jpg?t=1780480778","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/bdcaf044e93fc0be26f20cadeb55d5f314f68592/ss_bdcaf044e93fc0be26f20cadeb55d5f314f68592.1920x1080.jpg?t=1780480778","alt":"圣杯誓约 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/ss_eb35350fe9c269f8c0ca2d9c97c312845b0a688d.1920x1080.jpg?t=1780480778","alt":"圣杯誓约 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/ss_984229e9e375c50c9fd669d8c6860903cc50eb7a.1920x1080.jpg?t=1780480778","alt":"圣杯誓约 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/ss_5bdc10cafafb879fdce4cf4e3fe6f6e1a1b9def6.1920x1080.jpg?t=1780480778","alt":"圣杯誓约 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "SWORN",
+    "developers": [
+      "Windwalk Games"
+    ],
+    "publishers": [
+      "Team17"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-23",
+    "tags": [
+      "轻度Rogue",
+      "合作",
+      "独立游戏",
+      "动作肉鸽",
+      "砍杀"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "单人或四人协作挑战堕落的亚瑟王与圆桌骑士，夺回卡美洛",
+      "dimension": "玩法",
+      "excerpt": "SWORN is a 1-4 player co-op action rogue-like. Explore and reclaim a fallen Camelot from the reign of a corrupted Arthur and his Knights of the Round Table.",
+      "url": "https://store.steampowered.com/app/1763250/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "向精灵领主宣誓并从两百多种祝福中组合火焰、风等构筑",
+      "dimension": "玩法",
+      "excerpt": "Swear fealty to the Fae Lords, and choose from over 200 unique blessings to unleash your full potential. Will you wield the cleansing fires of Titania or take the blessings of Oberon to strike with the fury of the wind?",
+      "url": "https://store.steampowered.com/app/1763250/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用受迈克·米格诺拉启发的手绘漫画风重塑亚瑟王世界",
+      "dimension": "画风",
+      "excerpt": "Delve into a beautifully crafted comic world, inspired by the work of American artist Mike Mignola.",
+      "url": "https://store.steampowered.com/app/1763250/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 288545,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 498602,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 34847,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 4782045,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 353270,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 353270,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 14.535335074538708,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3664,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.221328,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "圣杯誓约位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/bdcaf044e93fc0be26f20cadeb55d5f314f68592/ss_bdcaf044e93fc0be26f20cadeb55d5f314f68592.1920x1080.jpg?t=1780480778",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/bdcaf044e93fc0be26f20cadeb55d5f314f68592/ss_bdcaf044e93fc0be26f20cadeb55d5f314f68592.1920x1080.jpg?t=1780480778",
+        "alt": "圣杯誓约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/ss_eb35350fe9c269f8c0ca2d9c97c312845b0a688d.1920x1080.jpg?t=1780480778",
+        "alt": "圣杯誓约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/ss_984229e9e375c50c9fd669d8c6860903cc50eb7a.1920x1080.jpg?t=1780480778",
+        "alt": "圣杯誓约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/ss_5bdc10cafafb879fdce4cf4e3fe6f6e1a1b9def6.1920x1080.jpg?t=1780480778",
+        "alt": "圣杯誓约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/2e9ebeac88237e03f52b3e5a684f30d81dc3ea43/ss_2e9ebeac88237e03f52b3e5a684f30d81dc3ea43.1920x1080.jpg?t=1780480778",
+        "alt": "圣杯誓约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/ss_c7418edc3e9e9805a39ae5fa0a7f784b9dcd203b.1920x1080.jpg?t=1780480778",
+        "alt": "圣杯誓约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/ba981f3d81f3963063cc6985c43c0dd1e47a9972/ss_ba981f3d81f3963063cc6985c43c0dd1e47a9972.1920x1080.jpg?t=1780480778",
+        "alt": "圣杯誓约 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763250/084a67295288c7f8ea2517b5dc98d3bf6eed1b81/ss_084a67295288c7f8ea2517b5dc98d3bf6eed1b81.1920x1080.jpg?t=1780480778",
+        "alt": "圣杯誓约 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

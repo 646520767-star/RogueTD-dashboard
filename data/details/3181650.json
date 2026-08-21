@@ -1,1 +1,316 @@
-{"identity":{"original_title":"MINOS","developers":["Artificer"],"publishers":["Devolver Digital"],"release_status":"released","release_date":"2026-04-09","tags":["策略","塔防","解谜","基地建设","轻度Rogue"]},"hooks":[{"text":"拖墙转门随时重塑杀人迷宫","dimension":"玩法","excerpt":"Drag walls, gates, and corridors into place to shape your maze however you like. Make long, winding paths full of traps or confuse and split them up with rotating passages and shifting gates.","url":"https://store.steampowered.com/app/3181650/","label":"证据原文片段"},{"text":"压力板串起尖刺巨石火焰连杀","dimension":"玩法","excerpt":"Every spike, boulder, blade, and fire trap can be linked into intricate sequences. Set pressure plates to trigger a whole cascade of chaos, fooling heroes into thinking they are making progress, right before everything goes beautifully, horribly wrong.","url":"https://store.steampowered.com/app/3181650/","label":"证据原文片段"},{"text":"重审牛头人与忒修斯谁该生还","dimension":"故事","excerpt":"Uncover the story behind the Minotaur and the man who became it. What drove Daedalus to create such a place? When Theseus finally comes, you'll decide who deserves to walk out alive.","url":"https://store.steampowered.com/app/3181650/","label":"证据原文片段"}],"opinions":[{"text":"视觉风格统一并贴合神话题材。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"整体氛围贴合神话题材，风格统一。","url":"https://steamcommunity.com/id/moupflowers/recommended/3181650/","label":"证据原文片段"}]},{"text":"动画反馈令人满足。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the animations are satisfying","url":"https://steamcommunity.com/profiles/76561198201518699/recommended/3181650/","label":"证据原文片段"}]},{"text":"长期游玩会逐渐单调。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"eventual monotony","url":"https://vaporlens.app/app/3181650/minos","label":"证据原文片段"}]},{"text":"陷阱平衡性不足。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"unbalanced traps","url":"https://vaporlens.app/app/3181650/minos","label":"证据原文片段"}]},{"text":"操作按键不足，部分动作必须鼠标点击。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"操作键有点少，比如使用技能和开始捕猎都是需要鼠标点。","url":"https://steamcommunity.com/profiles/76561198068889837/recommended/3181650/","label":"证据原文片段"}]},{"text":"后期敌人设计令人烦躁。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"20关后面新怪有点恶心","url":"https://steamcommunity.com/profiles/76561198068889837/recommended/3181650/","label":"证据原文片段"}]},{"text":"随机Bug容易直接终止长局。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"a random bug ending your run","url":"https://steamcommunity.com/profiles/76561198201518699/recommended/3181650/","label":"证据原文片段"}]},{"text":"部分敌人几乎免疫玩家的大多数手段","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"They are immune to almost everything you can throw at them.","url":"https://steamcommunity.com/profiles/76561198018446558/recommended/3181650/","label":"证据原文片段"}]},{"text":"画面偏暗，有时难以看清道路。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"画面略暗有时候看不到路","url":"https://steamcommunity.com/profiles/76561198068889837/recommended/3181650/","label":"证据原文片段"}]},{"text":"策略深度表现出色","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Brilliant strategy & puzzle depth","url":"https://vaporlens.app/app/3181650/minos","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":19492,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":124555,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7525,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":302012,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":21007,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":21007,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.754272902518565,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":563,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":89,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.007092,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["长期游玩会逐渐单调。","陷阱平衡性不足。","操作按键不足，部分动作必须鼠标点击。","后期敌人设计令人烦躁。","技术/性能：随机Bug容易直接终止长局。","部分敌人几乎免疫玩家的大多数手段"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/0feec4aacf8c6eb5c5c219c9b35b8a02e71abd2e/ss_0feec4aacf8c6eb5c5c219c9b35b8a02e71abd2e.1920x1080.jpg?t=1782751497","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/0feec4aacf8c6eb5c5c219c9b35b8a02e71abd2e/ss_0feec4aacf8c6eb5c5c219c9b35b8a02e71abd2e.1920x1080.jpg?t=1782751497","alt":"MINOS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/eb32914687a0d43b6b7e6c0cce7ea4abac5eadd5/ss_eb32914687a0d43b6b7e6c0cce7ea4abac5eadd5.1920x1080.jpg?t=1782751497","alt":"MINOS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/1af6122b1967e8b1207cccc6d66709575729a2d2/ss_1af6122b1967e8b1207cccc6d66709575729a2d2.1920x1080.jpg?t=1782751497","alt":"MINOS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/3ddcd00c44e5326244f3d8c510e56e5ae0c1e9f5/ss_3ddcd00c44e5326244f3d8c510e56e5ae0c1e9f5.1920x1080.jpg?t=1782751497","alt":"MINOS 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "MINOS",
+    "developers": [
+      "Artificer"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-09",
+    "tags": [
+      "策略",
+      "塔防",
+      "解谜",
+      "基地建设",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "拖墙转门随时重塑杀人迷宫",
+      "dimension": "玩法",
+      "excerpt": "Drag walls, gates, and corridors into place to shape your maze however you like. Make long, winding paths full of traps or confuse and split them up with rotating passages and shifting gates.",
+      "url": "https://store.steampowered.com/app/3181650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "压力板串起尖刺巨石火焰连杀",
+      "dimension": "玩法",
+      "excerpt": "Every spike, boulder, blade, and fire trap can be linked into intricate sequences. Set pressure plates to trigger a whole cascade of chaos, fooling heroes into thinking they are making progress, right before everything goes beautifully, horribly wrong.",
+      "url": "https://store.steampowered.com/app/3181650/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "重审牛头人与忒修斯谁该生还",
+      "dimension": "故事",
+      "excerpt": "Uncover the story behind the Minotaur and the man who became it. What drove Daedalus to create such a place? When Theseus finally comes, you'll decide who deserves to walk out alive.",
+      "url": "https://store.steampowered.com/app/3181650/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "视觉风格统一并贴合神话题材。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "整体氛围贴合神话题材，风格统一。",
+          "url": "https://steamcommunity.com/id/moupflowers/recommended/3181650/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "动画反馈令人满足。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the animations are satisfying",
+          "url": "https://steamcommunity.com/profiles/76561198201518699/recommended/3181650/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "长期游玩会逐渐单调。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "eventual monotony",
+          "url": "https://vaporlens.app/app/3181650/minos",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "陷阱平衡性不足。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "unbalanced traps",
+          "url": "https://vaporlens.app/app/3181650/minos",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "操作按键不足，部分动作必须鼠标点击。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "操作键有点少，比如使用技能和开始捕猎都是需要鼠标点。",
+          "url": "https://steamcommunity.com/profiles/76561198068889837/recommended/3181650/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期敌人设计令人烦躁。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "20关后面新怪有点恶心",
+          "url": "https://steamcommunity.com/profiles/76561198068889837/recommended/3181650/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "随机Bug容易直接终止长局。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "a random bug ending your run",
+          "url": "https://steamcommunity.com/profiles/76561198201518699/recommended/3181650/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分敌人几乎免疫玩家的大多数手段",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "They are immune to almost everything you can throw at them.",
+          "url": "https://steamcommunity.com/profiles/76561198018446558/recommended/3181650/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "画面偏暗，有时难以看清道路。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "画面略暗有时候看不到路",
+          "url": "https://steamcommunity.com/profiles/76561198068889837/recommended/3181650/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "策略深度表现出色",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Brilliant strategy & puzzle depth",
+          "url": "https://vaporlens.app/app/3181650/minos",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 20047,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 125293,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7578,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 305387,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 21561,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 21561,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.09055021088793,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 529,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 89,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.322034,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "长期游玩会逐渐单调。",
+    "陷阱平衡性不足。",
+    "操作按键不足，部分动作必须鼠标点击。",
+    "后期敌人设计令人烦躁。",
+    "技术/性能：随机Bug容易直接终止长局。",
+    "部分敌人几乎免疫玩家的大多数手段"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "MINOS位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/0feec4aacf8c6eb5c5c219c9b35b8a02e71abd2e/ss_0feec4aacf8c6eb5c5c219c9b35b8a02e71abd2e.1920x1080.jpg?t=1782751497",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/0feec4aacf8c6eb5c5c219c9b35b8a02e71abd2e/ss_0feec4aacf8c6eb5c5c219c9b35b8a02e71abd2e.1920x1080.jpg?t=1782751497",
+        "alt": "MINOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/eb32914687a0d43b6b7e6c0cce7ea4abac5eadd5/ss_eb32914687a0d43b6b7e6c0cce7ea4abac5eadd5.1920x1080.jpg?t=1782751497",
+        "alt": "MINOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/1af6122b1967e8b1207cccc6d66709575729a2d2/ss_1af6122b1967e8b1207cccc6d66709575729a2d2.1920x1080.jpg?t=1782751497",
+        "alt": "MINOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/3ddcd00c44e5326244f3d8c510e56e5ae0c1e9f5/ss_3ddcd00c44e5326244f3d8c510e56e5ae0c1e9f5.1920x1080.jpg?t=1782751497",
+        "alt": "MINOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/4180e8b418068d4b3e85b16c8641250e309e63c0/ss_4180e8b418068d4b3e85b16c8641250e309e63c0.1920x1080.jpg?t=1782751497",
+        "alt": "MINOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/ea8d72010b15b18dbdc3c3ffc84d3579a3897159/ss_ea8d72010b15b18dbdc3c3ffc84d3579a3897159.1920x1080.jpg?t=1782751497",
+        "alt": "MINOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/39a7c77d0ce8de4ac980a928393746b35892b74b/ss_39a7c77d0ce8de4ac980a928393746b35892b74b.1920x1080.jpg?t=1782751497",
+        "alt": "MINOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181650/2721cc1ed2ef282b12e8608a117c54e73d2a1ff8/ss_2721cc1ed2ef282b12e8608a117c54e73d2a1ff8.1920x1080.jpg?t=1782751497",
+        "alt": "MINOS 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

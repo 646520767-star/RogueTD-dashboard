@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Void War","developers":["Tundra"],"publishers":["Tundra"],"release_status":"released","release_date":"2025-06-02","tags":["太空","轻度Rogue","永久死亡","选择影响剧情","策略"]},"hooks":[{"text":"协调舰炮、模块与反应堆能量分配，把古老星舰改造成战争机器","dimension":"玩法","excerpt":"Your starship is a mighty and terrible vessel, brimming with arcane technology and devastating weapons. Harness your ship's weapons, modules, and reactor power to maximize your combat potential.","url":"https://store.steampowered.com/app/2853590/","label":"证据原文片段"},{"text":"把升级件排列成连锁组合以精准拆船，但敌舰同样会反向构筑组合","dimension":"玩法","excerpt":"Arrange your upgrades into powerful combos and use them to surgically dismantle your enemies. But watch out. They can do exactly the same to you.","url":"https://store.steampowered.com/app/2853590/","label":"证据原文片段"},{"text":"从六个派系招募船员、配置军械，并发动血腥的敌舰登船战","dimension":"玩法","excerpt":"Enlist crew from six different factions. Customize them with a vast array of wargear and engage in bloody, strategic boarding actions against enemy craft.","url":"https://store.steampowered.com/app/2853590/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":133023,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":307572,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":25313,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2325620,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":141993,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":141993,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":18.407359099297143,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3845,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.155844,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"太空、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/a710892e32d035878ff6a68d57ab181026d016a7/ss_a710892e32d035878ff6a68d57ab181026d016a7.1920x1080.jpg?t=1770404391","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/a710892e32d035878ff6a68d57ab181026d016a7/ss_a710892e32d035878ff6a68d57ab181026d016a7.1920x1080.jpg?t=1770404391","alt":"Void War 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_77e4f7948a322e758a499eb235985f4c8dadebb1.1920x1080.jpg?t=1770404391","alt":"Void War 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_80e505b695f44c1ebc29853f33836d19a54a50d1.1920x1080.jpg?t=1770404391","alt":"Void War 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/dda673f892c393bde88a15fbdfd0ae6671d2c7c7/ss_dda673f892c393bde88a15fbdfd0ae6671d2c7c7.1920x1080.jpg?t=1770404391","alt":"Void War 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Void War",
+    "developers": [
+      "Tundra"
+    ],
+    "publishers": [
+      "Tundra"
+    ],
+    "release_status": "released",
+    "release_date": "2025-06-02",
+    "tags": [
+      "太空",
+      "轻度Rogue",
+      "永久死亡",
+      "选择影响剧情",
+      "策略"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "协调舰炮、模块与反应堆能量分配，把古老星舰改造成战争机器",
+      "dimension": "玩法",
+      "excerpt": "Your starship is a mighty and terrible vessel, brimming with arcane technology and devastating weapons. Harness your ship's weapons, modules, and reactor power to maximize your combat potential.",
+      "url": "https://store.steampowered.com/app/2853590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把升级件排列成连锁组合以精准拆船，但敌舰同样会反向构筑组合",
+      "dimension": "玩法",
+      "excerpt": "Arrange your upgrades into powerful combos and use them to surgically dismantle your enemies. But watch out. They can do exactly the same to you.",
+      "url": "https://store.steampowered.com/app/2853590/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "从六个派系招募船员、配置军械，并发动血腥的敌舰登船战",
+      "dimension": "玩法",
+      "excerpt": "Enlist crew from six different factions. Customize them with a vast array of wargear and engage in bloody, strategic boarding actions against enemy craft.",
+      "url": "https://store.steampowered.com/app/2853590/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 135350,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 315786,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 25432,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2355133,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 144448,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 144448,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 18.317359838686926,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 3560,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.183673,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Void War位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/a710892e32d035878ff6a68d57ab181026d016a7/ss_a710892e32d035878ff6a68d57ab181026d016a7.1920x1080.jpg?t=1770404391",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/a710892e32d035878ff6a68d57ab181026d016a7/ss_a710892e32d035878ff6a68d57ab181026d016a7.1920x1080.jpg?t=1770404391",
+        "alt": "Void War 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_77e4f7948a322e758a499eb235985f4c8dadebb1.1920x1080.jpg?t=1770404391",
+        "alt": "Void War 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_80e505b695f44c1ebc29853f33836d19a54a50d1.1920x1080.jpg?t=1770404391",
+        "alt": "Void War 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/dda673f892c393bde88a15fbdfd0ae6671d2c7c7/ss_dda673f892c393bde88a15fbdfd0ae6671d2c7c7.1920x1080.jpg?t=1770404391",
+        "alt": "Void War 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_2d328792bd74d3bb56f0fa7179297daa2871bef0.1920x1080.jpg?t=1770404391",
+        "alt": "Void War 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_01db07750229368a450e5ef0ebc04d462fd3c54e.1920x1080.jpg?t=1770404391",
+        "alt": "Void War 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/b153080b3ef53b393c3b2bc230a50344ec2918d6/ss_b153080b3ef53b393c3b2bc230a50344ec2918d6.1920x1080.jpg?t=1770404391",
+        "alt": "Void War 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_c814960006ef6c22caf868ef90f0578c64603022.1920x1080.jpg?t=1770404391",
+        "alt": "Void War 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

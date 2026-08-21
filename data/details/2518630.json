@@ -1,1 +1,304 @@
-{"identity":{"original_title":"None Shall Intrude","developers":["Aeterna Ludi"],"publishers":["GrabTheGames"],"release_status":"released","release_date":"2025-01-21","tags":["策略","卡牌游戏","卡牌对战","轻度Rogue","二维画面"]},"hooks":[{"text":"化身不死Raid Boss，每次死亡都让下一轮更强","dimension":"玩法","excerpt":"As the unkillable embodiment of chaos, death means nothing to you as your soul is permanently tied to this land of mortals! With each new life, you gain more power, and each cycle opens up new possibilities to grow stronger.","url":"https://store.steampowered.com/app/2518630/","label":"证据原文片段"},{"text":"在格子战场组合元素，探索18种连锁互动","dimension":"玩法","excerpt":"Navigate the battlefield using a tile-based system, employing various primordial elements and combine them into potent interactions. Discover all 18 possible tile interactions and tailor your build to your preferred style of play, destroying your enemies with style!","url":"https://store.steampowered.com/app/2518630/","label":"证据原文片段"},{"text":"三阶段Boss解锁24种能力，最多选四种拼出专属机制","dimension":"玩法","excerpt":"As the Chaos Incarnate , you possess 3 Phases . The road to power means unlocking your latent \"Boss Mechanics\" . These mechanics work across distinct phases, with 24 unique powers attainable through in-game achievements . Combine up to 4 \"Boss Mechanics\" to craft your personalized Raid Boss .","url":"https://store.steampowered.com/app/2518630/","label":"证据原文片段"}],"opinions":[{"text":"人物动作显得僵硬。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"人物动作有些僵硬","url":"https://steamcommunity.com/profiles/76561199241465328/recommended/2518630/","label":"证据原文片段"}]},{"text":"画面精细度不足。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"画面更精良就好了","url":"https://steamcommunity.com/profiles/76561199241465328/recommended/2518630/","label":"证据原文片段"}]},{"text":"卡牌可能被计为已使用却不产生效果。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"cards being counted as played but no effect","url":"https://steamcommunity.com/id/GenRainbows/recommended/2518630/","label":"证据原文片段"}]},{"text":"清空棋盘后流程可能无法结束。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"I had the board cleared with no ending","url":"https://steamcommunity.com/id/GenRainbows/recommended/2518630/","label":"证据原文片段"}]},{"text":"高难度迫使玩家寻找唯一构筑并依赖RNG。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"RNG hell searching for the cards for the one build","url":"https://steamcommunity.com/profiles/76561198018712074/recommended/2518630/","label":"证据原文片段"}]},{"text":"遗物平衡极端失衡。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"And the relics themselves are balanced like a seesaw with an elephant on one end.","url":"https://steamcommunity.com/profiles/76561198114221912/recommended/2518630/","label":"证据原文片段"}]},{"text":"教程Bug严重。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The tutorial is extrabuggy","url":"https://steamcommunity.com/profiles/76561198084763093/recommended/2518630/","label":"证据原文片段"}]},{"text":"核心机制需要特定遗物才会真正启用。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"almost none of it matters unless you've collected the specific relics","url":"https://steamcommunity.com/profiles/76561198114221912/recommended/2518630/","label":"证据原文片段"}]},{"text":"核心玩法创意新颖。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"挺新颖的肉鸽卡牌游戏","url":"https://steamcommunity.com/profiles/76561199241465328/recommended/2518630/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":38854,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":52109,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5404,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":399046,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":40893,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":40893,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.359110119521307,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":997,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":74,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":73.721163,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["人物动作显得僵硬。","画面精细度不足。","卡牌可能被计为已使用却不产生效果。","清空棋盘后流程可能无法结束。","高难度迫使玩家寻找唯一构筑并依赖RNG。","遗物平衡极端失衡。","技术/性能：教程Bug严重。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_9c5f7715017a5128529a33d8f3db94fc4f9d0f7c.1920x1080.jpg?t=1784217127","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_9c5f7715017a5128529a33d8f3db94fc4f9d0f7c.1920x1080.jpg?t=1784217127","alt":"不容进犯 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_d40b0d6634fd7498d6eb0be374429d5abf2143af.1920x1080.jpg?t=1784217127","alt":"不容进犯 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_0b78fbbd37daeadb7fae35fdf1bee61fc2a7b199.1920x1080.jpg?t=1784217127","alt":"不容进犯 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_6801a445f831bccf445dd57ab7c4468cadb842a0.1920x1080.jpg?t=1784217127","alt":"不容进犯 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "None Shall Intrude",
+    "developers": [
+      "Aeterna Ludi"
+    ],
+    "publishers": [
+      "GrabTheGames"
+    ],
+    "release_status": "released",
+    "release_date": "2025-01-21",
+    "tags": [
+      "策略",
+      "卡牌游戏",
+      "卡牌对战",
+      "轻度Rogue",
+      "二维画面"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "化身不死Raid Boss，每次死亡都让下一轮更强",
+      "dimension": "玩法",
+      "excerpt": "As the unkillable embodiment of chaos, death means nothing to you as your soul is permanently tied to this land of mortals! With each new life, you gain more power, and each cycle opens up new possibilities to grow stronger.",
+      "url": "https://store.steampowered.com/app/2518630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在格子战场组合元素，探索18种连锁互动",
+      "dimension": "玩法",
+      "excerpt": "Navigate the battlefield using a tile-based system, employing various primordial elements and combine them into potent interactions. Discover all 18 possible tile interactions and tailor your build to your preferred style of play, destroying your enemies with style!",
+      "url": "https://store.steampowered.com/app/2518630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "三阶段Boss解锁24种能力，最多选四种拼出专属机制",
+      "dimension": "玩法",
+      "excerpt": "As the Chaos Incarnate , you possess 3 Phases . The road to power means unlocking your latent \"Boss Mechanics\" . These mechanics work across distinct phases, with 24 unique powers attainable through in-game achievements . Combine up to 4 \"Boss Mechanics\" to craft your personalized Raid Boss .",
+      "url": "https://store.steampowered.com/app/2518630/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "人物动作显得僵硬。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "人物动作有些僵硬",
+          "url": "https://steamcommunity.com/profiles/76561199241465328/recommended/2518630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "画面精细度不足。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "画面更精良就好了",
+          "url": "https://steamcommunity.com/profiles/76561199241465328/recommended/2518630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "卡牌可能被计为已使用却不产生效果。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "cards being counted as played but no effect",
+          "url": "https://steamcommunity.com/id/GenRainbows/recommended/2518630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "清空棋盘后流程可能无法结束。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "I had the board cleared with no ending",
+          "url": "https://steamcommunity.com/id/GenRainbows/recommended/2518630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "高难度迫使玩家寻找唯一构筑并依赖RNG。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "RNG hell searching for the cards for the one build",
+          "url": "https://steamcommunity.com/profiles/76561198018712074/recommended/2518630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "遗物平衡极端失衡。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "And the relics themselves are balanced like a seesaw with an elephant on one end.",
+          "url": "https://steamcommunity.com/profiles/76561198114221912/recommended/2518630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "教程Bug严重。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The tutorial is extrabuggy",
+          "url": "https://steamcommunity.com/profiles/76561198084763093/recommended/2518630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心机制需要特定遗物才会真正启用。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "almost none of it matters unless you've collected the specific relics",
+          "url": "https://steamcommunity.com/profiles/76561198114221912/recommended/2518630/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心玩法创意新颖。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "挺新颖的肉鸽卡牌游戏",
+          "url": "https://steamcommunity.com/profiles/76561199241465328/recommended/2518630/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 40071,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 52418,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5408,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 380298,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 42229,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 42229,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.2981714142744,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 927,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 73,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 73.326673,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "人物动作显得僵硬。",
+    "画面精细度不足。",
+    "卡牌可能被计为已使用却不产生效果。",
+    "清空棋盘后流程可能无法结束。",
+    "高难度迫使玩家寻找唯一构筑并依赖RNG。",
+    "遗物平衡极端失衡。",
+    "技术/性能：教程Bug严重。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "不容进犯位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_9c5f7715017a5128529a33d8f3db94fc4f9d0f7c.1920x1080.jpg?t=1784217127",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_9c5f7715017a5128529a33d8f3db94fc4f9d0f7c.1920x1080.jpg?t=1786725703",
+        "alt": "不容进犯 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_d40b0d6634fd7498d6eb0be374429d5abf2143af.1920x1080.jpg?t=1786725703",
+        "alt": "不容进犯 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_0b78fbbd37daeadb7fae35fdf1bee61fc2a7b199.1920x1080.jpg?t=1786725703",
+        "alt": "不容进犯 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_6801a445f831bccf445dd57ab7c4468cadb842a0.1920x1080.jpg?t=1786725703",
+        "alt": "不容进犯 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_830a57b5482859e6fe9ece09b8808311053073fa.1920x1080.jpg?t=1786725703",
+        "alt": "不容进犯 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_7eddb4085f0b06e5d29ac40ce12288b10e06611b.1920x1080.jpg?t=1786725703",
+        "alt": "不容进犯 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_5ae83d676f93de132b1b716554072a402534c46d.1920x1080.jpg?t=1786725703",
+        "alt": "不容进犯 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518630/ss_fb1cd3f697764b0c615ab067f337edb4b7ea21d9.1920x1080.jpg?t=1786725703",
+        "alt": "不容进犯 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

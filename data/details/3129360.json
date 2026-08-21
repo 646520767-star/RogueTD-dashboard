@@ -1,1 +1,180 @@
-{"identity":{"original_title":"Aksun","developers":["Wayway Inc"],"publishers":["Wayway Inc"],"release_status":"early_access","release_date":"2026-07-21","tags":["抢先体验","动作","动作肉鸽","砍杀","轻度Rogue"]},"hooks":[{"text":"被困在封印混沌与怪物先知King Mokdu追随者的诅咒棺匣中，每轮都更深陷入记忆、苦难与轮回","dimension":"故事","excerpt":"You are trapped within the Casket — a cursed device forged to imprison the will of chaos and those who follow the monstrous prophet, King Mokdu. Every run drives you deeper into a cycle of memory, suffering, and rebirth, handing you new weapons and corrupted artifacts to engrave and master.","url":"https://store.steampowered.com/app/3129360/","label":"证据原文片段"},{"text":"武器觉醒、传奇刻印与可叠加遗物共同塑造每轮构筑","dimension":"玩法","excerpt":"Weapons — bound to Wardens of Ordeal, they define your combat identity and unlock powerful Awakening and Final Awakening skills. Legendary Artifacts (30) — corrupted relics whose abilities you unlock by spending Echoes to Engrave them, working toward a full Revelation: the central pursuit of every run. Common Artifacts (60+) — stack and duplicate to reinforce and mutate your stats.","url":"https://store.steampowered.com/app/3129360/","label":"证据原文片段"},{"text":"普通敌人可被连击压制，但Fiend完全不会硬直，必须读懂攻击节奏并用Counter Spell精准招架制造破绽","dimension":"玩法","excerpt":"Most stagger under your blows, so you press forward and carve through them — but Fiends never flinch. To break one you must read its rhythm and answer with a Counter Spell, a clean parry that turns its assault into your opening.","url":"https://store.steampowered.com/app/3129360/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":50,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":12710,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":940,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":485,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":60,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":60,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0,"unit":"小时","state":"zero","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":4,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":100,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":100.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"],"actions":[{"label":"原型验证","target":"抢先体验、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/104dc793f3fb2b458099f720bb96c7cd532dc88d/ss_104dc793f3fb2b458099f720bb96c7cd532dc88d.1920x1080.jpg?t=1784653232","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/104dc793f3fb2b458099f720bb96c7cd532dc88d/ss_104dc793f3fb2b458099f720bb96c7cd532dc88d.1920x1080.jpg?t=1784653232","alt":"Aksun 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/8dc03eb8fbaf42771aef5ce166926a53a7dd561f/ss_8dc03eb8fbaf42771aef5ce166926a53a7dd561f.1920x1080.jpg?t=1784653232","alt":"Aksun 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/9d1f44fe322884d42e6472c755dc5b5ba566d31d/ss_9d1f44fe322884d42e6472c755dc5b5ba566d31d.1920x1080.jpg?t=1784653232","alt":"Aksun 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/c9d42dee2f4b45dda28aa0314ebc9454f9a97127/ss_c9d42dee2f4b45dda28aa0314ebc9454f9a97127.1920x1080.jpg?t=1784653232","alt":"Aksun 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Aksun",
+    "developers": [
+      "Wayway Inc"
+    ],
+    "publishers": [
+      "Wayway Inc"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-07-21",
+    "tags": [
+      "抢先体验",
+      "动作",
+      "砍杀",
+      "轻度Rogue",
+      "等距视角"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "被困在封印混沌与怪物先知King Mokdu追随者的诅咒棺匣中，每轮都更深陷入记忆、苦难与轮回",
+      "dimension": "故事",
+      "excerpt": "You are trapped within the Casket — a cursed device forged to imprison the will of chaos and those who follow the monstrous prophet, King Mokdu. Every run drives you deeper into a cycle of memory, suffering, and rebirth, handing you new weapons and corrupted artifacts to engrave and master.",
+      "url": "https://store.steampowered.com/app/3129360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "武器觉醒、传奇刻印与可叠加遗物共同塑造每轮构筑",
+      "dimension": "玩法",
+      "excerpt": "Weapons — bound to Wardens of Ordeal, they define your combat identity and unlock powerful Awakening and Final Awakening skills. Legendary Artifacts (30) — corrupted relics whose abilities you unlock by spending Echoes to Engrave them, working toward a full Revelation: the central pursuit of every run. Common Artifacts (60+) — stack and duplicate to reinforce and mutate your stats.",
+      "url": "https://store.steampowered.com/app/3129360/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "普通敌人可被连击压制，但Fiend完全不会硬直，必须读懂攻击节奏并用Counter Spell精准招架制造破绽",
+      "dimension": "玩法",
+      "excerpt": "Most stagger under your blows, so you press forward and carve through them — but Fiends never flinch. To break one you must read its rhythm and answer with a Counter Spell, a clean parry that turns its assault into your opening.",
+      "url": "https://store.steampowered.com/app/3129360/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1497,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 20456,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1339,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 14774,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1712,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1712,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.8055832984749096,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 32,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.179487,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Aksun位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/104dc793f3fb2b458099f720bb96c7cd532dc88d/ss_104dc793f3fb2b458099f720bb96c7cd532dc88d.1920x1080.jpg?t=1784653232",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/104dc793f3fb2b458099f720bb96c7cd532dc88d/ss_104dc793f3fb2b458099f720bb96c7cd532dc88d.1920x1080.jpg?t=1784653232",
+        "alt": "Aksun 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/8dc03eb8fbaf42771aef5ce166926a53a7dd561f/ss_8dc03eb8fbaf42771aef5ce166926a53a7dd561f.1920x1080.jpg?t=1784653232",
+        "alt": "Aksun 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/9d1f44fe322884d42e6472c755dc5b5ba566d31d/ss_9d1f44fe322884d42e6472c755dc5b5ba566d31d.1920x1080.jpg?t=1784653232",
+        "alt": "Aksun 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/c9d42dee2f4b45dda28aa0314ebc9454f9a97127/ss_c9d42dee2f4b45dda28aa0314ebc9454f9a97127.1920x1080.jpg?t=1784653232",
+        "alt": "Aksun 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/60e25ba8584a23581ee1bc305f0afe7ebd23277f/ss_60e25ba8584a23581ee1bc305f0afe7ebd23277f.1920x1080.jpg?t=1784653232",
+        "alt": "Aksun 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/019cc6bb7cc70cb4a0d356f784e881bb4dbcb232/ss_019cc6bb7cc70cb4a0d356f784e881bb4dbcb232.1920x1080.jpg?t=1784653232",
+        "alt": "Aksun 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/ed5bc13e691aa68b3c6e845e58cd8ba80cc72b89/ss_ed5bc13e691aa68b3c6e845e58cd8ba80cc72b89.1920x1080.jpg?t=1784653232",
+        "alt": "Aksun 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129360/00ac1b1ed8064131f2750a9c07eb00db7dfa6699/ss_00ac1b1ed8064131f2750a9c07eb00db7dfa6699.1920x1080.jpg?t=1784653232",
+        "alt": "Aksun 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

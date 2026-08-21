@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Heading Out","developers":["Serious Sim","Crunching Koalas"],"publishers":["Crunching Koalas"],"release_status":"released","release_date":"2024-05-07","tags":["氛围感","剧情丰富","选择影响剧情","风格化","冒险"]},"hooks":[{"text":"每次公路抉择都会改写遭遇、挑战和故事走向，让逃亡旅程导向不同结局。","dimension":"故事","excerpt":"Each decision you make shapes your story, influencing encounters, challenges, and the ever-present red mist of fear that trails your path.","url":"https://store.steampowered.com/app/1640630/","label":"证据原文片段"},{"text":"在动态路线图上同时管理燃料、车况与专注，并权衡救人、街头赛车或躲避执法。","dimension":"玩法","excerpt":"Navigate a dynamic map where every route presents new dilemmas. Manage resources like fuel, car condition, and focus while deciding whether to help strangers, engage in street races, or evade the law. Your choices impact your reputation, wanted level, and the unfolding narrative.","url":"https://store.steampowered.com/app/1640630/","label":"证据原文片段"},{"text":"黑白漫画画面用鲜艳色块突出关键元素，再以爵士与摇滚塑造美式公路情绪。","dimension":"画风","excerpt":"Experience a striking black-and-white comic book aesthetic, punctuated by vivid splashes of color that highlight key elements. Complementing the visuals is an eclectic Americana soundtrack, featuring jazz and rock tracks that underscore the game's emotional beats.","url":"https://store.steampowered.com/app/1640630/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":15951,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":149970,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5587,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":226468,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":17057,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":17057,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.985311038497377,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":691,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":76,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":76.046176,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"氛围感、剧情丰富","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/ed97b2df9f6a97f0a242136338c9d2cba1cbee45/ss_ed97b2df9f6a97f0a242136338c9d2cba1cbee45.1920x1080.jpg?t=1784667832","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/ed97b2df9f6a97f0a242136338c9d2cba1cbee45/ss_ed97b2df9f6a97f0a242136338c9d2cba1cbee45.1920x1080.jpg?t=1784667832","alt":"Heading Out 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/63bfc055f8e95a971b172239f1e571bf80fb4994/ss_63bfc055f8e95a971b172239f1e571bf80fb4994.1920x1080.jpg?t=1784667832","alt":"Heading Out 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/20645f28132d6a47972d5aaed6cced33f888b606/ss_20645f28132d6a47972d5aaed6cced33f888b606.1920x1080.jpg?t=1784667832","alt":"Heading Out 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/c81817a89cf9c4f6ce83ee2550f9d0ded03e6f52/ss_c81817a89cf9c4f6ce83ee2550f9d0ded03e6f52.1920x1080.jpg?t=1784667832","alt":"Heading Out 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Heading Out",
+    "developers": [
+      "Serious Sim",
+      "Crunching Koalas"
+    ],
+    "publishers": [
+      "Crunching Koalas"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-07",
+    "tags": [
+      "氛围感",
+      "剧情丰富",
+      "剧情丰富",
+      "类Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每次公路抉择都会改写遭遇、挑战和故事走向，让逃亡旅程导向不同结局。",
+      "dimension": "故事",
+      "excerpt": "Each decision you make shapes your story, influencing encounters, challenges, and the ever-present red mist of fear that trails your path.",
+      "url": "https://store.steampowered.com/app/1640630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在动态路线图上同时管理燃料、车况与专注，并权衡救人、街头赛车或躲避执法。",
+      "dimension": "玩法",
+      "excerpt": "Navigate a dynamic map where every route presents new dilemmas. Manage resources like fuel, car condition, and focus while deciding whether to help strangers, engage in street races, or evade the law. Your choices impact your reputation, wanted level, and the unfolding narrative.",
+      "url": "https://store.steampowered.com/app/1640630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "黑白漫画画面用鲜艳色块突出关键元素，再以爵士与摇滚塑造美式公路情绪。",
+      "dimension": "画风",
+      "excerpt": "Experience a striking black-and-white comic book aesthetic, punctuated by vivid splashes of color that highlight key elements. Complementing the visuals is an eclectic Americana soundtrack, featuring jazz and rock tracks that underscore the game's emotional beats.",
+      "url": "https://store.steampowered.com/app/1640630/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 17605,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 150859,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5629,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 234608,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 18847,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 18847,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.052680964192991,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 635,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 76,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 76.034237,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Heading Out位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/ed97b2df9f6a97f0a242136338c9d2cba1cbee45/ss_ed97b2df9f6a97f0a242136338c9d2cba1cbee45.1920x1080.jpg?t=1784667832",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/ed97b2df9f6a97f0a242136338c9d2cba1cbee45/ss_ed97b2df9f6a97f0a242136338c9d2cba1cbee45.1920x1080.jpg?t=1784667832",
+        "alt": "Heading Out 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/63bfc055f8e95a971b172239f1e571bf80fb4994/ss_63bfc055f8e95a971b172239f1e571bf80fb4994.1920x1080.jpg?t=1784667832",
+        "alt": "Heading Out 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/20645f28132d6a47972d5aaed6cced33f888b606/ss_20645f28132d6a47972d5aaed6cced33f888b606.1920x1080.jpg?t=1784667832",
+        "alt": "Heading Out 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/c81817a89cf9c4f6ce83ee2550f9d0ded03e6f52/ss_c81817a89cf9c4f6ce83ee2550f9d0ded03e6f52.1920x1080.jpg?t=1784667832",
+        "alt": "Heading Out 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/6cfab83f17bfe08838f209e7f8d01b54c3fb322a/ss_6cfab83f17bfe08838f209e7f8d01b54c3fb322a.1920x1080.jpg?t=1784667832",
+        "alt": "Heading Out 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/2110f3fa33492d19f5ad74c08d22c0011ae308f4/ss_2110f3fa33492d19f5ad74c08d22c0011ae308f4.1920x1080.jpg?t=1784667832",
+        "alt": "Heading Out 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/8aaa1c507d9f16863bebd63fc7980c579cb24e05/ss_8aaa1c507d9f16863bebd63fc7980c579cb24e05.1920x1080.jpg?t=1784667832",
+        "alt": "Heading Out 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640630/cdc0f9c3a304dd2036b4543cf18e4b690b296587/ss_cdc0f9c3a304dd2036b4543cf18e4b690b296587.1920x1080.jpg?t=1784667832",
+        "alt": "Heading Out 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

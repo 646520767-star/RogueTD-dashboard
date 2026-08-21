@@ -1,1 +1,174 @@
-{"identity":{"original_title":"BattleCap","developers":["MechAlmond Productions"],"publishers":["MechAlmond Productions"],"release_status":"released","release_date":"2024-12-30","tags":["本地合作","俯视角射击","海战","轻度Rogue","玩家对战"]},"hooks":[{"text":"从海面捡起瓶盖并粘成炮塔，继续拼装出能够伸展与变形的自制战舰","dimension":"玩法","excerpt":"Gather the scattered caps, glue them into a powerful turret, and craft a giant battleship capable of extending and transforming!","url":"https://store.steampowered.com/app/2885480/","label":"证据原文片段"},{"text":"派对PVP采用三轮锦标赛，所选战舰与随机地图共同迫使玩家在猛攻和发育之间重新定策略","dimension":"玩法","excerpt":"In the Party PVP mode, experience the intense and exhilarating three-round tournament, challenging multiple meticulously designed map stages. The selection of your battleship and the random map will jointly determine your subsequent tactical strategy—will you charge recklessly or develop cautiously?","url":"https://store.steampowered.com/app/2885480/","label":"证据原文片段"},{"text":"单人或多人共同守卫Nymph营地，对抗连续海怪攻势，并用稀有祝福与遗物强化旗舰","dimension":"玩法","excerpt":"Collect rare blessings and relics to fortify your BattleCap flagship and embark on an unprecedented naval battle! Defend the Nymph's camp against waves of enemy assaults! In addition to solo challenges, you can also invite friends to collaborate, sharing the pressure from the sea monsters and offering mutual support.","url":"https://store.steampowered.com/app/2885480/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1989,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":7626,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":667,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":17825,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2041,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2041,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.2621765862062646,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":165,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":97,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":96.969697,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"本地合作、俯视角射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_756401c2ae9b12855b6a01b3bbe13ad807a7bc84.1920x1080.jpg?t=1739530115","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_756401c2ae9b12855b6a01b3bbe13ad807a7bc84.1920x1080.jpg?t=1739530115","alt":"瓶盖战舰 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_0bbe153a0d254291a300cae1554c67270c34c5c0.1920x1080.jpg?t=1739530115","alt":"瓶盖战舰 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_94347c41413b077691faf26983fecb5dbd484c37.1920x1080.jpg?t=1739530115","alt":"瓶盖战舰 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_bbbe1525cecbf661af55c271d591b4502cbecd3c.1920x1080.jpg?t=1739530115","alt":"瓶盖战舰 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "BattleCap",
+    "developers": [
+      "MechAlmond Productions"
+    ],
+    "publishers": [
+      "MechAlmond Productions"
+    ],
+    "release_status": "released",
+    "release_date": "2024-12-30",
+    "tags": [
+      "本地合作",
+      "本地合作",
+      "俯视角射击",
+      "海战",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从海面捡起瓶盖并粘成炮塔，继续拼装出能够伸展与变形的自制战舰",
+      "dimension": "玩法",
+      "excerpt": "Gather the scattered caps, glue them into a powerful turret, and craft a giant battleship capable of extending and transforming!",
+      "url": "https://store.steampowered.com/app/2885480/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "派对PVP采用三轮锦标赛，所选战舰与随机地图共同迫使玩家在猛攻和发育之间重新定策略",
+      "dimension": "玩法",
+      "excerpt": "In the Party PVP mode, experience the intense and exhilarating three-round tournament, challenging multiple meticulously designed map stages. The selection of your battleship and the random map will jointly determine your subsequent tactical strategy—will you charge recklessly or develop cautiously?",
+      "url": "https://store.steampowered.com/app/2885480/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "单人或多人共同守卫Nymph营地，对抗连续海怪攻势，并用稀有祝福与遗物强化旗舰",
+      "dimension": "玩法",
+      "excerpt": "Collect rare blessings and relics to fortify your BattleCap flagship and embark on an unprecedented naval battle! Defend the Nymph's camp against waves of enemy assaults! In addition to solo challenges, you can also invite friends to collaborate, sharing the pressure from the sea monsters and offering mutual support.",
+      "url": "https://store.steampowered.com/app/2885480/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1980,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 7671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 669,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 17966,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2032,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2032,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.2621765862062646,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 159,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.969697,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "瓶盖战舰位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_756401c2ae9b12855b6a01b3bbe13ad807a7bc84.1920x1080.jpg?t=1739530115",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_756401c2ae9b12855b6a01b3bbe13ad807a7bc84.1920x1080.jpg?t=1739530115",
+        "alt": "瓶盖战舰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_0bbe153a0d254291a300cae1554c67270c34c5c0.1920x1080.jpg?t=1739530115",
+        "alt": "瓶盖战舰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_94347c41413b077691faf26983fecb5dbd484c37.1920x1080.jpg?t=1739530115",
+        "alt": "瓶盖战舰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_bbbe1525cecbf661af55c271d591b4502cbecd3c.1920x1080.jpg?t=1739530115",
+        "alt": "瓶盖战舰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_d61f30bbfbe6d34d894480425c75e6dfbe434460.1920x1080.jpg?t=1739530115",
+        "alt": "瓶盖战舰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_97d435edf4ee86f5e9f616814b289a09d484d8af.1920x1080.jpg?t=1739530115",
+        "alt": "瓶盖战舰 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885480/ss_48960db7b16bb5cfa93104923c5786c10b3865cf.1920x1080.jpg?t=1739530115",
+        "alt": "瓶盖战舰 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

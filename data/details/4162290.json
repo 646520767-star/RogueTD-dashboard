@@ -1,1 +1,178 @@
-{"identity":{"original_title":"OK👍 Boomer","developers":["Pugsy Studios"],"publishers":["GameDev.ist"],"release_status":"early_access","release_date":"2026-06-25","tags":["在线合作","动作肉鸽","探索","动作","地牢探索"]},"hooks":[{"text":"深入互联网会持续侵蚀数字理智，玩家可能听见不存在的脚步、把队友看成敌人或幻视陷阱","dimension":"玩法","excerpt":"As you delve deeper into the digital areas, your crew's mental state will deteriorate. The mind plays tricks on you. When the madness sets in, you might hear footsteps that aren't there, see your friends as the enemy, or hallucinate traps.","url":"https://store.steampowered.com/app/4162290/","label":"证据原文片段"},{"text":"程序生成的网络沙盒从滤镜社交平台延伸到暗网，每个平台以酸雨、防火墙激光和故障喷泉塑造独立威胁","dimension":"玩法","excerpt":"Enter to the procedurally generated sandbox realms of the modern net! From hyper-filtered social feeds to the terrifying Dark Web, every run is unique. Each platform has a deadly personality and scaling difficulty. Survive cancel-culture acid rain, dodge firewall lasers over lava pits, and navigate erupting glitch geysers.","url":"https://store.steampowered.com/app/4162290/","label":"证据原文片段"},{"text":"不只逃避异常，还能反过来黑入环境陷阱、引爆隐藏逻辑炸弹并启用平台武器清除怪物","dimension":"玩法","excerpt":"Don't just run from anomalies, use the internet against them! Hack complex environmental traps, trigger hidden logic bombs, or activate platform-specific weapons to obliterate glitch-mutated creatures.","url":"https://store.steampowered.com/app/4162290/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2391,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":21607,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":642,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":10999,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2802,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2802,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.5303961481894488,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":81,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":84,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.13253,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"在线合作、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/6be16c0a2cda0a6a3484a17f05abdfbce72d9336/ss_6be16c0a2cda0a6a3484a17f05abdfbce72d9336.1920x1080.jpg?t=1782407765","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/6be16c0a2cda0a6a3484a17f05abdfbce72d9336/ss_6be16c0a2cda0a6a3484a17f05abdfbce72d9336.1920x1080.jpg?t=1782407765","alt":"OK👍 Boomer 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/bb3198f7964618fb522873952954d9e7cd99b021/ss_bb3198f7964618fb522873952954d9e7cd99b021.1920x1080.jpg?t=1782407765","alt":"OK👍 Boomer 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/0d589105fc54e5f8f8eecc7fc1b2d0683e10dd02/ss_0d589105fc54e5f8f8eecc7fc1b2d0683e10dd02.1920x1080.jpg?t=1782407765","alt":"OK👍 Boomer 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/68d66c3cb96db9e18c548eba6ad73dde4d9946b4/ss_68d66c3cb96db9e18c548eba6ad73dde4d9946b4.1920x1080.jpg?t=1782407765","alt":"OK👍 Boomer 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "OK Boomer",
+    "developers": [
+      "Pugsy Studios"
+    ],
+    "publishers": [
+      "GameDev.ist"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-06-25",
+    "tags": [
+      "在线合作",
+      "动作肉鸽",
+      "探索",
+      "轻度Rogue",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "深入互联网会持续侵蚀数字理智，玩家可能听见不存在的脚步、把队友看成敌人或幻视陷阱",
+      "dimension": "玩法",
+      "excerpt": "As you delve deeper into the digital areas, your crew's mental state will deteriorate. The mind plays tricks on you. When the madness sets in, you might hear footsteps that aren't there, see your friends as the enemy, or hallucinate traps.",
+      "url": "https://store.steampowered.com/app/4162290/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "程序生成的网络沙盒从滤镜社交平台延伸到暗网，每个平台以酸雨、防火墙激光和故障喷泉塑造独立威胁",
+      "dimension": "玩法",
+      "excerpt": "Enter to the procedurally generated sandbox realms of the modern net! From hyper-filtered social feeds to the terrifying Dark Web, every run is unique. Each platform has a deadly personality and scaling difficulty. Survive cancel-culture acid rain, dodge firewall lasers over lava pits, and navigate erupting glitch geysers.",
+      "url": "https://store.steampowered.com/app/4162290/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不只逃避异常，还能反过来黑入环境陷阱、引爆隐藏逻辑炸弹并启用平台武器清除怪物",
+      "dimension": "玩法",
+      "excerpt": "Don't just run from anomalies, use the internet against them! Hack complex environmental traps, trigger hidden logic bombs, or activate platform-specific weapons to obliterate glitch-mutated creatures.",
+      "url": "https://store.steampowered.com/app/4162290/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2941,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 23013,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 658,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 14297,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 3464,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 3464,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.4670587079964605,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 69,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 78,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 78.409091,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "OK👍 Boomer位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/6be16c0a2cda0a6a3484a17f05abdfbce72d9336/ss_6be16c0a2cda0a6a3484a17f05abdfbce72d9336.1920x1080.jpg?t=1782407765",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/6be16c0a2cda0a6a3484a17f05abdfbce72d9336/ss_6be16c0a2cda0a6a3484a17f05abdfbce72d9336.1920x1080.jpg?t=1786216933",
+        "alt": "OK👍 Boomer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/bb3198f7964618fb522873952954d9e7cd99b021/ss_bb3198f7964618fb522873952954d9e7cd99b021.1920x1080.jpg?t=1786216933",
+        "alt": "OK👍 Boomer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/0d589105fc54e5f8f8eecc7fc1b2d0683e10dd02/ss_0d589105fc54e5f8f8eecc7fc1b2d0683e10dd02.1920x1080.jpg?t=1786216933",
+        "alt": "OK👍 Boomer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/68d66c3cb96db9e18c548eba6ad73dde4d9946b4/ss_68d66c3cb96db9e18c548eba6ad73dde4d9946b4.1920x1080.jpg?t=1786216933",
+        "alt": "OK👍 Boomer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/3c4041ef2675fe4e115e85a9ea121fceabd9a8b3/ss_3c4041ef2675fe4e115e85a9ea121fceabd9a8b3.1920x1080.jpg?t=1786216933",
+        "alt": "OK👍 Boomer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/66e2bfa70d4805cb17e4dd3268da1fd61e31f53c/ss_66e2bfa70d4805cb17e4dd3268da1fd61e31f53c.1920x1080.jpg?t=1786216933",
+        "alt": "OK👍 Boomer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/c40d192397c87d03915a62ed06353287b06e30b7/ss_c40d192397c87d03915a62ed06353287b06e30b7.1920x1080.jpg?t=1786216933",
+        "alt": "OK👍 Boomer 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/3c67984ceb85716397029e6b2f3d47d7a9e12f75/ss_3c67984ceb85716397029e6b2f3d47d7a9e12f75.1920x1080.jpg?t=1786216933",
+        "alt": "OK👍 Boomer 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

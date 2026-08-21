@@ -1,1 +1,166 @@
-{"identity":{"original_title":"时光超市","developers":["怀旧游戏小东"],"publishers":["怀旧游戏小东"],"release_status":"released","release_date":"2026-03-05","tags":["休闲","模拟","塔防","2.5D画面","俯视角"]},"hooks":[{"text":"从街角小便利店起步，亲手摆货架、采购商品并接待顾客，把日常经营逐步扩成完整超市","dimension":"玩法","excerpt":"你将从一家街角小便利店起步，亲自摆放货架、采购商品，与顾客打交道，一点点把小店打理起来。","url":"https://store.steampowered.com/app/3687810/","label":"证据原文片段"},{"text":"每位顾客需求不同，需要观察喜好并及时调整商品结构与库存，而不是只追求统一铺货","dimension":"玩法","excerpt":"每位顾客都有不同的需求，你需要观察他们的喜好，调整商品结构、控制库存。","url":"https://store.steampowered.com/app/3687810/","label":"证据原文片段"},{"text":"店铺口碑提升后会解锁更大营业面积、更多商品种类和新的顾客类型，让成长直接改变经营变量","dimension":"玩法","excerpt":"随着店铺口碑提升，你还将解锁更大的营业面积、更多的商品种类，以及新顾客类型等内容。","url":"https://store.steampowered.com/app/3687810/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":120541,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1190,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":0,"unit":"USD","state":"zero","date":"2026-07-23"},{"id":"players","label":"玩家数","value":120541,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":120541,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":24.234672761994055,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":642,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.435055,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"休闲、模拟","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/0f8405c626d7666838fb334e77c0c25eeda74079/ss_0f8405c626d7666838fb334e77c0c25eeda74079.1920x1080.jpg?t=1772764487","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/0f8405c626d7666838fb334e77c0c25eeda74079/ss_0f8405c626d7666838fb334e77c0c25eeda74079.1920x1080.jpg?t=1772764487","alt":"时光超市 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/b71abc99c05bf95b0d6dd8bd9e8463097fadcb05/ss_b71abc99c05bf95b0d6dd8bd9e8463097fadcb05.1920x1080.jpg?t=1772764487","alt":"时光超市 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/20d4cc4e4da9b9e4e4a57687693f3866f63c87d7/ss_20d4cc4e4da9b9e4e4a57687693f3866f63c87d7.1920x1080.jpg?t=1772764487","alt":"时光超市 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/11c27123f7ed81b3fad61f0def5b13b8ee8cc819/ss_11c27123f7ed81b3fad61f0def5b13b8ee8cc819.1920x1080.jpg?t=1772764487","alt":"时光超市 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "时光超市",
+    "developers": [
+      "怀旧游戏小东"
+    ],
+    "publishers": [
+      "怀旧游戏小东"
+    ],
+    "release_status": "released",
+    "release_date": "2026-03-05",
+    "tags": [
+      "休闲",
+      "模拟",
+      "塔防",
+      "2.5D画面",
+      "俯视角"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "从街角小便利店起步，亲手摆货架、采购商品并接待顾客，把日常经营逐步扩成完整超市",
+      "dimension": "玩法",
+      "excerpt": "你将从一家街角小便利店起步，亲自摆放货架、采购商品，与顾客打交道，一点点把小店打理起来。",
+      "url": "https://store.steampowered.com/app/3687810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每位顾客需求不同，需要观察喜好并及时调整商品结构与库存，而不是只追求统一铺货",
+      "dimension": "玩法",
+      "excerpt": "每位顾客都有不同的需求，你需要观察他们的喜好，调整商品结构、控制库存。",
+      "url": "https://store.steampowered.com/app/3687810/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "店铺口碑提升后会解锁更大营业面积、更多商品种类和新的顾客类型，让成长直接改变经营变量",
+      "dimension": "玩法",
+      "excerpt": "随着店铺口碑提升，你还将解锁更大的营业面积、更多的商品种类，以及新顾客类型等内容。",
+      "url": "https://store.steampowered.com/app/3687810/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 131884,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 2557,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1223,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 0,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 131884,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 131884,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 23.955125193035222,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 685,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 99,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 98.535871,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "时光超市位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/0f8405c626d7666838fb334e77c0c25eeda74079/ss_0f8405c626d7666838fb334e77c0c25eeda74079.1920x1080.jpg?t=1772764487",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/0f8405c626d7666838fb334e77c0c25eeda74079/ss_0f8405c626d7666838fb334e77c0c25eeda74079.1920x1080.jpg?t=1772764487",
+        "alt": "时光超市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/b71abc99c05bf95b0d6dd8bd9e8463097fadcb05/ss_b71abc99c05bf95b0d6dd8bd9e8463097fadcb05.1920x1080.jpg?t=1772764487",
+        "alt": "时光超市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/20d4cc4e4da9b9e4e4a57687693f3866f63c87d7/ss_20d4cc4e4da9b9e4e4a57687693f3866f63c87d7.1920x1080.jpg?t=1772764487",
+        "alt": "时光超市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/11c27123f7ed81b3fad61f0def5b13b8ee8cc819/ss_11c27123f7ed81b3fad61f0def5b13b8ee8cc819.1920x1080.jpg?t=1772764487",
+        "alt": "时光超市 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687810/90201d2a8faa8e51aa9a54a68240768a47c8f9a1/ss_90201d2a8faa8e51aa9a54a68240768a47c8f9a1.1920x1080.jpg?t=1772764487",
+        "alt": "时光超市 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

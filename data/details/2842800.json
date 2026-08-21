@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Dream of Corpse Lady","developers":["HT3 Studio"],"publishers":["INDIECN"],"release_status":"released","release_date":"2026-01-11","tags":["策略","卡牌游戏","卡牌对战","回合制战术","女性主角"]},"hooks":[{"text":"扮演苏醒的尸娘，指挥傀儡军团并收割游魂作为资源，把世界变成私人藏品。","dimension":"题材","excerpt":"You’ll take on the role of the awakened Corpse Lady , commanding an army of puppets and harvesting wandering souls as resources, to turn the entire world into your personal \"collection\".","url":"https://store.steampowered.com/app/2842800/","label":"证据原文片段"},{"text":"尸娘升级时赐予追随者“黑暗剧本”，获得巨额力量的同时也附带致命诅咒。","dimension":"玩法","excerpt":"Every time Corpse Lady levels up, she grants followers a \"Dark Script\". These scripts provide massive power boosts—but beware, overwhelming strength always comes with a deadly curse.","url":"https://store.steampowered.com/app/2842800/","label":"证据原文片段"},{"text":"傀儡在战斗中倒下后，只要本局仍继续，尸娘就能弹指将其复活。","dimension":"玩法","excerpt":"Whenever a puppet falls in battle, as long as the game goes on, Corpse Lady can bring it back with a mere snap of her fingers—even if the puppet itself has been \"dead\" for eons, heh.","url":"https://store.steampowered.com/app/2842800/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":144648,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":83883,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6825,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":817892,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":158553,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":158553,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.125956006304165,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2211,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.594948,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、卡牌游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/c9a6a0d892183ed3f106fa2a7a8c5a6b28c73207/ss_c9a6a0d892183ed3f106fa2a7a8c5a6b28c73207.1920x1080.jpg?t=1784096804","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/c9a6a0d892183ed3f106fa2a7a8c5a6b28c73207/ss_c9a6a0d892183ed3f106fa2a7a8c5a6b28c73207.1920x1080.jpg?t=1784096804","alt":"尸姬之梦 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/a2f91832ba5b9bf7c8fa5b4bb8f610b796e7eeeb/ss_a2f91832ba5b9bf7c8fa5b4bb8f610b796e7eeeb.1920x1080.jpg?t=1784096804","alt":"尸姬之梦 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/6476cd2af6dc3c724a78e7e8ff268a913af06908/ss_6476cd2af6dc3c724a78e7e8ff268a913af06908.1920x1080.jpg?t=1784096804","alt":"尸姬之梦 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/dfd1568be93868ee91aba08e03387ad47348e76d/ss_dfd1568be93868ee91aba08e03387ad47348e76d.1920x1080.jpg?t=1784096804","alt":"尸姬之梦 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Dream of Corpse Lady",
+    "developers": [
+      "HT3 Studio"
+    ],
+    "publishers": [
+      "INDIECN"
+    ],
+    "release_status": "released",
+    "release_date": "2026-01-11",
+    "tags": [
+      "策略",
+      "卡牌游戏",
+      "卡牌对战",
+      "回合制战术",
+      "女性主角"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "扮演苏醒的尸娘，指挥傀儡军团并收割游魂作为资源，把世界变成私人藏品。",
+      "dimension": "题材",
+      "excerpt": "You’ll take on the role of the awakened Corpse Lady , commanding an army of puppets and harvesting wandering souls as resources, to turn the entire world into your personal \"collection\".",
+      "url": "https://store.steampowered.com/app/2842800/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "尸娘升级时赐予追随者“黑暗剧本”，获得巨额力量的同时也附带致命诅咒。",
+      "dimension": "玩法",
+      "excerpt": "Every time Corpse Lady levels up, she grants followers a \"Dark Script\". These scripts provide massive power boosts—but beware, overwhelming strength always comes with a deadly curse.",
+      "url": "https://store.steampowered.com/app/2842800/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "傀儡在战斗中倒下后，只要本局仍继续，尸娘就能弹指将其复活。",
+      "dimension": "玩法",
+      "excerpt": "Whenever a puppet falls in battle, as long as the game goes on, Corpse Lady can bring it back with a mere snap of her fingers—even if the puppet itself has been \"dead\" for eons, heh.",
+      "url": "https://store.steampowered.com/app/2842800/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 152231,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 85659,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7130,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 867388,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 166635,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 166635,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.167259408685606,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2030,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.451099,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "尸姬之梦位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/c9a6a0d892183ed3f106fa2a7a8c5a6b28c73207/ss_c9a6a0d892183ed3f106fa2a7a8c5a6b28c73207.1920x1080.jpg?t=1784096804",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/c9a6a0d892183ed3f106fa2a7a8c5a6b28c73207/ss_c9a6a0d892183ed3f106fa2a7a8c5a6b28c73207.1920x1080.jpg?t=1785554656",
+        "alt": "尸姬之梦 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/a2f91832ba5b9bf7c8fa5b4bb8f610b796e7eeeb/ss_a2f91832ba5b9bf7c8fa5b4bb8f610b796e7eeeb.1920x1080.jpg?t=1785554656",
+        "alt": "尸姬之梦 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/6476cd2af6dc3c724a78e7e8ff268a913af06908/ss_6476cd2af6dc3c724a78e7e8ff268a913af06908.1920x1080.jpg?t=1785554656",
+        "alt": "尸姬之梦 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/dfd1568be93868ee91aba08e03387ad47348e76d/ss_dfd1568be93868ee91aba08e03387ad47348e76d.1920x1080.jpg?t=1785554656",
+        "alt": "尸姬之梦 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/4fe97b5cdb953e4e6f8f97a59023566e94263e7b/ss_4fe97b5cdb953e4e6f8f97a59023566e94263e7b.1920x1080.jpg?t=1785554656",
+        "alt": "尸姬之梦 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/fa271397d54041c9622485554adbf0a2efb35729/ss_fa271397d54041c9622485554adbf0a2efb35729.1920x1080.jpg?t=1785554656",
+        "alt": "尸姬之梦 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/3aa6320a6a32bde501e48f55fcfaa6f59294dd23/ss_3aa6320a6a32bde501e48f55fcfaa6f59294dd23.1920x1080.jpg?t=1785554656",
+        "alt": "尸姬之梦 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842800/fabece20c03cd4976527c48f927549184186a1da/ss_fabece20c03cd4976527c48f927549184186a1da.1920x1080.jpg?t=1785554656",
+        "alt": "尸姬之梦 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,242 @@
-{"identity":{"original_title":"Swarm Grinder","developers":["Last Bite Games"],"publishers":["Null State Protocol","Gamersky Games"],"release_status":"released","release_date":"2024-04-22","tags":["类Rogue","轻度Rogue","动作肉鸽","弹幕射击","程序生成"]},"hooks":[{"text":"程序生成地图中的虫巢细胞会持续扩散进化，一旦触发就孵化成包围机甲的虫群","dimension":"玩法","excerpt":"At the start of every expedition, the map is procedurally generated , and it's crawling with alien bugs. The cells constantly spread and evolve. When triggered, the bugs burst out from the cells to swarm you down!","url":"https://store.steampowered.com/app/1375900/","label":"证据原文片段"},{"text":"每局最多装备五项自动主动技或被动技，分别升级后再组合出专属协同构筑","dimension":"玩法","excerpt":"Equip up to five skills each run: active ones that strike automatically or passive ones that boost your abilities. Upgrade each skill differently to maximize their potential. Discover unique synergies between skills and upgrades to optimize your build.","url":"https://store.steampowered.com/app/1375900/","label":"证据原文片段"},{"text":"利用废弃采矿系统收集升级零件，并从外星矿物中提取Bioshard","dimension":"玩法","excerpt":"Dive into the tamed sectors, use the mining system to collect upgrade parts and extract the Bioshards from alien minerals.","url":"https://store.steampowered.com/app/1375900/","label":"证据原文片段"}],"opinions":[{"text":"击杀敌人不直接获得经验，成长反馈缺失。","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"missing the joy of gaining exp from killing enemies.","url":"https://youtu.be/OmJWgJpNQM8","label":"证据原文片段"}]},{"text":"不同角色强度差距较大。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"较大的角色差距","url":"https://steamcommunity.com/profiles/76561199085055845/recommended/1375900/","label":"证据原文片段"}]},{"text":"本地化存在明显机翻和错误表述。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"翻译中存在较重的机翻痕迹，有模糊甚至错误的表述","url":"https://steamcommunity.com/profiles/76561199085055845/recommended/1375900/","label":"证据原文片段"}]},{"text":"职业成长目标过度浪费时间。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"it's grindy in a way that is incredibly disrespectful of your time.","url":"https://steamcommunity.com/id/valore/recommended/1375900/","label":"证据原文片段"}]},{"text":"快节奏幸存者玩法加入的新机制带来惊喜。","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"A more fast-paced survivor-like game that adds a few new mechanics in the mix which positively surprised me.","url":"https://www.youtube.com/watch?v=7ouC_24Hc08","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":87470,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":72443,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5987,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":457965,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":90258,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":90258,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.788167366055031,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1201,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":78,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":77.953411,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["击杀敌人不直接获得经验，成长反馈缺失。","不同角色强度差距较大。","本地化存在明显机翻和错误表述。","职业成长目标过度浪费时间。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_fb64c13ff3f81c4c92080d5b72521c5ae0e7de82.1920x1080.jpg?t=1784447149","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_fb64c13ff3f81c4c92080d5b72521c5ae0e7de82.1920x1080.jpg?t=1784447149","alt":"血色矿脉 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_b83ee1b7dfc2db07e2b3f9b84558a13c2a41b1d1.1920x1080.jpg?t=1784447149","alt":"血色矿脉 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_2a085ee0dbb132f4b685f3c103a2299192778ec2.1920x1080.jpg?t=1784447149","alt":"血色矿脉 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_f7f8956b77594e119bf95fd109a389e5bfdbb1f2.1920x1080.jpg?t=1784447149","alt":"血色矿脉 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Swarm Grinder",
+    "developers": [
+      "Last Bite Games"
+    ],
+    "publishers": [
+      "Null State Protocol",
+      "Gamersky Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-04-22",
+    "tags": [
+      "类Rogue",
+      "轻度Rogue",
+      "动作肉鸽",
+      "弹幕射击",
+      "动作肉鸽"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "程序生成地图中的虫巢细胞会持续扩散进化，一旦触发就孵化成包围机甲的虫群",
+      "dimension": "玩法",
+      "excerpt": "At the start of every expedition, the map is procedurally generated , and it's crawling with alien bugs. The cells constantly spread and evolve. When triggered, the bugs burst out from the cells to swarm you down!",
+      "url": "https://store.steampowered.com/app/1375900/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每局最多装备五项自动主动技或被动技，分别升级后再组合出专属协同构筑",
+      "dimension": "玩法",
+      "excerpt": "Equip up to five skills each run: active ones that strike automatically or passive ones that boost your abilities. Upgrade each skill differently to maximize their potential. Discover unique synergies between skills and upgrades to optimize your build.",
+      "url": "https://store.steampowered.com/app/1375900/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "利用废弃采矿系统收集升级零件，并从外星矿物中提取Bioshard",
+      "dimension": "玩法",
+      "excerpt": "Dive into the tamed sectors, use the mining system to collect upgrade parts and extract the Bioshards from alien minerals.",
+      "url": "https://store.steampowered.com/app/1375900/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "击杀敌人不直接获得经验，成长反馈缺失。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "missing the joy of gaining exp from killing enemies.",
+          "url": "https://youtu.be/OmJWgJpNQM8",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "不同角色强度差距较大。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "较大的角色差距",
+          "url": "https://steamcommunity.com/profiles/76561199085055845/recommended/1375900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "本地化存在明显机翻和错误表述。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "翻译中存在较重的机翻痕迹，有模糊甚至错误的表述",
+          "url": "https://steamcommunity.com/profiles/76561199085055845/recommended/1375900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "职业成长目标过度浪费时间。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "it's grindy in a way that is incredibly disrespectful of your time.",
+          "url": "https://steamcommunity.com/id/valore/recommended/1375900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "快节奏幸存者玩法加入的新机制带来惊喜。",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "A more fast-paced survivor-like game that adds a few new mechanics in the mix which positively surprised me.",
+          "url": "https://www.youtube.com/watch?v=7ouC_24Hc08",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 89383,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 72872,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5990,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 464060,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 92227,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 92227,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.763721600005861,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1150,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 78,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 77.842324,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "击杀敌人不直接获得经验，成长反馈缺失。",
+    "不同角色强度差距较大。",
+    "本地化存在明显机翻和错误表述。",
+    "职业成长目标过度浪费时间。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "血色矿脉位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_fb64c13ff3f81c4c92080d5b72521c5ae0e7de82.1920x1080.jpg?t=1784447149",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_fb64c13ff3f81c4c92080d5b72521c5ae0e7de82.1920x1080.jpg?t=1784447149",
+        "alt": "血色矿脉 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_b83ee1b7dfc2db07e2b3f9b84558a13c2a41b1d1.1920x1080.jpg?t=1784447149",
+        "alt": "血色矿脉 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_2a085ee0dbb132f4b685f3c103a2299192778ec2.1920x1080.jpg?t=1784447149",
+        "alt": "血色矿脉 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_f7f8956b77594e119bf95fd109a389e5bfdbb1f2.1920x1080.jpg?t=1784447149",
+        "alt": "血色矿脉 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_1157e8d2e1789ce804017f4143a14a09462bcf40.1920x1080.jpg?t=1784447149",
+        "alt": "血色矿脉 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375900/ss_5613e379d5ad66835cce861c1f8ca6349f1362f7.1920x1080.jpg?t=1784447149",
+        "alt": "血色矿脉 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

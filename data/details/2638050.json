@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Lost For Swords","developers":["MaxBytes"],"publishers":["MaxBytes","Astrolabe Games"],"release_status":"released","release_date":"2025-04-15","tags":["类Rogue","肉鸽卡组构筑","卡组构筑","卡牌游戏","地牢探索"]},"hooks":[{"text":"捡到的装备只能使用一次，每次出手都在消耗不可回收资源","dimension":"玩法","excerpt":"The clue: the equipment you pick up can only be used once! Plan ahead how you spend your resources.","url":"https://store.steampowered.com/app/2638050/","label":"证据原文片段"},{"text":"装备牌与地牢牌混洗后共同铺到棋盘，每层房间都由牌组塑形","dimension":"玩法","excerpt":"Your equipment cards and the cards of the dungeon are shuffled together and placed on the board, creating a unique challenge every time!","url":"https://store.steampowered.com/app/2638050/","label":"证据原文片段"},{"text":"所有行动只需单击，没有背包、菜单与拖牌，却保留完整回合策略","dimension":"玩法","excerpt":"Simple UI, Complex Strategy: every single one of your actions is a simple click. No inventory management, no menus, no card dragging, no busywork. Just pure turn based strategy and tactics!","url":"https://store.steampowered.com/app/2638050/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":13364,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":29232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1534,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":108031,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":15449,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":15449,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.872359174680263,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":306,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":90,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":89.869281,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、肉鸽卡组构筑","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/ss_4ea0ae535c68450f8d27dc0c36f2e1cd8c06c239.1920x1080.jpg?t=1775665370","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/ss_4ea0ae535c68450f8d27dc0c36f2e1cd8c06c239.1920x1080.jpg?t=1775665370","alt":"寻剑迷途 Lost For Swords 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/df5dc2bcb7f26d51d05f9d0010cb438fffc0729f/ss_df5dc2bcb7f26d51d05f9d0010cb438fffc0729f.1920x1080.jpg?t=1775665370","alt":"寻剑迷途 Lost For Swords 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/ss_b42a114f83b14b41504ddb340a0131ad0a857c0a.1920x1080.jpg?t=1775665370","alt":"寻剑迷途 Lost For Swords 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/cdbcc737e1e1d818281faa550dbba1e2e10c10fd/ss_cdbcc737e1e1d818281faa550dbba1e2e10c10fd.1920x1080.jpg?t=1775665370","alt":"寻剑迷途 Lost For Swords 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lost For Swords",
+    "developers": [
+      "MaxBytes"
+    ],
+    "publishers": [
+      "MaxBytes",
+      "Astrolabe Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-04-15",
+    "tags": [
+      "类Rogue",
+      "肉鸽卡组构筑",
+      "卡组构筑",
+      "卡牌游戏",
+      "地牢探索"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "捡到的装备只能使用一次，每次出手都在消耗不可回收资源",
+      "dimension": "玩法",
+      "excerpt": "The clue: the equipment you pick up can only be used once! Plan ahead how you spend your resources.",
+      "url": "https://store.steampowered.com/app/2638050/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "装备牌与地牢牌混洗后共同铺到棋盘，每层房间都由牌组塑形",
+      "dimension": "玩法",
+      "excerpt": "Your equipment cards and the cards of the dungeon are shuffled together and placed on the board, creating a unique challenge every time!",
+      "url": "https://store.steampowered.com/app/2638050/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "所有行动只需单击，没有背包、菜单与拖牌，却保留完整回合策略",
+      "dimension": "玩法",
+      "excerpt": "Simple UI, Complex Strategy: every single one of your actions is a simple click. No inventory management, no menus, no card dragging, no busywork. Just pure turn based strategy and tactics!",
+      "url": "https://store.steampowered.com/app/2638050/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 13442,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 29405,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1542,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 109238,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 15573,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 15573,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.76106554803026,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 247,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 90,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 89.90228,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "寻剑迷途 Lost For Swords位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/ss_4ea0ae535c68450f8d27dc0c36f2e1cd8c06c239.1920x1080.jpg?t=1775665370",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/ss_4ea0ae535c68450f8d27dc0c36f2e1cd8c06c239.1920x1080.jpg?t=1775665370",
+        "alt": "寻剑迷途 Lost For Swords 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/df5dc2bcb7f26d51d05f9d0010cb438fffc0729f/ss_df5dc2bcb7f26d51d05f9d0010cb438fffc0729f.1920x1080.jpg?t=1775665370",
+        "alt": "寻剑迷途 Lost For Swords 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/ss_b42a114f83b14b41504ddb340a0131ad0a857c0a.1920x1080.jpg?t=1775665370",
+        "alt": "寻剑迷途 Lost For Swords 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/cdbcc737e1e1d818281faa550dbba1e2e10c10fd/ss_cdbcc737e1e1d818281faa550dbba1e2e10c10fd.1920x1080.jpg?t=1775665370",
+        "alt": "寻剑迷途 Lost For Swords 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/ss_54f085b44a939b51b7ae0b85fe86d7b9e0d6bf7e.1920x1080.jpg?t=1775665370",
+        "alt": "寻剑迷途 Lost For Swords 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638050/ss_86efad869e5a1152fde43c2d64f7bd462bec7403.1920x1080.jpg?t=1775665370",
+        "alt": "寻剑迷途 Lost For Swords 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Oblivion Override","developers":["Humble Mill"],"publishers":["XD"],"release_status":"released","release_date":"2024-01-24","tags":["动作肉鸽","砍杀","机器人","类Rogue","永久死亡"]},"hooks":[{"text":"用闪避、二段跳与跑墙穿越庞大地下网络","dimension":"玩法","excerpt":"Master dodges, double jumps, and wall runs to traverse the sprawling underground network.","url":"https://store.steampowered.com/app/1952370/","label":"证据原文片段"},{"text":"26多种专用武器各有独立机制、战斗编排与强化技能效果","dimension":"玩法","excerpt":"Equip your robot with over 26+ specialized weapons, each featuring unique mechanics, combat choreography, and augmented skill effects.","url":"https://store.steampowered.com/app/1952370/","label":"证据原文片段"},{"text":"六台战斗机体从忍者到雷电极客各有专属能力，局内随时进行原子进化","dimension":"玩法","excerpt":"Unlock six state-of-the-art combat machines and charge into action: from ninja and thunder geek to viking warrior and feline assassin. Centered around their exclusive abilities, Atomic Evolution can be accessed at any point during your run.","url":"https://store.steampowered.com/app/1952370/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":65104,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":184286,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":12671,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":759809,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":74044,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":74044,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.524308877542172,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2035,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.154791,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、砍杀","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_3fc9e4ea195d87f46a9060adb3bd4c2d40200aa1.1920x1080.jpg?t=1757054521","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_3fc9e4ea195d87f46a9060adb3bd4c2d40200aa1.1920x1080.jpg?t=1757054521","alt":"湮灭线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_4d1dbfd0b226501d691b5e00642f690ef5969089.1920x1080.jpg?t=1757054521","alt":"湮灭线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_7dd62862e8116792806bc44c4109d2b7bc6b209f.1920x1080.jpg?t=1757054521","alt":"湮灭线 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_7a71403e95ec420c6bad5e57d7a81ccfca75422c.1920x1080.jpg?t=1757054521","alt":"湮灭线 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Oblivion Override",
+    "developers": [
+      "Humble Mill"
+    ],
+    "publishers": [
+      "XD"
+    ],
+    "release_status": "released",
+    "release_date": "2024-01-24",
+    "tags": [
+      "动作肉鸽",
+      "砍杀",
+      "二维平台跳跃",
+      "机器人",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用闪避、二段跳与跑墙穿越庞大地下网络",
+      "dimension": "玩法",
+      "excerpt": "Master dodges, double jumps, and wall runs to traverse the sprawling underground network.",
+      "url": "https://store.steampowered.com/app/1952370/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "26多种专用武器各有独立机制、战斗编排与强化技能效果",
+      "dimension": "玩法",
+      "excerpt": "Equip your robot with over 26+ specialized weapons, each featuring unique mechanics, combat choreography, and augmented skill effects.",
+      "url": "https://store.steampowered.com/app/1952370/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "六台战斗机体从忍者到雷电极客各有专属能力，局内随时进行原子进化",
+      "dimension": "玩法",
+      "excerpt": "Unlock six state-of-the-art combat machines and charge into action: from ninja and thunder geek to viking warrior and feline assassin. Centered around their exclusive abilities, Atomic Evolution can be accessed at any point during your run.",
+      "url": "https://store.steampowered.com/app/1952370/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "优点： 整体完成度很高，毕竟在目前国产EA容易出事的情况下，完成度是很重要的一环，游戏目前至少能保证30+小时的游戏时长 武器系统优秀-每把武器的动作招式丰富、手感流畅、打击感强。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "优点： 整体完成度很高，毕竟在目前国产EA容易出事的情况下，完成度是很重要的一环，游戏目前至少能保证30+小时的游戏时长 武器系统优秀-每把武器的动作招式丰富、手感流畅、打击感强。",
+          "url": "https://steamcommunity.com/id/MrMiTing/recommended/1952370/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "【内容量以及游戏设计优秀】 抛开战斗反馈，不管是内容量还是游戏设计，作者都是花了大功夫的，总结来说就是： 【战斗系统体验良好】BD流派还是有的，而且3小时就能摸清楚自己想玩的思路。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "【内容量以及游戏设计优秀】 抛开战斗反馈，不管是内容量还是游戏设计，作者都是花了大功夫的，总结来说就是： 【战斗系统体验良好】BD流派还是有的，而且3小时就能摸清楚自己想玩的思路。",
+          "url": "https://steamcommunity.com/id/daarpg/recommended/1952370/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩起来还是比较爽的，比起死亡细胞，有自己独特的DNA系统，比死亡细胞简单，主要还是图和boss太少，能狗住第一张图后基本没什么压力一路无双了。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "玩起来还是比较爽的，比起死亡细胞，有自己独特的DNA系统，比死亡细胞简单，主要还是图和boss太少，能狗住第一张图后基本没什么压力一路无双了。",
+          "url": "https://steamcommunity.com/profiles/76561198393690710/recommended/1952370/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "之前的ea版本高警戒（7/8）之下我只有使用维克+斧，用攒大招进战斗然后拿到吸血核心的情况下才能比较顺利通关警戒8，结果嚯嚯正式版一看，你把唯一能爽的维克给砍了（但是更新后我依然是使用维克+斧+吸血通关了警戒8），现状是菜鸟玩家在高警戒下大多数机甲和武器都玩不转…… 看看现在的警戒8，我更新后用新机甲拿着你们送的扳手武器进第一张图打第一波战斗，打个霸体大怪砍了几十刀才砍死真把我乐死了，究竟是什么原因非得让你们坚持把数值做的这么保守呢？",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "之前的ea版本高警戒（7/8）之下我只有使用维克+斧，用攒大招进战斗然后拿到吸血核心的情况下才能比较顺利通关警戒8，结果嚯嚯正式版一看，你把唯一能爽的维克给砍了（但是更新后我依然是使用维克+斧+吸血通关了警戒8），现状是菜鸟玩家在高警戒下大多数机甲和武器都玩不转…… 看看现在的警戒8，我更新后用新机甲拿着你们送的扳手武器进第一张图打第一波战斗，打个霸体大怪砍了几十刀才砍死真把我乐死了，究竟是什么原因非得让你们坚持把数值做的这么保守呢？",
+          "url": "https://steamcommunity.com/id/yishuihang321/recommended/1952370/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Oblivion Override is one of the best action roguelikes, that provides a lot of variety and engaging gameplay elements, so you can enjoy the game for many-many hours.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Oblivion Override is one of the best action roguelikes, that provides a lot of variety and engaging gameplay elements, so you can enjoy the game for many-many hours.",
+          "url": "https://store.steampowered.com/curator/42708092-I%2527m-smth-of-a-reviewer-myself%257E/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "An innovative and interesting game that pay great attention to all aspects, from the rapid pace of combat to other notable details.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "An innovative and interesting game that pay great attention to all aspects, from the rapid pace of combat to other notable details.",
+          "url": "https://store.steampowered.com/curator/45013120-Kitty-Cat-Reviews/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Oblivion Override gameplay is polished enough to almost call it perfect.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Oblivion Override gameplay is polished enough to almost call it perfect.",
+          "url": "https://store.steampowered.com/curator/44992561-Danmaku-Disciples/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Oblivion Override - one of the most potent and engaging metroidvanias (or action platformers) and there's no questions about the gameplay quality.",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Oblivion Override - one of the most potent and engaging metroidvanias (or action platformers) and there's no questions about the gameplay quality.",
+          "url": "https://store.steampowered.com/curator/32993708-The-Best-Platform-Games/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 67129,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 182821,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 12671,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 777701,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 76376,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 76376,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.41711730331163,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1688,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.180794,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "湮灭线位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_3fc9e4ea195d87f46a9060adb3bd4c2d40200aa1.1920x1080.jpg?t=1757054521",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_3fc9e4ea195d87f46a9060adb3bd4c2d40200aa1.1920x1080.jpg?t=1757054521",
+        "alt": "湮灭线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_4d1dbfd0b226501d691b5e00642f690ef5969089.1920x1080.jpg?t=1757054521",
+        "alt": "湮灭线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_7dd62862e8116792806bc44c4109d2b7bc6b209f.1920x1080.jpg?t=1757054521",
+        "alt": "湮灭线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_7a71403e95ec420c6bad5e57d7a81ccfca75422c.1920x1080.jpg?t=1757054521",
+        "alt": "湮灭线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_58705085e4eca33b72a5ba9a2c0e32227500c2b0.1920x1080.jpg?t=1757054521",
+        "alt": "湮灭线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_df235ac4fe1b4bc3576ddc572805033d71238589.1920x1080.jpg?t=1757054521",
+        "alt": "湮灭线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_7f4877ac39778959bb18a6b9e4b0abc2c20edfe7.1920x1080.jpg?t=1757054521",
+        "alt": "湮灭线 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952370/ss_d21cb44f166a899f5940b1dcfad79dd3710ec230.1920x1080.jpg?t=1757054521",
+        "alt": "湮灭线 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

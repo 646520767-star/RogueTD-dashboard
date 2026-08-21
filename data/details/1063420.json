@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Void Crew","developers":["Hutlihut Games"],"publishers":["Focus Entertainment"],"release_status":"released","release_date":"2024-11-25","tags":["合作","多人游戏","轻度Rogue","玩家对环境","角色自定义"]},"hooks":[{"text":"1至6人分工驾驶、炮塔、抢修、充能、造弹，并出舱修船或搜刮残骸","dimension":"玩法","excerpt":"Pilot the ship, man the turrets, perform emergency repairs, recharge the power cells, utilize space station weaponry, fabricate munitions and exit the ship on extravehicular missions - be it patching the ship hull or scavenging derelict wrecks.","url":"https://store.steampowered.com/app/1063420/","label":"证据原文片段"},{"text":"弹性船员职责与随时安装的舰船系统，让队伍在航行中快速换战术","dimension":"玩法","excerpt":"Your ship, your way to play: With a flexible player role system and on-the-go installable ship systems you’ll be able to switch your strategies faster than a rogue asteroid changes course.","url":"https://store.steampowered.com/app/1063420/","label":"证据原文片段"},{"text":"赢下太空战后搜刮珍贵材料，用战利品升级飞船以应对更恶劣环境","dimension":"玩法","excerpt":"The victor claims the spoils, and you’ll need to scavenge valuable materials to upgrade and face the direst conditions with top notch equipment … and don’t forget to go full fashion victim and customize your character's spacesuit to fly in style and boldly go where you probably shouldn’t have!","url":"https://store.steampowered.com/app/1063420/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":561694,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":568098,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":59653,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":10269406,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":665435,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":665435,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":14.169485330162125,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":8383,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.429764,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"合作、多人游戏","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/2a2fa013aa368c5541a1efa8d0a2a903cfc22215/ss_2a2fa013aa368c5541a1efa8d0a2a903cfc22215.1920x1080.jpg?t=1780298639","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/2a2fa013aa368c5541a1efa8d0a2a903cfc22215/ss_2a2fa013aa368c5541a1efa8d0a2a903cfc22215.1920x1080.jpg?t=1780298639","alt":"虚空航船 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/4e7bd553e0c2c3b832fc37ded3e8b90a541f00d8/ss_4e7bd553e0c2c3b832fc37ded3e8b90a541f00d8.1920x1080.jpg?t=1780298639","alt":"虚空航船 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_f8a4f75eabe60db2247bb432786485995ec617fa.1920x1080.jpg?t=1780298639","alt":"虚空航船 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_7b77f2f6a2afc5542dcf6155a77748bee6a7a37f.1920x1080.jpg?t=1780298639","alt":"虚空航船 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Void Crew",
+    "developers": [
+      "Hutlihut Games"
+    ],
+    "publishers": [
+      "Focus Entertainment"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-25",
+    "tags": [
+      "合作",
+      "轻度Rogue",
+      "多人游戏",
+      "轻度Rogue",
+      "玩家对环境"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "1至6人分工驾驶、炮塔、抢修、充能、造弹，并出舱修船或搜刮残骸",
+      "dimension": "玩法",
+      "excerpt": "Pilot the ship, man the turrets, perform emergency repairs, recharge the power cells, utilize space station weaponry, fabricate munitions and exit the ship on extravehicular missions - be it patching the ship hull or scavenging derelict wrecks.",
+      "url": "https://store.steampowered.com/app/1063420/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "弹性船员职责与随时安装的舰船系统，让队伍在航行中快速换战术",
+      "dimension": "玩法",
+      "excerpt": "Your ship, your way to play: With a flexible player role system and on-the-go installable ship systems you’ll be able to switch your strategies faster than a rogue asteroid changes course.",
+      "url": "https://store.steampowered.com/app/1063420/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "赢下太空战后搜刮珍贵材料，用战利品升级飞船以应对更恶劣环境",
+      "dimension": "玩法",
+      "excerpt": "The victor claims the spoils, and you’ll need to scavenge valuable materials to upgrade and face the direst conditions with top notch equipment … and don’t forget to go full fashion victim and customize your character's spacesuit to fly in style and boldly go where you probably shouldn’t have!",
+      "url": "https://store.steampowered.com/app/1063420/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 573176,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 571466,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 59780,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 10436672,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 679199,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 679199,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.512190174999322,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 6540,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.410074,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "虚空航船位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/2a2fa013aa368c5541a1efa8d0a2a903cfc22215/ss_2a2fa013aa368c5541a1efa8d0a2a903cfc22215.1920x1080.jpg?t=1780298639",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/2a2fa013aa368c5541a1efa8d0a2a903cfc22215/ss_2a2fa013aa368c5541a1efa8d0a2a903cfc22215.1920x1080.jpg?t=1780298639",
+        "alt": "虚空航船 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/4e7bd553e0c2c3b832fc37ded3e8b90a541f00d8/ss_4e7bd553e0c2c3b832fc37ded3e8b90a541f00d8.1920x1080.jpg?t=1780298639",
+        "alt": "虚空航船 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_f8a4f75eabe60db2247bb432786485995ec617fa.1920x1080.jpg?t=1780298639",
+        "alt": "虚空航船 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_7b77f2f6a2afc5542dcf6155a77748bee6a7a37f.1920x1080.jpg?t=1780298639",
+        "alt": "虚空航船 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_c21e4635c827694c6a6579723a39fc06e796b244.1920x1080.jpg?t=1780298639",
+        "alt": "虚空航船 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_2f9b724e19547961d2acc4b505e599bd0523c8cf.1920x1080.jpg?t=1780298639",
+        "alt": "虚空航船 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_9992b0191f0c1e7fe47880852290f58e83539a3e.1920x1080.jpg?t=1780298639",
+        "alt": "虚空航船 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063420/ss_64552bbe3acf1b406f774f833efd69346b3364a0.1920x1080.jpg?t=1780298639",
+        "alt": "虚空航船 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

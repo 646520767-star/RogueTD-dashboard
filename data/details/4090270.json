@@ -1,1 +1,262 @@
-{"identity":{"original_title":"BastionOS","developers":["Feral Paw"],"publishers":["Feral Paw"],"release_status":"released","release_date":"2026-04-28","tags":["增量成长","街机","动作","休闲","休闲放松"]},"hooks":[{"text":"手动瞄准塔炮并争抢敌人掉落资源","dimension":"玩法","excerpt":"//Select a level, and aim your tower's artillery towards incoming enemies. BOOM! Grab any precious resources the enemies drop.","url":"https://store.steampowered.com/app/4090270/","label":"证据原文片段"},{"text":"塔楼必然倒塌后以更强武装重新升起","dimension":"玩法","excerpt":"//The tower will inevitably fall. Under your command, it will rise even stronger. Fortify your tower with weapons and upgrades.","url":"https://store.steampowered.com/app/4090270/","label":"证据原文片段"},{"text":"科技军备竞赛对抗不断扩张的机器军团","dimension":"玩法","excerpt":"//Research new and increasingly powerful tech. //Defend the Bastion until the end. You and your weapons research program are the last line of defense against the machine army.","url":"https://store.steampowered.com/app/4090270/","label":"证据原文片段"}],"opinions":[{"text":"复古视觉风格很有吸引力。","dimension":"画风","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"Love the retro vibe","url":"https://www.youtube.com/watch?v=-1f4zvchnYA","label":"证据原文片段"}]},{"text":"点错技能会拖慢进度并导致卡关。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"got stuck a couple of times because of I bought the 'wrong' skills","url":"https://steamcommunity.com/id/fromthemoonx/recommended/4090270/","label":"证据原文片段"}]},{"text":"后期白色准心容易被敌人和子弹淹没。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期敌人和子弹变多后白色准心偶尔会看不到。","url":"https://steamcommunity.com/profiles/76561198060659624/recommended/4090270/","label":"证据原文片段"}]},{"text":"瞄准射击和收集资源的操作令人烦躁。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Having to aim to shoot and collect resources felt annoying","url":"https://steamcommunity.com/id/fromthemoonx/recommended/4090270/","label":"证据原文片段"}]},{"text":"缺少有效色盲支持。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The game does a very poor job providing other ways to distinguish enemies","url":"https://steamcommunity.com/id/louderup/recommended/4090270/","label":"证据原文片段"}]},{"text":"武器与成长系统丰富。","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"武器种类和成长系统也挺丰富","url":"https://steamcommunity.com/id/za_warudo/recommended/4090270/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":3629,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":2542,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":166,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6874,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":3696,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":3696,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.248999813073441,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":153,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":97.402597,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["点错技能会拖慢进度并导致卡关。","后期白色准心容易被敌人和子弹淹没。","瞄准射击和收集资源的操作令人烦躁。","缺少有效色盲支持。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/ed5ba09a1c89e0c745c193d0a57bd4b29fd58159/ss_ed5ba09a1c89e0c745c193d0a57bd4b29fd58159.1920x1080.jpg?t=1777547296","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/ed5ba09a1c89e0c745c193d0a57bd4b29fd58159/ss_ed5ba09a1c89e0c745c193d0a57bd4b29fd58159.1920x1080.jpg?t=1777547296","alt":"BastionOS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/6ebfe252cf39fb2e0dd7caf744783496cf34ff59/ss_6ebfe252cf39fb2e0dd7caf744783496cf34ff59.1920x1080.jpg?t=1777547296","alt":"BastionOS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/ba3913ba145eb970281687137194c1dc10a12f20/ss_ba3913ba145eb970281687137194c1dc10a12f20.1920x1080.jpg?t=1777547296","alt":"BastionOS 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/9d7d0e9d6323e97d5012c10bc05dc09cfb997cc9/ss_9d7d0e9d6323e97d5012c10bc05dc09cfb997cc9.1920x1080.jpg?t=1777547296","alt":"BastionOS 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "BastionOS",
+    "developers": [
+      "Feral Paw"
+    ],
+    "publishers": [
+      "Feral Paw"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-28",
+    "tags": [
+      "增量成长",
+      "街机",
+      "动作",
+      "休闲",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "手动瞄准塔炮并争抢敌人掉落资源",
+      "dimension": "玩法",
+      "excerpt": "//Select a level, and aim your tower's artillery towards incoming enemies. BOOM! Grab any precious resources the enemies drop.",
+      "url": "https://store.steampowered.com/app/4090270/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "塔楼必然倒塌后以更强武装重新升起",
+      "dimension": "玩法",
+      "excerpt": "//The tower will inevitably fall. Under your command, it will rise even stronger. Fortify your tower with weapons and upgrades.",
+      "url": "https://store.steampowered.com/app/4090270/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "科技军备竞赛对抗不断扩张的机器军团",
+      "dimension": "玩法",
+      "excerpt": "//Research new and increasingly powerful tech. //Defend the Bastion until the end. You and your weapons research program are the last line of defense against the machine army.",
+      "url": "https://store.steampowered.com/app/4090270/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "复古视觉风格很有吸引力。",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "Love the retro vibe",
+          "url": "https://www.youtube.com/watch?v=-1f4zvchnYA",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "点错技能会拖慢进度并导致卡关。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "got stuck a couple of times because of I bought the 'wrong' skills",
+          "url": "https://steamcommunity.com/id/fromthemoonx/recommended/4090270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期白色准心容易被敌人和子弹淹没。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期敌人和子弹变多后白色准心偶尔会看不到。",
+          "url": "https://steamcommunity.com/profiles/76561198060659624/recommended/4090270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "瞄准射击和收集资源的操作令人烦躁。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Having to aim to shoot and collect resources felt annoying",
+          "url": "https://steamcommunity.com/id/fromthemoonx/recommended/4090270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少有效色盲支持。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The game does a very poor job providing other ways to distinguish enemies",
+          "url": "https://steamcommunity.com/id/louderup/recommended/4090270/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "武器与成长系统丰富。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "武器种类和成长系统也挺丰富",
+          "url": "https://steamcommunity.com/id/za_warudo/recommended/4090270/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4993,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3836,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 174,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 11341,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5079,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5079,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.1834832746478785,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 162,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 97,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 96.987952,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "点错技能会拖慢进度并导致卡关。",
+    "后期白色准心容易被敌人和子弹淹没。",
+    "瞄准射击和收集资源的操作令人烦躁。",
+    "缺少有效色盲支持。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "BastionOS位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/ed5ba09a1c89e0c745c193d0a57bd4b29fd58159/ss_ed5ba09a1c89e0c745c193d0a57bd4b29fd58159.1920x1080.jpg?t=1777547296",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/ed5ba09a1c89e0c745c193d0a57bd4b29fd58159/ss_ed5ba09a1c89e0c745c193d0a57bd4b29fd58159.1920x1080.jpg?t=1777547296",
+        "alt": "BastionOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/6ebfe252cf39fb2e0dd7caf744783496cf34ff59/ss_6ebfe252cf39fb2e0dd7caf744783496cf34ff59.1920x1080.jpg?t=1777547296",
+        "alt": "BastionOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/ba3913ba145eb970281687137194c1dc10a12f20/ss_ba3913ba145eb970281687137194c1dc10a12f20.1920x1080.jpg?t=1777547296",
+        "alt": "BastionOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/9d7d0e9d6323e97d5012c10bc05dc09cfb997cc9/ss_9d7d0e9d6323e97d5012c10bc05dc09cfb997cc9.1920x1080.jpg?t=1777547296",
+        "alt": "BastionOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/61c11354d458563d3e2cb2c2bd9672f27bf5d2b4/ss_61c11354d458563d3e2cb2c2bd9672f27bf5d2b4.1920x1080.jpg?t=1777547296",
+        "alt": "BastionOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/14aaad8d414db516d28b0adfe42cc8326808e532/ss_14aaad8d414db516d28b0adfe42cc8326808e532.1920x1080.jpg?t=1777547296",
+        "alt": "BastionOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/e7a1d4196a659e871ad2b8cffb1ac5ed244d303d/ss_e7a1d4196a659e871ad2b8cffb1ac5ed244d303d.1920x1080.jpg?t=1777547296",
+        "alt": "BastionOS 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090270/029ba952f9163b1aaee51c89d540d3e0d9deac1d/ss_029ba952f9163b1aaee51c89d540d3e0d9deac1d.1920x1080.jpg?t=1777547296",
+        "alt": "BastionOS 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

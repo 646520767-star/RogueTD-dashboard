@@ -1,1 +1,283 @@
-{"identity":{"original_title":"Aethermancer","developers":["moi rai games"],"publishers":["offbrand games"],"release_status":"early_access","release_date":"2025-09-23","tags":["抢先体验","类Rogue","策略","日式角色扮演","地牢探索"]},"hooks":[{"text":"怪物永久死亡后以灵魂重生并继承成长","dimension":"玩法","excerpt":"If a monster dies in combat, you’ll lose it. Permanently. But you have the power to defy death by rebirthing their souls.","url":"https://store.steampowered.com/app/2288470/","label":"证据原文片段"},{"text":"四种以太元素驱动回合制策略组合","dimension":"玩法","excerpt":"Manage and harness the four elements of Aether to unleash powerful spells. Consider your synergies and plan your monsters actions.","url":"https://store.steampowered.com/app/2288470/","label":"证据原文片段"},{"text":"技能池会响应前序选择与当前队友","dimension":"玩法","excerpt":"Every monster has a dynamic skill pool that reacts to previous choices and other monsters you have in your team, enabling you to create powerful teams.","url":"https://store.steampowered.com/app/2288470/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":148347,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":481687,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":35589,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2686848,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":152156,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":152156,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":12.56139134399681,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2572,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":91,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":91.321193,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/0309b63b8c84241f8e00416b13b88aa285b9e586/ss_0309b63b8c84241f8e00416b13b88aa285b9e586.1920x1080.jpg?t=1784197592","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/0309b63b8c84241f8e00416b13b88aa285b9e586/ss_0309b63b8c84241f8e00416b13b88aa285b9e586.1920x1080.jpg?t=1784197592","alt":"以太术士 (Aethermancer) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/ss_676a5baf2eccbf382c43f6175ed1791918d05ee1.1920x1080.jpg?t=1784197592","alt":"以太术士 (Aethermancer) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/ss_f8121ac0dd8e2245140d1751dcf3f914c441919d.1920x1080.jpg?t=1784197592","alt":"以太术士 (Aethermancer) 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/c52b121cc825fad41a1fd9d20ebf8a242ad5490a/ss_c52b121cc825fad41a1fd9d20ebf8a242ad5490a.1920x1080.jpg?t=1784197592","alt":"以太术士 (Aethermancer) 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Aethermancer",
+    "developers": [
+      "moi rai games"
+    ],
+    "publishers": [
+      "offbrand games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-09-23",
+    "tags": [
+      "抢先体验",
+      "类Rogue",
+      "轻度Rogue",
+      "类Rogue",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "怪物永久死亡后以灵魂重生并继承成长",
+      "dimension": "玩法",
+      "excerpt": "If a monster dies in combat, you’ll lose it. Permanently. But you have the power to defy death by rebirthing their souls.",
+      "url": "https://store.steampowered.com/app/2288470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四种以太元素驱动回合制策略组合",
+      "dimension": "玩法",
+      "excerpt": "Manage and harness the four elements of Aether to unleash powerful spells. Consider your synergies and plan your monsters actions.",
+      "url": "https://store.steampowered.com/app/2288470/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "技能池会响应前序选择与当前队友",
+      "dimension": "玩法",
+      "excerpt": "Every monster has a dynamic skill pool that reacts to previous choices and other monsters you have in your team, enabling you to create powerful teams.",
+      "url": "https://store.steampowered.com/app/2288470/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "The monster designs are cool, the music is fantastic, the art style is great, and the game feels like it has polish, it just needs to do way more of those things.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "The monster designs are cool, the music is fantastic, the art style is great, and the game feels like it has polish, it just needs to do way more of those things.",
+          "url": "https://steamcommunity.com/profiles/76561198047243599/recommended/2288470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "I remember watching the trailer and some YouTubers play the game, and thought I would really enjoy this, especially with how great the pixel art looked.",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "I remember watching the trailer and some YouTubers play the game, and thought I would really enjoy this, especially with how great the pixel art looked.",
+          "url": "https://steamcommunity.com/id/ViferGames/recommended/2288470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boring, combat systems are way too complex and exhausting & in turn they discourage ya to try agen or play another run, the learning curve is very steep and the tutorial is convoluted as a result which the dev team should of identified very early on, if the tutorial is making players tap out, then obv ya either got too many systems at play too early or you've just outright made the game so complex that its not even approachable for beginners, (i did force myself to get through the tutorial & beat the end boss or whatever but it wasn't fun at all nd was annoying me nd boring me senseless) This",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "不推荐",
+      "excerpts": [
+        {
+          "excerpt": "Boring, combat systems are way too complex and exhausting & in turn they discourage ya to try agen or play another run, the learning curve is very steep and the tutorial is convoluted as a result which the dev team should of identified very early on, if the tutorial is making players tap out, then obv ya either got too many systems at play too early or you've just outright made the game so complex that its not even approachable for beginners, (i did force myself to get through the tutorial & beat the end boss or whatever but it wasn't fun at all nd was annoying me nd boring me senseless) This",
+          "url": "https://steamcommunity.com/profiles/76561198430880763/recommended/2288470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "If you are a fan of exponential power scaling, stunning animation, wonderful monster designs and experimental team building, I very much recommend picking up Aethermancer!",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "If you are a fan of exponential power scaling, stunning animation, wonderful monster designs and experimental team building, I very much recommend picking up Aethermancer!",
+          "url": "https://steamcommunity.com/id/FossilFace26/recommended/2288470/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "The pixel art is also excellent!",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "The pixel art is also excellent!",
+          "url": "https://store.steampowered.com/curator/45447197-Video-Gamers-Podcast-Fan-Club/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Some of the most impressive art and animations in a monster taming game.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "信息提供",
+      "excerpts": [
+        {
+          "excerpt": "Some of the most impressive art and animations in a monster taming game.",
+          "url": "https://store.steampowered.com/curator/44854932-Monster-Taming-Community/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "a roguelite creature collector with a great pixel art style.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "信息提供",
+      "excerpts": [
+        {
+          "excerpt": "a roguelite creature collector with a great pixel art style.",
+          "url": "https://store.steampowered.com/curator/38906726-frumpy-frands/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Love the story, music, graphics and the gameplay.",
+      "dimension": "画风",
+      "source": "鉴赏家观点",
+      "polarity": "推荐",
+      "excerpts": [
+        {
+          "excerpt": "Love the story, music, graphics and the gameplay.",
+          "url": "https://store.steampowered.com/curator/45517632-Jim%2527s-Music-Dungeon/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 152985,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 484543,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 35863,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2754527,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 156860,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 156860,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 12.528807698267144,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2542,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.46434,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "以太术士 (Aethermancer)位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/0309b63b8c84241f8e00416b13b88aa285b9e586/ss_0309b63b8c84241f8e00416b13b88aa285b9e586.1920x1080.jpg?t=1784197592",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/0309b63b8c84241f8e00416b13b88aa285b9e586/ss_0309b63b8c84241f8e00416b13b88aa285b9e586.1920x1080.jpg?t=1784197592",
+        "alt": "以太术士 (Aethermancer) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/ss_676a5baf2eccbf382c43f6175ed1791918d05ee1.1920x1080.jpg?t=1784197592",
+        "alt": "以太术士 (Aethermancer) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/ss_f8121ac0dd8e2245140d1751dcf3f914c441919d.1920x1080.jpg?t=1784197592",
+        "alt": "以太术士 (Aethermancer) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/c52b121cc825fad41a1fd9d20ebf8a242ad5490a/ss_c52b121cc825fad41a1fd9d20ebf8a242ad5490a.1920x1080.jpg?t=1784197592",
+        "alt": "以太术士 (Aethermancer) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/ss_ac49250e169da11064e76a109903c03e27b9b583.1920x1080.jpg?t=1784197592",
+        "alt": "以太术士 (Aethermancer) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/ss_3f927218a0cddccfd4e6ba5ea897dd2c1992a710.1920x1080.jpg?t=1784197592",
+        "alt": "以太术士 (Aethermancer) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/1d495bbbc000e038fc8700122e12c474fc142f6e/ss_1d495bbbc000e038fc8700122e12c474fc142f6e.1920x1080.jpg?t=1784197592",
+        "alt": "以太术士 (Aethermancer) 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288470/d935b5a2b486a1ab298d5d9d7084d23459422c4e/ss_d935b5a2b486a1ab298d5d9d7084d23459422c4e.1920x1080.jpg?t=1784197592",
+        "alt": "以太术士 (Aethermancer) 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "观点与原文来自本期 B 抓取；准入来自本期 C1 离线计算。"
+}

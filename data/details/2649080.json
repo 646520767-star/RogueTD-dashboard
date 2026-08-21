@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Coffee Caravan","developers":["Broccoli Games"],"publishers":["Broccoli Games"],"release_status":"released","release_date":"2024-05-20","tags":["经营管理","策略","模拟","轻度Rogue","建造"]},"hooks":[{"text":"每天按顾客偏好挑选菜单，并实验新的咖啡茶饮与甜品","dimension":"玩法","excerpt":"Strategically choose the recipes you want to serve each day, catering to customer preferences and experimenting with new flavors.","url":"https://store.steampowered.com/app/2649080/","label":"证据原文片段"},{"text":"顾客耐心归零会直接终结本局经营","dimension":"玩法","excerpt":"Keep an eye on each customer’s patience meter, as long waits can lead to dissatisfaction and end of the run.","url":"https://store.steampowered.com/app/2649080/","label":"证据原文片段"},{"text":"柔和粉彩3D场景包装移动咖啡车旅程","dimension":"画风","excerpt":"The game features a charming 3D environment with a pastel-colored aesthetic, and your daily journey takes you on a procedurally generated road trip full of surprises.","url":"https://store.steampowered.com/app/2649080/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":83980,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":167765,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7361,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":776662,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":87831,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":87831,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.125937708470058,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1469,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.857143,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"经营管理、策略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_a93fc5a9b6bbc33121d8a2ca657047649408c68d.1920x1080.jpg?t=1773070823","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_a93fc5a9b6bbc33121d8a2ca657047649408c68d.1920x1080.jpg?t=1773070823","alt":"Coffee Caravan 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_cf1caf75f9d766358663bc9bf290c5b5df5cb760.1920x1080.jpg?t=1773070823","alt":"Coffee Caravan 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_2a734cc8160063f1c7ee4f2419ade6eb893e2409.1920x1080.jpg?t=1773070823","alt":"Coffee Caravan 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_1d415b9dce1914c5f0c4adfd84afe8795fe5aba8.1920x1080.jpg?t=1773070823","alt":"Coffee Caravan 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Coffee Caravan",
+    "developers": [
+      "Broccoli Games"
+    ],
+    "publishers": [
+      "Broccoli Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-20",
+    "tags": [
+      "经营管理",
+      "在线合作",
+      "轻度Rogue",
+      "策略",
+      "模拟"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每天按顾客偏好挑选菜单，并实验新的咖啡茶饮与甜品",
+      "dimension": "玩法",
+      "excerpt": "Strategically choose the recipes you want to serve each day, catering to customer preferences and experimenting with new flavors.",
+      "url": "https://store.steampowered.com/app/2649080/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "顾客耐心归零会直接终结本局经营",
+      "dimension": "玩法",
+      "excerpt": "Keep an eye on each customer’s patience meter, as long waits can lead to dissatisfaction and end of the run.",
+      "url": "https://store.steampowered.com/app/2649080/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "柔和粉彩3D场景包装移动咖啡车旅程",
+      "dimension": "画风",
+      "excerpt": "The game features a charming 3D environment with a pastel-colored aesthetic, and your daily journey takes you on a procedurally generated road trip full of surprises.",
+      "url": "https://store.steampowered.com/app/2649080/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 86363,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 170038,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7393,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 800626,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 90393,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 90393,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.174021482917654,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1382,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.890995,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Coffee Caravan位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_a93fc5a9b6bbc33121d8a2ca657047649408c68d.1920x1080.jpg?t=1773070823",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_a93fc5a9b6bbc33121d8a2ca657047649408c68d.1920x1080.jpg?t=1773070823",
+        "alt": "Coffee Caravan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_cf1caf75f9d766358663bc9bf290c5b5df5cb760.1920x1080.jpg?t=1773070823",
+        "alt": "Coffee Caravan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_2a734cc8160063f1c7ee4f2419ade6eb893e2409.1920x1080.jpg?t=1773070823",
+        "alt": "Coffee Caravan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_1d415b9dce1914c5f0c4adfd84afe8795fe5aba8.1920x1080.jpg?t=1773070823",
+        "alt": "Coffee Caravan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_8fc39d1ae9a412fc9b26cb0b262fa18c704b1650.1920x1080.jpg?t=1773070823",
+        "alt": "Coffee Caravan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_8deb66e4eade227088c0d451a2c2847e59288823.1920x1080.jpg?t=1773070823",
+        "alt": "Coffee Caravan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_bedc3ec4371894dece591e98fbce8c8e0bcc506d.1920x1080.jpg?t=1773070823",
+        "alt": "Coffee Caravan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649080/ss_fd0d5f96acbf360cc0b4ff23d3e573c7b73430a8.1920x1080.jpg?t=1773070823",
+        "alt": "Coffee Caravan 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

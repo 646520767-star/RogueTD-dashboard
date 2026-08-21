@@ -1,1 +1,318 @@
-{"identity":{"original_title":"Sineus Arena Survivors","developers":["Sineus Games"],"publishers":["Sineus Games"],"release_status":"released","release_date":"2026-06-22","tags":["动作肉鸽","类Rogue","合作","弹幕射击","刷宝"]},"hooks":[{"text":"割草、建塔与守城全程同时进行，不暂停选建筑","dimension":"玩法","excerpt":"Fight hordes of the Khmar, level up your hero, collect weapons and artifacts and build structures and towers right in the middle of combat. There are no calm pauses for decisions - combat, building and survival all happen at the same time.","url":"https://store.steampowered.com/app/4227400/","label":"证据原文片段"},{"text":"2至4人分工守线、救队友或出城抢战利品","dimension":"玩法","excerpt":"Revive fallen allies, split roles and decide who holds the line while another player pushes out for loot.","url":"https://store.steampowered.com/app/4227400/","label":"证据原文片段"},{"text":"离信标越远风险越高，稀有资源回报也越大","dimension":"玩法","excerpt":"Venture beyond the base to search for rare resources, chests, altars, trials and enemy lairs. The farther you go from the Beacon, the greater the risk - and the more valuable the reward.","url":"https://store.steampowered.com/app/4227400/","label":"证据原文片段"}],"opinions":[{"text":"后期满屏特效会遮挡玩家位置。","dimension":"画风","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"后期满屏的特效糊脸","url":"https://steamcommunity.com/profiles/76561198188682829/recommended/4227400/","label":"证据原文片段"}]},{"text":"Boss红色攻击透明度过高，视觉辨识困难。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"red attacks are often way too transparent","url":"https://steamcommunity.com/profiles/76561198790018230/recommended/4227400/","label":"证据原文片段"}]},{"text":"多人地图资源不共享","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"局内的所有地图资源都是不共享的","url":"https://steamcommunity.com/id/Exdeathy/recommended/4227400/","label":"证据原文片段"}]},{"text":"射击缺少命中反馈。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"Shots currently lack any impact","url":"https://steamcommunity.com/profiles/76561198790018230/recommended/4227400/","label":"证据原文片段"}]},{"text":"菜单极其混乱且逻辑不一致。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The menu is extremely confusing and inconsistent","url":"https://steamcommunity.com/profiles/76561198790018230/recommended/4227400/","label":"证据原文片段"}]},{"text":"敌人或坐骑会直接生成在玩家体内","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"mounts or enemies should absolutely never spawn directly inside the player","url":"https://steamcommunity.com/profiles/76561198790018230/recommended/4227400/","label":"证据原文片段"}]},{"text":"塔防单位升级后仍几乎没有作用。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The towers do absolutely nothing, even upgraded.","url":"https://steamcommunity.com/id/Gorgeous_B/recommended/4227400/","label":"证据原文片段"}]},{"text":"多人后期特效密集时优化很差。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"游戏优化很差 尤其是多人联机的时候怪一多","url":"https://steamcommunity.com/profiles/76561198188682829/recommended/4227400/","label":"证据原文片段"}]},{"text":"地形无法阻挡敌人，使塔防机制名不副实。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The tower defense isn't real, considering everything can just walk over all the terrain.","url":"https://steamcommunity.com/id/Gorgeous_B/recommended/4227400/","label":"证据原文片段"}]},{"text":"多人模式故障严重。","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The multiplayer is completely broken.","url":"https://steamcommunity.com/profiles/76561198040540687/recommended/4227400/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":51745,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":142350,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5219,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":420480,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":54430,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":54430,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":6.5524305660337925,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":823,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":73,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":72.956731,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["后期满屏特效会遮挡玩家位置。","Boss红色攻击透明度过高，视觉辨识困难。","多人地图资源不共享","射击缺少命中反馈。","菜单极其混乱且逻辑不一致。","敌人或坐骑会直接生成在玩家体内","技术/性能：多人后期特效密集时优化很差。","技术/性能：多人模式故障严重。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/0a4b241c4e66c678274229ba3b4e22470f62c785/ss_0a4b241c4e66c678274229ba3b4e22470f62c785.1920x1080.jpg?t=1784639429","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/0a4b241c4e66c678274229ba3b4e22470f62c785/ss_0a4b241c4e66c678274229ba3b4e22470f62c785.1920x1080.jpg?t=1784639429","alt":"Sineus Arena Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/27d2e34e8af301ab8b146173b63c4a2a60567b97/ss_27d2e34e8af301ab8b146173b63c4a2a60567b97.1920x1080.jpg?t=1784639429","alt":"Sineus Arena Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/3eeff65abb1f1495975d75038850243b1f5c8a57/ss_3eeff65abb1f1495975d75038850243b1f5c8a57.1920x1080.jpg?t=1784639429","alt":"Sineus Arena Survivors 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/60cfcddfa0c87580a09609664f42dd2c7430388b/ss_60cfcddfa0c87580a09609664f42dd2c7430388b.1920x1080.jpg?t=1784639429","alt":"Sineus Arena Survivors 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Sineus Arena Survivors",
+    "developers": [
+      "Sineus Games"
+    ],
+    "publishers": [
+      "Sineus Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-06-22",
+    "tags": [
+      "动作肉鸽",
+      "动作肉鸽",
+      "类Rogue",
+      "合作",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "割草、建塔与守城全程同时进行，不暂停选建筑",
+      "dimension": "玩法",
+      "excerpt": "Fight hordes of the Khmar, level up your hero, collect weapons and artifacts and build structures and towers right in the middle of combat. There are no calm pauses for decisions - combat, building and survival all happen at the same time.",
+      "url": "https://store.steampowered.com/app/4227400/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "2至4人分工守线、救队友或出城抢战利品",
+      "dimension": "玩法",
+      "excerpt": "Revive fallen allies, split roles and decide who holds the line while another player pushes out for loot.",
+      "url": "https://store.steampowered.com/app/4227400/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "离信标越远风险越高，稀有资源回报也越大",
+      "dimension": "玩法",
+      "excerpt": "Venture beyond the base to search for rare resources, chests, altars, trials and enemy lairs. The farther you go from the Beacon, the greater the risk - and the more valuable the reward.",
+      "url": "https://store.steampowered.com/app/4227400/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "后期满屏特效会遮挡玩家位置。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "后期满屏的特效糊脸",
+          "url": "https://steamcommunity.com/profiles/76561198188682829/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boss红色攻击透明度过高，视觉辨识困难。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "red attacks are often way too transparent",
+          "url": "https://steamcommunity.com/profiles/76561198790018230/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多人地图资源不共享",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "局内的所有地图资源都是不共享的",
+          "url": "https://steamcommunity.com/id/Exdeathy/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "射击缺少命中反馈。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Shots currently lack any impact",
+          "url": "https://steamcommunity.com/profiles/76561198790018230/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "菜单极其混乱且逻辑不一致。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The menu is extremely confusing and inconsistent",
+          "url": "https://steamcommunity.com/profiles/76561198790018230/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "敌人或坐骑会直接生成在玩家体内",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "mounts or enemies should absolutely never spawn directly inside the player",
+          "url": "https://steamcommunity.com/profiles/76561198790018230/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "塔防单位升级后仍几乎没有作用。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The towers do absolutely nothing, even upgraded.",
+          "url": "https://steamcommunity.com/id/Gorgeous_B/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多人后期特效密集时优化很差。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "游戏优化很差 尤其是多人联机的时候怪一多",
+          "url": "https://steamcommunity.com/profiles/76561198188682829/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "地形无法阻挡敌人，使塔防机制名不副实。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The tower defense isn't real, considering everything can just walk over all the terrain.",
+          "url": "https://steamcommunity.com/id/Gorgeous_B/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "多人模式故障严重。",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The multiplayer is completely broken.",
+          "url": "https://steamcommunity.com/profiles/76561198040540687/recommended/4227400/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 69249,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 147030,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5573,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 560457,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 73510,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 73510,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 6.21287847747226,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1008,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 77,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 77.305606,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "后期满屏特效会遮挡玩家位置。",
+    "Boss红色攻击透明度过高，视觉辨识困难。",
+    "多人地图资源不共享",
+    "射击缺少命中反馈。",
+    "菜单极其混乱且逻辑不一致。",
+    "敌人或坐骑会直接生成在玩家体内",
+    "技术/性能：多人后期特效密集时优化很差。",
+    "技术/性能：多人模式故障严重。"
+  ],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Sineus Arena Survivors位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/0a4b241c4e66c678274229ba3b4e22470f62c785/ss_0a4b241c4e66c678274229ba3b4e22470f62c785.1920x1080.jpg?t=1784639429",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/0a4b241c4e66c678274229ba3b4e22470f62c785/ss_0a4b241c4e66c678274229ba3b4e22470f62c785.1920x1080.jpg?t=1786048411",
+        "alt": "Sineus Arena Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/27d2e34e8af301ab8b146173b63c4a2a60567b97/ss_27d2e34e8af301ab8b146173b63c4a2a60567b97.1920x1080.jpg?t=1786048411",
+        "alt": "Sineus Arena Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/3eeff65abb1f1495975d75038850243b1f5c8a57/ss_3eeff65abb1f1495975d75038850243b1f5c8a57.1920x1080.jpg?t=1786048411",
+        "alt": "Sineus Arena Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/60cfcddfa0c87580a09609664f42dd2c7430388b/ss_60cfcddfa0c87580a09609664f42dd2c7430388b.1920x1080.jpg?t=1786048411",
+        "alt": "Sineus Arena Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/c0c0b9f622b99b95ac8578aa907e8a0623895341/ss_c0c0b9f622b99b95ac8578aa907e8a0623895341.1920x1080.jpg?t=1786048411",
+        "alt": "Sineus Arena Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/0c35e8b7b2f7df917d272e98d845129c52e9024d/ss_0c35e8b7b2f7df917d272e98d845129c52e9024d.1920x1080.jpg?t=1786048411",
+        "alt": "Sineus Arena Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/e4752d69fe3ab31ef5c8e35c2e2a5ad7c5adafd4/ss_e4752d69fe3ab31ef5c8e35c2e2a5ad7c5adafd4.1920x1080.jpg?t=1786048411",
+        "alt": "Sineus Arena Survivors 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227400/3c21d4cd83eedae42e17e2b06b18661b104b051e/ss_3c21d4cd83eedae42e17e2b06b18661b104b051e.1920x1080.jpg?t=1786048411",
+        "alt": "Sineus Arena Survivors 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

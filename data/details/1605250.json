@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Moros Protocol","developers":["Pixel Reign"],"publishers":["Super Rare Originals"],"release_status":"released","release_date":"2025-09-18","tags":["轻度Rogue","射击","动作","恐怖","策略"]},"hooks":[{"text":"拾取的强化与武器直接决定配装风格，战术射击之外还能近身踢飞敌人","dimension":"玩法","excerpt":"Moros Protocol combines relentless action with adaptability and customization. Shape your loadout and let the augments and weapons you find dictate your fighting style. And yes, you can kick your enemies.","url":"https://store.steampowered.com/app/1605250/","label":"证据原文片段"},{"text":"手工场景与程序生成混合重组布局和挑战，使每次深入废弃战舰都不同","dimension":"玩法","excerpt":"Each run is shaped by a combination of handcrafted environments and procedural generation. New layouts. New challenges to face. No two runs will feel the same.","url":"https://store.steampowered.com/app/1605250/","label":"证据原文片段"},{"text":"好友可随时加入并肩体验完整流程，共同对抗战舰噩梦","dimension":"玩法","excerpt":"DROP-IN CO-OP Team up with a friend for backup. Adapt and survive together as you battle through the nightmare. Experience the full game side by side, sharing the fight against the enemy.","url":"https://store.steampowered.com/app/1605250/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":34505,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":200807,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11073,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":531261,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":40325,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":40325,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":5.3851009491976845,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":873,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.865604,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/7b5e62652e37de2eedaa9dc36172462db88691ce/ss_7b5e62652e37de2eedaa9dc36172462db88691ce.1920x1080.jpg?t=1780579943","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/7b5e62652e37de2eedaa9dc36172462db88691ce/ss_7b5e62652e37de2eedaa9dc36172462db88691ce.1920x1080.jpg?t=1780579943","alt":"毁灭协议 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/c199128580d6ce859ffa8ba076a27e7efee57f93/ss_c199128580d6ce859ffa8ba076a27e7efee57f93.1920x1080.jpg?t=1780579943","alt":"毁灭协议 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/5b4c783887dc73a3ad1a9ae4f648aef3facb7477/ss_5b4c783887dc73a3ad1a9ae4f648aef3facb7477.1920x1080.jpg?t=1780579943","alt":"毁灭协议 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/a00731dbd07c8a1911226246437c0eea27a86b6f/ss_a00731dbd07c8a1911226246437c0eea27a86b6f.1920x1080.jpg?t=1780579943","alt":"毁灭协议 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Moros Protocol",
+    "developers": [
+      "Pixel Reign"
+    ],
+    "publishers": [
+      "Super Rare Originals"
+    ],
+    "release_status": "released",
+    "release_date": "2025-09-18",
+    "tags": [
+      "轻度Rogue",
+      "轻度Rogue",
+      "轻度Rogue",
+      "射击",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "拾取的强化与武器直接决定配装风格，战术射击之外还能近身踢飞敌人",
+      "dimension": "玩法",
+      "excerpt": "Moros Protocol combines relentless action with adaptability and customization. Shape your loadout and let the augments and weapons you find dictate your fighting style. And yes, you can kick your enemies.",
+      "url": "https://store.steampowered.com/app/1605250/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "手工场景与程序生成混合重组布局和挑战，使每次深入废弃战舰都不同",
+      "dimension": "玩法",
+      "excerpt": "Each run is shaped by a combination of handcrafted environments and procedural generation. New layouts. New challenges to face. No two runs will feel the same.",
+      "url": "https://store.steampowered.com/app/1605250/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "好友可随时加入并肩体验完整流程，共同对抗战舰噩梦",
+      "dimension": "玩法",
+      "excerpt": "DROP-IN CO-OP Team up with a friend for backup. Adapt and survive together as you battle through the nightmare. Experience the full game side by side, sharing the fight against the enemy.",
+      "url": "https://store.steampowered.com/app/1605250/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 36651,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 198162,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11116,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 574648,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 43147,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 43147,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 5.252373202966558,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 708,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.353201,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "毁灭协议位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/7b5e62652e37de2eedaa9dc36172462db88691ce/ss_7b5e62652e37de2eedaa9dc36172462db88691ce.1920x1080.jpg?t=1780579943",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/7b5e62652e37de2eedaa9dc36172462db88691ce/ss_7b5e62652e37de2eedaa9dc36172462db88691ce.1920x1080.jpg?t=1780579943",
+        "alt": "毁灭协议 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/c199128580d6ce859ffa8ba076a27e7efee57f93/ss_c199128580d6ce859ffa8ba076a27e7efee57f93.1920x1080.jpg?t=1780579943",
+        "alt": "毁灭协议 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/5b4c783887dc73a3ad1a9ae4f648aef3facb7477/ss_5b4c783887dc73a3ad1a9ae4f648aef3facb7477.1920x1080.jpg?t=1780579943",
+        "alt": "毁灭协议 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/a00731dbd07c8a1911226246437c0eea27a86b6f/ss_a00731dbd07c8a1911226246437c0eea27a86b6f.1920x1080.jpg?t=1780579943",
+        "alt": "毁灭协议 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/d875cf5c327dabe52cd40a36141ba5739668c584/ss_d875cf5c327dabe52cd40a36141ba5739668c584.1920x1080.jpg?t=1780579943",
+        "alt": "毁灭协议 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/b32ad86ebdbdef468d6b26d8f3bd57e6602e2ff5/ss_b32ad86ebdbdef468d6b26d8f3bd57e6602e2ff5.1920x1080.jpg?t=1780579943",
+        "alt": "毁灭协议 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/a3fe85798d81086c5b494bd95ff0d258f0a7136d/ss_a3fe85798d81086c5b494bd95ff0d258f0a7136d.1920x1080.jpg?t=1780579943",
+        "alt": "毁灭协议 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605250/28ceadb7764815fec7c78703c8df1d5ef7e25839/ss_28ceadb7764815fec7c78703c8df1d5ef7e25839.1920x1080.jpg?t=1780579943",
+        "alt": "毁灭协议 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

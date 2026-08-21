@@ -1,1 +1,178 @@
-{"identity":{"original_title":"DIVE or DIE - Children of Rain","developers":["Drop Rate Studio"],"publishers":["Dear Villagers"],"release_status":"released","release_date":"2026-07-21","tags":["探索","恐怖","动作冒险","轻度Rogue","生存恐怖"]},"hooks":[{"text":"每次潜入沉没迷宫都要在黑暗怪物与氧气耗尽间赛跑","dimension":"玩法","excerpt":"Plunge into the cursed Abyssal Pool, where every descent is a deadly gamble. Navigate sunken ruins, face eldritch horrors in darkness, and race against dwindling oxygen.","url":"https://store.steampowered.com/app/3590290/","label":"证据原文片段"},{"text":"幸存者永久死亡，健康、理智与牺牲名单都由玩家决定","dimension":"玩法","excerpt":"Lead desperate survivors where death is permanent and sacrifice is inevitable. Manage health and sanity. Decide who joins, who dives, who dies.","url":"https://store.steampowered.com/app/3590290/","label":"证据原文片段"},{"text":"把脆弱营地建成人类最后避难所，按时间分配岗位与设施升级","dimension":"玩法","excerpt":"Transform your fragile camp into humanity's last refuge. Assign vital roles to your survivors, improve their skillset and craft them new tools & equipment. Balance resources against time to upgrade essential structures.","url":"https://store.steampowered.com/app/3590290/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":2055,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":86426,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":6528,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":26614,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":2212,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":2212,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":0,"unit":"小时","state":"zero","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":79,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":96,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":90.909091,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"探索、恐怖","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/8c2e1be0b39c7243c3ae2aad80c39d9fafef6cc0/ss_8c2e1be0b39c7243c3ae2aad80c39d9fafef6cc0.1920x1080.jpg?t=1784712822","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/8c2e1be0b39c7243c3ae2aad80c39d9fafef6cc0/ss_8c2e1be0b39c7243c3ae2aad80c39d9fafef6cc0.1920x1080.jpg?t=1784712822","alt":"生死深潜：雨之子民 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/40738f21a7408963c369a873946d5ac180ce61dc/ss_40738f21a7408963c369a873946d5ac180ce61dc.1920x1080.jpg?t=1784712822","alt":"生死深潜：雨之子民 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/5dd550ccba77933e2c1e50f1fb21d1a4662c29f5/ss_5dd550ccba77933e2c1e50f1fb21d1a4662c29f5.1920x1080.jpg?t=1784712822","alt":"生死深潜：雨之子民 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/9d23d9b607384209f38572c34a7405d2c697eb39/ss_9d23d9b607384209f38572c34a7405d2c697eb39.1920x1080.jpg?t=1784712822","alt":"生死深潜：雨之子民 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "DIVE or DIE - Children of Rain",
+    "developers": [
+      "Drop Rate Studio"
+    ],
+    "publishers": [
+      "Dear Villagers"
+    ],
+    "release_status": "released",
+    "release_date": "2026-07-21",
+    "tags": [
+      "生存",
+      "轻度Rogue",
+      "探索",
+      "恐怖",
+      "动作冒险"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每次潜入沉没迷宫都要在黑暗怪物与氧气耗尽间赛跑",
+      "dimension": "玩法",
+      "excerpt": "Plunge into the cursed Abyssal Pool, where every descent is a deadly gamble. Navigate sunken ruins, face eldritch horrors in darkness, and race against dwindling oxygen.",
+      "url": "https://store.steampowered.com/app/3590290/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "幸存者永久死亡，健康、理智与牺牲名单都由玩家决定",
+      "dimension": "玩法",
+      "excerpt": "Lead desperate survivors where death is permanent and sacrifice is inevitable. Manage health and sanity. Decide who joins, who dives, who dies.",
+      "url": "https://store.steampowered.com/app/3590290/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把脆弱营地建成人类最后避难所，按时间分配岗位与设施升级",
+      "dimension": "玩法",
+      "excerpt": "Transform your fragile camp into humanity's last refuge. Assign vital roles to your survivors, improve their skillset and craft them new tools & equipment. Balance resources against time to upgrade essential structures.",
+      "url": "https://store.steampowered.com/app/3590290/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 44171,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 202004,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 10820,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 586069,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 46587,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 46587,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.697900257061816,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1062,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 91,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 91.595197,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "生死深潜：雨之子民位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/8c2e1be0b39c7243c3ae2aad80c39d9fafef6cc0/ss_8c2e1be0b39c7243c3ae2aad80c39d9fafef6cc0.1920x1080.jpg?t=1784712822",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/8c2e1be0b39c7243c3ae2aad80c39d9fafef6cc0/ss_8c2e1be0b39c7243c3ae2aad80c39d9fafef6cc0.1920x1080.jpg?t=1785164308",
+        "alt": "生死深潜：雨之子民 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/40738f21a7408963c369a873946d5ac180ce61dc/ss_40738f21a7408963c369a873946d5ac180ce61dc.1920x1080.jpg?t=1785164308",
+        "alt": "生死深潜：雨之子民 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/5dd550ccba77933e2c1e50f1fb21d1a4662c29f5/ss_5dd550ccba77933e2c1e50f1fb21d1a4662c29f5.1920x1080.jpg?t=1785164308",
+        "alt": "生死深潜：雨之子民 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/9d23d9b607384209f38572c34a7405d2c697eb39/ss_9d23d9b607384209f38572c34a7405d2c697eb39.1920x1080.jpg?t=1785164308",
+        "alt": "生死深潜：雨之子民 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/35b3388a8486fe65c7904c391c1d6a92c5c93ace/ss_35b3388a8486fe65c7904c391c1d6a92c5c93ace.1920x1080.jpg?t=1785164308",
+        "alt": "生死深潜：雨之子民 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/b074a26144fe576dedc34f1a84f4ab72cf63c161/ss_b074a26144fe576dedc34f1a84f4ab72cf63c161.1920x1080.jpg?t=1785164308",
+        "alt": "生死深潜：雨之子民 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/6874883c9413b98d06a67d37206eb599f6c4b7f4/ss_6874883c9413b98d06a67d37206eb599f6c4b7f4.1920x1080.jpg?t=1785164308",
+        "alt": "生死深潜：雨之子民 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590290/b8be26cce9ef31b1f323d7ba44dccc9dd06761b6/ss_b8be26cce9ef31b1f323d7ba44dccc9dd06761b6.1920x1080.jpg?t=1785164308",
+        "alt": "生死深潜：雨之子民 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

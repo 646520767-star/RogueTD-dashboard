@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Arena of Sacrifice","developers":["Under Hill"],"publishers":["Saikey Studios"],"release_status":"released","release_date":"2026-04-24","tags":["动作","动漫风格","二维平台跳跃","模拟","动作肉鸽"]},"hooks":[{"text":"分支招式会随推进持续解锁，而敌人同步增强，迫使连段和防伤能力一起升级","dimension":"玩法","excerpt":"Power through different stages, fighting off enemies with your branching power moves, while avoiding to get hit yourself. The more you progress, the more combat moves you unlock, while at the same time the enemies get harder too!","url":"https://store.steampowered.com/app/3903830/","label":"证据原文片段"},{"text":"不同敌人拥有独立战斗风格，需记住完整招式并提前预判下一击","dimension":"玩法","excerpt":"A variety of enemies , each with a unique design and fighting style. Learn all their moves and predict their strikes ahead of time!","url":"https://store.steampowered.com/app/3903830/","label":"证据原文片段"},{"text":"女祭司中陷阱失去魔法后逐步恢复能力，沿城堡关卡追击邪眼完成复仇","dimension":"故事","excerpt":"After infiltrating his castle, she falls victim to a powerful trap and loses her magic. Just as hope seems lost, she’s rescued by a mysterious healer who helps her recover and regain her abilities. Now, Minori must fight her way through enemy-filled stages, each offering new challenges.","url":"https://store.steampowered.com/app/3903830/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":883,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":10168,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":930,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":6468,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1088,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1088,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.4673352003113274,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":41,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.926829,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作、动漫风格","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/e7e4693de8027b3695f1419efa67eb53f31c86ad/ss_e7e4693de8027b3695f1419efa67eb53f31c86ad.1920x1080.jpg?t=1777404332","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/e7e4693de8027b3695f1419efa67eb53f31c86ad/ss_e7e4693de8027b3695f1419efa67eb53f31c86ad.1920x1080.jpg?t=1777404332","alt":"Arena of Sacrifice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/515992f801fba1f5147014b0d3220826e397abcb/ss_515992f801fba1f5147014b0d3220826e397abcb.1920x1080.jpg?t=1777404332","alt":"Arena of Sacrifice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/8e2620030112f865e5434da6fd57bb994738f756/ss_8e2620030112f865e5434da6fd57bb994738f756.1920x1080.jpg?t=1777404332","alt":"Arena of Sacrifice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/b719e9105f127536cd93d7b3a5b833c5e64f6b1f/ss_b719e9105f127536cd93d7b3a5b833c5e64f6b1f.1920x1080.jpg?t=1777404332","alt":"Arena of Sacrifice 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Arena of Sacrifice",
+    "developers": [
+      "Under Hill"
+    ],
+    "publishers": [
+      "Saikey Studios"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-24",
+    "tags": [
+      "动作",
+      "二维平台跳跃",
+      "动作",
+      "塔防",
+      "动漫风格"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "分支招式会随推进持续解锁，而敌人同步增强，迫使连段和防伤能力一起升级",
+      "dimension": "玩法",
+      "excerpt": "Power through different stages, fighting off enemies with your branching power moves, while avoiding to get hit yourself. The more you progress, the more combat moves you unlock, while at the same time the enemies get harder too!",
+      "url": "https://store.steampowered.com/app/3903830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "不同敌人拥有独立战斗风格，需记住完整招式并提前预判下一击",
+      "dimension": "玩法",
+      "excerpt": "A variety of enemies , each with a unique design and fighting style. Learn all their moves and predict their strikes ahead of time!",
+      "url": "https://store.steampowered.com/app/3903830/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "女祭司中陷阱失去魔法后逐步恢复能力，沿城堡关卡追击邪眼完成复仇",
+      "dimension": "故事",
+      "excerpt": "After infiltrating his castle, she falls victim to a powerful trap and loses her magic. Just as hope seems lost, she’s rescued by a mysterious healer who helps her recover and regain her abilities. Now, Minori must fight her way through enemy-filled stages, each offering new challenges.",
+      "url": "https://store.steampowered.com/app/3903830/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 991,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 10228,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 960,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 7632,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1220,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1220,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.463158541880669,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 30,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.926829,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "Arena of Sacrifice当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/e7e4693de8027b3695f1419efa67eb53f31c86ad/ss_e7e4693de8027b3695f1419efa67eb53f31c86ad.1920x1080.jpg?t=1777404332",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/e7e4693de8027b3695f1419efa67eb53f31c86ad/ss_e7e4693de8027b3695f1419efa67eb53f31c86ad.1920x1080.jpg?t=1777404332",
+        "alt": "Arena of Sacrifice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/515992f801fba1f5147014b0d3220826e397abcb/ss_515992f801fba1f5147014b0d3220826e397abcb.1920x1080.jpg?t=1777404332",
+        "alt": "Arena of Sacrifice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/8e2620030112f865e5434da6fd57bb994738f756/ss_8e2620030112f865e5434da6fd57bb994738f756.1920x1080.jpg?t=1777404332",
+        "alt": "Arena of Sacrifice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/b719e9105f127536cd93d7b3a5b833c5e64f6b1f/ss_b719e9105f127536cd93d7b3a5b833c5e64f6b1f.1920x1080.jpg?t=1777404332",
+        "alt": "Arena of Sacrifice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/ad2f3e32286a89aaeb492c168a8944a8acff624a/ss_ad2f3e32286a89aaeb492c168a8944a8acff624a.1920x1080.jpg?t=1777404332",
+        "alt": "Arena of Sacrifice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/6b13134a483f25b3db006c69a680452499a96619/ss_6b13134a483f25b3db006c69a680452499a96619.1920x1080.jpg?t=1777404332",
+        "alt": "Arena of Sacrifice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903830/7d77719b17bac3891f4c8b814a266d3a4909f3b8/ss_7d77719b17bac3891f4c8b814a266d3a4909f3b8.1920x1080.jpg?t=1777404332",
+        "alt": "Arena of Sacrifice 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

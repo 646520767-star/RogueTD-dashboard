@@ -1,1 +1,178 @@
-{"identity":{"original_title":"No More Demon","developers":["Mundus Games"],"publishers":["Mundus Games"],"release_status":"early_access","release_date":"2026-05-25","tags":["抢先体验","动作肉鸽","弹幕射击","清版射击","玩家对环境"]},"hooks":[{"text":"用高速冲刺穿越弹幕，再以空中践踏和招架震退妖怪群","dimension":"玩法","excerpt":"Control high-speed dashes to evade an enemy surround and a barrage of Bullet hell. Unleash powerful Air stomping that will send hordes of enemies surrounding you bouncing back, and Parry your way through an enemy swarm attack.","url":"https://store.steampowered.com/app/4696080/","label":"证据原文片段"},{"text":"把角色强化、武器改装与魔术元素升级叠成每局动态流派","dimension":"玩法","excerpt":"Experiment, Discover, customize your playstyle with Character upgrades, Weapon modding, and majestic Majutsu upgrades to choose from along the way in a gameplay run.","url":"https://store.steampowered.com/app/4696080/","label":"证据原文片段"},{"text":"通过学生社团系统永久强化动漫少女，让成长跨局保留","dimension":"玩法","excerpt":"Active progression to improve your elite anime girls' power. Unlock permanent upgrades for carries over between runs.","url":"https://store.steampowered.com/app/4696080/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":327,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":5084,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":269,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":3084,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":493,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":493,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.5063675892856065,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":29,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":93.333333,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/eec0d98b1c4c4537d5ea94b2ce3f0dde94030b1c/ss_eec0d98b1c4c4537d5ea94b2ce3f0dde94030b1c.1920x1080.jpg?t=1783575096","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/eec0d98b1c4c4537d5ea94b2ce3f0dde94030b1c/ss_eec0d98b1c4c4537d5ea94b2ce3f0dde94030b1c.1920x1080.jpg?t=1783575096","alt":"No More Demon 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/29a2f1734c4aa51b9d9b859c685bda151009681d/ss_29a2f1734c4aa51b9d9b859c685bda151009681d.1920x1080.jpg?t=1783575096","alt":"No More Demon 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/fa2dbe958daf908ca185223de56c7f421b75c315/ss_fa2dbe958daf908ca185223de56c7f421b75c315.1920x1080.jpg?t=1783575096","alt":"No More Demon 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/c46d85ea940eee20abd1fa9000e94449ea8e456e/ss_c46d85ea940eee20abd1fa9000e94449ea8e456e.1920x1080.jpg?t=1783575096","alt":"No More Demon 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "No More Demon",
+    "developers": [
+      "Mundus Games"
+    ],
+    "publishers": [
+      "Mundus Games"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-05-25",
+    "tags": [
+      "抢先体验",
+      "动作肉鸽",
+      "轻度Rogue",
+      "弹幕射击",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用高速冲刺穿越弹幕，再以空中践踏和招架震退妖怪群",
+      "dimension": "玩法",
+      "excerpt": "Control high-speed dashes to evade an enemy surround and a barrage of Bullet hell. Unleash powerful Air stomping that will send hordes of enemies surrounding you bouncing back, and Parry your way through an enemy swarm attack.",
+      "url": "https://store.steampowered.com/app/4696080/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把角色强化、武器改装与魔术元素升级叠成每局动态流派",
+      "dimension": "玩法",
+      "excerpt": "Experiment, Discover, customize your playstyle with Character upgrades, Weapon modding, and majestic Majutsu upgrades to choose from along the way in a gameplay run.",
+      "url": "https://store.steampowered.com/app/4696080/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "通过学生社团系统永久强化动漫少女，让成长跨局保留",
+      "dimension": "玩法",
+      "excerpt": "Active progression to improve your elite anime girls' power. Unlock permanent upgrades for carries over between runs.",
+      "url": "https://store.steampowered.com/app/4696080/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 408,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 5114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 276,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3968,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 605,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 605,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.9521451980755873,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 16,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 93.333333,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "No More Demon位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/eec0d98b1c4c4537d5ea94b2ce3f0dde94030b1c/ss_eec0d98b1c4c4537d5ea94b2ce3f0dde94030b1c.1920x1080.jpg?t=1783575096",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/eec0d98b1c4c4537d5ea94b2ce3f0dde94030b1c/ss_eec0d98b1c4c4537d5ea94b2ce3f0dde94030b1c.1920x1080.jpg?t=1785100710",
+        "alt": "No More Demon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/29a2f1734c4aa51b9d9b859c685bda151009681d/ss_29a2f1734c4aa51b9d9b859c685bda151009681d.1920x1080.jpg?t=1785100710",
+        "alt": "No More Demon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/fa2dbe958daf908ca185223de56c7f421b75c315/ss_fa2dbe958daf908ca185223de56c7f421b75c315.1920x1080.jpg?t=1785100710",
+        "alt": "No More Demon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/c46d85ea940eee20abd1fa9000e94449ea8e456e/ss_c46d85ea940eee20abd1fa9000e94449ea8e456e.1920x1080.jpg?t=1785100710",
+        "alt": "No More Demon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/40d675fe3cefc939a34c0c78d9514478c59abf8a/ss_40d675fe3cefc939a34c0c78d9514478c59abf8a.1920x1080.jpg?t=1785100710",
+        "alt": "No More Demon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/070b9c6a509162e3d312dc59fdc9de2eac6a8ad8/ss_070b9c6a509162e3d312dc59fdc9de2eac6a8ad8.1920x1080.jpg?t=1785100710",
+        "alt": "No More Demon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/ff5f813f09300d2a4178f0e8c6468ef8a20da884/ss_ff5f813f09300d2a4178f0e8c6468ef8a20da884.1920x1080.jpg?t=1785100710",
+        "alt": "No More Demon 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696080/2bed1690e4494b609d7622effae345a7507803f6/ss_2bed1690e4494b609d7622effae345a7507803f6.1920x1080.jpg?t=1785100710",
+        "alt": "No More Demon 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

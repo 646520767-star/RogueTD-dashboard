@@ -1,1 +1,174 @@
-{"identity":{"original_title":"Aooni","developers":["Game Studio Inc."],"publishers":["LiTMUS Co., Ltd."],"release_status":"released","release_date":"2024-07-25","tags":["角色扮演","恐怖","单人游戏","二维画面","日式角色扮演"]},"hooks":[{"text":"二至十五倍速挑战高速蓝鬼追逐","dimension":"玩法","excerpt":"The official \"High Speed Mode\" has been added! you can freely choose between 2x and 15x speeds to challenge the super fast horror!","url":"https://store.steampowered.com/app/2934190/","label":"证据原文片段"},{"text":"爱篇在每局变动的房间中搜物逃生","dimension":"玩法","excerpt":"A girl named \"Ai\" awakens in a mysterious mansion. Explore the mansion, where the rooms change every time you play, find items, and attempt to escape!","url":"https://store.steampowered.com/app/2934190/","label":"证据原文片段"},{"text":"四人踏入传闻洋馆直面蓝色怪物","dimension":"故事","excerpt":"Long ago, there was a mansion on the outskirts of town. There were whispers among the people about such rumors as Blue monsters coming out...... What the four people who visited the mansion saw, were monsters ... Can they escape alive?","url":"https://store.steampowered.com/app/2934190/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":32004,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":49568,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1895,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":161054,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":33949,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":33949,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.5539794018235926,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1002,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":77,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":77.045908,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、恐怖","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_4381ede4751a050e779dd70ca1c7f8f72cd25dd2.1920x1080.jpg?t=1782880464","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_4381ede4751a050e779dd70ca1c7f8f72cd25dd2.1920x1080.jpg?t=1782880464","alt":"Aooni 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_3571087212ef5f4b3ec352cbfe558d016213baaf.1920x1080.jpg?t=1782880464","alt":"Aooni 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_3bea0f69887087b69f63500cd35910590ff57d24.1920x1080.jpg?t=1782880464","alt":"Aooni 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_3ecf79138f7892ea3545b702d0d5a4ba3c0aac45.1920x1080.jpg?t=1782880464","alt":"Aooni 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Aooni",
+    "developers": [
+      "Game Studio Inc."
+    ],
+    "publishers": [
+      "LiTMUS Co., Ltd."
+    ],
+    "release_status": "released",
+    "release_date": "2024-07-25",
+    "tags": [
+      "角色扮演",
+      "恐怖",
+      "二维画面",
+      "单人游戏",
+      "日式角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "二至十五倍速挑战高速蓝鬼追逐",
+      "dimension": "玩法",
+      "excerpt": "The official \"High Speed Mode\" has been added! you can freely choose between 2x and 15x speeds to challenge the super fast horror!",
+      "url": "https://store.steampowered.com/app/2934190/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "爱篇在每局变动的房间中搜物逃生",
+      "dimension": "玩法",
+      "excerpt": "A girl named \"Ai\" awakens in a mysterious mansion. Explore the mansion, where the rooms change every time you play, find items, and attempt to escape!",
+      "url": "https://store.steampowered.com/app/2934190/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "四人踏入传闻洋馆直面蓝色怪物",
+      "dimension": "故事",
+      "excerpt": "Long ago, there was a mansion on the outskirts of town. There were whispers among the people about such rumors as Blue monsters coming out...... What the four people who visited the mansion saw, were monsters ... Can they escape alive?",
+      "url": "https://store.steampowered.com/app/2934190/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 37555,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 48583,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1939,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 185945,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 39823,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 39823,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.672721962146406,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 926,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 77,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 77.106046,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Aooni位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_4381ede4751a050e779dd70ca1c7f8f72cd25dd2.1920x1080.jpg?t=1782880464",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_4381ede4751a050e779dd70ca1c7f8f72cd25dd2.1920x1080.jpg?t=1782880464",
+        "alt": "Aooni 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_3571087212ef5f4b3ec352cbfe558d016213baaf.1920x1080.jpg?t=1782880464",
+        "alt": "Aooni 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_3bea0f69887087b69f63500cd35910590ff57d24.1920x1080.jpg?t=1782880464",
+        "alt": "Aooni 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_3ecf79138f7892ea3545b702d0d5a4ba3c0aac45.1920x1080.jpg?t=1782880464",
+        "alt": "Aooni 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_01e3ac9ee71b0007eb18ffb43765e193c0557a1e.1920x1080.jpg?t=1782880464",
+        "alt": "Aooni 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_2a3624c6ad043919da2a6f24e7d4674a41046ab5.1920x1080.jpg?t=1782880464",
+        "alt": "Aooni 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/ss_d178b474fffc5649ce6ab37f01d3cc316fcdabf0.1920x1080.jpg?t=1782880464",
+        "alt": "Aooni 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

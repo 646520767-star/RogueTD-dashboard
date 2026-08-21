@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Liminal Void","developers":["Jeistar"],"publishers":["Jeistar"],"release_status":"released","release_date":"2024-08-23","tags":["恐怖","动作肉鸽","地牢探索","角色扮演","第一人称"]},"hooks":[{"text":"死亡不会重置流程，而会把角色自动送进下一随机层，但牺牲继续收集Sigil的机会","dimension":"玩法","excerpt":"Dying will automatically send you to the next random layer at the cost of the opportunity to collect more Sigils.","url":"https://store.steampowered.com/app/2745110/","label":"证据原文片段"},{"text":"夺取临界实体的灵魂既扩充法术库，又为死亡计数器增加探索时间","dimension":"玩法","excerpt":"Snatch them and expand your arsenal of spells. Additionally, soul snatches add more time to your death counter so you can explore and find more sigils.","url":"https://store.steampowered.com/app/2745110/","label":"证据原文片段"},{"text":"玩家与同伴的选择共同分支出16种不同结局","dimension":"故事","excerpt":"Multiple Endings: 16 Different Endings Depending on Player and Companion Choices","url":"https://store.steampowered.com/app/2745110/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":1809,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":26690,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1042,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":20476,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1957,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1957,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":1.9111901868655954,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":111,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.142857,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"恐怖、动作肉鸽","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/9e2a69ad3a651f5851766f7b56f9b9191aa617e6/ss_9e2a69ad3a651f5851766f7b56f9b9191aa617e6.1920x1080.jpg?t=1756857404","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/9e2a69ad3a651f5851766f7b56f9b9191aa617e6/ss_9e2a69ad3a651f5851766f7b56f9b9191aa617e6.1920x1080.jpg?t=1756857404","alt":"Liminal Void 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_f5d885d47342c8ddd641c02d764ab9bca9ab6661.1920x1080.jpg?t=1756857404","alt":"Liminal Void 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_8c2217bf2fc909c9286f7075efd91e74fe80a2ae.1920x1080.jpg?t=1756857404","alt":"Liminal Void 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_1dcd28b5a6cd3ba1141f25b5d912e071ea4f3512.1920x1080.jpg?t=1756857404","alt":"Liminal Void 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Liminal Void",
+    "developers": [
+      "Jeistar"
+    ],
+    "publishers": [
+      "Jeistar"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-23",
+    "tags": [
+      "恐怖",
+      "动作肉鸽",
+      "地牢探索",
+      "角色扮演",
+      "第一人称"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "死亡不会重置流程，而会把角色自动送进下一随机层，但牺牲继续收集Sigil的机会",
+      "dimension": "玩法",
+      "excerpt": "Dying will automatically send you to the next random layer at the cost of the opportunity to collect more Sigils.",
+      "url": "https://store.steampowered.com/app/2745110/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "夺取临界实体的灵魂既扩充法术库，又为死亡计数器增加探索时间",
+      "dimension": "玩法",
+      "excerpt": "Snatch them and expand your arsenal of spells. Additionally, soul snatches add more time to your death counter so you can explore and find more sigils.",
+      "url": "https://store.steampowered.com/app/2745110/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "玩家与同伴的选择共同分支出16种不同结局",
+      "dimension": "故事",
+      "excerpt": "Multiple Endings: 16 Different Endings Depending on Player and Companion Choices",
+      "url": "https://store.steampowered.com/app/2745110/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 2617,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 26848,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1048,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 28786,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 2825,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 2825,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.8895583228333728,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 102,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.45614,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Liminal Void位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/9e2a69ad3a651f5851766f7b56f9b9191aa617e6/ss_9e2a69ad3a651f5851766f7b56f9b9191aa617e6.1920x1080.jpg?t=1756857404",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/9e2a69ad3a651f5851766f7b56f9b9191aa617e6/ss_9e2a69ad3a651f5851766f7b56f9b9191aa617e6.1920x1080.jpg?t=1756857404",
+        "alt": "Liminal Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_f5d885d47342c8ddd641c02d764ab9bca9ab6661.1920x1080.jpg?t=1756857404",
+        "alt": "Liminal Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_8c2217bf2fc909c9286f7075efd91e74fe80a2ae.1920x1080.jpg?t=1756857404",
+        "alt": "Liminal Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_1dcd28b5a6cd3ba1141f25b5d912e071ea4f3512.1920x1080.jpg?t=1756857404",
+        "alt": "Liminal Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_6475f40a32f7e3155f27da1cded50fbb8393218a.1920x1080.jpg?t=1756857404",
+        "alt": "Liminal Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_982f914f7a4fca742bd8a80b312515b5ad8fb4e7.1920x1080.jpg?t=1756857404",
+        "alt": "Liminal Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_48ab448beb92b55368df138d1329b262e1cdc24b.1920x1080.jpg?t=1756857404",
+        "alt": "Liminal Void 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745110/ss_b038d57d61297e53055c4f093f56d61b7d478808.1920x1080.jpg?t=1756857404",
+        "alt": "Liminal Void 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

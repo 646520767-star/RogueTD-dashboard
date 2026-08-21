@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Ocean Keeper: Dome Survival","developers":["RetroStyle Games"],"publishers":["RetroStyle Games"],"release_status":"released","release_date":"2025-05-02","tags":["程序生成","动作","二维画面","氛围感","类Rogue"]},"hooks":[{"text":"每波袭击间隙只能选择强化潜水员、机甲、武器或转去探索新地牢","dimension":"玩法","excerpt":"Use the time between each attack to power up your diver, mech, weapon or explore a new dungeon.","url":"https://store.steampowered.com/app/2845630/","label":"证据原文片段"},{"text":"自动炮塔负责守线，采集无人机同时从危险区域搬回战利品","dimension":"玩法","excerpt":"Build automatic turrets, use drones to collect loot and improve your skills to increase your chances of survival.","url":"https://store.steampowered.com/app/2845630/","label":"证据原文片段"},{"text":"先钻入洞穴开采升级资源，再及时退出地牢切换到动态怪潮战斗","dimension":"玩法","excerpt":"Drill caves in search of different resources to upgrade your equipment, weapons and Mech Spider. It's worth saying that the local fauna didn't like the fact that you want to mine their sources! So don't forget to exit the dungeons, and switch to a dynamic combat mode.","url":"https://store.steampowered.com/app/2845630/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":22748,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":38129,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":7834,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":113832,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":23420,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":23420,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.885808835050003,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":902,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":79.822616,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"程序生成、动作","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad/ss_cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad.1920x1080.jpg?t=1780068452","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad/ss_cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad.1920x1080.jpg?t=1780068452","alt":"Ocean Keeper: Dome Survival 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/3a9c5d49e9d681c19ad713d8a8487adad0b25a50/ss_3a9c5d49e9d681c19ad713d8a8487adad0b25a50.1920x1080.jpg?t=1780068452","alt":"Ocean Keeper: Dome Survival 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/9aee45c2088bee87758a610f8c5c568be8b555c4/ss_9aee45c2088bee87758a610f8c5c568be8b555c4.1920x1080.jpg?t=1780068452","alt":"Ocean Keeper: Dome Survival 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/affa1548714217b904428d4b01eb45190bc2eecd/ss_affa1548714217b904428d4b01eb45190bc2eecd.1920x1080.jpg?t=1780068452","alt":"Ocean Keeper: Dome Survival 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Ocean Keeper: Dome Survival",
+    "developers": [
+      "RetroStyle Games"
+    ],
+    "publishers": [
+      "RetroStyle Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-05-02",
+    "tags": [
+      "程序生成",
+      "动作",
+      "休闲",
+      "二维画面",
+      "氛围感"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每波袭击间隙只能选择强化潜水员、机甲、武器或转去探索新地牢",
+      "dimension": "玩法",
+      "excerpt": "Use the time between each attack to power up your diver, mech, weapon or explore a new dungeon.",
+      "url": "https://store.steampowered.com/app/2845630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "自动炮塔负责守线，采集无人机同时从危险区域搬回战利品",
+      "dimension": "玩法",
+      "excerpt": "Build automatic turrets, use drones to collect loot and improve your skills to increase your chances of survival.",
+      "url": "https://store.steampowered.com/app/2845630/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "先钻入洞穴开采升级资源，再及时退出地牢切换到动态怪潮战斗",
+      "dimension": "玩法",
+      "excerpt": "Drill caves in search of different resources to upgrade your equipment, weapons and Mech Spider. It's worth saying that the local fauna didn't like the fact that you want to mine their sources! So don't forget to exit the dungeons, and switch to a dynamic combat mode.",
+      "url": "https://store.steampowered.com/app/2845630/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 25918,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 38355,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 7823,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 112280,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 26686,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 26686,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.6443462969382665,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 863,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 79,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 79.222222,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Ocean Keeper: Dome Survival位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad/ss_cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad.1920x1080.jpg?t=1780068452",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad/ss_cc2e1e60efc630b31a2a338d37f4b6ebc90d58ad.1920x1080.jpg?t=1785404500",
+        "alt": "Ocean Keeper: Dome Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/3a9c5d49e9d681c19ad713d8a8487adad0b25a50/ss_3a9c5d49e9d681c19ad713d8a8487adad0b25a50.1920x1080.jpg?t=1785404500",
+        "alt": "Ocean Keeper: Dome Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/9aee45c2088bee87758a610f8c5c568be8b555c4/ss_9aee45c2088bee87758a610f8c5c568be8b555c4.1920x1080.jpg?t=1785404500",
+        "alt": "Ocean Keeper: Dome Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/affa1548714217b904428d4b01eb45190bc2eecd/ss_affa1548714217b904428d4b01eb45190bc2eecd.1920x1080.jpg?t=1785404500",
+        "alt": "Ocean Keeper: Dome Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/69aaa6394896efb7462efa1dd2dae1b512c828b0/ss_69aaa6394896efb7462efa1dd2dae1b512c828b0.1920x1080.jpg?t=1785404500",
+        "alt": "Ocean Keeper: Dome Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/1965fe40423108e3c84a7288944e96cf2e70b7a3/ss_1965fe40423108e3c84a7288944e96cf2e70b7a3.1920x1080.jpg?t=1785404500",
+        "alt": "Ocean Keeper: Dome Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/64f2f48851df39aee1c42ca696b48243df6675dc/ss_64f2f48851df39aee1c42ca696b48243df6675dc.1920x1080.jpg?t=1785404500",
+        "alt": "Ocean Keeper: Dome Survival 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845630/a9927117524088db8e37fbcfdca850db6c2ba5cd/ss_a9927117524088db8e37fbcfdca850db6c2ba5cd.1920x1080.jpg?t=1785404500",
+        "alt": "Ocean Keeper: Dome Survival 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

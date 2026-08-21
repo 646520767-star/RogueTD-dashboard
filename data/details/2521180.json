@@ -1,1 +1,208 @@
-{"identity":{"original_title":"Lost:Antinomy","developers":["IMaiIna"],"publishers":["IMaiIna"],"release_status":"released","release_date":"2024-03-24","tags":["冒险","模拟","日式角色扮演","角色扮演","策略角色扮演"]},"hooks":[{"text":"内置剧情编辑器可模块化事件、角色、技能、装备与Buff，并把大型故事包上传Steam创意工坊","dimension":"玩法","excerpt":"剧情编辑器和创意工坊! 迷走提供了一整套的自制故事线工具!你可以直接在游戏中制作自己的剧本，并分享到Steam! 可模块的内容包括 事件 角色 技能 装备 Buff 整合以上的大型模组包","url":"https://store.steampowered.com/app/2521180/","label":"证据原文片段"},{"text":"左右抉择会改变同伴、敌人和阵营倾向，也允许在两大阵营间维持平衡","dimension":"故事","excerpt":"抉择 谁是你的同伴?谁又是你的敌人?随着不同的选择，你也可以偏向其中一个阵营... 当然，你也可以做自己!纵横捭阖，圆融地处理两大阵营的关系","url":"https://store.steampowered.com/app/2521180/","label":"证据原文片段"},{"text":"每日随机事件同时影响健康、武力、金钱、社交和知识，微小选择还会在未来放大","dimension":"玩法","excerpt":"在迷走中，每天都会发生新的随机事件，而这些随机事件将会影响你的「健康」、「武力」、「金钱」、「社交」和「知识」。 你可以直观地看见每个选项对这五项基础数值的影响，但正如现实世界，某些微不足道的小事，总能在未来造成巨大的影响。","url":"https://store.steampowered.com/app/2521180/","label":"证据原文片段"}],"opinions":[{"text":"设定前后存在矛盾。","dimension":"剧情","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"前后之间的设定吃书还是存在的","url":"https://steamcommunity.com/profiles/76561198429187217/recommended/2521180/","label":"证据原文片段"}]},{"text":"需要购买另一作品才能理解后续内容。","dimension":"剧情","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"还得买你那黑深残谜语人文青病的永生之庭","url":"https://steamcommunity.com/profiles/76561199641055661/recommended/2521180/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":52510,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":34316,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2653,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":97903,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":53700,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":53700,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":3.5798486665066163,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1074,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":88,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":88.454376,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["设定前后存在矛盾。","需要购买另一作品才能理解后续内容。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_bf2e474c9ee7824ca2c6987edb6915e822621a2c.1920x1080.jpg?t=1729089734","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_bf2e474c9ee7824ca2c6987edb6915e822621a2c.1920x1080.jpg?t=1729089734","alt":"迷走:二律背反 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_7afd991f6bb6a467d69b5e13f082b649d86f0d3e.1920x1080.jpg?t=1729089734","alt":"迷走:二律背反 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_faee967308dee9adb67ebb3741f4cedf0b7c37b5.1920x1080.jpg?t=1729089734","alt":"迷走:二律背反 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_0d1d511f2d78627fdfa0d01b0f997c605ef619a6.1920x1080.jpg?t=1729089734","alt":"迷走:二律背反 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lost:Antinomy",
+    "developers": [
+      "IMaiIna"
+    ],
+    "publishers": [
+      "IMaiIna"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-24",
+    "tags": [
+      "冒险",
+      "模拟",
+      "日式角色扮演",
+      "轻度Rogue",
+      "角色扮演"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "内置剧情编辑器可模块化事件、角色、技能、装备与Buff，并把大型故事包上传Steam创意工坊",
+      "dimension": "玩法",
+      "excerpt": "剧情编辑器和创意工坊! 迷走提供了一整套的自制故事线工具!你可以直接在游戏中制作自己的剧本，并分享到Steam! 可模块的内容包括 事件 角色 技能 装备 Buff 整合以上的大型模组包",
+      "url": "https://store.steampowered.com/app/2521180/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "左右抉择会改变同伴、敌人和阵营倾向，也允许在两大阵营间维持平衡",
+      "dimension": "故事",
+      "excerpt": "抉择 谁是你的同伴?谁又是你的敌人?随着不同的选择，你也可以偏向其中一个阵营... 当然，你也可以做自己!纵横捭阖，圆融地处理两大阵营的关系",
+      "url": "https://store.steampowered.com/app/2521180/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每日随机事件同时影响健康、武力、金钱、社交和知识，微小选择还会在未来放大",
+      "dimension": "玩法",
+      "excerpt": "在迷走中，每天都会发生新的随机事件，而这些随机事件将会影响你的「健康」、「武力」、「金钱」、「社交」和「知识」。 你可以直观地看见每个选项对这五项基础数值的影响，但正如现实世界，某些微不足道的小事，总能在未来造成巨大的影响。",
+      "url": "https://store.steampowered.com/app/2521180/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "设定前后存在矛盾。",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "前后之间的设定吃书还是存在的",
+          "url": "https://steamcommunity.com/profiles/76561198429187217/recommended/2521180/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "需要购买另一作品才能理解后续内容。",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "还得买你那黑深残谜语人文青病的永生之庭",
+          "url": "https://steamcommunity.com/profiles/76561199641055661/recommended/2521180/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 53777,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 34519,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2651,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 100618,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 54995,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 54995,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.6003580471954235,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1041,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 88.372093,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "设定前后存在矛盾。",
+    "需要购买另一作品才能理解后续内容。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "迷走:二律背反位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_bf2e474c9ee7824ca2c6987edb6915e822621a2c.1920x1080.jpg?t=1729089734",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_bf2e474c9ee7824ca2c6987edb6915e822621a2c.1920x1080.jpg?t=1729089734",
+        "alt": "迷走:二律背反 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_7afd991f6bb6a467d69b5e13f082b649d86f0d3e.1920x1080.jpg?t=1729089734",
+        "alt": "迷走:二律背反 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_faee967308dee9adb67ebb3741f4cedf0b7c37b5.1920x1080.jpg?t=1729089734",
+        "alt": "迷走:二律背反 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_0d1d511f2d78627fdfa0d01b0f997c605ef619a6.1920x1080.jpg?t=1729089734",
+        "alt": "迷走:二律背反 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_8a3f29522e78f33c87d04ff3a91c8d3dde4d89ea.1920x1080.jpg?t=1729089734",
+        "alt": "迷走:二律背反 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_b17383a100b8af4bb83c173fbf1d776c32d2300f.1920x1080.jpg?t=1729089734",
+        "alt": "迷走:二律背反 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_0cf1357931afb1d394439b1b5dcadaef09268e2d.1920x1080.jpg?t=1729089734",
+        "alt": "迷走:二律背反 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521180/ss_fa011627daaff5f8be466bd29d163c42503c41bc.1920x1080.jpg?t=1729089734",
+        "alt": "迷走:二律背反 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

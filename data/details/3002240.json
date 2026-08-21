@@ -1,1 +1,179 @@
-{"identity":{"original_title":"Lunchbreak Tactics","developers":["Borealys Games"],"publishers":["Borealys Games","Vsoo Games"],"release_status":"released","release_date":"2026-04-28","tags":["自走棋","卡牌对战","策略","动漫风格","玩家对战"]},"hooks":[{"text":"每局先选一名决定全局思路的英雄和两个限定牌池的阵营，再购买升级单位、锁牌并装配关键道具。","dimension":"玩法","excerpt":"At the start of every run, choose one Hero (with a passive power that shapes your whole plan) and two Clans (which decide what cards you’ll play). That’s your squad. Spend gold to buy and upgrade units, freeze must-haves, and slap on game-changing items.","url":"https://store.steampowered.com/app/3002240/","label":"证据原文片段"},{"text":"用短局异步对战冲击月度重置的排位赛季，并在每日“山丘之王”中争夺单局最高声望。","dimension":"玩法","excerpt":"Ranked is where it counts: win runs, rank up, climb the leaderboard, and chase that sweet Ultimate Slacker title which is reset each month with a fresh season! Or claim the crown in our daily King of the Hill mode by scoring the highest Reputation in a single run.","url":"https://store.steampowered.com/app/3002240/","label":"证据原文片段"},{"text":"把厕纸、慢炖锅等超市日用品变成战斗单位，并围绕它们组合出荒诞联动。","dimension":"题材","excerpt":"Toilet paper. Slow cooker. You name it. If it’s on the shelf, it’s ready for battle. We turned everyday store products into EPIC UNITS ! And they’ve got some seriously crazy synergies .","url":"https://store.steampowered.com/app/3002240/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4252,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":20335,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1260,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":53554,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":4596,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":4596,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.236117441961966,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":131,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":79,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":78.787879,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"自走棋、卡牌对战","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/dd32bfe5ee9ceb1d78b862082aec3d20428e3299/ss_dd32bfe5ee9ceb1d78b862082aec3d20428e3299.1920x1080.jpg?t=1784567689","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/dd32bfe5ee9ceb1d78b862082aec3d20428e3299/ss_dd32bfe5ee9ceb1d78b862082aec3d20428e3299.1920x1080.jpg?t=1784567689","alt":"Lunchbreak Tactics 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/297116435a2870e72ed0c1eba2dd29b84d89593f/ss_297116435a2870e72ed0c1eba2dd29b84d89593f.1920x1080.jpg?t=1784567689","alt":"Lunchbreak Tactics 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/0b4d8a061f51adc311fd74787301af9ab4c3d4e3/ss_0b4d8a061f51adc311fd74787301af9ab4c3d4e3.1920x1080.jpg?t=1784567689","alt":"Lunchbreak Tactics 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/bacc419a8cfeaee3550727bcef0e6b6b0c05623b/ss_bacc419a8cfeaee3550727bcef0e6b6b0c05623b.1920x1080.jpg?t=1784567689","alt":"Lunchbreak Tactics 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lunchbreak Tactics",
+    "developers": [
+      "Borealys Games"
+    ],
+    "publishers": [
+      "Borealys Games",
+      "Vsoo Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-28",
+    "tags": [
+      "自走棋",
+      "卡牌对战",
+      "策略",
+      "策略",
+      "动漫风格"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每局先选一名决定全局思路的英雄和两个限定牌池的阵营，再购买升级单位、锁牌并装配关键道具。",
+      "dimension": "玩法",
+      "excerpt": "At the start of every run, choose one Hero (with a passive power that shapes your whole plan) and two Clans (which decide what cards you’ll play). That’s your squad. Spend gold to buy and upgrade units, freeze must-haves, and slap on game-changing items.",
+      "url": "https://store.steampowered.com/app/3002240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用短局异步对战冲击月度重置的排位赛季，并在每日“山丘之王”中争夺单局最高声望。",
+      "dimension": "玩法",
+      "excerpt": "Ranked is where it counts: win runs, rank up, climb the leaderboard, and chase that sweet Ultimate Slacker title which is reset each month with a fresh season! Or claim the crown in our daily King of the Hill mode by scoring the highest Reputation in a single run.",
+      "url": "https://store.steampowered.com/app/3002240/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "把厕纸、慢炖锅等超市日用品变成战斗单位，并围绕它们组合出荒诞联动。",
+      "dimension": "题材",
+      "excerpt": "Toilet paper. Slow cooker. You name it. If it’s on the shelf, it’s ready for battle. We turned everyday store products into EPIC UNITS ! And they’ve got some seriously crazy synergies .",
+      "url": "https://store.steampowered.com/app/3002240/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 4519,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 20456,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1273,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 56087,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 4873,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 4873,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 11.514914164168186,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 121,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 79,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 79.259259,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "Lunchbreak Tactics当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/dd32bfe5ee9ceb1d78b862082aec3d20428e3299/ss_dd32bfe5ee9ceb1d78b862082aec3d20428e3299.1920x1080.jpg?t=1784567689",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/dd32bfe5ee9ceb1d78b862082aec3d20428e3299/ss_dd32bfe5ee9ceb1d78b862082aec3d20428e3299.1920x1080.jpg?t=1784567689",
+        "alt": "Lunchbreak Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/297116435a2870e72ed0c1eba2dd29b84d89593f/ss_297116435a2870e72ed0c1eba2dd29b84d89593f.1920x1080.jpg?t=1784567689",
+        "alt": "Lunchbreak Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/0b4d8a061f51adc311fd74787301af9ab4c3d4e3/ss_0b4d8a061f51adc311fd74787301af9ab4c3d4e3.1920x1080.jpg?t=1784567689",
+        "alt": "Lunchbreak Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/bacc419a8cfeaee3550727bcef0e6b6b0c05623b/ss_bacc419a8cfeaee3550727bcef0e6b6b0c05623b.1920x1080.jpg?t=1784567689",
+        "alt": "Lunchbreak Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/51ba68e177dc32fb7886e64ff420b810ffe9a96c/ss_51ba68e177dc32fb7886e64ff420b810ffe9a96c.1920x1080.jpg?t=1784567689",
+        "alt": "Lunchbreak Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/0f78cdf9ddd34d36155d3767e00bd8de803f357b/ss_0f78cdf9ddd34d36155d3767e00bd8de803f357b.1920x1080.jpg?t=1784567689",
+        "alt": "Lunchbreak Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/8fbd279657bcde7e27c48294555cbf814dd4f69c/ss_8fbd279657bcde7e27c48294555cbf814dd4f69c.1920x1080.jpg?t=1784567689",
+        "alt": "Lunchbreak Tactics 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002240/bfef257ec0db96b05f254c30d1abc4eeef63297b/ss_bfef257ec0db96b05f254c30d1abc4eeef63297b.1920x1080.jpg?t=1784567689",
+        "alt": "Lunchbreak Tactics 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

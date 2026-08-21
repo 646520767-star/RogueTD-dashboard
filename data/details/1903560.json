@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Atomic Picnic","developers":["BitCake Studio"],"publishers":["Mad Mushroom"],"release_status":"early_access","release_date":"2024-11-07","tags":["类Rogue","轻度Rogue","动作肉鸽","弹幕射击","在线合作"]},"hooks":[{"text":"单人或四人在线合作完成目标，为大型Boss战做准备","dimension":"玩法","excerpt":"Start a Picnic solo or with up to three friends in online co-op! Strategize builds, complete objectives, and defeat monster hordes to prepare for massive boss battles!","url":"https://store.steampowered.com/app/1903560/","label":"证据原文片段"},{"text":"IMPULSE GEAR把斜坡与悬崖转化为空中机动优势","dimension":"玩法","excerpt":"Your IMPULSE GEAR transforms every arena into a high-flying playground of destruction! Turn every ramp into a launchpad, every cliff into an advantage, and every mini-boss into easy pickings from above.","url":"https://store.steampowered.com/app/1903560/","label":"证据原文片段"},{"text":"叠加诅咒奇物、触发进化并召唤陨石构筑连锁","dimension":"玩法","excerpt":"Every upgrade combo creates harmonic chaos. Stack Cursed Curios, trigger evolutions, and rain explosive meteor storms on your enemies for devastating effect.","url":"https://store.steampowered.com/app/1903560/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":22145,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":171576,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":9807,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":361471,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":26053,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":26053,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.308733620322469,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":560,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":74,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":74.464286,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"类Rogue、轻度Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/d6d9b32aa26da59287cb29181107e45c0b83edc7/ss_d6d9b32aa26da59287cb29181107e45c0b83edc7.1920x1080.jpg?t=1778787704","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/d6d9b32aa26da59287cb29181107e45c0b83edc7/ss_d6d9b32aa26da59287cb29181107e45c0b83edc7.1920x1080.jpg?t=1778787704","alt":"Atomic Picnic 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/586986174e81777c8150ae703e7802e7b9b7f7cd/ss_586986174e81777c8150ae703e7802e7b9b7f7cd.1920x1080.jpg?t=1778787704","alt":"Atomic Picnic 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/a1d31ba8961ef111e31aaa73326dbe6174a3a997/ss_a1d31ba8961ef111e31aaa73326dbe6174a3a997.1920x1080.jpg?t=1778787704","alt":"Atomic Picnic 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/5cae63b043b6011fc80275c878d1fb242e223ace/ss_5cae63b043b6011fc80275c878d1fb242e223ace.1920x1080.jpg?t=1778787704","alt":"Atomic Picnic 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Atomic Picnic",
+    "developers": [
+      "BitCake Studio"
+    ],
+    "publishers": [
+      "Mad Mushroom"
+    ],
+    "release_status": "early_access",
+    "release_date": "2024-11-07",
+    "tags": [
+      "类Rogue",
+      "轻度Rogue",
+      "动作肉鸽",
+      "弹幕射击",
+      "在线合作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "单人或四人在线合作完成目标，为大型Boss战做准备",
+      "dimension": "玩法",
+      "excerpt": "Start a Picnic solo or with up to three friends in online co-op! Strategize builds, complete objectives, and defeat monster hordes to prepare for massive boss battles!",
+      "url": "https://store.steampowered.com/app/1903560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "IMPULSE GEAR把斜坡与悬崖转化为空中机动优势",
+      "dimension": "玩法",
+      "excerpt": "Your IMPULSE GEAR transforms every arena into a high-flying playground of destruction! Turn every ramp into a launchpad, every cliff into an advantage, and every mini-boss into easy pickings from above.",
+      "url": "https://store.steampowered.com/app/1903560/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "叠加诅咒奇物、触发进化并召唤陨石构筑连锁",
+      "dimension": "玩法",
+      "excerpt": "Every upgrade combo creates harmonic chaos. Stack Cursed Curios, trigger evolutions, and rain explosive meteor storms on your enemies for devastating effect.",
+      "url": "https://store.steampowered.com/app/1903560/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 22742,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 170036,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 9811,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 361801,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 26708,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 26708,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.262571582953141,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 442,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 75,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 74.509804,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Atomic Picnic位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/d6d9b32aa26da59287cb29181107e45c0b83edc7/ss_d6d9b32aa26da59287cb29181107e45c0b83edc7.1920x1080.jpg?t=1778787704",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/d6d9b32aa26da59287cb29181107e45c0b83edc7/ss_d6d9b32aa26da59287cb29181107e45c0b83edc7.1920x1080.jpg?t=1778787704",
+        "alt": "Atomic Picnic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/586986174e81777c8150ae703e7802e7b9b7f7cd/ss_586986174e81777c8150ae703e7802e7b9b7f7cd.1920x1080.jpg?t=1778787704",
+        "alt": "Atomic Picnic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/a1d31ba8961ef111e31aaa73326dbe6174a3a997/ss_a1d31ba8961ef111e31aaa73326dbe6174a3a997.1920x1080.jpg?t=1778787704",
+        "alt": "Atomic Picnic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/5cae63b043b6011fc80275c878d1fb242e223ace/ss_5cae63b043b6011fc80275c878d1fb242e223ace.1920x1080.jpg?t=1778787704",
+        "alt": "Atomic Picnic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/5e9a3fd5aeccb751bbd72674c07c0979d153478c/ss_5e9a3fd5aeccb751bbd72674c07c0979d153478c.1920x1080.jpg?t=1778787704",
+        "alt": "Atomic Picnic 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903560/72853218f931297f75124337dc025a699877852d/ss_72853218f931297f75124337dc025a699877852d.1920x1080.jpg?t=1778787704",
+        "alt": "Atomic Picnic 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

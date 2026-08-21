@@ -1,1 +1,178 @@
-{"identity":{"original_title":"KeeperRL","developers":["Electric Succubi"],"publishers":["Electric Succubi"],"release_status":"released","release_date":"2024-02-29","tags":["模拟","类Rogue","程序生成","复古","僵尸"]},"hooks":[{"text":"用陷阱、守卫区和狭窄通道把自建地下城改造成防御工事","dimension":"玩法","excerpt":"Make sure your dungeon is defensible against invaders using traps, guard areas and choke points.","url":"https://store.steampowered.com/app/329970/","label":"证据原文片段"},{"text":"直接操控爪牙进行敌我同步行动的回合制战斗","dimension":"玩法","excerpt":"Engage in combat and take direct control of your minions and in true roguelike fashion fight tactical battles in a simultaneous turn-based manner. When you make a move, your enemies also move.","url":"https://store.steampowered.com/app/329970/","label":"证据原文片段"},{"text":"最多掌握10个独特阵营及其守护者","dimension":"玩法","excerpt":"Master up to 10 unique factions and their respective keepers.","url":"https://store.steampowered.com/app/329970/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":128354,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":162675,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":23868,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1707297,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":135406,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":182640,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":16.181634528153367,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1801,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":83,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":83.471991,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"模拟、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_de7cb3f2f4b318176654433da02295c05337cdd8.1920x1080.jpg?t=1751631687","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_de7cb3f2f4b318176654433da02295c05337cdd8.1920x1080.jpg?t=1751631687","alt":"KeeperRL 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_bab99920631cb853a176fe2072e1e6f12880a1f5.1920x1080.jpg?t=1751631687","alt":"KeeperRL 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_d6eb50efdaba0352561c054c4eddac83c947f2a5.1920x1080.jpg?t=1751631687","alt":"KeeperRL 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_16faff0a104ab16068138c70adfa9341688650c0.1920x1080.jpg?t=1751631687","alt":"KeeperRL 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "KeeperRL",
+    "developers": [
+      "Electric Succubi"
+    ],
+    "publishers": [
+      "Electric Succubi"
+    ],
+    "release_status": "released",
+    "release_date": "2024-02-29",
+    "tags": [
+      "程序生成",
+      "模拟",
+      "类Rogue",
+      "类Rogue",
+      "程序生成"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用陷阱、守卫区和狭窄通道把自建地下城改造成防御工事",
+      "dimension": "玩法",
+      "excerpt": "Make sure your dungeon is defensible against invaders using traps, guard areas and choke points.",
+      "url": "https://store.steampowered.com/app/329970/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "直接操控爪牙进行敌我同步行动的回合制战斗",
+      "dimension": "玩法",
+      "excerpt": "Engage in combat and take direct control of your minions and in true roguelike fashion fight tactical battles in a simultaneous turn-based manner. When you make a move, your enemies also move.",
+      "url": "https://store.steampowered.com/app/329970/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "最多掌握10个独特阵营及其守护者",
+      "dimension": "玩法",
+      "excerpt": "Master up to 10 unique factions and their respective keepers.",
+      "url": "https://store.steampowered.com/app/329970/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 135236,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 163640,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 23880,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1812805,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 142649,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 192411,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 16.05297582383202,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1671,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 83,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 83.490305,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "KeeperRL位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_de7cb3f2f4b318176654433da02295c05337cdd8.1920x1080.jpg?t=1751631687",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_de7cb3f2f4b318176654433da02295c05337cdd8.1920x1080.jpg?t=1751631687",
+        "alt": "KeeperRL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_bab99920631cb853a176fe2072e1e6f12880a1f5.1920x1080.jpg?t=1751631687",
+        "alt": "KeeperRL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_d6eb50efdaba0352561c054c4eddac83c947f2a5.1920x1080.jpg?t=1751631687",
+        "alt": "KeeperRL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_16faff0a104ab16068138c70adfa9341688650c0.1920x1080.jpg?t=1751631687",
+        "alt": "KeeperRL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_a0ea157a048599db43995c3e6d07da9285cc4bd9.1920x1080.jpg?t=1751631687",
+        "alt": "KeeperRL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_36e31f7d39ddb216380802d77fcd269e1be28fde.1920x1080.jpg?t=1751631687",
+        "alt": "KeeperRL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_d283c9dc5d972fe5aa6badfa027a2e571cbb10d4.1920x1080.jpg?t=1751631687",
+        "alt": "KeeperRL 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329970/ss_cde102eb122f6f211069ea35bc2c6db6721c8287.1920x1080.jpg?t=1751631687",
+        "alt": "KeeperRL 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

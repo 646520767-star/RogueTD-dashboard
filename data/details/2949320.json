@@ -1,1 +1,171 @@
-{"identity":{"original_title":"Ratatan","developers":["TVT Co. Ltd.","Ratata Arts"],"publishers":["Game Source Entertainment"],"release_status":"early_access","release_date":"2025-09-18","tags":["独立游戏","动漫风格","类Rogue","可爱","二维画面"]},"hooks":[{"text":"最多四人在线协作，带领超过100名角色在横版战场展开大规模混战。","dimension":"玩法","excerpt":"Ratatan is a rhythm roguelike action game that combines rhythm games and side-scrolling action, with online co-op gameplay supporting up to 4 players. An intense battle unfolds with over 100 characters fighting in a massive melee.","url":"https://store.steampowered.com/app/2949320/","label":"证据原文片段"},{"text":"按节奏输入指令驱动部队，还要实时判断下令位置、角色站位与撤退时机。","dimension":"玩法","excerpt":"Feel the beat and use rhythm sequences in time to order your Cobuns in the direction you want them to go. Since the Ratatans can be moved freely, your judgement to decide where to give orders, where to position the ratatan, and when to retreat is critical.","url":"https://store.steampowered.com/app/2949320/","label":"证据原文片段"},{"text":"以强调动态表现的2D动画塑造角色，让每次行动都带有鲜明活泼的个性。","dimension":"画风","excerpt":"We want to emphasize the unique performance of 2D animation and put lively personality into the action.","url":"https://store.steampowered.com/app/2949320/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":130822,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":546514,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":29714,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2613035,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":153569,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":153569,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.710822744210876,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":3067,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":85.658409,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"独立游戏、动漫风格","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_710a03005206732eb0970580e4a8b4eb35cc868c.1920x1080.jpg?t=1776161323","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_710a03005206732eb0970580e4a8b4eb35cc868c.1920x1080.jpg?t=1776161323","alt":"Ratatan 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_3bf500e9dc9333cb9c7ae24d1cf0dcea9ab27197.1920x1080.jpg?t=1776161323","alt":"Ratatan 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_a655afc172f71ecb12b130e1a3769a368b8c3c10.1920x1080.jpg?t=1776161323","alt":"Ratatan 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_e7016ccd66125c3e87cc0b62593414e2ed6f5842.1920x1080.jpg?t=1776161323","alt":"Ratatan 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Ratatan",
+    "developers": [
+      "TVT Co. Ltd.",
+      "Ratata Arts"
+    ],
+    "publishers": [
+      "Game Source Entertainment"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-09-18",
+    "tags": [
+      "独立游戏",
+      "独立游戏",
+      "动漫风格",
+      "类Rogue",
+      "可爱"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "最多四人在线协作，带领超过100名角色在横版战场展开大规模混战。",
+      "dimension": "玩法",
+      "excerpt": "Ratatan is a rhythm roguelike action game that combines rhythm games and side-scrolling action, with online co-op gameplay supporting up to 4 players. An intense battle unfolds with over 100 characters fighting in a massive melee.",
+      "url": "https://store.steampowered.com/app/2949320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "按节奏输入指令驱动部队，还要实时判断下令位置、角色站位与撤退时机。",
+      "dimension": "玩法",
+      "excerpt": "Feel the beat and use rhythm sequences in time to order your Cobuns in the direction you want them to go. Since the Ratatans can be moved freely, your judgement to decide where to give orders, where to position the ratatan, and when to retreat is critical.",
+      "url": "https://store.steampowered.com/app/2949320/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "以强调动态表现的2D动画塑造角色，让每次行动都带有鲜明活泼的个性。",
+      "dimension": "画风",
+      "excerpt": "We want to emphasize the unique performance of 2D animation and put lively personality into the action.",
+      "url": "https://store.steampowered.com/app/2949320/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 131429,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 545918,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 29771,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 2622337,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 154346,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 154346,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.74849112714013,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2433,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 85.691162,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Ratatan位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_710a03005206732eb0970580e4a8b4eb35cc868c.1920x1080.jpg?t=1776161323",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_710a03005206732eb0970580e4a8b4eb35cc868c.1920x1080.jpg?t=1776161323",
+        "alt": "Ratatan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_3bf500e9dc9333cb9c7ae24d1cf0dcea9ab27197.1920x1080.jpg?t=1776161323",
+        "alt": "Ratatan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_a655afc172f71ecb12b130e1a3769a368b8c3c10.1920x1080.jpg?t=1776161323",
+        "alt": "Ratatan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_e7016ccd66125c3e87cc0b62593414e2ed6f5842.1920x1080.jpg?t=1776161323",
+        "alt": "Ratatan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_dce90412b99bcf0988459db85f0666334639637b.1920x1080.jpg?t=1776161323",
+        "alt": "Ratatan 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/ss_54bc69b0abeb95d76893c174330df093c03f54a5.1920x1080.jpg?t=1776161323",
+        "alt": "Ratatan 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

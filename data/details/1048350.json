@@ -1,1 +1,181 @@
-{"identity":{"original_title":"Nigate Tale","developers":["Hermit Games","2P Games"],"publishers":["2P Games"],"release_status":"released","release_date":"2024-09-24","tags":["动作肉鸽","魔法","独立游戏","砍杀","动作"]},"hooks":[{"text":"死亡会重置时间循环，城堡布局随每次复活改写","dimension":"玩法","excerpt":"Every time you die, you will reappear in the same place, as in stuck in a neverending time loop… but the castle will have changed its layout, forcing you to begin your path anew!","url":"https://store.steampowered.com/app/1048350/","label":"证据原文片段"},{"text":"近远程武器、魔法与多棵技能树自由拼出每局流派","dimension":"玩法","excerpt":"Nigate Tale gives you total freedom to choose your own playstyle, with dozens of weapons of all kinds (melee and ranged, slow but strong and weak but fast…), different types of magic , and several skills trees for you to level up, creating in every playthrough a unique character to fight with.","url":"https://store.steampowered.com/app/1048350/","label":"证据原文片段"},{"text":"给怪物少女送对礼物，换取魔法加护与并肩作战","dimension":"玩法","excerpt":"this castle is also inhabited by friendly monster girls, capable of granting you magical powers and even fight by your side… if you manage to befriend them and bring them the right presents!","url":"https://store.steampowered.com/app/1048350/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":25665,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":83880,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":8803,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":231816,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":32559,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":86186,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":8.318240454979124,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":962,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":67,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":67.255717,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为67.255717%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_06e3e0f2cb7fe2bd71b924c22acee45cbfd899de.1920x1080.jpg?t=1767596558","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_06e3e0f2cb7fe2bd71b924c22acee45cbfd899de.1920x1080.jpg?t=1767596558","alt":"异界之上 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_db3e56e391f915cb7b072c60e05af4227cb1fb0d.1920x1080.jpg?t=1767596558","alt":"异界之上 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_a30459616bafc8ccb8f32dae333693f328f9b7b9.1920x1080.jpg?t=1767596558","alt":"异界之上 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_2629344f38dc39c2b55cdcda6b6cf094d064af0b.1920x1080.jpg?t=1767596558","alt":"异界之上 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Nigate Tale",
+    "developers": [
+      "Hermit Games",
+      "2P Games"
+    ],
+    "publishers": [
+      "2P Games"
+    ],
+    "release_status": "released",
+    "release_date": "2024-09-24",
+    "tags": [
+      "动作肉鸽",
+      "魔法",
+      "独立游戏",
+      "砍杀",
+      "动作"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "死亡会重置时间循环，城堡布局随每次复活改写",
+      "dimension": "玩法",
+      "excerpt": "Every time you die, you will reappear in the same place, as in stuck in a neverending time loop… but the castle will have changed its layout, forcing you to begin your path anew!",
+      "url": "https://store.steampowered.com/app/1048350/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "近远程武器、魔法与多棵技能树自由拼出每局流派",
+      "dimension": "玩法",
+      "excerpt": "Nigate Tale gives you total freedom to choose your own playstyle, with dozens of weapons of all kinds (melee and ranged, slow but strong and weak but fast…), different types of magic , and several skills trees for you to level up, creating in every playthrough a unique character to fight with.",
+      "url": "https://store.steampowered.com/app/1048350/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "给怪物少女送对礼物，换取魔法加护与并肩作战",
+      "dimension": "玩法",
+      "excerpt": "this castle is also inhabited by friendly monster girls, capable of granting you magical powers and even fight by your side… if you manage to befriend them and bring them the right presents!",
+      "url": "https://store.steampowered.com/app/1048350/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 27722,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 85656,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 8819,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 253338,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 35224,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 93239,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 8.339216679905286,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 670,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 67,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 67.393562,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为67.255717%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "异界之上位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_06e3e0f2cb7fe2bd71b924c22acee45cbfd899de.1920x1080.jpg?t=1767596558",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_06e3e0f2cb7fe2bd71b924c22acee45cbfd899de.1920x1080.jpg?t=1767596558",
+        "alt": "异界之上 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_db3e56e391f915cb7b072c60e05af4227cb1fb0d.1920x1080.jpg?t=1767596558",
+        "alt": "异界之上 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_a30459616bafc8ccb8f32dae333693f328f9b7b9.1920x1080.jpg?t=1767596558",
+        "alt": "异界之上 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_2629344f38dc39c2b55cdcda6b6cf094d064af0b.1920x1080.jpg?t=1767596558",
+        "alt": "异界之上 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_bdec9b9e66dfd4f2637f3b32c0d476641e98a893.1920x1080.jpg?t=1767596558",
+        "alt": "异界之上 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_9584518322337282e6dfa633e07347da992857e8.1920x1080.jpg?t=1767596558",
+        "alt": "异界之上 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_22856d69075fb655032c73906bfe8ba53a6da56f.1920x1080.jpg?t=1767596558",
+        "alt": "异界之上 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048350/ss_0f910e06ec7bee53fff973f9cf014fff0cbba06a.1920x1080.jpg?t=1767596558",
+        "alt": "异界之上 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

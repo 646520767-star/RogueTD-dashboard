@@ -1,1 +1,181 @@
-{"identity":{"original_title":"Kingdom Loop","developers":["ROOT GAMES"],"publishers":["Ultimate Publishing"],"release_status":"released","release_date":"2026-04-28","tags":["肉鸽卡组构筑","高重复可玩性","卡牌游戏","自走棋","卡组构筑"]},"hooks":[{"text":"玩家围绕圣杯神殿的环形道路循环前进，从 200 多种地块中决定路径内容，每圈敌人都会增强。","dimension":"玩法","excerpt":"Travel along the ring-shaped road around the Grail Temple. You decide what awaits on your path, with over 200 tiles offering unique effects. With each lap, enemies grow stronger, encouraging you to evolve your strategies and discover new combinations and rewards.","url":"https://store.steampowered.com/app/3541000/","label":"证据原文片段"},{"text":"采集森林与山地资源后建设堡垒、招募军队、摧毁敌方据点，并寻找建筑地块联动。","dimension":"玩法","excerpt":"Gather resources from forests and mountains, build fortresses to recruit troops, destroy enemy strongholds, discover powerful tile combinations, and more.","url":"https://store.steampowered.com/app/3541000/","label":"证据原文片段"},{"text":"卡牌用于放置道路地块，商店只出售牌组内卡牌，并在每圈加入一张随机牌改变后续循环。","dimension":"玩法","excerpt":"You’ll need cards to place tiles. Cards can be earned in battle or purchased with gold. Shops only offer cards from your deck, and each lap, you can add one random card.","url":"https://store.steampowered.com/app/3541000/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":804,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":17794,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1045,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":7991,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1160,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1160,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.506691957279096,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":41,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":56,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":56.097561,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["截至2026-07-24，Steam官方好评率为56.097561%，低于本包70%的观察阈值。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/9013cffa4e63b8051826f05a26e937095ab69ffa/ss_9013cffa4e63b8051826f05a26e937095ab69ffa.1920x1080.jpg?t=1782831477","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/9013cffa4e63b8051826f05a26e937095ab69ffa/ss_9013cffa4e63b8051826f05a26e937095ab69ffa.1920x1080.jpg?t=1782831477","alt":"Kingdom Loop 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/9008eb4ed27df1033b6c4f6d79c749707fb1324e/ss_9008eb4ed27df1033b6c4f6d79c749707fb1324e.1920x1080.jpg?t=1782831477","alt":"Kingdom Loop 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/9b0a6dec6171723ddd7091106245c0dd2c6c12a8/ss_9b0a6dec6171723ddd7091106245c0dd2c6c12a8.1920x1080.jpg?t=1782831477","alt":"Kingdom Loop 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/b4121105b7b4125796927866a6203873972dd669/ss_b4121105b7b4125796927866a6203873972dd669.1920x1080.jpg?t=1782831477","alt":"Kingdom Loop 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Kingdom Loop",
+    "developers": [
+      "ROOT GAMES"
+    ],
+    "publishers": [
+      "Ultimate Publishing",
+      "PlayWay S.A."
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-28",
+    "tags": [
+      "肉鸽卡组构筑",
+      "高重复可玩性",
+      "卡牌游戏",
+      "自走棋",
+      "卡组构筑"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "玩家围绕圣杯神殿的环形道路循环前进，从 200 多种地块中决定路径内容，每圈敌人都会增强。",
+      "dimension": "玩法",
+      "excerpt": "Travel along the ring-shaped road around the Grail Temple. You decide what awaits on your path, with over 200 tiles offering unique effects. With each lap, enemies grow stronger, encouraging you to evolve your strategies and discover new combinations and rewards.",
+      "url": "https://store.steampowered.com/app/3541000/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "采集森林与山地资源后建设堡垒、招募军队、摧毁敌方据点，并寻找建筑地块联动。",
+      "dimension": "玩法",
+      "excerpt": "Gather resources from forests and mountains, build fortresses to recruit troops, destroy enemy strongholds, discover powerful tile combinations, and more.",
+      "url": "https://store.steampowered.com/app/3541000/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "卡牌用于放置道路地块，商店只出售牌组内卡牌，并在每圈加入一张随机牌改变后续循环。",
+      "dimension": "玩法",
+      "excerpt": "You’ll need cards to place tiles. Cards can be earned in battle or purchased with gold. Shops only offer cards from your deck, and each lap, you can add one random card.",
+      "url": "https://store.steampowered.com/app/3541000/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 816,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 17899,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1043,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 8218,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1179,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1179,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 2.513785332809508,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 23,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 56,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 56.097561,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "截至2026-07-24，Steam官方好评率为56.097561%，低于本包70%的观察阈值。"
+  ],
+  "actions": [
+    {
+      "label": "保留观察",
+      "target": "产品身份与客观指标",
+      "reason": "Kingdom Loop当前未进入正式分池。",
+      "trigger": "达到正式分池阈值后重新评估。",
+      "priority": "低"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/9013cffa4e63b8051826f05a26e937095ab69ffa/ss_9013cffa4e63b8051826f05a26e937095ab69ffa.1920x1080.jpg?t=1782831477",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/9013cffa4e63b8051826f05a26e937095ab69ffa/ss_9013cffa4e63b8051826f05a26e937095ab69ffa.1920x1080.jpg?t=1786634828",
+        "alt": "Kingdom Loop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/9008eb4ed27df1033b6c4f6d79c749707fb1324e/ss_9008eb4ed27df1033b6c4f6d79c749707fb1324e.1920x1080.jpg?t=1786634828",
+        "alt": "Kingdom Loop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/9b0a6dec6171723ddd7091106245c0dd2c6c12a8/ss_9b0a6dec6171723ddd7091106245c0dd2c6c12a8.1920x1080.jpg?t=1786634828",
+        "alt": "Kingdom Loop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/b4121105b7b4125796927866a6203873972dd669/ss_b4121105b7b4125796927866a6203873972dd669.1920x1080.jpg?t=1786634828",
+        "alt": "Kingdom Loop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/e081f38e9c97ae62f0ec64999fcad63d22d59e46/ss_e081f38e9c97ae62f0ec64999fcad63d22d59e46.1920x1080.jpg?t=1786634828",
+        "alt": "Kingdom Loop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/90bea97ad4ea73b5108dc4299fc19332f26a1a2a/ss_90bea97ad4ea73b5108dc4299fc19332f26a1a2a.1920x1080.jpg?t=1786634828",
+        "alt": "Kingdom Loop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/dc6bb81d7fad192cf92eb2af5f02c696d3e95dd1/ss_dc6bb81d7fad192cf92eb2af5f02c696d3e95dd1.1920x1080.jpg?t=1786634828",
+        "alt": "Kingdom Loop 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541000/e4fe90fe321d598985a088d7ea15c1ab7b118d60/ss_e4fe90fe321d598985a088d7ea15c1ab7b118d60.1920x1080.jpg?t=1786634828",
+        "alt": "Kingdom Loop 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

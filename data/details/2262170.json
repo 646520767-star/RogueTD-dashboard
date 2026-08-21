@@ -1,1 +1,315 @@
-{"identity":{"original_title":"ROSE","developers":["Zakroutil"],"publishers":["Zakroutil"],"release_status":"released","release_date":"2024-11-18","tags":["轻度Rogue","竞技场射击","动作肉鸽","恐怖","第一人称"]},"hooks":[{"text":"献祭身体部位会增加机制与难度，也可积累压力反转为新能力","dimension":"玩法","excerpt":"Each body part sacrificed will add new mechanics and will change the game in a meaningful way. Each sacrifice will increase your stress level, with enough stress you can reverse a sacrifice to gain a new ability instead.","url":"https://store.steampowered.com/app/2262170/","label":"证据原文片段"},{"text":"额外奖励竞技场会用特殊规则强迫玩家改变打法","dimension":"玩法","excerpt":"In some arenas you can figh for additional rewards. In such cases, enemies will spawn with a special rule-set, forcing you to strategize and change your play style to complete the rule objective.","url":"https://store.steampowered.com/app/2262170/","label":"证据原文片段"},{"text":"武器可改变地图，血液枪以生命作弹药并惩罚失误","dimension":"玩法","excerpt":"Each weapon provides a unique gameplay experience, some can even alter the maps themselves. The gun selection ranges from a simple revolver to a demented gun which consumes your blood for ammo and punishes you each time you miss.","url":"https://store.steampowered.com/app/2262170/","label":"证据原文片段"}],"opinions":[{"text":"视觉设计对独立开发作品而言非常出色","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The visual design is honestly outstanding for a free game by a solo dev.","url":"https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/","label":"证据原文片段"}]},{"text":"死亡后祭坛可能为空，需要重启游戏","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"after death, need to fully restart game since there is nothing on the pedestal of sacrifice","url":"https://steamcommunity.com/profiles/76561198841043523/recommended/2262170/","label":"证据原文片段"}]},{"text":"游戏内容解释不足","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"not enough of the game was explained","url":"https://steamcommunity.com/profiles/76561198287036501/recommended/2262170/","label":"证据原文片段"}]},{"text":"闪光和视觉特效过于拥挤","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"very glutted with flashes and visual effects","url":"https://steamcommunity.com/id/rockoxx/recommended/2262170/","label":"证据原文片段"}]},{"text":"Boss战性能问题严重","dimension":"技术/性能","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the game ♥♥♥♥♥ itself during pretty much every bossfight","url":"https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/","label":"证据原文片段"}]},{"text":"后期难以判断是否造成伤害","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"hard to tell if you are dealing damage later in the game","url":"https://steamcommunity.com/profiles/76561198287036501/recommended/2262170/","label":"证据原文片段"}]},{"text":"核心机制令人满足","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The core mechanics are satisfying","url":"https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/","label":"证据原文片段"}]},{"text":"玩法整体令人享受","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the game is overall enjoyable","url":"https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/","label":"证据原文片段"}]},{"text":"所有武器使用起来都很有乐趣","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The weapons are all enjoyable to use","url":"https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/","label":"证据原文片段"}]},{"text":"故事为玩法循环提供了意义","dimension":"剧情","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"it gives meaning to the game loop","url":"https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":10493,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":568,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":73,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":10493,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":10493,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":2.1173112989411047,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":167,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.42515,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["死亡后祭坛可能为空，需要重启游戏","游戏内容解释不足","闪光和视觉特效过于拥挤","技术/性能：Boss战性能问题严重","后期难以判断是否造成伤害"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_52f806cab67e478a7542210b3342748669969332.1920x1080.jpg?t=1774218927","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_52f806cab67e478a7542210b3342748669969332.1920x1080.jpg?t=1774218927","alt":"ROSE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_61601b8a9c3dde168db32b6d0f0ef13c19aae9d6.1920x1080.jpg?t=1774218927","alt":"ROSE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_67b125469d6df7041756bdfef86f4bc9f202b810.1920x1080.jpg?t=1774218927","alt":"ROSE 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_8587b96ad51f99b1d30f37b073fadd8ab9ba2152.1920x1080.jpg?t=1774218927","alt":"ROSE 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "ROSE",
+    "developers": [
+      "Zakroutil"
+    ],
+    "publishers": [
+      "Zakroutil"
+    ],
+    "release_status": "released",
+    "release_date": "2024-11-18",
+    "tags": [
+      "轻度Rogue",
+      "轻度Rogue",
+      "竞技场射击",
+      "动作肉鸽",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "献祭身体部位会增加机制与难度，也可积累压力反转为新能力",
+      "dimension": "玩法",
+      "excerpt": "Each body part sacrificed will add new mechanics and will change the game in a meaningful way. Each sacrifice will increase your stress level, with enough stress you can reverse a sacrifice to gain a new ability instead.",
+      "url": "https://store.steampowered.com/app/2262170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "额外奖励竞技场会用特殊规则强迫玩家改变打法",
+      "dimension": "玩法",
+      "excerpt": "In some arenas you can figh for additional rewards. In such cases, enemies will spawn with a special rule-set, forcing you to strategize and change your play style to complete the rule objective.",
+      "url": "https://store.steampowered.com/app/2262170/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "武器可改变地图，血液枪以生命作弹药并惩罚失误",
+      "dimension": "玩法",
+      "excerpt": "Each weapon provides a unique gameplay experience, some can even alter the maps themselves. The gun selection ranges from a simple revolver to a demented gun which consumes your blood for ammo and punishes you each time you miss.",
+      "url": "https://store.steampowered.com/app/2262170/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "视觉设计对独立开发作品而言非常出色",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The visual design is honestly outstanding for a free game by a solo dev.",
+          "url": "https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "死亡后祭坛可能为空，需要重启游戏",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "after death, need to fully restart game since there is nothing on the pedestal of sacrifice",
+          "url": "https://steamcommunity.com/profiles/76561198841043523/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "游戏内容解释不足",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "not enough of the game was explained",
+          "url": "https://steamcommunity.com/profiles/76561198287036501/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "闪光和视觉特效过于拥挤",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "very glutted with flashes and visual effects",
+          "url": "https://steamcommunity.com/id/rockoxx/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "Boss战性能问题严重",
+      "dimension": "技术/性能",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the game ♥♥♥♥♥ itself during pretty much every bossfight",
+          "url": "https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期难以判断是否造成伤害",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "hard to tell if you are dealing damage later in the game",
+          "url": "https://steamcommunity.com/profiles/76561198287036501/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "核心机制令人满足",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The core mechanics are satisfying",
+          "url": "https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "玩法整体令人享受",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the game is overall enjoyable",
+          "url": "https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "所有武器使用起来都很有乐趣",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The weapons are all enjoyable to use",
+          "url": "https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "故事为玩法循环提供了意义",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "it gives meaning to the game loop",
+          "url": "https://steamcommunity.com/profiles/76561199280599516/recommended/2262170/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 10679,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3835,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 571,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 90,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10679,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10679,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 1.989601027890266,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 168,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 88,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.573964,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "死亡后祭坛可能为空，需要重启游戏",
+    "游戏内容解释不足",
+    "闪光和视觉特效过于拥挤",
+    "技术/性能：Boss战性能问题严重",
+    "后期难以判断是否造成伤害"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "ROSE位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_52f806cab67e478a7542210b3342748669969332.1920x1080.jpg?t=1774218927",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_52f806cab67e478a7542210b3342748669969332.1920x1080.jpg?t=1774218927",
+        "alt": "ROSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_61601b8a9c3dde168db32b6d0f0ef13c19aae9d6.1920x1080.jpg?t=1774218927",
+        "alt": "ROSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_67b125469d6df7041756bdfef86f4bc9f202b810.1920x1080.jpg?t=1774218927",
+        "alt": "ROSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_8587b96ad51f99b1d30f37b073fadd8ab9ba2152.1920x1080.jpg?t=1774218927",
+        "alt": "ROSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_77c986e15898a7ed01a642f6cc82072a8c01418b.1920x1080.jpg?t=1774218927",
+        "alt": "ROSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_05f9df8672228d3401ceb4160914836825b88bea.1920x1080.jpg?t=1774218927",
+        "alt": "ROSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_7bbf81db468566af2c40da9bc5551d48c7468dea.1920x1080.jpg?t=1774218927",
+        "alt": "ROSE 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262170/ss_663c3118f89947b1f5165177db48cb8338d8f5ef.1920x1080.jpg?t=1774218927",
+        "alt": "ROSE 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

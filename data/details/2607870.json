@@ -1,1 +1,170 @@
-{"identity":{"original_title":"Slyders","developers":["Kato Games"],"publishers":["Kato Games"],"release_status":"released","release_date":"2025-11-24","tags":["轻度Rogue","弹幕射击","动作肉鸽","竞技场射击","玩家对环境"]},"hooks":[{"text":"每局十五分钟，从新手快速堆成毁灭机器，战斗和移动都强调高速。","dimension":"玩法","excerpt":"Rise from rookie to god of destruction in intense 15 minute runs Fast-paced combat and movement","url":"https://store.steampowered.com/app/2607870/","label":"证据原文片段"},{"text":"主动与被动能力之外，还能召唤盟友、布置炮塔、拾取特殊武器并升级首领战利品。","dimension":"玩法","excerpt":"Choose from a wide range of active and passive abilities, summon powerful allies like Bernard, the elephant warrior, or Sandy, the giant sandworm lady. Deploy deadly turrets, collect special weapons, loot and upgrade powerful items, face mighty bosses, and dodge the onslaught of incoming rockets!","url":"https://store.steampowered.com/app/2607870/","label":"证据原文片段"},{"text":"无尽浮空岛世界由狐狸战士、超音速战龟与喷气背包小熊组成反抗三人组。","dimension":"题材","excerpt":"You play as Aryx, a fearless fox fighter who is accompanied by his supersonic turtle mount and Brian, a tiny but wise bear with a jetpack. Together, the heroic trio steps up to face the entire demonic war machine.","url":"https://store.steampowered.com/app/2607870/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":4823,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":38128,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":1736,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":50698,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":5010,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":5010,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.003474373367644,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":169,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":86,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":86.390533,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"轻度Rogue、弹幕射击","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/f1f94e4d98475888acdd9de953e9a8cf7afce422/ss_f1f94e4d98475888acdd9de953e9a8cf7afce422.1920x1080.jpg?t=1774872057","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/f1f94e4d98475888acdd9de953e9a8cf7afce422/ss_f1f94e4d98475888acdd9de953e9a8cf7afce422.1920x1080.jpg?t=1774872057","alt":"Slyders 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/a8dee48d85266844207e41fe23e53c6bfb5caa22/ss_a8dee48d85266844207e41fe23e53c6bfb5caa22.1920x1080.jpg?t=1774872057","alt":"Slyders 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/1b94395ebbab5c36a63bbaa2019729435c84dcdc/ss_1b94395ebbab5c36a63bbaa2019729435c84dcdc.1920x1080.jpg?t=1774872057","alt":"Slyders 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/9ac4c12833f8d717faac4d741bc515105fbc3c10/ss_9ac4c12833f8d717faac4d741bc515105fbc3c10.1920x1080.jpg?t=1774872057","alt":"Slyders 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Slyders",
+    "developers": [
+      "Kato Games"
+    ],
+    "publishers": [
+      "Kato Games"
+    ],
+    "release_status": "released",
+    "release_date": "2025-11-24",
+    "tags": [
+      "轻度Rogue",
+      "弹幕射击",
+      "动作肉鸽",
+      "竞技场射击",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "每局十五分钟，从新手快速堆成毁灭机器，战斗和移动都强调高速。",
+      "dimension": "玩法",
+      "excerpt": "Rise from rookie to god of destruction in intense 15 minute runs Fast-paced combat and movement",
+      "url": "https://store.steampowered.com/app/2607870/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "主动与被动能力之外，还能召唤盟友、布置炮塔、拾取特殊武器并升级首领战利品。",
+      "dimension": "玩法",
+      "excerpt": "Choose from a wide range of active and passive abilities, summon powerful allies like Bernard, the elephant warrior, or Sandy, the giant sandworm lady. Deploy deadly turrets, collect special weapons, loot and upgrade powerful items, face mighty bosses, and dodge the onslaught of incoming rockets!",
+      "url": "https://store.steampowered.com/app/2607870/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "无尽浮空岛世界由狐狸战士、超音速战龟与喷气背包小熊组成反抗三人组。",
+      "dimension": "题材",
+      "excerpt": "You play as Aryx, a fearless fox fighter who is accompanied by his supersonic turtle mount and Brian, a tiny but wise bear with a jetpack. Together, the heroic trio steps up to face the entire demonic war machine.",
+      "url": "https://store.steampowered.com/app/2607870/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 5643,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 38354,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 1736,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 50911,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 5860,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 5860,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.9878832412849325,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 161,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 86,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 86.470588,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Slyders位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/f1f94e4d98475888acdd9de953e9a8cf7afce422/ss_f1f94e4d98475888acdd9de953e9a8cf7afce422.1920x1080.jpg?t=1774872057",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/f1f94e4d98475888acdd9de953e9a8cf7afce422/ss_f1f94e4d98475888acdd9de953e9a8cf7afce422.1920x1080.jpg?t=1785273824",
+        "alt": "Slyders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/a8dee48d85266844207e41fe23e53c6bfb5caa22/ss_a8dee48d85266844207e41fe23e53c6bfb5caa22.1920x1080.jpg?t=1785273824",
+        "alt": "Slyders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/1b94395ebbab5c36a63bbaa2019729435c84dcdc/ss_1b94395ebbab5c36a63bbaa2019729435c84dcdc.1920x1080.jpg?t=1785273824",
+        "alt": "Slyders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/9ac4c12833f8d717faac4d741bc515105fbc3c10/ss_9ac4c12833f8d717faac4d741bc515105fbc3c10.1920x1080.jpg?t=1785273824",
+        "alt": "Slyders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/67dddde804793d5969b7535372e2562655dfa0b5/ss_67dddde804793d5969b7535372e2562655dfa0b5.1920x1080.jpg?t=1785273824",
+        "alt": "Slyders 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607870/0799a886fca15c03b5a6cce45fc30b4f65604840/ss_0799a886fca15c03b5a6cce45fc30b4f65604840.1920x1080.jpg?t=1785273824",
+        "alt": "Slyders 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

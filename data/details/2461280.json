@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Lessaria: Fantasy Kingdom Sim","developers":["Rockbee Team"],"publishers":["Polden Publishing"],"release_status":"released","release_date":"2025-10-20","tags":["策略","即时战略","模拟","经营管理","奇幻"]},"hooks":[{"text":"只下目标不下指令，让有自主意志的英雄替你打仗","dimension":"玩法","excerpt":"You build a kingdom, hire heroes, and they live their own lives, doing whatever they please. Try winning a battle with such an unpredictable army!","url":"https://store.steampowered.com/app/2461280/","label":"证据原文片段"},{"text":"全新战斗系统加入英雄小队，继续演化Majesty式RTS","dimension":"玩法","excerpt":"We're not creating a clone — we're evolving the game as if we're making the third part of the series. Brand-new combat system. Hero squads. We're adding many fresh ideas to the genre.","url":"https://store.steampowered.com/app/2461280/","label":"证据原文片段"},{"text":"自由建国的沙盒可打1对1或1对3电脑战","dimension":"玩法","excerpt":"Sandbox Mode Build your kingdom with total freedom in a mode where you fight against computer-controlled opponents in 1vs1 duels or 1vs3 skirmishes.","url":"https://store.steampowered.com/app/2461280/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":73823,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":165223,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":16465,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1042211,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":75707,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":75707,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":7.963146534976382,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2981,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":78,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":78.202549,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"策略、即时战略","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/87045a9f2e2ad2bbd52840a90ffd54a96efab19b/ss_87045a9f2e2ad2bbd52840a90ffd54a96efab19b.1920x1080.jpg?t=1782378649","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/87045a9f2e2ad2bbd52840a90ffd54a96efab19b/ss_87045a9f2e2ad2bbd52840a90ffd54a96efab19b.1920x1080.jpg?t=1782378649","alt":"Lessaria: Fantasy Kingdom Sim 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/98b2f268113a6e77a9ff6957bb59432c27911419/ss_98b2f268113a6e77a9ff6957bb59432c27911419.1920x1080.jpg?t=1782378649","alt":"Lessaria: Fantasy Kingdom Sim 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/89416e3b11f2ed2d2a978ac4137cc07334c7e9d4/ss_89416e3b11f2ed2d2a978ac4137cc07334c7e9d4.1920x1080.jpg?t=1782378649","alt":"Lessaria: Fantasy Kingdom Sim 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/7a832d088c4f7f9e3a739670c214862113917c6c/ss_7a832d088c4f7f9e3a739670c214862113917c6c.1920x1080.jpg?t=1782378649","alt":"Lessaria: Fantasy Kingdom Sim 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Lessaria: Fantasy Kingdom Sim",
+    "developers": [
+      "Rockbee Team"
+    ],
+    "publishers": [
+      "Polden Publishing"
+    ],
+    "release_status": "released",
+    "release_date": "2025-10-20",
+    "tags": [
+      "策略",
+      "即时战略",
+      "塔防",
+      "模拟",
+      "基地建设"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "只下目标不下指令，让有自主意志的英雄替你打仗",
+      "dimension": "玩法",
+      "excerpt": "You build a kingdom, hire heroes, and they live their own lives, doing whatever they please. Try winning a battle with such an unpredictable army!",
+      "url": "https://store.steampowered.com/app/2461280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "全新战斗系统加入英雄小队，继续演化Majesty式RTS",
+      "dimension": "玩法",
+      "excerpt": "We're not creating a clone — we're evolving the game as if we're making the third part of the series. Brand-new combat system. Hero squads. We're adding many fresh ideas to the genre.",
+      "url": "https://store.steampowered.com/app/2461280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "自由建国的沙盒可打1对1或1对3电脑战",
+      "dimension": "玩法",
+      "excerpt": "Sandbox Mode Build your kingdom with total freedom in a mode where you fight against computer-controlled opponents in 1vs1 duels or 1vs3 skirmishes.",
+      "url": "https://store.steampowered.com/app/2461280/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 77124,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 168759,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 16573,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1103316,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 79147,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 79147,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 7.789279415824007,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 2928,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 78,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 78.099309,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Lessaria: Fantasy Kingdom Sim位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/87045a9f2e2ad2bbd52840a90ffd54a96efab19b/ss_87045a9f2e2ad2bbd52840a90ffd54a96efab19b.1920x1080.jpg?t=1782378649",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/87045a9f2e2ad2bbd52840a90ffd54a96efab19b/ss_87045a9f2e2ad2bbd52840a90ffd54a96efab19b.1920x1080.jpg?t=1785339330",
+        "alt": "Lessaria: Fantasy Kingdom Sim 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/98b2f268113a6e77a9ff6957bb59432c27911419/ss_98b2f268113a6e77a9ff6957bb59432c27911419.1920x1080.jpg?t=1785339330",
+        "alt": "Lessaria: Fantasy Kingdom Sim 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/89416e3b11f2ed2d2a978ac4137cc07334c7e9d4/ss_89416e3b11f2ed2d2a978ac4137cc07334c7e9d4.1920x1080.jpg?t=1785339330",
+        "alt": "Lessaria: Fantasy Kingdom Sim 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/7a832d088c4f7f9e3a739670c214862113917c6c/ss_7a832d088c4f7f9e3a739670c214862113917c6c.1920x1080.jpg?t=1785339330",
+        "alt": "Lessaria: Fantasy Kingdom Sim 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/fe992257fbe88b7648ed7ccc5205e51d0c15efb1/ss_fe992257fbe88b7648ed7ccc5205e51d0c15efb1.1920x1080.jpg?t=1785339330",
+        "alt": "Lessaria: Fantasy Kingdom Sim 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/7c31b6800a6640b06394c19f64de2685d60f2390/ss_7c31b6800a6640b06394c19f64de2685d60f2390.1920x1080.jpg?t=1785339330",
+        "alt": "Lessaria: Fantasy Kingdom Sim 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/d9ba46a5ebe133007cf80dcac4fc167a9f4db700/ss_d9ba46a5ebe133007cf80dcac4fc167a9f4db700.1920x1080.jpg?t=1785339330",
+        "alt": "Lessaria: Fantasy Kingdom Sim 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461280/2f24915dcc8cca38c74cdf5db22b8edb6774530d/ss_2f24915dcc8cca38c74cdf5db22b8edb6774530d.1920x1080.jpg?t=1785339330",
+        "alt": "Lessaria: Fantasy Kingdom Sim 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

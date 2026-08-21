@@ -1,1 +1,178 @@
-{"identity":{"original_title":"ROBOBEAT","developers":["Simon Fredholm"],"publishers":["Kwalee"],"release_status":"released","release_date":"2024-05-14","tags":["动作肉鸽","类Rogue","动作","未来主义","冒险"]},"hooks":[{"text":"导入并裁剪自己的音乐，由编辑器自动生成可游玩的节拍","dimension":"玩法","excerpt":"Shoot to your own beat with the custom music feature. Simply upload & trim your track or leave it as it is in our in-game editor to auto generate beats that suit your play style.","url":"https://store.steampowered.com/app/1456760/","label":"证据原文片段"},{"text":"按节拍射击可提高伤害并缩短冷却，同时叠加蓄力、倍率和穿甲效果","dimension":"玩法","excerpt":"Maximise your damage and shorten your cooldown time by shooting in sync. Master the art of charged shots, damage multipliers, armour piercing rounds, and more!","url":"https://store.steampowered.com/app/1456760/","label":"证据原文片段"},{"text":"在霓彩关卡中串联跑墙、滑铲、二段跳、兔跳和抓钩移动","dimension":"玩法","excerpt":"Wall run, slide, double jump, bunny hop, and grapple hook your way through technicolour levels to give your enemies the runaround.","url":"https://store.steampowered.com/app/1456760/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":110900,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":289772,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":11578,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":1471028,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":117073,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":117073,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.133384769999571,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":1832,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":94,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":94.380797,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_3b1f43581e4c16ffa242ae1f4ffc2800757e586d.1920x1080.jpg?t=1781256997","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_3b1f43581e4c16ffa242ae1f4ffc2800757e586d.1920x1080.jpg?t=1781256997","alt":"ROBOBEAT 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_6e835a8302c10133d988670f145d791dd0ae318f.1920x1080.jpg?t=1781256997","alt":"ROBOBEAT 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_c86fe1aea983fded040cb5c1728b4b0a36eec3b7.1920x1080.jpg?t=1781256997","alt":"ROBOBEAT 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_e67652599a48cccd836aaa80dc98a124bc8e8341.1920x1080.jpg?t=1781256997","alt":"ROBOBEAT 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "ROBOBEAT",
+    "developers": [
+      "Simon Fredholm"
+    ],
+    "publishers": [
+      "Kwalee"
+    ],
+    "release_status": "released",
+    "release_date": "2024-05-14",
+    "tags": [
+      "动作肉鸽",
+      "类Rogue",
+      "轻度Rogue",
+      "类Rogue",
+      "独立游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "导入并裁剪自己的音乐，由编辑器自动生成可游玩的节拍",
+      "dimension": "玩法",
+      "excerpt": "Shoot to your own beat with the custom music feature. Simply upload & trim your track or leave it as it is in our in-game editor to auto generate beats that suit your play style.",
+      "url": "https://store.steampowered.com/app/1456760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "按节拍射击可提高伤害并缩短冷却，同时叠加蓄力、倍率和穿甲效果",
+      "dimension": "玩法",
+      "excerpt": "Maximise your damage and shorten your cooldown time by shooting in sync. Master the art of charged shots, damage multipliers, armour piercing rounds, and more!",
+      "url": "https://store.steampowered.com/app/1456760/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "在霓彩关卡中串联跑墙、滑铲、二段跳、兔跳和抓钩移动",
+      "dimension": "玩法",
+      "excerpt": "Wall run, slide, double jump, bunny hop, and grapple hook your way through technicolour levels to give your enemies the runaround.",
+      "url": "https://store.steampowered.com/app/1456760/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 112301,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 290211,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 11575,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 1466054,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 118571,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 118571,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 4.147360485744501,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1701,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 94,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 94.402174,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "ROBOBEAT位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_3b1f43581e4c16ffa242ae1f4ffc2800757e586d.1920x1080.jpg?t=1781256997",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_3b1f43581e4c16ffa242ae1f4ffc2800757e586d.1920x1080.jpg?t=1781256997",
+        "alt": "ROBOBEAT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_6e835a8302c10133d988670f145d791dd0ae318f.1920x1080.jpg?t=1781256997",
+        "alt": "ROBOBEAT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_c86fe1aea983fded040cb5c1728b4b0a36eec3b7.1920x1080.jpg?t=1781256997",
+        "alt": "ROBOBEAT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_e67652599a48cccd836aaa80dc98a124bc8e8341.1920x1080.jpg?t=1781256997",
+        "alt": "ROBOBEAT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_a55985828be784111fddc7813f9aebe65a35c694.1920x1080.jpg?t=1781256997",
+        "alt": "ROBOBEAT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_033efaf1fa8c2d09b16ff87a6c74802d6b3fd815.1920x1080.jpg?t=1781256997",
+        "alt": "ROBOBEAT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_75fe041ab1cb0eee2a88df5a8466d3d4375647ee.1920x1080.jpg?t=1781256997",
+        "alt": "ROBOBEAT 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456760/ss_ea9b8786de13cf7e8a7cc5ad2ede5cb15a0ccc38.1920x1080.jpg?t=1781256997",
+        "alt": "ROBOBEAT 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

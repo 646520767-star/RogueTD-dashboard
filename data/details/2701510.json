@@ -1,1 +1,194 @@
-{"identity":{"original_title":"奕剑江湖","developers":["Star-Star Studio"],"publishers":["Star-Star Studio"],"release_status":"released","release_date":"2024-08-06","tags":["策略","动作","玩家对战","多人游戏","自走棋"]},"hooks":[{"text":"八名玩家在丛林地图争夺积分，最终由最高分而非单纯存活决定胜者","dimension":"玩法","excerpt":"The game has 8 players, who fight in a jungle map, and the one with the highest score wins the game.","url":"https://store.steampowered.com/app/2701510/","label":"证据原文片段"},{"text":"局内持续拼装技能组合，可把一系列技能连接成额外效果","dimension":"玩法","excerpt":"Players need to constantly build their own skill combinations through development during the game process, achieving a series of skills with additional effects.","url":"https://store.steampowered.com/app/2701510/","label":"证据原文片段"},{"text":"技能、攻击与护甲类型、英雄天赋形成三层克制，后期不存在固定无敌套路","dimension":"玩法","excerpt":"Game Features Skills rivalry: there is a clear mutual restraint between skills Type Restriction: The restriction of attack type and armor type (applicable to all damage) Talent Incompatibility: Heroes have different talents, which are mutually incompatible The above three situations may vary depending on the circumstances, so there is no fixed so-called invincible routine in the later stages.","url":"https://store.steampowered.com/app/2701510/","label":"证据原文片段"}],"opinions":[{"text":"排位外挂泛滥，严重破坏环境。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"排位全是挂","url":"https://steamcommunity.com/profiles/76561198431927644/recommended/2701510/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":71337,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":3813,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":734,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":37936,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":71337,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":71337,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":16.920287069973813,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":718,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":87,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":87.18663,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["排位外挂泛滥，严重破坏环境。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_0e90b809e75fd20906ba792e6bb0ec5aad2a0687.1920x1080.jpg?t=1733219605","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_0e90b809e75fd20906ba792e6bb0ec5aad2a0687.1920x1080.jpg?t=1733219605","alt":"奕剑江湖 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_12b7fb8ac22e35a17faba1e907048e03089cc61a.1920x1080.jpg?t=1733219605","alt":"奕剑江湖 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_2860df89c23ff8e075a64e70b6b9568918d9d8d4.1920x1080.jpg?t=1733219605","alt":"奕剑江湖 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_72ead31c29175b313c37eac5efe24397ce25442c.1920x1080.jpg?t=1733219605","alt":"奕剑江湖 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "奕剑江湖",
+    "developers": [
+      "Star-Star Studio"
+    ],
+    "publishers": [
+      "Star-Star Studio"
+    ],
+    "release_status": "released",
+    "release_date": "2024-08-06",
+    "tags": [
+      "策略",
+      "动作",
+      "射击",
+      "玩家对战",
+      "多人游戏"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "八名玩家在丛林地图争夺积分，最终由最高分而非单纯存活决定胜者",
+      "dimension": "玩法",
+      "excerpt": "The game has 8 players, who fight in a jungle map, and the one with the highest score wins the game.",
+      "url": "https://store.steampowered.com/app/2701510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "局内持续拼装技能组合，可把一系列技能连接成额外效果",
+      "dimension": "玩法",
+      "excerpt": "Players need to constantly build their own skill combinations through development during the game process, achieving a series of skills with additional effects.",
+      "url": "https://store.steampowered.com/app/2701510/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "技能、攻击与护甲类型、英雄天赋形成三层克制，后期不存在固定无敌套路",
+      "dimension": "玩法",
+      "excerpt": "Game Features Skills rivalry: there is a clear mutual restraint between skills Type Restriction: The restriction of attack type and armor type (applicable to all damage) Talent Incompatibility: Heroes have different talents, which are mutually incompatible The above three situations may vary depending on the circumstances, so there is no fixed so-called invincible routine in the later stages.",
+      "url": "https://store.steampowered.com/app/2701510/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "排位外挂泛滥，严重破坏环境。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "排位全是挂",
+          "url": "https://steamcommunity.com/profiles/76561198431927644/recommended/2701510/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 70255,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 3835,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 736,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 53573,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 70255,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 70255,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 17.343819815678913,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 717,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 87,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 87.168759,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "排位外挂泛滥，严重破坏环境。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "奕剑江湖位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_0e90b809e75fd20906ba792e6bb0ec5aad2a0687.1920x1080.jpg?t=1733219605",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_0e90b809e75fd20906ba792e6bb0ec5aad2a0687.1920x1080.jpg?t=1733219605",
+        "alt": "奕剑江湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_12b7fb8ac22e35a17faba1e907048e03089cc61a.1920x1080.jpg?t=1733219605",
+        "alt": "奕剑江湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_2860df89c23ff8e075a64e70b6b9568918d9d8d4.1920x1080.jpg?t=1733219605",
+        "alt": "奕剑江湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_72ead31c29175b313c37eac5efe24397ce25442c.1920x1080.jpg?t=1733219605",
+        "alt": "奕剑江湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_b8497e847e7740654e76cbe6aa6160a60f464d95.1920x1080.jpg?t=1733219605",
+        "alt": "奕剑江湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_c6e168def5d5da59e76f107147a5429da7a4db96.1920x1080.jpg?t=1733219605",
+        "alt": "奕剑江湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_3d598ed0b8234b309a8a4891740b4c0767b0fc1b.1920x1080.jpg?t=1733219605",
+        "alt": "奕剑江湖 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701510/ss_50c90aaf7d90f1159a58804909fefd9034fd83c2.1920x1080.jpg?t=1733219605",
+        "alt": "奕剑江湖 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

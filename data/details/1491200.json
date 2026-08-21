@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Few Nights More","developers":["Aeterna Ludi"],"publishers":["GrabTheGames"],"release_status":"released","release_date":"2025-01-22","tags":["角色扮演","类Rogue","回合制策略","基地建设","单人游戏"]},"hooks":[{"text":"用房间、陷阱、仆从和提供军队增益的装饰搭建每夜防守的吸血鬼城堡","dimension":"玩法","excerpt":"Design your castle by adding new Rooms, Traps and Minions. Stack up on some buffs with shiny decors to get ready for the invasion screen to defend it to the end of every night!","url":"https://store.steampowered.com/app/1491200/","label":"证据原文片段"},{"text":"每轮从3种学派中专精一种，每个学派拥有60项独特技能","dimension":"玩法","excerpt":"Master 1 out of 3 Disciplines each time you play, each with 60 unique skills.","url":"https://store.steampowered.com/app/1491200/","label":"证据原文片段"},{"text":"无限模式移除城堡依赖，每夜三选一继续成长直到极限","dimension":"玩法","excerpt":"Engage in the boundless challenge of Infinity Mode, where you can continuously test your limits without relying on a castle. Each night, you will be presented with three options to advance, growing stronger as you push yourself to see how far you can go.","url":"https://store.steampowered.com/app/1491200/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":15673,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":30502,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":2987,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":160783,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":16520,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":16520,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":13.049599709268957,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":410,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":82,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":82.439024,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"角色扮演、类Rogue","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_baeeddf58f600675e15f935437725104152daed6.1920x1080.jpg?t=1784216887","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_baeeddf58f600675e15f935437725104152daed6.1920x1080.jpg?t=1784216887","alt":"血夜再临 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_8dba3cf147e1d22e9e4e811b3f923c8692895f11.1920x1080.jpg?t=1784216887","alt":"血夜再临 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_7e37bedcb1a92361f795775a2308202049773010.1920x1080.jpg?t=1784216887","alt":"血夜再临 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_f82a6a64418a7a341c34ac5a695c99d22289e179.1920x1080.jpg?t=1784216887","alt":"血夜再临 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Few Nights More",
+    "developers": [
+      "Aeterna Ludi"
+    ],
+    "publishers": [
+      "GrabTheGames"
+    ],
+    "release_status": "released",
+    "release_date": "2025-01-22",
+    "tags": [
+      "弹幕射击",
+      "角色扮演",
+      "类Rogue",
+      "回合制策略",
+      "基地建设"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用房间、陷阱、仆从和提供军队增益的装饰搭建每夜防守的吸血鬼城堡",
+      "dimension": "玩法",
+      "excerpt": "Design your castle by adding new Rooms, Traps and Minions. Stack up on some buffs with shiny decors to get ready for the invasion screen to defend it to the end of every night!",
+      "url": "https://store.steampowered.com/app/1491200/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "每轮从3种学派中专精一种，每个学派拥有60项独特技能",
+      "dimension": "玩法",
+      "excerpt": "Master 1 out of 3 Disciplines each time you play, each with 60 unique skills.",
+      "url": "https://store.steampowered.com/app/1491200/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "无限模式移除城堡依赖，每夜三选一继续成长直到极限",
+      "dimension": "玩法",
+      "excerpt": "Engage in the boundless challenge of Infinity Mode, where you can continuously test your limits without relying on a castle. Each night, you will be presented with three options to advance, growing stronger as you push yourself to see how far you can go.",
+      "url": "https://store.steampowered.com/app/1491200/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 19345,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 31962,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 2981,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 191780,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 20390,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 20390,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 13.351278583235883,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 380,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 82,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 82.439024,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "血夜再临位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_baeeddf58f600675e15f935437725104152daed6.1920x1080.jpg?t=1784216887",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_baeeddf58f600675e15f935437725104152daed6.1920x1080.jpg?t=1786725125",
+        "alt": "血夜再临 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_8dba3cf147e1d22e9e4e811b3f923c8692895f11.1920x1080.jpg?t=1786725125",
+        "alt": "血夜再临 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_7e37bedcb1a92361f795775a2308202049773010.1920x1080.jpg?t=1786725125",
+        "alt": "血夜再临 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_f82a6a64418a7a341c34ac5a695c99d22289e179.1920x1080.jpg?t=1786725125",
+        "alt": "血夜再临 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_b17a175b7b614f24e99e98818c4291f34ae99cef.1920x1080.jpg?t=1786725125",
+        "alt": "血夜再临 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_974304c89ac389050a0ea838b70003701c8d19e6.1920x1080.jpg?t=1786725125",
+        "alt": "血夜再临 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_5e921b0b5d1c7cd98ce820e8c451540c414040c2.1920x1080.jpg?t=1786725125",
+        "alt": "血夜再临 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491200/ss_8b2dff09332fca8ee12e5688b6e6d16623e4530f.1920x1080.jpg?t=1786725125",
+        "alt": "血夜再临 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

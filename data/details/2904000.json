@@ -1,1 +1,316 @@
-{"identity":{"original_title":"The Spell Brigade","developers":["Bolt Blaster Games"],"publishers":["Bolt Blaster Games"],"release_status":"released","release_date":"2026-04-29","tags":["在线合作","轻度Rogue","合作","弹幕射击","动作肉鸽"]},"hooks":[{"text":"四名巫师协作对抗成千怪物，共同完成随机团队目标并升级法术","dimension":"玩法","excerpt":"The Spell Brigade combines the Survivors-like gameplay you love with good old multiplayer madness. Fight thousands of weird monsters together. Complete random team-based objectives and upgrade spells together. Survive together!","url":"https://store.steampowered.com/app/2904000/","label":"证据原文片段"},{"text":"友军伤害会误杀队友，但死亡可配合复活核心把全队炸回战场","dimension":"玩法","excerpt":"FRIENDLY FIRE BULLET HEAVEN Taking on entire armies is risky business, even with your friends at your side! Fighting as a team has many perks, but you will inevitably step on each other’s toes. But fear not! You can use your deaths to your advantage, and use Revive Cores to (literally) blast yourself and your teammates back into action!","url":"https://store.steampowered.com/app/2904000/","label":"证据原文片段"},{"text":"用元素灌注、附魔、任务、卷轴和队伍人数叠加失控法术协同","dimension":"玩法","excerpt":"MASTER YOUR SPELLS Improve, augment and infuse your spells with different kinds of elements and upgrades. Combine this with your Enchantments, Quests, Scrolls, and the amount of wizards in your squad, and the potential for pure, unhinged chaos is endless!","url":"https://store.steampowered.com/app/2904000/","label":"证据原文片段"}],"opinions":[{"text":"角色外观与表现设计出色","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"It has something great going on with the character design","url":"https://steamcommunity.com/profiles/76561198118127419/recommended/2904000/","label":"证据原文片段"}]},{"text":"局外成长刷取极重","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"one of the highest grindfest roguelites I’ve ever played","url":"https://store.steampowered.com/curator/38624426-Hidden-Gems-Review/","label":"证据原文片段"}]},{"text":"单人模式缺少乐趣","dimension":"玩法","source":"鉴赏家观点","polarity":"需留意","excerpts":[{"excerpt":"Didn't enjoy the singleplayer","url":"https://store.steampowered.com/curator/45690639-SJ%2527s-Survivor-Rogue-lite-Library/","label":"证据原文片段"}]},{"text":"小怪与场景素材重复","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"场景怪比较素材复用","url":"https://steamcommunity.com/profiles/76561198856879156/recommended/2904000/","label":"证据原文片段"}]},{"text":"部分强化选项明显弱于其他选择","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"there are clearly some worse options than others","url":"https://steamcommunity.com/profiles/76561198118127419/recommended/2904000/","label":"证据原文片段"}]},{"text":"普通流程过短，构筑难以充分成型","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"usually feels too short to really let your builds flourish","url":"https://steamcommunity.com/profiles/76561198118127419/recommended/2904000/","label":"证据原文片段"}]},{"text":"角色解锁速度过慢","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"角色解锁很慢","url":"https://steamcommunity.com/profiles/76561198856879156/recommended/2904000/","label":"证据原文片段"}]},{"text":"天赋刷取耗时过度","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"要把所有天赋都点满要玩到猴年马月去","url":"https://steamcommunity.com/profiles/76561199190542934/recommended/2904000/","label":"证据原文片段"}]},{"text":"合作幸存者玩法非常有趣","dimension":"玩法","source":"鉴赏家观点","polarity":"喜欢","excerpts":[{"excerpt":"coop is a huge fun","url":"https://store.steampowered.com/curator/42708092-I%2527m-smth-of-a-reviewer-myself%257E/","label":"证据原文片段"}]},{"text":"诙谐荒诞风格恰到好处","dimension":"玩法","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"It leans just right into the whimsy and goofiness while still keeping you sweating on the higher difficulties","url":"https://steamcommunity.com/profiles/76561198118127419/recommended/2904000/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":1420265,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":518552,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":47186,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":10277934,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":1554184,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":1554184,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":21.560081937896488,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":16207,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.290442,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["局外成长刷取极重","单人模式缺少乐趣","小怪与场景素材重复","部分强化选项明显弱于其他选择","普通流程过短，构筑难以充分成型","角色解锁速度过慢"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71/ss_7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71.1920x1080.jpg?t=1784560768","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71/ss_7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71.1920x1080.jpg?t=1784560768","alt":"咒语旅团 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/b30cf42fbc195eb23f0d5f4a8c8767229ba4a0cd/ss_b30cf42fbc195eb23f0d5f4a8c8767229ba4a0cd.1920x1080.jpg?t=1784560768","alt":"咒语旅团 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/379aef919283eefc43d60bf9f1a92f78432706ac/ss_379aef919283eefc43d60bf9f1a92f78432706ac.1920x1080.jpg?t=1784560768","alt":"咒语旅团 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/aee885f49f6ca44409dbd8d131731e2e5ec91f88/ss_aee885f49f6ca44409dbd8d131731e2e5ec91f88.1920x1080.jpg?t=1784560768","alt":"咒语旅团 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "The Spell Brigade",
+    "developers": [
+      "Bolt Blaster Games"
+    ],
+    "publishers": [
+      "Bolt Blaster Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-29",
+    "tags": [
+      "动作肉鸽",
+      "在线合作",
+      "轻度Rogue",
+      "合作",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "四名巫师协作对抗成千怪物，共同完成随机团队目标并升级法术",
+      "dimension": "玩法",
+      "excerpt": "The Spell Brigade combines the Survivors-like gameplay you love with good old multiplayer madness. Fight thousands of weird monsters together. Complete random team-based objectives and upgrade spells together. Survive together!",
+      "url": "https://store.steampowered.com/app/2904000/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "友军伤害会误杀队友，但死亡可配合复活核心把全队炸回战场",
+      "dimension": "玩法",
+      "excerpt": "FRIENDLY FIRE BULLET HEAVEN Taking on entire armies is risky business, even with your friends at your side! Fighting as a team has many perks, but you will inevitably step on each other’s toes. But fear not! You can use your deaths to your advantage, and use Revive Cores to (literally) blast yourself and your teammates back into action!",
+      "url": "https://store.steampowered.com/app/2904000/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用元素灌注、附魔、任务、卷轴和队伍人数叠加失控法术协同",
+      "dimension": "玩法",
+      "excerpt": "MASTER YOUR SPELLS Improve, augment and infuse your spells with different kinds of elements and upgrades. Combine this with your Enchantments, Quests, Scrolls, and the amount of wizards in your squad, and the potential for pure, unhinged chaos is endless!",
+      "url": "https://store.steampowered.com/app/2904000/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "角色外观与表现设计出色",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "It has something great going on with the character design",
+          "url": "https://steamcommunity.com/profiles/76561198118127419/recommended/2904000/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "局外成长刷取极重",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "one of the highest grindfest roguelites I’ve ever played",
+          "url": "https://store.steampowered.com/curator/38624426-Hidden-Gems-Review/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "单人模式缺少乐趣",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "Didn't enjoy the singleplayer",
+          "url": "https://store.steampowered.com/curator/45690639-SJ%2527s-Survivor-Rogue-lite-Library/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "小怪与场景素材重复",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "场景怪比较素材复用",
+          "url": "https://steamcommunity.com/profiles/76561198856879156/recommended/2904000/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "部分强化选项明显弱于其他选择",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "there are clearly some worse options than others",
+          "url": "https://steamcommunity.com/profiles/76561198118127419/recommended/2904000/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "普通流程过短，构筑难以充分成型",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "usually feels too short to really let your builds flourish",
+          "url": "https://steamcommunity.com/profiles/76561198118127419/recommended/2904000/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "角色解锁速度过慢",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "角色解锁很慢",
+          "url": "https://steamcommunity.com/profiles/76561198856879156/recommended/2904000/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "天赋刷取耗时过度",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "要把所有天赋都点满要玩到猴年马月去",
+          "url": "https://steamcommunity.com/profiles/76561199190542934/recommended/2904000/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "合作幸存者玩法非常有趣",
+      "dimension": "玩法",
+      "source": "鉴赏家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "coop is a huge fun",
+          "url": "https://store.steampowered.com/curator/42708092-I%2527m-smth-of-a-reviewer-myself%257E/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "诙谐荒诞风格恰到好处",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "It leans just right into the whimsy and goofiness while still keeping you sweating on the higher difficulties",
+          "url": "https://steamcommunity.com/profiles/76561198118127419/recommended/2904000/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 1455042,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 519069,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 47699,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 10480862,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 1592897,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 1592897,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 21.33806288345137,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 14432,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.355418,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "局外成长刷取极重",
+    "单人模式缺少乐趣",
+    "小怪与场景素材重复",
+    "部分强化选项明显弱于其他选择",
+    "普通流程过短，构筑难以充分成型",
+    "角色解锁速度过慢"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "咒语旅团位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71/ss_7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71.1920x1080.jpg?t=1784560768",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71/ss_7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71.1920x1080.jpg?t=1786116562",
+        "alt": "咒语旅团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/b30cf42fbc195eb23f0d5f4a8c8767229ba4a0cd/ss_b30cf42fbc195eb23f0d5f4a8c8767229ba4a0cd.1920x1080.jpg?t=1786116562",
+        "alt": "咒语旅团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/379aef919283eefc43d60bf9f1a92f78432706ac/ss_379aef919283eefc43d60bf9f1a92f78432706ac.1920x1080.jpg?t=1786116562",
+        "alt": "咒语旅团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/aee885f49f6ca44409dbd8d131731e2e5ec91f88/ss_aee885f49f6ca44409dbd8d131731e2e5ec91f88.1920x1080.jpg?t=1786116562",
+        "alt": "咒语旅团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/6e106d104a5682d3665de1678fea40fa3ec912d4/ss_6e106d104a5682d3665de1678fea40fa3ec912d4.1920x1080.jpg?t=1786116562",
+        "alt": "咒语旅团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/4df00394ffe6cf57140f19e02bfadb8d474ba576/ss_4df00394ffe6cf57140f19e02bfadb8d474ba576.1920x1080.jpg?t=1786116562",
+        "alt": "咒语旅团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/fe79d1a9a01163a742eb23041861da1ed212b93d/ss_fe79d1a9a01163a742eb23041861da1ed212b93d.1920x1080.jpg?t=1786116562",
+        "alt": "咒语旅团 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/f82bffed02a78b1a9f390503e45c971d398b07dd/ss_f82bffed02a78b1a9f390503e45c971d398b07dd.1920x1080.jpg?t=1786116562",
+        "alt": "咒语旅团 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

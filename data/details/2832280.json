@@ -1,1 +1,167 @@
-{"identity":{"original_title":"Blightstone","developers":["Unfinished Pixel"],"publishers":["Unfinished Pixel","Kepler Ghost"],"release_status":"early_access","release_date":"2026-01-20","tags":["抢先体验","黑暗奇幻","战术","轻度Rogue","回合制战术"]},"hooks":[{"text":"无网格自由走位抢占掩体","dimension":"玩法","excerpt":"Enjoy free movement, without grid-based systems, allowing you to move into strategic cover.","url":"https://store.steampowered.com/app/2832280/","label":"证据原文片段"},{"text":"燃烧草丛与导电积水改造战场","dimension":"玩法","excerpt":"Hide in long grass or burn it to stop enemies using it for cover. Gather enemies in water to amplify electric attacks.","url":"https://store.steampowered.com/app/2832280/","label":"证据原文片段"},{"text":"雾雨强风实时改写战术","dimension":"玩法","excerpt":"Dynamic weather will have an impact on Adventurer’s strategies. Dense fog obscures the battlefield, rain will amplify electric attacks and strong winds will affect accuracy.","url":"https://store.steampowered.com/app/2832280/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":12975,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":105490,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":10359,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":150192,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":14232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":14232,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.228387681481868,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":539,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":80,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.0,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、黑暗奇幻","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/9025d164958481baae3aa5b57067ed85a9e234ff/ss_9025d164958481baae3aa5b57067ed85a9e234ff.1920x1080.jpg?t=1776271607","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/9025d164958481baae3aa5b57067ed85a9e234ff/ss_9025d164958481baae3aa5b57067ed85a9e234ff.1920x1080.jpg?t=1776271607","alt":"灾厄之石 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/90d3d664d23ef295eff4f6124ab9b07932c01503/ss_90d3d664d23ef295eff4f6124ab9b07932c01503.1920x1080.jpg?t=1776271607","alt":"灾厄之石 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/56a826e08a939d61071b25231903100ec18ded43/ss_56a826e08a939d61071b25231903100ec18ded43.1920x1080.jpg?t=1776271607","alt":"灾厄之石 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/2b1373b46295b0980912409c5a5f5f15fe06cc2c/ss_2b1373b46295b0980912409c5a5f5f15fe06cc2c.1920x1080.jpg?t=1776271607","alt":"灾厄之石 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Blightstone",
+    "developers": [
+      "Unfinished Pixel"
+    ],
+    "publishers": [
+      "Unfinished Pixel",
+      "Kepler Ghost"
+    ],
+    "release_status": "early_access",
+    "release_date": "2026-01-20",
+    "tags": [
+      "抢先体验",
+      "黑暗奇幻",
+      "战术",
+      "轻度Rogue",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "无网格自由走位抢占掩体",
+      "dimension": "玩法",
+      "excerpt": "Enjoy free movement, without grid-based systems, allowing you to move into strategic cover.",
+      "url": "https://store.steampowered.com/app/2832280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "燃烧草丛与导电积水改造战场",
+      "dimension": "玩法",
+      "excerpt": "Hide in long grass or burn it to stop enemies using it for cover. Gather enemies in water to amplify electric attacks.",
+      "url": "https://store.steampowered.com/app/2832280/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "雾雨强风实时改写战术",
+      "dimension": "玩法",
+      "excerpt": "Dynamic weather will have an impact on Adventurer’s strategies. Dense fog obscures the battlefield, rain will amplify electric attacks and strong winds will affect accuracy.",
+      "url": "https://store.steampowered.com/app/2832280/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 13318,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 106114,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 10377,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 158427,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 14588,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 14588,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.45188664965974,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 479,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 79.52468,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "灾厄之石位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/9025d164958481baae3aa5b57067ed85a9e234ff/ss_9025d164958481baae3aa5b57067ed85a9e234ff.1920x1080.jpg?t=1776271607",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/9025d164958481baae3aa5b57067ed85a9e234ff/ss_9025d164958481baae3aa5b57067ed85a9e234ff.1920x1080.jpg?t=1776271607",
+        "alt": "灾厄之石 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/90d3d664d23ef295eff4f6124ab9b07932c01503/ss_90d3d664d23ef295eff4f6124ab9b07932c01503.1920x1080.jpg?t=1776271607",
+        "alt": "灾厄之石 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/56a826e08a939d61071b25231903100ec18ded43/ss_56a826e08a939d61071b25231903100ec18ded43.1920x1080.jpg?t=1776271607",
+        "alt": "灾厄之石 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/2b1373b46295b0980912409c5a5f5f15fe06cc2c/ss_2b1373b46295b0980912409c5a5f5f15fe06cc2c.1920x1080.jpg?t=1776271607",
+        "alt": "灾厄之石 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/2f0d6942ceb5b5706e657ddadc80cdaa809b2b75/ss_2f0d6942ceb5b5706e657ddadc80cdaa809b2b75.1920x1080.jpg?t=1776271607",
+        "alt": "灾厄之石 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

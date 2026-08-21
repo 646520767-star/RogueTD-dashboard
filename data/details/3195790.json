@@ -1,1 +1,178 @@
-{"identity":{"original_title":"White Knuckle","developers":["Dark Machine Games"],"publishers":["DreadXP"],"release_status":"early_access","release_date":"2025-04-17","tags":["抢先体验","恐怖","第一人称","类Rogue","平台跳跃"]},"hooks":[{"text":"用动量驱动的精密移动和临时工具，在巨型地下设施中高速向上攀爬","dimension":"玩法","excerpt":"Use momentum-based movement mechanics with precision, deploy a variety of tools and resources, and ascend as fast as you can.","url":"https://store.steampowered.com/app/3195790/","label":"证据原文片段"},{"text":"背包过重会失手坠亡，危急时若不能及时翻出所需物品同样会酿成灾难","dimension":"玩法","excerpt":"Manage your inventory or become encumbered and fall to your death. Failure to grab what you need from your bag in time can spell disaster.","url":"https://store.steampowered.com/app/3195790/","label":"证据原文片段"},{"text":"深处渗出的未知存在会持续追踪并越来越愤怒，让攀升过程始终承受追猎压力","dimension":"题材","excerpt":"Something oozes from the depths– following you, growing angrier… and it won't let up.","url":"https://store.steampowered.com/app/3195790/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":251455,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":437212,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":20422,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":2973929,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":265833,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":265833,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":20.233435549057383,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":13149,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":98,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":98.00106,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"抢先体验、恐怖","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/5eddf782b0fc49e4b4bd7b5232845822a9483b43/ss_5eddf782b0fc49e4b4bd7b5232845822a9483b43.1920x1080.jpg?t=1782400682","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/5eddf782b0fc49e4b4bd7b5232845822a9483b43/ss_5eddf782b0fc49e4b4bd7b5232845822a9483b43.1920x1080.jpg?t=1782400682","alt":"White Knuckle 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/e28625634af5e353191aba4efcc3c3783ae560a8/ss_e28625634af5e353191aba4efcc3c3783ae560a8.1920x1080.jpg?t=1782400682","alt":"White Knuckle 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/b0cec802555eda147d2ddc8e3be6ac035d3407d3/ss_b0cec802555eda147d2ddc8e3be6ac035d3407d3.1920x1080.jpg?t=1782400682","alt":"White Knuckle 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_e2ee07cb66c9d4b3177070fa39f624decc7fb53e.1920x1080.jpg?t=1782400682","alt":"White Knuckle 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "White Knuckle",
+    "developers": [
+      "Dark Machine Games"
+    ],
+    "publishers": [
+      "DreadXP"
+    ],
+    "release_status": "early_access",
+    "release_date": "2025-04-17",
+    "tags": [
+      "抢先体验",
+      "高难度",
+      "恐怖",
+      "第一人称",
+      "类Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "用动量驱动的精密移动和临时工具，在巨型地下设施中高速向上攀爬",
+      "dimension": "玩法",
+      "excerpt": "Use momentum-based movement mechanics with precision, deploy a variety of tools and resources, and ascend as fast as you can.",
+      "url": "https://store.steampowered.com/app/3195790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "背包过重会失手坠亡，危急时若不能及时翻出所需物品同样会酿成灾难",
+      "dimension": "玩法",
+      "excerpt": "Manage your inventory or become encumbered and fall to your death. Failure to grab what you need from your bag in time can spell disaster.",
+      "url": "https://store.steampowered.com/app/3195790/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "深处渗出的未知存在会持续追踪并越来越愤怒，让攀升过程始终承受追猎压力",
+      "dimension": "题材",
+      "excerpt": "Something oozes from the depths– following you, growing angrier… and it won't let up.",
+      "url": "https://store.steampowered.com/app/3195790/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 261308,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 452589,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 20886,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 3088792,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 276647,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 276647,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 21.11281471239524,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 12764,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 98,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 97.96271,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "White Knuckle位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/5eddf782b0fc49e4b4bd7b5232845822a9483b43/ss_5eddf782b0fc49e4b4bd7b5232845822a9483b43.1920x1080.jpg?t=1782400682",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/5eddf782b0fc49e4b4bd7b5232845822a9483b43/ss_5eddf782b0fc49e4b4bd7b5232845822a9483b43.1920x1080.jpg?t=1785073917",
+        "alt": "White Knuckle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/e28625634af5e353191aba4efcc3c3783ae560a8/ss_e28625634af5e353191aba4efcc3c3783ae560a8.1920x1080.jpg?t=1785073917",
+        "alt": "White Knuckle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/b0cec802555eda147d2ddc8e3be6ac035d3407d3/ss_b0cec802555eda147d2ddc8e3be6ac035d3407d3.1920x1080.jpg?t=1785073917",
+        "alt": "White Knuckle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_e2ee07cb66c9d4b3177070fa39f624decc7fb53e.1920x1080.jpg?t=1785073917",
+        "alt": "White Knuckle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/0bd1ca5949fe257894889073abfd706d58c8fc37/ss_0bd1ca5949fe257894889073abfd706d58c8fc37.1920x1080.jpg?t=1785073917",
+        "alt": "White Knuckle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ef882810836c4b337b063fb59e65c019baa0ff4f/ss_ef882810836c4b337b063fb59e65c019baa0ff4f.1920x1080.jpg?t=1785073917",
+        "alt": "White Knuckle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_25dfed3dba5cbda4823d2714251cca262f945c84.1920x1080.jpg?t=1785073917",
+        "alt": "White Knuckle 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ba234e42679859c74990d882ff7ec52b33f4e0a5/ss_ba234e42679859c74990d882ff7ec52b33f4e0a5.1920x1080.jpg?t=1785073917",
+        "alt": "White Knuckle 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

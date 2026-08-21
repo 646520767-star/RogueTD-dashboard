@@ -1,1 +1,308 @@
-{"identity":{"original_title":"castle idler","developers":["Soy Boy Games"],"publishers":["Soy Boy Games"],"release_status":"released","release_date":"2026-04-24","tags":["增量成长","塔防","休闲","策略","街机"]},"hooks":[{"text":"没有传统波次的短篇增量塔防，主打放松推进","dimension":"玩法","excerpt":"castle idler is a short, relaxing incremental tower defense game with no waves.","url":"https://store.steampowered.com/app/4082900/","label":"证据原文片段"},{"text":"沿蜿蜒路径部署多种塔并持续升级","dimension":"玩法","excerpt":"deploy a variety of towers along winding paths and continuously upgrade them.","url":"https://store.steampowered.com/app/4082900/","label":"证据原文片段"},{"text":"声望升级会让防御力量呈指数级增强","dimension":"玩法","excerpt":"unlock powerful prestige upgrades that make your defenses exponentially stronger.","url":"https://store.steampowered.com/app/4082900/","label":"证据原文片段"}],"opinions":[{"text":"极简像素风清晰且协调。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"minimalist pixel art style that prioritizes clarity and charm","url":"https://steamcommunity.com/id/xxadonisxx/recommended/4082900/","label":"证据原文片段"}]},{"text":"每次进入新关卡都要重新部署塔，造成不必要重复操作。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"当你进入下一关之后就要对塔重新部署","url":"https://steamcommunity.com/id/Nekonekon/recommended/4082900/","label":"证据原文片段"}]},{"text":"增量成长缺少指数提升的满足感。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"几乎体验不到增量游戏那种“指数级成长”的快感","url":"https://steamcommunity.com/id/Nekonekon/recommended/4082900/","label":"证据原文片段"}]},{"text":"自动出怪与零部署时间让玩家来不及观察新地图。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"在你新到一张图、布局还没看清的情况下，怪已经开始冒尖了。","url":"https://steamcommunity.com/id/Nekonekon/recommended/4082900/","label":"证据原文片段"}]},{"text":"天赋树构筑简单粗暴，主要只有易伤和数值。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"实际天赋树的构筑也相当简单粗暴","url":"https://steamcommunity.com/id/Nekonekon/recommended/4082900/","label":"证据原文片段"}]},{"text":"索敌只能选择前后，容易导致防线失控。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"仅能选择前后的脑溢血索敌","url":"https://steamcommunity.com/id/Nekonekon/recommended/4082900/","label":"证据原文片段"}]},{"text":"通关后缺少重玩或无尽模式。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"an option to go back and play the levels all over after finishing the final one","url":"https://steamcommunity.com/id/doktor-x/recommended/4082900/","label":"证据原文片段"}]},{"text":"声望循环缺乏满足感","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"The prestige loop is unsatisfying and the tower defense is very basic.","url":"https://steamcommunity.com/profiles/76561197996181041/recommended/4082900/","label":"证据原文片段"}]},{"text":"击杀后强制进入下一关，无法返回刷取。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"you are always forced to go the next level and can't go back","url":"https://steamcommunity.com/id/diufool/recommended/4082900/","label":"证据原文片段"}]},{"text":"后期生命成长迫使玩家依赖单一武器。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"meaning you have to use that one weapon","url":"https://steamcommunity.com/id/diufool/recommended/4082900/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":8730,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":12710,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":469,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":28467,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":8810,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":8810,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":9.663303218086101,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":154,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":80.519481,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["每次进入新关卡都要重新部署塔，造成不必要重复操作。","增量成长缺少指数提升的满足感。","自动出怪与零部署时间让玩家来不及观察新地图。","天赋树构筑简单粗暴，主要只有易伤和数值。","索敌只能选择前后，容易导致防线失控。","通关后缺少重玩或无尽模式。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/0bdadaf49f635cd72cb99fcf39d4b3415acc573a/ss_0bdadaf49f635cd72cb99fcf39d4b3415acc573a.1920x1080.jpg?t=1777055259","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/0bdadaf49f635cd72cb99fcf39d4b3415acc573a/ss_0bdadaf49f635cd72cb99fcf39d4b3415acc573a.1920x1080.jpg?t=1777055259","alt":"城堡闲置 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/89467a100b9be19f6c016d4f2bad9a5c64ad90b7/ss_89467a100b9be19f6c016d4f2bad9a5c64ad90b7.1920x1080.jpg?t=1777055259","alt":"城堡闲置 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/26fe1e09e1f4cdc83c344ba74d27de296bdae12e/ss_26fe1e09e1f4cdc83c344ba74d27de296bdae12e.1920x1080.jpg?t=1777055259","alt":"城堡闲置 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/13b04b3f130794e95d7e05627792b413eac3a1e9/ss_13b04b3f130794e95d7e05627792b413eac3a1e9.1920x1080.jpg?t=1777055259","alt":"城堡闲置 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "castle idler",
+    "developers": [
+      "Soy Boy Games"
+    ],
+    "publishers": [
+      "Soy Boy Games"
+    ],
+    "release_status": "released",
+    "release_date": "2026-04-24",
+    "tags": [
+      "增量成长",
+      "塔防",
+      "休闲",
+      "策略",
+      "街机"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "没有传统波次的短篇增量塔防，主打放松推进",
+      "dimension": "玩法",
+      "excerpt": "castle idler is a short, relaxing incremental tower defense game with no waves.",
+      "url": "https://store.steampowered.com/app/4082900/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "沿蜿蜒路径部署多种塔并持续升级",
+      "dimension": "玩法",
+      "excerpt": "deploy a variety of towers along winding paths and continuously upgrade them.",
+      "url": "https://store.steampowered.com/app/4082900/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "声望升级会让防御力量呈指数级增强",
+      "dimension": "玩法",
+      "excerpt": "unlock powerful prestige upgrades that make your defenses exponentially stronger.",
+      "url": "https://store.steampowered.com/app/4082900/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "极简像素风清晰且协调。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "minimalist pixel art style that prioritizes clarity and charm",
+          "url": "https://steamcommunity.com/id/xxadonisxx/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "每次进入新关卡都要重新部署塔，造成不必要重复操作。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "当你进入下一关之后就要对塔重新部署",
+          "url": "https://steamcommunity.com/id/Nekonekon/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "增量成长缺少指数提升的满足感。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "几乎体验不到增量游戏那种“指数级成长”的快感",
+          "url": "https://steamcommunity.com/id/Nekonekon/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "自动出怪与零部署时间让玩家来不及观察新地图。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "在你新到一张图、布局还没看清的情况下，怪已经开始冒尖了。",
+          "url": "https://steamcommunity.com/id/Nekonekon/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "天赋树构筑简单粗暴，主要只有易伤和数值。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "实际天赋树的构筑也相当简单粗暴",
+          "url": "https://steamcommunity.com/id/Nekonekon/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "索敌只能选择前后，容易导致防线失控。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "仅能选择前后的脑溢血索敌",
+          "url": "https://steamcommunity.com/id/Nekonekon/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "通关后缺少重玩或无尽模式。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "an option to go back and play the levels all over after finishing the final one",
+          "url": "https://steamcommunity.com/id/doktor-x/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "声望循环缺乏满足感",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "The prestige loop is unsatisfying and the tower defense is very basic.",
+          "url": "https://steamcommunity.com/profiles/76561197996181041/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "击杀后强制进入下一关，无法返回刷取。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "you are always forced to go the next level and can't go back",
+          "url": "https://steamcommunity.com/id/diufool/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "后期生命成长迫使玩家依赖单一武器。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "meaning you have to use that one weapon",
+          "url": "https://steamcommunity.com/id/diufool/recommended/4082900/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 10409,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 12785,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 480,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 33666,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 10500,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 10500,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 9.565324111297377,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 160,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 80,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 80.246914,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "每次进入新关卡都要重新部署塔，造成不必要重复操作。",
+    "增量成长缺少指数提升的满足感。",
+    "自动出怪与零部署时间让玩家来不及观察新地图。",
+    "天赋树构筑简单粗暴，主要只有易伤和数值。",
+    "索敌只能选择前后，容易导致防线失控。",
+    "通关后缺少重玩或无尽模式。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "城堡闲置位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/0bdadaf49f635cd72cb99fcf39d4b3415acc573a/ss_0bdadaf49f635cd72cb99fcf39d4b3415acc573a.1920x1080.jpg?t=1777055259",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/0bdadaf49f635cd72cb99fcf39d4b3415acc573a/ss_0bdadaf49f635cd72cb99fcf39d4b3415acc573a.1920x1080.jpg?t=1777055259",
+        "alt": "城堡闲置 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/89467a100b9be19f6c016d4f2bad9a5c64ad90b7/ss_89467a100b9be19f6c016d4f2bad9a5c64ad90b7.1920x1080.jpg?t=1777055259",
+        "alt": "城堡闲置 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/26fe1e09e1f4cdc83c344ba74d27de296bdae12e/ss_26fe1e09e1f4cdc83c344ba74d27de296bdae12e.1920x1080.jpg?t=1777055259",
+        "alt": "城堡闲置 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/13b04b3f130794e95d7e05627792b413eac3a1e9/ss_13b04b3f130794e95d7e05627792b413eac3a1e9.1920x1080.jpg?t=1777055259",
+        "alt": "城堡闲置 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/55f3ffe0eaf472d4c9bdbdb7291a84fbc254233d/ss_55f3ffe0eaf472d4c9bdbdb7291a84fbc254233d.1920x1080.jpg?t=1777055259",
+        "alt": "城堡闲置 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082900/c7bf4ce6a5d59ffe71d7f047d82df348b4f8f338/ss_c7bf4ce6a5d59ffe71d7f047d82df348b4f8f338.1920x1080.jpg?t=1777055259",
+        "alt": "城堡闲置 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

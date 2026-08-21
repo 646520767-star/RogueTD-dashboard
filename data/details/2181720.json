@@ -1,1 +1,178 @@
-{"identity":{"original_title":"Scarlet Tower","developers":["Pyxeralia LLC"],"publishers":["Team17"],"release_status":"released","release_date":"2024-03-25","tags":["动作肉鸽","像素画面","黑暗奇幻","弹幕射击","类Rogue"]},"hooks":[{"text":"白天狩猎，夜间反被恐怖怪物追猎","dimension":"玩法","excerpt":"Hunt during the day, be hunted during the NIGHT! Fight bizarre monsters that will terrify you at night!","url":"https://store.steampowered.com/app/2181720/","label":"证据原文片段"},{"text":"70余种武器、武器融合与200余项被动能力构筑","dimension":"玩法","excerpt":"Over 70 weapons Weapon fusion system Over 200 passive abilities for building your build","url":"https://store.steampowered.com/app/2181720/","label":"证据原文片段"},{"text":"收集遗物与世界各地的魔宠强化英雄","dimension":"玩法","excerpt":"Strengthen your hero by collecting relics, familiars from around the world.","url":"https://store.steampowered.com/app/2181720/","label":"证据原文片段"}],"opinions":[],"metrics":[{"id":"sales","label":"销量","value":83653,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":39399,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":4188,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":307450,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":100042,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":271543,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":11.034556344266152,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":2380,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":81,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":81.444165,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":[],"actions":[{"label":"原型验证","target":"动作肉鸽、像素画面","reason":"产品处于正式分池且已有官方与客观材料，但缺少可直接采用的人工确认正向观点。","trigger":"补充玩家证据或完成轻量原型验证后更新优先级。","priority":"中"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_83c4d2774aae709717a9fc62e21fd5c77a1ea8cf.1920x1080.jpg?t=1778015205","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_83c4d2774aae709717a9fc62e21fd5c77a1ea8cf.1920x1080.jpg?t=1778015205","alt":"Scarlet Tower 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_9059c31ab7fed35a7dddc54d974aa8498f2834da.1920x1080.jpg?t=1778015205","alt":"Scarlet Tower 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_6656b72dfd329a3e354be992eddda6f076877e50.1920x1080.jpg?t=1778015205","alt":"Scarlet Tower 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_ac57bd53cb38a8c8a19730c2173eafe55aa5c8d0.1920x1080.jpg?t=1778015205","alt":"Scarlet Tower 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Scarlet Tower",
+    "developers": [
+      "Pyxeralia LLC"
+    ],
+    "publishers": [
+      "Team17"
+    ],
+    "release_status": "released",
+    "release_date": "2024-03-25",
+    "tags": [
+      "弹幕射击",
+      "动作肉鸽",
+      "像素画面",
+      "黑暗奇幻",
+      "弹幕射击"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "白天狩猎，夜间反被恐怖怪物追猎",
+      "dimension": "玩法",
+      "excerpt": "Hunt during the day, be hunted during the NIGHT! Fight bizarre monsters that will terrify you at night!",
+      "url": "https://store.steampowered.com/app/2181720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "70余种武器、武器融合与200余项被动能力构筑",
+      "dimension": "玩法",
+      "excerpt": "Over 70 weapons Weapon fusion system Over 200 passive abilities for building your build",
+      "url": "https://store.steampowered.com/app/2181720/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "收集遗物与世界各地的魔宠强化英雄",
+      "dimension": "玩法",
+      "excerpt": "Strengthen your hero by collecting relics, familiars from around the world.",
+      "url": "https://store.steampowered.com/app/2181720/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 104536,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 39633,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 4194,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 380916,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 125029,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 339365,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 10.391776652786723,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 1825,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 81,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 81.451951,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Scarlet Tower位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_83c4d2774aae709717a9fc62e21fd5c77a1ea8cf.1920x1080.jpg?t=1778015205",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_83c4d2774aae709717a9fc62e21fd5c77a1ea8cf.1920x1080.jpg?t=1778015205",
+        "alt": "Scarlet Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_9059c31ab7fed35a7dddc54d974aa8498f2834da.1920x1080.jpg?t=1778015205",
+        "alt": "Scarlet Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_6656b72dfd329a3e354be992eddda6f076877e50.1920x1080.jpg?t=1778015205",
+        "alt": "Scarlet Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_ac57bd53cb38a8c8a19730c2173eafe55aa5c8d0.1920x1080.jpg?t=1778015205",
+        "alt": "Scarlet Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_9c8d1294d5c5e817d528b78285769b8278aa629d.1920x1080.jpg?t=1778015205",
+        "alt": "Scarlet Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_c7556ea2b6b2ca0b88841c05141150ec8d1a5b67.1920x1080.jpg?t=1778015205",
+        "alt": "Scarlet Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_f4234fa5d66297675a5a14b47c6d6cc68c647266.1920x1080.jpg?t=1778015205",
+        "alt": "Scarlet Tower 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181720/ss_ce34e65abe647a6d0921fe1fe23eda54bb87fb27.1920x1080.jpg?t=1778015205",
+        "alt": "Scarlet Tower 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}

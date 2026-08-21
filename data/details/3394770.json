@@ -1,1 +1,268 @@
-{"identity":{"original_title":"Menherarium: Deadly Dice","developers":["テスカトリポカ"],"publishers":["Phoenixx Inc."],"release_status":"released","release_date":"2026-02-18","tags":["动漫风格","可爱","轻度Rogue","二维画面","休闲"]},"hooks":[{"text":"连续七天用血下注掷骰，每天规则都会改变","dimension":"玩法","excerpt":"Gamble your life away — build a deck of dice and roll to survive seven days of high-stakes sessions. Sounds simple, but the rules change every day.","url":"https://store.steampowered.com/app/3394770/","label":"证据原文片段"},{"text":"允许作弊，以高风险高回报掷骰决定生死","dimension":"玩法","excerpt":"Cheating is allowed, she’s okay with that. Raise the stakes with high-risk, high-reward rolls that can mean the difference between life and death.","url":"https://store.steampowered.com/app/3394770/","label":"证据原文片段"},{"text":"用硬币购买止血包、重掷、食物与护符操控存活概率","dimension":"玩法","excerpt":"Earn coins after every successful session, and purchase items to tilt the odds in your favor — stop the bleeding with emergency health kits, store up re-rolls, eat food to replenish HP levels and equip defensive amulets to build up resolve.","url":"https://store.steampowered.com/app/3394770/","label":"证据原文片段"}],"opinions":[{"text":"配音演员表现出色。","dimension":"音频","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"the voice actress, wow she really nailed it!","url":"https://steamcommunity.com/id/Sunfire230/recommended/3394770/","label":"证据原文片段"}]},{"text":"动画与整体呈现是明显亮点。","dimension":"画风","source":"玩家观点","polarity":"喜欢","excerpts":[{"excerpt":"The highlights are animations, presentation","url":"https://steamcommunity.com/id/Sunfire230/recommended/3394770/","label":"证据原文片段"}]},{"text":"解锁结局过程较乏味。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"unlocking endings is a bit tedious","url":"https://steamcommunity.com/id/Sunfire230/recommended/3394770/","label":"证据原文片段"}]},{"text":"陷阱选项过多，容易误选无用护符。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"这游戏的坑人选项太多，稍微不注意就能选到傻逼护符","url":"https://steamcommunity.com/profiles/76561199544171218/recommended/3394770/","label":"证据原文片段"}]},{"text":"特殊规则更像干扰或直接毁局，而非有趣限制。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the gimmicks are more of an inconvenience or run killer than an interesting restriction.","url":"https://steamcommunity.com/profiles/76561198854255502/recommended/3394770/","label":"证据原文片段"}]},{"text":"骰子结算速度偏慢。","dimension":"玩法","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"the dice rolls a bit slowly","url":"https://steamcommunity.com/profiles/76561198854255502/recommended/3394770/","label":"证据原文片段"}]},{"text":"缺少令人满意的好结局。","dimension":"剧情","source":"玩家观点","polarity":"需留意","excerpts":[{"excerpt":"还没有好结局，不管是有好感还是没好感，都是死路一条","url":"https://steamcommunity.com/profiles/76561199544171218/recommended/3394770/","label":"证据原文片段"}]}],"metrics":[{"id":"sales","label":"销量","value":23155,"unit":"份","state":"available","date":"2026-07-23"},{"id":"wishlist","label":"愿望单","value":108032,"unit":"人","state":"available","date":"2026-07-23"},{"id":"followers","label":"关注人数","value":5070,"unit":"人","state":"available","date":"2026-07-23"},{"id":"revenue","label":"收入估算","value":153098,"unit":"USD","state":"available","date":"2026-07-23"},{"id":"players","label":"玩家数","value":23718,"unit":"人","state":"available","date":"2026-07-23"},{"id":"owners","label":"拥有者估算","value":23718,"unit":"人","state":"available","date":"2026-07-23"},{"id":"playtime","label":"平均游玩时长","value":4.036504814512607,"unit":"小时","state":"available","date":"2026-07-23"},{"id":"reviews","label":"Steam 评论数","value":649,"unit":"条","state":"available","date":"2026-07-23"},{"id":"score","label":"评分","value":93,"unit":"分","state":"available","date":"2026-07-23"},{"id":"positive","label":"Steam 好评率","value":92.615385,"unit":"%","state":"available","date":"2026-07-24"}],"baseline":{"date":"2026-07-23","message":"首期基线，暂无可比趋势。"},"risks":["解锁结局过程较乏味。","陷阱选项过多，容易误选无用护符。","特殊规则更像干扰或直接毁局，而非有趣限制。","骰子结算速度偏慢。","缺少令人满意的好结局。"],"actions":[{"label":"降低优先级观察","target":"复核负向体验与Steam口碑是否持续","reason":"当前存在具体负向玩家证据或明确客观口碑风险。","trigger":"后续同口径口碑改善且负向问题被版本修复时恢复深度评估。","priority":"高"}],"media":{"cover":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/9da466b75338a18161e013411aee867be95354a0/ss_9da466b75338a18161e013411aee867be95354a0.1920x1080.jpg?t=1782401223","screenshots":[{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/9da466b75338a18161e013411aee867be95354a0/ss_9da466b75338a18161e013411aee867be95354a0.1920x1080.jpg?t=1782401223","alt":"Menherarium: Deadly Dice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/de4140f7e85ca7c517cafec69a79191daffc5ec9/ss_de4140f7e85ca7c517cafec69a79191daffc5ec9.1920x1080.jpg?t=1782401223","alt":"Menherarium: Deadly Dice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/8a05bf1d805b87e88bd6f8f96d1ecff62524b798/ss_8a05bf1d805b87e88bd6f8f96d1ecff62524b798.1920x1080.jpg?t=1782401223","alt":"Menherarium: Deadly Dice 产品截图"},{"url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/e920b2ebbc47718c1084a7dfda5f7402f59b0398/ss_e920b2ebbc47718c1084a7dfda5f7402f59b0398.1920x1080.jpg?t=1782401223","alt":"Menherarium: Deadly Dice 产品截图"}]},"evidence_note":"以下内容为可展示的观点与评论片段，不代表完整原文。"}
+{
+  "identity": {
+    "original_title": "Menherarium: Deadly Dice",
+    "developers": [
+      "テスカトリポカ"
+    ],
+    "publishers": [
+      "Phoenixx Inc."
+    ],
+    "release_status": "released",
+    "release_date": "2026-02-18",
+    "tags": [
+      "恐怖",
+      "动漫风格",
+      "轻度Rogue",
+      "可爱",
+      "轻度Rogue"
+    ]
+  },
+  "hooks": [
+    {
+      "text": "连续七天用血下注掷骰，每天规则都会改变",
+      "dimension": "玩法",
+      "excerpt": "Gamble your life away — build a deck of dice and roll to survive seven days of high-stakes sessions. Sounds simple, but the rules change every day.",
+      "url": "https://store.steampowered.com/app/3394770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "允许作弊，以高风险高回报掷骰决定生死",
+      "dimension": "玩法",
+      "excerpt": "Cheating is allowed, she’s okay with that. Raise the stakes with high-risk, high-reward rolls that can mean the difference between life and death.",
+      "url": "https://store.steampowered.com/app/3394770/",
+      "label": "证据原文片段"
+    },
+    {
+      "text": "用硬币购买止血包、重掷、食物与护符操控存活概率",
+      "dimension": "玩法",
+      "excerpt": "Earn coins after every successful session, and purchase items to tilt the odds in your favor — stop the bleeding with emergency health kits, store up re-rolls, eat food to replenish HP levels and equip defensive amulets to build up resolve.",
+      "url": "https://store.steampowered.com/app/3394770/",
+      "label": "证据原文片段"
+    }
+  ],
+  "opinions": [
+    {
+      "text": "配音演员表现出色。",
+      "dimension": "音频",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "the voice actress, wow she really nailed it!",
+          "url": "https://steamcommunity.com/id/Sunfire230/recommended/3394770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "动画与整体呈现是明显亮点。",
+      "dimension": "画风",
+      "source": "玩家观点",
+      "polarity": "喜欢",
+      "excerpts": [
+        {
+          "excerpt": "The highlights are animations, presentation",
+          "url": "https://steamcommunity.com/id/Sunfire230/recommended/3394770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "解锁结局过程较乏味。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "unlocking endings is a bit tedious",
+          "url": "https://steamcommunity.com/id/Sunfire230/recommended/3394770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "陷阱选项过多，容易误选无用护符。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "这游戏的坑人选项太多，稍微不注意就能选到傻逼护符",
+          "url": "https://steamcommunity.com/profiles/76561199544171218/recommended/3394770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "特殊规则更像干扰或直接毁局，而非有趣限制。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the gimmicks are more of an inconvenience or run killer than an interesting restriction.",
+          "url": "https://steamcommunity.com/profiles/76561198854255502/recommended/3394770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "骰子结算速度偏慢。",
+      "dimension": "玩法",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "the dice rolls a bit slowly",
+          "url": "https://steamcommunity.com/profiles/76561198854255502/recommended/3394770/",
+          "label": "证据原文片段"
+        }
+      ]
+    },
+    {
+      "text": "缺少令人满意的好结局。",
+      "dimension": "剧情",
+      "source": "玩家观点",
+      "polarity": "需留意",
+      "excerpts": [
+        {
+          "excerpt": "还没有好结局，不管是有好感还是没好感，都是死路一条",
+          "url": "https://steamcommunity.com/profiles/76561199544171218/recommended/3394770/",
+          "label": "证据原文片段"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "sales",
+      "label": "销量",
+      "value": 24777,
+      "unit": "份",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "wishlist",
+      "label": "愿望单",
+      "value": 108673,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "followers",
+      "label": "关注人数",
+      "value": 5140,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "revenue",
+      "label": "收入估算",
+      "value": 167927,
+      "unit": "USD",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "players",
+      "label": "玩家数",
+      "value": 25406,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "owners",
+      "label": "拥有者估算",
+      "value": 25406,
+      "unit": "人",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "playtime",
+      "label": "平均游玩时长",
+      "value": 3.9494256703685964,
+      "unit": "小时",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "reviews",
+      "label": "Steam 评论数",
+      "value": 654,
+      "unit": "条",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "score",
+      "label": "评分",
+      "value": 93,
+      "unit": "分",
+      "state": "available",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "positive",
+      "label": "Steam 好评率",
+      "value": 92.647059,
+      "unit": "%",
+      "state": "available",
+      "date": "2026-08-17"
+    }
+  ],
+  "baseline": {
+    "date": "2026-08-17",
+    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+  },
+  "risks": [
+    "解锁结局过程较乏味。",
+    "陷阱选项过多，容易误选无用护符。",
+    "特殊规则更像干扰或直接毁局，而非有趣限制。",
+    "骰子结算速度偏慢。",
+    "缺少令人满意的好结局。"
+  ],
+  "actions": [
+    {
+      "label": "案例拆解",
+      "target": "长期长板与风险",
+      "reason": "Menherarium: Deadly Dice位于历史重点池。",
+      "trigger": "进入具体立项比较时复核。",
+      "priority": "中"
+    }
+  ],
+  "media": {
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/9da466b75338a18161e013411aee867be95354a0/ss_9da466b75338a18161e013411aee867be95354a0.1920x1080.jpg?t=1782401223",
+    "screenshots": [
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/9da466b75338a18161e013411aee867be95354a0/ss_9da466b75338a18161e013411aee867be95354a0.1920x1080.jpg?t=1786614448",
+        "alt": "Menherarium: Deadly Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/de4140f7e85ca7c517cafec69a79191daffc5ec9/ss_de4140f7e85ca7c517cafec69a79191daffc5ec9.1920x1080.jpg?t=1786614448",
+        "alt": "Menherarium: Deadly Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/8a05bf1d805b87e88bd6f8f96d1ecff62524b798/ss_8a05bf1d805b87e88bd6f8f96d1ecff62524b798.1920x1080.jpg?t=1786614448",
+        "alt": "Menherarium: Deadly Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/e920b2ebbc47718c1084a7dfda5f7402f59b0398/ss_e920b2ebbc47718c1084a7dfda5f7402f59b0398.1920x1080.jpg?t=1786614448",
+        "alt": "Menherarium: Deadly Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/5d93b047707b00e6e279d07d911c4f4a57c52f6b/ss_5d93b047707b00e6e279d07d911c4f4a57c52f6b.1920x1080.jpg?t=1786614448",
+        "alt": "Menherarium: Deadly Dice 产品截图"
+      },
+      {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394770/4d3099dc7f0eebb7c99e3ffd863f85c9a45f2d7d/ss_4d3099dc7f0eebb7c99e3ffd863f85c9a45f2d7d.1920x1080.jpg?t=1786614448",
+        "alt": "Menherarium: Deadly Dice 产品截图"
+      }
+    ]
+  },
+  "evidence_note": "以下内容来自已接受的冻结语义基线；本期未新增正式玩家观点。"
+}
