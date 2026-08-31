@@ -112,58 +112,58 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 558,
+      "value": 556,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 3836,
+      "value": 3846,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 84,
+      "value": 86,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 3913,
+      "value": 3859,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 612,
+      "value": 609,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 612,
+      "value": 609,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 2.72845767689337,
+      "value": 2.7355329415380103,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
@@ -171,7 +171,7 @@
       "value": 28,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -179,7 +179,7 @@
       "value": 100,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
@@ -187,12 +187,12 @@
       "value": 100,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [
     "任务在UI中不够醒目，容易被忘记。",

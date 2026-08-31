@@ -45,66 +45,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 32168,
+      "value": 32933,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 131682,
+      "value": 132024,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 9345,
+      "value": 9404,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 647087,
+      "value": 660703,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 33209,
+      "value": 34005,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 33209,
+      "value": 34005,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 15.542960996371713,
+      "value": 15.3574828004568,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 1323,
+      "value": 1336,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -112,20 +112,20 @@
       "value": 82,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 82.395382,
+      "value": 82.441113,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -141,35 +141,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/cf0eefa599922e886459284dd32b4e5273d27760/ss_cf0eefa599922e886459284dd32b4e5273d27760.1920x1080.jpg?t=1782722227",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/cf0eefa599922e886459284dd32b4e5273d27760/ss_cf0eefa599922e886459284dd32b4e5273d27760.1920x1080.jpg?t=1786468128",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/cf0eefa599922e886459284dd32b4e5273d27760/ss_cf0eefa599922e886459284dd32b4e5273d27760.1920x1080.jpg?t=1787826161",
         "alt": "Bootstrap Island 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/6c8f94ce957b59b9552278fb774cac2320bc60b0/ss_6c8f94ce957b59b9552278fb774cac2320bc60b0.1920x1080.jpg?t=1786468128",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/6c8f94ce957b59b9552278fb774cac2320bc60b0/ss_6c8f94ce957b59b9552278fb774cac2320bc60b0.1920x1080.jpg?t=1787826161",
         "alt": "Bootstrap Island 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/ss_ea51962e1a4760c2ff7fc7d2195f321369ae8747.1920x1080.jpg?t=1786468128",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/ss_ea51962e1a4760c2ff7fc7d2195f321369ae8747.1920x1080.jpg?t=1787826161",
         "alt": "Bootstrap Island 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/d488b43bd4764da86381ac6ecfeed14175b9b904/ss_d488b43bd4764da86381ac6ecfeed14175b9b904.1920x1080.jpg?t=1786468128",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/d488b43bd4764da86381ac6ecfeed14175b9b904/ss_d488b43bd4764da86381ac6ecfeed14175b9b904.1920x1080.jpg?t=1787826161",
         "alt": "Bootstrap Island 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/3264420c93b26cac3fd9d675cfc2c92cdf72dfe3/ss_3264420c93b26cac3fd9d675cfc2c92cdf72dfe3.1920x1080.jpg?t=1786468128",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/3264420c93b26cac3fd9d675cfc2c92cdf72dfe3/ss_3264420c93b26cac3fd9d675cfc2c92cdf72dfe3.1920x1080.jpg?t=1787826161",
         "alt": "Bootstrap Island 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/9359b2724a76a33f409fe9fdd8172bc1db4327b9/ss_9359b2724a76a33f409fe9fdd8172bc1db4327b9.1920x1080.jpg?t=1786468128",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/9359b2724a76a33f409fe9fdd8172bc1db4327b9/ss_9359b2724a76a33f409fe9fdd8172bc1db4327b9.1920x1080.jpg?t=1787826161",
         "alt": "Bootstrap Island 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/c41ce026fbc4871198f4f627d688cc07bd966fb9/ss_c41ce026fbc4871198f4f627d688cc07bd966fb9.1920x1080.jpg?t=1786468128",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/c41ce026fbc4871198f4f627d688cc07bd966fb9/ss_c41ce026fbc4871198f4f627d688cc07bd966fb9.1920x1080.jpg?t=1787826161",
         "alt": "Bootstrap Island 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/e13153f75fa74070509e0b146eaa49323ae11d4b/ss_e13153f75fa74070509e0b146eaa49323ae11d4b.1920x1080.jpg?t=1786468128",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942110/e13153f75fa74070509e0b146eaa49323ae11d4b/ss_e13153f75fa74070509e0b146eaa49323ae11d4b.1920x1080.jpg?t=1787826161",
         "alt": "Bootstrap Island 产品截图"
       }
     ]

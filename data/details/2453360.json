@@ -113,66 +113,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 284018,
+      "value": 283638,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 109949,
+      "value": 110235,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 8420,
+      "value": 8431,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 1588300,
+      "value": 1584729,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 318045,
+      "value": 317568,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 318045,
+      "value": 317568,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 21.381457582667945,
+      "value": 46.22866200154136,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 3054,
+      "value": 3059,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -180,20 +180,20 @@
       "value": 88,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 88.266297,
+      "value": 88.233666,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [
     "游戏整体过于简单",

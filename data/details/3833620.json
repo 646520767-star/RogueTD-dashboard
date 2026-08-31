@@ -72,18 +72,18 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 276,
+      "value": 428,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 2557,
+      "value": 1282,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
@@ -91,68 +91,68 @@
       "value": 227,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 6904,
+      "value": 10879,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 310,
+      "value": 490,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 310,
+      "value": 490,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 6.92335908121166,
+      "value": 6.625145508938667,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 16,
+      "value": 18,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
       "label": "评分",
-      "value": 95,
+      "value": 86,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 90,
+      "value": 86.363636,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -168,31 +168,31 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/3e42160e5212576617fc9806f1af638f2acc20c8/ss_3e42160e5212576617fc9806f1af638f2acc20c8.1920x1080.jpg?t=1784146366",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/3e42160e5212576617fc9806f1af638f2acc20c8/ss_3e42160e5212576617fc9806f1af638f2acc20c8.1920x1080.jpg?t=1786652794",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/3e42160e5212576617fc9806f1af638f2acc20c8/ss_3e42160e5212576617fc9806f1af638f2acc20c8.1920x1080.jpg?t=1787228453",
         "alt": "Ariokan - create your cards, break the Meta 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/632ff4e2d226739b21c3efa4235c41517e2ac803/ss_632ff4e2d226739b21c3efa4235c41517e2ac803.1920x1080.jpg?t=1786652794",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/632ff4e2d226739b21c3efa4235c41517e2ac803/ss_632ff4e2d226739b21c3efa4235c41517e2ac803.1920x1080.jpg?t=1787228453",
         "alt": "Ariokan - create your cards, break the Meta 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/d653a2dea4e1a99aa162fffe2242733d6425a0a0/ss_d653a2dea4e1a99aa162fffe2242733d6425a0a0.1920x1080.jpg?t=1786652794",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/d653a2dea4e1a99aa162fffe2242733d6425a0a0/ss_d653a2dea4e1a99aa162fffe2242733d6425a0a0.1920x1080.jpg?t=1787228453",
         "alt": "Ariokan - create your cards, break the Meta 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/26626f4840e13070432e697238d4a2a7f072e886/ss_26626f4840e13070432e697238d4a2a7f072e886.1920x1080.jpg?t=1786652794",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/26626f4840e13070432e697238d4a2a7f072e886/ss_26626f4840e13070432e697238d4a2a7f072e886.1920x1080.jpg?t=1787228453",
         "alt": "Ariokan - create your cards, break the Meta 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/48d6bbb7c43f03b5340722f6a871ff78f1c308f5/ss_48d6bbb7c43f03b5340722f6a871ff78f1c308f5.1920x1080.jpg?t=1786652794",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/48d6bbb7c43f03b5340722f6a871ff78f1c308f5/ss_48d6bbb7c43f03b5340722f6a871ff78f1c308f5.1920x1080.jpg?t=1787228453",
         "alt": "Ariokan - create your cards, break the Meta 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/da3f970f6c9a6ca54ba27b55dba586dc9349c817/ss_da3f970f6c9a6ca54ba27b55dba586dc9349c817.1920x1080.jpg?t=1786652794",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/da3f970f6c9a6ca54ba27b55dba586dc9349c817/ss_da3f970f6c9a6ca54ba27b55dba586dc9349c817.1920x1080.jpg?t=1787228453",
         "alt": "Ariokan - create your cards, break the Meta 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/b9e48ec8fb1795d5b7cc40df856448cc1abc8664/ss_b9e48ec8fb1795d5b7cc40df856448cc1abc8664.1920x1080.jpg?t=1786652794",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/b9e48ec8fb1795d5b7cc40df856448cc1abc8664/ss_b9e48ec8fb1795d5b7cc40df856448cc1abc8664.1920x1080.jpg?t=1787228453",
         "alt": "Ariokan - create your cards, break the Meta 产品截图"
       }
     ]

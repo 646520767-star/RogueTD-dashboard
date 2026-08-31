@@ -46,66 +46,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 1032,
+      "value": 1056,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 15342,
+      "value": 15382,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 896,
+      "value": 904,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 18566,
+      "value": 18998,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 1467,
+      "value": 1483,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 1467,
+      "value": 1483,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 3.6320905158071657,
+      "value": 3.693189700616595,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 19,
+      "value": 20,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -113,20 +113,20 @@
       "value": 76,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 75.757576,
+      "value": 76.470588,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -142,23 +142,23 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/46435cc790b8206eb455d1e790779b1534f70edd/ss_46435cc790b8206eb455d1e790779b1534f70edd.1920x1080.jpg?t=1782118729",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/46435cc790b8206eb455d1e790779b1534f70edd/ss_46435cc790b8206eb455d1e790779b1534f70edd.1920x1080.jpg?t=1782118729",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/46435cc790b8206eb455d1e790779b1534f70edd/ss_46435cc790b8206eb455d1e790779b1534f70edd.1920x1080.jpg?t=1787296156",
         "alt": "热血西游记 天竺奇谭 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/6013ffecfc1424034e115e4fb9579ac07e047c39/ss_6013ffecfc1424034e115e4fb9579ac07e047c39.1920x1080.jpg?t=1782118729",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/6013ffecfc1424034e115e4fb9579ac07e047c39/ss_6013ffecfc1424034e115e4fb9579ac07e047c39.1920x1080.jpg?t=1787296156",
         "alt": "热血西游记 天竺奇谭 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/d845d5485ed88affd038f0289bc80e2eb880b96e/ss_d845d5485ed88affd038f0289bc80e2eb880b96e.1920x1080.jpg?t=1782118729",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/d845d5485ed88affd038f0289bc80e2eb880b96e/ss_d845d5485ed88affd038f0289bc80e2eb880b96e.1920x1080.jpg?t=1787296156",
         "alt": "热血西游记 天竺奇谭 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/2775d619034be32c88b5a38ab52f0f86fd701488/ss_2775d619034be32c88b5a38ab52f0f86fd701488.1920x1080.jpg?t=1782118729",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/2775d619034be32c88b5a38ab52f0f86fd701488/ss_2775d619034be32c88b5a38ab52f0f86fd701488.1920x1080.jpg?t=1787296156",
         "alt": "热血西游记 天竺奇谭 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/48dc51a88ade021e51f84edb9407aeb0897e7b0d/ss_48dc51a88ade021e51f84edb9407aeb0897e7b0d.1920x1080.jpg?t=1782118729",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164020/48dc51a88ade021e51f84edb9407aeb0897e7b0d/ss_48dc51a88ade021e51f84edb9407aeb0897e7b0d.1920x1080.jpg?t=1787296156",
         "alt": "热血西游记 天竺奇谭 产品截图"
       }
     ]

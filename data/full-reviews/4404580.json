@@ -110,26 +110,32 @@
         {
           "id": "p018",
           "recommendation": "推荐",
-          "text": "It's a mix a rogue-like and a souls game that will make you angry for not dodging the bullet from the sniper. Have 100+ hours on the playtest and on the same track now that the game's launched. Absolutely loving it!",
-          "url": "https://steamcommunity.com/profiles/76561198400324342/recommended/4404580/"
+          "text": "I wasn't too sure I was going to dig this one. I am so happy the dev reached out and asked us to play it. Really fun time! The different monk classes add so much variety to the game! I also like the gameplay being a bullet hell / incremental survivor + Space Invaders. Retro yet modern and I'm loving it!",
+          "url": "https://steamcommunity.com/id/charli3dubs/recommended/4404580/"
         },
         {
           "id": "p019",
           "recommendation": "推荐",
-          "text": "This game was quite a discovery for me. I didn't expect to enjoy it so much. So simple but fun at the same time. Easy to start and hard to stop once you get to the challenging waves. :-D The progression system is quite engaging and the music is mesmerizing. The main characters looked a bit too static to me at first, no animations, but it doesn't matter much - you forget about this during the game. Well done, devs!",
-          "url": "https://steamcommunity.com/id/oshevoshev/recommended/4404580/"
+          "text": "It's a mix a rogue-like and a souls game that will make you angry for not dodging the bullet from the sniper. Have 100+ hours on the playtest and on the same track now that the game's launched. Absolutely loving it!",
+          "url": "https://steamcommunity.com/profiles/76561198400324342/recommended/4404580/"
         },
         {
           "id": "p020",
           "recommendation": "推荐",
-          "text": "The game has everything to keep you entertained and is incredibly addictive! It features a really interesting variety of characters and builds, plus multiple difficulty levels that keep both beginners and experienced players engaged. Highly recommended!",
-          "url": "https://steamcommunity.com/profiles/76561199046601992/recommended/4404580/"
+          "text": "This game was quite a discovery for me. I didn't expect to enjoy it so much. So simple but fun at the same time. Easy to start and hard to stop once you get to the challenging waves. :-D The progression system is quite engaging and the music is mesmerizing. The main characters looked a bit too static to me at first, no animations, but it doesn't matter much - you forget about this during the game. Well done, devs!",
+          "url": "https://steamcommunity.com/id/oshevoshev/recommended/4404580/"
         },
         {
           "id": "p021",
           "recommendation": "推荐",
           "text": "I played the demo and got completely hooked, so I was really looking forward to the full release. It’s incredibly fun, with amazing art and soundtrack, and the gameplay feels great for players of all skill levels (I showed the demo for a bunch of friends - from the most try harder gamer to the person who doesn't know what Steam is - and they all loved!). The game scales the required skill and strategy very smoothly. Starting off easy so you can get the hang of it, and gradually becoming a real challenge. Amazing job, congrats to the developers!",
           "url": "https://steamcommunity.com/profiles/76561199652615039/recommended/4404580/"
+        },
+        {
+          "id": "p022",
+          "recommendation": "推荐",
+          "text": "Pretty awesome game! Amazing roguelite experience, with addictive gameplay, beautiful artwork and interesting upgrade mechanics. 100% recommend playing!",
+          "url": "https://steamcommunity.com/profiles/76561198213342699/recommended/4404580/"
         }
       ],
       "groups": [
@@ -153,7 +159,9 @@
             "p014",
             "p015",
             "p016",
-            "p017"
+            "p017",
+            "p018",
+            "p019"
           ]
         },
         {
@@ -176,7 +184,9 @@
             "p014",
             "p015",
             "p016",
-            "p017"
+            "p017",
+            "p018",
+            "p019"
           ]
         },
         {
@@ -193,12 +203,13 @@
             "p018",
             "p019",
             "p020",
-            "p021"
+            "p021",
+            "p022"
           ]
         }
       ],
       "label": "普通玩家",
-      "readable_count": 21,
+      "readable_count": 22,
       "empty_status_count": 0
     },
     "curator": {

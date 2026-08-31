@@ -1,13 +1,14 @@
 {
   "schema_version": "dashboard_metric_history_overview_v1",
-  "generated_at": "2026-08-21T16:49:29+08:00",
+  "generated_at": "2026-08-31T14:15:18+08:00",
   "scope_key": "formal_pool_fixed_comparable_cohort",
   "scope_label": "正式分池固定可比产品",
-  "formal_product_count": 1920,
+  "formal_product_count": 1933,
   "observation_dates": [
     "2026-07-23",
     "2026-08-05",
-    "2026-08-17"
+    "2026-08-17",
+    "2026-08-28"
   ],
   "metric_count": 4,
   "metrics": [
@@ -16,14 +17,14 @@
       "label": "销量",
       "unit": "份",
       "display_status": "multi_period_trend",
-      "available_count": 3,
+      "available_count": 4,
       "has_gap": false,
       "definition_change": false,
-      "latest_date": "2026-08-17",
-      "latest_value": 211602648.0,
-      "delta_value": 3992625.0,
-      "delta_rate": 1.9231369190686904,
-      "coverage_count": 1793,
+      "latest_date": "2026-08-28",
+      "latest_value": 213229864.0,
+      "delta_value": 1999523.0,
+      "delta_rate": 0.9466078549766674,
+      "coverage_count": 1769,
       "segments": [
         {
           "definition_version": "topdata_snapshot_v1",
@@ -31,27 +32,35 @@
           "points": [
             {
               "date": "2026-07-23",
-              "value": 202991955.0,
+              "value": 202632010.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
             },
             {
               "date": "2026-08-05",
-              "value": 207610023.0,
+              "value": 207246870.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
             },
             {
               "date": "2026-08-17",
-              "value": 211602648.0,
+              "value": 211230341.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
+            },
+            {
+              "date": "2026-08-28",
+              "value": 213229864.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1769
             }
           ]
         }
@@ -62,14 +71,14 @@
       "label": "愿望单",
       "unit": "人",
       "display_status": "multi_period_trend",
-      "available_count": 3,
+      "available_count": 4,
       "has_gap": false,
       "definition_change": false,
-      "latest_date": "2026-08-17",
-      "latest_value": 149013206.0,
-      "delta_value": 1976347.0,
-      "delta_rate": 1.344116715659711,
-      "coverage_count": 1793,
+      "latest_date": "2026-08-28",
+      "latest_value": 150090655.0,
+      "delta_value": 1351008.0,
+      "delta_rate": 0.9083038902196668,
+      "coverage_count": 1769,
       "segments": [
         {
           "definition_version": "topdata_snapshot_v1",
@@ -77,27 +86,35 @@
           "points": [
             {
               "date": "2026-07-23",
-              "value": 145066806.0,
+              "value": 144729655.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
             },
             {
               "date": "2026-08-05",
-              "value": 147036859.0,
+              "value": 146732899.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
             },
             {
               "date": "2026-08-17",
-              "value": 149013206.0,
+              "value": 148739647.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
+            },
+            {
+              "date": "2026-08-28",
+              "value": 150090655.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1769
             }
           ]
         }
@@ -108,14 +125,14 @@
       "label": "关注人数",
       "unit": "人",
       "display_status": "multi_period_trend",
-      "available_count": 3,
+      "available_count": 4,
       "has_gap": false,
       "definition_change": false,
-      "latest_date": "2026-08-17",
-      "latest_value": 11822004.0,
-      "delta_value": 129312.0,
-      "delta_rate": 1.1059215448418551,
-      "coverage_count": 1793,
+      "latest_date": "2026-08-28",
+      "latest_value": 11864938.0,
+      "delta_value": 93649.0,
+      "delta_rate": 0.7955713261308937,
+      "coverage_count": 1769,
       "segments": [
         {
           "definition_version": "topdata_snapshot_v1",
@@ -123,27 +140,35 @@
           "points": [
             {
               "date": "2026-07-23",
-              "value": 11552433.0,
+              "value": 11499262.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
             },
             {
               "date": "2026-08-05",
-              "value": 11692692.0,
+              "value": 11640469.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
             },
             {
               "date": "2026-08-17",
-              "value": 11822004.0,
+              "value": 11771289.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
+            },
+            {
+              "date": "2026-08-28",
+              "value": 11864938.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1769
             }
           ]
         }
@@ -154,14 +179,14 @@
       "label": "收入估算",
       "unit": "USD",
       "display_status": "multi_period_trend",
-      "available_count": 3,
+      "available_count": 4,
       "has_gap": false,
       "definition_change": false,
-      "latest_date": "2026-08-17",
-      "latest_value": 2172693329.0,
-      "delta_value": 30641080.0,
-      "delta_rate": 1.4304543698364287,
-      "coverage_count": 1793,
+      "latest_date": "2026-08-28",
+      "latest_value": 2184811398.0,
+      "delta_value": 17943019.0,
+      "delta_rate": 0.8280622475224186,
+      "coverage_count": 1769,
       "segments": [
         {
           "definition_version": "topdata_snapshot_v1",
@@ -169,27 +194,35 @@
           "points": [
             {
               "date": "2026-07-23",
-              "value": 2103136681.0,
+              "value": 2097525964.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
             },
             {
               "date": "2026-08-05",
-              "value": 2142052249.0,
+              "value": 2136381598.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
             },
             {
               "date": "2026-08-17",
-              "value": 2172693329.0,
+              "value": 2166868379.0,
               "state": "available",
               "source": "TopData冻结快照",
               "comparable": true,
-              "coverage_count": 1793
+              "coverage_count": 1769
+            },
+            {
+              "date": "2026-08-28",
+              "value": 2184811398.0,
+              "state": "available",
+              "source": "TopData冻结快照",
+              "comparable": true,
+              "coverage_count": 1769
             }
           ]
         }

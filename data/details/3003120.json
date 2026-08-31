@@ -190,66 +190,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 6615,
+      "value": 6514,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 19177,
+      "value": 19227,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 1744,
+      "value": 1762,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 52729,
+      "value": 52080,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 7025,
+      "value": 6909,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 7025,
+      "value": 6909,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 8.041036740350005,
+      "value": 8.087969414874744,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 121,
+      "value": 124,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -257,20 +257,20 @@
       "value": 88,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 87.878788,
+      "value": 88.235294,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [
     "部分内容很快失去趣味",
@@ -292,35 +292,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/37ba8d8b21473a84bed0adae24acaa496676e5ad/ss_37ba8d8b21473a84bed0adae24acaa496676e5ad.1920x1080.jpg?t=1781043388",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/37ba8d8b21473a84bed0adae24acaa496676e5ad/ss_37ba8d8b21473a84bed0adae24acaa496676e5ad.1920x1080.jpg?t=1781043388",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/37ba8d8b21473a84bed0adae24acaa496676e5ad/ss_37ba8d8b21473a84bed0adae24acaa496676e5ad.1920x1080.jpg?t=1787671990",
         "alt": "Zombiehood 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/054481a9aee02c422c359c39fa2377f0153637ae/ss_054481a9aee02c422c359c39fa2377f0153637ae.1920x1080.jpg?t=1781043388",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/054481a9aee02c422c359c39fa2377f0153637ae/ss_054481a9aee02c422c359c39fa2377f0153637ae.1920x1080.jpg?t=1787671990",
         "alt": "Zombiehood 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/1567d5cf6d16a0e07a2e8c7b8a38be5f72991fa5/ss_1567d5cf6d16a0e07a2e8c7b8a38be5f72991fa5.1920x1080.jpg?t=1781043388",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/1567d5cf6d16a0e07a2e8c7b8a38be5f72991fa5/ss_1567d5cf6d16a0e07a2e8c7b8a38be5f72991fa5.1920x1080.jpg?t=1787671990",
         "alt": "Zombiehood 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/1e6f64dccc2caced836e99362291eae161ed3daa/ss_1e6f64dccc2caced836e99362291eae161ed3daa.1920x1080.jpg?t=1781043388",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/1e6f64dccc2caced836e99362291eae161ed3daa/ss_1e6f64dccc2caced836e99362291eae161ed3daa.1920x1080.jpg?t=1787671990",
         "alt": "Zombiehood 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/2b88c42975d5807aa789a17b8682c79ecf6dd29b/ss_2b88c42975d5807aa789a17b8682c79ecf6dd29b.1920x1080.jpg?t=1781043388",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/2b88c42975d5807aa789a17b8682c79ecf6dd29b/ss_2b88c42975d5807aa789a17b8682c79ecf6dd29b.1920x1080.jpg?t=1787671990",
         "alt": "Zombiehood 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/eaf95a59fa5f0ebb67c201c3d88338ea978c1196/ss_eaf95a59fa5f0ebb67c201c3d88338ea978c1196.1920x1080.jpg?t=1781043388",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/eaf95a59fa5f0ebb67c201c3d88338ea978c1196/ss_eaf95a59fa5f0ebb67c201c3d88338ea978c1196.1920x1080.jpg?t=1787671990",
         "alt": "Zombiehood 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/7a3b87fb722a3acaddfc7e9803b760b199581763/ss_7a3b87fb722a3acaddfc7e9803b760b199581763.1920x1080.jpg?t=1781043388",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/7a3b87fb722a3acaddfc7e9803b760b199581763/ss_7a3b87fb722a3acaddfc7e9803b760b199581763.1920x1080.jpg?t=1787671990",
         "alt": "Zombiehood 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/168019790d7b9f50fa6202c8158af2975d6f2d73/ss_168019790d7b9f50fa6202c8158af2975d6f2d73.1920x1080.jpg?t=1781043388",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003120/168019790d7b9f50fa6202c8158af2975d6f2d73/ss_168019790d7b9f50fa6202c8158af2975d6f2d73.1920x1080.jpg?t=1787671990",
         "alt": "Zombiehood 产品截图"
       }
     ]

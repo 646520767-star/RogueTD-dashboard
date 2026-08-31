@@ -45,66 +45,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 114417,
+      "value": 115040,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 350304,
+      "value": 353781,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 20097,
+      "value": 20132,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 1945348,
+      "value": 1957388,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 121730,
+      "value": 122419,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 121730,
+      "value": 122419,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 5.643050766943274,
+      "value": 5.6960668156390515,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 2482,
+      "value": 2494,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -112,20 +112,20 @@
       "value": 92,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 91.605302,
+      "value": 91.645291,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -141,35 +141,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/293f5180e1bb51afead3f8179aa188486b40a616/ss_293f5180e1bb51afead3f8179aa188486b40a616.1920x1080.jpg?t=1781869089",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/293f5180e1bb51afead3f8179aa188486b40a616/ss_293f5180e1bb51afead3f8179aa188486b40a616.1920x1080.jpg?t=1786120470",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/293f5180e1bb51afead3f8179aa188486b40a616/ss_293f5180e1bb51afead3f8179aa188486b40a616.1920x1080.jpg?t=1787856215",
         "alt": "虚空破坏者 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/7081efdff9ae04202bcdadc7837608f6c150ae43/ss_7081efdff9ae04202bcdadc7837608f6c150ae43.1920x1080.jpg?t=1786120470",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/7081efdff9ae04202bcdadc7837608f6c150ae43/ss_7081efdff9ae04202bcdadc7837608f6c150ae43.1920x1080.jpg?t=1787856215",
         "alt": "虚空破坏者 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/ed5fea9f5c0ad17b88ab309f0eb2e8f1166f7ec0/ss_ed5fea9f5c0ad17b88ab309f0eb2e8f1166f7ec0.1920x1080.jpg?t=1786120470",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/ed5fea9f5c0ad17b88ab309f0eb2e8f1166f7ec0/ss_ed5fea9f5c0ad17b88ab309f0eb2e8f1166f7ec0.1920x1080.jpg?t=1787856215",
         "alt": "虚空破坏者 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/0a72947dc57a01af7548aea4b189eead31a13c5a/ss_0a72947dc57a01af7548aea4b189eead31a13c5a.1920x1080.jpg?t=1786120470",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/0a72947dc57a01af7548aea4b189eead31a13c5a/ss_0a72947dc57a01af7548aea4b189eead31a13c5a.1920x1080.jpg?t=1787856215",
         "alt": "虚空破坏者 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/d13aeab65a2afd60cff477c6b1d8d0c01dbbdfe0/ss_d13aeab65a2afd60cff477c6b1d8d0c01dbbdfe0.1920x1080.jpg?t=1786120470",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/d13aeab65a2afd60cff477c6b1d8d0c01dbbdfe0/ss_d13aeab65a2afd60cff477c6b1d8d0c01dbbdfe0.1920x1080.jpg?t=1787856215",
         "alt": "虚空破坏者 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/abc88b0ad89ff4d9bc620fba67cbab8bbc9a9b33/ss_abc88b0ad89ff4d9bc620fba67cbab8bbc9a9b33.1920x1080.jpg?t=1786120470",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/abc88b0ad89ff4d9bc620fba67cbab8bbc9a9b33/ss_abc88b0ad89ff4d9bc620fba67cbab8bbc9a9b33.1920x1080.jpg?t=1787856215",
         "alt": "虚空破坏者 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/d9b375e2e7cfb92c4f54fb1eac9b38ade2addded/ss_d9b375e2e7cfb92c4f54fb1eac9b38ade2addded.1920x1080.jpg?t=1786120470",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/d9b375e2e7cfb92c4f54fb1eac9b38ade2addded/ss_d9b375e2e7cfb92c4f54fb1eac9b38ade2addded.1920x1080.jpg?t=1787856215",
         "alt": "虚空破坏者 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/2acca5997142bfe58dd4695b2cde7bd417596910/ss_2acca5997142bfe58dd4695b2cde7bd417596910.1920x1080.jpg?t=1786120470",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/2acca5997142bfe58dd4695b2cde7bd417596910/ss_2acca5997142bfe58dd4695b2cde7bd417596910.1920x1080.jpg?t=1787856215",
         "alt": "虚空破坏者 产品截图"
       }
     ]

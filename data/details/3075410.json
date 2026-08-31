@@ -38,87 +38,87 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 22807,
+      "value": 22358,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 76710,
+      "value": 78191,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 4704,
+      "value": 4734,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 200512,
+      "value": 197730,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 24314,
+      "value": 23882,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 24314,
+      "value": 23882,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 5.496599648216599,
+      "value": 11.774684720082844,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 278,
+      "value": 289,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
       "label": "评分",
-      "value": 81,
+      "value": 80,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 80.130293,
+      "value": 79.937304,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -134,35 +134,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8/ss_38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8.1920x1080.jpg?t=1784801898",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8/ss_38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8.1920x1080.jpg?t=1786613292",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8/ss_38dda1a6d9a3f0eac99d7ba8328ffd34d9d20dd8.1920x1080.jpg?t=1787865755",
         "alt": "Hand of Fate: Hordes 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/9a8810d13cff6af474d5f22323a9bba2e6fff4f5/ss_9a8810d13cff6af474d5f22323a9bba2e6fff4f5.1920x1080.jpg?t=1786613292",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/9a8810d13cff6af474d5f22323a9bba2e6fff4f5/ss_9a8810d13cff6af474d5f22323a9bba2e6fff4f5.1920x1080.jpg?t=1787865755",
         "alt": "Hand of Fate: Hordes 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/358660580796f023df6be22b13bc8300bed27c4a/ss_358660580796f023df6be22b13bc8300bed27c4a.1920x1080.jpg?t=1786613292",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/358660580796f023df6be22b13bc8300bed27c4a/ss_358660580796f023df6be22b13bc8300bed27c4a.1920x1080.jpg?t=1787865755",
         "alt": "Hand of Fate: Hordes 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/46c1e47a46e9ce73a75d597da18840fa155dcd07/ss_46c1e47a46e9ce73a75d597da18840fa155dcd07.1920x1080.jpg?t=1786613292",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/46c1e47a46e9ce73a75d597da18840fa155dcd07/ss_46c1e47a46e9ce73a75d597da18840fa155dcd07.1920x1080.jpg?t=1787865755",
         "alt": "Hand of Fate: Hordes 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/296148d777c27753181fc3ede4282d9fd4691f0f/ss_296148d777c27753181fc3ede4282d9fd4691f0f.1920x1080.jpg?t=1786613292",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/ss_e75294cada9215e5836ca696d7a5099f4ed9dee4.1920x1080.jpg?t=1787865755",
         "alt": "Hand of Fate: Hordes 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/5b7b38204df442e0342c042c8196d5521b71dc0d/ss_5b7b38204df442e0342c042c8196d5521b71dc0d.1920x1080.jpg?t=1786613292",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/296148d777c27753181fc3ede4282d9fd4691f0f/ss_296148d777c27753181fc3ede4282d9fd4691f0f.1920x1080.jpg?t=1787865755",
         "alt": "Hand of Fate: Hordes 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/55c97ffc2026f8c2136da7d8cae624061469adb8/ss_55c97ffc2026f8c2136da7d8cae624061469adb8.1920x1080.jpg?t=1786613292",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/5b7b38204df442e0342c042c8196d5521b71dc0d/ss_5b7b38204df442e0342c042c8196d5521b71dc0d.1920x1080.jpg?t=1787865755",
         "alt": "Hand of Fate: Hordes 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/b2a8095ea2ccf4196b746634287134f42240cf6a/ss_b2a8095ea2ccf4196b746634287134f42240cf6a.1920x1080.jpg?t=1786613292",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3075410/55c97ffc2026f8c2136da7d8cae624061469adb8/ss_55c97ffc2026f8c2136da7d8cae624061469adb8.1920x1080.jpg?t=1787865755",
         "alt": "Hand of Fate: Hordes 产品截图"
       }
     ]

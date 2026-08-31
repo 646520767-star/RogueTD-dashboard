@@ -6,7 +6,7 @@
     ],
     "publishers": [
       "Fellow Traveller",
-      "Beep Japan Inc."
+      "Beep Japan"
     ],
     "release_status": "released",
     "release_date": "2025-09-19",
@@ -46,66 +46,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 5681,
+      "value": 5768,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 100999,
+      "value": 103824,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 5277,
+      "value": 5279,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 94221,
+      "value": 95496,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 6266,
+      "value": 6350,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 6266,
+      "value": 6350,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 7.690844830059301,
+      "value": 7.696843699427036,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 143,
+      "value": 146,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -113,20 +113,20 @@
       "value": 92,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 91.566265,
+      "value": 91.666667,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -142,35 +142,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/13ba1d15d5ba2e6df34ab73287e1863ee75d1a58/ss_13ba1d15d5ba2e6df34ab73287e1863ee75d1a58.1920x1080.jpg?t=1783483231",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/13ba1d15d5ba2e6df34ab73287e1863ee75d1a58/ss_13ba1d15d5ba2e6df34ab73287e1863ee75d1a58.1920x1080.jpg?t=1783483231",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/13ba1d15d5ba2e6df34ab73287e1863ee75d1a58/ss_13ba1d15d5ba2e6df34ab73287e1863ee75d1a58.1920x1080.jpg?t=1787010482",
         "alt": "Wander Stars 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/3714285004e1eb3d786ab7da9eaa68bff7660f9b/ss_3714285004e1eb3d786ab7da9eaa68bff7660f9b.1920x1080.jpg?t=1783483231",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/3714285004e1eb3d786ab7da9eaa68bff7660f9b/ss_3714285004e1eb3d786ab7da9eaa68bff7660f9b.1920x1080.jpg?t=1787010482",
         "alt": "Wander Stars 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/07111f5880bbfa25f1e33feb11d86522195450bc/ss_07111f5880bbfa25f1e33feb11d86522195450bc.1920x1080.jpg?t=1783483231",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/07111f5880bbfa25f1e33feb11d86522195450bc/ss_07111f5880bbfa25f1e33feb11d86522195450bc.1920x1080.jpg?t=1787010482",
         "alt": "Wander Stars 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/647de2aaf904ccc23d3b900a77e0179bf93def27/ss_647de2aaf904ccc23d3b900a77e0179bf93def27.1920x1080.jpg?t=1783483231",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/647de2aaf904ccc23d3b900a77e0179bf93def27/ss_647de2aaf904ccc23d3b900a77e0179bf93def27.1920x1080.jpg?t=1787010482",
         "alt": "Wander Stars 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/d0baec710f5ce81c43201ec91deb2ed7e817892a/ss_d0baec710f5ce81c43201ec91deb2ed7e817892a.1920x1080.jpg?t=1783483231",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/d0baec710f5ce81c43201ec91deb2ed7e817892a/ss_d0baec710f5ce81c43201ec91deb2ed7e817892a.1920x1080.jpg?t=1787010482",
         "alt": "Wander Stars 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/a9684662d2218572197c7f24e43b640c6e03a739/ss_a9684662d2218572197c7f24e43b640c6e03a739.1920x1080.jpg?t=1783483231",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/a9684662d2218572197c7f24e43b640c6e03a739/ss_a9684662d2218572197c7f24e43b640c6e03a739.1920x1080.jpg?t=1787010482",
         "alt": "Wander Stars 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/19cb23ac5fbbb3fa2542faf8c7bb4de871b6a67c/ss_19cb23ac5fbbb3fa2542faf8c7bb4de871b6a67c.1920x1080.jpg?t=1783483231",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/19cb23ac5fbbb3fa2542faf8c7bb4de871b6a67c/ss_19cb23ac5fbbb3fa2542faf8c7bb4de871b6a67c.1920x1080.jpg?t=1787010482",
         "alt": "Wander Stars 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/a2420e2536674d97e8fe2b565cde0da97ab4223c/ss_a2420e2536674d97e8fe2b565cde0da97ab4223c.1920x1080.jpg?t=1783483231",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575810/a2420e2536674d97e8fe2b565cde0da97ab4223c/ss_a2420e2536674d97e8fe2b565cde0da97ab4223c.1920x1080.jpg?t=1787010482",
         "alt": "Wander Stars 产品截图"
       }
     ]

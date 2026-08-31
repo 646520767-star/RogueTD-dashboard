@@ -72,66 +72,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 199767,
+      "value": 225918,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 217349,
+      "value": 228171,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 9895,
+      "value": 10419,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 1678401,
+      "value": 1918559,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 199855,
+      "value": 225962,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 199855,
+      "value": 225962,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 5.871642396486733,
+      "value": 5.9475120405579815,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 3158,
+      "value": 3591,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -139,20 +139,20 @@
       "value": 87,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 86.975443,
+      "value": 86.862528,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -168,27 +168,27 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec/ss_5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec.1920x1080.jpg?t=1784813771",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec/ss_5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec.1920x1080.jpg?t=1785828320",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec/ss_5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec.1920x1080.jpg?t=1787152549",
         "alt": "Sir, We Have an Orc Problem 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/80052875695670a2056251c5f19bea89ecdb8e5c/ss_80052875695670a2056251c5f19bea89ecdb8e5c.1920x1080.jpg?t=1785828320",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/80052875695670a2056251c5f19bea89ecdb8e5c/ss_80052875695670a2056251c5f19bea89ecdb8e5c.1920x1080.jpg?t=1787152549",
         "alt": "Sir, We Have an Orc Problem 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/3163e6cf75b226d1599629ec49d8f2f466a3756e/ss_3163e6cf75b226d1599629ec49d8f2f466a3756e.1920x1080.jpg?t=1785828320",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/3163e6cf75b226d1599629ec49d8f2f466a3756e/ss_3163e6cf75b226d1599629ec49d8f2f466a3756e.1920x1080.jpg?t=1787152549",
         "alt": "Sir, We Have an Orc Problem 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/2910f20f7f0a873c3e112d8ae9bd6c5db41850d8/ss_2910f20f7f0a873c3e112d8ae9bd6c5db41850d8.1920x1080.jpg?t=1785828320",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/2910f20f7f0a873c3e112d8ae9bd6c5db41850d8/ss_2910f20f7f0a873c3e112d8ae9bd6c5db41850d8.1920x1080.jpg?t=1787152549",
         "alt": "Sir, We Have an Orc Problem 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/4a6369d287fd474652e14606cdeadd94c526401f/ss_4a6369d287fd474652e14606cdeadd94c526401f.1920x1080.jpg?t=1785828320",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/4a6369d287fd474652e14606cdeadd94c526401f/ss_4a6369d287fd474652e14606cdeadd94c526401f.1920x1080.jpg?t=1787152549",
         "alt": "Sir, We Have an Orc Problem 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/9cbaf44ffa1d3e7585ba7f2aa698ce2712e6eac9/ss_9cbaf44ffa1d3e7585ba7f2aa698ce2712e6eac9.1920x1080.jpg?t=1785828320",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/9cbaf44ffa1d3e7585ba7f2aa698ce2712e6eac9/ss_9cbaf44ffa1d3e7585ba7f2aa698ce2712e6eac9.1920x1080.jpg?t=1787152549",
         "alt": "Sir, We Have an Orc Problem 产品截图"
       }
     ]

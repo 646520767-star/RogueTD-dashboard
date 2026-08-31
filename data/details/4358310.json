@@ -38,87 +38,87 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 19923,
+      "value": 21920,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 7671,
+      "value": 7691,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 782,
+      "value": 813,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 154891,
+      "value": 173631,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 21500,
+      "value": 23616,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 21500,
+      "value": 23616,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 5.58713110067633,
+      "value": 11.650031073434826,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 94,
+      "value": 105,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
       "label": "评分",
-      "value": 90,
+      "value": 88,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 90.47619,
+      "value": 88.034188,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [
     "截至2026-07-24，Steam官方评论数少于20条，市场验证规模仍小。"
@@ -136,35 +136,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/90b972cbb4d35a7b19a6a9effaf3740507dff202/ss_90b972cbb4d35a7b19a6a9effaf3740507dff202.1920x1080.jpg?t=1784816428",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/90b972cbb4d35a7b19a6a9effaf3740507dff202/ss_90b972cbb4d35a7b19a6a9effaf3740507dff202.1920x1080.jpg?t=1786876272",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/90b972cbb4d35a7b19a6a9effaf3740507dff202/ss_90b972cbb4d35a7b19a6a9effaf3740507dff202.1920x1080.jpg?t=1787577805",
         "alt": "Coin Tavern 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/98724c858ea61a15f933d211fee569e8ae3a6644/ss_98724c858ea61a15f933d211fee569e8ae3a6644.1920x1080.jpg?t=1786876272",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/98724c858ea61a15f933d211fee569e8ae3a6644/ss_98724c858ea61a15f933d211fee569e8ae3a6644.1920x1080.jpg?t=1787577805",
         "alt": "Coin Tavern 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/765c63c75d7fa31ae811d7827e259d04ca8dd129/ss_765c63c75d7fa31ae811d7827e259d04ca8dd129.1920x1080.jpg?t=1786876272",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/765c63c75d7fa31ae811d7827e259d04ca8dd129/ss_765c63c75d7fa31ae811d7827e259d04ca8dd129.1920x1080.jpg?t=1787577805",
         "alt": "Coin Tavern 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/8aa8c5ea911d35ee7886695c8ca16704bd4a6787/ss_8aa8c5ea911d35ee7886695c8ca16704bd4a6787.1920x1080.jpg?t=1786876272",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/8aa8c5ea911d35ee7886695c8ca16704bd4a6787/ss_8aa8c5ea911d35ee7886695c8ca16704bd4a6787.1920x1080.jpg?t=1787577805",
         "alt": "Coin Tavern 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/44cc464f77a2a84afd991a4b7214f2f64ee7769b/ss_44cc464f77a2a84afd991a4b7214f2f64ee7769b.1920x1080.jpg?t=1786876272",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/44cc464f77a2a84afd991a4b7214f2f64ee7769b/ss_44cc464f77a2a84afd991a4b7214f2f64ee7769b.1920x1080.jpg?t=1787577805",
         "alt": "Coin Tavern 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/15c46fa5313208f4800b3d350850f7c0b0b9a560/ss_15c46fa5313208f4800b3d350850f7c0b0b9a560.1920x1080.jpg?t=1786876272",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/15c46fa5313208f4800b3d350850f7c0b0b9a560/ss_15c46fa5313208f4800b3d350850f7c0b0b9a560.1920x1080.jpg?t=1787577805",
         "alt": "Coin Tavern 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/8e059448d499b534242fde45e67c6939c48bcde5/ss_8e059448d499b534242fde45e67c6939c48bcde5.1920x1080.jpg?t=1786876272",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/8e059448d499b534242fde45e67c6939c48bcde5/ss_8e059448d499b534242fde45e67c6939c48bcde5.1920x1080.jpg?t=1787577805",
         "alt": "Coin Tavern 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/8dd34bd545c160155441d9c7654ff6a09ec0b451/ss_8dd34bd545c160155441d9c7654ff6a09ec0b451.1920x1080.jpg?t=1786876272",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358310/8dd34bd545c160155441d9c7654ff6a09ec0b451/ss_8dd34bd545c160155441d9c7654ff6a09ec0b451.1920x1080.jpg?t=1787577805",
         "alt": "Coin Tavern 产品截图"
       }
     ]

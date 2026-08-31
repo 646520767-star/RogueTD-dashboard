@@ -41,23 +41,23 @@
       "value": 0,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 19244,
+      "value": 22078,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 961,
+      "value": 1051,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
@@ -65,7 +65,7 @@
       "value": 0,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
@@ -73,7 +73,7 @@
       "value": 0,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
@@ -81,7 +81,7 @@
       "value": 0,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
@@ -89,7 +89,7 @@
       "value": 0,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
@@ -97,7 +97,7 @@
       "value": 0,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -105,7 +105,7 @@
       "value": 0,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
@@ -113,12 +113,12 @@
       "value": null,
       "unit": "%",
       "state": "unavailable",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -134,35 +134,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/6c94a664214bf09f5d447164155b45ed57e66391/ss_6c94a664214bf09f5d447164155b45ed57e66391.1920x1080.jpg?t=1784054498",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/6c94a664214bf09f5d447164155b45ed57e66391/ss_6c94a664214bf09f5d447164155b45ed57e66391.1920x1080.jpg?t=1784054498",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/6c94a664214bf09f5d447164155b45ed57e66391/ss_6c94a664214bf09f5d447164155b45ed57e66391.1920x1080.jpg?t=1787711787",
         "alt": "Fright Train 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/0d05133e099cddf417cfeed7ab256557d5265713/ss_0d05133e099cddf417cfeed7ab256557d5265713.1920x1080.jpg?t=1784054498",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/0d05133e099cddf417cfeed7ab256557d5265713/ss_0d05133e099cddf417cfeed7ab256557d5265713.1920x1080.jpg?t=1787711787",
         "alt": "Fright Train 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/6e36fa67f1992ddd28be11df09a71b81a16e1e0f/ss_6e36fa67f1992ddd28be11df09a71b81a16e1e0f.1920x1080.jpg?t=1784054498",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/6e36fa67f1992ddd28be11df09a71b81a16e1e0f/ss_6e36fa67f1992ddd28be11df09a71b81a16e1e0f.1920x1080.jpg?t=1787711787",
         "alt": "Fright Train 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/33a5080fae94e67bf41f72e45faa902191d52f92/ss_33a5080fae94e67bf41f72e45faa902191d52f92.1920x1080.jpg?t=1784054498",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/33a5080fae94e67bf41f72e45faa902191d52f92/ss_33a5080fae94e67bf41f72e45faa902191d52f92.1920x1080.jpg?t=1787711787",
         "alt": "Fright Train 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/8769cb9be3bf5bf89267e7dbfc92eec2c0a71f40/ss_8769cb9be3bf5bf89267e7dbfc92eec2c0a71f40.1920x1080.jpg?t=1784054498",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/8769cb9be3bf5bf89267e7dbfc92eec2c0a71f40/ss_8769cb9be3bf5bf89267e7dbfc92eec2c0a71f40.1920x1080.jpg?t=1787711787",
         "alt": "Fright Train 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/5b1011447faa71f4a6cd011b11b98706217dfbf7/ss_5b1011447faa71f4a6cd011b11b98706217dfbf7.1920x1080.jpg?t=1784054498",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/5b1011447faa71f4a6cd011b11b98706217dfbf7/ss_5b1011447faa71f4a6cd011b11b98706217dfbf7.1920x1080.jpg?t=1787711787",
         "alt": "Fright Train 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/2058c0cb4eb69814858b047d668c6ce7723bedac/ss_2058c0cb4eb69814858b047d668c6ce7723bedac.1920x1080.jpg?t=1784054498",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/2058c0cb4eb69814858b047d668c6ce7723bedac/ss_2058c0cb4eb69814858b047d668c6ce7723bedac.1920x1080.jpg?t=1787711787",
         "alt": "Fright Train 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/04d3380c0cfdfa31f4564b28b85e3f7cb2d41ecf/ss_04d3380c0cfdfa31f4564b28b85e3f7cb2d41ecf.1920x1080.jpg?t=1784054498",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/04d3380c0cfdfa31f4564b28b85e3f7cb2d41ecf/ss_04d3380c0cfdfa31f4564b28b85e3f7cb2d41ecf.1920x1080.jpg?t=1787711787",
         "alt": "Fright Train 产品截图"
       }
     ]

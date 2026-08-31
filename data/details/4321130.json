@@ -45,58 +45,58 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 1037,
+      "value": 1045,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 3836,
+      "value": 3846,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 146,
+      "value": 145,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 3419,
+      "value": 3451,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 1054,
+      "value": 1062,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 1054,
+      "value": 1062,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 7.325942725154594,
+      "value": 7.379960869808651,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
@@ -104,7 +104,7 @@
       "value": 41,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -112,20 +112,20 @@
       "value": 90,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 90.47619,
+      "value": 90.697674,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -141,31 +141,31 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/fe2a746f2ff13ec411be6c57aac4f7522ae5ba62/ss_fe2a746f2ff13ec411be6c57aac4f7522ae5ba62.1920x1080.jpg?t=1783539842",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/fe2a746f2ff13ec411be6c57aac4f7522ae5ba62/ss_fe2a746f2ff13ec411be6c57aac4f7522ae5ba62.1920x1080.jpg?t=1783539842",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/fe2a746f2ff13ec411be6c57aac4f7522ae5ba62/ss_fe2a746f2ff13ec411be6c57aac4f7522ae5ba62.1920x1080.jpg?t=1787686100",
         "alt": "Coinsweeper 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/0bd78121511c967c8acd4ee1cd747a211238a11c/ss_0bd78121511c967c8acd4ee1cd747a211238a11c.1920x1080.jpg?t=1783539842",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/0bd78121511c967c8acd4ee1cd747a211238a11c/ss_0bd78121511c967c8acd4ee1cd747a211238a11c.1920x1080.jpg?t=1787686100",
         "alt": "Coinsweeper 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/c87ad72b709b2880a54a1092cc0e0b5d6d320df8/ss_c87ad72b709b2880a54a1092cc0e0b5d6d320df8.1920x1080.jpg?t=1783539842",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/c87ad72b709b2880a54a1092cc0e0b5d6d320df8/ss_c87ad72b709b2880a54a1092cc0e0b5d6d320df8.1920x1080.jpg?t=1787686100",
         "alt": "Coinsweeper 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/22a034df2968b8463114063b889a705253ef995a/ss_22a034df2968b8463114063b889a705253ef995a.1920x1080.jpg?t=1783539842",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/22a034df2968b8463114063b889a705253ef995a/ss_22a034df2968b8463114063b889a705253ef995a.1920x1080.jpg?t=1787686100",
         "alt": "Coinsweeper 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/c3d32b9cb8248e78094384838afd3f1b2ec4f689/ss_c3d32b9cb8248e78094384838afd3f1b2ec4f689.1920x1080.jpg?t=1783539842",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/c3d32b9cb8248e78094384838afd3f1b2ec4f689/ss_c3d32b9cb8248e78094384838afd3f1b2ec4f689.1920x1080.jpg?t=1787686100",
         "alt": "Coinsweeper 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/f4ef0286c3f1dd955ced0c50a330782df925c4b3/ss_f4ef0286c3f1dd955ced0c50a330782df925c4b3.1920x1080.jpg?t=1783539842",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/f4ef0286c3f1dd955ced0c50a330782df925c4b3/ss_f4ef0286c3f1dd955ced0c50a330782df925c4b3.1920x1080.jpg?t=1787686100",
         "alt": "Coinsweeper 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/0b04ed11ad7712cd1961c9e774dee47ba2a1184d/ss_0b04ed11ad7712cd1961c9e774dee47ba2a1184d.1920x1080.jpg?t=1783539842",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321130/0b04ed11ad7712cd1961c9e774dee47ba2a1184d/ss_0b04ed11ad7712cd1961c9e774dee47ba2a1184d.1920x1080.jpg?t=1787686100",
         "alt": "Coinsweeper 产品截图"
       }
     ]

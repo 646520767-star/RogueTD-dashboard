@@ -1,74 +1,74 @@
 {
-  "generated_at": "2026-08-19T20:52:13+08:00",
+  "generated_at": "2026-08-31T12:37:34+08:00",
   "observation": {
-    "topdata": "2026-08-17",
-    "steam": "2026-08-17"
+    "topdata": "2026-08-28",
+    "steam": "2026-08-28"
   },
-  "headline": "从 11,033 款产品中，看清 1,920 款正式分池的机会结构",
+  "headline": "从 11,233 款产品中，看清 1,933 款正式分池的机会结构",
   "intro": "先看本期客观分池与代表产品，再进入冻结复用的四项长板与全量产品库。",
   "conclusions": [
     {
-      "text": "全量产品库较上期净变化 +457 款。",
+      "text": "全量产品库较上期净变化 +657 款。",
       "href": "#library",
       "action": "查看全量产品库"
     },
     {
-      "text": "正式分池共 1,920 款；本期结构为 129 / 739 / 1,052。",
+      "text": "正式分池共 1,933 款；本期结构为 117 / 748 / 1,068。",
       "href": "#pools",
       "action": "查看正式分池"
     },
     {
-      "text": "深度语义范围为 1,280 款；本期继续使用已接受语义证据，新增正式观点 241。",
+      "text": "深度语义范围为 1,273 款；本期继续使用已接受语义证据，新增正式观点 221。",
       "href": "#longboards",
       "action": "查看冻结长板"
     }
   ],
   "counts": {
-    "products": 11033,
-    "formal": 1920,
-    "anticipated": 129,
-    "new": 739,
-    "historical": 1052,
-    "deep": 1280,
+    "products": 11233,
+    "formal": 1933,
+    "anticipated": 117,
+    "new": 748,
+    "historical": 1068,
+    "deep": 1273,
     "longboard": 34
   },
   "pools": [
     {
       "key": "anticipated",
       "label": "受期待新品",
-      "count": 129,
+      "count": 117,
       "purpose": "发售前验证题材、核心循环和首批市场反馈。"
     },
     {
       "key": "new",
       "label": "新品观察",
-      "count": 739,
+      "count": 748,
       "purpose": "跟踪发售后早期表现、评论结构与移动端适配信号。"
     },
     {
       "key": "historical",
       "label": "历史重点",
-      "count": 1052,
+      "count": 1068,
       "purpose": "沉淀已验证的长期机会、玩法长板和风险参照。"
     }
   ],
   "featured": [
     {
-      "appid": "4317690",
-      "title": "Crimson Moon",
+      "appid": "3624140",
+      "title": "Wanderburg",
       "pool": "anticipated",
       "pool_label": "受期待新品",
       "pool_rank": 1,
       "tags": [
-        "动作角色扮演",
-        "动作",
-        "在线合作",
-        "轻度Rogue",
-        "动作冒险"
+        "抢先体验",
+        "中世纪",
+        "动作肉鸽",
+        "动作肉鸽",
+        "探索"
       ],
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/02f03d34129e074e22fbdb851dd8a1c65fa1dc41/ss_02f03d34129e074e22fbdb851dd8a1c65fa1dc41.1920x1080.jpg?t=1784322697",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624140/75b8b8f3dbb852c8764b7eb6ebf37146b09a8d3d/ss_75b8b8f3dbb852c8764b7eb6ebf37146b09a8d3d.1920x1080.jpg?t=1787766416",
       "cover_status": "available",
-      "reason": "Crimson Moon以动作角色扮演、动作为主要特征，当前仅保留官方和客观材料，未生成新的玩家语义观点；当前位于受期待新品池客观序位第1位，建议持续跟踪关键指标与验证机会。",
+      "reason": "Wanderburg以抢先体验、中世纪为主要特征，当前仅保留官方和客观材料，未生成新的玩家语义观点；当前位于受期待新品池客观序位第1位，建议持续跟踪关键指标与验证机会。",
       "metrics": [
         {
           "id": "sales",
@@ -76,15 +76,61 @@
           "value": 0,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 252084,
+          "value": 486916,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
+        }
+      ],
+      "opinion": null,
+      "action": {
+        "label": "持续跟踪",
+        "target": "发售日期、愿望单与关注人数",
+        "reason": "Wanderburg位于受期待新品池。",
+        "trigger": "发售或关键指标显著变化时更新。",
+        "priority": "高"
+      },
+      "direction_key": "roguelike",
+      "direction_label": "肉鸽",
+      "direction_display": "方向：肉鸽"
+    },
+    {
+      "appid": "4317690",
+      "title": "Crimson Moon",
+      "pool": "anticipated",
+      "pool_label": "受期待新品",
+      "pool_rank": 2,
+      "tags": [
+        "动作角色扮演",
+        "在线合作",
+        "动作",
+        "轻度Rogue",
+        "动作冒险"
+      ],
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/02f03d34129e074e22fbdb851dd8a1c65fa1dc41/ss_02f03d34129e074e22fbdb851dd8a1c65fa1dc41.1920x1080.jpg?t=1784322697",
+      "cover_status": "available",
+      "reason": "Crimson Moon以动作角色扮演、在线合作为主要特征，当前仅保留官方和客观材料，未生成新的玩家语义观点；当前位于受期待新品池客观序位第2位，建议持续跟踪关键指标与验证机会。",
+      "metrics": [
+        {
+          "id": "sales",
+          "label": "销量",
+          "value": 0,
+          "unit": "份",
+          "state": "available",
+          "date": "2026-08-28"
+        },
+        {
+          "id": "wishlist",
+          "label": "愿望单",
+          "value": 352786,
+          "unit": "人",
+          "state": "available",
+          "date": "2026-08-28"
         }
       ],
       "opinion": null,
@@ -100,70 +146,21 @@
       "direction_display": "方向：肉鸽"
     },
     {
-      "appid": "4259190",
-      "title": "王国保卫战 6：新启程",
-      "pool": "anticipated",
-      "pool_label": "受期待新品",
-      "pool_rank": 2,
-      "tags": [
-        "策略",
-        "塔防",
-        "动作",
-        "二维画面",
-        "中世纪"
-      ],
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/02fe4489f76765073eadf6fe71554faaa3bf27d8/ss_02fe4489f76765073eadf6fe71554faaa3bf27d8.1920x1080.jpg?t=1782151844",
-      "cover_status": "available",
-      "reason": "王国保卫战 6：新启程以策略、塔防为主要特征，已收录完整评论原文，但当前没有通过 C1 展示门槛的观点摘要；当前位于受期待新品池客观序位第2位，建议持续跟踪关键指标与验证机会。",
-      "metrics": [
-        {
-          "id": "sales",
-          "label": "销量",
-          "value": 0,
-          "unit": "份",
-          "state": "available",
-          "date": "2026-08-17"
-        },
-        {
-          "id": "wishlist",
-          "label": "愿望单",
-          "value": 153890,
-          "unit": "人",
-          "state": "available",
-          "date": "2026-08-17"
-        }
-      ],
-      "opinion": {
-        "text": "已收录完整评论原文（普通玩家 0 / 鉴赏家 6），但当前 C1 四个维度均未达到观点展示门槛。",
-        "source": "评论状态"
-      },
-      "action": {
-        "label": "持续跟踪",
-        "target": "发售日期、愿望单与关注人数",
-        "reason": "王国保卫战 6：新启程位于受期待新品池。",
-        "trigger": "发售或关键指标显著变化时更新。",
-        "priority": "高"
-      },
-      "direction_key": "tower_defense",
-      "direction_label": "塔防",
-      "direction_display": "方向：塔防"
-    },
-    {
-      "appid": "4117730",
-      "title": "Slayblade",
+      "appid": "3271280",
+      "title": "Shroom and Gloom",
       "pool": "anticipated",
       "pool_label": "受期待新品",
       "pool_rank": 3,
       "tags": [
-        "轻度Rogue",
-        "物理模拟",
-        "休闲放松",
-        "高重复可玩性",
-        "休闲"
+        "卡组构筑",
+        "卡牌游戏",
+        "手绘风格",
+        "回合制战斗",
+        "氛围感"
       ],
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117730/98cf35797d932df41bb4d4a5c538223ea7cb59ce/ss_98cf35797d932df41bb4d4a5c538223ea7cb59ce.1920x1080.jpg?t=1786023255",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3271280/d35c20da471d04844aa8562b0008e919426c95aa/ss_d35c20da471d04844aa8562b0008e919426c95aa.1920x1080.jpg?t=1781552237",
       "cover_status": "available",
-      "reason": "Slayblade以轻度Rogue、物理模拟为主要特征，当前仅保留官方和客观材料，未生成新的玩家语义观点；当前位于受期待新品池客观序位第3位，建议持续跟踪关键指标与验证机会。",
+      "reason": "Shroom and Gloom以卡组构筑、卡牌游戏为主要特征，当前仅保留官方和客观材料，未生成新的玩家语义观点；当前位于受期待新品池客观序位第3位，建议持续跟踪关键指标与验证机会。",
       "metrics": [
         {
           "id": "sales",
@@ -171,22 +168,22 @@
           "value": 0,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 137103,
+          "value": 252377,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         }
       ],
       "opinion": null,
       "action": {
         "label": "持续跟踪",
         "target": "发售日期、愿望单与关注人数",
-        "reason": "Slayblade位于受期待新品池。",
+        "reason": "Shroom and Gloom位于受期待新品池。",
         "trigger": "发售或关键指标显著变化时更新。",
         "priority": "高"
       },
@@ -195,21 +192,21 @@
       "direction_display": "方向：肉鸽"
     },
     {
-      "appid": "4317790",
-      "title": "Last Pirates: Die Together",
+      "appid": "3569420",
+      "title": "Chained Beasts",
       "pool": "anticipated",
       "pool_label": "受期待新品",
       "pool_rank": 4,
       "tags": [
-        "在线合作",
-        "恐怖",
-        "幽默",
+        "动作肉鸽",
         "合作",
-        "第一人称"
+        "多人游戏",
+        "砍杀",
+        "俯视角"
       ],
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/7719669a264bc1ed0c56bf40571d96ddf4654bc1/ss_7719669a264bc1ed0c56bf40571d96ddf4654bc1.1920x1080.jpg?t=1783079406",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/27c1b81a3c373420573c6de9a32218689de6b3ff/ss_27c1b81a3c373420573c6de9a32218689de6b3ff.1920x1080.jpg?t=1784600985",
       "cover_status": "available",
-      "reason": "Last Pirates: Die Together以在线合作、恐怖为主要特征，经人工确认的玩家反馈提到“伸缩手臂寻宝与朋友合作时会形成令人享受的灾难场面。”；当前位于受期待新品池客观序位第4位，建议持续跟踪关键指标与验证机会。",
+      "reason": "Chained Beasts以动作肉鸽、合作为主要特征，当前仅保留官方和客观材料，未生成新的玩家语义观点；当前位于受期待新品池客观序位第4位，建议持续跟踪关键指标与验证机会。",
       "metrics": [
         {
           "id": "sales",
@@ -217,25 +214,22 @@
           "value": 0,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 123284,
+          "value": 184948,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         }
       ],
-      "opinion": {
-        "text": "伸缩手臂寻宝与朋友合作时会形成令人享受的灾难场面。",
-        "source": "鉴赏家观点"
-      },
+      "opinion": null,
       "action": {
         "label": "持续跟踪",
         "target": "发售日期、愿望单与关注人数",
-        "reason": "Last Pirates: Die Together位于受期待新品池。",
+        "reason": "Chained Beasts位于受期待新品池。",
         "trigger": "发售或关键指标显著变化时更新。",
         "priority": "高"
       },
@@ -253,8 +247,8 @@
         "角色扮演",
         "类Rogue",
         "沙盒",
-        "开放世界",
-        "策略"
+        "策略",
+        "开放世界"
       ],
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/669234ec88e64d200e45cf1111241d1941381b31/ss_669234ec88e64d200e45cf1111241d1941381b31.1920x1080.jpg?t=1784005416",
       "cover_status": "available",
@@ -263,18 +257,18 @@
         {
           "id": "sales",
           "label": "销量",
-          "value": 2067228,
+          "value": 2060896,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 575300,
+          "value": 578074,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         }
       ],
       "opinion": {
@@ -312,18 +306,18 @@
         {
           "id": "sales",
           "label": "销量",
-          "value": 1128447,
+          "value": 1140628,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 501164,
+          "value": 507593,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         }
       ],
       "opinion": {
@@ -342,37 +336,83 @@
       "direction_display": "方向：肉鸽"
     },
     {
-      "appid": "2436940",
-      "title": "赛菲莉娅",
+      "appid": "2163330",
+      "title": "Yet Another Zombie Survivors",
       "pool": "new",
       "pool_label": "新品观察",
       "pool_rank": 3,
       "tags": [
         "动作肉鸽",
-        "轻度Rogue",
-        "像素画面",
-        "轻度Rogue",
-        "类Rogue"
+        "动作肉鸽",
+        "僵尸",
+        "俯视角射击",
+        "轻度Rogue"
       ],
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/ss_6dc776bb4cd7565deba0801e6c51389d008c0e74.1920x1080.jpg?t=1784141890",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/77a912d74123865654c588d04fb08f9824656c9f/ss_77a912d74123865654c588d04fb08f9824656c9f.1920x1080.jpg?t=1787858180",
       "cover_status": "available",
-      "reason": "赛菲莉娅以动作肉鸽、轻度Rogue为主要特征，已收录完整评论原文，但当前没有通过 C1 展示门槛的观点摘要；当前位于新品观察池客观序位第3位，建议持续跟踪关键指标与验证机会。",
+      "reason": "Yet Another Zombie Survivors以动作肉鸽、动作肉鸽为主要特征，当前仅保留官方和客观材料，未生成新的玩家语义观点；当前位于新品观察池客观序位第3位，建议持续跟踪关键指标与验证机会。",
       "metrics": [
         {
           "id": "sales",
           "label": "销量",
-          "value": 545577,
+          "value": 700670,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 338797,
+          "value": 364029,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
+        }
+      ],
+      "opinion": null,
+      "action": {
+        "label": "原型验证",
+        "target": "核心循环与移动端交互",
+        "reason": "Yet Another Zombie Survivors位于新品观察池。",
+        "trigger": "补充玩家证据或完成轻量原型后更新。",
+        "priority": "中"
+      },
+      "direction_key": "roguelike",
+      "direction_label": "肉鸽",
+      "direction_display": "方向：肉鸽"
+    },
+    {
+      "appid": "2436940",
+      "title": "赛菲莉娅",
+      "pool": "new",
+      "pool_label": "新品观察",
+      "pool_rank": 4,
+      "tags": [
+        "动作肉鸽",
+        "轻度Rogue",
+        "类Rogue",
+        "像素画面",
+        "轻度Rogue"
+      ],
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/ss_6dc776bb4cd7565deba0801e6c51389d008c0e74.1920x1080.jpg?t=1784141890",
+      "cover_status": "available",
+      "reason": "赛菲莉娅以动作肉鸽、轻度Rogue为主要特征，已收录完整评论原文，但当前没有通过 C1 展示门槛的观点摘要；当前位于新品观察池客观序位第4位，建议持续跟踪关键指标与验证机会。",
+      "metrics": [
+        {
+          "id": "sales",
+          "label": "销量",
+          "value": 567686,
+          "unit": "份",
+          "state": "available",
+          "date": "2026-08-28"
+        },
+        {
+          "id": "wishlist",
+          "label": "愿望单",
+          "value": 366595,
+          "unit": "人",
+          "state": "available",
+          "date": "2026-08-28"
         }
       ],
       "opinion": {
@@ -383,55 +423,6 @@
         "label": "原型验证",
         "target": "核心循环与移动端交互",
         "reason": "赛菲莉娅位于新品观察池。",
-        "trigger": "补充玩家证据或完成轻量原型后更新。",
-        "priority": "中"
-      },
-      "direction_key": "roguelike",
-      "direction_label": "肉鸽",
-      "direction_display": "方向：肉鸽"
-    },
-    {
-      "appid": "4421010",
-      "title": "Bills Must Be Paid",
-      "pool": "new",
-      "pool_label": "新品观察",
-      "pool_rank": 4,
-      "tags": [
-        "增量成长",
-        "经营管理",
-        "轻度Rogue",
-        "策略",
-        "休闲放松"
-      ],
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/03bff9601fc4f1796f799317b010f19170b1397d/ss_03bff9601fc4f1796f799317b010f19170b1397d.1920x1080.jpg?t=1784628463",
-      "cover_status": "available",
-      "reason": "Bills Must Be Paid以增量成长、经营管理为主要特征，本期评论原文提到“在增量这种一路爽的玩法中加入幸运房东玩法，不得不说算个败笔”；当前位于新品观察池客观序位第4位，建议持续跟踪关键指标与验证机会。",
-      "metrics": [
-        {
-          "id": "sales",
-          "label": "销量",
-          "value": 374633,
-          "unit": "份",
-          "state": "available",
-          "date": "2026-08-17"
-        },
-        {
-          "id": "wishlist",
-          "label": "愿望单",
-          "value": 145751,
-          "unit": "人",
-          "state": "available",
-          "date": "2026-08-17"
-        }
-      ],
-      "opinion": {
-        "text": "甜品级的增量小游戏，就这个敲钱罐爽，要是后续可以更新其他玩法就好了",
-        "source": "玩家观点"
-      },
-      "action": {
-        "label": "原型验证",
-        "target": "核心循环与移动端交互",
-        "reason": "Bills Must Be Paid位于新品观察池。",
         "trigger": "补充玩家证据或完成轻量原型后更新。",
         "priority": "中"
       },
@@ -459,18 +450,18 @@
         {
           "id": "sales",
           "label": "销量",
-          "value": 20008508,
+          "value": 20028577,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 1662051,
+          "value": 1657402,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         }
       ],
       "opinion": {
@@ -508,18 +499,18 @@
         {
           "id": "sales",
           "label": "销量",
-          "value": 18471816,
+          "value": 18713562,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 1403799,
+          "value": 1404888,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         }
       ],
       "opinion": {
@@ -557,18 +548,18 @@
         {
           "id": "sales",
           "label": "销量",
-          "value": 15508366,
+          "value": 15530145,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 1554577,
+          "value": 1562455,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         }
       ],
       "opinion": {
@@ -606,18 +597,18 @@
         {
           "id": "sales",
           "label": "销量",
-          "value": 8069498,
+          "value": 8162686,
           "unit": "份",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         },
         {
           "id": "wishlist",
           "label": "愿望单",
-          "value": 779876,
+          "value": 776782,
           "unit": "人",
           "state": "available",
-          "date": "2026-08-17"
+          "date": "2026-08-28"
         }
       ],
       "opinion": {
@@ -643,7 +634,7 @@
         "title": "Wasteland Outpost",
         "pool": "new",
         "pool_label": "新品观察",
-        "pool_rank": 487,
+        "pool_rank": 494,
         "rank": 1,
         "dimension": "玩法",
         "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278330/d980654b7f5b83793f1eec1b4fb4961e400b4d6a/ss_d980654b7f5b83793f1eec1b4fb4961e400b4d6a.1920x1080.jpg?t=1780455927",
@@ -661,7 +652,7 @@
         "title": "Slaughter Void",
         "pool": "new",
         "pool_label": "新品观察",
-        "pool_rank": 292,
+        "pool_rank": 301,
         "rank": 2,
         "dimension": "玩法",
         "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333980/c45014a465d408953ea25de97e59a6543ccedf52/ss_c45014a465d408953ea25de97e59a6543ccedf52.1920x1080.jpg?t=1780523220",
@@ -679,7 +670,7 @@
         "title": "我是BOSS (Noobs Are Coming)",
         "pool": "historical",
         "pool_label": "历史重点",
-        "pool_rank": 164,
+        "pool_rank": 168,
         "rank": 3,
         "dimension": "玩法",
         "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225960/e12698442607bb12e91f1ab6f2293f83b1e74a20/ss_e12698442607bb12e91f1ab6f2293f83b1e74a20.1920x1080.jpg?t=1764945460",
@@ -695,9 +686,9 @@
       {
         "appid": "3304110",
         "title": "868-BACK",
-        "pool": "new",
-        "pool_label": "新品观察",
-        "pool_rank": 196,
+        "pool": "historical",
+        "pool_label": "历史重点",
+        "pool_rank": 1036,
         "rank": 4,
         "dimension": "玩法",
         "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304110/c10d727250f6f0cae601893d0658f70c55c5146b/ss_c10d727250f6f0cae601893d0658f70c55c5146b.1920x1080.jpg?t=1783359875",
@@ -715,7 +706,7 @@
         "title": "Lia: Hacking Destiny",
         "pool": "historical",
         "pool_label": "历史重点",
-        "pool_rank": 1035,
+        "pool_rank": 1049,
         "rank": 5,
         "dimension": "玩法",
         "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740360/b45e0299678b5cc9277ca1b2f45ef24266320c58/ss_b45e0299678b5cc9277ca1b2f45ef24266320c58.1920x1080.jpg?t=1782136938",
@@ -745,43 +736,43 @@
         "direction_key": "roguelike",
         "direction_label": "肉鸽",
         "direction_display": "方向：肉鸽",
-        "product_count": 9074,
+        "product_count": 9235,
         "formal_pool_counts": {
-          "anticipated": 108,
-          "new": 597,
-          "historical": 890,
-          "not_in_formal_pool": 7479
+          "anticipated": 95,
+          "new": 605,
+          "historical": 907,
+          "not_in_formal_pool": 7628
         }
       },
       {
         "direction_key": "tower_defense",
         "direction_label": "塔防",
         "direction_display": "方向：塔防",
-        "product_count": 1187,
+        "product_count": 1214,
         "formal_pool_counts": {
-          "anticipated": 14,
-          "new": 72,
-          "historical": 79,
-          "not_in_formal_pool": 1022
+          "anticipated": 13,
+          "new": 75,
+          "historical": 78,
+          "not_in_formal_pool": 1048
         }
       },
       {
         "direction_key": "roguelike_tower_defense_hybrid",
         "direction_label": "肉鸽 × 塔防",
         "direction_display": "方向：肉鸽 × 塔防",
-        "product_count": 772,
+        "product_count": 784,
         "formal_pool_counts": {
-          "anticipated": 7,
-          "new": 70,
+          "anticipated": 9,
+          "new": 68,
           "historical": 83,
-          "not_in_formal_pool": 612
+          "not_in_formal_pool": 624
         }
       }
     ]
   },
   "baseline": {
     "title": "与 2026-07-23 已接受基线比较",
-    "message": "客观数据、正式分池和排序按 2026-08-17 更新；已接受语义证据继续复用。",
-    "observation_text": "产品净变化 +457，正式池净变化 +115，深度语义净变化 -9,296。"
+    "message": "客观数据、正式分池和排序按 2026-08-28 更新；已接受语义证据继续复用。",
+    "observation_text": "产品净变化 +657，正式池净变化 +128，深度语义净变化 -9,303。"
   }
 }

@@ -45,87 +45,87 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 220441,
+      "value": 221100,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 456425,
+      "value": 455048,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 23344,
+      "value": 23380,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 2618462,
+      "value": 2626067,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 242945,
+      "value": 243839,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 242945,
+      "value": 243839,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 14.564210027440307,
+      "value": 14.615058120282194,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 4026,
+      "value": 4047,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
       "label": "评分",
-      "value": 89,
+      "value": 88,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 88.541891,
+      "value": 88.479657,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -141,35 +141,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/24141d94e01558d31e9177206b83385ef1128568/ss_24141d94e01558d31e9177206b83385ef1128568.1920x1080.jpg?t=1782417302",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/24141d94e01558d31e9177206b83385ef1128568/ss_24141d94e01558d31e9177206b83385ef1128568.1920x1080.jpg?t=1782417302",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/24141d94e01558d31e9177206b83385ef1128568/ss_24141d94e01558d31e9177206b83385ef1128568.1920x1080.jpg?t=1787679092",
         "alt": "Mycopunk — 真菌朋克 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/ac3ca78a8523f53d0e7cdd6871dee934b9284d40/ss_ac3ca78a8523f53d0e7cdd6871dee934b9284d40.1920x1080.jpg?t=1782417302",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/ac3ca78a8523f53d0e7cdd6871dee934b9284d40/ss_ac3ca78a8523f53d0e7cdd6871dee934b9284d40.1920x1080.jpg?t=1787679092",
         "alt": "Mycopunk — 真菌朋克 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/f9ac6fb651f5b42ab10546f95bcc1989f5d068ac/ss_f9ac6fb651f5b42ab10546f95bcc1989f5d068ac.1920x1080.jpg?t=1782417302",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/f9ac6fb651f5b42ab10546f95bcc1989f5d068ac/ss_f9ac6fb651f5b42ab10546f95bcc1989f5d068ac.1920x1080.jpg?t=1787679092",
         "alt": "Mycopunk — 真菌朋克 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/8ad528803144d873d45ac255101822fe4c4b1f04/ss_8ad528803144d873d45ac255101822fe4c4b1f04.1920x1080.jpg?t=1782417302",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/8ad528803144d873d45ac255101822fe4c4b1f04/ss_8ad528803144d873d45ac255101822fe4c4b1f04.1920x1080.jpg?t=1787679092",
         "alt": "Mycopunk — 真菌朋克 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/99eee7d41d00747bd58560161f42886f3b330fb9/ss_99eee7d41d00747bd58560161f42886f3b330fb9.1920x1080.jpg?t=1782417302",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/99eee7d41d00747bd58560161f42886f3b330fb9/ss_99eee7d41d00747bd58560161f42886f3b330fb9.1920x1080.jpg?t=1787679092",
         "alt": "Mycopunk — 真菌朋克 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/046bec49765fe068957567de99ed863866e9036d/ss_046bec49765fe068957567de99ed863866e9036d.1920x1080.jpg?t=1782417302",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/046bec49765fe068957567de99ed863866e9036d/ss_046bec49765fe068957567de99ed863866e9036d.1920x1080.jpg?t=1787679092",
         "alt": "Mycopunk — 真菌朋克 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/f54cfd56bc64b96d7461c0655847f97ca1f227ac/ss_f54cfd56bc64b96d7461c0655847f97ca1f227ac.1920x1080.jpg?t=1782417302",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/f54cfd56bc64b96d7461c0655847f97ca1f227ac/ss_f54cfd56bc64b96d7461c0655847f97ca1f227ac.1920x1080.jpg?t=1787679092",
         "alt": "Mycopunk — 真菌朋克 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/0a27de2fd6b69a86e1d8311947b802c405eac06e/ss_0a27de2fd6b69a86e1d8311947b802c405eac06e.1920x1080.jpg?t=1782417302",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/0a27de2fd6b69a86e1d8311947b802c405eac06e/ss_0a27de2fd6b69a86e1d8311947b802c405eac06e.1920x1080.jpg?t=1787679092",
         "alt": "Mycopunk — 真菌朋克 产品截图"
       }
     ]

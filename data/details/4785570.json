@@ -45,87 +45,87 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 2824,
+      "value": 3068,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 1279,
+      "value": 1282,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 103,
+      "value": 105,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 7701,
+      "value": 8353,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 2886,
+      "value": 3134,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 2886,
+      "value": 3134,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 8.329039939060536,
+      "value": 8.023059409097264,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 126,
+      "value": 129,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
       "label": "评分",
-      "value": 77,
+      "value": 76,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 76.923077,
+      "value": 76.119403,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -141,35 +141,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/fcffe40e4103454b563b527740569864eb4f2b29/ss_fcffe40e4103454b563b527740569864eb4f2b29.1920x1080.jpg?t=1784121349",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/fcffe40e4103454b563b527740569864eb4f2b29/ss_fcffe40e4103454b563b527740569864eb4f2b29.1920x1080.jpg?t=1786758522",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/fcffe40e4103454b563b527740569864eb4f2b29/ss_fcffe40e4103454b563b527740569864eb4f2b29.1920x1080.jpg?t=1787580382",
         "alt": "别让猛鬼靠近我 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/5f0c50823a19916bb5716698aef155a6ac3895b2/ss_5f0c50823a19916bb5716698aef155a6ac3895b2.1920x1080.jpg?t=1786758522",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/5f0c50823a19916bb5716698aef155a6ac3895b2/ss_5f0c50823a19916bb5716698aef155a6ac3895b2.1920x1080.jpg?t=1787580382",
         "alt": "别让猛鬼靠近我 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/d5b2e5a025737fd962a75a38321c12edac27da63/ss_d5b2e5a025737fd962a75a38321c12edac27da63.1920x1080.jpg?t=1786758522",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/d5b2e5a025737fd962a75a38321c12edac27da63/ss_d5b2e5a025737fd962a75a38321c12edac27da63.1920x1080.jpg?t=1787580382",
         "alt": "别让猛鬼靠近我 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/5bb4cc17d7ffc115e21a810ec89e63a46450e583/ss_5bb4cc17d7ffc115e21a810ec89e63a46450e583.1920x1080.jpg?t=1786758522",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/5bb4cc17d7ffc115e21a810ec89e63a46450e583/ss_5bb4cc17d7ffc115e21a810ec89e63a46450e583.1920x1080.jpg?t=1787580382",
         "alt": "别让猛鬼靠近我 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/6ce6861344920cd193bfdea65837b21cc3cb5a41/ss_6ce6861344920cd193bfdea65837b21cc3cb5a41.1920x1080.jpg?t=1786758522",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/6ce6861344920cd193bfdea65837b21cc3cb5a41/ss_6ce6861344920cd193bfdea65837b21cc3cb5a41.1920x1080.jpg?t=1787580382",
         "alt": "别让猛鬼靠近我 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/34682aedafceb1637e699ed1809c5d6fc2f86f1f/ss_34682aedafceb1637e699ed1809c5d6fc2f86f1f.1920x1080.jpg?t=1786758522",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/34682aedafceb1637e699ed1809c5d6fc2f86f1f/ss_34682aedafceb1637e699ed1809c5d6fc2f86f1f.1920x1080.jpg?t=1787580382",
         "alt": "别让猛鬼靠近我 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/43b50763de102469f8c75f0cffa4598337c9b60e/ss_43b50763de102469f8c75f0cffa4598337c9b60e.1920x1080.jpg?t=1786758522",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/43b50763de102469f8c75f0cffa4598337c9b60e/ss_43b50763de102469f8c75f0cffa4598337c9b60e.1920x1080.jpg?t=1787580382",
         "alt": "别让猛鬼靠近我 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/de11e2839c0e87a52ac22f0ff0e1872b012b8ffd/ss_de11e2839c0e87a52ac22f0ff0e1872b012b8ffd.1920x1080.jpg?t=1786758522",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785570/de11e2839c0e87a52ac22f0ff0e1872b012b8ffd/ss_de11e2839c0e87a52ac22f0ff0e1872b012b8ffd.1920x1080.jpg?t=1787580382",
         "alt": "别让猛鬼靠近我 产品截图"
       }
     ]

@@ -45,58 +45,58 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 1813,
+      "value": 1842,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 31963,
+      "value": 33328,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 980,
+      "value": 986,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 16901,
+      "value": 17154,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 1958,
+      "value": 2002,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 1958,
+      "value": 2002,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 4.045759197349685,
+      "value": 4.104802228285979,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
@@ -104,7 +104,7 @@
       "value": 101,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -112,20 +112,20 @@
       "value": 99,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 99.115044,
+      "value": 99.122807,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -141,35 +141,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/9ceefcbc14329f43cbd124673c7df55e3b87e40a/ss_9ceefcbc14329f43cbd124673c7df55e3b87e40a.1920x1080.jpg?t=1783040630",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/9ceefcbc14329f43cbd124673c7df55e3b87e40a/ss_9ceefcbc14329f43cbd124673c7df55e3b87e40a.1920x1080.jpg?t=1783040630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/9ceefcbc14329f43cbd124673c7df55e3b87e40a/ss_9ceefcbc14329f43cbd124673c7df55e3b87e40a.1920x1080.jpg?t=1787461556",
         "alt": "Freefall '95 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/61b39834999a08a7fa5ee76b98834104f383679d/ss_61b39834999a08a7fa5ee76b98834104f383679d.1920x1080.jpg?t=1783040630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/61b39834999a08a7fa5ee76b98834104f383679d/ss_61b39834999a08a7fa5ee76b98834104f383679d.1920x1080.jpg?t=1787461556",
         "alt": "Freefall '95 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/3864cd759f340d217b45bf35398c38828729a07d/ss_3864cd759f340d217b45bf35398c38828729a07d.1920x1080.jpg?t=1783040630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/3864cd759f340d217b45bf35398c38828729a07d/ss_3864cd759f340d217b45bf35398c38828729a07d.1920x1080.jpg?t=1787461556",
         "alt": "Freefall '95 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/88caa7793c482cf8cf05a35a686c0db67886e10f/ss_88caa7793c482cf8cf05a35a686c0db67886e10f.1920x1080.jpg?t=1783040630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/88caa7793c482cf8cf05a35a686c0db67886e10f/ss_88caa7793c482cf8cf05a35a686c0db67886e10f.1920x1080.jpg?t=1787461556",
         "alt": "Freefall '95 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/28c3115f12b189a2c4d46220cea2c7247e487bf4/ss_28c3115f12b189a2c4d46220cea2c7247e487bf4.1920x1080.jpg?t=1783040630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/28c3115f12b189a2c4d46220cea2c7247e487bf4/ss_28c3115f12b189a2c4d46220cea2c7247e487bf4.1920x1080.jpg?t=1787461556",
         "alt": "Freefall '95 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/dfdb3206aa3d7f3c5650963f78e7e4b8e63f5026/ss_dfdb3206aa3d7f3c5650963f78e7e4b8e63f5026.1920x1080.jpg?t=1783040630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/dfdb3206aa3d7f3c5650963f78e7e4b8e63f5026/ss_dfdb3206aa3d7f3c5650963f78e7e4b8e63f5026.1920x1080.jpg?t=1787461556",
         "alt": "Freefall '95 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/8e377a0b841a60072a43579bfc3538bc6b08b55e/ss_8e377a0b841a60072a43579bfc3538bc6b08b55e.1920x1080.jpg?t=1783040630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/8e377a0b841a60072a43579bfc3538bc6b08b55e/ss_8e377a0b841a60072a43579bfc3538bc6b08b55e.1920x1080.jpg?t=1787461556",
         "alt": "Freefall '95 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/6e58d0791bed401ef977db47159fb75b8ddedaec/ss_6e58d0791bed401ef977db47159fb75b8ddedaec.1920x1080.jpg?t=1783040630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144510/6e58d0791bed401ef977db47159fb75b8ddedaec/ss_6e58d0791bed401ef977db47159fb75b8ddedaec.1920x1080.jpg?t=1787461556",
         "alt": "Freefall '95 产品截图"
       }
     ]

@@ -45,18 +45,18 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 11134,
+      "value": 11122,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 30684,
+      "value": 30764,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
@@ -64,47 +64,47 @@
       "value": 1251,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 33073,
+      "value": 33042,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 12059,
+      "value": 12043,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 12059,
+      "value": 12043,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 3.4694114250549366,
+      "value": 3.474857052295201,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 366,
+      "value": 367,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -112,7 +112,7 @@
       "value": 80,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
@@ -120,12 +120,12 @@
       "value": 80.097087,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -141,35 +141,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_a5fd5d9875cdf9d00f87d1eecaf8ace0d7df0c21.1920x1080.jpg?t=1745432144",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_a5fd5d9875cdf9d00f87d1eecaf8ace0d7df0c21.1920x1080.jpg?t=1745432144",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_a5fd5d9875cdf9d00f87d1eecaf8ace0d7df0c21.1920x1080.jpg?t=1787634345",
         "alt": "Gnomes and Knights 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_a920b2a1b6926eec5cc36910b8e952136158eb41.1920x1080.jpg?t=1745432144",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_a920b2a1b6926eec5cc36910b8e952136158eb41.1920x1080.jpg?t=1787634345",
         "alt": "Gnomes and Knights 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_2f5396f357aa724645fa9b26c9cdde69d501ae04.1920x1080.jpg?t=1745432144",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_2f5396f357aa724645fa9b26c9cdde69d501ae04.1920x1080.jpg?t=1787634345",
         "alt": "Gnomes and Knights 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_4b94c192f40515a558655fbe741ead735b3f7da5.1920x1080.jpg?t=1745432144",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_4b94c192f40515a558655fbe741ead735b3f7da5.1920x1080.jpg?t=1787634345",
         "alt": "Gnomes and Knights 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_2119a0883ac341ebe7752c61409eddf46e80ef78.1920x1080.jpg?t=1745432144",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_2119a0883ac341ebe7752c61409eddf46e80ef78.1920x1080.jpg?t=1787634345",
         "alt": "Gnomes and Knights 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_ebb55e1b757deb6b98bf2cf630773d6f33fd9c84.1920x1080.jpg?t=1745432144",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_ebb55e1b757deb6b98bf2cf630773d6f33fd9c84.1920x1080.jpg?t=1787634345",
         "alt": "Gnomes and Knights 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_55dde81b9cb60756f087c7139c8ff017900da32d.1920x1080.jpg?t=1745432144",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_55dde81b9cb60756f087c7139c8ff017900da32d.1920x1080.jpg?t=1787634345",
         "alt": "Gnomes and Knights 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_c883ec6e6bb3629760f084e632dc734bc7887c89.1920x1080.jpg?t=1745432144",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107880/ss_c883ec6e6bb3629760f084e632dc734bc7887c89.1920x1080.jpg?t=1787634345",
         "alt": "Gnomes and Knights 产品截图"
       }
     ]

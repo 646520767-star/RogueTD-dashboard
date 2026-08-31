@@ -177,87 +177,87 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 12017,
+      "value": 12047,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 21729,
+      "value": 21791,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 1366,
+      "value": 1378,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 79765,
+      "value": 80437,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 12349,
+      "value": 12441,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 12349,
+      "value": 12441,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 9.310014695760083,
+      "value": 16.497704692981543,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 200,
+      "value": 211,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
       "label": "评分",
-      "value": 79,
+      "value": 77,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 79.52381,
+      "value": 76.923077,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [
     "界面显得粗糙且操作笨拙",
@@ -281,35 +281,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28/ss_8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28.1920x1080.jpg?t=1783315915",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28/ss_8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28.1920x1080.jpg?t=1786527630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28/ss_8bb4b71a5ca5b3d830dfdc30beb9a86115beaa28.1920x1080.jpg?t=1787218928",
         "alt": "城门血战 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/11a4acd6c880ec4aeaf6d414335526ada5e53876/ss_11a4acd6c880ec4aeaf6d414335526ada5e53876.1920x1080.jpg?t=1786527630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/11a4acd6c880ec4aeaf6d414335526ada5e53876/ss_11a4acd6c880ec4aeaf6d414335526ada5e53876.1920x1080.jpg?t=1787218928",
         "alt": "城门血战 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/a025e28951e9fb01fc33fe8af5259d5e53301dc2/ss_a025e28951e9fb01fc33fe8af5259d5e53301dc2.1920x1080.jpg?t=1786527630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/a025e28951e9fb01fc33fe8af5259d5e53301dc2/ss_a025e28951e9fb01fc33fe8af5259d5e53301dc2.1920x1080.jpg?t=1787218928",
         "alt": "城门血战 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/d0a4143a39173d1b1975600da46283407c39f110/ss_d0a4143a39173d1b1975600da46283407c39f110.1920x1080.jpg?t=1786527630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/d0a4143a39173d1b1975600da46283407c39f110/ss_d0a4143a39173d1b1975600da46283407c39f110.1920x1080.jpg?t=1787218928",
         "alt": "城门血战 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/52c62240e56ed1c239598a848b391c1f797c5544/ss_52c62240e56ed1c239598a848b391c1f797c5544.1920x1080.jpg?t=1786527630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/52c62240e56ed1c239598a848b391c1f797c5544/ss_52c62240e56ed1c239598a848b391c1f797c5544.1920x1080.jpg?t=1787218928",
         "alt": "城门血战 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/dd24fc5e36b6cd94c9b79542504c691454de8018/ss_dd24fc5e36b6cd94c9b79542504c691454de8018.1920x1080.jpg?t=1786527630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/dd24fc5e36b6cd94c9b79542504c691454de8018/ss_dd24fc5e36b6cd94c9b79542504c691454de8018.1920x1080.jpg?t=1787218928",
         "alt": "城门血战 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/2670e5d8d7a5d53f710c813f61870f6537bfd1c2/ss_2670e5d8d7a5d53f710c813f61870f6537bfd1c2.1920x1080.jpg?t=1786527630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/2670e5d8d7a5d53f710c813f61870f6537bfd1c2/ss_2670e5d8d7a5d53f710c813f61870f6537bfd1c2.1920x1080.jpg?t=1787218928",
         "alt": "城门血战 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/06b286130fbaebc8a505898ee59d90459a963a80/ss_06b286130fbaebc8a505898ee59d90459a963a80.1920x1080.jpg?t=1786527630",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975750/06b286130fbaebc8a505898ee59d90459a963a80/ss_06b286130fbaebc8a505898ee59d90459a963a80.1920x1080.jpg?t=1787218928",
         "alt": "城门血战 产品截图"
       }
     ]

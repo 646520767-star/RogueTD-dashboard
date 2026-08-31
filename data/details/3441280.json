@@ -176,66 +176,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 22660,
+      "value": 23395,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 19178,
+      "value": 19227,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 753,
+      "value": 756,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 88635,
+      "value": 91764,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 23215,
+      "value": 23954,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 23215,
+      "value": 23954,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 2.819366353001702,
+      "value": 3.8949608472872304,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 452,
+      "value": 464,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -243,20 +243,20 @@
       "value": 97,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 96.801706,
+      "value": 96.875,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [
     "最后一关完成过程痛苦",
@@ -281,35 +281,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/b4d3a06393dfbcf739eb9cfcd18cd31ed67c3909/ss_b4d3a06393dfbcf739eb9cfcd18cd31ed67c3909.1920x1080.jpg?t=1784552696",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/b4d3a06393dfbcf739eb9cfcd18cd31ed67c3909/ss_b4d3a06393dfbcf739eb9cfcd18cd31ed67c3909.1920x1080.jpg?t=1786957933",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/b4d3a06393dfbcf739eb9cfcd18cd31ed67c3909/ss_b4d3a06393dfbcf739eb9cfcd18cd31ed67c3909.1920x1080.jpg?t=1787727269",
         "alt": "The Greenening 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/10fd445fdd2f08423debd01a961e11ac403f05f1/ss_10fd445fdd2f08423debd01a961e11ac403f05f1.1920x1080.jpg?t=1786957933",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/10fd445fdd2f08423debd01a961e11ac403f05f1/ss_10fd445fdd2f08423debd01a961e11ac403f05f1.1920x1080.jpg?t=1787727269",
         "alt": "The Greenening 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/558fb733d1f62fb54d24b743b8976288e2301cc7/ss_558fb733d1f62fb54d24b743b8976288e2301cc7.1920x1080.jpg?t=1786957933",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/558fb733d1f62fb54d24b743b8976288e2301cc7/ss_558fb733d1f62fb54d24b743b8976288e2301cc7.1920x1080.jpg?t=1787727269",
         "alt": "The Greenening 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/b2000e8b72ed53f72fb7faaea15ae7b6d00655b9/ss_b2000e8b72ed53f72fb7faaea15ae7b6d00655b9.1920x1080.jpg?t=1786957933",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/b2000e8b72ed53f72fb7faaea15ae7b6d00655b9/ss_b2000e8b72ed53f72fb7faaea15ae7b6d00655b9.1920x1080.jpg?t=1787727269",
         "alt": "The Greenening 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/e2ac53a3183a4b982332a52230d25c3710ee8331/ss_e2ac53a3183a4b982332a52230d25c3710ee8331.1920x1080.jpg?t=1786957933",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/e2ac53a3183a4b982332a52230d25c3710ee8331/ss_e2ac53a3183a4b982332a52230d25c3710ee8331.1920x1080.jpg?t=1787727269",
         "alt": "The Greenening 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/c107f67cc3fddbe470e2a96a304df22989ab3b6a/ss_c107f67cc3fddbe470e2a96a304df22989ab3b6a.1920x1080.jpg?t=1786957933",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/c107f67cc3fddbe470e2a96a304df22989ab3b6a/ss_c107f67cc3fddbe470e2a96a304df22989ab3b6a.1920x1080.jpg?t=1787727269",
         "alt": "The Greenening 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/85960528b08a3e98a956eef47982d8118c7dd916/ss_85960528b08a3e98a956eef47982d8118c7dd916.1920x1080.jpg?t=1786957933",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/85960528b08a3e98a956eef47982d8118c7dd916/ss_85960528b08a3e98a956eef47982d8118c7dd916.1920x1080.jpg?t=1787727269",
         "alt": "The Greenening 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/83169d4a3e48a3450e1a87ee72c02725f20f233c/ss_83169d4a3e48a3450e1a87ee72c02725f20f233c.1920x1080.jpg?t=1786957933",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441280/83169d4a3e48a3450e1a87ee72c02725f20f233c/ss_83169d4a3e48a3450e1a87ee72c02725f20f233c.1920x1080.jpg?t=1787727269",
         "alt": "The Greenening 产品截图"
       }
     ]

@@ -45,66 +45,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 3481,
+      "value": 3505,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 8949,
+      "value": 8973,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 576,
+      "value": 577,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 7474,
+      "value": 7552,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 3756,
+      "value": 3779,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 3756,
+      "value": 3779,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 10.720360401239306,
+      "value": 10.79737786380737,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 120,
+      "value": 121,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -112,20 +112,20 @@
       "value": 91,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 91.044776,
+      "value": 91.111111,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -141,27 +141,23 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_ba35e663ebbf966d9f983dedda4230abaaa7a939.1920x1080.jpg?t=1768636873",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_ba35e663ebbf966d9f983dedda4230abaaa7a939.1920x1080.jpg?t=1768636873",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_ba35e663ebbf966d9f983dedda4230abaaa7a939.1920x1080.jpg?t=1787438074",
         "alt": "Solace Inc. 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_ac951d5ef2d67151a6eb9f54463d01a99001e822.1920x1080.jpg?t=1768636873",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_ac951d5ef2d67151a6eb9f54463d01a99001e822.1920x1080.jpg?t=1787438074",
         "alt": "Solace Inc. 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_379179541b1ec757aa89e83c0f3bdc4b850d9f79.1920x1080.jpg?t=1768636873",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_379179541b1ec757aa89e83c0f3bdc4b850d9f79.1920x1080.jpg?t=1787438074",
         "alt": "Solace Inc. 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_9b3afb920840128847a5f591dd30f5483377e67d.1920x1080.jpg?t=1768636873",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_9b3afb920840128847a5f591dd30f5483377e67d.1920x1080.jpg?t=1787438074",
         "alt": "Solace Inc. 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_5059607440a74bdf414f36b6a4de3283e57d9b02.1920x1080.jpg?t=1768636873",
-        "alt": "Solace Inc. 产品截图"
-      },
-      {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_45472266f70133177a6cec5cf88f9239997e2570.1920x1080.jpg?t=1768636873",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778250/ss_45472266f70133177a6cec5cf88f9239997e2570.1920x1080.jpg?t=1787438074",
         "alt": "Solace Inc. 产品截图"
       }
     ]

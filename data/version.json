@@ -1,7 +1,7 @@
 {
-  "version": "dashboard-v2026.08.17-preview",
+  "version": "dashboard-v2026.08.28-preview",
   "pipeline": "pipeline_v1.0.2-production",
-  "observation_date": "2026-08-17",
+  "observation_date": "2026-08-28",
   "publication_status": "preview_only",
-  "generated_at": "2026-08-21T16:50:35+08:00"
+  "generated_at": "2026-08-31T12:39:37+08:00"
 }

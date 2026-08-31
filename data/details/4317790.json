@@ -9,7 +9,7 @@
       "Judatone Studios",
       "Elegoose Games"
     ],
-    "release_status": "coming_soon",
+    "release_status": "early_access",
     "release_date": "2026-08-18",
     "tags": [
       "在线合作",
@@ -87,131 +87,131 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 0,
+      "value": 21819,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 123284,
+      "value": 160232,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 5596,
+      "value": 7806,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 0,
+      "value": 125481,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 0,
+      "value": 23936,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 0,
+      "value": 23936,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 0,
+      "value": 4.088919437433693,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 0,
+      "value": 242,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
       "label": "评分",
-      "value": 0,
+      "value": 74,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": null,
+      "value": 75,
       "unit": "%",
-      "state": "unavailable",
-      "date": "2026-08-17"
+      "state": "available",
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
     {
-      "label": "持续跟踪",
-      "target": "发售日期、愿望单与关注人数",
-      "reason": "Last Pirates: Die Together位于受期待新品池。",
-      "trigger": "发售或关键指标显著变化时更新。",
-      "priority": "高"
+      "label": "原型验证",
+      "target": "核心循环与移动端交互",
+      "reason": "Last Pirates: Die Together位于新品观察池。",
+      "trigger": "补充玩家证据或完成轻量原型后更新。",
+      "priority": "中"
     }
   ],
   "media": {
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/7719669a264bc1ed0c56bf40571d96ddf4654bc1/ss_7719669a264bc1ed0c56bf40571d96ddf4654bc1.1920x1080.jpg?t=1783079406",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/7719669a264bc1ed0c56bf40571d96ddf4654bc1/ss_7719669a264bc1ed0c56bf40571d96ddf4654bc1.1920x1080.jpg?t=1786726214",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/29eb0c076120bac764342f7b6e3f61e7038354b3/ss_29eb0c076120bac764342f7b6e3f61e7038354b3.1920x1080.jpg?t=1787834375",
         "alt": "Last Pirates: Die Together 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/0f46e57141644823bd841250f304f68c0ee3cbaf/ss_0f46e57141644823bd841250f304f68c0ee3cbaf.1920x1080.jpg?t=1786726214",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/0f46e57141644823bd841250f304f68c0ee3cbaf/ss_0f46e57141644823bd841250f304f68c0ee3cbaf.1920x1080.jpg?t=1787834375",
         "alt": "Last Pirates: Die Together 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/1d4f66666f0077e368a0427d0fa9dd45a3e9c4d2/ss_1d4f66666f0077e368a0427d0fa9dd45a3e9c4d2.1920x1080.jpg?t=1786726214",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/15a0298078165ff821ef9ab9eff1355e88c3897c/ss_15a0298078165ff821ef9ab9eff1355e88c3897c.1920x1080.jpg?t=1787834375",
         "alt": "Last Pirates: Die Together 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/0044f1feb6e7b2cdfd03f97754bf65656bf52180/ss_0044f1feb6e7b2cdfd03f97754bf65656bf52180.1920x1080.jpg?t=1786726214",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/0044f1feb6e7b2cdfd03f97754bf65656bf52180/ss_0044f1feb6e7b2cdfd03f97754bf65656bf52180.1920x1080.jpg?t=1787834375",
         "alt": "Last Pirates: Die Together 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/29eb0c076120bac764342f7b6e3f61e7038354b3/ss_29eb0c076120bac764342f7b6e3f61e7038354b3.1920x1080.jpg?t=1786726214",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/cf8c2b51b88e03b114e63aa6899fead882a7b284/ss_cf8c2b51b88e03b114e63aa6899fead882a7b284.1920x1080.jpg?t=1787834375",
         "alt": "Last Pirates: Die Together 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/cf8c2b51b88e03b114e63aa6899fead882a7b284/ss_cf8c2b51b88e03b114e63aa6899fead882a7b284.1920x1080.jpg?t=1786726214",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/2b321a16df647c0a537c232c5197dfdb8e1c2fd4/ss_2b321a16df647c0a537c232c5197dfdb8e1c2fd4.1920x1080.jpg?t=1787834375",
         "alt": "Last Pirates: Die Together 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/2b321a16df647c0a537c232c5197dfdb8e1c2fd4/ss_2b321a16df647c0a537c232c5197dfdb8e1c2fd4.1920x1080.jpg?t=1786726214",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/b299ecc29cd250c86d371b7a660c6ddf96c8a537/ss_b299ecc29cd250c86d371b7a660c6ddf96c8a537.1920x1080.jpg?t=1787834375",
         "alt": "Last Pirates: Die Together 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/591038196eea4ef4ce839f19f352bb4c19d30817/ss_591038196eea4ef4ce839f19f352bb4c19d30817.1920x1080.jpg?t=1786726214",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317790/b4c3e89d53dd1a73bd1bbbe1bce57290033f9ece/ss_b4c3e89d53dd1a73bd1bbbe1bce57290033f9ece.1920x1080.jpg?t=1787834375",
         "alt": "Last Pirates: Die Together 产品截图"
       }
     ]

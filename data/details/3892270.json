@@ -176,66 +176,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 3351487,
+      "value": 3467647,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 790120,
+      "value": 802438,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 41131,
+      "value": 42471,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 19304340,
+      "value": 20065113,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 3778286,
+      "value": 3913169,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 3778286,
+      "value": 3913169,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 5.012326335044372,
+      "value": 5.020690222216237,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 16370,
+      "value": 17041,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -243,20 +243,20 @@
       "value": 90,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 89.764664,
+      "value": 89.797118,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [
     "超过配额没有额外意义。",
@@ -279,35 +279,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/46a2a2c1593b57eb3b8948a68be504e8d91d3912/ss_46a2a2c1593b57eb3b8948a68be504e8d91d3912.1920x1080.jpg?t=1782258835",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/46a2a2c1593b57eb3b8948a68be504e8d91d3912/ss_46a2a2c1593b57eb3b8948a68be504e8d91d3912.1920x1080.jpg?t=1785797127",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/46a2a2c1593b57eb3b8948a68be504e8d91d3912/ss_46a2a2c1593b57eb3b8948a68be504e8d91d3912.1920x1080.jpg?t=1787564331",
         "alt": "Gamble With Your Friends 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/e3514d1723232a988324d08834e8784e6ad355c2/ss_e3514d1723232a988324d08834e8784e6ad355c2.1920x1080.jpg?t=1785797127",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/e3514d1723232a988324d08834e8784e6ad355c2/ss_e3514d1723232a988324d08834e8784e6ad355c2.1920x1080.jpg?t=1787564331",
         "alt": "Gamble With Your Friends 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/feeb63575e000a1a2127c4440f11bf8e0c4e428b/ss_feeb63575e000a1a2127c4440f11bf8e0c4e428b.1920x1080.jpg?t=1785797127",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/feeb63575e000a1a2127c4440f11bf8e0c4e428b/ss_feeb63575e000a1a2127c4440f11bf8e0c4e428b.1920x1080.jpg?t=1787564331",
         "alt": "Gamble With Your Friends 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/cfb1d0bb25fe2af094eec6b5fb32726c684e423e/ss_cfb1d0bb25fe2af094eec6b5fb32726c684e423e.1920x1080.jpg?t=1785797127",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/cfb1d0bb25fe2af094eec6b5fb32726c684e423e/ss_cfb1d0bb25fe2af094eec6b5fb32726c684e423e.1920x1080.jpg?t=1787564331",
         "alt": "Gamble With Your Friends 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/a4c4607121c84eef4914a3a0cdf2a564dff8947d/ss_a4c4607121c84eef4914a3a0cdf2a564dff8947d.1920x1080.jpg?t=1785797127",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/a4c4607121c84eef4914a3a0cdf2a564dff8947d/ss_a4c4607121c84eef4914a3a0cdf2a564dff8947d.1920x1080.jpg?t=1787564331",
         "alt": "Gamble With Your Friends 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/f4c7252db93bdf6df240a7eeeb13476c00d393cd/ss_f4c7252db93bdf6df240a7eeeb13476c00d393cd.1920x1080.jpg?t=1785797127",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/f4c7252db93bdf6df240a7eeeb13476c00d393cd/ss_f4c7252db93bdf6df240a7eeeb13476c00d393cd.1920x1080.jpg?t=1787564331",
         "alt": "Gamble With Your Friends 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/9dbd90ccfc8b5922356dfb83d9c32dd033632c33/ss_9dbd90ccfc8b5922356dfb83d9c32dd033632c33.1920x1080.jpg?t=1785797127",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/9dbd90ccfc8b5922356dfb83d9c32dd033632c33/ss_9dbd90ccfc8b5922356dfb83d9c32dd033632c33.1920x1080.jpg?t=1787564331",
         "alt": "Gamble With Your Friends 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/c26843af07ec2117ffa713aa33cdaec6e15b8447/ss_c26843af07ec2117ffa713aa33cdaec6e15b8447.1920x1080.jpg?t=1785797127",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/c26843af07ec2117ffa713aa33cdaec6e15b8447/ss_c26843af07ec2117ffa713aa33cdaec6e15b8447.1920x1080.jpg?t=1787564331",
         "alt": "Gamble With Your Friends 产品截图"
       }
     ]

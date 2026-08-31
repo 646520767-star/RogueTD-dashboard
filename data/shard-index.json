@@ -5,7 +5,7 @@
     {
       "key": "00",
       "path": "data/product-shards/00.json",
-      "product_count": 370
+      "product_count": 373
     },
     {
       "key": "01",
@@ -15,7 +15,7 @@
     {
       "key": "02",
       "path": "data/product-shards/02.json",
-      "product_count": 332
+      "product_count": 338
     },
     {
       "key": "03",
@@ -25,7 +25,7 @@
     {
       "key": "04",
       "path": "data/product-shards/04.json",
-      "product_count": 345
+      "product_count": 356
     },
     {
       "key": "05",
@@ -35,7 +35,7 @@
     {
       "key": "06",
       "path": "data/product-shards/06.json",
-      "product_count": 349
+      "product_count": 359
     },
     {
       "key": "07",
@@ -45,7 +45,7 @@
     {
       "key": "08",
       "path": "data/product-shards/08.json",
-      "product_count": 343
+      "product_count": 351
     },
     {
       "key": "09",
@@ -55,7 +55,7 @@
     {
       "key": "10",
       "path": "data/product-shards/10.json",
-      "product_count": 359
+      "product_count": 363
     },
     {
       "key": "11",
@@ -65,7 +65,7 @@
     {
       "key": "12",
       "path": "data/product-shards/12.json",
-      "product_count": 336
+      "product_count": 342
     },
     {
       "key": "13",
@@ -75,7 +75,7 @@
     {
       "key": "14",
       "path": "data/product-shards/14.json",
-      "product_count": 358
+      "product_count": 365
     },
     {
       "key": "15",
@@ -85,7 +85,7 @@
     {
       "key": "16",
       "path": "data/product-shards/16.json",
-      "product_count": 329
+      "product_count": 337
     },
     {
       "key": "17",
@@ -95,7 +95,7 @@
     {
       "key": "18",
       "path": "data/product-shards/18.json",
-      "product_count": 325
+      "product_count": 329
     },
     {
       "key": "19",
@@ -105,7 +105,7 @@
     {
       "key": "20",
       "path": "data/product-shards/20.json",
-      "product_count": 344
+      "product_count": 347
     },
     {
       "key": "21",
@@ -115,7 +115,7 @@
     {
       "key": "22",
       "path": "data/product-shards/22.json",
-      "product_count": 344
+      "product_count": 350
     },
     {
       "key": "23",
@@ -125,7 +125,7 @@
     {
       "key": "24",
       "path": "data/product-shards/24.json",
-      "product_count": 328
+      "product_count": 337
     },
     {
       "key": "25",
@@ -135,7 +135,7 @@
     {
       "key": "26",
       "path": "data/product-shards/26.json",
-      "product_count": 358
+      "product_count": 363
     },
     {
       "key": "27",
@@ -145,7 +145,7 @@
     {
       "key": "28",
       "path": "data/product-shards/28.json",
-      "product_count": 347
+      "product_count": 356
     },
     {
       "key": "29",
@@ -155,7 +155,7 @@
     {
       "key": "30",
       "path": "data/product-shards/30.json",
-      "product_count": 350
+      "product_count": 351
     },
     {
       "key": "31",
@@ -165,7 +165,7 @@
     {
       "key": "32",
       "path": "data/product-shards/32.json",
-      "product_count": 348
+      "product_count": 351
     },
     {
       "key": "33",
@@ -175,7 +175,7 @@
     {
       "key": "34",
       "path": "data/product-shards/34.json",
-      "product_count": 329
+      "product_count": 335
     },
     {
       "key": "35",
@@ -185,7 +185,7 @@
     {
       "key": "36",
       "path": "data/product-shards/36.json",
-      "product_count": 347
+      "product_count": 351
     },
     {
       "key": "37",
@@ -195,7 +195,7 @@
     {
       "key": "38",
       "path": "data/product-shards/38.json",
-      "product_count": 332
+      "product_count": 333
     },
     {
       "key": "39",
@@ -205,7 +205,7 @@
     {
       "key": "40",
       "path": "data/product-shards/40.json",
-      "product_count": 358
+      "product_count": 359
     },
     {
       "key": "41",
@@ -215,7 +215,7 @@
     {
       "key": "42",
       "path": "data/product-shards/42.json",
-      "product_count": 353
+      "product_count": 356
     },
     {
       "key": "43",
@@ -225,7 +225,7 @@
     {
       "key": "44",
       "path": "data/product-shards/44.json",
-      "product_count": 342
+      "product_count": 351
     },
     {
       "key": "45",
@@ -235,7 +235,7 @@
     {
       "key": "46",
       "path": "data/product-shards/46.json",
-      "product_count": 342
+      "product_count": 353
     },
     {
       "key": "47",
@@ -245,7 +245,7 @@
     {
       "key": "48",
       "path": "data/product-shards/48.json",
-      "product_count": 312
+      "product_count": 323
     },
     {
       "key": "49",
@@ -255,7 +255,7 @@
     {
       "key": "50",
       "path": "data/product-shards/50.json",
-      "product_count": 364
+      "product_count": 369
     },
     {
       "key": "51",
@@ -265,7 +265,7 @@
     {
       "key": "52",
       "path": "data/product-shards/52.json",
-      "product_count": 362
+      "product_count": 370
     },
     {
       "key": "53",
@@ -275,7 +275,7 @@
     {
       "key": "54",
       "path": "data/product-shards/54.json",
-      "product_count": 319
+      "product_count": 330
     },
     {
       "key": "55",
@@ -285,7 +285,7 @@
     {
       "key": "56",
       "path": "data/product-shards/56.json",
-      "product_count": 346
+      "product_count": 352
     },
     {
       "key": "57",
@@ -295,7 +295,7 @@
     {
       "key": "58",
       "path": "data/product-shards/58.json",
-      "product_count": 362
+      "product_count": 371
     },
     {
       "key": "59",
@@ -305,7 +305,7 @@
     {
       "key": "60",
       "path": "data/product-shards/60.json",
-      "product_count": 336
+      "product_count": 342
     },
     {
       "key": "61",
@@ -315,7 +315,7 @@
     {
       "key": "62",
       "path": "data/product-shards/62.json",
-      "product_count": 364
+      "product_count": 370
     },
     {
       "key": "63",

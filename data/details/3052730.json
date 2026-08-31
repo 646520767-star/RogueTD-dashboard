@@ -46,66 +46,66 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 17481,
+      "value": 24282,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 61368,
+      "value": 82037,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 6249,
+      "value": 7593,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 288335,
+      "value": 383111,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 18235,
+      "value": 25321,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 18235,
+      "value": 25321,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 13.524168826753014,
+      "value": 33.84223595820999,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 303,
+      "value": 321,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
@@ -113,20 +113,20 @@
       "value": 85,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 85.448916,
+      "value": 85.422741,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -142,35 +142,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/37e68225ac802831d8e00f02811c712ca6d0e68c/ss_37e68225ac802831d8e00f02811c712ca6d0e68c.1920x1080.jpg?t=1784033700",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/37e68225ac802831d8e00f02811c712ca6d0e68c/ss_37e68225ac802831d8e00f02811c712ca6d0e68c.1920x1080.jpg?t=1784033700",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/37e68225ac802831d8e00f02811c712ca6d0e68c/ss_37e68225ac802831d8e00f02811c712ca6d0e68c.1920x1080.jpg?t=1787750997",
         "alt": "Here Comes The Swarm 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/5b4c7817647d8586c9d9f8d2e78a004fa701e323/ss_5b4c7817647d8586c9d9f8d2e78a004fa701e323.1920x1080.jpg?t=1784033700",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/5b4c7817647d8586c9d9f8d2e78a004fa701e323/ss_5b4c7817647d8586c9d9f8d2e78a004fa701e323.1920x1080.jpg?t=1787750997",
         "alt": "Here Comes The Swarm 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/bd81de158a9e331c795c201a1aca2ae243dc869f/ss_bd81de158a9e331c795c201a1aca2ae243dc869f.1920x1080.jpg?t=1784033700",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/bd81de158a9e331c795c201a1aca2ae243dc869f/ss_bd81de158a9e331c795c201a1aca2ae243dc869f.1920x1080.jpg?t=1787750997",
         "alt": "Here Comes The Swarm 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/77dab8d70f57ebb517c23cd81380489446417fc0/ss_77dab8d70f57ebb517c23cd81380489446417fc0.1920x1080.jpg?t=1784033700",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/77dab8d70f57ebb517c23cd81380489446417fc0/ss_77dab8d70f57ebb517c23cd81380489446417fc0.1920x1080.jpg?t=1787750997",
         "alt": "Here Comes The Swarm 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/5117a0863f5732fbff1ffbd3e22b4d300465e384/ss_5117a0863f5732fbff1ffbd3e22b4d300465e384.1920x1080.jpg?t=1784033700",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/5117a0863f5732fbff1ffbd3e22b4d300465e384/ss_5117a0863f5732fbff1ffbd3e22b4d300465e384.1920x1080.jpg?t=1787750997",
         "alt": "Here Comes The Swarm 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/760a288f337625ff02e4ceb785c8afbe4f4fe50c/ss_760a288f337625ff02e4ceb785c8afbe4f4fe50c.1920x1080.jpg?t=1784033700",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/760a288f337625ff02e4ceb785c8afbe4f4fe50c/ss_760a288f337625ff02e4ceb785c8afbe4f4fe50c.1920x1080.jpg?t=1787750997",
         "alt": "Here Comes The Swarm 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/027f8c6d0494f19378f330730a29a7ae2e32812d/ss_027f8c6d0494f19378f330730a29a7ae2e32812d.1920x1080.jpg?t=1784033700",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/027f8c6d0494f19378f330730a29a7ae2e32812d/ss_027f8c6d0494f19378f330730a29a7ae2e32812d.1920x1080.jpg?t=1787750997",
         "alt": "Here Comes The Swarm 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/ss_a7dc678636984120dae7a395f39e56d54458dfd1.1920x1080.jpg?t=1784033700",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052730/ss_a7dc678636984120dae7a395f39e56d54458dfd1.1920x1080.jpg?t=1787750997",
         "alt": "Here Comes The Swarm 产品截图"
       }
     ]

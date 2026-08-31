@@ -1,13 +1,13 @@
 {
   "baseline_only": {
-    "appid": "4117730",
+    "appid": "3624140",
     "metric": "copiesSold",
-    "title": "Slayblade"
+    "title": "Wanderburg"
   },
   "two_point_change": {
-    "appid": "2514330",
+    "appid": "3546610",
     "metric": "copiesSold",
-    "title": "The Rabbit Haul"
+    "title": "Wielders of the Essence"
   },
   "multi_period_trend": {
     "appid": "4317690",
@@ -15,9 +15,9 @@
     "title": "Crimson Moon"
   },
   "definition_change": {
-    "appid": "2605790",
+    "appid": "3808690",
     "metric": "copiesSold",
-    "title": "Deep Rock Galactic: Rogue Core"
+    "title": "Pathogenic"
   },
   "missing_gap": {
     "appid": "4259190",

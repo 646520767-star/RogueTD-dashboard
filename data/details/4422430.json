@@ -45,87 +45,87 @@
     {
       "id": "sales",
       "label": "销量",
-      "value": 781,
+      "value": 837,
       "unit": "份",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "wishlist",
       "label": "愿望单",
-      "value": 7671,
+      "value": 7691,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "followers",
       "label": "关注人数",
-      "value": 1092,
+      "value": 1099,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "revenue",
       "label": "收入估算",
-      "value": 9533,
+      "value": 10263,
       "unit": "USD",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "players",
       "label": "玩家数",
-      "value": 916,
+      "value": 973,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "owners",
       "label": "拥有者估算",
-      "value": 916,
+      "value": 973,
       "unit": "人",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "playtime",
       "label": "平均游玩时长",
-      "value": 8.187830159082393,
+      "value": 8.126584441279116,
       "unit": "小时",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "reviews",
       "label": "Steam 评论数",
-      "value": 41,
+      "value": 44,
       "unit": "条",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "score",
       "label": "评分",
-      "value": 94,
+      "value": 95,
       "unit": "分",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     },
     {
       "id": "positive",
       "label": "Steam 好评率",
-      "value": 94.230769,
+      "value": 94.642857,
       "unit": "%",
       "state": "available",
-      "date": "2026-08-17"
+      "date": "2026-08-28"
     }
   ],
   "baseline": {
-    "date": "2026-08-17",
-    "message": "本期为 2026-08-17 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
+    "date": "2026-08-28",
+    "message": "本期为 2026-08-28 增量快照；已接受语义观点继续复用，客观指标和分池按本期更新。"
   },
   "risks": [],
   "actions": [
@@ -141,35 +141,35 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e9375349503695130c14eec71726d6732b9baa7c/ss_e9375349503695130c14eec71726d6732b9baa7c.1920x1080.jpg?t=1784217518",
     "screenshots": [
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e9375349503695130c14eec71726d6732b9baa7c/ss_e9375349503695130c14eec71726d6732b9baa7c.1920x1080.jpg?t=1785234731",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e9375349503695130c14eec71726d6732b9baa7c/ss_e9375349503695130c14eec71726d6732b9baa7c.1920x1080.jpg?t=1787310332",
         "alt": "DAICE 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/d34ae8692e127c7fdbdce02490e3db32127fe1f0/ss_d34ae8692e127c7fdbdce02490e3db32127fe1f0.1920x1080.jpg?t=1785234731",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/d34ae8692e127c7fdbdce02490e3db32127fe1f0/ss_d34ae8692e127c7fdbdce02490e3db32127fe1f0.1920x1080.jpg?t=1787310332",
         "alt": "DAICE 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/7aa46208e655a6fdb938598a499b9e8a6c60bd78/ss_7aa46208e655a6fdb938598a499b9e8a6c60bd78.1920x1080.jpg?t=1785234731",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/7aa46208e655a6fdb938598a499b9e8a6c60bd78/ss_7aa46208e655a6fdb938598a499b9e8a6c60bd78.1920x1080.jpg?t=1787310332",
         "alt": "DAICE 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e7caf11bb5647cc17cf74fda563ee03ec028effa/ss_e7caf11bb5647cc17cf74fda563ee03ec028effa.1920x1080.jpg?t=1785234731",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/e7caf11bb5647cc17cf74fda563ee03ec028effa/ss_e7caf11bb5647cc17cf74fda563ee03ec028effa.1920x1080.jpg?t=1787310332",
         "alt": "DAICE 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/110a470d1ed4291e1f72623c2d31fa70d1eeeafc/ss_110a470d1ed4291e1f72623c2d31fa70d1eeeafc.1920x1080.jpg?t=1785234731",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/110a470d1ed4291e1f72623c2d31fa70d1eeeafc/ss_110a470d1ed4291e1f72623c2d31fa70d1eeeafc.1920x1080.jpg?t=1787310332",
         "alt": "DAICE 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/6f08a5852ed6eaa863952c52ecb20cd00c96af2d/ss_6f08a5852ed6eaa863952c52ecb20cd00c96af2d.1920x1080.jpg?t=1785234731",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/6f08a5852ed6eaa863952c52ecb20cd00c96af2d/ss_6f08a5852ed6eaa863952c52ecb20cd00c96af2d.1920x1080.jpg?t=1787310332",
         "alt": "DAICE 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/61571619027d0bc41a0b1152888bb2783eb4f27c/ss_61571619027d0bc41a0b1152888bb2783eb4f27c.1920x1080.jpg?t=1785234731",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/61571619027d0bc41a0b1152888bb2783eb4f27c/ss_61571619027d0bc41a0b1152888bb2783eb4f27c.1920x1080.jpg?t=1787310332",
         "alt": "DAICE 产品截图"
       },
       {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/b9387d72ccb9a1a9b29cf7ec8121c0d8dffc0f66/ss_b9387d72ccb9a1a9b29cf7ec8121c0d8dffc0f66.1920x1080.jpg?t=1785234731",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422430/b9387d72ccb9a1a9b29cf7ec8121c0d8dffc0f66/ss_b9387d72ccb9a1a9b29cf7ec8121c0d8dffc0f66.1920x1080.jpg?t=1787310332",
         "alt": "DAICE 产品截图"
       }
     ]
